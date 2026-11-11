@@ -1,0 +1,681 @@
+{
+  "id": 69,
+  "title": "Feasibility and Experiences of HCT in Resource-Constrained Settings",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 48,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 602,
+      "blocks": [
+        {
+          "id": 6900001,
+          "page": 602,
+          "en": "69 Feasibility and Experiences of HCT in Resource-Constrained Settings\nAlok Srivastava, Fernando Barroso Duarte, and Lawrence Faulkner",
+          "zh": "69 資源受限環境下進行造血細胞移植之可行性與經驗 — Alok Srivastava、Fernando Barroso Duarte、Lawrence Faulkner",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_69"
+            }
+          ]
+        },
+        {
+          "id": 6900002,
+          "page": 602,
+          "en": "69.1 Introduction\nEven though hematopoietic cell transplant (HCT) has been in vogue for more than six decades as a curative therapy for many hematological disorders, with increasing trends in all parts of the world (Fig. 69.1), the density of HCT services is low and access to existing services remain an unmet need in the resource-constrained settings (RCSs) of low- and middle-income countries (LMICs) (Niederwieser et al. 2022). The silver lining though is that within these limitations, there are several examples of high-quality HCT services functioning in several countries, some with full national/international accreditation showing that even in those circumstances this is possible (Damodar et al. 2021). The goal of this chapter will be to discuss how good HCT services may be established and sustained in RCSs (Pasquini et al. 2019; Faulkner et al. 2021).",
+          "zh": "69.1 導論\n儘管造血細胞移植（HCT）作為許多血液疾病的治癒性療法已盛行超過六十年，且在世界各地均呈上升趨勢（圖 69.1），但在中低收入國家（LMICs）的資源受限環境（RCSs）中，HCT 服務的密度仍然偏低，且取得現有服務仍是未被滿足的需求（Niederwieser et al. 2022）。不過，一線希望在於，在這些限制之下，已有數個國家運作著高品質 HCT 服務的諸多實例，其中部分中心更獲得完整的國家／國際認證，顯示即使在這些情況下，這也是可行的（Damodar et al. 2021）。本章的目標在於探討如何在資源受限環境（RCSs）中建立並維持良好的 HCT 服務（Pasquini et al. 2019; Faulkner et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900003,
+          "page": 602,
+          "en": "A. Srivastava (*)\nChristian Medical College, Vellore, India\ne-mail: aloks@cmcvellore.ac.in\n\nF. B. Duarte\nHospital Universitário Walter Cantídio, Universidade Federal do Ceara/Hemoce, Fortaleza, Brazil\ne-mail: nutriquimio@uol.com.br\n\nL. Faulkner\nCure2Children Foundation, Florence, Italy\ne-mail: lawrence.faulkner@cure2children.org\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_69",
+          "zh": "作者單位與聯絡資訊：\nA. Srivastava（通訊作者）：印度韋洛爾基督教醫學院（Christian Medical College, Vellore）；電子郵件：aloks@cmcvellore.ac.in。\nF. B. Duarte：巴西福塔雷薩塞阿拉聯邦大學／Hemoce 沃爾特．坎蒂迪奧大學醫院（Hospital Universitário Walter Cantídio, Universidade Federal do Ceara/Hemoce）；電子郵件：nutriquimio@uol.com.br。\nL. Faulkner：義大利佛羅倫斯 Cure2Children 基金會（Cure2Children Foundation）；電子郵件：lawrence.faulkner@cure2children.org。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_69。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 603,
+      "blocks": [
+        {
+          "id": 6900004,
+          "page": 603,
+          "en": "Fig. 69. Trends in hematopoietic cell transplantation: a. APBMT; b. LABMT\n\n[Panels, axes, and series legends in Fig. 69 (cited in text as Fig. 69.1)]\nPanel a — APBMT (1986–2016):\n• Subpanel A:\n  – Vertical axis (N): 0, 1,000, 2,000, 3,000, 4,000, 5,000, 6,000\n  – Horizontal axis (Year): 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016\n  – Series: AML | ML | PCD | ALL | MDS or MDS/MPN | SAA\n• Subpanel B:\n  – Vertical axis (N): 0, 100, 200, 300, 400, 500, 600, 700, 800\n  – Horizontal axis (Year): 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016\n  – Series: Solid tumors | Hemoglobinopathy | CML\n\nPanel b — LABMT (2012–2018):\n• Subpanel (left, by transplant type):\n  – Vertical axis: 0, 1000, 2000, 3000, 4000, 5000, 6000\n  – Horizontal axis (Year): 2012, 2013, 2014, 2015, 2016, 2017, 2018\n  – Series: Allo HSCT (dashed line) | Auto HSCT (dotted line) | Total HSCT (solid line)\n• Subpanel (right, LABMT 2012 - 2018, by donor type):\n  – Vertical axis: 0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000\n  – Horizontal axis (Year): 2012, 2013, 2014, 2015, 2016, 2017, 2018\n  – Series: HLA Id Sib/Twin (solid line) | Haplo (dashed line) | Unrelated (dotted line)",
+          "zh": "圖 69.（內文引用為圖 69.1） 造血細胞移植之趨勢：a. 亞太血液與骨髓移植學會（APBMT）；b. 拉丁美洲血液與骨髓移植學會（LABMT）。\n\n【圖 69 各子圖、座標軸與圖例內容】\n子圖 a — APBMT（1986–2016 年）：\n• 子圖 A：\n  – 縱軸（N，例數）：0、1,000、2,000、3,000、4,000、5,000、6,000\n  – 橫軸（Year，年份）：1986、1988、1990、1992、1994、1996、1998、2000、2002、2004、2006、2008、2010、2012、2014、2016\n  – 疾病類別圖例：急性骨髓性白血病（AML）｜惡性淋巴瘤（ML）｜漿細胞疾病（PCD）｜急性淋巴性白血病（ALL）｜骨髓化生不良症候群或骨髓化生不良／骨髓增殖性腫瘤（MDS or MDS/MPN）｜重度再生不良性貧血（SAA）\n• 子圖 B：\n  – 縱軸（N，例數）：0、100、200、300、400、500、600、700、800\n  – 橫軸（Year，年份）：1986、1988、1990、1992、1994、1996、1998、2000、2002、2004、2006、2008、2010、2012、2014、2016\n  – 疾病類別圖例：實體腫瘤（Solid tumors）｜血紅素病變（Hemoglobinopathy）｜慢性骨髓性白血病（CML）\n\n子圖 b — LABMT（2012–2018 年）：\n• 左側子圖（依移植類型區分）：\n  – 縱軸（例數）：0、1000、2000、3000、4000、5000、6000\n  – 橫軸（年份）：2012、2013、2014、2015、2016、2017、2018\n  – 圖例：異體造血幹細胞移植（Allo HSCT，虛線）｜自體造血幹細胞移植（Auto HSCT，點線）｜總造血幹細胞移植（Total HSCT，實線）\n• 右側子圖（LABMT 2012 - 2018，依供者類型區分）：\n  – 縱軸（例數）：0、100、200、300、400、500、600、700、800、900、1000\n  – 橫軸（年份）：2012、2013、2014、2015、2016、2017、2018\n  – 圖例：HLA 相合手足／雙胞胎（HLA Id Sib/Twin，實線）｜半相合（Haplo，虛線）｜非親屬（Unrelated，點線）",
+          "review": "ai-draft",
+          "note": "趨勢圖保留於原 PDF；此處完整翻譯圖說與圖內所有子圖、座標軸及圖例文字。"
+        }
+      ]
+    },
+    {
+      "page": 604,
+      "blocks": [
+        {
+          "id": 6900005,
+          "page": 604,
+          "en": "Table 69.1 Stages of development of a HCT program\n\nColumns: [Category] | Stage I | Stage II | Stage III\n\nRow 1 — Types of transplantation performed:\n• Stage I:\n  – Autologous\n  – HLA-matched sib donors\n• Stage II:\n  – Stage I +\n  – All MSD transplants including MMSD\n  – Autologous with cryopreserved products\n• Stage III:\n  – Stage II +\n  – Haploidentical\n  – And/or MUD. MMUD\n  – And/or UCB\n  – And/or T-cell depleted\n\nRow 2 — Number of HCT:\n• Stage I:\n  – 5 Auto-HCT/year\n  – 3–5Allo-HCT/year\n• Stage II:\n  – 10 Auto-HCT/year\n  – 5–10 Allo-HCT/year\n• Stage III:\n  – >10 Auto-HCT/year\n  – >10 Allo-HCT/year\n\nFootnotes:\nMMSD indicates mismatched sibling donor, MSD matched sibling donor, MMUD mismatched unrelated donor, MUD matched unrelated donor, UCB umbilical cord blood, auto-HCT autologous hematopoietic cell transplant, allo-HCT allogeneic hematopoietic cell transplant\nTransplantation and Cellular Therapy. 2021 Mar;27(3):267 e1–5",
+          "zh": "表 69.1 造血細胞移植（HCT）計畫的發展階段\n\n欄位：［項目］｜第一階段（Stage I）｜第二階段（Stage II）｜第三階段（Stage III）\n\n第 1 列 — 執行的移植類型（Types of transplantation performed）：\n• 第一階段（Stage I）：\n  – 自體移植（Autologous）\n  – HLA 相合手足供者（HLA-matched sib donors）\n• 第二階段（Stage II）：\n  – 第一階段（Stage I）+\n  – 所有相合手足供者（MSD）移植，包含不相合手足供者（MMSD）\n  – 使用冷凍保存產品之自體移植（Autologous with cryopreserved products）\n• 第三階段（Stage III）：\n  – 第二階段（Stage II）+\n  – 半相合移植（Haploidentical）\n  – 及／或相合非親屬供者（MUD）、不相合非親屬供者（MMUD）\n  – 及／或臍帶血（UCB）\n  – 及／或去除 T 細胞（T-cell depleted）\n\n第 2 列 — 造血細胞移植例數（Number of HCT）：\n• 第一階段（Stage I）：\n  – 每年 5 例自體 HCT（5 Auto-HCT/year）\n  – 每年 3–5 例異體 HCT（3–5Allo-HCT/year）\n• 第二階段（Stage II）：\n  – 每年 10 例自體 HCT（10 Auto-HCT/year）\n  – 每年 5–10 例異體 HCT（5–10 Allo-HCT/year）\n• 第三階段（Stage III）：\n  – 每年 >10 例自體 HCT（>10 Auto-HCT/year）\n  – 每年 >10 例異體 HCT（>10 Allo-HCT/year）\n\n腳註：\nMMSD 表不相合手足供者（mismatched sibling donor），MSD 表相合手足供者（matched sibling donor），MMUD 表不相合非親屬供者（mismatched unrelated donor），MUD 表相合非親屬供者（matched unrelated donor），UCB 表臍帶血（umbilical cord blood），auto-HCT 表自體造血細胞移植（autologous hematopoietic cell transplant），allo-HCT 表異體造血細胞移植（allogeneic hematopoietic cell transplant）。\n出處：Transplantation and Cellular Therapy. 2021 Mar;27(3):267 e1–5。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900006,
+          "page": 604,
+          "en": "69.2 Establishing HCT Centers: Personnel/Infrastructure/Types of HCTs\nAll HCT centers even within RCS will ultimately need to offer the full range of HCT services for pediatric and adult patients depending on the indications for the patients being served. However, the most critical issue in determining the focus and direction of any new HCT service is the training and experience of the lead transplant physician and the access to various support infrastructure, as exemplified in a recent report from Bangladesh and Nepal (Mahfuz et al. 2021; Poudyal et al. 2022). While it would be desirable for HCT services to be offered in government-funded public hospitals, this has not been a successful model in many RCS where paradoxically HCT rates are higher when services are offered in private hospitals as reported from Latin America (Jaimovich et al. 2021). Autologous HCT in the context of malignancies is often the starting point particularly if cryopreservation facilities are available with the exception of multiple myeloma where the very short conditioning does not require this. However, starting with allogeneic HCT particularly for nonmalignant conditions, such as bone marrow failure syndromes, major hemoglobin, and immune deficiency disorders, is also not uncommon with very good results expected in children particularly with matched related donors (MRDs) but increasingly also with alternate donors. There is no clear recommendation on this aspect of starting an HCT service except that the lead physician and the team should be adequately trained for the services they wish to start. A suggested approach is shown in Table 69.1. It is of course very common for such physicians to seek real-time “consultative” help from experienced physicians at other more established centers.",
+          "zh": "69.2 建立 HCT 中心：人員／基礎設施／HCT 類型\n所有 HCT 中心，即使在資源受限環境（RCS）內，最終都必須根據所服務患者的適應症，為兒科與成人患者提供全方位的 HCT 服務。然而，決定任何新設 HCT 服務重心與方向最關鍵的問題，在於主責移植醫師的訓練與經驗，以及能否取得各項支援基礎設施，近期來自孟加拉與尼泊爾的報告即為例證（Mahfuz et al. 2021; Poudyal et al. 2022）。雖然在政府資助的公立醫院提供 HCT 服務較為理想，但這在許多 RCS 並非成功的模式；正如同拉丁美洲的報告指出，當私立醫院提供服務時，HCT 的執行率反而矛盾地較高（Jaimovich et al. 2021）。在惡性腫瘤方面，自體 HCT 常是起步點，特別是在具備冷凍保存設施的情況下；惟多發性骨髓瘤除外，因其極短的調理療程不需要冷凍保存。然而，從異體 HCT 起步（特別是針對非惡性疾病，例如骨髓衰竭症候群、重度血紅素病變及免疫缺陷疾病）亦不罕見，且在兒童患者中預期可獲得極佳的成果，尤其是使用相合親屬供者（MRDs），但使用替代供者的比例亦日益增加。對於啟動 HCT 服務的這個層面，目前並無明確建議，唯一原則是主責醫師與團隊應針對其欲開展的服務接受充分訓練。表 69.1 列出一項建議做法。當然，這類醫師向其他發展更成熟中心之有經驗醫師尋求即時「會診諮詢」協助，是非常普遍的做法。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900007,
+          "page": 604,
+          "endPage": 605,
+          "en": "69.3 Patient Selection and Indications for HCT\nSelecting patients for HCT can pose challenges for centers starting their programs in RCS. On the one side is the need of the individual patient, adult or pediatric, who presents with a disease that could be cured by HCT, and on the other side is the capability and capacity of the HCT center that may wish to prioritize certain indications. The choice finally depends on the transplant physician and the team at that center, their experience and training as well as institutional priorities. It would be advisable to start with standard risk younger patients with matched related donors—the actual indication will depend on the region of the world and practice pattern at that center. Given the paucity of HCT services in RCS, it should be recognized that many centers offer services to both adult and pediatric patients (Chandy 2008; Benakli et al. 2020). Physicians trained at such HCT centers may well be capable of managing HCTs in a wide range of patients and indications. The presence of trained pediatricians in the transplant team is of course necessary whenever possible. It is also important that transplant physicians be aware of the evolving indications for HCT and the possible outcomes with different donors. The expected outcomes in each of these situations are critical for counseling patients and their families as well as planning resources for the HCT(Snowden et al. 2022).",
+          "zh": "69.3 患者選擇與 HCT 適應症\n對於在資源受限環境（RCS）中剛啟動計畫的中心而言，為 HCT 篩選患者可能面臨挑戰。一方面是罹患可藉由 HCT 治癒之疾病的個別患者（成人或兒童）的需求，另一方面則是可能希望優先處理特定適應症之 HCT 中心的能力與量能。最終的選擇取決於該中心的移植醫師與團隊、他們的經驗與訓練，以及機構的優先順序。建議從具有相合親屬供者的標準風險年輕患者開始——實際適應症將取決於所在的世界地區以及該中心的執業型態。鑑於 RCS 中 HCT 服務的匱乏，應認知到許多中心同時為成人與兒科患者提供服務（Chandy 2008; Benakli et al. 2020）。在這些 HCT 中心受訓的醫師，往往有能力處理廣泛患者族群與適應症的 HCT。當然，只要條件允許，移植團隊中必須有受過訓練的小兒科醫師。同樣重要的是，移植醫師必須了解不斷演進的 HCT 適應症，以及使用不同供者可能帶來的結果。在每一種情況下的預期結果，對於向患者及其家屬進行諮詢，以及規劃 HCT 所需資源均至關重要（Snowden et al. 2022）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 605,
+      "blocks": [
+        {
+          "id": 6900008,
+          "page": 605,
+          "en": "69.4 Donor Selection: Alternative Donors—Graft Manipulations\nAccess to locally available reliable HLA typing services has been a challenge in preventing allogenic transplants in many parts of the world. With a molecular approach to HLA typing, more services are accessible. This then allows for appropriate donor selection. Once this is available, matched related donors (MRDs) become the first option to start a service with. High-resolution typing might yet be desirable in regions with high consanguinity or close ethnicity (Agarwal et al. 2017), and it also allows the initiation of unrelated donor searches. As experience and resources advance and the logistics of international transportation of grafts improve, matched unrelated donors (MUDs) are also being increasingly used. However, with increasing experience around the world with haplo-identical donor (HID) HCTs, these types of donor transplants can be offered early within HCT services, depending on the training and experience of the physician involved as well as the team along with access to diagnostic and consultation services (Niederwieser et al. 2022). An important aspect of any allogeneic HCT service is to be able to carry out basic graft manipulation at least for red cell depletion when needed for blood group mismatched donors. Familiarity with manual centrifugation or precipitation-based techniques is needed if automated instrument platforms are not available for the same (Sawa et al. 2023).",
+          "zh": "69.4 供者選擇：替代供者—移植物處理\n在世界許多地區，難以取得當地可靠的 HLA 分型服務一直是阻礙異體移植開展的挑戰。隨著分子生物學 HLA 分型方法的普及，可取得的服務日益增加，進而能進行適當的供者選擇。一旦具備此項服務，相合親屬供者（MRDs）便成為啟動移植服務的首選。在近親通婚率高或種族血緣相近的地區，可能仍需要高解析度分型（Agarwal et al. 2017），且這也能啟動非親屬供者的配對搜尋。隨著經驗與資源的進步，以及移植物國際運輸物流的改善，相合非親屬供者（MUDs）的使用也日益增加。然而，隨著全球對半相合供者（HID）HCT 經驗的累積，視相關醫師與團隊的訓練和經驗，以及診斷與會診服務的可近性而定，這類供者移植可在 HCT 服務發展早期即提供（Niederwieser et al. 2022）。任何異體 HCT 服務的一個重要層面，是當遇到血型不相合供者而有需要時，至少有能力執行基本的移植物處理以去除紅血球。若無自動化儀器平台可用於此操作，則需熟悉手動離心或基於沉澱法的技術（Sawa et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900009,
+          "page": 605,
+          "en": "69.5 Harvest of Graft: CD34+ HSC Dose Calculation and Cryopreservation Issues\nWith the increasing use of peripheral blood stem cells (PBSCs) for allogeneic grafts, collection of such grafts on one of the several apheresis platforms is quite easily established in most HCT centers. However, the use of PBSC grafts may be associated with an increased risk of graft versus host disease (GVHD), particularly chronic, and it is important that transplant physicians should be familiar with bone marrow harvesting. As this requires general anesthesia and access to an operating room facility, those aspects also need to be considered. The assessment of the quality of the graft even in terms of the CD34+ cell count can be a limitation in many centers. Arrangements to outsource this evaluation are often possible. Another limitation encountered is related to both capability and capacity to cryopreserve grafts mainly for autologous HCTs. Though reports of grafts being used after storage at 4–8°C for up to 6 days exist, (Bekadja et al. 2021) having appropriate control rate freezing equipment is desirable for optimal graft storage and transplantation outcomes.",
+          "zh": "69.5 移植物採集：CD34+ 造血幹細胞劑量計算與冷凍保存問題\n隨著周邊血幹細胞（PBSCs）用於異體移植物的比例日益增加，在大多數 HCT 中心，利用數種分離術（apheresis）平台之一來收集此類移植物相當容易建立。然而，使用 PBSC 移植物可能與移植物抗宿主疾病（GVHD）風險增加相關（特別是慢性 GVHD），因此移植醫師熟悉骨髓採集術非常重要。由於骨髓採集需要全身麻醉並使用手術室設施，這些層面也必須納入考量。移植物品質的評估（即便是 CD34+ 細胞計數）在許多中心都可能是一項限制；對此，通常可安排將此項評估外包。另一項常遇到的限制，則涉及移植物冷凍保存（主要用於自體 HCTs）的能力與量能。儘管有報告指出移植物在 4–8°C 下儲存長達 6 天後仍可使用（Bekadja et al. 2021），但為達到最佳的移植物儲存與移植結果，配備適當的程式降溫冷凍設備仍是較理想的做法。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900010,
+          "page": 605,
+          "endPage": 606,
+          "en": "69.6 Conditioning Regimen\nConditioning is a critical aspect of any HCT protocol, and the possibilities are many between myeloablative and reduced intensity options with various myelotoxic and immunosuppressive drugs with or without total body or more limited irradiation fields (Ma et al. 2020). It is very important that the transplant physician should be familiar with these possibilities and understand the principles of using these options. The final choice depends on what drugs and whether facilities for radiation therapy are locally available as well as the personal experience of the physician concerned. The good thing is that nearly for all indications of HCT various chemotherapy-based conditioning is possible with good outcomes (Rehman et al. 2023). Regimen-related toxicities can be a major cause of morbidity and mortality in HCT, and this should be borne in mind when choosing conditioning protocols.",
+          "zh": "69.6 調理方案\n調理（conditioning）是任何 HCT 治療方案的關鍵環節，在骨髓清除性（myeloablative）與減低強度（reduced intensity）選項之間有多種可能性，可搭配各種具骨髓毒性與免疫抑制作用的藥物，並合併或不合併全身或較小範圍的放射線照射（Ma et al. 2020）。移植醫師必須熟悉這些可能性，並理解使用這些選項的原則，這一點非常重要。最終的選擇取決於當地可取得哪些藥物、是否具備放射治療設施，以及相關醫師的個人經驗。好消息是，幾乎對於所有 HCT 適應症，皆可採用各種以化學治療為基礎的調理方案並取得良好結果（Rehman et al. 2023）。調理方案相關毒性（regimen-related toxicities）可能是 HCT 發生併發症與死亡的主要原因，在選擇調理方案時應銘記這一點。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 606,
+      "blocks": [
+        {
+          "id": 6900011,
+          "page": 606,
+          "en": "69.7 Supportive Care\nWhile disease-related and individual patient-related variables are a major determinant of outcomes of HCT, what matters most next in determining outcome is the supportive care provided during HCT. There are two important aspects to this—first, the availability of appropriate therapeutic products (Table 69.2) and next the knowledge and training of the entire team to utilize them. Standardization of protocols for the management of different aspects of HCT goes a long way toward improving outcomes (Snowden et al. 2020). No amount of effort is too much in enhancing supportive care at the nursing, consultation services, and relevant diagnostic investigations in any HCT program.",
+          "zh": "69.7 支持性照護\n雖然疾病相關與患者個別相關變數是決定 HCT 結果的主要因素，但接下來對結果影響最大的，便是 HCT 期間所提供的支持性照護。這有兩個重要層面——第一是能否取得適當的治療藥品與血品（表 69.2），其次則是整個團隊運用這些產品的知識與訓練。將 HCT 各個層面的處置方案標準化，對於改善治療結果大有助益（Snowden et al. 2020）。在任何 HCT 計畫中，投入再多努力來強化護理、會診服務及相關診斷檢查方面的支持性照護，都不為過。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900012,
+          "page": 606,
+          "endPage": 607,
+          "en": "– Blood product support: Access to the full range of blood bank products such as packed red cells, platelet concentrates, and fresh frozen plasma is absolutely essential to run a transplant program (Warner et al. 2019). Blood product irradiation is required for immunosuppressed patients to avoid transfusion-associated GVHD. When dedicated blood irradiators are not available, a clinical Co60 teletherapy unit can also be used to irradiate both red cell and platelet products (Goes et al. 2006). Where there is a lack of access to large blood banks that can supply products ad lib, having an apheresis unit within the transfusion service in the institution and using screened relatives of patients and other volunteers is a practical way to manage this critical requirement particularly for platelet transfusions.",
+          "zh": "– 血品支持：能取得全方位的血庫產品（例如濃縮紅血球、血小板濃厚液及新鮮冷凍血漿），對於運作移植計畫而言絕對是不可或缺的（Warner et al. 2019）。免疫抑制患者所需的血品必須經過放射線照射，以避免輸血相關移植物抗宿主疾病（transfusion-associated GVHD）。當無專用血品照射儀時，亦可使用臨床鈷六十（Co60）遠距治療儀來照射紅血球與血小板血品（Goes et al. 2006）。若缺乏可隨時充足供應血品的大型血庫，在機構內的輸血服務部門設置分離術（apheresis）單位，並動員經篩檢的患者親屬及其他志願捐血者，是處理這項關鍵需求（特別是血小板輸注）的務實做法。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900013,
+          "page": 606,
+          "en": "Table 69.2 Medicines considered essential for HCT programs\n\nColumns: [Program Stage] | Required (score 1 and 2) with votes above 70% | Preferred (score 3 and 4) with votes above 70% | Ideal (score >4) with votes above 70%\n\nRow — Stage I program:\n\n1. Required (score 1 and 2) with votes above 70%:\n• Mobilization:\n  – Chemotherapy and filgrastim for autologous PBSCT mobilization\n  – Filgrastim for autologous PBSCT mobilization\n  – Filgrastim for allogeneic PBSCT mobilization\n• Conditioning:\n  – Cyclophosphamide\n  – Cytarabine\n  – Melphalan\n  – Fludarabine\n• Seizures prophylaxis:\n  – Benzodiazepine\n• GVHD Prophylaxis/Treatment:\n  – Cyclosporine\n  – Methotrexate\n  – Methylprednisolone\n  – Prednisone\n  – Dexamethasone\n• Antimicrobials:\n  – Piperacillin/Tazobactam\n  – Cefepime\n  – Ciprofloxacin\n  – Vancomycin\n  – Fluconazole\n  – Acyclovir\n  – Ganciclovir\n  – Bactrim\n• Supportive:\n  – IV narcotics\n  – 5-HT3 antagonists\n\n2. Preferred (score 3 and 4) with votes above 70%:\n• Mobilization: none\n• Conditioning:\n  – Oral busulfan\n  – Intravenous busulfan\n  – Carboplatin\n  – Carmustine\n  – Etoposide\n• Seizures prophylaxis:\n  – Phenytoin\n  – Levetiracetam\n• GVHD Prophylaxis/Treatment:\n  – Tacrolimus\n  – Mycophenolate\n  – Rituximab\n• Antimicrobials:\n  – Carbapenem\n  – Levofloxacin\n  – Tigecycline\n  – Amphotericin B (liposomal)\n  – Echinocandin\n  – Voriconazole\n  – Posaconazole\n  – Valganciclovir\n  – Foscarnet\n  – Valacyclovir\n  – Pentamidine\n• Supportive:\n  – Phenothiazines\n  – Neurokinin antagonists\n  – Ursodiol\n  – IVIG\n  – TPN\n  – PCA\n\n3. Ideal (score >4) with votes above 70%:\n• Mobilization:\n  – Plerixafor for autologous PBSCT mobilization\n• Conditioning:\n  – Intravenous busulfan with TDM\n• Seizures prophylaxis: none\n• GVHD Prophylaxis/Treatment:\n  – Antithymocyte globulin rabbit\n  – Budesonide\n  – Sirolimus\n  – Etanercept\n  – Alemtuzumab\n  – Basiliximab\n  – Extracorporeal photopheresis\n  – Infliximab\n• Antimicrobials:\n  – Amphotericin B (conventional)\n  – Isavuconazonium\n  – Cidofovir\n  – Letermovir\n• Supportive:\n  – Defibrotide\n  – Olanzapine\n\nFootnotes:\nTDM indicates therapeutic drug monitoring\nAdapted from Transplantation and Cellular Therapy. 2021 Mar;27(3):267 e1–5",
+          "zh": "表 69.2 造血細胞移植（HCT）計畫視為必備之藥品\n\n欄位：［計畫階段］｜必備（Required，評分 1 與 2 且得票率 >70%）｜優先選用（Preferred，評分 3 與 4 且得票率 >70%）｜理想配置（Ideal，評分 >4 且得票率 >70%）\n\n列 — 第一階段計畫（Stage I program）：\n\n1. 必備（Required，評分 1 與 2 且得票率 >70%）：\n• 幹細胞動員（Mobilization）：\n  – 用於自體周邊血幹細胞移植（PBSCT）動員之化學治療與 filgrastim\n  – 用於自體 PBSCT 動員之 filgrastim\n  – 用於異體 PBSCT 動員之 filgrastim\n• 調理（Conditioning）：\n  – Cyclophosphamide\n  – Cytarabine\n  – Melphalan\n  – Fludarabine\n• 癲癇發作預防（Seizures prophylaxis）：\n  – 苯二氮平類（Benzodiazepine）\n• GVHD 預防／治療（GVHD Prophylaxis/Treatment）：\n  – Cyclosporine\n  – Methotrexate\n  – Methylprednisolone\n  – Prednisone\n  – Dexamethasone\n• 抗微生物製劑（Antimicrobials）：\n  – Piperacillin/Tazobactam\n  – Cefepime\n  – Ciprofloxacin\n  – Vancomycin\n  – Fluconazole\n  – Acyclovir\n  – Ganciclovir\n  – Bactrim（trimethoprim/sulfamethoxazole）\n• 支持性用藥（Supportive）：\n  – 靜脈注射麻醉性止痛藥（IV narcotics）\n  – 5-HT3 受體拮抗劑（5-HT3 antagonists）\n\n2. 優先選用（Preferred，評分 3 與 4 且得票率 >70%）：\n• 幹細胞動員（Mobilization）：無（none）\n• 調理（Conditioning）：\n  – 口服 busulfan（Oral busulfan）\n  – 靜脈注射 busulfan（Intravenous busulfan）\n  – Carboplatin\n  – Carmustine\n  – Etoposide\n• 癲癇發作預防（Seizures prophylaxis）：\n  – Phenytoin\n  – Levetiracetam\n• GVHD 預防／治療（GVHD Prophylaxis/Treatment）：\n  – Tacrolimus\n  – Mycophenolate\n  – Rituximab\n• 抗微生物製劑（Antimicrobials）：\n  – 碳青黴烯類（Carbapenem）\n  – Levofloxacin\n  – Tigecycline\n  – 微脂體兩性黴素 B（Amphotericin B (liposomal)）\n  – 棘白菌素類（Echinocandin）\n  – Voriconazole\n  – Posaconazole\n  – Valganciclovir\n  – Foscarnet\n  – Valacyclovir\n  – Pentamidine\n• 支持性用藥（Supportive）：\n  – 吩噻嗪類（Phenothiazines）\n  – 神經激肽受體拮抗劑（Neurokinin antagonists）\n  – 熊去氧膽酸（Ursodiol）\n  – 靜脈注射免疫球蛋白（IVIG）\n  – 全靜脈營養（TPN）\n  – 病患自控式止痛（PCA）\n\n3. 理想配置（Ideal，評分 >4 且得票率 >70%）：\n• 幹細胞動員（Mobilization）：\n  – 用於自體 PBSCT 動員之 plerixafor\n• 調理（Conditioning）：\n  – 搭配治療藥物監測（TDM）之靜脈注射 busulfan\n• 癲癇發作預防（Seizures prophylaxis）：無（none）\n• GVHD 預防／治療（GVHD Prophylaxis/Treatment）：\n  – 兔抗胸腺細胞球蛋白（Antithymocyte globulin rabbit）\n  – Budesonide\n  – Sirolimus\n  – Etanercept\n  – Alemtuzumab\n  – Basiliximab\n  – 體外光化學療法（Extracorporeal photopheresis）\n  – Infliximab\n• 抗微生物製劑（Antimicrobials）：\n  – 傳統型兩性黴素 B（Amphotericin B (conventional)）\n  – Isavuconazonium\n  – Cidofovir\n  – Letermovir\n• 支持性用藥（Supportive）：\n  – Defibrotide\n  – Olanzapine\n\n腳註：\nTDM 表治療藥物監測（therapeutic drug monitoring）。\n改編自：Transplantation and Cellular Therapy. 2021 Mar;27(3):267 e1–5。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 607,
+      "blocks": [
+        {
+          "id": 6900014,
+          "page": 607,
+          "en": "– Immunosuppressants: Access to relevant immunosuppressant drugs is absolutely essential for any HCT program (Penack et al. 2020). Commonly used drugs such as calcineurin inhibitors (cyclosporin A and tacrolimus), mycophenolate mofetil, and sirolimus along with methylprednisolone form the basis for the management of immune complications of HCT most of the time. Posttransplant cyclophosphamide is a good option at low costs which is not only useful in HID transplant but may also be good for MRD transplants (Sawa et al. 2023). A wide range of other drugs including biologicals may also be needed in a small proportion of patients. Measurement of drug levels is important in ensuring efficacy (Table 69.1).",
+          "zh": "– 免疫抑制劑：能取得相關的免疫抑制藥物，對於任何 HCT 計畫而言絕對是必要的（Penack et al. 2020）。常用藥物如鈣調磷酸酶抑制劑（calcineurin inhibitors，即 cyclosporin A 與 tacrolimus）、mycophenolate mofetil 及 sirolimus，加上 methylprednisolone，在大多數時候構成了處理 HCT 免疫併發症的基礎。移植後 cyclophosphamide（PTCy）是一項低成本的良好選擇，不僅適用於半相合供者（HID）移植，對於相合親屬供者（MRD）移植亦可能有益（Sawa et al. 2023）。在少數患者中，可能還需要用到包括生物製劑在內的廣泛其他藥物。測量藥物濃度對於確保療效至關重要（表 69.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900015,
+          "page": 607,
+          "en": "– Antibiotics: Given the extent of antimicrobial resistance, particularly in RCS, availability of and access to a wide range of broad-spectrum antibiotics is absolutely essential for initiating HCT services. Therapeutic drug monitoring is desirable but not critical in most situations. However, knowledge of local patterns of antimicrobial resistance is very important for making antibiotic protocols (Table 69.1).",
+          "zh": "– 抗生素：鑑於抗微生物藥物抗藥性的廣泛程度（特別是在 RCS 中），能供應並取得多樣化的廣效性抗生素，對於啟動 HCT 服務而言絕對是不可或缺的。治療藥物監測（TDM）雖屬理想，但在大多數情況下並非絕對必要。然而，了解當地的抗微生物藥物抗藥性型態，對於制定抗生素治療方案非常重要（表 69.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900016,
+          "page": 607,
+          "en": "– Diagnostics: Intense laboratory monitoring is the pillar of supportive care in HCT. Access to reliable round-the-clock laboratory services for blood counts, hemostasis tests, and common biochemical assessments are indispensable for establishing a successful HCT program (Aljurf et al. 2019). A range of microbiological assessments including bacterial and fungal cultures and antibiotic sensitivity assays are also essential. Viral infection monitoring, particularly for CMV in the context of GVHD, is needed. Specialized radiological evaluation is also frequently needed through experienced radiologists for ultrasound, CT scan, and MRI-based assessments.",
+          "zh": "– 診斷檢查：密集的實驗室監測是 HCT 支持性照護的支柱。能取得全天候可靠運作的血球計數、止血功能檢測及常見生化評估實驗室服務，是建立成功 HCT 計畫不可或缺的條件（Aljurf et al. 2019）。一系列微生物學評估（包括細菌與黴菌培養以及抗生素敏感性試驗）同樣至關重要。此外，還需要進行病毒感染監測，特別是在 GVHD 情況下對巨細胞病毒（CMV）的監測。亦經常需要透過有經驗的放射科醫師進行超音波、電腦斷層掃描（CT）及磁振造影（MRI）等專業放射影像學評估。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900017,
+          "page": 607,
+          "en": "– Consultation services: In any ongoing HCT program, multisystem complications resulting from regimen-related toxicities, infections, or graft versus host disease are not uncommon. These require suitable consultation services to be available on call. Most commonly used services are gastroenterology for endoscopies, nephrology for renal insufficiency, infectious diseases, and dermatology.",
+          "zh": "– 會診服務：在任何運作中的 HCT 計畫裡，因調理方案相關毒性、感染或移植物抗宿主疾病所導致的多系統併發症並不少見。這需要有適當的專科會診服務隨時待命（on call）。最常使用的會診科別包括負責內視鏡檢查的胃腸肝膽科、負責腎功能不全的腎臟科，以及感染科與皮膚科。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900018,
+          "page": 607,
+          "en": "69.8 Graft Versus Host Disease (GVHD) Management\n– Acute: This is one area where compromises are best avoided and standard protocols are followed depending on the type of donor and graft. Fortunately, most of the commonly used prophylactic drugs are widely available and not too expensive. Access to second-line drugs for steroid-resistant GVHD can be a challenge in some RCS and specific plans, and protocols should be in place to address these situations (Penack et al. 2020). The success of haplo-identical HCTs with posttransplant cyclophosphamide has made this an increasingly used option. This may also be useful in other donor HCTs and could make GVHD prophylaxis more cost-effective (Rimando et al. 2023).",
+          "zh": "69.8 移植物抗宿主疾病（GVHD）之處置\n– 急性 GVHD：這是一個最應避免妥協的領域，應根據供者與移植物類型遵循標準治療方案。幸運的是，大多數常用的預防性藥物皆廣泛可得且價格不致過於昂貴。在某些 RCS 中，取得治療類固醇難治型（steroid-resistant）GVHD 的第二線藥物可能是一項挑戰，因此應預先制定具體計畫與方案來應對這些情況（Penack et al. 2020）。半相合 HCTs 搭配移植後 cyclophosphamide 的成功，使其成為日益普及的選擇；這在其他供者類型的 HCTs 中也可能有所助益，並可望使 GVHD 預防更具成本效益（Rimando et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900019,
+          "page": 607,
+          "en": "– Chronic: Extensive chronic GVHD can be one of the most difficult complications to manage in RCS because of the need for prolonged expensive immunosuppressive therapy and other associated complications (Saleem et al. 2019). In the absence of adequate resources to support such care, this is a major cause of major morbidity and mortality. There are no specific low-cost protocols, and general principles of the management of chronic GVHD also need to apply in RCS.",
+          "zh": "– 慢性 GVHD：廣泛性慢性 GVHD 可能是 RCS 中最難處理的併發症之一，因為患者需要長期且昂貴的免疫抑制治療，並伴隨其他相關併發症（Saleem et al. 2019）。在缺乏足夠資源支持此類照護的情況下，這是造成嚴重併發症與死亡的主要原因。目前並無特定的低成本治療方案，慢性 GVHD 處置的一般原則同樣必須應用於 RCS 中。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 608,
+      "blocks": [
+        {
+          "id": 6900020,
+          "page": 608,
+          "en": "69.9 Long-term Follow-Up\nAll HCT centers must aspire to have full long-term follow-up on all patients. An important aspect of achieving this goal is to provide adequate information and counseling to the patient and their families regarding the importance and significance of such follow-up visits (Hashmi et al. 2018). Streamlining the assessments, a caring attitude of the team toward the individual patient and offering relevant advice during such visits enhances compliance. However, given the paucity of HCT centers in RCS, patients often travel very long distances to have the HCT done and going back frequently for follow-up can be challenging. A hub and spoke model should be considered in those situations by establishing partnership with patients and local physicians for a shared care plan.",
+          "zh": "69.9 長期追蹤\n所有 HCT 中心都必須以對所有患者進行完整長期追蹤為目標。達成此目標的一個重要層面，是向患者及其家屬提供充分的資訊與衛教諮詢，使其了解此類回診追蹤的重要性與意義（Hashmi et al. 2018）。精簡評估流程、團隊對個別患者展現關懷態度，並在回診期間提供切合需求的建議，皆有助於提升配合度（compliance）。然而，鑑於 RCS 中 HCT 中心稀少，患者往往需要長途跋涉才能接受 HCT，要頻繁返回中心追蹤可能相當困難。在這些情況下，應考慮採用「軸輻模式」（hub and spoke model），透過與患者及當地醫師建立夥伴關係，共同執行共享照護計畫（shared care plan）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900021,
+          "page": 608,
+          "en": "69.10 Socioeconomic Issues\nThe major challenge that restricts access to HCT in RCS is the cost of HCT (Aljurf et al. 2019). What contributes heavily to costs are the drugs and disposables. These costs are variable depending on where they are manufactured. It is important therefore that a facilitatory regulatory environment be created for such life-saving drugs and disposables to be made available and locally relevant prices. Human resource costs are often modest and usually in a structure that the healthcare system has learnt to accommodate. The low density of HCT services in most RCS around the world are related to two major reasons—cost and lack of adequately trained personnel who know how to innovate and establish such services within the local context. Both these need to be addressed (Aljurf et al. 2019).",
+          "zh": "69.10 社會經濟問題\n在資源受限環境（RCS）中，限制 HCT 可近性的主要挑戰是 HCT 的費用（Aljurf et al. 2019）。在費用中占極大比重的是藥品與一次性耗材，這些成本會因其製造地而異。因此，建立有利的法規環境，使這類救命藥品與耗材能以符合當地負擔能力的價格取得，至關重要。人力資源成本通常較為溫和，且往往已納入當地醫療照護體系所適應的結構中。全球大多數 RCS 的 HCT 服務密度偏低，主要與兩個原因有關——費用，以及缺乏受過充分訓練、懂得如何在當地脈絡下創新並建立此類服務的人員。這兩項問題都必須加以解決（Aljurf et al. 2019）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900022,
+          "page": 608,
+          "en": "69.11 Conclusion\nCreating greater awareness among healthcare professionals, comprehensive training programs and establishing appropriate infrastructure along with access to the required drugs and disposable combined with modifications and innovations in management protocols which are practical in those conditions are all needed to make HCT more widely available and accessible all over the world.",
+          "zh": "69.11 結論\n提升醫療專業人員的認知、建立全面的訓練計畫與適當的基礎設施、確保所需藥品與耗材的可近性，並結合在當地條件下切實可行的處置方案改良與創新，這些都是讓 HCT 在世界各地更廣泛普及且易於取得所不可或缺的要素。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6900023,
+          "page": 608,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft",
+          "retained": true
+        },
+        {
+          "id": 6900024,
+          "page": 608,
+          "en": "Agarwal RK, Kumari A, Sedai A, Parmar L, Dhanya R, Faulkner L. The case for high resolution extended 6-loci HLA typing for identifying related donors in the Indian subcontinent. Biol Blood Marrow Transplant. 2017;23(9):1592–6.",
+          "zh": "Agarwal RK, Kumari A, Sedai A, Parmar L, Dhanya R, Faulkner L. The case for high resolution extended 6-loci HLA typing for identifying related donors in the Indian subcontinent. Biol Blood Marrow Transplant. 2017;23(9):1592–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Agarwal%20RK%2C%20Kumari%20A%2C%20Sedai%20A%2C%20Parmar%20L%2C%20Dhanya%20R%2C%20Faulkner%20L.%20The%20case%20for%20high%20resolution%20extended%206-loci%20HLA%20typing%20for%20identifying%20related%20donors%20in%20the%20Indian%20subcontinent.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23(9)%3A1592%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Agarwal%20RK%2C%20Kumari%20A%2C%20Sedai%20A%2C%20Parmar%20L%2C%20Dhanya%20R%2C%20Faulkner%20L.%20The%20case%20for%20high%20resolution%20extended%206-loci%20HLA%20typing%20for%20identifying%20related%20donors%20in%20the%20Indian%20subcontinent.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23(9)%3A1592%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6900025,
+          "page": 608,
+          "en": "Aljurf M, Weisdorf D, Hashmi S, Nassar A, Gluckman E, Mohty M, et al. Worldwide network for blood and marrow transplantation recommendations for establishing a hematopoietic stem cell transplantation program in countries with limited resources, part II: clinical, technical, and socioeconomic considerations. Biol Blood Marrow Transplant. 2019;25(12):2330–7.",
+          "zh": "Aljurf M, Weisdorf D, Hashmi S, Nassar A, Gluckman E, Mohty M, et al. Worldwide network for blood and marrow transplantation recommendations for establishing a hematopoietic stem cell transplantation program in countries with limited resources, part II: clinical, technical, and socioeconomic considerations. Biol Blood Marrow Transplant. 2019;25(12):2330–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Aljurf%20M%2C%20Weisdorf%20D%2C%20Hashmi%20S%2C%20Nassar%20A%2C%20Gluckman%20E%2C%20Mohty%20M%2C%20et%20al.%20Worldwide%20network%20for%20blood%20and%20marrow%20transplantation%20recommendations%20for%20establishing%20a%20hematopoietic%20stem%20cell%20transplantation%20program%20in%20countries%20with%20limited%20resources%2C%20part%20II%3A%20clinical%2C%20technical%2C%20and%20socioeconomic%20considerations.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25(12)%3A2330%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Aljurf%20M%2C%20Weisdorf%20D%2C%20Hashmi%20S%2C%20Nassar%20A%2C%20Gluckman%20E%2C%20Mohty%20M%2C%20et%20al.%20Worldwide%20network%20for%20blood%20and%20marrow%20transplantation%20recommendations%20for%20establishing%20a%20hematopoietic%20stem%20cell%20transplantation%20program%20in%20countries%20with%20limited%20resources%2C%20part%20II%3A%20clinical%2C%20technical%2C%20and%20socioeconomic%20considerations.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25(12)%3A2330%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6900026,
+          "page": 608,
+          "en": "Bekadja MA, Boumendil A, Blaise D, Chevallier P, Peggs KS, Salles G, et al. Non-cryopreserved hematopoietic stem cells in autograft patients with lymphoma: a matched-pair analysis comparing a single center experience with the use of cryopreserved stem cells reported to the European Society for Blood and Marrow Transplantation registry. Cytotherapy. 2021;23(6):483–7.",
+          "zh": "Bekadja MA, Boumendil A, Blaise D, Chevallier P, Peggs KS, Salles G, et al. Non-cryopreserved hematopoietic stem cells in autograft patients with lymphoma: a matched-pair analysis comparing a single center experience with the use of cryopreserved stem cells reported to the European Society for Blood and Marrow Transplantation registry. Cytotherapy. 2021;23(6):483–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bekadja%20MA%2C%20Boumendil%20A%2C%20Blaise%20D%2C%20Chevallier%20P%2C%20Peggs%20KS%2C%20Salles%20G%2C%20et%20al.%20Non-cryopreserved%20hematopoietic%20stem%20cells%20in%20autograft%20patients%20with%20lymphoma%3A%20a%20matched-pair%20analysis%20comparing%20a%20single%20center%20experience%20with%20the%20use%20of%20cryopreserved%20stem%20cells%20reported%20to%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20registry.%20Cytotherapy.%202021%3B23(6)%3A483%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bekadja%20MA%2C%20Boumendil%20A%2C%20Blaise%20D%2C%20Chevallier%20P%2C%20Peggs%20KS%2C%20Salles%20G%2C%20et%20al.%20Non-cryopreserved%20hematopoietic%20stem%20cells%20in%20autograft%20patients%20with%20lymphoma%3A%20a%20matched-pair%20analysis%20comparing%20a%20single%20center%20experience%20with%20the%20use%20of%20cryopreserved%20stem%20cells%20reported%20to%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20registry.%20Cytotherapy.%202021%3B23(6)%3A483%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6900027,
+          "page": 608,
+          "en": "Benakli M, Ahmed Nacer R, Mehdid F, Belhadj R, Talbi A, Rahmoune N, et al. Two decades of experience in a combined adult/pediatric allogeneic hematopoietic stem cell transplantation center in Algiers, Algeria. Ann Hematol. 2020;99(3):619–25.",
+          "zh": "Benakli M, Ahmed Nacer R, Mehdid F, Belhadj R, Talbi A, Rahmoune N, et al. Two decades of experience in a combined adult/pediatric allogeneic hematopoietic stem cell transplantation center in Algiers, Algeria. Ann Hematol. 2020;99(3):619–25.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Benakli%20M%2C%20Ahmed%20Nacer%20R%2C%20Mehdid%20F%2C%20Belhadj%20R%2C%20Talbi%20A%2C%20Rahmoune%20N%2C%20et%20al.%20Two%20decades%20of%20experience%20in%20a%20combined%20adult%2Fpediatric%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20center%20in%20Algiers%2C%20Algeria.%20Ann%20Hematol.%202020%3B99(3)%3A619%E2%80%9325."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Benakli%20M%2C%20Ahmed%20Nacer%20R%2C%20Mehdid%20F%2C%20Belhadj%20R%2C%20Talbi%20A%2C%20Rahmoune%20N%2C%20et%20al.%20Two%20decades%20of%20experience%20in%20a%20combined%20adult%2Fpediatric%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20center%20in%20Algiers%2C%20Algeria.%20Ann%20Hematol.%202020%3B99(3)%3A619%E2%80%9325."
+            }
+          ]
+        },
+        {
+          "id": 6900028,
+          "page": 608,
+          "en": "Chandy M. Stem cell transplantation in India. Bone Marrow Transplant. 2008;42(Suppl 1):S81–S4.",
+          "zh": "Chandy M. Stem cell transplantation in India. Bone Marrow Transplant. 2008;42(Suppl 1):S81–S4.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chandy%20M.%20Stem%20cell%20transplantation%20in%20India.%20Bone%20Marrow%20Transplant.%202008%3B42(Suppl%201)%3AS81%E2%80%93S4."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chandy%20M.%20Stem%20cell%20transplantation%20in%20India.%20Bone%20Marrow%20Transplant.%202008%3B42(Suppl%201)%3AS81%E2%80%93S4."
+            }
+          ]
+        },
+        {
+          "id": 6900029,
+          "page": 608,
+          "en": "Damodar S, Ma DD, Ragg SJ, Chang A, Hwang WY, Ho AY, et al. Standardization and accreditation in haemopoietic stem cell transplantation – an Asia Pacific perspective. Blood cell therapy. 2021;4(Spec Edition):S14–S9.",
+          "zh": "Damodar S, Ma DD, Ragg SJ, Chang A, Hwang WY, Ho AY, et al. Standardization and accreditation in haemopoietic stem cell transplantation – an Asia Pacific perspective. Blood cell therapy. 2021;4(Spec Edition):S14–S9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Damodar%20S%2C%20Ma%20DD%2C%20Ragg%20SJ%2C%20Chang%20A%2C%20Hwang%20WY%2C%20Ho%20AY%2C%20et%20al.%20Standardization%20and%20accreditation%20in%20haemopoietic%20stem%20cell%20transplantation%20%E2%80%93%20an%20Asia%20Pacific%20perspective.%20Blood%20cell%20therapy.%202021%3B4(Spec%20Edition)%3AS14%E2%80%93S9."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Damodar%20S%2C%20Ma%20DD%2C%20Ragg%20SJ%2C%20Chang%20A%2C%20Hwang%20WY%2C%20Ho%20AY%2C%20et%20al.%20Standardization%20and%20accreditation%20in%20haemopoietic%20stem%20cell%20transplantation%20%E2%80%93%20an%20Asia%20Pacific%20perspective.%20Blood%20cell%20therapy.%202021%3B4(Spec%20Edition)%3AS14%E2%80%93S9."
+            }
+          ]
+        },
+        {
+          "id": 6900030,
+          "page": 608,
+          "en": "Faulkner L, Verna M, Rovelli A, Agarwal RK, Dhanya R, Parmar L, et al. Setting up and sustaining blood and marrow transplant services for children in middle-income economies: an experience-driven position paper on behalf of the EBMT PDWP. Bone Marrow Transplant. 2021;56(3):536–43.",
+          "zh": "Faulkner L, Verna M, Rovelli A, Agarwal RK, Dhanya R, Parmar L, et al. Setting up and sustaining blood and marrow transplant services for children in middle-income economies: an experience-driven position paper on behalf of the EBMT PDWP. Bone Marrow Transplant. 2021;56(3):536–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Faulkner%20L%2C%20Verna%20M%2C%20Rovelli%20A%2C%20Agarwal%20RK%2C%20Dhanya%20R%2C%20Parmar%20L%2C%20et%20al.%20Setting%20up%20and%20sustaining%20blood%20and%20marrow%20transplant%20services%20for%20children%20in%20middle-income%20economies%3A%20an%20experience-driven%20position%20paper%20on%20behalf%20of%20the%20EBMT%20PDWP.%20Bone%20Marrow%20Transplant.%202021%3B56(3)%3A536%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Faulkner%20L%2C%20Verna%20M%2C%20Rovelli%20A%2C%20Agarwal%20RK%2C%20Dhanya%20R%2C%20Parmar%20L%2C%20et%20al.%20Setting%20up%20and%20sustaining%20blood%20and%20marrow%20transplant%20services%20for%20children%20in%20middle-income%20economies%3A%20an%20experience-driven%20position%20paper%20on%20behalf%20of%20the%20EBMT%20PDWP.%20Bone%20Marrow%20Transplant.%202021%3B56(3)%3A536%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 6900031,
+          "page": 608,
+          "en": "Goes EG, Borges JC, Covas DT, Orellana MD, Palma PV, Morais FR, et al. Quality control of blood irradiation: determination T cells radiosensitivity to cobalt-60 gamma rays. Transfusion. 2006;46(1):34–40.",
+          "zh": "Goes EG, Borges JC, Covas DT, Orellana MD, Palma PV, Morais FR, et al. Quality control of blood irradiation: determination T cells radiosensitivity to cobalt-60 gamma rays. Transfusion. 2006;46(1):34–40.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Goes%20EG%2C%20Borges%20JC%2C%20Covas%20DT%2C%20Orellana%20MD%2C%20Palma%20PV%2C%20Morais%20FR%2C%20et%20al.%20Quality%20control%20of%20blood%20irradiation%3A%20determination%20T%20cells%20radiosensitivity%20to%20cobalt-60%20gamma%20rays.%20Transfusion.%202006%3B46(1)%3A34%E2%80%9340."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Goes%20EG%2C%20Borges%20JC%2C%20Covas%20DT%2C%20Orellana%20MD%2C%20Palma%20PV%2C%20Morais%20FR%2C%20et%20al.%20Quality%20control%20of%20blood%20irradiation%3A%20determination%20T%20cells%20radiosensitivity%20to%20cobalt-60%20gamma%20rays.%20Transfusion.%202006%3B46(1)%3A34%E2%80%9340."
+            }
+          ]
+        },
+        {
+          "id": 6900032,
+          "page": 608,
+          "en": "Hashmi SK, Lee SJ, Savani BN, Burns L, Wingard JR, Perales MA, et al. ASBMT practice guidelines committee survey on long-term follow-up clinics for hematopoietic cell transplant survivors. Biol Blood Marrow Transplant. 2018;24(6):1119–24.",
+          "zh": "Hashmi SK, Lee SJ, Savani BN, Burns L, Wingard JR, Perales MA, et al. ASBMT practice guidelines committee survey on long-term follow-up clinics for hematopoietic cell transplant survivors. Biol Blood Marrow Transplant. 2018;24(6):1119–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hashmi%20SK%2C%20Lee%20SJ%2C%20Savani%20BN%2C%20Burns%20L%2C%20Wingard%20JR%2C%20Perales%20MA%2C%20et%20al.%20ASBMT%20practice%20guidelines%20committee%20survey%20on%20long-term%20follow-up%20clinics%20for%20hematopoietic%20cell%20transplant%20survivors.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24(6)%3A1119%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hashmi%20SK%2C%20Lee%20SJ%2C%20Savani%20BN%2C%20Burns%20L%2C%20Wingard%20JR%2C%20Perales%20MA%2C%20et%20al.%20ASBMT%20practice%20guidelines%20committee%20survey%20on%20long-term%20follow-up%20clinics%20for%20hematopoietic%20cell%20transplant%20survivors.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24(6)%3A1119%E2%80%9324."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 609,
+      "blocks": [
+        {
+          "id": 6900033,
+          "page": 609,
+          "en": "Jaimovich G, Gale RP, Hanesman I, Vazquez A, Hammerschlak N, Simoes BP, et al. The paradox of haematopoietic cell transplant in Latin America. Bone Marrow Transplant. 2021;56(10):2382–8.",
+          "zh": "Jaimovich G, Gale RP, Hanesman I, Vazquez A, Hammerschlak N, Simoes BP, et al. The paradox of haematopoietic cell transplant in Latin America. Bone Marrow Transplant. 2021;56(10):2382–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jaimovich%20G%2C%20Gale%20RP%2C%20Hanesman%20I%2C%20Vazquez%20A%2C%20Hammerschlak%20N%2C%20Simoes%20BP%2C%20et%20al.%20The%20paradox%20of%20haematopoietic%20cell%20transplant%20in%20Latin%20America.%20Bone%20Marrow%20Transplant.%202021%3B56(10)%3A2382%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jaimovich%20G%2C%20Gale%20RP%2C%20Hanesman%20I%2C%20Vazquez%20A%2C%20Hammerschlak%20N%2C%20Simoes%20BP%2C%20et%20al.%20The%20paradox%20of%20haematopoietic%20cell%20transplant%20in%20Latin%20America.%20Bone%20Marrow%20Transplant.%202021%3B56(10)%3A2382%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6900034,
+          "page": 609,
+          "en": "Ma S, Shi W, Li Z, Tang L, Wang H, Xia L, et al. Reduced-intensity versus Myeloablative conditioning regimens for younger adults with acute myeloid leukemia and myelodysplastic syndrome: a systematic review and meta-analysis. J Cancer. 2020;11(17):5223–35.",
+          "zh": "Ma S, Shi W, Li Z, Tang L, Wang H, Xia L, et al. Reduced-intensity versus Myeloablative conditioning regimens for younger adults with acute myeloid leukemia and myelodysplastic syndrome: a systematic review and meta-analysis. J Cancer. 2020;11(17):5223–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ma%20S%2C%20Shi%20W%2C%20Li%20Z%2C%20Tang%20L%2C%20Wang%20H%2C%20Xia%20L%2C%20et%20al.%20Reduced-intensity%20versus%20Myeloablative%20conditioning%20regimens%20for%20younger%20adults%20with%20acute%20myeloid%20leukemia%20and%20myelodysplastic%20syndrome%3A%20a%20systematic%20review%20and%20meta-analysis.%20J%20Cancer.%202020%3B11(17)%3A5223%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ma%20S%2C%20Shi%20W%2C%20Li%20Z%2C%20Tang%20L%2C%20Wang%20H%2C%20Xia%20L%2C%20et%20al.%20Reduced-intensity%20versus%20Myeloablative%20conditioning%20regimens%20for%20younger%20adults%20with%20acute%20myeloid%20leukemia%20and%20myelodysplastic%20syndrome%3A%20a%20systematic%20review%20and%20meta-analysis.%20J%20Cancer.%202020%3B11(17)%3A5223%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 6900035,
+          "page": 609,
+          "en": "Mahfuz H, Hossain ME, Uddin MM, Karim MM, Wright J, Joyce K, et al. Overcoming the hurdles and establishing a haematopoietic stem cell transplant centre in a resource poor setting: an example from Dhaka, Bangladesh. Br J Haematol. 2021;194(2):e59–60.",
+          "zh": "Mahfuz H, Hossain ME, Uddin MM, Karim MM, Wright J, Joyce K, et al. Overcoming the hurdles and establishing a haematopoietic stem cell transplant centre in a resource poor setting: an example from Dhaka, Bangladesh. Br J Haematol. 2021;194(2):e59–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mahfuz%20H%2C%20Hossain%20ME%2C%20Uddin%20MM%2C%20Karim%20MM%2C%20Wright%20J%2C%20Joyce%20K%2C%20et%20al.%20Overcoming%20the%20hurdles%20and%20establishing%20a%20haematopoietic%20stem%20cell%20transplant%20centre%20in%20a%20resource%20poor%20setting%3A%20an%20example%20from%20Dhaka%2C%20Bangladesh.%20Br%20J%20Haematol.%202021%3B194(2)%3Ae59%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mahfuz%20H%2C%20Hossain%20ME%2C%20Uddin%20MM%2C%20Karim%20MM%2C%20Wright%20J%2C%20Joyce%20K%2C%20et%20al.%20Overcoming%20the%20hurdles%20and%20establishing%20a%20haematopoietic%20stem%20cell%20transplant%20centre%20in%20a%20resource%20poor%20setting%3A%20an%20example%20from%20Dhaka%2C%20Bangladesh.%20Br%20J%20Haematol.%202021%3B194(2)%3Ae59%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 6900036,
+          "page": 609,
+          "en": "Niederwieser D, Baldomero H, Bazuaye N, Bupp C, Chaudhri N, Corbacioglu S, et al. One and a half million hematopoietic stem cell transplants: continuous and differential improvement in worldwide access with the use of non-identical family donors. Haematologica. 2022;107(5):1045–53.",
+          "zh": "Niederwieser D, Baldomero H, Bazuaye N, Bupp C, Chaudhri N, Corbacioglu S, et al. One and a half million hematopoietic stem cell transplants: continuous and differential improvement in worldwide access with the use of non-identical family donors. Haematologica. 2022;107(5):1045–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Niederwieser%20D%2C%20Baldomero%20H%2C%20Bazuaye%20N%2C%20Bupp%20C%2C%20Chaudhri%20N%2C%20Corbacioglu%20S%2C%20et%20al.%20One%20and%20a%20half%20million%20hematopoietic%20stem%20cell%20transplants%3A%20continuous%20and%20differential%20improvement%20in%20worldwide%20access%20with%20the%20use%20of%20non-identical%20family%20donors.%20Haematologica.%202022%3B107(5)%3A1045%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Niederwieser%20D%2C%20Baldomero%20H%2C%20Bazuaye%20N%2C%20Bupp%20C%2C%20Chaudhri%20N%2C%20Corbacioglu%20S%2C%20et%20al.%20One%20and%20a%20half%20million%20hematopoietic%20stem%20cell%20transplants%3A%20continuous%20and%20differential%20improvement%20in%20worldwide%20access%20with%20the%20use%20of%20non-identical%20family%20donors.%20Haematologica.%202022%3B107(5)%3A1045%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 6900037,
+          "page": 609,
+          "en": "Pasquini MC, Srivastava A, Ahmed SO, Aljurf M, Atsuta Y, Doleysh C, et al. Worldwide network for blood and marrow transplantation recommendations for establishing a hematopoietic cell transplantation program, part I: minimum requirements and beyond. Biol Blood Marrow Transplant. 2019;25(12):2322–9.",
+          "zh": "Pasquini MC, Srivastava A, Ahmed SO, Aljurf M, Atsuta Y, Doleysh C, et al. Worldwide network for blood and marrow transplantation recommendations for establishing a hematopoietic cell transplantation program, part I: minimum requirements and beyond. Biol Blood Marrow Transplant. 2019;25(12):2322–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pasquini%20MC%2C%20Srivastava%20A%2C%20Ahmed%20SO%2C%20Aljurf%20M%2C%20Atsuta%20Y%2C%20Doleysh%20C%2C%20et%20al.%20Worldwide%20network%20for%20blood%20and%20marrow%20transplantation%20recommendations%20for%20establishing%20a%20hematopoietic%20cell%20transplantation%20program%2C%20part%20I%3A%20minimum%20requirements%20and%20beyond.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25(12)%3A2322%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pasquini%20MC%2C%20Srivastava%20A%2C%20Ahmed%20SO%2C%20Aljurf%20M%2C%20Atsuta%20Y%2C%20Doleysh%20C%2C%20et%20al.%20Worldwide%20network%20for%20blood%20and%20marrow%20transplantation%20recommendations%20for%20establishing%20a%20hematopoietic%20cell%20transplantation%20program%2C%20part%20I%3A%20minimum%20requirements%20and%20beyond.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25(12)%3A2322%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6900038,
+          "page": 609,
+          "en": "Penack O, Marchetti M, Ruutu T, Aljurf M, Bacigalupo A, Bonifazi F, et al. Prophylaxis and management of graft versus host disease after stem-cell transplantation for haematological malignancies: updated consensus recommendations of the European Society for Blood and Marrow Transplantation. Lancet Haematol. 2020;7(2):e157–e67.",
+          "zh": "Penack O, Marchetti M, Ruutu T, Aljurf M, Bacigalupo A, Bonifazi F, et al. Prophylaxis and management of graft versus host disease after stem-cell transplantation for haematological malignancies: updated consensus recommendations of the European Society for Blood and Marrow Transplantation. Lancet Haematol. 2020;7(2):e157–e67.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Penack%20O%2C%20Marchetti%20M%2C%20Ruutu%20T%2C%20Aljurf%20M%2C%20Bacigalupo%20A%2C%20Bonifazi%20F%2C%20et%20al.%20Prophylaxis%20and%20management%20of%20graft%20versus%20host%20disease%20after%20stem-cell%20transplantation%20for%20haematological%20malignancies%3A%20updated%20consensus%20recommendations%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Lancet%20Haematol.%202020%3B7(2)%3Ae157%E2%80%93e67."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Penack%20O%2C%20Marchetti%20M%2C%20Ruutu%20T%2C%20Aljurf%20M%2C%20Bacigalupo%20A%2C%20Bonifazi%20F%2C%20et%20al.%20Prophylaxis%20and%20management%20of%20graft%20versus%20host%20disease%20after%20stem-cell%20transplantation%20for%20haematological%20malignancies%3A%20updated%20consensus%20recommendations%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Lancet%20Haematol.%202020%3B7(2)%3Ae157%E2%80%93e67."
+            }
+          ]
+        },
+        {
+          "id": 6900039,
+          "page": 609,
+          "en": "Poudyal BS, Tuladhar S, Neupane S, Sapkota S, Pandit S, Shrestha PR, et al. Hematopoietic stem cell transplantation in Nepal: international partnership, implementation steps, and clinical outcomes. Transplant Cell Therapy. 2022;28(5):268–75.",
+          "zh": "Poudyal BS, Tuladhar S, Neupane S, Sapkota S, Pandit S, Shrestha PR, et al. Hematopoietic stem cell transplantation in Nepal: international partnership, implementation steps, and clinical outcomes. Transplant Cell Therapy. 2022;28(5):268–75.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Poudyal%20BS%2C%20Tuladhar%20S%2C%20Neupane%20S%2C%20Sapkota%20S%2C%20Pandit%20S%2C%20Shrestha%20PR%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20in%20Nepal%3A%20international%20partnership%2C%20implementation%20steps%2C%20and%20clinical%20outcomes.%20Transplant%20Cell%20Therapy.%202022%3B28(5)%3A268%E2%80%9375."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Poudyal%20BS%2C%20Tuladhar%20S%2C%20Neupane%20S%2C%20Sapkota%20S%2C%20Pandit%20S%2C%20Shrestha%20PR%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20in%20Nepal%3A%20international%20partnership%2C%20implementation%20steps%2C%20and%20clinical%20outcomes.%20Transplant%20Cell%20Therapy.%202022%3B28(5)%3A268%E2%80%9375."
+            }
+          ]
+        },
+        {
+          "id": 6900040,
+          "page": 609,
+          "en": "Rehman MEU, Chattaraj A, Mahboob A, Ijaz Z, Franco D, Farhan M, et al. Total body irradiation versus chemotherapy conditioning in pediatric acute lymphoblastic leukemia patients undergoing hematopoietic stem cell transplant: asystematic review and meta-analysis. Clin Lymphoma Myeloma Leuk. 2023;23(4):249–58.",
+          "zh": "Rehman MEU, Chattaraj A, Mahboob A, Ijaz Z, Franco D, Farhan M, et al. Total body irradiation versus chemotherapy conditioning in pediatric acute lymphoblastic leukemia patients undergoing hematopoietic stem cell transplant: asystematic review and meta-analysis. Clin Lymphoma Myeloma Leuk. 2023;23(4):249–58.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rehman%20MEU%2C%20Chattaraj%20A%2C%20Mahboob%20A%2C%20Ijaz%20Z%2C%20Franco%20D%2C%20Farhan%20M%2C%20et%20al.%20Total%20body%20irradiation%20versus%20chemotherapy%20conditioning%20in%20pediatric%20acute%20lymphoblastic%20leukemia%20patients%20undergoing%20hematopoietic%20stem%20cell%20transplant%3A%20asystematic%20review%20and%20meta-analysis.%20Clin%20Lymphoma%20Myeloma%20Leuk.%202023%3B23(4)%3A249%E2%80%9358."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rehman%20MEU%2C%20Chattaraj%20A%2C%20Mahboob%20A%2C%20Ijaz%20Z%2C%20Franco%20D%2C%20Farhan%20M%2C%20et%20al.%20Total%20body%20irradiation%20versus%20chemotherapy%20conditioning%20in%20pediatric%20acute%20lymphoblastic%20leukemia%20patients%20undergoing%20hematopoietic%20stem%20cell%20transplant%3A%20asystematic%20review%20and%20meta-analysis.%20Clin%20Lymphoma%20Myeloma%20Leuk.%202023%3B23(4)%3A249%E2%80%9358."
+            }
+          ]
+        },
+        {
+          "id": 6900041,
+          "page": 609,
+          "en": "Rimando J, McCurdy SR, Luznik L. How I prevent GVHD in high-risk patients: posttransplant cyclophosphamide and beyond. Blood. 2023;141(1):49–59.",
+          "zh": "Rimando J, McCurdy SR, Luznik L. How I prevent GVHD in high-risk patients: posttransplant cyclophosphamide and beyond. Blood. 2023;141(1):49–59.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rimando%20J%2C%20McCurdy%20SR%2C%20Luznik%20L.%20How%20I%20prevent%20GVHD%20in%20high-risk%20patients%3A%20posttransplant%20cyclophosphamide%20and%20beyond.%20Blood.%202023%3B141(1)%3A49%E2%80%9359."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rimando%20J%2C%20McCurdy%20SR%2C%20Luznik%20L.%20How%20I%20prevent%20GVHD%20in%20high-risk%20patients%3A%20posttransplant%20cyclophosphamide%20and%20beyond.%20Blood.%202023%3B141(1)%3A49%E2%80%9359."
+            }
+          ]
+        },
+        {
+          "id": 6900042,
+          "page": 609,
+          "en": "Saleem MS, Aljurf M, Srivastava A, Shamsi T, Lu PH, Hamidieh AA, et al. Challenges in managing graft-versus-host disease in developing countries: a perspective. Bone Marrow Transplant. 2019;54(5):641–7.",
+          "zh": "Saleem MS, Aljurf M, Srivastava A, Shamsi T, Lu PH, Hamidieh AA, et al. Challenges in managing graft-versus-host disease in developing countries: a perspective. Bone Marrow Transplant. 2019;54(5):641–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Saleem%20MS%2C%20Aljurf%20M%2C%20Srivastava%20A%2C%20Shamsi%20T%2C%20Lu%20PH%2C%20Hamidieh%20AA%2C%20et%20al.%20Challenges%20in%20managing%20graft-versus-host%20disease%20in%20developing%20countries%3A%20a%20perspective.%20Bone%20Marrow%20Transplant.%202019%3B54(5)%3A641%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Saleem%20MS%2C%20Aljurf%20M%2C%20Srivastava%20A%2C%20Shamsi%20T%2C%20Lu%20PH%2C%20Hamidieh%20AA%2C%20et%20al.%20Challenges%20in%20managing%20graft-versus-host%20disease%20in%20developing%20countries%3A%20a%20perspective.%20Bone%20Marrow%20Transplant.%202019%3B54(5)%3A641%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6900043,
+          "page": 609,
+          "en": "Sawa M, Zatorska-Kwiecinska M, Gozdzik J. Optimizing of the isolation of hematopoietic stem cell in bone marrow transplantation in children. Transfus Apher Sci. 2023;13:103707.",
+          "zh": "Sawa M, Zatorska-Kwiecinska M, Gozdzik J. Optimizing of the isolation of hematopoietic stem cell in bone marrow transplantation in children. Transfus Apher Sci. 2023;13:103707.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sawa%20M%2C%20Zatorska-Kwiecinska%20M%2C%20Gozdzik%20J.%20Optimizing%20of%20the%20isolation%20of%20hematopoietic%20stem%20cell%20in%20bone%20marrow%20transplantation%20in%20children.%20Transfus%20Apher%20Sci.%202023%3B13%3A103707."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sawa%20M%2C%20Zatorska-Kwiecinska%20M%2C%20Gozdzik%20J.%20Optimizing%20of%20the%20isolation%20of%20hematopoietic%20stem%20cell%20in%20bone%20marrow%20transplantation%20in%20children.%20Transfus%20Apher%20Sci.%202023%3B13%3A103707."
+            }
+          ]
+        },
+        {
+          "id": 6900044,
+          "page": 609,
+          "en": "Snowden JA, Saccardi R, Orchard K, Ljungman P, Duarte RF, Labopin M, et al. Benchmarking of survival outcomes following haematopoietic stem cell transplantation: a review of existing processes and the introduction of an international system from the European Society for Blood and Marrow Transplantation (EBMT) and the joint accreditation committee of ISCT and EBMT (JACIE). Bone Marrow Transplant. 2020;55(4):681–94.",
+          "zh": "Snowden JA, Saccardi R, Orchard K, Ljungman P, Duarte RF, Labopin M, et al. Benchmarking of survival outcomes following haematopoietic stem cell transplantation: a review of existing processes and the introduction of an international system from the European Society for Blood and Marrow Transplantation (EBMT) and the joint accreditation committee of ISCT and EBMT (JACIE). Bone Marrow Transplant. 2020;55(4):681–94.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Snowden%20JA%2C%20Saccardi%20R%2C%20Orchard%20K%2C%20Ljungman%20P%2C%20Duarte%20RF%2C%20Labopin%20M%2C%20et%20al.%20Benchmarking%20of%20survival%20outcomes%20following%20haematopoietic%20stem%20cell%20transplantation%3A%20a%20review%20of%20existing%20processes%20and%20the%20introduction%20of%20an%20international%20system%20from%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20(EBMT)%20and%20the%20joint%20accreditation%20committee%20of%20ISCT%20and%20EBMT%20(JACIE).%20Bone%20Marrow%20Transplant.%202020%3B55(4)%3A681%E2%80%9394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Snowden%20JA%2C%20Saccardi%20R%2C%20Orchard%20K%2C%20Ljungman%20P%2C%20Duarte%20RF%2C%20Labopin%20M%2C%20et%20al.%20Benchmarking%20of%20survival%20outcomes%20following%20haematopoietic%20stem%20cell%20transplantation%3A%20a%20review%20of%20existing%20processes%20and%20the%20introduction%20of%20an%20international%20system%20from%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20(EBMT)%20and%20the%20joint%20accreditation%20committee%20of%20ISCT%20and%20EBMT%20(JACIE).%20Bone%20Marrow%20Transplant.%202020%3B55(4)%3A681%E2%80%9394."
+            }
+          ]
+        },
+        {
+          "id": 6900045,
+          "page": 609,
+          "en": "Snowden JA, Sanchez-Ortega I, Corbacioglu S, Basak GW, Chabannon C, de la Camara R, et al. Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57(8):1217–39.",
+          "zh": "Snowden JA, Sanchez-Ortega I, Corbacioglu S, Basak GW, Chabannon C, de la Camara R, et al. Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57(8):1217–39.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Snowden%20JA%2C%20Sanchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20Basak%20GW%2C%20Chabannon%20C%2C%20de%20la%20Camara%20R%2C%20et%20al.%20Indications%20for%20haematopoietic%20cell%20transplantation%20for%20haematological%20diseases%2C%20solid%20tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57(8)%3A1217%E2%80%9339."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Snowden%20JA%2C%20Sanchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20Basak%20GW%2C%20Chabannon%20C%2C%20de%20la%20Camara%20R%2C%20et%20al.%20Indications%20for%20haematopoietic%20cell%20transplantation%20for%20haematological%20diseases%2C%20solid%20tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57(8)%3A1217%E2%80%9339."
+            }
+          ]
+        },
+        {
+          "id": 6900046,
+          "page": 609,
+          "en": "Warner MA, Jambhekar NS, Saadeh S, Jacob EK, Kreuter JD, Mundell WC, et al. Implementation of a patient blood management program in hematopoietic stem cell transplantation (editorial, p. 2763). Transfusion. 2019;59(9):2840–8.",
+          "zh": "Warner MA, Jambhekar NS, Saadeh S, Jacob EK, Kreuter JD, Mundell WC, et al. Implementation of a patient blood management program in hematopoietic stem cell transplantation (editorial, p. 2763). Transfusion. 2019;59(9):2840–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Warner%20MA%2C%20Jambhekar%20NS%2C%20Saadeh%20S%2C%20Jacob%20EK%2C%20Kreuter%20JD%2C%20Mundell%20WC%2C%20et%20al.%20Implementation%20of%20a%20patient%20blood%20management%20program%20in%20hematopoietic%20stem%20cell%20transplantation%20(editorial%2C%20p.%202763).%20Transfusion.%202019%3B59(9)%3A2840%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Warner%20MA%2C%20Jambhekar%20NS%2C%20Saadeh%20S%2C%20Jacob%20EK%2C%20Kreuter%20JD%2C%20Mundell%20WC%2C%20et%20al.%20Implementation%20of%20a%20patient%20blood%20management%20program%20in%20hematopoietic%20stem%20cell%20transplantation%20(editorial%2C%20p.%202763).%20Transfusion.%202019%3B59(9)%3A2840%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6900047,
+          "page": 609,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 610,
+      "blocks": [
+        {
+          "id": 6900048,
+          "page": 610,
+          "en": "Part IX\nIndications and Results\nTopic Leaders: Selim Corbacioglu, Nicolaus Kröger, Anna Sureda, Raffaella Greco and Arnon Nagler",
+          "zh": "第九部分（Part IX）：適應症與結果（Indications and Results）\n主題負責人（Topic Leaders）：Selim Corbacioglu、Nicolaus Kröger、Anna Sureda、Raffaella Greco、Arnon Nagler",
+          "review": "ai-draft",
+          "note": "原書第九部分（Part IX）扉頁，收錄於第 69 章 PDF 末頁（第 9 頁，座標頁碼 610）。"
+        }
+      ]
+    }
+  ]
+}

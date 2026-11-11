@@ -1,0 +1,1080 @@
+{
+  "id": 66,
+  "title": "Photopheresis in Adults and Pediatrics",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 67,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 583,
+      "blocks": [
+        {
+          "id": 6600001,
+          "page": 583,
+          "en": "66 Photopheresis in Adults and Pediatrics\nHildegard Greinix",
+          "zh": "66 成人與兒童體外光照治療 — Hildegard Greinix",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_66"
+            }
+          ]
+        },
+        {
+          "id": 6600002,
+          "page": 583,
+          "en": "66.1 Introduction\nExtracorporeal photopheresis (ECP) is a leukapheresis-based treatment that has been used during the last decades by many clinicians. Based on the results of a prospective, multicenter, international clinical trial in patients with cutaneous T-cell lymphoma (CTCL), ECP was approved by the FDA as the first cellular immunotherapy for cancer in 1988 (Edelson et al. 1987). During the last decades, ECP has been investigated worldwide for the prevention and treatment of a variety of T-cell-mediated diseases including acute and chronic GVHD, solid organ and tissue transplantation, systemic sclerosis, systemic lupus erythematodes, and Crohn’s disease (Knobler et al. 2020, 2021). Administering ECP to patients suffering from these diseases revealed promising results both in prospective and retrospective single and multicenter clinical studies. Despite its frequent use, the mode of action of ECP remains elusive but includes reduction of pro-inflammatory cytokines, induction of anti-inflammatory cytokines, and modulation of immune cell populations.",
+          "zh": "66.1 前言\n體外光照治療（extracorporeal photopheresis, ECP）是一種以白血球分離術（leukapheresis）為基礎的治療方式，在過去數十年間廣為許多臨床醫師使用。根據一項針對皮膚 T 細胞淋巴瘤（cutaneous T-cell lymphoma, CTCL）患者所進行的前瞻性、多中心、國際臨床試驗結果，美國食品藥物管理局（FDA）於 1988 年核准 ECP 作為首個用於癌症的細胞免疫療法（Edelson et al. 1987）。在過去數十年間，全球已針對 ECP 用於預防及治療多種 T 細胞介導疾病進行研究，包括急性與慢性移植物抗宿主疾病（GVHD）、實體器官與組織移植、全身性硬化症（systemic sclerosis）、全身性紅斑性狼瘡（systemic lupus erythematodes）以及克隆氏症（Crohn’s disease）（Knobler et al. 2020, 2021）。在前瞻性與回溯性單中心及多中心臨床研究中，對罹患這些疾病的患者施予 ECP 皆展現出令人鼓舞的結果。儘管經常使用，ECP 的作用機轉仍未完全明瞭，但包括減少促發炎細胞激素、誘導抗發炎細胞激素，以及調節免疫細胞族群。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600003,
+          "page": 583,
+          "en": "66.2 Technical Aspects\nDuring ECP, the patient’s blood is collected via an antecubital vein or a permanent catheter, and the white blood cells are separated from the red blood cells and plasma by centrifugation in a device that is specifically constructed for the procedure (Knobler et al. 2020, 2021; Schoonemann 2003). Collected mononuclear cells (MNCs) using either continuous or discontinuous cell separators are then exposed ex vivo to a photosensitizing agent, 8-methoxypsoralen (8-MOP), which is added directly to the buffy coat/plasma fraction followed by photoactivation with ultraviolet A (UV-A) irradiation and then reinfusion of the photoactivated product (Schoonemann 2003).",
+          "zh": "66.2 技術層面\n在 ECP 過程中，會經由肘前靜脈（antecubital vein）或永久性導管收集患者的血液，並在專為此程序設計的裝置中透過離心將白血球與紅血球及血漿分離（Knobler et al. 2020, 2021; Schoonemann 2003）。使用連續式或非連續式細胞分離機收集到的單核球（mononuclear cells, MNCs），接著會在體外（ex vivo）暴露於感光劑 8-甲氧基補骨脂素（8-methoxypsoralen, 8-MOP）；該感光劑會直接加入白血球層／血漿（buffy coat/plasma）部分，隨後以長波紫外線（ultraviolet A, UV-A）照射進行光活化，再將經光活化的產物回輸至患者體內（Schoonemann 2003）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600004,
+          "page": 583,
+          "endPage": 584,
+          "en": "ECP has originally been developed as a single procedure that combines the separation of the MNCs from the whole blood with irradiation of the 8-MOP-treated leukapheresis products within a single machine (“closed system of ECP”). The “offline technique” (two-step method) of ECP treatment includes as the first step cell separation with a standard blood cell separator that can also be used for the collection of peripheral blood stem cells. The apheresis product is transferred into another disposable, 8-MOP is added, and irradiation is performed with a separate machine at a dosage of 2 J/cm². After irradiation, transfusion of the treated cells is carried out manually by a standard transfusion set. Both ECP techniques have demonstrated clinical efficacy, but almost all clinical studies have been performed with the single ECP technique, and studies comparing both systems are almost completely lacking (Schoonemann 2003; Andreu et al. 1994; Brosig et al. 2016).",
+          "zh": "ECP 最初是作為單一程序所開發，在單一機器內結合了從全血分離 MNCs 以及對經 8-MOP 處理之白血球分離產物進行照射的步驟（「ECP 封閉式系統」〔closed system of ECP〕）。ECP 治療的「離線技術」（offline technique，兩步驟法）則包含：第一步驟使用亦可用於收集周邊血幹細胞的標準血液細胞分離機進行細胞分離；接著將分離術產物轉移至另一個一次性耗材袋中、加入 8-MOP，並使用另一台獨立機器以 2 J/cm² 的劑量進行照射。照射完成後，透過標準輸血套組以人工方式輸注經處理的細胞。兩種 ECP 技術皆已證實具臨床療效，但幾乎所有臨床研究都是採用單一機器 ECP 技術進行，而比較兩種系統的研究則幾乎完全付之闕如（Schoonemann 2003; Andreu et al. 1994; Brosig et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600005,
+          "page": 583,
+          "en": "H. Greinix (*)\nDivision of Hematology, Medical University of Graz, Graz, Austria\ne-mail: hildegard.greinix@medunigraz.at\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_66",
+          "zh": "作者單位與聯絡資訊：\nH. Greinix（通訊作者）：奧地利格拉茨醫科大學（Medical University of Graz）血液科；電子郵件：hildegard.greinix@medunigraz.at。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_66。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 584,
+      "blocks": [
+        {
+          "id": 6600006,
+          "page": 584,
+          "en": "66.3 Results of ECP in Acute GVHD\nUntil recently, no consensus on the optimal choice of agents for salvage therapy of steroid-refractory acute GVHD has been reached, and treatment choices are based on the physician’s experience, risk of toxicity and potential exacerbation of pre-existing comorbidity, interactions with other agents, and ease of use (Martin et al. 2012). During the last years, more and more HCT centers have administered ECP to patients with steroid refractory acute GVHD. Results of larger prospective studies on the use of ECP in this indication are shown in Table 66.1. The intensified schedule of ECP with two to three treatments per week on a weekly basis significantly improved response rates in patients with GI involvement and grade IV acute GVHD (Greinix et al. 2006).",
+          "zh": "66.3 ECP 於急性 GVHD 的治療結果\n直到近期，對於類固醇難治性（steroid-refractory）急性 GVHD 救援治療的最佳藥物選擇尚未達成共識，治療選擇主要取決於醫師的經驗、毒性風險與既有共病症潛在惡化的可能性、與其他藥物的交互作用，以及使用的便利性（Martin et al. 2012）。過去數年間，越來越多造血細胞移植（HCT）中心對類固醇難治性急性 GVHD 患者施予 ECP。針對此適應症使用 ECP 的較大型前瞻性研究結果列於表 66.1。每週進行兩至三次治療的密集型 ECP 排程，顯著提升了具胃腸道（GI）侵犯及第 IV 級急性 GVHD 患者的反應率（Greinix et al. 2006）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600007,
+          "page": 584,
+          "en": "In a systematic review of prospective studies including 6 studies with 103 patients given ECP for steroid-refractory acute GVHD, an overall response rate (ORR) of 69% was achieved including ORR for skin, liver, and GI involvement of 84%, 55%, and 65%, respectively (Abu-Dalle et al. 2014). Compared to anticytokine treatment, administration of ECP for steroid-refractory acute GVHD not only achieved significantly higher ORR (66% vs. 32%) and CR (54% vs. 20%), but ECP was also an independent predictor of response and survival and was associated with significantly lower NRM and superior survival in steroid-refractory grade II acute GVHD (Jagasia et al. 2013). Compared to other IST, ECP has an excellent safety profile with limited toxicity concerns, no increased concerns for viral reactivations, and no documented interaction with other drugs (Martin et al. 2012).",
+          "zh": "在一項納入 6 項研究、共 103 名因類固醇難治性急性 GVHD 接受 ECP 患者的前瞻性研究系統性文獻回顧中，總反應率（overall response rate, ORR）達 69%，其中皮膚、肝臟與 GI 侵犯的 ORR 分別為 84%、55% 與 65%（Abu-Dalle et al. 2014）。相較於抗細胞激素治療，對類固醇難治性急性 GVHD 施予 ECP 不僅達成顯著較高的 ORR（66% 對 32%）與完全緩解率（CR，54% 對 20%），而且 ECP 亦為反應與存活的獨立預測因子，並在類固醇難治性第 II 級急性 GVHD 中與顯著較低的非復發死亡率（NRM）及更優異的存活率相關（Jagasia et al. 2013）。與其他免疫抑制治療（IST）相比，ECP 具有極佳的安全性表現，毒性疑慮有限、不會增加病毒再活化的風險，且無已知與其他藥物的交互作用紀錄（Martin et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600008,
+          "page": 584,
+          "endPage": 585,
+          "en": "In May 2022, the European Medical Agency (EMA) approved ruxolitinib for the treatment of patients aged 12 years and older with acute GVHD who have inadequate response to corticosteroids or other systemic therapies based on the results of the REACH2 study comparing ruxolitinib with best available therapy in patients with steroid-refractory acute GVHD (Zeiser et al. 2020). Therefore, ruxolitinib has been frequently used as second-line therapy during the last year. In a recently published single-center experience of combining ruxolitinib with ECP in 18 patients with severe SR acute GVHD of lower GI tract (50% each overall grades III and IV) and other organ manifestations (skin n = 7, liver n = 6, and upper GI tract n = 2), the majority of patients (n = 15, 83%) received ruxolitinib a median of 20 days before starting ECP (Modemann et al. 2020). The investigators observed a best ORR of 55% including a CR rate of 44% and an additional PR rate of 11%, respectively. The mean daily steroid dose was 130 mg at the diagnosis of SR acute GVHD and at the start of lead-in ruxolitinib (83% of patients) or ruxolitinib with ECP (17% of patients) treatment and could be tapered to less than 20 mg by day 21 and stopped after a median of 27 days. Thus, the feasibility of a rapid steroid taper and discontinuation of steroids with the combination of ruxolitinib and ECP could be demonstrated. Responding patients had a two-year OS of 70% with a median survival of 18 months. These promising results should be confirmed in prospective studies to increase the treatment options for patients with severe SR acute GVHD.",
+          "zh": "2022 年 5 月，歐洲藥品管理局（EMA）根據比較 ruxolitinib 與最佳可用療法於類固醇難治性急性 GVHD 患者的 REACH2 研究結果，核准 ruxolitinib 用於治療對皮質類固醇或其他全身性療法反應不佳之 12 歲及以上急性 GVHD 患者（Zeiser et al. 2020）。因此，在過去一年間，ruxolitinib 經常被用作第二線治療。在近期發表的一項單中心經驗中，針對 18 名患有嚴重類固醇難治性（SR）下消化道急性 GVHD（整體分級第 III 級與第 IV 級各占 50%）並伴隨其他器官表現（皮膚 n = 7、肝臟 n = 6 及上消化道 n = 2）的患者合併使用 ruxolitinib 與 ECP，大多數患者（n = 15，83%）在開始 ECP 前中位數 20 天即已接受 ruxolitinib 治療（Modemann et al. 2020）。研究人員觀察到最佳 ORR 為 55%，其中包含 44% 的 CR 率以及額外 11% 的部分緩解（PR）率。在診斷出 SR 急性 GVHD 以及開始前導 ruxolitinib（83% 患者）或 ruxolitinib 合併 ECP（17% 患者）治療時，平均每日類固醇劑量為 130 mg，並可在第 21 天前逐步減量至低於 20 mg，且於中位數 27 天後停藥。因此，這證實了透過 ruxolitinib 與 ECP 併用來達成快速類固醇減量及停用類固醇的可行性。有反應患者的兩年總存活率（OS）為 70%，中位存活期為 18 個月。這些令人鼓舞的結果應在未來的前瞻性研究中加以確認，以增加嚴重 SR 急性 GVHD 患者的治療選擇。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600009,
+          "page": 584,
+          "en": "Table 66.1 Results of second-line treatment of acute GVHD using extracorporeal photopheresis\n\nAuthor (year) | No. of patients | CR skin no. (%) | CR liver no. (%) | CR gut no. (%) | OS%\nSalvaneschi et al. (2001) | 9 | 6/9 (67) | 1/3 (33) | 3/5 (60) | 67\nDall’Amico (2002) | 14 | 10/14 (71) | 4/7 (57) | 6/10 (60) | 57\nMessina et al. (2003) | 33 | 25/33 (76) | 9/15 (60) | 15/20 (75) | 69 at 5 y\nGreinix et al. (2006) | 59 | 47/57 (82) | 14/23 (61) | 9/15 (60) | 47 at 5 y\nGarban et al. (2005) | 12 | 8/12 (67) | 0/2 (0) | 2/5 (40) | 4\nKanold et al. (2007) | 12 | 9/10 (90) | 5/9 (56) | 5/6 (83) | 75 at 8.5 m\nCalore et al. (2008) | 15 | 12/13 (92) | — | 14/14 (100) | 85 at 5 y\nPerfetti et al. (2008) | 23 | 15/23 (65) | 3/11 (27) | 8/20 (40) | 48 at 37 m\nGonzalez-Vicent et al. (2008) | 8 | 8/8 (100) | 2/2 (100) | 4/7 (57) | 38\nPerotti et al. (2010) | 50 | 39/47 (83) (1) | 16/24 (67) (1) | 8/11 (73) (1) | 64 at 1 y\nJagasia et al. (2013) | 57 | 38/57 (67) (1) | 38/57 (67) (1) | 38/57 (67) (1) | 59 at 2 y\nCalore et al. (2015) | 72 | 50/64 (78) | 10/12 (84) | 42/55 (76) | 71 at 5 y\nNiittyvuopio et al. (2018) | 52 | 24/31 (77) | 1/3 (33) | 14/41 (34) | 51 at 1 y\nWorel et al. (2018) | 99 | 71/88 (80) | 18/29 (61) | 26/35 (75) | 50 at 5 y\nAmat et al. (2021) | 37 | 9/28 (32) | 3/11 (27) | 12/30 (40) | 80 at 3 y\n\nAbbreviations: No number, CR complete resolution, OS overall survival, y years, m months\nResults were provided as complete and partial resolution",
+          "zh": "表 66.1 使用體外光照治療作為急性 GVHD 第二線治療的結果\n\n作者（年份） | 患者人數 | 皮膚 CR 人數（%） | 肝臟 CR 人數（%） | 腸道 CR 人數（%） | OS%\nSalvaneschi et al. (2001) | 9 | 6/9 (67) | 1/3 (33) | 3/5 (60) | 67\nDall’Amico (2002) | 14 | 10/14 (71) | 4/7 (57) | 6/10 (60) | 57\nMessina et al. (2003) | 33 | 25/33 (76) | 9/15 (60) | 15/20 (75) | 5 年 69\nGreinix et al. (2006) | 59 | 47/57 (82) | 14/23 (61) | 9/15 (60) | 5 年 47\nGarban et al. (2005) | 12 | 8/12 (67) | 0/2 (0) | 2/5 (40) | 4\nKanold et al. (2007) | 12 | 9/10 (90) | 5/9 (56) | 5/6 (83) | 8.5 個月 75\nCalore et al. (2008) | 15 | 12/13 (92) | — | 14/14 (100) | 5 年 85\nPerfetti et al. (2008) | 23 | 15/23 (65) | 3/11 (27) | 8/20 (40) | 37 個月 48\nGonzalez-Vicent et al. (2008) | 8 | 8/8 (100) | 2/2 (100) | 4/7 (57) | 38\nPerotti et al. (2010) | 50 | 39/47 (83) (1) | 16/24 (67) (1) | 8/11 (73) (1) | 1 年 64\nJagasia et al. (2013) | 57 | 38/57 (67) (1) | 38/57 (67) (1) | 38/57 (67) (1) | 2 年 59\nCalore et al. (2015) | 72 | 50/64 (78) | 10/12 (84) | 42/55 (76) | 5 年 71\nNiittyvuopio et al. (2018) | 52 | 24/31 (77) | 1/3 (33) | 14/41 (34) | 1 年 51\nWorel et al. (2018) | 99 | 71/88 (80) | 18/29 (61) | 26/35 (75) | 5 年 50\nAmat et al. (2021) | 37 | 9/28 (32) | 3/11 (27) | 12/30 (40) | 3 年 80\n\n縮寫：No：人數（number）；CR：完全緩解（complete resolution）；OS：總存活率（overall survival）；y：年（years）；m：月（months）。\n註 (1)：結果係以完全緩解與部分緩解合計提供（Results were provided as complete and partial resolution）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 585,
+      "blocks": [
+        {
+          "id": 6600010,
+          "page": 585,
+          "en": "66.4 Results of ECP in Chronic GVHD\nMany therapeutic options have been reported for salvage treatment of steroid-refractory chronic GVHD, and until recently, no single class of IS agent has been established as standard therapy (Wolff et al. 2011). In August 2017 ibrutinib and in September 2021 ruxolitinib were approved by the FDA for the treatment of patients with chronic GVHD after failure of one or more lines of systemic therapies.",
+          "zh": "66.4 ECP 於慢性 GVHD 的治療結果\n許多治療選擇已被報導用於類固醇難治性慢性 GVHD 的救援治療，但直到近期，尚無單一類別的免疫抑制（IS）藥物被確立為標準治療（Wolff et al. 2011）。美國 FDA 分別於 2017 年 8 月核准 ibrutinib 及於 2021 年 9 月核准 ruxolitinib，用於治療接受一線或多線全身性療法失敗後的慢性 GVHD 患者。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600011,
+          "page": 585,
+          "endPage": 586,
+          "en": "ECP represents a frequently used therapeutic approach for the treatment of chronic GVHD patients failing corticosteroids (Table 66.2) (Knobler et al. 2020, 2021; Wolff et al. 2011; Greinix et al. 1998; Flowers et al. 2008; Jagasia et al. 2009; Greinix et al. 2011). Most of the clinical experience in ECP treatment of steroid-refractory chronic GVHD patients is based on retrospective analyses with consistently high response rates in up to 80% of patients with cutaneous manifestations and substantial improvement in sclerodermatous skin involvement (Knobler et al. 2020, 2021; Wolff et al. 2011).",
+          "zh": "對於皮質類固醇治療失敗的慢性 GVHD 患者而言，ECP 是一種常被採用的治療方式（表 66.2）（Knobler et al. 2020, 2021; Wolff et al. 2011; Greinix et al. 1998; Flowers et al. 2008; Jagasia et al. 2009; Greinix et al. 2011）。以 ECP 治療類固醇難治性慢性 GVHD 患者的臨床經驗大多基於回溯性分析，其中在具皮膚表現的患者中一致展現出高達 80% 的高反應率，且在硬皮症樣（sclerodermatous）皮膚侵犯方面亦有顯著改善（Knobler et al. 2020, 2021; Wolff et al. 2011）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600012,
+          "page": 585,
+          "en": "Table 66.2 Results of the use of extracorporeal photopheresis in chronic GVHD\n\nAuthor (year) | No of patients | CR/PR skin (%) | CR/PR liver (%) | CR/PR oral (%) | ORR (%)\nGreinix et al. (1998) | 15 | 80 | 70 | 100 | Na\nSalvaneschi et al. (2001) | 14 | 83 | 67 | 67 | 64\nMessina et al. (2003) | 44 | 56 | 60 | – | 57\nSeaton et al. (2003) | 28 | 48 | 32 | 21 | 36\nApisarnthanarax et al. (2003) | 32 | 59 | 0 | Na | 56\nFoss et al. (2005) | 25 | 64 | 0 | 46 | 64\nRubegni et al. (2005) | 32 | 81 | 77 | 92 | 69\nGreinix et al. (2006) | 47 | 93 | 84 | 95 | 83\nCouriel et al. (2006) | 71 | 57 | 71 | 78 | 61\nKanold et al. (2007) | 15 | 75 | 82 | 86 | 50\nPerseghin et al. (2007) | 25 | 67 | 67 | 78 | 73\nFlowers et al. (2008) | 48 | 40 | 29 | 53 | 40\nJagasia et al. (2009) | 43 | — | — | — | 65\nPerotti et al. (2010) | 23 | 96 | 100 | 80 | 69\nDignan et al. (2012) | 82 | 92 | Na | 91 | 74\nGreinix et al. (2011) | 29 | 31 | 50 | 70 | Na\nDel Fante et al. (2016) | 102 | Na | Na | Na | 81\nUssowicz et al. (2013) | 13 | 67 | 89 | 86 | 69\nHautmann et al. (2013) | 32 | 59 | 100 | 60 | 44\nDignan et al. (2014) | 38 | 65 | – | 29 | 50\nSakellari et al. (2018) | 88 | 83 | 53ᵃ | Na | 73\nGandelman et al. (2018) | 77 | 55 | Na | Na | 62\n\nAbbreviations: No number, CR complete resolution, PR partial resolution, ORR overall response rate, na not available\nᵃVisceral involvement",
+          "zh": "表 66.2 於慢性 GVHD 使用體外光照治療的結果\n\n作者（年份） | 患者人數 | 皮膚 CR/PR（%） | 肝臟 CR/PR（%） | 口腔 CR/PR（%） | ORR（%）\nGreinix et al. (1998) | 15 | 80 | 70 | 100 | Na\nSalvaneschi et al. (2001) | 14 | 83 | 67 | 67 | 64\nMessina et al. (2003) | 44 | 56 | 60 | – | 57\nSeaton et al. (2003) | 28 | 48 | 32 | 21 | 36\nApisarnthanarax et al. (2003) | 32 | 59 | 0 | Na | 56\nFoss et al. (2005) | 25 | 64 | 0 | 46 | 64\nRubegni et al. (2005) | 32 | 81 | 77 | 92 | 69\nGreinix et al. (2006) | 47 | 93 | 84 | 95 | 83\nCouriel et al. (2006) | 71 | 57 | 71 | 78 | 61\nKanold et al. (2007) | 15 | 75 | 82 | 86 | 50\nPerseghin et al. (2007) | 25 | 67 | 67 | 78 | 73\nFlowers et al. (2008) | 48 | 40 | 29 | 53 | 40\nJagasia et al. (2009) | 43 | — | — | — | 65\nPerotti et al. (2010) | 23 | 96 | 100 | 80 | 69\nDignan et al. (2012) | 82 | 92 | Na | 91 | 74\nGreinix et al. (2011) | 29 | 31 | 50 | 70 | Na\nDel Fante et al. (2016) | 102 | Na | Na | Na | 81\nUssowicz et al. (2013) | 13 | 67 | 89 | 86 | 69\nHautmann et al. (2013) | 32 | 59 | 100 | 60 | 44\nDignan et al. (2014) | 38 | 65 | – | 29 | 50\nSakellari et al. (2018) | 88 | 83 | 53ᵃ | Na | 73\nGandelman et al. (2018) | 77 | 55 | Na | Na | 62\n\n縮寫：No：人數（number）；CR：完全緩解（complete resolution）；PR：部分緩解（partial resolution）；ORR：總反應率（overall response rate）；na（Na）：無資料（not available）。\nᵃ 內臟侵犯（Visceral involvement）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 586,
+      "blocks": [
+        {
+          "id": 6600013,
+          "page": 586,
+          "en": "In a multicenter, randomized, controlled, prospective phase II study of ECP in 95 patients with steroid-refractory/dependent/intolerant chronic GVHD, significantly more patients in the ECP arm achieved a complete or partial response of cutaneous manifestations (p < 0.001) as well as a 50% reduction in steroid dose and at least a 25% decrease in total skin score (p = 0.04) by week 12 (Greinix et al. 1998). A steroid-sparing effect of ECP has also been reported by other investigators (Knobler et al. 2020, 2021; Wolff et al. 2011; Flowers et al. 2008; Jagasia et al. 2009).",
+          "zh": "在一項針對 95 名類固醇難治性／依賴性／不耐受性慢性 GVHD 患者進行的多中心、隨機、對照、前瞻性第二期 ECP 研究中，ECP 組有顯著較多患者在第 12 週前達到皮膚表現的完全或部分反應（p < 0.001），以及類固醇劑量減少 50% 且總皮膚評分降低至少 25%（p = 0.04）（Greinix et al. 1998）。其他研究人員亦曾報導 ECP 具有減少類固醇用量（steroid-sparing）的效應（Knobler et al. 2020, 2021; Wolff et al. 2011; Flowers et al. 2008; Jagasia et al. 2009）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600014,
+          "page": 586,
+          "en": "In a systematic review of prospective studies on the use of ECP in patients with chronic GVHD, an ORR of 71% in cutaneous, 62% in GI, 58% in hepatic, 63% in oral mucosal, and 45% in musculoskeletal manifestations of chronic GVHD was reported (Abu-Dalle et al. 2014). The rate of IS discontinuation was 23%, and ECP was tolerated excellently. In another meta-analysis, high response rates in cutaneous and extracutaneous manifestations of chronic GVHD including 48% of responses in lung involvement were confirmed (Del Fante et al. 2016). The ECP schedule in chronic GVHD is empirical ranging from multiple treatments per week on a weekly basis to two treatments biweekly and in case of response prolongation of the treatment interval to 4–6 weeks, respectively. No clear association between ECP dose intensity and response has been reported. Higher response rates were achieved in steroid-refractory patients given ECP earlier in the course of their disease (Malik et al. 2014; Messina et al. 2003). Improvements in the quality of life and survival in ECP responders have been reported (Knobler et al. 2020, 2021; Wolff et al. 2011; Greinix et al. 1998; Malik et al. 2014; Messina et al. 2003).",
+          "zh": "在一項針對慢性 GVHD 患者使用 ECP 之前瞻性研究的系統性文獻回顧中，報導慢性 GVHD 的皮膚表現 ORR 為 71%、GI 為 62%、肝臟為 58%、口腔黏膜為 63%，而肌肉骨骼表現則為 45%（Abu-Dalle et al. 2014）。免疫抑制劑（IS）停藥率為 23%，且患者對 ECP 的耐受性極佳。在另一項統合分析（meta-analysis）中，亦確認了慢性 GVHD 的皮膚與皮膚外表現皆具高反應率，包括肺部侵犯也有 48% 的反應率（Del Fante et al. 2016）。慢性 GVHD 的 ECP 排程屬於經驗性設定，範圍從每週進行多次治療到每兩週進行兩次治療不等，而若有反應則可將治療間隔延長至 4–6 週。目前尚未報導 ECP 劑量強度與反應之間有明確關聯。在病程較早期即接受 ECP 的類固醇難治性患者中，可達到較高的反應率（Malik et al. 2014; Messina et al. 2003）。文獻亦已報導對 ECP 有反應者的生活品質與存活率均有所改善（Knobler et al. 2020, 2021; Wolff et al. 2011; Greinix et al. 1998; Malik et al. 2014; Messina et al. 2003）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600015,
+          "page": 586,
+          "en": "In a retrospective analysis, 23 patients with SR chronic GVHD (57% NIH grade 3, 91% beyond second-line treatment, and 87% with more than one organ involved) received the combination of ruxolitinib at 5–10 mg bid and ECP with two treatments on consecutive days every 2–4 weeks (Maas-Bauer et al. 2021). Thirty-five percent of patients started ECP and ruxolitinib treatment simultaneously, whereas 30% started ECP first and the median time of ECP therapy prior to combination treatment was 3.25 (1–7) months. During ECP alone, the best response was PR in 43% (3/7) of patients and 57% (4/7) were nonresponders. Thirty-five percent of patients started ruxolitinib treatment first a median of 15 (1–29) months prior to combination treatment. The best ORR of ruxolitinib alone was PR in 62.5% (5/8), and 37.5% (3/8) did not respond. The best ORR of ECP combined with ruxolitinib was 74% (17/23) including 9% CR and 65% PR and a two-year OS of 75%. Thus, combinational treatment increased ORR in heavily pretreated patients with multiorgan involvement SR chronic GVHD and was able to improve the outcome of patients after inadequate responses to ECP or ruxolitinib monotherapy. Patients received a median of six months of combination therapy.",
+          "zh": "在一項回溯性分析中，23 名 SR 慢性 GVHD 患者（57% 為美國國家衛生研究院〔NIH〕第 3 級、91% 已超過第二線治療，且 87% 具一個以上器官侵犯）接受了 ruxolitinib 5–10 mg 每日兩次（bid）合併每 2–4 週連續兩天進行兩次 ECP 治療的方案（Maas-Bauer et al. 2021）。35% 的患者同時開始 ECP 與 ruxolitinib 治療，而 30% 的患者先開始 ECP，且在進入合併治療前的 ECP 治療時間中位數為 3.25（1–7）個月。在單用 ECP 期間，最佳反應為 43%（3/7）患者達到 PR，57%（4/7）為無反應者。35% 的患者在進入合併治療前中位數 15（1–29）個月先開始 ruxolitinib 治療。單用 ruxolitinib 的最佳 ORR 為 62.5%（5/8）達到 PR，37.5%（3/8）無反應。ECP 合併 ruxolitinib 的最佳 ORR 為 74%（17/23），其中包括 9% CR 與 65% PR，兩年 OS 為 75%。因此，合併治療提高了曾接受多線治療且具多器官侵犯之 SR 慢性 GVHD 患者的 ORR，並能在患者對 ECP 或 ruxolitinib 單一療法反應不佳後改善其治療結果。患者接受合併治療的中位時間為 6 個月。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600016,
+          "page": 586,
+          "en": "ECP is a safe and efficacious treatment for patients with chronic GVHD with steroid-sparing capacity. Transient hypotension during treatment and mild anemia and/or thrombocytopenia have been reported as side effects of ECP. Prospective clinical studies are warranted to assess the efficacy of ECP in well-defined cohorts of chronic GVHD patients treated earlier in the course of their disease. Recently, Jagasia and colleagues reported the first results of a randomized, controlled, multicenter study in NIH-defined moderate/severe chronic GVHD patients given ECP in the study arm in combination with standard of care IS (Jagasia et al. 2017). Besides an ORR of 74%, and thus, a promising efficacy ECP demonstrated to be safe and tolerated well.",
+          "zh": "ECP 對於慢性 GVHD 患者而言是一種安全、有效且具備減少類固醇用量能力的治療。治療期間短暫性低血壓以及輕度貧血及／或血小板低下曾被報導為 ECP 的副作用。未來有必要進行前瞻性臨床研究，以在界定明確、於病程較早期接受治療的慢性 GVHD 患者世代中評估 ECP 的療效。近期，Jagasia 及其同事報導了一項針對 NIH 定義之中度／重度慢性 GVHD 患者所進行的隨機、對照、多中心研究的初步結果，其中研究組給予 ECP 合併標準照護 IS（Jagasia et al. 2017）。除了達到 74% 的 ORR 並展現出令人鼓舞的療效外，ECP 亦證實具有安全性且耐受性良好。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600017,
+          "page": 586,
+          "endPage": 587,
+          "en": "66.5 Conclusions\nECP has been used for over 30 years in the treatment of CTCL, acute and chronic GVHD, and solid organ transplant rejection. Multiple scientific organizations recommend its use due to ECP’s efficacy and excellent safety profile (Knobler et al. 2020, 2021). Due to the lack of interactions with other agents and the avoidance of general IS, ECP compares favorably with other IS strategies, supporting its increasingly frequent use as salvage therapy of steroid-refractory/dependent acute and chronic GVHD. Of note, the corticosteroid-sparing potential of ECP has been confirmed in numerous retrospective and prospective studies and translates into immediate clinical benefit for patients with GVHD as well as a reduction of transplant-associated morbidity and mortality.",
+          "zh": "66.5 結論\nECP 用於治療 CTCL、急性與慢性 GVHD 以及實體器官移植排斥已有超過 30 年的歷史。鑑於 ECP 的療效與極佳的安全性表現，多個科學組織皆建議使用此療法（Knobler et al. 2020, 2021）。由於與其他藥物無交互作用且可避免全身性免疫抑制（general IS），ECP 相較於其他 IS 策略更具優勢，這也支持其日益頻繁地用作類固醇難治性／依賴性急性與慢性 GVHD 的救援治療。值得注意的是，ECP 減少皮質類固醇用量的潛力已在眾多回溯性與前瞻性研究中獲得證實，並能轉化為 GVHD 患者的立即臨床獲益，同時降低移植相關的致病率與死亡率。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 587,
+      "blocks": [
+        {
+          "id": 6600018,
+          "page": 587,
+          "en": "No general recommendation can be made on the treatment schedule due to missing evidence. Ideally, ECP treatment should be initiated as early as possible after the indication is confirmed. Especially in patients with steroid-refractory acute GVHD, earlier treatment onset and an intensified weekly ECP schedule resulted in improved response rates and patients’ outcomes. Prospective studies on the use of ECP as upfront treatment in GVHD as well as in combination with recently approved agents are warranted.",
+          "zh": "由於缺乏實證，目前無法對治療排程提出一般性建議。理想情況下，應在確立適應症後儘早開始 ECP 治療。特別是在類固醇難治性急性 GVHD 患者中，較早開始治療以及採用密集的每週 ECP 排程，可改善反應率與患者預後。未來有必要針對將 ECP 作為 GVHD 前線治療（upfront treatment）以及與近期核准藥物合併使用進行前瞻性研究。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600019,
+          "page": 587,
+          "en": "Key Points\n• ECP is a safe and efficacious adjunct therapy of steroid-refractory acute and chronic GvHD.\n• Results in upfront therapy of chronic GvHD are promising.",
+          "zh": "重點摘要（Key Points）\n• ECP 是治療類固醇難治性急性與慢性 GvHD 安全且有效的輔助療法。\n• 用於慢性 GvHD 前線治療的結果令人鼓舞。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6600020,
+          "page": 587,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft",
+          "retained": true
+        },
+        {
+          "id": 6600021,
+          "page": 587,
+          "en": "Abu-Dalle I, Reljic T, Nishihori T, et al. Extracorporeal photopheresis in steroid-refractory acute or chronic graft-versus-host disease: results of a systematic review of prospective studies. Biol Blood Marrow Transplant. 2014;20:1677–86.",
+          "zh": "Abu-Dalle I, Reljic T, Nishihori T, et al. Extracorporeal photopheresis in steroid-refractory acute or chronic graft-versus-host disease: results of a systematic review of prospective studies. Biol Blood Marrow Transplant. 2014;20:1677–86.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abu-Dalle%20I%2C%20Reljic%20T%2C%20Nishihori%20T%2C%20et%20al.%20Extracorporeal%20photopheresis%20in%20steroid-refractory%20acute%20or%20chronic%20graft-versus-host%20disease%3A%20results%20of%20a%20systematic%20review%20of%20prospective%20studies.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A1677%E2%80%9386."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abu-Dalle%20I%2C%20Reljic%20T%2C%20Nishihori%20T%2C%20et%20al.%20Extracorporeal%20photopheresis%20in%20steroid-refractory%20acute%20or%20chronic%20graft-versus-host%20disease%3A%20results%20of%20a%20systematic%20review%20of%20prospective%20studies.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A1677%E2%80%9386."
+            }
+          ]
+        },
+        {
+          "id": 6600022,
+          "page": 587,
+          "en": "Amat P, Lopez-Corral L, Goterris R, et al. Biomarker profile predicts clinical efficacy of extracorporeal photopheresis in steroid-resistant acute and chronic graft-vs-host disease after allogenic hematopoietic stem cell transplant. J Clin Apher. 2021;36:697–710.",
+          "zh": "Amat P, Lopez-Corral L, Goterris R, et al. Biomarker profile predicts clinical efficacy of extracorporeal photopheresis in steroid-resistant acute and chronic graft-vs-host disease after allogenic hematopoietic stem cell transplant. J Clin Apher. 2021;36:697–710.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Amat%20P%2C%20Lopez-Corral%20L%2C%20Goterris%20R%2C%20et%20al.%20Biomarker%20profile%20predicts%20clinical%20efficacy%20of%20extracorporeal%20photopheresis%20in%20steroid-resistant%20acute%20and%20chronic%20graft-vs-host%20disease%20after%20allogenic%20hematopoietic%20stem%20cell%20transplant.%20J%20Clin%20Apher.%202021%3B36%3A697%E2%80%93710."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Amat%20P%2C%20Lopez-Corral%20L%2C%20Goterris%20R%2C%20et%20al.%20Biomarker%20profile%20predicts%20clinical%20efficacy%20of%20extracorporeal%20photopheresis%20in%20steroid-resistant%20acute%20and%20chronic%20graft-vs-host%20disease%20after%20allogenic%20hematopoietic%20stem%20cell%20transplant.%20J%20Clin%20Apher.%202021%3B36%3A697%E2%80%93710."
+            }
+          ]
+        },
+        {
+          "id": 6600023,
+          "page": 587,
+          "en": "Andreu G, Leon A, Heshmati F, et al. Extracorporeal photochemotherapy: evaluation of two techniques and use in connective tissue disorders. Transfus Sci. 1994;15:443–54.",
+          "zh": "Andreu G, Leon A, Heshmati F, et al. Extracorporeal photochemotherapy: evaluation of two techniques and use in connective tissue disorders. Transfus Sci. 1994;15:443–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Andreu%20G%2C%20Leon%20A%2C%20Heshmati%20F%2C%20et%20al.%20Extracorporeal%20photochemotherapy%3A%20evaluation%20of%20two%20techniques%20and%20use%20in%20connective%20tissue%20disorders.%20Transfus%20Sci.%201994%3B15%3A443%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Andreu%20G%2C%20Leon%20A%2C%20Heshmati%20F%2C%20et%20al.%20Extracorporeal%20photochemotherapy%3A%20evaluation%20of%20two%20techniques%20and%20use%20in%20connective%20tissue%20disorders.%20Transfus%20Sci.%201994%3B15%3A443%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 6600024,
+          "page": 587,
+          "en": "Apisarnthanarax N, Donato M, Korbling M, et al. Extracorporeal photopheresis therapy in the management of steroid-refractory or steroid-dependent cutaneous chronic graft-versus-host disease after allogeneic stem cell transplantation: feasibility and results. Bone Marrow Transplant. 2003;31:459–65.",
+          "zh": "Apisarnthanarax N, Donato M, Korbling M, et al. Extracorporeal photopheresis therapy in the management of steroid-refractory or steroid-dependent cutaneous chronic graft-versus-host disease after allogeneic stem cell transplantation: feasibility and results. Bone Marrow Transplant. 2003;31:459–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Apisarnthanarax%20N%2C%20Donato%20M%2C%20Korbling%20M%2C%20et%20al.%20Extracorporeal%20photopheresis%20therapy%20in%20the%20management%20of%20steroid-refractory%20or%20steroid-dependent%20cutaneous%20chronic%20graft-versus-host%20disease%20after%20allogeneic%20stem%20cell%20transplantation%3A%20feasibility%20and%20results.%20Bone%20Marrow%20Transplant.%202003%3B31%3A459%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Apisarnthanarax%20N%2C%20Donato%20M%2C%20Korbling%20M%2C%20et%20al.%20Extracorporeal%20photopheresis%20therapy%20in%20the%20management%20of%20steroid-refractory%20or%20steroid-dependent%20cutaneous%20chronic%20graft-versus-host%20disease%20after%20allogeneic%20stem%20cell%20transplantation%3A%20feasibility%20and%20results.%20Bone%20Marrow%20Transplant.%202003%3B31%3A459%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 6600025,
+          "page": 587,
+          "en": "Brosig A, Hähnel V, Orsó E, et al. Technical comparison of four different photopheresis systems. Transfusion. 2016;56:2510–9.",
+          "zh": "Brosig A, Hähnel V, Orsó E, et al. Technical comparison of four different photopheresis systems. Transfusion. 2016;56:2510–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Brosig%20A%2C%20H%C3%A4hnel%20V%2C%20Ors%C3%B3%20E%2C%20et%20al.%20Technical%20comparison%20of%20four%20different%20photopheresis%20systems.%20Transfusion.%202016%3B56%3A2510%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Brosig%20A%2C%20H%C3%A4hnel%20V%2C%20Ors%C3%B3%20E%2C%20et%20al.%20Technical%20comparison%20of%20four%20different%20photopheresis%20systems.%20Transfusion.%202016%3B56%3A2510%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6600026,
+          "page": 587,
+          "en": "Calore E, Calo A, Tridello G, et al. Extracorporeal photochemotherapy may improve outcome in children with acute GVHD. Bone Marrow Transplant. 2008;42:421–5.",
+          "zh": "Calore E, Calo A, Tridello G, et al. Extracorporeal photochemotherapy may improve outcome in children with acute GVHD. Bone Marrow Transplant. 2008;42:421–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Calore%20E%2C%20Calo%20A%2C%20Tridello%20G%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20may%20improve%20outcome%20in%20children%20with%20acute%20GVHD.%20Bone%20Marrow%20Transplant.%202008%3B42%3A421%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Calore%20E%2C%20Calo%20A%2C%20Tridello%20G%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20may%20improve%20outcome%20in%20children%20with%20acute%20GVHD.%20Bone%20Marrow%20Transplant.%202008%3B42%3A421%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 6600027,
+          "page": 587,
+          "en": "Calore E, Marson P, Pillon M, et al. Treatment of acute graft-versus-host disease in childhood with extracorporeal photochemotherapy/photopheresis: the Padova experience. Biol Blood Marrow Transplant. 2015;21:1963–72.",
+          "zh": "Calore E, Marson P, Pillon M, et al. Treatment of acute graft-versus-host disease in childhood with extracorporeal photochemotherapy/photopheresis: the Padova experience. Biol Blood Marrow Transplant. 2015;21:1963–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Calore%20E%2C%20Marson%20P%2C%20Pillon%20M%2C%20et%20al.%20Treatment%20of%20acute%20graft-versus-host%20disease%20in%20childhood%20with%20extracorporeal%20photochemotherapy%2Fphotopheresis%3A%20the%20Padova%20experience.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A1963%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Calore%20E%2C%20Marson%20P%2C%20Pillon%20M%2C%20et%20al.%20Treatment%20of%20acute%20graft-versus-host%20disease%20in%20childhood%20with%20extracorporeal%20photochemotherapy%2Fphotopheresis%3A%20the%20Padova%20experience.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A1963%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 6600028,
+          "page": 587,
+          "en": "Couriel DR, Hosing C, Saliba R, et al. Extracorporeal photochemotherapy for the treatment of steroid-resistant chronic GVHD. Blood. 2006;107:3074–80.",
+          "zh": "Couriel DR, Hosing C, Saliba R, et al. Extracorporeal photochemotherapy for the treatment of steroid-resistant chronic GVHD. Blood. 2006;107:3074–80.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Couriel%20DR%2C%20Hosing%20C%2C%20Saliba%20R%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20the%20treatment%20of%20steroid-resistant%20chronic%20GVHD.%20Blood.%202006%3B107%3A3074%E2%80%9380."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Couriel%20DR%2C%20Hosing%20C%2C%20Saliba%20R%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20the%20treatment%20of%20steroid-resistant%20chronic%20GVHD.%20Blood.%202006%3B107%3A3074%E2%80%9380."
+            }
+          ]
+        },
+        {
+          "id": 6600029,
+          "page": 587,
+          "en": "Dall’Amico. Extracorporeal photochemotherapy for the treatment of graft-versus-host disease. Ther Apher. 2002;6:296–304.",
+          "zh": "Dall’Amico. Extracorporeal photochemotherapy for the treatment of graft-versus-host disease. Ther Apher. 2002;6:296–304.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dall%E2%80%99Amico.%20Extracorporeal%20photochemotherapy%20for%20the%20treatment%20of%20graft-versus-host%20disease.%20Ther%20Apher.%202002%3B6%3A296%E2%80%93304."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dall%E2%80%99Amico.%20Extracorporeal%20photochemotherapy%20for%20the%20treatment%20of%20graft-versus-host%20disease.%20Ther%20Apher.%202002%3B6%3A296%E2%80%93304."
+            }
+          ]
+        },
+        {
+          "id": 6600030,
+          "page": 587,
+          "en": "Del Fante C, Galasso T, Bernasconi P, et al. Extracorporeal photopheresis as a new supportive therapy for bronchiolitis obliterans syndrome after allogeneic stem cell transplantation. Bone Marrow Transplant. 2016;51:728–31.",
+          "zh": "Del Fante C, Galasso T, Bernasconi P, et al. Extracorporeal photopheresis as a new supportive therapy for bronchiolitis obliterans syndrome after allogeneic stem cell transplantation. Bone Marrow Transplant. 2016;51:728–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Del%20Fante%20C%2C%20Galasso%20T%2C%20Bernasconi%20P%2C%20et%20al.%20Extracorporeal%20photopheresis%20as%20a%20new%20supportive%20therapy%20for%20bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202016%3B51%3A728%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Del%20Fante%20C%2C%20Galasso%20T%2C%20Bernasconi%20P%2C%20et%20al.%20Extracorporeal%20photopheresis%20as%20a%20new%20supportive%20therapy%20for%20bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202016%3B51%3A728%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 6600031,
+          "page": 587,
+          "en": "Dignan FL, Greenblatt D, Cox M, et al. Efficacy of bimonthly extracorporeal photopheresis in refractory chronic mucocutaneous GVHD. Bone Marrow Transplant. 2012;47:824–30.",
+          "zh": "Dignan FL, Greenblatt D, Cox M, et al. Efficacy of bimonthly extracorporeal photopheresis in refractory chronic mucocutaneous GVHD. Bone Marrow Transplant. 2012;47:824–30.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dignan%20FL%2C%20Greenblatt%20D%2C%20Cox%20M%2C%20et%20al.%20Efficacy%20of%20bimonthly%20extracorporeal%20photopheresis%20in%20refractory%20chronic%20mucocutaneous%20GVHD.%20Bone%20Marrow%20Transplant.%202012%3B47%3A824%E2%80%9330."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dignan%20FL%2C%20Greenblatt%20D%2C%20Cox%20M%2C%20et%20al.%20Efficacy%20of%20bimonthly%20extracorporeal%20photopheresis%20in%20refractory%20chronic%20mucocutaneous%20GVHD.%20Bone%20Marrow%20Transplant.%202012%3B47%3A824%E2%80%9330."
+            }
+          ]
+        },
+        {
+          "id": 6600032,
+          "page": 587,
+          "en": "Dignan FL, Aguilar S, Scarisbrick JJ, et al. Impact of extracorporeal photopheresis on skin scores and quality of life in patients with steroid-refractory chronic GVHD. Bone Marrow Transplant. 2014;49:704–8.",
+          "zh": "Dignan FL, Aguilar S, Scarisbrick JJ, et al. Impact of extracorporeal photopheresis on skin scores and quality of life in patients with steroid-refractory chronic GVHD. Bone Marrow Transplant. 2014;49:704–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dignan%20FL%2C%20Aguilar%20S%2C%20Scarisbrick%20JJ%2C%20et%20al.%20Impact%20of%20extracorporeal%20photopheresis%20on%20skin%20scores%20and%20quality%20of%20life%20in%20patients%20with%20steroid-refractory%20chronic%20GVHD.%20Bone%20Marrow%20Transplant.%202014%3B49%3A704%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dignan%20FL%2C%20Aguilar%20S%2C%20Scarisbrick%20JJ%2C%20et%20al.%20Impact%20of%20extracorporeal%20photopheresis%20on%20skin%20scores%20and%20quality%20of%20life%20in%20patients%20with%20steroid-refractory%20chronic%20GVHD.%20Bone%20Marrow%20Transplant.%202014%3B49%3A704%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6600033,
+          "page": 587,
+          "en": "Edelson R, Berger C, Gasparro F, et al. Treatment of cutaneous T-cell lymphoma by extracorporeal photochemotherapy. Preliminary results N Engl J Med. 1987;316:297–303.",
+          "zh": "Edelson R, Berger C, Gasparro F, et al. Treatment of cutaneous T-cell lymphoma by extracorporeal photochemotherapy. Preliminary results N Engl J Med. 1987;316:297–303.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Edelson%20R%2C%20Berger%20C%2C%20Gasparro%20F%2C%20et%20al.%20Treatment%20of%20cutaneous%20T-cell%20lymphoma%20by%20extracorporeal%20photochemotherapy.%20Preliminary%20results%20N%20Engl%20J%20Med.%201987%3B316%3A297%E2%80%93303."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Edelson%20R%2C%20Berger%20C%2C%20Gasparro%20F%2C%20et%20al.%20Treatment%20of%20cutaneous%20T-cell%20lymphoma%20by%20extracorporeal%20photochemotherapy.%20Preliminary%20results%20N%20Engl%20J%20Med.%201987%3B316%3A297%E2%80%93303."
+            }
+          ]
+        },
+        {
+          "id": 6600034,
+          "page": 587,
+          "en": "Flowers MED, Apperley J, von Besien K, et al. A multicenter prospective phase 2 randomized study of extracorporeal photopheresis for treatment of chronic graft-versus-host disease. Blood. 2008;112:2667–74.",
+          "zh": "Flowers MED, Apperley J, von Besien K, et al. A multicenter prospective phase 2 randomized study of extracorporeal photopheresis for treatment of chronic graft-versus-host disease. Blood. 2008;112:2667–74.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Flowers%20MED%2C%20Apperley%20J%2C%20von%20Besien%20K%2C%20et%20al.%20A%20multicenter%20prospective%20phase%202%20randomized%20study%20of%20extracorporeal%20photopheresis%20for%20treatment%20of%20chronic%20graft-versus-host%20disease.%20Blood.%202008%3B112%3A2667%E2%80%9374."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Flowers%20MED%2C%20Apperley%20J%2C%20von%20Besien%20K%2C%20et%20al.%20A%20multicenter%20prospective%20phase%202%20randomized%20study%20of%20extracorporeal%20photopheresis%20for%20treatment%20of%20chronic%20graft-versus-host%20disease.%20Blood.%202008%3B112%3A2667%E2%80%9374."
+            }
+          ]
+        },
+        {
+          "id": 6600035,
+          "page": 587,
+          "en": "Foss FM, DiVenuti GM, Chin K, et al. Prospective study of extracorporeal photopheresis in steroid-refractory or steroid-resistant extensive chronic graft-versus-host disease: analysis of response and survival incorporating prognostic factors. Bone Marrow Transplant. 2005;35:1187–93.",
+          "zh": "Foss FM, DiVenuti GM, Chin K, et al. Prospective study of extracorporeal photopheresis in steroid-refractory or steroid-resistant extensive chronic graft-versus-host disease: analysis of response and survival incorporating prognostic factors. Bone Marrow Transplant. 2005;35:1187–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Foss%20FM%2C%20DiVenuti%20GM%2C%20Chin%20K%2C%20et%20al.%20Prospective%20study%20of%20extracorporeal%20photopheresis%20in%20steroid-refractory%20or%20steroid-resistant%20extensive%20chronic%20graft-versus-host%20disease%3A%20analysis%20of%20response%20and%20survival%20incorporating%20prognostic%20factors.%20Bone%20Marrow%20Transplant.%202005%3B35%3A1187%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Foss%20FM%2C%20DiVenuti%20GM%2C%20Chin%20K%2C%20et%20al.%20Prospective%20study%20of%20extracorporeal%20photopheresis%20in%20steroid-refractory%20or%20steroid-resistant%20extensive%20chronic%20graft-versus-host%20disease%3A%20analysis%20of%20response%20and%20survival%20incorporating%20prognostic%20factors.%20Bone%20Marrow%20Transplant.%202005%3B35%3A1187%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6600036,
+          "page": 587,
+          "endPage": 588,
+          "en": "Gandelman JS, Song DJ, Chen H, et al. A prospective trial of extracorporeal photopheresis for chronic graft-versus-host disease reveals significant disease response and no association with frequency of regulatory T cells. Biol Blood Marrow Transplant. 2018;24:2373–80.",
+          "zh": "Gandelman JS, Song DJ, Chen H, et al. A prospective trial of extracorporeal photopheresis for chronic graft-versus-host disease reveals significant disease response and no association with frequency of regulatory T cells. Biol Blood Marrow Transplant. 2018;24:2373–80.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gandelman%20JS%2C%20Song%20DJ%2C%20Chen%20H%2C%20et%20al.%20A%20prospective%20trial%20of%20extracorporeal%20photopheresis%20for%20chronic%20graft-versus-host%20disease%20reveals%20significant%20disease%20response%20and%20no%20association%20with%20frequency%20of%20regulatory%20T%20cells.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A2373%E2%80%9380."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gandelman%20JS%2C%20Song%20DJ%2C%20Chen%20H%2C%20et%20al.%20A%20prospective%20trial%20of%20extracorporeal%20photopheresis%20for%20chronic%20graft-versus-host%20disease%20reveals%20significant%20disease%20response%20and%20no%20association%20with%20frequency%20of%20regulatory%20T%20cells.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A2373%E2%80%9380."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 588,
+      "blocks": [
+        {
+          "id": 6600037,
+          "page": 588,
+          "en": "Garban F, Drillat P, Makowski C, et al. Extracorporeal chemophototherapy for the treatment of graft-versus-host disease: hematologic consequences of short-term, intensive courses. Haematologica. 2005;90:1096–101.",
+          "zh": "Garban F, Drillat P, Makowski C, et al. Extracorporeal chemophototherapy for the treatment of graft-versus-host disease: hematologic consequences of short-term, intensive courses. Haematologica. 2005;90:1096–101.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Garban%20F%2C%20Drillat%20P%2C%20Makowski%20C%2C%20et%20al.%20Extracorporeal%20chemophototherapy%20for%20the%20treatment%20of%20graft-versus-host%20disease%3A%20hematologic%20consequences%20of%20short-term%2C%20intensive%20courses.%20Haematologica.%202005%3B90%3A1096%E2%80%93101."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Garban%20F%2C%20Drillat%20P%2C%20Makowski%20C%2C%20et%20al.%20Extracorporeal%20chemophototherapy%20for%20the%20treatment%20of%20graft-versus-host%20disease%3A%20hematologic%20consequences%20of%20short-term%2C%20intensive%20courses.%20Haematologica.%202005%3B90%3A1096%E2%80%93101."
+            }
+          ]
+        },
+        {
+          "id": 6600038,
+          "page": 588,
+          "en": "Greinix HT, Volc-Platzer B, Rabitsch W, et al. Successful use of extracorporeal photochemotherapy in the treatment of severe acute and chronic graft-versus-host disease. Blood. 1998;92:3098–104.",
+          "zh": "Greinix HT, Volc-Platzer B, Rabitsch W, et al. Successful use of extracorporeal photochemotherapy in the treatment of severe acute and chronic graft-versus-host disease. Blood. 1998;92:3098–104.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Greinix%20HT%2C%20Volc-Platzer%20B%2C%20Rabitsch%20W%2C%20et%20al.%20Successful%20use%20of%20extracorporeal%20photochemotherapy%20in%20the%20treatment%20of%20severe%20acute%20and%20chronic%20graft-versus-host%20disease.%20Blood.%201998%3B92%3A3098%E2%80%93104."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Greinix%20HT%2C%20Volc-Platzer%20B%2C%20Rabitsch%20W%2C%20et%20al.%20Successful%20use%20of%20extracorporeal%20photochemotherapy%20in%20the%20treatment%20of%20severe%20acute%20and%20chronic%20graft-versus-host%20disease.%20Blood.%201998%3B92%3A3098%E2%80%93104."
+            }
+          ]
+        },
+        {
+          "id": 6600039,
+          "page": 588,
+          "en": "Greinix HT, Knobler RM, Worel N, et al. The effect of intensified extracorporeal photochemotherapy on long-term survival in patients with severe acute graft-versus-host disease. Haematologica. 2006;91:405–8.",
+          "zh": "Greinix HT, Knobler RM, Worel N, et al. The effect of intensified extracorporeal photochemotherapy on long-term survival in patients with severe acute graft-versus-host disease. Haematologica. 2006;91:405–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Greinix%20HT%2C%20Knobler%20RM%2C%20Worel%20N%2C%20et%20al.%20The%20effect%20of%20intensified%20extracorporeal%20photochemotherapy%20on%20long-term%20survival%20in%20patients%20with%20severe%20acute%20graft-versus-host%20disease.%20Haematologica.%202006%3B91%3A405%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Greinix%20HT%2C%20Knobler%20RM%2C%20Worel%20N%2C%20et%20al.%20The%20effect%20of%20intensified%20extracorporeal%20photochemotherapy%20on%20long-term%20survival%20in%20patients%20with%20severe%20acute%20graft-versus-host%20disease.%20Haematologica.%202006%3B91%3A405%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6600040,
+          "page": 588,
+          "en": "Greinix HT, van Besien K, Elmaagacli AH, et al. Progressive improvement in cutaneous and extracutaneous chronic graft-versus-host disease after a 24-week course of extracorporeal photopheresis–results of a crossover randomized study. Biol Blood Marrow Transplant. 2011;17:1775–82.",
+          "zh": "Greinix HT, van Besien K, Elmaagacli AH, et al. Progressive improvement in cutaneous and extracutaneous chronic graft-versus-host disease after a 24-week course of extracorporeal photopheresis–results of a crossover randomized study. Biol Blood Marrow Transplant. 2011;17:1775–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Greinix%20HT%2C%20van%20Besien%20K%2C%20Elmaagacli%20AH%2C%20et%20al.%20Progressive%20improvement%20in%20cutaneous%20and%20extracutaneous%20chronic%20graft-versus-host%20disease%20after%20a%2024-week%20course%20of%20extracorporeal%20photopheresis%E2%80%93results%20of%20a%20crossover%20randomized%20study.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1775%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Greinix%20HT%2C%20van%20Besien%20K%2C%20Elmaagacli%20AH%2C%20et%20al.%20Progressive%20improvement%20in%20cutaneous%20and%20extracutaneous%20chronic%20graft-versus-host%20disease%20after%20a%2024-week%20course%20of%20extracorporeal%20photopheresis%E2%80%93results%20of%20a%20crossover%20randomized%20study.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1775%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 6600041,
+          "page": 588,
+          "en": "Gonzalez-Vicent M, Ramirez M, Perez A, et al. Extracorporeal photochemotherapy for steroid-refractory graft-versus-host disease in low-weight pediatric patients. Immunomodulatory effects and clinical outcome. Haematologica. 2008;93:1278–80.",
+          "zh": "Gonzalez-Vicent M, Ramirez M, Perez A, et al. Extracorporeal photochemotherapy for steroid-refractory graft-versus-host disease in low-weight pediatric patients. Immunomodulatory effects and clinical outcome. Haematologica. 2008;93:1278–80.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gonzalez-Vicent%20M%2C%20Ramirez%20M%2C%20Perez%20A%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20steroid-refractory%20graft-versus-host%20disease%20in%20low-weight%20pediatric%20patients.%20Immunomodulatory%20effects%20and%20clinical%20outcome.%20Haematologica.%202008%3B93%3A1278%E2%80%9380."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gonzalez-Vicent%20M%2C%20Ramirez%20M%2C%20Perez%20A%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20steroid-refractory%20graft-versus-host%20disease%20in%20low-weight%20pediatric%20patients.%20Immunomodulatory%20effects%20and%20clinical%20outcome.%20Haematologica.%202008%3B93%3A1278%E2%80%9380."
+            }
+          ]
+        },
+        {
+          "id": 6600042,
+          "page": 588,
+          "en": "Hautmann AH, Wolff D, Hahn J, et al. Extracorporeal photopheresis in 62 patients with acute and chronic GVHD: results of treatment with the COBE spectra system. Bone Marrow Transplant. 2013;48:439–45.",
+          "zh": "Hautmann AH, Wolff D, Hahn J, et al. Extracorporeal photopheresis in 62 patients with acute and chronic GVHD: results of treatment with the COBE spectra system. Bone Marrow Transplant. 2013;48:439–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hautmann%20AH%2C%20Wolff%20D%2C%20Hahn%20J%2C%20et%20al.%20Extracorporeal%20photopheresis%20in%2062%20patients%20with%20acute%20and%20chronic%20GVHD%3A%20results%20of%20treatment%20with%20the%20COBE%20spectra%20system.%20Bone%20Marrow%20Transplant.%202013%3B48%3A439%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hautmann%20AH%2C%20Wolff%20D%2C%20Hahn%20J%2C%20et%20al.%20Extracorporeal%20photopheresis%20in%2062%20patients%20with%20acute%20and%20chronic%20GVHD%3A%20results%20of%20treatment%20with%20the%20COBE%20spectra%20system.%20Bone%20Marrow%20Transplant.%202013%3B48%3A439%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 6600043,
+          "page": 588,
+          "en": "Jagasia MH, Savani BN, Stricklin G, et al. Classic and overlap chronic graft-versus-host disease (cGVHD) is associated with superior outcome after extracorporeal photopheresis (ECP). Biol Blood Marrow Transplant. 2009;15:1288–95.",
+          "zh": "Jagasia MH, Savani BN, Stricklin G, et al. Classic and overlap chronic graft-versus-host disease (cGVHD) is associated with superior outcome after extracorporeal photopheresis (ECP). Biol Blood Marrow Transplant. 2009;15:1288–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jagasia%20MH%2C%20Savani%20BN%2C%20Stricklin%20G%2C%20et%20al.%20Classic%20and%20overlap%20chronic%20graft-versus-host%20disease%20(cGVHD)%20is%20associated%20with%20superior%20outcome%20after%20extracorporeal%20photopheresis%20(ECP).%20Biol%20Blood%20Marrow%20Transplant.%202009%3B15%3A1288%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jagasia%20MH%2C%20Savani%20BN%2C%20Stricklin%20G%2C%20et%20al.%20Classic%20and%20overlap%20chronic%20graft-versus-host%20disease%20(cGVHD)%20is%20associated%20with%20superior%20outcome%20after%20extracorporeal%20photopheresis%20(ECP).%20Biol%20Blood%20Marrow%20Transplant.%202009%3B15%3A1288%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 6600044,
+          "page": 588,
+          "en": "Jagasia M, Greinix H, Robin M, et al. Extracorporeal photopheresis versus anticytokine therapy as a second-line treatment for steroid-refractory acute GVHD: a multicentre comparative analysis. Biol Blood Marrow Transplant. 2013;19:1124–33.",
+          "zh": "Jagasia M, Greinix H, Robin M, et al. Extracorporeal photopheresis versus anticytokine therapy as a second-line treatment for steroid-refractory acute GVHD: a multicentre comparative analysis. Biol Blood Marrow Transplant. 2013;19:1124–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jagasia%20M%2C%20Greinix%20H%2C%20Robin%20M%2C%20et%20al.%20Extracorporeal%20photopheresis%20versus%20anticytokine%20therapy%20as%20a%20second-line%20treatment%20for%20steroid-refractory%20acute%20GVHD%3A%20a%20multicentre%20comparative%20analysis.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%3A1124%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jagasia%20M%2C%20Greinix%20H%2C%20Robin%20M%2C%20et%20al.%20Extracorporeal%20photopheresis%20versus%20anticytokine%20therapy%20as%20a%20second-line%20treatment%20for%20steroid-refractory%20acute%20GVHD%3A%20a%20multicentre%20comparative%20analysis.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%3A1124%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 6600045,
+          "page": 588,
+          "en": "Jagasia M, Greinix H, Scheid C, et al. A randomized controlled study of extracorporeal photopheresis (ECP) therapy with UVADEX (methoxsalen) for National Institutes of Health (NIH)-graded moderate to severe chronic graft-versus-host disease (cGvHD). Blood. 2017;130:1970.",
+          "zh": "Jagasia M, Greinix H, Scheid C, et al. A randomized controlled study of extracorporeal photopheresis (ECP) therapy with UVADEX (methoxsalen) for National Institutes of Health (NIH)-graded moderate to severe chronic graft-versus-host disease (cGvHD). Blood. 2017;130:1970.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jagasia%20M%2C%20Greinix%20H%2C%20Scheid%20C%2C%20et%20al.%20A%20randomized%20controlled%20study%20of%20extracorporeal%20photopheresis%20(ECP)%20therapy%20with%20UVADEX%20(methoxsalen)%20for%20National%20Institutes%20of%20Health%20(NIH)-graded%20moderate%20to%20severe%20chronic%20graft-versus-host%20disease%20(cGvHD).%20Blood.%202017%3B130%3A1970."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jagasia%20M%2C%20Greinix%20H%2C%20Scheid%20C%2C%20et%20al.%20A%20randomized%20controlled%20study%20of%20extracorporeal%20photopheresis%20(ECP)%20therapy%20with%20UVADEX%20(methoxsalen)%20for%20National%20Institutes%20of%20Health%20(NIH)-graded%20moderate%20to%20severe%20chronic%20graft-versus-host%20disease%20(cGvHD).%20Blood.%202017%3B130%3A1970."
+            }
+          ]
+        },
+        {
+          "id": 6600046,
+          "page": 588,
+          "en": "Kanold J, Merlin E, Halle P, et al. Photopheresis in pediatric graft-versus-host disease after allogeneic marrow transplantation: clinical practice guidelines based onfield experience and review of the literature. Transfusion. 2007;47:2276–89.",
+          "zh": "Kanold J, Merlin E, Halle P, et al. Photopheresis in pediatric graft-versus-host disease after allogeneic marrow transplantation: clinical practice guidelines based onfield experience and review of the literature. Transfusion. 2007;47:2276–89.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kanold%20J%2C%20Merlin%20E%2C%20Halle%20P%2C%20et%20al.%20Photopheresis%20in%20pediatric%20graft-versus-host%20disease%20after%20allogeneic%20marrow%20transplantation%3A%20clinical%20practice%20guidelines%20based%20onfield%20experience%20and%20review%20of%20the%20literature.%20Transfusion.%202007%3B47%3A2276%E2%80%9389."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kanold%20J%2C%20Merlin%20E%2C%20Halle%20P%2C%20et%20al.%20Photopheresis%20in%20pediatric%20graft-versus-host%20disease%20after%20allogeneic%20marrow%20transplantation%3A%20clinical%20practice%20guidelines%20based%20onfield%20experience%20and%20review%20of%20the%20literature.%20Transfusion.%202007%3B47%3A2276%E2%80%9389."
+            }
+          ]
+        },
+        {
+          "id": 6600047,
+          "page": 588,
+          "en": "Knobler R, Arenberger P, Arun A, et al. European dermatology forum – updated guidelines on the use of extracorporeal photopheresis 2020 – part 1. J Eur Acad Dermatol Venereol. 2020;34:2693–716.",
+          "zh": "Knobler R, Arenberger P, Arun A, et al. European dermatology forum – updated guidelines on the use of extracorporeal photopheresis 2020 – part 1. J Eur Acad Dermatol Venereol. 2020;34:2693–716.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Knobler%20R%2C%20Arenberger%20P%2C%20Arun%20A%2C%20et%20al.%20European%20dermatology%20forum%20%E2%80%93%20updated%20guidelines%20on%20the%20use%20of%20extracorporeal%20photopheresis%202020%20%E2%80%93%20part%201.%20J%20Eur%20Acad%20Dermatol%20Venereol.%202020%3B34%3A2693%E2%80%93716."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Knobler%20R%2C%20Arenberger%20P%2C%20Arun%20A%2C%20et%20al.%20European%20dermatology%20forum%20%E2%80%93%20updated%20guidelines%20on%20the%20use%20of%20extracorporeal%20photopheresis%202020%20%E2%80%93%20part%201.%20J%20Eur%20Acad%20Dermatol%20Venereol.%202020%3B34%3A2693%E2%80%93716."
+            }
+          ]
+        },
+        {
+          "id": 6600048,
+          "page": 588,
+          "en": "Knobler R, Arenberger P, Arun A, et al. European dermatology forum – updated guidelines on the use of extracorporeal photopheresis 2020 – part 2. J Eur Acad Dermatol Venereol. 2021;35:27–49.",
+          "zh": "Knobler R, Arenberger P, Arun A, et al. European dermatology forum – updated guidelines on the use of extracorporeal photopheresis 2020 – part 2. J Eur Acad Dermatol Venereol. 2021;35:27–49.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Knobler%20R%2C%20Arenberger%20P%2C%20Arun%20A%2C%20et%20al.%20European%20dermatology%20forum%20%E2%80%93%20updated%20guidelines%20on%20the%20use%20of%20extracorporeal%20photopheresis%202020%20%E2%80%93%20part%202.%20J%20Eur%20Acad%20Dermatol%20Venereol.%202021%3B35%3A27%E2%80%9349."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Knobler%20R%2C%20Arenberger%20P%2C%20Arun%20A%2C%20et%20al.%20European%20dermatology%20forum%20%E2%80%93%20updated%20guidelines%20on%20the%20use%20of%20extracorporeal%20photopheresis%202020%20%E2%80%93%20part%202.%20J%20Eur%20Acad%20Dermatol%20Venereol.%202021%3B35%3A27%E2%80%9349."
+            }
+          ]
+        },
+        {
+          "id": 6600049,
+          "page": 588,
+          "en": "Maas-Bauer K, Kiote-Schmidt C, Bertz H, et al. Ruxolitinib-ECP combination treatment for refractory severe chronic graft-versus-host disease. Bone Marrow Transplant. 2021;56:909–16.",
+          "zh": "Maas-Bauer K, Kiote-Schmidt C, Bertz H, et al. Ruxolitinib-ECP combination treatment for refractory severe chronic graft-versus-host disease. Bone Marrow Transplant. 2021;56:909–16.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maas-Bauer%20K%2C%20Kiote-Schmidt%20C%2C%20Bertz%20H%2C%20et%20al.%20Ruxolitinib-ECP%20combination%20treatment%20for%20refractory%20severe%20chronic%20graft-versus-host%20disease.%20Bone%20Marrow%20Transplant.%202021%3B56%3A909%E2%80%9316."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maas-Bauer%20K%2C%20Kiote-Schmidt%20C%2C%20Bertz%20H%2C%20et%20al.%20Ruxolitinib-ECP%20combination%20treatment%20for%20refractory%20severe%20chronic%20graft-versus-host%20disease.%20Bone%20Marrow%20Transplant.%202021%3B56%3A909%E2%80%9316."
+            }
+          ]
+        },
+        {
+          "id": 6600050,
+          "page": 588,
+          "en": "Malik MI, Litzow M, Hogan W, et al. Extracorporeal photopheresis for chronic graft-versus-host disease: a systematic review and meta-analysis. Blood Res. 2014;49:100–6.",
+          "zh": "Malik MI, Litzow M, Hogan W, et al. Extracorporeal photopheresis for chronic graft-versus-host disease: a systematic review and meta-analysis. Blood Res. 2014;49:100–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Malik%20MI%2C%20Litzow%20M%2C%20Hogan%20W%2C%20et%20al.%20Extracorporeal%20photopheresis%20for%20chronic%20graft-versus-host%20disease%3A%20a%20systematic%20review%20and%20meta-analysis.%20Blood%20Res.%202014%3B49%3A100%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Malik%20MI%2C%20Litzow%20M%2C%20Hogan%20W%2C%20et%20al.%20Extracorporeal%20photopheresis%20for%20chronic%20graft-versus-host%20disease%3A%20a%20systematic%20review%20and%20meta-analysis.%20Blood%20Res.%202014%3B49%3A100%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6600051,
+          "page": 588,
+          "en": "Martin PJ, Rizzo JD, Wingard JR, et al. First-and second-line systemic treatment of acute graft-versus-host disease: recommendations of the American Society of Blood and Marrow Transplantation. Biol Blood Marrow Transplant. 2012;18:1150–63.",
+          "zh": "Martin PJ, Rizzo JD, Wingard JR, et al. First-and second-line systemic treatment of acute graft-versus-host disease: recommendations of the American Society of Blood and Marrow Transplantation. Biol Blood Marrow Transplant. 2012;18:1150–63.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Martin%20PJ%2C%20Rizzo%20JD%2C%20Wingard%20JR%2C%20et%20al.%20First-and%20second-line%20systemic%20treatment%20of%20acute%20graft-versus-host%20disease%3A%20recommendations%20of%20the%20American%20Society%20of%20Blood%20and%20Marrow%20Transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A1150%E2%80%9363."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Martin%20PJ%2C%20Rizzo%20JD%2C%20Wingard%20JR%2C%20et%20al.%20First-and%20second-line%20systemic%20treatment%20of%20acute%20graft-versus-host%20disease%3A%20recommendations%20of%20the%20American%20Society%20of%20Blood%20and%20Marrow%20Transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A1150%E2%80%9363."
+            }
+          ]
+        },
+        {
+          "id": 6600052,
+          "page": 588,
+          "en": "Messina C, Locatelli F, Lanino E, et al. Extracorporeal photochemotherapy for paediatric patients with graft-versus-host disease after haematopoietic stem cell transplantation. Br J Haematol. 2003;122:118–27.",
+          "zh": "Messina C, Locatelli F, Lanino E, et al. Extracorporeal photochemotherapy for paediatric patients with graft-versus-host disease after haematopoietic stem cell transplantation. Br J Haematol. 2003;122:118–27.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Messina%20C%2C%20Locatelli%20F%2C%20Lanino%20E%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20paediatric%20patients%20with%20graft-versus-host%20disease%20after%20haematopoietic%20stem%20cell%20transplantation.%20Br%20J%20Haematol.%202003%3B122%3A118%E2%80%9327."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Messina%20C%2C%20Locatelli%20F%2C%20Lanino%20E%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20paediatric%20patients%20with%20graft-versus-host%20disease%20after%20haematopoietic%20stem%20cell%20transplantation.%20Br%20J%20Haematol.%202003%3B122%3A118%E2%80%9327."
+            }
+          ]
+        },
+        {
+          "id": 6600053,
+          "page": 588,
+          "en": "Modemann F, Ayuk F, Wolschke C, et al. Ruxolitinib plus extracorporeal photopheresis (ECP) for steroid refractory acute graft-versus-host disease of lower GI-tract after allogeneic stem cell transplantation leads to increased regulatory T cell level. Bone Marrow Transplant. 2020;55(12):2286–93.",
+          "zh": "Modemann F, Ayuk F, Wolschke C, et al. Ruxolitinib plus extracorporeal photopheresis (ECP) for steroid refractory acute graft-versus-host disease of lower GI-tract after allogeneic stem cell transplantation leads to increased regulatory T cell level. Bone Marrow Transplant. 2020;55(12):2286–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Modemann%20F%2C%20Ayuk%20F%2C%20Wolschke%20C%2C%20et%20al.%20Ruxolitinib%20plus%20extracorporeal%20photopheresis%20(ECP)%20for%20steroid%20refractory%20acute%20graft-versus-host%20disease%20of%20lower%20GI-tract%20after%20allogeneic%20stem%20cell%20transplantation%20leads%20to%20increased%20regulatory%20T%20cell%20level.%20Bone%20Marrow%20Transplant.%202020%3B55(12)%3A2286%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Modemann%20F%2C%20Ayuk%20F%2C%20Wolschke%20C%2C%20et%20al.%20Ruxolitinib%20plus%20extracorporeal%20photopheresis%20(ECP)%20for%20steroid%20refractory%20acute%20graft-versus-host%20disease%20of%20lower%20GI-tract%20after%20allogeneic%20stem%20cell%20transplantation%20leads%20to%20increased%20regulatory%20T%20cell%20level.%20Bone%20Marrow%20Transplant.%202020%3B55(12)%3A2286%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6600054,
+          "page": 588,
+          "en": "Niittyvuopio R, Juvonen E, Heiskanen J, et al. Extracorporeal photopheresis in the treatment of acute graft-versus-host disease: a single-center experience. Transfusion. 2018;58(9):1973.",
+          "zh": "Niittyvuopio R, Juvonen E, Heiskanen J, et al. Extracorporeal photopheresis in the treatment of acute graft-versus-host disease: a single-center experience. Transfusion. 2018;58(9):1973.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Niittyvuopio%20R%2C%20Juvonen%20E%2C%20Heiskanen%20J%2C%20et%20al.%20Extracorporeal%20photopheresis%20in%20the%20treatment%20of%20acute%20graft-versus-host%20disease%3A%20a%20single-center%20experience.%20Transfusion.%202018%3B58(9)%3A1973."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Niittyvuopio%20R%2C%20Juvonen%20E%2C%20Heiskanen%20J%2C%20et%20al.%20Extracorporeal%20photopheresis%20in%20the%20treatment%20of%20acute%20graft-versus-host%20disease%3A%20a%20single-center%20experience.%20Transfusion.%202018%3B58(9)%3A1973."
+            }
+          ]
+        },
+        {
+          "id": 6600055,
+          "page": 588,
+          "en": "Perfetti P, Carlier P, Strada P, et al. Extracorporeal photopheresis for the treatment of steroid refractory acute GVHD. Bone Marrow Transplant. 2008;42:609–17.",
+          "zh": "Perfetti P, Carlier P, Strada P, et al. Extracorporeal photopheresis for the treatment of steroid refractory acute GVHD. Bone Marrow Transplant. 2008;42:609–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Perfetti%20P%2C%20Carlier%20P%2C%20Strada%20P%2C%20et%20al.%20Extracorporeal%20photopheresis%20for%20the%20treatment%20of%20steroid%20refractory%20acute%20GVHD.%20Bone%20Marrow%20Transplant.%202008%3B42%3A609%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Perfetti%20P%2C%20Carlier%20P%2C%20Strada%20P%2C%20et%20al.%20Extracorporeal%20photopheresis%20for%20the%20treatment%20of%20steroid%20refractory%20acute%20GVHD.%20Bone%20Marrow%20Transplant.%202008%3B42%3A609%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 6600056,
+          "page": 588,
+          "en": "Perotti C, Del Fante C, Tinelli C, et al. Extracorporeal photochemotherapy in graft-versus-host disease: a longitudinal study on factors influencing the response and survival in pediatric patients. Transfusion. 2010;50:1359–69.",
+          "zh": "Perotti C, Del Fante C, Tinelli C, et al. Extracorporeal photochemotherapy in graft-versus-host disease: a longitudinal study on factors influencing the response and survival in pediatric patients. Transfusion. 2010;50:1359–69.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Perotti%20C%2C%20Del%20Fante%20C%2C%20Tinelli%20C%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20in%20graft-versus-host%20disease%3A%20a%20longitudinal%20study%20on%20factors%20influencing%20the%20response%20and%20survival%20in%20pediatric%20patients.%20Transfusion.%202010%3B50%3A1359%E2%80%9369."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Perotti%20C%2C%20Del%20Fante%20C%2C%20Tinelli%20C%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20in%20graft-versus-host%20disease%3A%20a%20longitudinal%20study%20on%20factors%20influencing%20the%20response%20and%20survival%20in%20pediatric%20patients.%20Transfusion.%202010%3B50%3A1359%E2%80%9369."
+            }
+          ]
+        },
+        {
+          "id": 6600057,
+          "page": 588,
+          "en": "Perseghin P, Galimberti S, Balduzzi A, et al. Extracorporeal photochemo-therapy for the treatment of chronic graft-versus-host disease: trend for a possible cell dose-related effect? Ther Apher Dial. 2007;11:85–93.",
+          "zh": "Perseghin P, Galimberti S, Balduzzi A, et al. Extracorporeal photochemo-therapy for the treatment of chronic graft-versus-host disease: trend for a possible cell dose-related effect? Ther Apher Dial. 2007;11:85–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Perseghin%20P%2C%20Galimberti%20S%2C%20Balduzzi%20A%2C%20et%20al.%20Extracorporeal%20photochemo-therapy%20for%20the%20treatment%20of%20chronic%20graft-versus-host%20disease%3A%20trend%20for%20a%20possible%20cell%20dose-related%20effect%3F%20Ther%20Apher%20Dial.%202007%3B11%3A85%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Perseghin%20P%2C%20Galimberti%20S%2C%20Balduzzi%20A%2C%20et%20al.%20Extracorporeal%20photochemo-therapy%20for%20the%20treatment%20of%20chronic%20graft-versus-host%20disease%3A%20trend%20for%20a%20possible%20cell%20dose-related%20effect%3F%20Ther%20Apher%20Dial.%202007%3B11%3A85%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6600058,
+          "page": 588,
+          "en": "Rubegni P, Cuccia A, Sbano P, et al. Role of extracorporeal photochemotherapy in patients with refractory chronic graft-versus-host disease. Br J Haematol. 2005;130:271–5.",
+          "zh": "Rubegni P, Cuccia A, Sbano P, et al. Role of extracorporeal photochemotherapy in patients with refractory chronic graft-versus-host disease. Br J Haematol. 2005;130:271–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rubegni%20P%2C%20Cuccia%20A%2C%20Sbano%20P%2C%20et%20al.%20Role%20of%20extracorporeal%20photochemotherapy%20in%20patients%20with%20refractory%20chronic%20graft-versus-host%20disease.%20Br%20J%20Haematol.%202005%3B130%3A271%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rubegni%20P%2C%20Cuccia%20A%2C%20Sbano%20P%2C%20et%20al.%20Role%20of%20extracorporeal%20photochemotherapy%20in%20patients%20with%20refractory%20chronic%20graft-versus-host%20disease.%20Br%20J%20Haematol.%202005%3B130%3A271%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 6600059,
+          "page": 588,
+          "en": "Sakellari I, Gavriilaki E, Batsis I, et al. Favorable impact of extracorporeal photoperesis in acute and chronic graft versus host disease: prospective single-center study. J Clin Apher. 2018;33:654–60.",
+          "zh": "Sakellari I, Gavriilaki E, Batsis I, et al. Favorable impact of extracorporeal photoperesis in acute and chronic graft versus host disease: prospective single-center study. J Clin Apher. 2018;33:654–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sakellari%20I%2C%20Gavriilaki%20E%2C%20Batsis%20I%2C%20et%20al.%20Favorable%20impact%20of%20extracorporeal%20photoperesis%20in%20acute%20and%20chronic%20graft%20versus%20host%20disease%3A%20prospective%20single-center%20study.%20J%20Clin%20Apher.%202018%3B33%3A654%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sakellari%20I%2C%20Gavriilaki%20E%2C%20Batsis%20I%2C%20et%20al.%20Favorable%20impact%20of%20extracorporeal%20photoperesis%20in%20acute%20and%20chronic%20graft%20versus%20host%20disease%3A%20prospective%20single-center%20study.%20J%20Clin%20Apher.%202018%3B33%3A654%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 6600060,
+          "page": 588,
+          "en": "Salvaneschi L, Perotti C, Zecca M, et al. Extracorporeal photochemotherapy for treatment of acute and chronic GVHD in childhood. Transfusion. 2001;41:1299–305.",
+          "zh": "Salvaneschi L, Perotti C, Zecca M, et al. Extracorporeal photochemotherapy for treatment of acute and chronic GVHD in childhood. Transfusion. 2001;41:1299–305.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Salvaneschi%20L%2C%20Perotti%20C%2C%20Zecca%20M%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20treatment%20of%20acute%20and%20chronic%20GVHD%20in%20childhood.%20Transfusion.%202001%3B41%3A1299%E2%80%93305."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Salvaneschi%20L%2C%20Perotti%20C%2C%20Zecca%20M%2C%20et%20al.%20Extracorporeal%20photochemotherapy%20for%20treatment%20of%20acute%20and%20chronic%20GVHD%20in%20childhood.%20Transfusion.%202001%3B41%3A1299%E2%80%93305."
+            }
+          ]
+        },
+        {
+          "id": 6600061,
+          "page": 588,
+          "en": "Schoonemann F. Extracorporeal photopheresis technical aspects. Transfus Apher Sci. 2003;28:51–61.",
+          "zh": "Schoonemann F. Extracorporeal photopheresis technical aspects. Transfus Apher Sci. 2003;28:51–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schoonemann%20F.%20Extracorporeal%20photopheresis%20technical%20aspects.%20Transfus%20Apher%20Sci.%202003%3B28%3A51%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schoonemann%20F.%20Extracorporeal%20photopheresis%20technical%20aspects.%20Transfus%20Apher%20Sci.%202003%3B28%3A51%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 6600062,
+          "page": 588,
+          "en": "Seaton ED, Szydlo RM, Kanfer E, et al. Influence of extracorporeal photopheresis on clinical and laboratory parameters in chronic graft-versus-host disease and analysis of predictors of response. Blood. 2003;102:1217–23.",
+          "zh": "Seaton ED, Szydlo RM, Kanfer E, et al. Influence of extracorporeal photopheresis on clinical and laboratory parameters in chronic graft-versus-host disease and analysis of predictors of response. Blood. 2003;102:1217–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Seaton%20ED%2C%20Szydlo%20RM%2C%20Kanfer%20E%2C%20et%20al.%20Influence%20of%20extracorporeal%20photopheresis%20on%20clinical%20and%20laboratory%20parameters%20in%20chronic%20graft-versus-host%20disease%20and%20analysis%20of%20predictors%20of%20response.%20Blood.%202003%3B102%3A1217%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Seaton%20ED%2C%20Szydlo%20RM%2C%20Kanfer%20E%2C%20et%20al.%20Influence%20of%20extracorporeal%20photopheresis%20on%20clinical%20and%20laboratory%20parameters%20in%20chronic%20graft-versus-host%20disease%20and%20analysis%20of%20predictors%20of%20response.%20Blood.%202003%3B102%3A1217%E2%80%9323."
+            }
+          ]
+        },
+        {
+          "id": 6600063,
+          "page": 588,
+          "en": "Ussowicz M, Musiał J, Mielcarek M, et al. Steroid-sparing effect of extracorporeal photopheresis in the therapy of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Transplant Proc. 2013;45:3375–80.",
+          "zh": "Ussowicz M, Musiał J, Mielcarek M, et al. Steroid-sparing effect of extracorporeal photopheresis in the therapy of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Transplant Proc. 2013;45:3375–80.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ussowicz%20M%2C%20Musia%C5%82%20J%2C%20Mielcarek%20M%2C%20et%20al.%20Steroid-sparing%20effect%20of%20extracorporeal%20photopheresis%20in%20the%20therapy%20of%20graft-versus-host%20disease%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Transplant%20Proc.%202013%3B45%3A3375%E2%80%9380."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ussowicz%20M%2C%20Musia%C5%82%20J%2C%20Mielcarek%20M%2C%20et%20al.%20Steroid-sparing%20effect%20of%20extracorporeal%20photopheresis%20in%20the%20therapy%20of%20graft-versus-host%20disease%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Transplant%20Proc.%202013%3B45%3A3375%E2%80%9380."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 589,
+      "blocks": [
+        {
+          "id": 6600064,
+          "page": 589,
+          "en": "Wolff D, Schleuning M, von Harsdorf S, et al. Consensus conference on clinical practice in chronic GVHD: second-line treatment of chronic graft-versus-host disease. Biol Blood Marrow Transplant. 2011;17:1–17.",
+          "zh": "Wolff D, Schleuning M, von Harsdorf S, et al. Consensus conference on clinical practice in chronic GVHD: second-line treatment of chronic graft-versus-host disease. Biol Blood Marrow Transplant. 2011;17:1–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wolff%20D%2C%20Schleuning%20M%2C%20von%20Harsdorf%20S%2C%20et%20al.%20Consensus%20conference%20on%20clinical%20practice%20in%20chronic%20GVHD%3A%20second-line%20treatment%20of%20chronic%20graft-versus-host%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wolff%20D%2C%20Schleuning%20M%2C%20von%20Harsdorf%20S%2C%20et%20al.%20Consensus%20conference%20on%20clinical%20practice%20in%20chronic%20GVHD%3A%20second-line%20treatment%20of%20chronic%20graft-versus-host%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 6600065,
+          "page": 589,
+          "en": "Worel N, Lehner E, Führer H, et al. Extracorporeal photopheresis as second-line therapy for patients with acute graft-versus-host disease: does the number of cells treated matter? Transfusion. 2018;58:1045–53.",
+          "zh": "Worel N, Lehner E, Führer H, et al. Extracorporeal photopheresis as second-line therapy for patients with acute graft-versus-host disease: does the number of cells treated matter? Transfusion. 2018;58:1045–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Worel%20N%2C%20Lehner%20E%2C%20F%C3%BChrer%20H%2C%20et%20al.%20Extracorporeal%20photopheresis%20as%20second-line%20therapy%20for%20patients%20with%20acute%20graft-versus-host%20disease%3A%20does%20the%20number%20of%20cells%20treated%20matter%3F%20Transfusion.%202018%3B58%3A1045%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Worel%20N%2C%20Lehner%20E%2C%20F%C3%BChrer%20H%2C%20et%20al.%20Extracorporeal%20photopheresis%20as%20second-line%20therapy%20for%20patients%20with%20acute%20graft-versus-host%20disease%3A%20does%20the%20number%20of%20cells%20treated%20matter%3F%20Transfusion.%202018%3B58%3A1045%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 6600066,
+          "page": 589,
+          "en": "Zeiser R, von Bubnoff N, Butler J, et al. Ruxolitinib for glucocorticoid-refractory acute graft-versus-host disease. N Engl J Med. 2020;382:1800–10.",
+          "zh": "Zeiser R, von Bubnoff N, Butler J, et al. Ruxolitinib for glucocorticoid-refractory acute graft-versus-host disease. N Engl J Med. 2020;382:1800–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zeiser%20R%2C%20von%20Bubnoff%20N%2C%20Butler%20J%2C%20et%20al.%20Ruxolitinib%20for%20glucocorticoid-refractory%20acute%20graft-versus-host%20disease.%20N%20Engl%20J%20Med.%202020%3B382%3A1800%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zeiser%20R%2C%20von%20Bubnoff%20N%2C%20Butler%20J%2C%20et%20al.%20Ruxolitinib%20for%20glucocorticoid-refractory%20acute%20graft-versus-host%20disease.%20N%20Engl%20J%20Med.%202020%3B382%3A1800%E2%80%9310."
+            }
+          ]
+        },
+        {
+          "id": 6600067,
+          "page": 589,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
