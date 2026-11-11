@@ -1,0 +1,219 @@
+{
+  "id": 75,
+  "title": "Allogeneic Hematopoietic Cell Transplantation in Pediatric MDS Including Refractory Cytopenia of Childhood and in Juvenile Myelomonocytic Leukemia",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "paragraphs": 20,
+  "pages": [
+    {
+      "page": 669,
+      "blocks": [
+        {
+          "id": 7500001,
+          "page": 669,
+          "en": "Allogeneic Hematopoietic Cell Transplantation in Pediatric MDS Including Refractory Cytopenia of Childhood and in Juvenile Myelomonocytic Leukemia 75 Charlotte M. Niemeyer and Brigitte Strahm",
+          "zh": "75 兒童 MDS（含兒童難治性血球減少症）與幼年型骨髓單核球性白血病的異體造血細胞移植\nCharlotte M. Niemeyer、Brigitte Strahm",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024）。繁體中文為 AI 直接逐段翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_75"
+            }
+          ]
+        },
+        {
+          "id": 7500002,
+          "page": 669,
+          "en": "75.1 Introduction Most pediatric patients with MDS or juvenile myelomonocytic leukemia (JMML) can be cured by allogeneic HCT. Since MDS and JMML are associated with heterogeneous germline genetic conditions and/or somatic oncogenic mutations, specific attention to their subtypes is crucial.",
+          "zh": "75.1 前言\n多數兒童骨髓增生不良症候群（MDS）或幼年型骨髓單核球性白血病（JMML）可由異體 HCT 治癒。MDS 與 JMML 涵蓋異質性的生殖系遺傳狀況及／或體細胞致癌突變，因此必須特別辨識各亞型。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500003,
+          "page": 669,
+          "en": "75.2 Pediatric MDS Including Refractory Cytopenia 75.2.1 Classification Pediatric MDS can be associated with germline predisposition, related to cytotoxic or immunomodulatory therapy, or occurs as de novo disease. The term primary MDS summarizes de novo MDS and MDS in germline predisposition other than the classical inherited BMF disorders. MDS can present as MDS-EB with 2–19% blasts in PB and/or 5-19% blasts in BM. Occasionally, disease with 20–30% blasts lacks clinical features of acute leukemia and behaves more like MDS than AML. In approximately 80% of MDS cases, the  BM is hypocellular. Patients with a hypocellular BM and normal blast count may present with a pattern of refractory cytopenia of childhood (RCC), a well-recognized type of BM failure in children with persistent cytopenia and evidence of dysplasia (Arber et al. 2022).",
+          "zh": "75.2 兒童 MDS（含兒童難治性血球減少症）\n75.2.1 分類\n兒童 MDS 可與生殖系易感性相關、由細胞毒性或免疫調節治療引起，或為新生（de novo）疾病。「原發性 MDS」涵蓋 de novo MDS，以及典型遺傳性骨髓衰竭（BMF）以外之生殖系易感背景下的 MDS。MDS-EB 可表現為周邊血芽細胞 2–19% 及／或骨髓芽細胞 5–19%。偶爾芽細胞 20–30% 的疾病缺乏急性白血病臨床特徵，行為較像 MDS 而非 AML。約 80% MDS 病例骨髓為低細胞性；骨髓低細胞且芽細胞正常者可呈兒童難治性血球減少症（RCC），其特徵是兒童持續血球減少並有發育不良證據。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500004,
+          "page": 669,
+          "en": "75.2.2 Germline Predisposition and Monosomy 7 GATA2 deficiency and SAMD9/SAMD9L syndrome emerged as the most frequent hereditary cause of primary pediatric MDS with a prevalence of 8% and 7%, respectively (Sahoo et al. 2021). Half of all cases of primary MDS with monosomy 7 arise from germline SAMD9/9 L or GATA2 mutations. In SAMD9/SAMD9L syndrome, somatic genetic rescue events are frequent, and spontaneous loss of monosomy 7 with hematologic recovery can occur in children <5 years of age. Germline mutations in RUNX1, ETV6, ANKRD26 and ERCC6L2 may also give rise to MDS in young individuals. Considerations for HCT in predisposition syndromes listed above are generally no different from those for HCT in wildtype conditions. Retrospective analyses of EWOG-MDS indicated similar outcome of SAMD9/9 L syndrome, GATA2 deficiency syndrome and wildtype when stratified according to blast count, karyotype and BM cellularity (Sahoo et al. 2021; Bortnick et al. 2021). The acute post-transplant course may,",
+          "zh": "75.2.2 生殖系易感性與第 7 號染色體單體\nGATA2 缺乏與 SAMD9／SAMD9L 症候群是原發性兒童 MDS 最常見的遺傳原因，盛行率分別約 8% 與 7%。所有伴 monosomy 7 的原發 MDS 中，約一半源自生殖系 SAMD9／SAMD9L 或 GATA2 突變。SAMD9／SAMD9L 症候群常見體細胞遺傳救援事件；未滿 5 歲兒童可自發失去 monosomy 7 並恢復造血。RUNX1、ETV6、ANKRD26、ERCC6L2 生殖系突變也可使年輕人發生 MDS。\n上述易感症候群的 HCT 考量通常與野生型無異。EWOG-MDS 回溯分析顯示，依芽細胞數、核型與骨髓細胞性分層後，SAMD9／SAMD9L 症候群、GATA2 缺乏與野生型的結果相近；但移植後急性期可能受症候群相關共病影響。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500005,
+          "page": 669,
+          "en": "C. M. Niemeyer (*) · B. Strahm Division of Pediatric Hematology and Oncology, Department of Pediatrics and Adolescent Medicine, University Medical Center Freiburg, University of Freiburg, Freiburg im Breisgau, Germany e-mail: Charlotte.niemeyer@uniklinik-freiburg.de; brigitte.strahm@uniklinik-freiburg.de  © The Author(s) 2024 A. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_75",
+          "zh": "作者單位：Charlotte M. Niemeyer、Brigitte Strahm，University Medical Center Freiburg 兒童與青少年醫學部兒童血液腫瘤科（Charlotte.niemeyer@uniklinik-freiburg.de；brigitte.strahm@uniklinik-freiburg.de）。© 作者 2024；收錄於《The EBMT Handbook》。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 670,
+      "blocks": [
+        {
+          "id": 7500006,
+          "page": 670,
+          "en": "however, be complicated by syndrome-related comorbidities (Ahmed et al. 2019). In addition, potential family donors need to be evaluated for presence of the respective underlying predisposition.",
+          "zh": "此外，潛在的家族供者必須檢查是否具有相同的潛在易感性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500007,
+          "page": 670,
+          "en": "75.2.3 MDS-EB with UBTF-TD, Role of Cytoreductive Therapy Prior to HCT Tandem duplication in upstream binding transcription factor (UBTF) are noted in close to a third of patient with “de novo” MDS-EB (Erlacher et al. 2022). UBTF-TD is associated with normal karyotype or trisomy 8, poor response to AML-type chemotherapy, and inferior outcome after HCT compared to wildtype. While the role of intensive chemotherapy prior to HCT remains unknown, regimens like venetoclax and hypomethylating agents may bridge patients with increasing blast count to HCT (Masetti et al. 2023). In germline conditions with immunodeficiency (like GATA2 and SAMD9/SAMD9L syndrome), intensive chemotherapy prior to HCT is to be avoided whenever possible.",
+          "zh": "75.2.3 伴 UBTF 串聯重複的 MDS-EB，以及 HCT 前細胞減量治療\n近三分之一 de novo MDS-EB 患者可見 upstream binding transcription factor（UBTF）串聯重複。UBTF-TD 與正常核型或 trisomy 8、對 AML 型化療反應差，以及相較野生型 HCT 結果較差相關。\nHCT 前密集化療的角色仍未知；venetoclax 加低甲基化藥物等方案，可作為芽細胞增加患者通往 HCT 的橋接。伴免疫缺陷的生殖系疾病（如 GATA2、SAMD9／SAMD9L 症候群）應盡可能避免 HCT 前密集化療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500008,
+          "page": 670,
+          "en": "75.2.4 HCT in Primary MDS with Normal Blast Count MDS with monosomy 7 is at high risk of progression, and patients should be transplanted as soon as possible. For RCC with monosomy 7, del(7q) or ≥2 aberrations, MAC is recommended. EWOG-MDS currently advocates a TREO-based regimen, which results in prompt initial engraftment with a low incidence of secondary graft failure and an OS of approx. 90% (see https:// ewog-mds.org). Historical data with BU/CY demonstrate an OS of 75% with NRM being the major cause of treatment failure. In the absence of monosomy 7, RCC patients with mild cytopenia (not transfusion dependent for RBC and/or platelets, absolute neutrophil count > 1 × 109/L) may have a stable course of disease and therefore qualify for a watch-andobserve strategy. For patients with more pronounced cytopenia treatment is stratified according to cellularity. In normo- or hypercellular BM a MAC regimen like that described for monosomy 7 can be utilized irrespective of karyotype. In hypocellular BM and normal karyotype, HCT with RIC is the treatment of choice. HCT with a preparative regimen of TT/ FLU resulted in an OS of 94% and EFS of 88% (Strahm et al. 2017). However, approx. 10% of patients experience primary and secondary graft failure requiring a stem cell boost and/or second HCT. Thus, EWOG-MDS currently recommends a preparative regimen of TREO/FLU resulting in an improved rate of engraftment (see https:// ewog-mds.org). With a very low risk of disease recurrence, GVHD should be avoided, and BM is the preferred stem cell source combined with an effective GVHD prophylaxis.",
+          "zh": "75.2.4 芽細胞正常之原發 MDS 的 HCT\n伴 monosomy 7 的 MDS 進展風險高，應儘快移植。RCC 若有 monosomy 7、del(7q) 或至少 2 項異常，建議 MAC。EWOG-MDS 現建議 TREO 為基礎的方案，可快速植入、次發移植物失敗率低，OS 約 90%；歷史 BU／CY 資料的 OS 為 75%，NRM 是主要治療失敗原因。\n無 monosomy 7、僅輕度血球減少〔不依賴紅血球／血小板輸注，ANC >1×10⁹/L〕者病程可能穩定，可觀察。較明顯血球減少依骨髓細胞性分層：正常／高細胞性者不論核型可用與 monosomy 7 相同的 MAC；低細胞性且正常核型者以 RIC HCT 為首選。TT／FLU 前處理的 OS 94%、EFS 88%，但約 10% 發生原發或次發移植物失敗而需幹細胞追加或第二次 HCT，因此 EWOG-MDS 現建議 TREO／FLU 以提高植入率。復發風險極低，應避免 GVHD，優先使用骨髓並給有效 GVHD 預防。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500009,
+          "page": 670,
+          "en": "75.2.5 HCT in Primary MDS-EB In a large cohort, allo-HCT with full MAC consisting of the combination of BU/CY/MEL resulted in a probability of OS at 5 years of 63%, with TRM and relapse contributing equally to treatment failure (Strahm et al. 2011). Outcome for patients, who received a graft from an MSD or a UD matched for 9/10 or 10/10 HLA-loci is superimposable. Because patients ≥ 12 years of age had a high risk of NRM, EWOG-MDS recommends an intensified GVHD prophylaxis (CSA/MTX) for older patients transplanted from an MSD (see https://ewog-mds.org). Presence of a structurally complex karyotype is strongly associated with poor prognosis.",
+          "zh": "75.2.5 原發 MDS-EB 的 HCT\n大型隊列中，以 BU／CY／MEL 完整 MAC 進行 allo-HCT，5 年 OS 63%；TRM 與復發對治療失敗的貢獻相當。MSD 與 9/10 或 10/10 HLA 相合非親屬供者結果重疊。因 ≥12 歲患者 NRM 較高，EWOG-MDS 建議較年長且使用 MSD 者加強 CSA／MTX GVHD 預防。結構複雜核型與不良預後高度相關。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500010,
+          "page": 670,
+          "en": "75.2.6 HCT in Therapy-Related MDS In this heterogeneous patient population, OS in the presence of a structural complex karyotype and/or TP53 mutation is ≤20%, for all other karyotypes/molecular subgroups approx. 50% (Kornemann et al. 2023).",
+          "zh": "75.2.6 治療相關 MDS 的 HCT\n此異質族群若有結構複雜核型及／或 TP53 突變，OS ≤20%；其他核型／分子亞群約 50%。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 671,
+      "blocks": [
+        {
+          "id": 7500011,
+          "page": 671,
+          "en": "75.3 Juvenile Myelomonocytic Leukemia 75.3.1 Clinical Features and Genetic Subtypes JMML is a unique clonal hematopoietic disorder of early childhood. Splenomegaly, leukocytosis, monocytosis, and myeloid and/or erythroid pre cursors on PB smear are noted in close to all cases (Niemeyer and Flotho 2019). The pathobi ology is characterized by constitutive activation of the RAS signal transduction pathway. Canonical RAS pathway mutations in the PTPN11, NRAS, KRAS, NF1, CBL genes are present in leukemic cells of more than 95% of patients and define genetically and clinically dis tinct subtypes.",
+          "zh": "75.3 幼年型骨髓單核球性白血病\n75.3.1 臨床特徵與遺傳亞型\nJMML 是幼兒期獨特的克隆性造血疾病；幾乎所有病例都有脾腫大、白血球增多、單核球增多，以及周邊血抹片出現骨髓系及／或紅血球系前驅細胞。病理生物學特徵是 RAS 訊號傳導持續活化。超過 95% 患者的白血病細胞具有 PTPN11、NRAS、KRAS、NF1 或 CBL 經典 RAS 路徑突變，形成遺傳及臨床上不同的亞型。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500012,
+          "page": 671,
+          "en": "Table 75.1 Characteristics of genetic subtypes Genetic subtype PTPN11 (41%) Presentation Non-syndromic Mutation Heterozygous, somatic gain of function mutation, broad overlap with Noonan syndrome with transient myeloproliferative disease → analysis of nonhematopoietic cells (hair bulbs, buccal swab, fibroblasts) required Risk profile Most often high HCT Indicated ≥ 6 café au lait spots not always present; higher platelet count, higher blast % NF1 (12%) Presentation and more often >5 years of age compared to other subtypes Mutation NF1 germline mutation with biallelic inactivation in hematopoietic cells Risk profile Often high HCT Indicated NRAS (16%) Presentation Non-syndromic Mutation Heterozygous somatic NRAS mutations at codons 12, 13, rarely 61 Risk profile very heterogeneous; in some low-risk patients spontaneous clinical regression in the absence of therapy HCT Indicated for high-risk patients KRAS (14%) Presentation Non-syndromic, median age 0.9 years Molecular heterozygous, somatic mutations involving codon 12, 13, rarely 61; monosomy 7 more frequent than in other subtypes Risk profile Most often low or intermediate (by methylation class) HCT Indicated for most patients; in some children sustained clinical and molecular CR following azacitidine therapy CBL (12%) Presentation ± Noonan-like phenotype, occasional patient with grossly enlarged spleen, risk of vasculopathy (moyamoya, opticus arteritis, and major arteries) Mutation CBL germline mutation with biallelic inactivation; occasionally heterozygous mutation only Risk profile Generally low HCT Rarely required, may be indicated for patients with vasculopathy",
+          "zh": "表 75.1 遺傳亞型特徵\nPTPN11（41%）：非症候群型；異合子體細胞 gain-of-function 突變，與 Noonan syndrome 伴暫時性骨髓增生性疾病高度重疊，故須分析非造血細胞（毛囊、口腔拭子、纖維母細胞）；多為高風險；適合 HCT。\nNF1（12%）：不一定有 ≥6 個 café-au-lait spots；較其他亞型血小板較高、芽細胞比例較高且較常 >5 歲；NF1 生殖系突變在造血細胞發生雙等位失活；常為高風險；適合 HCT。\nNRAS（16%）：非症候群型；異合子體細胞 NRAS 突變位於 codon 12、13，少見於 61；風險高度異質，部分低風險患者未治療可自發臨床消退；高風險者適合 HCT。\nKRAS（14%）：非症候群型，中位年齡 0.9 歲；異合子體細胞突變位於 codon 12、13，少見於 61；monosomy 7 比其他亞型常見；按甲基化分類多為低或中風險；多數適合 HCT，部分兒童用 azacitidine 後可持續臨床與分子 CR。\nCBL（12%）：可有 Noonan-like 表型，偶有巨脾；有 vasculopathy（moyamoya、視神經動脈炎及大動脈）風險；CBL 生殖系突變伴雙等位失活，偶僅異合子突變；通常低風險；很少需要 HCT，但 vasculopathy 患者可考慮。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500013,
+          "page": 671,
+          "en": "75.3.2 Risk Factors and Indication of HCT Risk factors for poor outcome are age ≥ 2 years, hemoglobin F ≥ 15%, DNA hypermethylation (cross-continental molecular classifier in high, intermediate, low methylation) and presence of secondary mutations (e.g., SETBP1, JAK3, other RAS pathway genes). Risk factors are strongly correlated and allow risk allocation within genetic subtypes.",
+          "zh": "75.3.2 風險因子與 HCT 適應症\n不良結果的危險因子包括年齡 ≥2 歲、HbF ≥15%、DNA 高甲基化（跨洲分子分類器分高／中／低甲基化），以及次發突變（如 SETBP1、JAK3、其他 RAS 路徑基因）。這些因子高度相關，可在各遺傳亞型內分配風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500014,
+          "page": 671,
+          "en": "75.3.3 Therapy Prior to HCT  For approximately 80% of patients with JMML early allo-HCT is the therapy of choice (Table 75.1). In Europe, standard therapy prior to HCT is azacitidine (FDA approved), with best responses in low- and intermediate-risk patients.",
+          "zh": "75.3.3 HCT 前治療\n約 80% JMML 患者以早期 allo-HCT 為首選（表 75.1）。歐洲標準 HCT 前治療為 FDA 已核准的 azacitidine，低／中風險者反應最佳。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 672,
+      "blocks": [
+        {
+          "id": 7500015,
+          "page": 672,
+          "en": "HCT is azacitidine (FDA approved) with best responses in low- and intermediate-risk patients (Niemeyer et al. 2021). 6-MP and low dose ara-C are effective as well. Patients with very aggressive disease (platelet transfusion dependent, pulmonary insufficiency) may benefit from high-dose Ara-C with FLU. MEK-inhibition (e.g., trametenib) alone may not result in significant responses (Stieglitz et al. 2021). Splenectomy prior to HCT improves neither engraftment nor outcome following HCT and is generally not recommended.",
+          "zh": "6-MP 與低劑量 ara-C 也有效。病勢非常侵襲〔依賴血小板輸注、肺功能不全〕者可受益於高劑量 Ara-C 加 FLU。單用 MEK 抑制劑（如 trametinib）未必有顯著反應。HCT 前脾切除不改善植入或移植結果，通常不建議。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500016,
+          "page": 672,
+          "en": "75.3.4 HCT and Outcome MAC with BU/CY/MEL is standard conditioning for HCT in JMML from MSD and MUD (Locatelli 2005; Dvorak et al. 2018). Recommended stem cell source is BM. TRM varies among genetic subgroups (PTPN11-mut. 5%, NF1-mut. 27%). Relapse is the most important cause of failure. DFS and RI for patients (all genetic subtypes) with HbF ≤ 15% is 71% and 14%, respectively, and for HbF > 15% is 42% and 49%, respectively (EWOG-MDS unpublished). In high-risk disease, early tapering of immunosuppressive therapy in the absence of grade II-IV acute GVHD and steroid treatment is recommended (start at day +40, discontinuation between day +60 and +90). For patients with PTPN11-mutated JMML and a high risk of relapse, post engraftment therapy with azacitidine and DLI is currently being piloted. For children lacking a HLA-compatible relative, UBCT (Locatelli and Strahm 2018) or haploidentical HCT with T-cell depletion (i.e., TCRalpha/ beta/CD19 or PTCY a potential option.",
+          "zh": "75.3.4 HCT 與結果\nMSD 或 MUD 的 JMML HCT 標準前處理為 BU／CY／MEL MAC，建議骨髓作為幹細胞來源。TRM 依遺傳亞型不同（PTPN11 突變 5%，NF1 突變 27%）；復發是最重要的失敗原因。所有遺傳亞型中，HbF ≤15% 者 DFS 71%、復發率 14%；HbF >15% 者分別 42% 與 49%（EWOG-MDS 未發表）。高風險疾病若無 grade II–IV 急性 GVHD 且未用類固醇，建議早期減量免疫抑制（day +40 開始，day +60 至 +90 停止）。PTPN11 突變且復發風險高者，正在試驗植入後 azacitidine 加 DLI。無 HLA 相合親屬者，可考慮臍帶血移植或 T-cell depletion（如 TCRα/β/CD19）／PTCy 半相合 HCT。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500017,
+          "page": 672,
+          "en": "Key Points • Outcome of HCT in MDS associated with GATA2 deficiency or SAMD9/ SAMD9L syndrome is similar to that of wildtype when stratified according to blast count, karyotype, and BM cellularity. • MDS-EB and MDS with monosomy 7 require an MAC, whereas hypocellular RCC without monosomy 7, del(7q) or ≥2 aberration can successfully be transplanted with a less intensive regimen. • Tandem duplications in UBTF are noted in approximately one-third of pediatric patients with de novo MDS-EB. They are associated with poor response to intensive AML-type therapy and inferior outcome following MAC HCT. • Molecular alterations in PTPN11, NRAS, KRAS, NF1, or CBL define clinically distinct JMML subtypes. Azacitidine is FDA approved for newly diagnosed JMML. • Approx. 80% of children with JMML require HCT for cure. Standard preparative regimen is BU/CY/MEL. • In JMML, risk factors for relapse following HCT (age > 2 years, HbF > 15%, presence of subclonal mutations, and high DNA methylation pattern) are closely related.",
+          "zh": "重點整理\n• GATA2 缺乏或 SAMD9／SAMD9L 症候群相關 MDS，依芽細胞、核型與骨髓細胞性分層後，HCT 結果與野生型相近。\n• MDS-EB 與 monosomy 7 MDS 需 MAC；無 monosomy 7、del(7q) 或 ≥2 異常的低細胞性 RCC，可用較低強度方案成功移植。\n• 約三分之一 de novo 兒童 MDS-EB 有 UBTF 串聯重複，對密集 AML 型治療反應差，MAC HCT 結果也較差。\n• PTPN11、NRAS、KRAS、NF1、CBL 的分子異常界定臨床不同 JMML 亞型；azacitidine 已獲准用於新診斷 JMML。\n• 約 80% JMML 兒童須 HCT 才可能治癒，標準前處理為 BU／CY／MEL。\n• JMML 移植後復發危險因子（年齡 >2 歲、HbF >15%、次克隆突變、高 DNA 甲基化）彼此密切相關。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7500018,
+          "page": 672,
+          "en": "References Ahmed IA, Farooqi MS, Vander Lugt MT, et al. Outcomes of hematopoietic cell transplantation in patients with germline SAMD9/SAMD9L mutations. Biol Blood Marrow Transplant. 2019;25(11):2186–96. Arber DA, Orazi A, Hasserjian RP, et al. International consensus classification of myeloid neoplasms and acute leukemia: Integrating morphological, clinical, and genomic data. Blood. 2022;140:1200–28. Bortnick R, Wlodarski M, de Haas V, et al. Hematopoietic stem cell transplantation in children and adolescents with GATA2-related myelodysplastic syndrome. Bone Marrow Transplant. 2021;56(11):2732–41. Dvorak CC, Satwani P, Stieglitz E, et al. Disease burden and conditioning regimens in ASCT1221, a randomized phase II trial in children with juvenile myelomonocytic leukemia: A Children’s Oncology Group study. Pediatr Blood Cancer. 2018;65:e27034. Erlacher M, Stasik S, Yoshimi A, et al. UBTF tandem duplications account for a third of advanced pediatric MDS without genetic predisposition to myeloid neoplasia. Blood. 2022;140(Suppl. 1):1355–6.",
+          "zh": "參考文獻\n本頁完整英文書目保留原文，涵蓋 Ahmed、Arber、Bortnick、Dvorak、Erlacher 等研究。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+75+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 673,
+      "blocks": [
+        {
+          "id": 7500019,
+          "page": 673,
+          "en": "Kornemann E-M, Ramamoorthy S, Erlacher M, et al. A retrospective study analyzing the outcome of hematopoietic stem cell transplantation in children and adolescents with therapy-related myelodysplastic syndrome. Paris: EBMT; 2023. abstract to be released. Locatelli, et al. Hematopoietic stem cell transplantation (HSCT) in children with juvenile myelomonocytic leukemia (JMML): results of the EWOG-MDS/ EBMT trial Blood. 2005;105(1):410−9. https://doi. org/10.1182/blood-2004-05-1944. Locatelli F, Strahm B. How I treat myelodysplastic syndromes of childhood. Blood. 2018;131:1406–14. Masetti R, Baccelli F, Leardini D, et al. Venetoclax-based therapies in pediatric advanced MDS and relapsed/ refractory AML: a multicenter retrospective analysis. Blood Adv. 2023;7(16):4366–70. ahead of print Niemeyer CM, Flotho C. Juvenile myelomonocytic leukemia: who’s the driver at the wheel? Blood. 2019;133(10):1060–70. Niemeyer CM, Flotho C, Lipka DB, et al. Response to upfront azacitidine in juvenile myelomonocytic leu- kemia in the AZA-JMML-001 trial. Blood Adv. 2021;5(14):2901–8. Sahoo SS, Pastor VB, Goodings C, et al. Clinical evolution, genetic landscape and trajectories of clonal hematopoiesis in SAMD9/SAMD9L syndromes. Nat Med. 2021;27(10):1806–17. Stieglitz E, Loh ML, Meyer J, et al. MEK inhibition demonstrates activity in relapsed, refractory patients with juvenile myelomonocytic leukemia: results from COG Study ADVL1521. Blood. 2021;138:3679. Strahm B, Nöllke P, Zecca M, EWOG-MDS Study Group, et al. Hematopoietic stem cell transplantation for advanced myelodysplastic syndrome in children: results of the EWOG-MDS 98 study. Leukemia. 2011;25:455–62. Strahm B, Albert M, Bierings M, et al. EWOG-MDS study SCT RC RIC 06: Reduced intensity conditioning for children and adolescents with refractory cytopenia of childhood. Bone Marrow Transplant. 2017;52:S103.",
+          "zh": "參考文獻（續）\n本頁完整英文書目保留原文，涵蓋 Kornemann、Locatelli、Masetti、Niemeyer、Sahoo、Stieglitz、Strahm 等研究。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+75+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+75"
+            }
+          ]
+        },
+        {
+          "id": 7500020,
+          "page": 673,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用\n本章採 Creative Commons Attribution 4.0 International License。適當標示原作者與來源、提供授權連結並註明修改後，可使用、分享、改作、散布與重製。除另有權利標示外，圖片與第三方材料亦納入；未納入且用途超出法規允許者須另取授權。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+75+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+75"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

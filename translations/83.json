@@ -1,0 +1,494 @@
+{
+  "id": 83,
+  "title": "Poems Syndrome and Disease Produced by Other Monoclonal IGs",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 35,
+  "scope": "依原 PDF 視覺閱讀順序直接逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 741,
+      "blocks": [
+        {
+          "id": 8300001,
+          "page": 741,
+          "en": "83 Poems Syndrome and Disease Produced by Other Monoclonal IGs Gordon Cook and Montserrat Rovira",
+          "zh": "83 POEMS 症候群與其他單株免疫球蛋白引起的疾病 — Gordon Cook、Montserrat Rovira",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 翻譯改作，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_83"
+            }
+          ]
+        },
+        {
+          "id": 8300002,
+          "page": 741,
+          "en": "83.1 POEMS Syndrome 83.1.1 Introduction POEMS syndrome (acronym of: polyradiculoneuropathy, organomegaly, endocrinopathies, monoclonal protein and dermopathy/skin) is a rare multisystemic disease due to an underlying plasma cell neoplasm. The pathogenesis of the syndrome is not well understood. Other names of the POEMS syndrome that are less frequently used are osteosclerotic myeloma, Takatsuki syndrome, or Crow-Fukase syndrome.",
+          "zh": "83.1 POEMS 症候群\n83.1.1 前言\nPOEMS 是多發性神經根神經病變、器官腫大、內分泌異常、單株蛋白及皮膚病變的英文首字母縮寫。此為罕見的多系統疾病，源自潛在漿細胞腫瘤，其致病機轉仍未充分釐清。較少使用的別名包括骨硬化性骨髓瘤、Takatsuki 症候群及 Crow–Fukase 症候群。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300003,
+          "page": 741,
+          "en": "83.1.2 Clinical and Laboratory Manifestations •Malepredominance•Age(maximunincidence):50–60years Polyneuropathy Typically demyelinating. Peripheral, ascending, symmetrical, and affecting both sensation and motor function. It is the dominant characteristic Organomegaly Hepatomegaly (50%), splenomegaly, or lymphadenopathy Endocrinopathy Present in 84%: gonadal, thyroid, pituitary, parathyroid, pancreatic, adrenal (in order of frequency, and many times multiple) Monoclonal protein Almost always λ light chain. Usually Ig A or IgG and ≤ 3 g/dL. Bone marrow smear: <5–10% plasma cells Skin changes Hyperpigmentation, hypertrichosis, glomeruloid hemangiomata, white nails, plethora, acrocyanosis, flushing Other important manifestations – Sclerotic bone lesionsa (95%) – Castleman disease (in 11–30%) – Papilledema (in one-third of patients) – Extravascular volume overload – Thrombocytosis (in 54%) – VEGFb elevation a Radiology and CT/PET can be useful b VEGF Vascular endothelial growth factor is the cytokine that correlates best with disease activity. The helpful cutoff for plasma and serum VEGF levels for diagnosis are ≥200 pg/mL (specificity 95%, sensitivity 68%) and ≥ 1920 pg/mL (specificity 98%, sensibility 73%), respectively",
+          "zh": "83.1.2 臨床與實驗室表現\n男性較多；發生高峰為 50–60 歲。\n多發性神經病變：通常為脫髓鞘型，呈周邊性、上行性、對稱性，同時影響感覺與運動功能，是最主要特徵。\n器官腫大：肝腫大（50%）、脾腫大或淋巴結腫大。\n內分泌病變：84% 患者出現，依常見程度依序為性腺、甲狀腺、腦下垂體、副甲狀腺、胰臟及腎上腺；經常同時涉及多個腺體。\n單株蛋白：輕鏈幾乎均為 λ；通常為 IgA 或 IgG，且 ≤3 g/dL。骨髓抹片漿細胞 <5–10%。\n皮膚變化：色素沉著、多毛、腎絲球樣血管瘤、白甲、皮膚紅潤、肢端發紺及潮紅。\n其他重要表現：骨硬化病灶ᵃ（95%）、Castleman disease（11–30%）、視乳頭水腫（約三分之一）、血管外體液過多、血小板增多（54%）及 VEGFᵇ 升高。\nᵃ X 光及 CT／PET 有助評估。ᵇ VEGF 為血管內皮生長因子，是與疾病活動度相關性最高的細胞激素。用於診斷的血漿及血清 VEGF 切點分別為 ≥200 pg/mL（特異性 95%、敏感性 68%）及 ≥1920 pg/mL（特異性 98%、敏感性 73%）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300004,
+          "page": 741,
+          "en": "G. Cook CRUK Clinical Trials Unit, University of Leeds & Leeds Cancer, Centre, St James’s University Hospital, Leeds, UK e-mail: G.Cook@leeds.ac.uk M. Rovira (*) Hematopoietic Stem Cell Transplantation Unit, Hematology Department, Institute of Hematology and Oncology, Hospital Clínic, Barcelona, Spain August Pi i Sunyer Biomedical Research Institute, Barcelona, Spain Institute Josep Carreras, Hospital Clínic, Barcelona, Spain e-mail: mrovira@clinic.cat",
+          "zh": "作者單位：Gordon Cook — 英國里茲大學暨 Leeds Cancer Centre、St James’s University Hospital，CRUK Clinical Trials Unit；G.Cook@leeds.ac.uk。Montserrat Rovira — 西班牙巴塞隆納 Hospital Clínic 血液腫瘤研究所血液科造血幹細胞移植單位、August Pi i Sunyer Biomedical Research Institute，以及 Institute Josep Carreras；mrovira@clinic.cat。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 742,
+      "blocks": [
+        {
+          "id": 8300005,
+          "page": 742,
+          "en": "83.1.3 Diagnosis Not all the features within the acronym are required to make the diagnosis. There are other relevant features not included in the POEMS acronym also important: PEST (papilledema, extravascular volume overload, sclerotic bone lesions, thrombocytosis/erythrocytosis), elevated VEGF levels, abnormal pulmonary function tests, and a predisposition to thrombosis. There is a Castleman variant of POEMS syndrome that may be associated with a clonal plasma cell disorder. When Castleman disease variant of POEMS syndrome occurs without evidence of plasma cell disorder, then this entity should be considered separately.",
+          "zh": "83.1.3 診斷\n並非必須具備 POEMS 縮寫中的全部特徵才能診斷。其他未列入縮寫的重要特徵包括 PEST：視乳頭水腫、血管外體液過多、骨硬化病灶、血小板／紅血球增多；以及 VEGF 升高、肺功能檢查異常與血栓傾向。POEMS 的 Castleman 變異型可能伴隨克隆性漿細胞疾病；若出現此變異型而無漿細胞疾病證據，應將其視為獨立疾病。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300006,
+          "page": 742,
+          "en": "83.1.3.1 Criteria for the Diagnosis of POEMS Syndrome The diagnosis of POEMS syndrome is confirmed when: • Both mandatory major criteria +. • another of the other 3 major criteria +, • at least one of the minor criteria. Mandatory major criteria Polyneuropathy Clonal plasma cell dyscrasia (monoclonal immunoglobulin) Other major criteria Castleman disease Sclerotic bone lesions VEGF elevated Minor criteria Organomegaly (splenomegaly, hepatomegaly, or lymphadenopathy) Extravascular volume overload (edema, pleural effusion, or ascites) Endocrinopathya Skin changes Papilledema Thrombocytosis/erythrocytosisb Other symptoms and signs Digital clubbing Weight loss Hyperhidrosis Low vitamin B12 values Diarrhoea Pulmonary hypertension/restrictive lung disease Thrombosis Adapted from Dispenzieri A, Am J Hematol 2017 a Hypogonadism is the most frequent and because of the high prevalence of diabetes mellitus and thyroid abnormalities, these two last abnormalities alone are not sufficient to meet this minor criterion b Anemia and/or thrombocytopenia are rare, unless associated with Castleman disease",
+          "zh": "83.1.3.1 POEMS 症候群診斷標準\n確診須同時具備兩項必要主要標準、其餘三項主要標準中的一項，以及至少一項次要標準。\n必要主要標準：多發性神經病變；克隆性漿細胞異常（單株免疫球蛋白）。\n其他主要標準：Castleman disease、骨硬化病灶、VEGF 升高。\n次要標準：器官腫大（脾、肝或淋巴結）；血管外體液過多（水腫、肋膜積液或腹水）；內分泌病變ᵃ；皮膚變化；視乳頭水腫；血小板／紅血球增多ᵇ。\n其他症狀與體徵：杵狀指、體重減輕、多汗、維生素 B₁₂ 偏低、腹瀉、肺高壓／限制性肺病與血栓。\n改編自 Dispenzieri A, Am J Hematol 2017。ᵃ 性腺功能低下最常見；糖尿病與甲狀腺異常盛行率高，單獨存在這兩種異常不足以符合此項次要標準。ᵇ 貧血和／或血小板低下少見，除非合併 Castleman disease。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300007,
+          "page": 742,
+          "en": "83.1.4 Prognosis – – Chronic course, median survival of nearly 14 years, rarely progression to multiple myeloma. – – The number of POEMS features does not affect survival. – – Risk factors associated to better survival → albumin > 3.2 g/dL, achievement of a complete hematological response and younger age. LowerVEGF levels, better response to treatment. – – Risk factors associated to shorter survival → clubbing, extravascular volume overload, respiratory symptoms, papilledema, and coexisting Castleman disease. – – Thrombocytosis and high bone marrow infiltration are associated with risk of cerebrovascular accidents. – – Patients candidates for radiation therapy have a better overall survival.",
+          "zh": "83.1.4 預後\n病程慢性，中位存活近 14 年，很少進展為多發性骨髓瘤。POEMS 特徵的數目不影響存活。\n較佳存活相關因素：albumin >3.2 g/dL、達到完全血液學反應及年齡較輕；較低 VEGF 與較佳治療反應相關。\n較短存活相關因素：杵狀指、血管外體液過多、呼吸道症狀、視乳頭水腫及合併 Castleman disease。\n血小板增多與骨髓浸潤較高，與腦血管事件風險相關。適合放射治療者的總存活較佳。",
+          "review": "ai-draft",
+          "note": "本框屬 83.1.4；已依原 PDF 視覺閱讀順序排列。"
+        },
+        {
+          "id": 8300008,
+          "page": 742,
+          "en": "83.1.5 Standard treatment Need to differentiate between POEMS with chronic inflammatory demyelinating polyneuropathy and CANOMAD (chronic ataxic neuropathy with opthalmoplegia, M-protein, cold agglutinins, and disialosyl antibodies).",
+          "zh": "83.1.5 標準治療\n須鑑別 POEMS、慢性發炎性脫髓鞘性多發性神經病變，以及 CANOMAD（慢性共濟失調神經病變合併眼肌麻痺、M 蛋白、冷凝集素及抗 disialosyl 抗體）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300009,
+          "page": 742,
+          "en": "• In case of an isolated bone lesion (or multiple, but localized): Radiotherapy (e.g., 35–50 Gy) to affected site(s) → improve the symptoms of POEMS syndrome and can be curative • Rest of patients (disseminated disease): – – → Lenalidomide + dexamethasone is mainstay of frontline therapy",
+          "zh": "單一骨病灶，或多發但局限的病灶：對受累部位放射治療，例如 35–50 Gy，可改善 POEMS 症狀，且可能具有治癒作用。\n其他患者（播散性疾病）：lenalidomide 合併 dexamethasone 是第一線治療主軸。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 743,
+      "blocks": [
+        {
+          "id": 8300010,
+          "page": 743,
+          "en": "– – → Alternatives include melphalan + dexamethasone, thalidomide + dexamethasone, bortezomib + dexamethasone (these last two agents are of limited use due to the intrinsic risk of peripheral neuropathy), cyclophosphamide ± dexamethasone – – → Plasmapheresis, IgIV, IFN-α, tamoxifen, trans-retinoic acid, bevacizumab (anti-VEGF agent), argatroban, and strontium-89 (mostly single case reports) – – → Attention to supportive care is mandatory (physical therapy, orthotics, etc.) – – → Autologous HCT (see Sect. 83.1.6)",
+          "zh": "其他方案包括 melphalan＋dexamethasone、thalidomide＋dexamethasone、bortezomib＋dexamethasone；後兩種藥物本身有周邊神經病變風險，故用途受限。亦可採 cyclophosphamide ± dexamethasone。\n其他報告的處置包括血漿置換、靜脈免疫球蛋白（IgIV）、IFN-α、tamoxifen、trans-retinoic acid、bevacizumab（抗 VEGF 藥）、argatroban 及 strontium-89，多為單一病例報告。\n必須重視支持療法，如物理治療、矯具等；另可採自體 HCT（見 83.1.6）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300011,
+          "page": 743,
+          "en": "83.1.5.1 Response Criteria Monitoring the response to treatment in POEMS syndrome is a challenge. Patients must be followed carefully comparing the deficits to baseline. VEGF is an imperfect marker due to discordances between disease activity and response. The size of monoclonal protein is typically small making standard multiple myeloma response criteria inapplicable. Patients can present clinical benefit without M-protein response therefore a clinical scoring system which can focus on organ-specific response would be useful clinically. So, response criteria for POEMS syndrome could be done as follows: hematological response using a modified amyloid response criteria; VEGF response; CT/PET response; and a simplified organ response (polyneuropathy assessment, pulmonary function tests, and extravascular overload).",
+          "zh": "83.1.5.1 反應標準\nPOEMS 治療反應監測具有挑戰，須仔細追蹤並將功能缺損與基線比較。VEGF 與疾病活動度及反應可能不一致，故並非完美指標。單株蛋白量通常少，標準多發性骨髓瘤反應標準不適用；患者即使 M 蛋白未下降，也可能已有臨床效益，因此針對各器官反應的臨床評分會有幫助。可分別評估：以修改版類澱粉反應標準衡量血液學反應；VEGF 反應；CT／PET 反應；以及簡化器官反應，包括多發性神經病變、肺功能及血管外體液過多。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300012,
+          "page": 743,
+          "en": "83.1.6 Autologous Hematopoietic Cell Transplantation (Autologous HCT) Background – In multiple myeloma → autologous HCT → high rate and depth of responses – In amyloidosis, a disease with similarities to POEMS syndrome with “low tumor” burden → autologous HCT → long remissions obtained Indication POEMS syndrome with disseminated disease: • Good general condition • Either upfront or after suitable induction therapy (lenalidomide + dexamethasone), though mostly after induction to control symptoms prior to autologous HCT Conditioning Melphalan 140–200 mg/m² Stem cell sourcea,b PBSC, mobilization with G-CSF ± Cy (1.5–3 g/m² ). Mobilize early if lenalidomide+dexamethasone used. Morbidity High rate of engraftment syndrome (up to 50%) (see Chap. 20), important to recognize and treat promptly with prednisone. In these cases, higher than expected transfusion need and delayed engraftment. No organ toxicities as observed in amyloidosis Mortalityc As in other autologous HCT, recently reported 3.3% 1-year NRMd Responsec,d Hematological CR can be achieved by 3 months post-autologous HCT, but neurologic response is usually delayed to 6–9 months, but full recovery can take up to 2–3 years. PET/CT evidence of response can take upto 12 months a Mobilization failure is described, for this reason, if there is no response after 3 courses of induction, proceed to mobilization b The incidence of engraftment syndrome can be reduced if mobilization is done with cyclophosphamide + G-CSF. c Cook G, Hematologica 2017 d In the largest series, 3-y PFS 84% and OS 94%, and 5-y PFS 74% and OS 89%",
+          "zh": "83.1.6 自體造血細胞移植（自體 HCT）\n背景：多發性骨髓瘤使用自體 HCT 可達高反應率及深度反應；類澱粉沉積症與 POEMS 同樣常具低腫瘤負荷，自體 HCT 亦可獲長期緩解。\n適應症：全身狀況良好的播散性 POEMS，可直接移植或先採適當誘導（lenalidomide＋dexamethasone）；多數先誘導以控制症狀，再行自體 HCT。\n預處理：melphalan 140–200 mg/m²。\n幹細胞來源ᵃᵇ：PBSC，以 G-CSF ± CY（1.5–3 g/m²）動員；若使用 lenalidomide＋dexamethasone，應及早動員。\n併發症：植入症候群發生率高，可達 50%（見第 20 章），須迅速辨識並以 prednisone 治療；此時輸血需求可能高於預期，且植入延遲。未觀察到類澱粉沉積症所見的器官毒性。\n死亡率ᶜ：與其他自體 HCT 相似；近期報告 1 年 NRM 3.3%ᵈ。\n反應ᶜᵈ：移植後 3 個月可達血液學 CR，但神經反應通常延至 6–9 個月；完全恢復可能需 2–3 年。PET／CT 反應證據可需 12 個月。\nᵃ 已有動員失敗報告；若誘導 3 個療程仍無反應，應進行動員。ᵇ 以 cyclophosphamide＋G-CSF 動員可降低植入症候群發生率。ᶜ Cook G, Haematologica 2017。ᵈ 最大系列中，3 年 PFS 84%、OS 94%；5 年 PFS 74%、OS 89%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300013,
+          "page": 743,
+          "en": "83.2 Monoclonal Ig Deposition Disease 83.2.1 Introduction Monoclonal Ig deposition is a clonal plasma cell discrasia in which light-chain and/or heavy-chain subunits of Igs form nonfibrillar deposits in various tissues, causing organ dysfunction. Lightchain deposition disease is the most common of these entities.",
+          "zh": "83.2 單株免疫球蛋白沉積病\n83.2.1 前言\n這是克隆性漿細胞異常疾病，免疫球蛋白的輕鏈及／或重鏈次單元，在各組織形成非纖維狀沉積，引起器官功能障礙。其中以輕鏈沉積病最常見。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 744,
+      "blocks": [
+        {
+          "id": 8300014,
+          "page": 744,
+          "en": "83.2.2 Clinical Manifestation/ Laboratory Kidney Always affected. Immunofluorescence shows deposition of light chains along glomerular and tubular basement membranes → nodular glomerulosclerosis. Deposits are nonfibrillar, almost always composed Ƙ chain and do not stain with Congo red dye → nephrotic syndrome, hypertension, and rapidly progressing renal insufficiency Heart and liver Less frequent affected. Restrictive cardiopathy, myocardial infarction, cholestatic jaundice, hepatic failure Monoclonal gammopathy Electrophoresis, immunofixation of serum and/or urine, serum-free light chain measurement",
+          "zh": "83.2.2 臨床與實驗室表現\n腎臟：始終受累。免疫螢光可見腎絲球與腎小管基底膜沿線輕鏈沉積，引起結節性腎絲球硬化。沉積物為非纖維狀，幾乎均由 κ 鏈組成，Congo red 染色陰性；可致腎病症候群、高血壓及快速進展的腎功能不全。\n心臟與肝臟：較少受累；可見限制型心臟病、心肌梗塞、膽汁鬱積性黃疸及肝衰竭。\n單株免疫球蛋白病的檢查：血清及／或尿液蛋白電泳與免疫固定，以及血清游離輕鏈測定。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300015,
+          "page": 744,
+          "en": "83.2.3 Diagnosis Biopsy of the affected organ (almost always kidney).",
+          "zh": "83.2.3 診斷\n對受累器官（幾乎均為腎臟）進行切片。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300016,
+          "page": 744,
+          "en": "83.2.4 Treatment • Controversial, not standard due to the low incidence. Conventional chemotherapy commonly used for MM is unsatisfactory. – – Melphalan + Prednisone – – VAD – – Thalidomide ± DXM, bortezomib + DXM – – Autologous HCT (see Sect. 83.2.5)",
+          "zh": "83.2.4 治療\n由於發生率低，治療尚有爭議且無標準。慣用的骨髓瘤傳統化療效果不理想。選項包括 melphalan＋prednisone、VAD、thalidomide ± DXM、bortezomib＋DXM，以及自體 HCT（見 83.2.5）。",
+          "review": "ai-draft",
+          "note": "治療框在文字抽取結果中落於書目之後，已依原頁移回 83.2.4。"
+        },
+        {
+          "id": 8300017,
+          "page": 744,
+          "en": "83.2.5 Autologous Hematopoietic Cell Transplantation (Autologous HCT) Background – As in POEMS syndrome (see Sect. 83.1.6) Indication – Patients in good general condition and with basic requirements for autologous HCT – Patients not responding to previous MM-like treatment Conditioning Melphalan 140–200 mg/m² Stem cell source PB, mobilization with G-CSF ± Cy (3 g/m² ) Morbidity Some patients require hemodialysis (HD) before and during the procedure. In that case, melphalan should be administered after HD Mortality As in other autologous HCT Response In the few cases reported: – Hematological responses are described secondary to the control of the monoclonal gammopathy. – It can improve renal function. In selected cases, kidney transplantation could be an option if the patient achieve a CR and remain in HD.",
+          "zh": "83.2.5 自體造血細胞移植（自體 HCT）\n背景：同 POEMS（見 83.1.6）。\n適應症：全身狀況良好、符合自體 HCT 基本條件者，以及先前類骨髓瘤治療無反應者。\n預處理：melphalan 140–200 mg/m²。\n幹細胞來源：周邊血，以 G-CSF ± CY（3 g/m²）動員。\n併發症：部分患者在治療前及期間需要血液透析（HD）；此時 melphalan 應於 HD 後給予。\n死亡率：同其他自體 HCT。\n反應：少數已報告病例顯示，控制單株免疫球蛋白病可帶來血液學反應，並可改善腎功能。已達 CR 但仍需 HD 的特定患者，可考慮腎臟移植。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8300018,
+          "page": 744,
+          "en": "Further Reading",
+          "zh": "Further Reading",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Further%20Reading"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Further%20Reading"
+            }
+          ]
+        },
+        {
+          "id": 8300019,
+          "page": 744,
+          "en": "Batalini F, Econimo L, Quillen K, et al. High-dose melphalan and stem cell transplantation in patients on dialysis due to immunoglobulin light-chain amyloidosis and monoclonal immunoglobulin deposition disease. Biol Blood Marrow Transplant. 2018;24:127–32.",
+          "zh": "Batalini F, Econimo L, Quillen K, et al. High-dose melphalan and stem cell transplantation in patients on dialysis due to immunoglobulin light-chain amyloidosis and monoclonal immunoglobulin deposition disease. Biol Blood Marrow Transplant. 2018;24:127–32.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Batalini%20F%2C%20Econimo%20L%2C%20Quillen%20K%2C%20et%20al.%20High-dose%20melphalan%20and%20stem%20cell%20transplantation%20in%20patients%20on%20dialysis%20due%20to%20immunoglobulin%20light-chain%20amyloidosis%20and%20monoclonal%20immunoglobulin%20deposition%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A127%E2%80%9332."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Batalini%20F%2C%20Econimo%20L%2C%20Quillen%20K%2C%20et%20al.%20High-dose%20melphalan%20and%20stem%20cell%20transplantation%20in%20patients%20on%20dialysis%20due%20to%20immunoglobulin%20light-chain%20amyloidosis%20and%20monoclonal%20immunoglobulin%20deposition%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A127%E2%80%9332."
+            }
+          ]
+        },
+        {
+          "id": 8300020,
+          "page": 744,
+          "en": "Cook G, Iacobelli S, Van Biezen A, et al. High-dose therapy and autologous stem cell transplantation in patients with POEMS syndrome: a retrospective study of the Chronic Malignancy Working Party of the European Society for Blood and Marrow Transplantation. Haematologica. 2017;102:160–7.",
+          "zh": "Cook G, Iacobelli S, Van Biezen A, et al. High-dose therapy and autologous stem cell transplantation in patients with POEMS syndrome: a retrospective study of the Chronic Malignancy Working Party of the European Society for Blood and Marrow Transplantation. Haematologica. 2017;102:160–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cook%20G%2C%20Iacobelli%20S%2C%20Van%20Biezen%20A%2C%20et%20al.%20High-dose%20therapy%20and%20autologous%20stem%20cell%20transplantation%20in%20patients%20with%20POEMS%20syndrome%3A%20a%20retrospective%20study%20of%20the%20Chronic%20Malignancy%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Haematologica.%202017%3B102%3A160%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cook%20G%2C%20Iacobelli%20S%2C%20Van%20Biezen%20A%2C%20et%20al.%20High-dose%20therapy%20and%20autologous%20stem%20cell%20transplantation%20in%20patients%20with%20POEMS%20syndrome%3A%20a%20retrospective%20study%20of%20the%20Chronic%20Malignancy%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Haematologica.%202017%3B102%3A160%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 8300021,
+          "page": 744,
+          "en": "D’Souza A, Lacy M, Gertz M, et al. Long-term outcomes after autologous stem cell transplantation for patients with POEMS syndrome: a single-center experience. Blood. 2012;120:56–62.",
+          "zh": "D’Souza A, Lacy M, Gertz M, et al. Long-term outcomes after autologous stem cell transplantation for patients with POEMS syndrome: a single-center experience. Blood. 2012;120:56–62.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=D%E2%80%99Souza%20A%2C%20Lacy%20M%2C%20Gertz%20M%2C%20et%20al.%20Long-term%20outcomes%20after%20autologous%20stem%20cell%20transplantation%20for%20patients%20with%20POEMS%20syndrome%3A%20a%20single-center%20experience.%20Blood.%202012%3B120%3A56%E2%80%9362."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=D%E2%80%99Souza%20A%2C%20Lacy%20M%2C%20Gertz%20M%2C%20et%20al.%20Long-term%20outcomes%20after%20autologous%20stem%20cell%20transplantation%20for%20patients%20with%20POEMS%20syndrome%3A%20a%20single-center%20experience.%20Blood.%202012%3B120%3A56%E2%80%9362."
+            }
+          ]
+        },
+        {
+          "id": 8300022,
+          "page": 744,
+          "en": "Dispenzieri A. POEMS syndrome: 2017 Update on diagnosis, risk-stratification, and management. Am J Hematol. 2017;92:814–29.",
+          "zh": "Dispenzieri A. POEMS syndrome: 2017 Update on diagnosis, risk-stratification, and management. Am J Hematol. 2017;92:814–29.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dispenzieri%20A.%20POEMS%20syndrome%3A%202017%20Update%20on%20diagnosis%2C%20risk-stratification%2C%20and%20management.%20Am%20J%20Hematol.%202017%3B92%3A814%E2%80%9329."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dispenzieri%20A.%20POEMS%20syndrome%3A%202017%20Update%20on%20diagnosis%2C%20risk-stratification%2C%20and%20management.%20Am%20J%20Hematol.%202017%3B92%3A814%E2%80%9329."
+            }
+          ]
+        },
+        {
+          "id": 8300023,
+          "page": 744,
+          "en": "Dispenzieri A, Kyle RA, Lacy MQ, et al. POEMS syndrome: definitions and long-term outcome. Blood. 2003;101:2496–506.",
+          "zh": "Dispenzieri A, Kyle RA, Lacy MQ, et al. POEMS syndrome: definitions and long-term outcome. Blood. 2003;101:2496–506.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dispenzieri%20A%2C%20Kyle%20RA%2C%20Lacy%20MQ%2C%20et%20al.%20POEMS%20syndrome%3A%20definitions%20and%20long-term%20outcome.%20Blood.%202003%3B101%3A2496%E2%80%93506."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dispenzieri%20A%2C%20Kyle%20RA%2C%20Lacy%20MQ%2C%20et%20al.%20POEMS%20syndrome%3A%20definitions%20and%20long-term%20outcome.%20Blood.%202003%3B101%3A2496%E2%80%93506."
+            }
+          ]
+        },
+        {
+          "id": 8300024,
+          "page": 744,
+          "en": "Dispenzieri A, Lacy MQ, Hayman SR, et al. Peripheral blood stem cell transplant for POEMS síndrome is associated with high rates of engraftment syndrome. Eur J Haematol. 2008;80:397–406.",
+          "zh": "Dispenzieri A, Lacy MQ, Hayman SR, et al. Peripheral blood stem cell transplant for POEMS síndrome is associated with high rates of engraftment syndrome. Eur J Haematol. 2008;80:397–406.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dispenzieri%20A%2C%20Lacy%20MQ%2C%20Hayman%20SR%2C%20et%20al.%20Peripheral%20blood%20stem%20cell%20transplant%20for%20POEMS%20s%C3%ADndrome%20is%20associated%20with%20high%20rates%20of%20engraftment%20syndrome.%20Eur%20J%20Haematol.%202008%3B80%3A397%E2%80%93406."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dispenzieri%20A%2C%20Lacy%20MQ%2C%20Hayman%20SR%2C%20et%20al.%20Peripheral%20blood%20stem%20cell%20transplant%20for%20POEMS%20s%C3%ADndrome%20is%20associated%20with%20high%20rates%20of%20engraftment%20syndrome.%20Eur%20J%20Haematol.%202008%3B80%3A397%E2%80%93406."
+            }
+          ]
+        },
+        {
+          "id": 8300025,
+          "page": 744,
+          "en": "Girnius S, Seldin DC, Quillen K, et al. Long-term outcome of patients with monoclonal IgG deposition disease treated with high-dose melphalan and stem cell transplantation. Bone Marrow Transplant. 2011;46:161–2.",
+          "zh": "Girnius S, Seldin DC, Quillen K, et al. Long-term outcome of patients with monoclonal IgG deposition disease treated with high-dose melphalan and stem cell transplantation. Bone Marrow Transplant. 2011;46:161–2.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Girnius%20S%2C%20Seldin%20DC%2C%20Quillen%20K%2C%20et%20al.%20Long-term%20outcome%20of%20patients%20with%20monoclonal%20IgG%20deposition%20disease%20treated%20with%20high-dose%20melphalan%20and%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202011%3B46%3A161%E2%80%932."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Girnius%20S%2C%20Seldin%20DC%2C%20Quillen%20K%2C%20et%20al.%20Long-term%20outcome%20of%20patients%20with%20monoclonal%20IgG%20deposition%20disease%20treated%20with%20high-dose%20melphalan%20and%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202011%3B46%3A161%E2%80%932."
+            }
+          ]
+        },
+        {
+          "id": 8300026,
+          "page": 744,
+          "en": "Hassoun H, Flombaum C, D’Agati, et al. High-dose melphalan and auto-SCT in patients with monoclonal Ig deposition disease. Bone Marrow Transplant. 2008;42:1–8.",
+          "zh": "Hassoun H, Flombaum C, D’Agati, et al. High-dose melphalan and auto-SCT in patients with monoclonal Ig deposition disease. Bone Marrow Transplant. 2008;42:1–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hassoun%20H%2C%20Flombaum%20C%2C%20D%E2%80%99Agati%2C%20et%20al.%20High-dose%20melphalan%20and%20auto-SCT%20in%20patients%20with%20monoclonal%20Ig%20deposition%20disease.%20Bone%20Marrow%20Transplant.%202008%3B42%3A1%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hassoun%20H%2C%20Flombaum%20C%2C%20D%E2%80%99Agati%2C%20et%20al.%20High-dose%20melphalan%20and%20auto-SCT%20in%20patients%20with%20monoclonal%20Ig%20deposition%20disease.%20Bone%20Marrow%20Transplant.%202008%3B42%3A1%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 8300027,
+          "page": 744,
+          "en": "Jurczyszyn A, Olszewska-Szopa M, Vesole D. POEMS syndrome—clinical picture and management. Current Knowledge. Clin Lym Myel Leuk. 2023; https://doi.org/10.1016/j.clml.2023.04.008.",
+          "zh": "Jurczyszyn A, Olszewska-Szopa M, Vesole D. POEMS syndrome—clinical picture and management. Current Knowledge. Clin Lym Myel Leuk. 2023; https://doi.org/10.1016/j.clml.2023.04.008.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jurczyszyn%20A%2C%20Olszewska-Szopa%20M%2C%20Vesole%20D.%20POEMS%20syndrome%E2%80%94clinical%20picture%20and%20management.%20Current%20Knowledge.%20Clin%20Lym%20Myel%20Leuk.%202023%3B%20https%3A%2F%2Fdoi.org%2F10.1016%2Fj.clml.2023.04.008."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jurczyszyn%20A%2C%20Olszewska-Szopa%20M%2C%20Vesole%20D.%20POEMS%20syndrome%E2%80%94clinical%20picture%20and%20management.%20Current%20Knowledge.%20Clin%20Lym%20Myel%20Leuk.%202023%3B%20https%3A%2F%2Fdoi.org%2F10.1016%2Fj.clml.2023.04.008."
+            }
+          ]
+        },
+        {
+          "id": 8300028,
+          "page": 744,
+          "en": "Kourelis TV, Buadi FK, Kumar SK, et al. Long-term outcome of patients with POEMS syndrome: an",
+          "zh": "Kourelis TV, Buadi FK, Kumar SK, et al. Long-term outcome of patients with POEMS syndrome: an",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kourelis%20TV%2C%20Buadi%20FK%2C%20Kumar%20SK%2C%20et%20al.%20Long-term%20outcome%20of%20patients%20with%20POEMS%20syndrome%3A%20an"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kourelis%20TV%2C%20Buadi%20FK%2C%20Kumar%20SK%2C%20et%20al.%20Long-term%20outcome%20of%20patients%20with%20POEMS%20syndrome%3A%20an"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 745,
+      "blocks": [
+        {
+          "id": 8300029,
+          "page": 745,
+          "en": "update of the Mayo Clinic experience. Am J Hematol. 2016;91:585–9.",
+          "zh": "update of the Mayo Clinic experience. Am J Hematol. 2016;91:585–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=update%20of%20the%20Mayo%20Clinic%20experience.%20Am%20J%20Hematol.%202016%3B91%3A585%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=update%20of%20the%20Mayo%20Clinic%20experience.%20Am%20J%20Hematol.%202016%3B91%3A585%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 8300030,
+          "page": 745,
+          "en": "Li J, Zhang W, Jiao L, et al. Combination of melphalan and dexamethasone for patients with newly diagnosed POEMS syndrome. Blood. 2011a;117:6445–9.",
+          "zh": "Li J, Zhang W, Jiao L, et al. Combination of melphalan and dexamethasone for patients with newly diagnosed POEMS syndrome. Blood. 2011a;117:6445–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Li%20J%2C%20Zhang%20W%2C%20Jiao%20L%2C%20et%20al.%20Combination%20of%20melphalan%20and%20dexamethasone%20for%20patients%20with%20newly%20diagnosed%20POEMS%20syndrome.%20Blood.%202011a%3B117%3A6445%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Li%20J%2C%20Zhang%20W%2C%20Jiao%20L%2C%20et%20al.%20Combination%20of%20melphalan%20and%20dexamethasone%20for%20patients%20with%20newly%20diagnosed%20POEMS%20syndrome.%20Blood.%202011a%3B117%3A6445%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 8300031,
+          "page": 745,
+          "en": "Li J, Zhou DB, Huang Z, et al. Clinical characteristics and long-term outcome of patients with POEMS syndrome in China. Ann Hematol. 2011b;90:819–26.",
+          "zh": "Li J, Zhou DB, Huang Z, et al. Clinical characteristics and long-term outcome of patients with POEMS syndrome in China. Ann Hematol. 2011b;90:819–26.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Li%20J%2C%20Zhou%20DB%2C%20Huang%20Z%2C%20et%20al.%20Clinical%20characteristics%20and%20long-term%20outcome%20of%20patients%20with%20POEMS%20syndrome%20in%20China.%20Ann%20Hematol.%202011b%3B90%3A819%E2%80%9326."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Li%20J%2C%20Zhou%20DB%2C%20Huang%20Z%2C%20et%20al.%20Clinical%20characteristics%20and%20long-term%20outcome%20of%20patients%20with%20POEMS%20syndrome%20in%20China.%20Ann%20Hematol.%202011b%3B90%3A819%E2%80%9326."
+            }
+          ]
+        },
+        {
+          "id": 8300032,
+          "page": 745,
+          "en": "Pozzi C, D’Amico M, Fogazzi GB, et al. Light chain deposition disease with renal involvement: clinical characteristics and prognostic factors. Am J Kidney Dis. 2003;42:1154–63.",
+          "zh": "Pozzi C, D’Amico M, Fogazzi GB, et al. Light chain deposition disease with renal involvement: clinical characteristics and prognostic factors. Am J Kidney Dis. 2003;42:1154–63.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pozzi%20C%2C%20D%E2%80%99Amico%20M%2C%20Fogazzi%20GB%2C%20et%20al.%20Light%20chain%20deposition%20disease%20with%20renal%20involvement%3A%20clinical%20characteristics%20and%20prognostic%20factors.%20Am%20J%20Kidney%20Dis.%202003%3B42%3A1154%E2%80%9363."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pozzi%20C%2C%20D%E2%80%99Amico%20M%2C%20Fogazzi%20GB%2C%20et%20al.%20Light%20chain%20deposition%20disease%20with%20renal%20involvement%3A%20clinical%20characteristics%20and%20prognostic%20factors.%20Am%20J%20Kidney%20Dis.%202003%3B42%3A1154%E2%80%9363."
+            }
+          ]
+        },
+        {
+          "id": 8300033,
+          "page": 745,
+          "en": "Rovira M, Carreras E, Blade J, et al. Dramatic improvement of POEMS syndrome following autologous haematopoietic cell transplantation. Br J Haematol. 2001;115:373–5.",
+          "zh": "Rovira M, Carreras E, Blade J, et al. Dramatic improvement of POEMS syndrome following autologous haematopoietic cell transplantation. Br J Haematol. 2001;115:373–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rovira%20M%2C%20Carreras%20E%2C%20Blade%20J%2C%20et%20al.%20Dramatic%20improvement%20of%20POEMS%20syndrome%20following%20autologous%20haematopoietic%20cell%20transplantation.%20Br%20J%20Haematol.%202001%3B115%3A373%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rovira%20M%2C%20Carreras%20E%2C%20Blade%20J%2C%20et%20al.%20Dramatic%20improvement%20of%20POEMS%20syndrome%20following%20autologous%20haematopoietic%20cell%20transplantation.%20Br%20J%20Haematol.%202001%3B115%3A373%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 8300034,
+          "page": 745,
+          "en": "Tovar N, Cibeira MT, Rosiñol L, et al. Bortezomib/dexamethasone followed by stem cell transplantation as front line treatment for light-chain deposition disease. Eur J Haematol. 2012;89(4):340–4.",
+          "zh": "Tovar N, Cibeira MT, Rosiñol L, et al. Bortezomib/dexamethasone followed by stem cell transplantation as front line treatment for light-chain deposition disease. Eur J Haematol. 2012;89(4):340–4.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tovar%20N%2C%20Cibeira%20MT%2C%20Rosi%C3%B1ol%20L%2C%20et%20al.%20Bortezomib%2Fdexamethasone%20followed%20by%20stem%20cell%20transplantation%20as%20front%20line%20treatment%20for%20light-chain%20deposition%20disease.%20Eur%20J%20Haematol.%202012%3B89(4)%3A340%E2%80%934."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tovar%20N%2C%20Cibeira%20MT%2C%20Rosi%C3%B1ol%20L%2C%20et%20al.%20Bortezomib%2Fdexamethasone%20followed%20by%20stem%20cell%20transplantation%20as%20front%20line%20treatment%20for%20light-chain%20deposition%20disease.%20Eur%20J%20Haematol.%202012%3B89(4)%3A340%E2%80%934."
+            }
+          ]
+        },
+        {
+          "id": 8300035,
+          "page": 745,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "本章依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）授權。只要適當註明原作者與來源、提供授權連結，並指出是否有修改，即可於任何媒體或格式使用、分享、改作、散布及重製。\n除素材註記另有說明外，本章圖片或其他第三方素材亦納入此 Creative Commons 授權。若素材未包含於授權內，且你的使用不為法規許可或超過法定範圍，須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

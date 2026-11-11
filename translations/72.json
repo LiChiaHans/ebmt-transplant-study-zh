@@ -1,0 +1,726 @@
+{
+  "id": 72,
+  "title": "Acute Lymphoblastic Leukemia in Adults",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 58,
+  "scope": "依原 PDF 視覺閱讀順序直接逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 642,
+      "blocks": [
+        {
+          "id": 7200001,
+          "page": 642,
+          "en": "72 Acute Lymphoblastic Leukemia in Adults\nMatthias Stelljes, David I. Marks, and Sebastian Giebel",
+          "zh": "72 成人急性淋巴性白血病 — Matthias Stelljes、David I. Marks、Sebastian Giebel",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_72"
+            }
+          ]
+        },
+        {
+          "id": 7200002,
+          "page": 642,
+          "en": "72.1 Definition and Epidemiology\nAcute lymphoblastic leukemia (ALL) is a malignant transformation and proliferation of lymphoid progenitor cells in the bone marrow, blood, and extramedullary sites. While 80% of ALL occurs in children, it represents a much less curable disease in adults. The incidence of ALL is bimodal, with the first peak occurring in childhood and a second peak occurring around 50 years. The estimated overall incidence of ALL and lymphoblastic lymphoma in Europe is 1.28 per 100,000 individuals annually, with significant age-related variations (0.53 at 45–54 years, ∼1.0 at 55–74 years, and 1.45 at 75–99 years) (Terwilliger and Abdul-Hay 2017).",
+          "zh": "72.1 定義與流行病學\n急性淋巴性白血病（ALL）是淋巴前驅細胞在骨髓、血液及髓外部位發生惡性轉化與增殖的疾病。雖然 80% 的 ALL 發生於兒童，但在成人中，它是治癒率明顯較低的疾病。ALL 的發生率呈雙峰分布，第一個高峰出現在兒童期，第二個高峰則出現在 50 歲左右。在歐洲，ALL 與淋巴母細胞淋巴瘤（LBL）的估計總年發生率為每 10 萬人 1.28 例，且有顯著的年齡相關差異（45–54 歲為 0.53、55–74 歲約為 1.0，而 75–99 歲則為 1.45）（Terwilliger and Abdul-Hay 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200003,
+          "page": 642,
+          "en": "72.2 Diagnosis\nTypical but non-specific clinical manifestations of patients with ALL are constitutional symptoms, bleeding, infections, and/or bone pain, with less than 10% of individuals having symptomatic CNS involvement at diagnosis, more common in T-cell disease. Mediastinal mass with wheezing and stridor can be a presenting feature of T-lineage ALL. A comprehensive work-up is necessary to allow a precise differential diagnosis, an accurate stratification and to establish an optimal monitoring of minimal residual disease (MRD). It includes blood and marrow morphology, flow cytometry, karyotype, and molecular genetics. Bone marrow infiltration >20% is used as cutoff point to distinguish ALL from LBL although it is arbitrary.",
+          "zh": "72.2 診斷\nALL 患者典型但非特異性的臨床表現為全身性症狀、出血、感染及／或骨痛；診斷時有症狀性中樞神經系統（CNS）侵犯的個體不到 10%，且較常見於 T 細胞疾病。伴隨喘鳴（wheezing）與吸氣性哮鳴（stridor）的縱膈腫塊可能是 T 系 ALL 的初始表現特徵。必須進行全面性檢查，以做出精確的鑑別診斷、準確的風險分層，並建立最佳的微量殘存疾病（MRD）監測。檢查內容包括血液與骨髓形態學、流式細胞術、染色體核型分析及分子遺傳學。骨髓浸潤 >20% 被用作區分 ALL 與 LBL 的切點，儘管此標準具有任意性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200004,
+          "page": 642,
+          "en": "72.3 Classification\nIn 2022, the updated WHO classification and International Consensus Classification were published (Alaggio et al. 2022; Arber et al. 2022). Both distinguish B- and T-cell precursor neoplasms, including variety of genetically defined subtypes. Among B-ALL/LBL, Philadelphia-positive (Ph+) subtype characterized by the presence of t(9;22)(q34.1;q11.2) and BCR::ABL1 fusion gene is the most frequent one accounting for 20–30% of adults. Its frequency increases with age.",
+          "zh": "72.3 分類\n2022 年，更新版世界衛生組織（WHO）分類與國際共識分類（ICC）相繼發表（Alaggio et al. 2022; Arber et al. 2022）。兩者均區分 B 細胞與 T 細胞前驅腫瘤，並涵蓋多種由基因定義的亞型。在 B-ALL/LBL 中，以存在 t(9;22)(q34.1;q11.2) 及 BCR::ABL1 融合基因為特徵的費城染色體陽性（Ph+）亞型最為常見，占成人病例的 20–30%。其發生頻率隨年齡增長而上升。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200005,
+          "page": 642,
+          "en": "M. Stelljes (*)\nDepartment of Hematology and Oncology, University Hospital of Münster, University of Münster, Münster, Germany\ne-mail: matthias.stelljes@ukmuenster.de\n\nD. I. Marks\nDepartment of Haematology and BMT, Bristol Haematology and Oncology Centre, Bristol, UK\nUniversity of Bristol, Bristol, UK\ne-mail: David.Marks@uhbristol.nhs.uk\n\nS. Giebel\nDepartment of Bone Marrow Transplantation and Onco-Hematology, Maria Sklodowska-Curie National Research Institute of Oncology, Gliwice, Poland\ne-mail: sgiebel@io.gliwice.pl\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_72",
+          "zh": "作者單位與聯絡資訊：\nM. Stelljes（通訊作者）：德國明斯特大學、明斯特大學醫院血液與腫瘤科；電子郵件：matthias.stelljes@ukmuenster.de。\nD. I. Marks：英國布里斯托血液與腫瘤中心血液與骨髓移植科；英國布里斯托大學；電子郵件：David.Marks@uhbristol.nhs.uk。\nS. Giebel：波蘭格利維采居禮夫人國家腫瘤研究所骨髓移植與腫瘤血液科；電子郵件：sgiebel@io.gliwice.pl。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_72。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 643,
+      "blocks": [
+        {
+          "id": 7200006,
+          "page": 643,
+          "en": "72.4 Risk Factors\nClinical risk factors include age and white blood cell count at the time of diagnosis. Increasing age portends a worse prognosis. Patients over 60 years have particularly poor outcomes, with less than 20% long-term survival (Geyer et al. 2017). In most studies, the cut point for high-risk ALL has been 30 × 10⁹/L for B-cell precursor ALL and 100 × 10⁹/L for T-cell precursor ALL, respectively.",
+          "zh": "72.4 風險因子\n臨床風險因子包括診斷時的年齡與白血球計數。年齡增加預示著較差的預後。60 歲以上患者的治療結果尤其不佳，長期存活率低於 20%（Geyer et al. 2017）。在大多數研究中，高風險 ALL 的白血球切點在 B 細胞前驅 ALL 與 T 細胞前驅 ALL 分別為 30 × 10⁹/L 與 100 × 10⁹/L。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200007,
+          "page": 643,
+          "en": "Immunophenotyping allows for evaluation of the maturation status of leukemic cells and has been historically used for risk stratification. Among T-ALL/LBL, the early T-cell precursor ALL defined by reduced expression of T-cell markers (CD1a, CD8, and CD5), and aberrant expression of myeloid or stem cell markers is associated with high-risk of treatment failure (Chiaretti et al. 2014). With the application of modern treatment protocols, the prognostic value of other phenotypically defined subtypes is unclear.",
+          "zh": "免疫表型分析可評估白血病細胞的成熟狀態，過去一直用於風險分層。在 T-ALL/LBL 中，以 T 細胞標記（CD1a、CD8 及 CD5）表現降低且伴隨骨髓系或幹細胞標記異常表現所定義的早期 T 細胞前驅（ETP）ALL，與高治療失敗風險相關（Chiaretti et al. 2014）。隨著現代治療方案的應用，其他由表現型定義之亞型的預後價值仍不明確。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200008,
+          "page": 643,
+          "en": "Several genetically defined subtypes are associated with poor prognosis. In adults, the most frequent one is t(v;11q23.3) associated with KMT2A rearrangements. The prognostic relevance of low-hypodiploidy and complex karyotype (five or more chromosomal aberrations) in ALL remains controversial among different study groups. Ph + ALL was historically defined as very high risk subtype. In modern era, treatment results for Ph + and Ph- ALL are comparable. Among older patients ineligible for allo-HCT, the presence of BCR::ABL1 may even be associated with favorable outcomes due to sensibility to tyrosine kinase inhibitors. In a significant proportion of Ph-ALL, gene expression profile resembles that of BCR::ABL1+ ALL. This subtype, named Ph-like ALL, is associated with unfavorable prognosis. Its identification, however, is not routinely available in many countries.",
+          "zh": "數種由基因定義的亞型與不良預後相關。在成人中，最常見的是伴隨 KMT2A 重排的 t(v;11q23.3)。低亞二倍體（low-hypodiploidy）與複雜核型（五項或以上染色體異常）在 ALL 中的預後相關性，在不同研究組之間仍有爭議。Ph+ ALL 過去被定義為極高風險亞型。在現代，Ph+ 與 Ph− ALL 的治療結果已相當。在不符合異體造血細胞移植（allo-HCT）資格的年長患者中，由於對酪胺酸激酶抑制劑（TKI）具敏感性，存在 BCR::ABL1 甚至可能與較佳的結果相關。在相當比例的 Ph− ALL 中，其基因表現圖譜與 BCR::ABL1+ ALL 相似。此亞型稱為費城染色體樣 ALL（Ph-like ALL），與不良預後相關；然而，許多國家尚無法常規進行其鑑定。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200009,
+          "page": 643,
+          "en": "Response to initial therapy is a strong predictor of the overall outcome. This includes the need for more than one cycle of induction to achieve CR as well as inadequate response at the level of MRD. MRD >10⁻³ of bone marrow cells after induction and/or >10⁻⁴ during/after consolidation is considered a high-risk feature (Giebel et al. 2019). An increase of MRD level above 10⁻³ after initial response represents a very high risk of relapse (Brüggemann et al. 2010). MRD is evaluable using either multichannel flow cytometry or the real-time quantitative polymerase chain reaction (RQ-PCR). Aberrant phenotypes are identified on the basis of different combinations and/or asynchronous expression and/or variable intensity staining of several antigens. PCR targets are transcripts of fusion genes associated with chromosomal abnormalities (e.g., BCR::ABL1) or rearranged immunoglobulin or T-cell receptor sequences (TCR β, γ, δ, IgH, and IgK-Kde) unique to each patient with ALL. Innovative, more sensitive methods include next-generation flow cytometry, digital drop PCR, and next-generation sequencing. They require further standardization before wide implementation in clinical practice.",
+          "zh": "對初始治療的反應是整體結果的強效預測因子。這包括需要超過一個誘導療程才能達到完全緩解（CR），以及在 MRD 層級上的反應不足。誘導後骨髓細胞 MRD >10⁻³ 及／或鞏固期間／之後 MRD >10⁻⁴ 被視為高風險特徵（Giebel et al. 2019）。在初步反應後 MRD 水準回升至 10⁻³ 以上，代表復發風險極高（Brüggemann et al. 2010）。MRD 可使用多通道流式細胞術或即時定量聚合酶連鎖反應（RQ-PCR）進行評估。異常表型是根據數種抗原的不同組合、不同步表現及／或染色強度差異來辨識。PCR 的標的為染色體異常相關融合基因的轉錄本（例如 BCR::ABL1），或每名 ALL 患者特有的重排免疫球蛋白或 T 細胞受體序列（TCR β、γ、δ、IgH 及 IgK-Kde）。創新且更靈敏的方法包括次世代流式細胞術、數位微滴 PCR（digital drop PCR）及次世代定序（NGS）。在廣泛實施於臨床實務之前，這些方法仍需進一步標準化。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200010,
+          "page": 643,
+          "en": "72.5 Prognostic Factors Used to Indicate Allo-HCT in CR1\nIndications for allo-HCT in CR1 are restricted to patients with high-risk ALL. However, criteria used for stratification in particular study groups vary strongly (Giebel et al. 2019).",
+          "zh": "72.5 用於決定第一次完全緩解（CR1）異體造血細胞移植適應症的預後因子\n在 CR1 進行 allo-HCT 的適應症僅限於高風險 ALL 患者。然而，各特定研究組用於風險分層的標準差異極大（Giebel et al. 2019）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 644,
+      "blocks": [
+        {
+          "id": 7200011,
+          "page": 644,
+          "en": "[Table: Prognostic factors considered by study groups to indicate allo-HCT in CR1]\n\nColumn 1 — Factors considered by all study groups:\n• Inadequate response during/after consolidation:\n  – MRD >10⁻⁴/detectable at any level\n• Age (various cut points)\n• BCR::ABL1\n\nColumn 2 — Factors considered by majority of study groups:\n• Inadequate response to induction I:\n  – No hematological CR\n  – MRD >10⁻³ after induction\n• High initial WBC:\n  – >30 × 10⁹/L in B-ALL\n  – >100 × 10⁹/L in T-ALL\n• Other genetic factors:\n  – KMT2A rearrangements\n  – Hypodiploidy\n  – Complex karyotype\n\nColumn 3 — Factors considered by some study groups:\n• Initial CNS involvement\n• Adverse immunophenotype:\n  – Early T-precursor\n  – Mature T\n  – Pro-B",
+          "zh": "【表格：各研究組用於決定 CR1 異體造血細胞移植適應症所考量的預後因子】\n\n第一欄 — 所有研究組均考量的因子：\n• 鞏固治療期間／之後反應不足：\n  – MRD >10⁻⁴／在任何水平可檢測到\n• 年齡（切點各異）\n• BCR::ABL1\n\n第二欄 — 多數研究組考量的因子：\n• 對第一次誘導治療（induction I）反應不足：\n  – 未達血液學 CR\n  – 誘導後 MRD >10⁻³\n• 初始白血球計數（WBC）過高：\n  – B-ALL >30 × 10⁹/L\n  – T-ALL >100 × 10⁹/L\n• 其他基因因子：\n  – KMT2A 重排\n  – 亞二倍體（Hypodiploidy）\n  – 複雜核型（Complex karyotype）\n\n第三欄 — 部分研究組考量的因子：\n• 初始中樞神經系統（CNS）侵犯\n• 不良免疫表型：\n  – 早期 T 細胞前驅型（Early T-precursor）\n  – 成熟 T 細胞型（Mature T）\n  – 原 B 細胞型（Pro-B）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200012,
+          "page": 644,
+          "en": "72.6 First-Line Treatment\nThe first-line chemotherapy usually consists of prephase, induction, treatment intensification/consolidation, and either long-term maintenance or allo-HCT, with CNS prophylaxis given at intervals throughout therapy (Fig. 72.1). The goal of induction therapy is to achieve CR remission and to restore normal hematopoiesis.",
+          "zh": "72.6 第一線治療\n第一線化學治療通常包含前期治療（prephase）、誘導治療、治療強化／鞏固治療，以及長期維持治療或 allo-HCT，並在整個療程中按固定間隔給予 CNS 預防治療（圖 72.1）。誘導治療的目標是達成 CR 並恢復正常造血功能。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200013,
+          "page": 644,
+          "en": "In Ph-ALL intensive chemotherapy inspired by pediatric protocols is recommended. The backbone of induction therapy typically includes VCR, DEX, and an anthracycline with or without L-asp and CY. CR rates are in a range of 90–95% for younger adults and 70–90% for older individuals. For consolidation therapy, most study groups recommend six to eight courses, two to four of which contain high-dose MTX, Ara-C, and L-asp, and one to two represent reinduction blocks. Postremission consolidation is most often followed by allo-HCT or long-term maintenance with daily oral mercaptopurine and weekly MTX for 2 years or longer, sometimes with periodic applications of, e.g., VCR, PRD, or other drugs. The addition of RTX to the induction and consolidation therapy for patients with B-ALL and CD20 expression has significantly improved the outcome in these subgroups (Maury et al. 2016). In case of MRD persistence or recurrence, a bispecific anti-CD3/CD19 antibody, blinatumomab, may be administered with high rate of MRD responses. Results of recent studies indicate that also patients with MRD-negativity may benefit from blinatumomab administered in sequence with consolidation chemotherapy. In older individuals, inotuzumab ozagamicin, an anti-CD22 immunotoxin, may be alternative to upfront conventional chemotherapy, although it has not yet been approved for this indication. The addition of nelarabine to first-line treatment of T-ALL has not been shown to influence outcome in adults.",
+          "zh": "在 Ph− ALL 中，建議採用受兒科方案啟發的密集化學治療。誘導治療的骨幹藥物通常包括 vincristine（VCR）、dexamethasone（DEX）及一種蒽環類藥物（anthracycline），並視情況加上或不加 L-asparaginase（L-asp）與 cyclophosphamide（CY）。年輕成人的 CR 率介於 90–95% 之間，年長個體則為 70–90%。至於鞏固治療，大多數研究組建議進行 6 至 8 個療程，其中 2 至 4 個療程包含高劑量 methotrexate（MTX）、cytarabine（Ara-C）及 L-asp，而 1 至 2 個療程則為再誘導（reinduction）療程。緩解後的鞏固治療之後，最常接續進行 allo-HCT，或進行為期 2 年或更久的每日口服 mercaptopurine 與每週 MTX 長期維持治療，有時並定期施予 VCR、prednisone（PRD）或其他藥物。對於具 CD20 表現的 B-ALL 患者，在誘導與鞏固治療中加入 rituximab（RTX）已顯著改善這些亞群的治療結果（Maury et al. 2016）。若發生 MRD 持續存在或復現，可給予抗 CD3/CD19 雙特異性抗體 blinatumomab，並具有高比例的 MRD 反應率。近期研究結果顯示，MRD 陰性患者在鞏固化療序列中接續使用 blinatumomab 也可能獲益。在年長個體中，抗 CD22 免疫毒素 inotuzumab ozogamicin 可作為前線傳統化療的替代方案，儘管該藥尚未獲准用於此適應症。在成人 T-ALL 的第一線治療中加入 nelarabine，尚未證實會影響治療結果。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200014,
+          "page": 644,
+          "en": "In Ph + ALL TKIs are the most important treatment component. Imatinib (IM) is the only drug approved for first-line therapy. During induction, it may be administered in combination with low-dose chemotherapy (VCR, DEX) allowing for 90–100% CR. More intensive chemotherapy does not increase the CR rate (Chalandon et al. 2015). During consolidation, IM used to be combined with high doses of MTX as CNS prophylaxis and other chemotherapeutical agents. All patients should be considered for allo-HCT in CR1, followed by TKI maintenance (Giebel et al. 2016). New regimens, including up-front use of dasatinib or ponatinib in sequence with blinatumomab, increase the chance of molecular CR and may reduce the role of allo-HCT in future.",
+          "zh": "在 Ph+ ALL 中，TKI 是最重要的治療組成部分。Imatinib（IM）是唯一獲准用於第一線治療的藥物。在誘導期間，它可與低劑量化療（VCR、DEX）合併給藥，達到 90–100% 的 CR 率。更密集的化療並不會提高 CR 率（Chalandon et al. 2015）。在鞏固期間，IM 過去常與作為 CNS 預防的高劑量 MTX 及其他化療藥物合併使用。所有患者皆應考慮在 CR1 進行 allo-HCT，並於移植後接續 TKI 維持治療（Giebel et al. 2016）。包括前線使用 dasatinib 或 ponatinib 並依序接續 blinatumomab 的新方案，可提高分子學 CR 的機會，未來可能會降低 allo-HCT 的角色。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 645,
+      "blocks": [
+        {
+          "id": 7200015,
+          "page": 645,
+          "en": "Fig. 72.1 Therapeutic algorithm for patients with newly diagnosed Ph- and Ph + ALL. Additional agents (e.g., binatumomab consolidation for MRD neg. patients) might become available in the near future. HR, high risk; SR, standard risk; MRD, measurable residual disease\n\n[Flowchart pathways in Fig. 72.1]\nLeft pathway — Philadelphia-negative ALL:\n• Pre-treatment: steroids\n  ↓\n• Induction: chemotherapy +/- rituximab\n  ↓\n• Consolidation: chemotherapy +/- rituximab\n  ├─ If MRD ≥10⁻³ (during/after induction or consolidation) → blinatumomab → Allo-HCT\n  └─ Main pathway after Consolidation:\n     ├─ HR (high risk) → Allo-HCT\n     └─ SR (standard risk) → Maintenance: chemotherapy +/- rituximab\n\nRight pathway — Philadelphia-positive ALL:\n• Pre-treatment: steroids\n  ↓\n• Induction: imatinib +/- low-dose chemotherapy +/- rituximab\n  ↓\n• Consolidation: imatinib + chemotherapy +/- rituximab\n  ↓\n• Allo-HCT\n  ↓\n• Maintenance: TKI (prophylactic or MRD-driven)",
+          "zh": "圖 72.1 新診斷 Ph− 與 Ph+ ALL 患者的治療流程。其他藥物（例如用於 MRD 陰性患者的 blinatumomab 鞏固治療）可能在不久的將來可供使用。HR：高風險；SR：標準風險；MRD：可測量殘存疾病。\n\n【圖 72.1 流程圖路徑內容】\n左側路徑 — 費城染色體陰性 ALL（Philadelphia-negative ALL）：\n• 前期治療（Pre-treatment）：類固醇（steroids）\n  ↓\n• 誘導治療（Induction）：化學治療 +/- rituximab\n  ↓\n• 鞏固治療（Consolidation）：化學治療 +/- rituximab\n  ├─ 若 MRD ≥10⁻³ → blinatumomab → 異體造血細胞移植（Allo-HCT）\n  └─ 鞏固治療後主路徑：\n     ├─ HR（高風險）→ 異體造血細胞移植（Allo-HCT）\n     └─ SR（標準風險）→ 維持治療（Maintenance）：化學治療 +/- rituximab\n\n右側路徑 — 費城染色體陽性 ALL（Philadelphia-positive ALL）：\n• 前期治療（Pre-treatment）：類固醇（steroids）\n  ↓\n• 誘導治療（Induction）：imatinib +/- 低劑量化學治療 +/- rituximab\n  ↓\n• 鞏固治療（Consolidation）：imatinib + 化學治療 +/- rituximab\n  ↓\n• 異體造血細胞移植（Allo-HCT）\n  ↓\n• 維持治療（Maintenance）：TKI（預防性或 MRD 驅動）",
+          "review": "ai-draft",
+          "note": "流程圖保留於原 PDF；此處完整翻譯圖說與圖內所有方框及路徑文字。"
+        },
+        {
+          "id": 7200016,
+          "page": 645,
+          "en": "72.7 Second-Line Treatment\nApproximately 5–10% of all adults with ALL are refractory to induction therapy while among those achieving CR, 30–50% experience relapse. Conventional standard chemotherapy regimens for adults with relapsed or refractory B-cell ALL are associated with rates of CR of 31–44% when they are the first salvage therapy administered after an early relapse and 18–25% when they are the second salvage therapy (Gokbuget et al. 2016). Results of randomized trials demonstrated that CR rates increased to 80% using inotuzumab and 44% using blinatumomab, which translated into prolonged survival compared to standard chemotherapy.",
+          "zh": "72.7 第二線治療\n在所有成人 ALL 患者中，約有 5–10% 對誘導治療具難治性（refractory），而在達到 CR 的患者中，則有 30–50% 會發生復發。對於復發或難治性 B 細胞 ALL 成人患者，傳統標準化療方案在早期復發後作為第一線救援治療時，CR 率為 31–44%；作為第二線救援治療時，CR 率則為 18–25%（Gokbuget et al. 2016）。隨機試驗結果顯示，使用 inotuzumab 可將 CR 率提升至 80%，使用 blinatumomab 則為 44%，且相較於標準化療皆轉化為存活期的延長。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200017,
+          "page": 645,
+          "en": "Any treatment regimen for relapsed/refractory ALL should be considered a “bridge” to allo-HCT in order to increase a chance of cure. The use of inotuzumab ozogamycin is associated with increased risk of VOD, especially after more than two treatment courses, in case of preexisting liver impairment and using double alkylators for conditioning. Consequently, the allo-HCT should be scheduled ideally within 6–8 weeks after the start of salvage therapy.",
+          "zh": "任何針對復發／難治性 ALL 的治療方案都應視為通往 allo-HCT 的「橋接（bridge）」，以增加治癒機會。使用 inotuzumab ozogamicin 與肝靜脈閉塞性疾病（VOD）風險增加相關，特別是在接受超過兩個療程之後、原本即有肝功能受損，以及調理方案使用雙烷化劑（double alkylators）的情況下。因此，allo-HCT 理想上應安排在救援治療開始後的 6–8 週內進行。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200018,
+          "page": 645,
+          "en": "Anti-CD19 CAR T-cells are a new option for patients with relapsed/refractory B-ALL. Tisagenlecleucel is approved for children and younger adults up to 25 y.o. with 80–90% CR rate and approximately 50% RFS (Maude et al. 2018). Brexucaptagene autoleucel in Europe is approved for patients ≥26 years old and allows for approximately 71% CR with median OS exceeding 2 years (Shah et al. 2021). The need for subsequent allo-HCT is a matter of debate. Given the high relapse rates reported so far after CAR-T cell therapy and the limited treatment options for patients failing CAR-T cell therapy, a subsequent allo-HCT as consolidation therapy should be considered in patients who have not had a previous HCT although more data are needed.",
+          "zh": "抗 CD19 CAR T 細胞是復發／難治性 B-ALL 患者的一項新選擇。Tisagenlecleucel 已獲准用於兒童與 25 歲以下的年輕成人，CR 率達 80–90%，無復發存活率（RFS）約為 50%（Maude et al. 2018）。Brexucabtagene autoleucel 在歐洲已獲准用於 ≥26 歲的患者，可達到約 71% 的 CR 率，中位總存活期（OS）超過 2 年（Shah et al. 2021）。後續是否需要進行 allo-HCT 仍有爭議。鑑於目前報導 CAR-T 細胞治療後的復發率仍高，且 CAR-T 細胞治療失敗後的治療選擇有限，對於先前未曾接受過 HCT 的患者，應考慮將後續 allo-HCT 作為鞏固治療，但仍需要更多數據佐證。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200019,
+          "page": 645,
+          "en": "Treatment options for patients with relapse/refractory T-ALL are limited. Standard chemotherapy regimens such as FLAG (FLU, Ara-C, and G-CSF) ± idarubicin result in only 30–40% response rates with 6 months median OS in responders. Nelarabine as monotherapy or in combination with other chemotherapeutic agents is a reasonable alternative option. Anti-CD7 or anti-CD5 CAR T-cells are being investigated with promising early results (Pan et al. 2021). Bortezomib-based strategies may be evaluated as an effective and well-tolerated treatment option for adult patients with relapsed/refractory ALL, as a bridge to immunotherapy or allo-HCT (Nachmias et al. 2018). Moreover, daratumumab",
+          "zh": "復發／難治性 T-ALL 患者的治療選擇相當有限。標準化療方案如 FLAG（fludarabine〔FLU〕、Ara-C 及 G-CSF）± idarubicin 僅能帶來 30–40% 的反應率，且有反應者的中位 OS 僅 6 個月。Nelarabine 單獨使用或與其他化療藥物合併使用，是合理的替代選擇。抗 CD7 或抗 CD5 CAR T 細胞目前正在研究中，早期結果令人期待（Pan et al. 2021）。以 bortezomib 為基礎的策略，可評估作為復發／難治性 ALL 成人患者有效且耐受性良好的治療選擇，以作為通往免疫治療或 allo-HCT 的橋接（Nachmias et al. 2018）。此外，daratumumab",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 646,
+      "blocks": [
+        {
+          "id": 7200020,
+          "page": 646,
+          "en": "has started to be used in advanced ALL without other therapeutic options (Cerrano et al. 2022). In any case, allo-HCT should be considered to consolidate response.",
+          "zh": "已開始用於無其他治療選擇的晚期 ALL（Cerrano et al. 2022）。無論如何，皆應考慮以 allo-HCT 來鞏固治療反應。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200021,
+          "page": 646,
+          "en": "72.8 Autologous HCT\n72.8.1 Indication\nAuto-HCT is not considered a standard therapy for adult ALL. Optional for patients with MRD-negative ALL, not eligible for allo-HCT.",
+          "zh": "72.8 自體造血細胞移植（Autologous HCT）\n72.8.1 適應症\n自體造血細胞移植（auto-HCT）不被視為成人 ALL 的標準治療。對於 MRD 陰性且不符合 allo-HCT 資格的 ALL 患者，可作為選用方案（optional）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200022,
+          "page": 646,
+          "en": "72.8.2 Conditioning\nFractionated TBI (e.g., 6 × 2 Gy) in combination with CY and/or VP.",
+          "zh": "72.8.2 調理方案\n分次全身放射線照射（fractionated TBI，例如 6 × 2 Gy）合併 CY 及／或 etoposide（VP）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200023,
+          "page": 646,
+          "en": "72.8.3 Results\nIn some trials, patients excluded from allo-HCT were randomly assigned between chemotherapy and auto-HCT. In the largest study, chemotherapy proved superior, while a marginal superiority of auto-HCT was ascertained in high-risk patients in another one. In a European retrospective analysis on auto-HCT, a cohort of patients who were MRD negative had a significantly better survival compared to those being MRD positive. Results of another retrospective study comparing auto- and allo-HCT for adults with Philadelphia-positive ALL in first complete molecular remission showed similar survival rates for both groups (higher rate of relapse after auto-HCT and higher rates of death in remission after allo-HCT). Finally, comparable results after auto-HCT and RIC-allo-HCT have been reported for patients >55 years old.",
+          "zh": "72.8.3 結果\n在部分試驗中，被排除於 allo-HCT 之外的患者被隨機分配至化學治療或 auto-HCT。在規模最大的研究中，化學治療證實較優；而在另一項研究中，則確認 auto-HCT 在高風險患者中具有邊際優勢（marginal superiority）。在一項針對 auto-HCT 的歐洲回溯性分析中，MRD 陰性患者世代的存活率顯著優於 MRD 陽性者。另一項比較成人費城染色體陽性 ALL 在第一次完全分子學緩解期接受 auto-HCT 與 allo-HCT 的回溯性研究結果顯示，兩組的存活率相近（auto-HCT 後復發率較高，而 allo-HCT 後緩解期死亡率較高）。最後，針對 >55 歲患者，研究報導 auto-HCT 與減低強度調理異體移植（RIC-allo-HCT）後的結果相當。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200024,
+          "page": 646,
+          "en": "It remains a matter of debate if the MRD-negative patients in these retrospective trials would have shown similar results with conventional chemotherapy. The value of high-dose therapy, particularly in ALL patients being early MRD negative after induction therapy, has to be evaluated in prospective trials.",
+          "zh": "這些回溯性試驗中的 MRD 陰性患者若接受傳統化學治療是否也會呈現相似結果，目前仍有爭議。高劑量治療的價值，特別是對於誘導治療後早期即達 MRD 陰性的 ALL 患者，必須在前瞻性試驗中進一步評估。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200025,
+          "page": 646,
+          "en": "72.9 Allogeneic HCT\n72.9.1 Indication\nStandard therapy for patients with high-risk ALL in CR1 (see Sect. 72.5) and standard therapy for patients with subsequent remission after induction failure or relapsed ALL (Giebel et al. 2019). Optional for patients with standard-risk ALL in CR1 and unexpected treatment-related toxicities (e.g., prolonged severe cytopenia), which preclude continuation of conventional therapy. Optional for patients with refractory/active ALL (Pavlu et al. 2017).",
+          "zh": "72.9 異體造血細胞移植（Allogeneic HCT）\n72.9.1 適應症\n是高風險 ALL 患者在 CR1 的標準治療（見第 72.5 節），也是誘導失敗或復發性 ALL 患者在達成後續緩解後的標準治療（Giebel et al. 2019）。對於處於 CR1 的標準風險 ALL 患者，若發生非預期的治療相關毒性（例如長期嚴重血球減少）而無法繼續傳統治療時，可作為選用方案。對於難治性／活動性（refractory/active）ALL 患者，亦可作為選用方案（Pavlu et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200026,
+          "page": 646,
+          "en": "72.9.2 Conditioning\nFor fit patients <45 years and no relevant comorbidities, preferably fractionated TBI (cumulative dose of 12–13 Gy) in combination with CY or VP (Marks et al. 2006); alternative BU (preferable IV BU targeted plasma-drug level monitoring) in combination with CY although this may be associated with higher relapse rates (Kebriaei). For patients aged 45 years and older, dose-adapted/dose-reduced conditioning should be considered. So far, no standard regimen has been established. Reasonable options are TBI-based therapies (e.g., 8 Gy TBI in combination with FLU or CY) and MEL-, BU-, or TREO-based conditioning regimes.",
+          "zh": "72.9.2 調理方案\n對於體能狀態良好、<45 歲且無相關共病的患者，優先選擇分次 TBI（累積劑量 12–13 Gy）合併 CY 或 VP（Marks et al. 2006）；替代方案為 busulfan（BU，優先選擇進行目標血漿藥物濃度監測的靜脈注射 BU）合併 CY，儘管這可能與較高的復發率相關（Kebriaei）。對於 45 歲及以上的患者，應考慮劑量調整／減低劑量調理方案（dose-adapted/dose-reduced conditioning）。目前尚未建立標準方案。合理的選擇包括以 TBI 為基礎的治療（例如 8 Gy TBI 合併 FLU 或 CY），以及以 melphalan（MEL）、BU 或 treosulfan（TREO）為基礎的調理方案。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200027,
+          "page": 646,
+          "en": "Especially patients transplanted beyond first remission are at risk for severe transplant-related toxicities with cumulative incidence of death in remission exceeding 30% and more. Consequently, dose-reduced conditioning regimes should be discussed in patients being in a MRD-negative subsequent remission after treatment with novel antibody-based salvage therapies. Moreover, conditioning therapies associated with significant toxicities (e.g., SOS/",
+          "zh": "特別是在超過第一次緩解期才進行移植的患者，發生嚴重移植相關毒性的風險極高，緩解期死亡的累積發生率超過 30% 甚至更高。因此，對於接受新型抗體救援治療後達到 MRD 陰性後續緩解的患者，應討論採用減低劑量調理方案。此外，與顯著毒性相關的調理治療（例如在接受 inotuzumab ozogamicin 治療的患者中引起竇狀隙阻塞症候群〔SOS〕／",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 647,
+      "blocks": [
+        {
+          "id": 7200028,
+          "page": 647,
+          "en": "VOD for patients treated with inotuzumab ozogamicin) must be avoided.",
+          "zh": "肝靜脈閉塞性疾病〔VOD〕的方案）必須予以避免。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200029,
+          "page": 647,
+          "en": "72.9.3 Donor\nMSD, HLA-MUD (at least matched for HLA-A, HLA-B, HLA-C, and DR), HLA-MMUD, haploidentical donor. Results of a retrospective, EBMT registry-based analyses showed comparable results for all donor types (Shem-Tov et al. 2020; Nagler et al. 2021) (Figs. 72.2 and 72.3).",
+          "zh": "72.9.3 供者\n相合手足供者（MSD）、HLA 相合非親屬供者（HLA-MUD，至少在 HLA-A、HLA-B、HLA-C 及 DR 相合）、HLA 不相合非親屬供者（HLA-MMUD）、半相合供者（haploidentical donor）。基於 EBMT 登錄資料庫的回溯性分析結果顯示，所有供者類型的移植結果皆相當（Shem-Tov et al. 2020; Nagler et al. 2021）（圖 72.2 與圖 72.3）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200030,
+          "page": 647,
+          "en": "Fig. 72.2 Outcome of matched unrelated donor, mismatched unrelated donor, and haploidentical donor—HCT performed between 2007–2016 for adults with ALL in CR1. (a) Relapse incidence (RI), (b) non-relapse mortality (NRM), (c) leukemia-free survival (LFS), (d) overall survival (OS) (Shem-Tov et al. 2020)\n\n[Panels, statistics, and Number at risk in Fig. 72.2]\nStrata: Haplo | MUD 10/10 | MUD 9/10\nTime (in months): 0, 12, 24, 36\n• Panel a — RI (Relapse incidence, y-axis 0.0–1.0): p = 0.73\n• Panel b — NRM (Non-relapse mortality, y-axis 0.0–1.0): p = 0.56\n• Panel c — OS (y-axis 0.00–1.00): p = 0.11\n  Number at risk (OS) at 0, 12, 24, 36 months:\n  – Haplo: 136, 84, 38, 24\n  – MUD 10/10: 809, 516, 344, 240\n  – MUD 9/10: 289, 180, 128, 96\n• Panel d — LFS (y-axis 0.00–1.00): p = 0.67\n  Number at risk (LFS) at 0, 12, 24, 36 months:\n  – Haplo: 136, 74, 33, 20\n  – MUD 10/10: 809, 435, 294, 207\n  – MUD 9/10: 289, 162, 111, 84",
+          "zh": "圖 72.2 2007–2016 年間處於 CR1 的成人 ALL 接受相合非親屬供者、不相合非親屬供者與半相合供者造血細胞移植（HCT）之結果。（a）復發發生率（RI），（b）非復發死亡率（NRM），（c）無白血病存活率（LFS），（d）總存活率（OS）（Shem-Tov et al. 2020）。\n\n【圖 72.2 各子圖、統計值與風險人數（Number at risk）】\n分層（Strata）：半相合（Haplo）｜MUD 10/10｜MUD 9/10\n時間（月）：0、12、24、36\n• 子圖 a — RI（復發發生率，縱軸 0.0–1.0）：p = 0.73\n• 子圖 b — NRM（非復發死亡率，縱軸 0.0–1.0）：p = 0.56\n• 子圖 c — OS（縱軸標示 OS，0.00–1.00）：p = 0.11\n  0、12、24、36 個月時之風險人數（OS）：\n  – Haplo：136、84、38、24\n  – MUD 10/10：809、516、344、240\n  – MUD 9/10：289、180、128、96\n• 子圖 d — LFS（縱軸標示 LFS，0.00–1.00）：p = 0.67\n  0、12、24、36 個月時之風險人數（LFS）：\n  – Haplo：136、74、33、20\n  – MUD 10/10：809、435、294、207\n  – MUD 9/10：289、162、111、84",
+          "review": "ai-draft",
+          "note": "存活與累積發生率曲線保留於原 PDF；此處完整列出圖說、各子圖 p 值與各時間點風險人數（註：原圖圖說將 (c) 標為 LFS、(d) 標為 OS，而圖面縱軸實際標示 c 為 OS、d 為 LFS，兩者均忠實呈現）。"
+        }
+      ]
+    },
+    {
+      "page": 648,
+      "blocks": [
+        {
+          "id": 7200031,
+          "page": 648,
+          "en": "Fig. 72.3 Outcome of matched sibling donor and haploidentical—hematopoietic cell transplantation for adults with acute lymphoblastic leukemia (ALL) in first or second complete remission (CR1). Changes over time in the period 1993–2012. (a) non-relapse mortality (NRM), (b) relapse incidence (RI), (c) leukemia-free survival (LFS), (d) overall survival (OS) (Nagler et al. 2021)\n\n[Panels, statistics, and number of at-risk patients in Fig. 72.3]\nStrata: MSD | Haplo\nTime from transplant (years): 0, 1, 2, 3\n• Panel a — NRM (Cumulative incidence of NRM, y-axis 0.0–1.0):\n  HR=1.61; 95% CI=1.11-2.34; p=0.012\n  number of at-risk patients at 0, 1, 2, 3 years:\n  – MSD: 350, 166, 86, 47\n  – Haplo: 350, 174, 94, 63\n• Panel b — RI (Cumulative incidence of relapse, y-axis 0.0–1.0):\n  HR=0.63; 95% CI=0.48-0.84; p=0.002\n  number of at-risk patients at 0, 1, 2, 3 years:\n  – MSD: 350, 166, 86, 47\n  – Haplo: 350, 174, 94, 63\n• Panel c — LFS (Leukemia-Free Survival, y-axis 0.0–1.0):\n  HR=0.92; 95% CI=0.74-1.13; p=0.41\n  number of at-risk patients at 0, 1, 2, 3 years:\n  – MSD: 350, 166, 86, 47\n  – Haplo: 350, 174, 94, 63\n• Panel d — OS (Overall Survival, y-axis 0.0–1.0):\n  HR=1.11; 95% CI=0.88-1.40; p=0.37\n  number of at-risk patients at 0, 1, 2, 3 years:\n  – MSD: 350, 206, 118, 71\n  – Haplo: 350, 199, 109, 72",
+          "zh": "圖 72.3 處於第一次或第二次完全緩解（CR1）的成人急性淋巴性白血病（ALL）接受相合手足供者（MSD）與半相合（Haplo）造血細胞移植之結果。1993–2012 年期間隨時間之變化。（a）非復發死亡率（NRM），（b）復發發生率（RI），（c）無白血病存活率（LFS），（d）總存活率（OS）（Nagler et al. 2021）。\n\n【圖 72.3 各子圖、統計值與風險患者人數（number of at-risk patients）】\n分層：MSD｜Haplo\n距移植時間（年）：0、1、2、3\n• 子圖 a — NRM（NRM 累積發生率，縱軸 0.0–1.0）：\n  HR=1.61；95% CI=1.11-2.34；p=0.012\n  移植後 0、1、2、3 年之風險患者人數：\n  – MSD：350、166、86、47\n  – Haplo：350、174、94、63\n• 子圖 b — RI（復發累積發生率，縱軸 0.0–1.0）：\n  HR=0.63；95% CI=0.48-0.84；p=0.002\n  移植後 0、1、2、3 年之風險患者人數：\n  – MSD：350、166、86、47\n  – Haplo：350、174、94、63\n• 子圖 c — LFS（無白血病存活率，縱軸 0.0–1.0）：\n  HR=0.92；95% CI=0.74-1.13；p=0.41\n  移植後 0、1、2、3 年之風險患者人數：\n  – MSD：350、166、86、47\n  – Haplo：350、174、94、63\n• 子圖 d — OS（總存活率，縱軸 0.0–1.0）：\n  HR=1.11；95% CI=0.88-1.40；p=0.37\n  移植後 0、1、2、3 年之風險患者人數：\n  – MSD：350、206、118、71\n  – Haplo：350、199、109、72",
+          "review": "ai-draft",
+          "note": "存活與累積發生率曲線保留於原 PDF；此處完整翻譯圖說、各子圖 HR／95% CI／p 值與各時間點風險患者人數。"
+        },
+        {
+          "id": 7200032,
+          "page": 648,
+          "en": "72.10 Therapeutic Algorithm Recommended by the Authors\n72.10.1 Stem Cell Source\nMost likely no relevant difference with regard to GvHD between BM and PBSC as transplant source from an unrelated donor when ATG is part of the conditioning. Faster engraftment and low risk of graft failure with PBSC. For T-replete haploidentical HCT using post-transplant CY, BM may be associated with improved OS and GRFS (Nagler 2020).",
+          "zh": "72.10 作者建議的治療流程\n72.10.1 幹細胞來源\n當抗胸腺細胞球蛋白（ATG）作為調理方案的一部分時，來自非親屬供者的骨髓（BM）與周邊血幹細胞（PBSC）作為移植來源，在移植物抗宿主疾病（GvHD）方面很可能沒有顯著差異。使用 PBSC 植入較快，且移植物失敗（graft failure）風險較低。對於使用移植後 cyclophosphamide（CY）的未去除 T 細胞（T-replete）半相合 HCT，使用 BM 可能與較佳的 OS 及無 GvHD 暨無復發存活率（GRFS）相關（Nagler 2020）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200033,
+          "page": 648,
+          "en": "72.10.2 GvHD Prophylaxis\nCSA + MTX or CSA + MMF are standard options. ATG should be considered in all patients receiving an allograft from an unrelated donor although in registry-based analyses it was associated with increased risk of relapse for both Ph- and Ph + ALL. Using post-transplant CY instead of ATG is recommended for haplo-HCT, using T cell replete allografts. It is also an option for allo-HCT from MMUD and MUD.",
+          "zh": "72.10.2 GvHD 預防\nCyclosporine A（CSA）+ MTX 或 CSA + mycophenolate mofetil（MMF）為標準選擇。所有接受非親屬供者異體移植物的患者皆應考慮使用 ATG，儘管在基於登錄資料庫的分析中，它與 Ph− 及 Ph+ ALL 兩者的復發風險增加相關。對於使用未去除 T 細胞異體移植物的半相合 HCT（haplo-HCT），建議使用移植後 CY 取代 ATG。這也是來自 MMUD 與 MUD 的 allo-HCT 的一項可選方案。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 649,
+      "blocks": [
+        {
+          "id": 7200034,
+          "page": 649,
+          "en": "72.10.2.1 Maintenance\nFor patients with Ph + ALL, maintenance with TKI after allo-HCT should be applied as a prophylactic or preemptive therapy. The choice of TKI should take into account previous TK mutation analyses. At least in patients with B-ALL and positive findings for MRD after allo-HCT, preemptive therapies with antibodies/antibody-drug conjugates or CAR-T cells are valuable options to be evaluated in prospective trials.",
+          "zh": "72.10.2.1 維持治療\n對於 Ph+ ALL 患者，在 allo-HCT 後應給予 TKI 維持治療，作為預防性（prophylactic）或搶先性（preemptive）治療。TKI 的選擇應納入先前的酪胺酸激酶（TK）突變分析結果考量。至少對於在 allo-HCT 後檢測出 MRD 陽性的 B-ALL 患者而言，使用抗體／抗體藥物複合體（ADC）或 CAR-T 細胞進行搶先性治療，是值得在前瞻性試驗中評估的重要選擇。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200035,
+          "page": 649,
+          "en": "Key Points\n• Allo-HCT indication:\n  – CR1: Ph + ALL, high-risk Ph- ALLᵃ\n  – >CR1: all patients with no contraindication for allogeneic HCT\n• Donor: MSD > (MUD = MMUD = Haplo)\n• Conditioning:\n  – <45 years: TBI/CY; TBI/VP; TBI/CY/VEP, IV BU/CY. TBI probably associated with lower relapse rates, TBI dose for patients <45 years: Cumulative 12–13 Gy\n  – >44 years (or < 45 + contraindication for MAC): FLU/IV BU; FLU/MEL; FLU/TBI 8 Gy; FLU/TREO; TBFᵇ\n• Source of SC: PB/BM\n• GvHD prophylaxis: CSA + MTX or CSA + MMF (ATG in MUD, MMUD, MSD); post-transplant CY in haplo (consider in MMUD, MUD)\n• Maintenance: TKI in case of Ph + ALL (prophylactic or preemptive)\n• TRM:\n  – CR1 (age 18–55 years): MSD: 11–24% (2 years) | MUD: 19–23% (3 years)\n  – CR1 (age > 60 years): MSD: Approx. 23% (3 years) | MUD: Approx. 24% (3 years)\n  – CR2: MSD/MUD/MMUD/haplo: 28–35% (2 years)\n• REL:\n  – CR1 (age 18–55 years): MSD: 23–32% (2 years) | MUD: 14–21% (2 years)\n  – CR1 (age > 60 years): MSD: Approx. 47% (3 years) | MUD: Approx. 35% (3 years)\n  – CR2: MSD/MUD/MMUD/haplo: 33–38% (2 years)\n• OS:\n  – CR1 (age 18–55 years): MSD: 60–76% (2 years) | MUD: 62–70% (2 years)\n  – CR1 (age > 60 years): MSD: Approx. 39% (3 years) | MUD: Approx. 46% (3 years)\n  – CR2: MSD/MUD/MMUD/haplo: 38–47% (2 years)\n\nFootnotes:\nᵃ Definition of “high risk” differs between study groups; most important risk factors: persisting MRD after two or more courses of therapy, high initial leukocyte count, high-risk cytogenetic\nᵇ For patients treated with inotuzumab ozogamicin, avoid regimens associated with SOS/VODS",
+          "zh": "重點摘要（Key Points）\n• Allo-HCT 適應症（Allo-HCT indication）：\n  – CR1：Ph+ ALL、高風險 Ph− ALLᵃ\n  – >CR1：所有無異體 HCT 禁忌症的患者\n• 供者（Donor）：MSD >（MUD = MMUD = Haplo）\n• 調理方案（Conditioning）：\n  – <45 歲：TBI/CY；TBI/VP；TBI/CY/VEP、IV BU/CY。TBI 可能與較低的復發率相關，<45 歲患者的 TBI 劑量：累積 12–13 Gy\n  – >44 歲（或 <45 歲但有骨髓清除性調理〔MAC〕禁忌症）：FLU/IV BU；FLU/MEL；FLU/TBI 8 Gy；FLU/TREO；TBFᵇ\n• 幹細胞來源（Source of SC）：周邊血（PB）／骨髓（BM）\n• GvHD 預防（GvHD prophylaxis）：CSA + MTX 或 CSA + MMF（於 MUD、MMUD、MSD 中加用 ATG）；於半相合移植（haplo）中使用移植後 CY（於 MMUD、MUD 中亦可考慮）\n• 維持治療（Maintenance）：Ph+ ALL 使用 TKI（預防性或搶先性）\n• 移植相關死亡率（TRM）：\n  – CR1（18–55 歲）：MSD：11–24%（2 年）｜MUD：19–23%（3 年）\n  – CR1（>60 歲）：MSD：約 23%（3 年）｜MUD：約 24%（3 年）\n  – CR2：MSD/MUD/MMUD/haplo：28–35%（2 年）\n• 復發率（REL）：\n  – CR1（18–55 歲）：MSD：23–32%（2 年）｜MUD：14–21%（2 年）\n  – CR1（>60 歲）：MSD：約 47%（3 年）｜MUD：約 35%（3 年）\n  – CR2：MSD/MUD/MMUD/haplo：33–38%（2 年）\n• 總存活率（OS）：\n  – CR1（18–55 歲）：MSD：60–76%（2 年）｜MUD：62–70%（2 年）\n  – CR1（>60 歲）：MSD：約 39%（3 年）｜MUD：約 46%（3 年）\n  – CR2：MSD/MUD/MMUD/haplo：38–47%（2 年）\n\n腳註：\nᵃ 「高風險」的定義在各研究組之間有所不同；最重要的風險因子為：接受兩個或以上療程治療後仍持續存在 MRD、初始白血球計數過高、高風險細胞遺傳學異常。\nᵇ 對於曾接受 inotuzumab ozogamicin 治療的患者，應避免使用與 SOS/VODS 相關的調理方案。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7200036,
+          "page": 649,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft",
+          "retained": true
+        },
+        {
+          "id": 7200037,
+          "page": 649,
+          "en": "Alaggio R, Amador C, Anagnostopoulos I, et al. The 5th edition of the World Health Organization classification of Haematolymphoid Tumours: lymphoid neoplasms. Leukemia. 2022;36:1720–48.",
+          "zh": "Alaggio R, Amador C, Anagnostopoulos I, et al. The 5th edition of the World Health Organization classification of Haematolymphoid Tumours: lymphoid neoplasms. Leukemia. 2022;36:1720–48.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Alaggio%20R%2C%20Amador%20C%2C%20Anagnostopoulos%20I%2C%20et%20al.%20The%205th%20edition%20of%20the%20World%20Health%20Organization%20classification%20of%20Haematolymphoid%20Tumours%3A%20lymphoid%20neoplasms.%20Leukemia.%202022%3B36%3A1720%E2%80%9348."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Alaggio%20R%2C%20Amador%20C%2C%20Anagnostopoulos%20I%2C%20et%20al.%20The%205th%20edition%20of%20the%20World%20Health%20Organization%20classification%20of%20Haematolymphoid%20Tumours%3A%20lymphoid%20neoplasms.%20Leukemia.%202022%3B36%3A1720%E2%80%9348."
+            }
+          ]
+        },
+        {
+          "id": 7200038,
+          "page": 649,
+          "en": "Arber DA, Orazi A, Hasserjian RP, et al. International consensus classification of myeloid neoplasms and acute Leukemias: integrating morphologic, clinical, and genomic data. Blood. 2022;140:1200–28.",
+          "zh": "Arber DA, Orazi A, Hasserjian RP, et al. International consensus classification of myeloid neoplasms and acute Leukemias: integrating morphologic, clinical, and genomic data. Blood. 2022;140:1200–28.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Arber%20DA%2C%20Orazi%20A%2C%20Hasserjian%20RP%2C%20et%20al.%20International%20consensus%20classification%20of%20myeloid%20neoplasms%20and%20acute%20Leukemias%3A%20integrating%20morphologic%2C%20clinical%2C%20and%20genomic%20data.%20Blood.%202022%3B140%3A1200%E2%80%9328."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Arber%20DA%2C%20Orazi%20A%2C%20Hasserjian%20RP%2C%20et%20al.%20International%20consensus%20classification%20of%20myeloid%20neoplasms%20and%20acute%20Leukemias%3A%20integrating%20morphologic%2C%20clinical%2C%20and%20genomic%20data.%20Blood.%202022%3B140%3A1200%E2%80%9328."
+            }
+          ]
+        },
+        {
+          "id": 7200039,
+          "page": 649,
+          "en": "Brüggemann et al. 2010: Leukemia. 2010;24(3):521–35. https://doi.org/10.1038/leu.2009.268. Epub 2009 Dec 24.",
+          "zh": "Brüggemann et al. 2010: Leukemia. 2010;24(3):521–35. https://doi.org/10.1038/leu.2009.268. Epub 2009 Dec 24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Br%C3%BCggemann%20et%20al.%202010%3A%20Leukemia.%202010%3B24(3)%3A521%E2%80%9335.%20https%3A%2F%2Fdoi.org%2F10.1038%2Fleu.2009.268.%20Epub%202009%20Dec%2024."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Br%C3%BCggemann%20et%20al.%202010%3A%20Leukemia.%202010%3B24(3)%3A521%E2%80%9335.%20https%3A%2F%2Fdoi.org%2F10.1038%2Fleu.2009.268.%20Epub%202009%20Dec%2024."
+            }
+          ]
+        },
+        {
+          "id": 7200040,
+          "page": 649,
+          "en": "Cerrano M, Bonifacio M, Olivi M, et al. Daratumumab with or without chemotherapy in relapsed and refractory acute lymphoblastic leukemia. A retrospective observational campus ALL study. Haematologica. 2022;107(4):996–9.",
+          "zh": "Cerrano M, Bonifacio M, Olivi M, et al. Daratumumab with or without chemotherapy in relapsed and refractory acute lymphoblastic leukemia. A retrospective observational campus ALL study. Haematologica. 2022;107(4):996–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cerrano%20M%2C%20Bonifacio%20M%2C%20Olivi%20M%2C%20et%20al.%20Daratumumab%20with%20or%20without%20chemotherapy%20in%20relapsed%20and%20refractory%20acute%20lymphoblastic%20leukemia.%20A%20retrospective%20observational%20campus%20ALL%20study.%20Haematologica.%202022%3B107(4)%3A996%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cerrano%20M%2C%20Bonifacio%20M%2C%20Olivi%20M%2C%20et%20al.%20Daratumumab%20with%20or%20without%20chemotherapy%20in%20relapsed%20and%20refractory%20acute%20lymphoblastic%20leukemia.%20A%20retrospective%20observational%20campus%20ALL%20study.%20Haematologica.%202022%3B107(4)%3A996%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7200041,
+          "page": 649,
+          "en": "Chalandon Y, Thomas X, Hayette S, et al. Randomized study of reduced-intensity chemotherapy combined with imatinib in adults with Ph-positive acute lymphoblastic leukemia. Blood. 2015;125:3711–9.",
+          "zh": "Chalandon Y, Thomas X, Hayette S, et al. Randomized study of reduced-intensity chemotherapy combined with imatinib in adults with Ph-positive acute lymphoblastic leukemia. Blood. 2015;125:3711–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chalandon%20Y%2C%20Thomas%20X%2C%20Hayette%20S%2C%20et%20al.%20Randomized%20study%20of%20reduced-intensity%20chemotherapy%20combined%20with%20imatinib%20in%20adults%20with%20Ph-positive%20acute%20lymphoblastic%20leukemia.%20Blood.%202015%3B125%3A3711%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chalandon%20Y%2C%20Thomas%20X%2C%20Hayette%20S%2C%20et%20al.%20Randomized%20study%20of%20reduced-intensity%20chemotherapy%20combined%20with%20imatinib%20in%20adults%20with%20Ph-positive%20acute%20lymphoblastic%20leukemia.%20Blood.%202015%3B125%3A3711%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7200042,
+          "page": 649,
+          "en": "Chiaretti S, Zini G, Bassan R. Diagnosis and subclassification of acute lymphoblastic leukemia. Mediterr J Hematol Infect Dis. 2014;6:e2014073.",
+          "zh": "Chiaretti S, Zini G, Bassan R. Diagnosis and subclassification of acute lymphoblastic leukemia. Mediterr J Hematol Infect Dis. 2014;6:e2014073.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chiaretti%20S%2C%20Zini%20G%2C%20Bassan%20R.%20Diagnosis%20and%20subclassification%20of%20acute%20lymphoblastic%20leukemia.%20Mediterr%20J%20Hematol%20Infect%20Dis.%202014%3B6%3Ae2014073."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chiaretti%20S%2C%20Zini%20G%2C%20Bassan%20R.%20Diagnosis%20and%20subclassification%20of%20acute%20lymphoblastic%20leukemia.%20Mediterr%20J%20Hematol%20Infect%20Dis.%202014%3B6%3Ae2014073."
+            }
+          ]
+        },
+        {
+          "id": 7200043,
+          "page": 649,
+          "endPage": 650,
+          "en": "Geyer MB, Hsu M, Devlin SM, et al. Overall survival among older US adults with ALL remains low despite modest improvement since 1980: SEER analysis. Blood. 2017;129:1878–81.",
+          "zh": "Geyer MB, Hsu M, Devlin SM, et al. Overall survival among older US adults with ALL remains low despite modest improvement since 1980: SEER analysis. Blood. 2017;129:1878–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Geyer%20MB%2C%20Hsu%20M%2C%20Devlin%20SM%2C%20et%20al.%20Overall%20survival%20among%20older%20US%20adults%20with%20ALL%20remains%20low%20despite%20modest%20improvement%20since%201980%3A%20SEER%20analysis.%20Blood.%202017%3B129%3A1878%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Geyer%20MB%2C%20Hsu%20M%2C%20Devlin%20SM%2C%20et%20al.%20Overall%20survival%20among%20older%20US%20adults%20with%20ALL%20remains%20low%20despite%20modest%20improvement%20since%201980%3A%20SEER%20analysis.%20Blood.%202017%3B129%3A1878%E2%80%9381."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 650,
+      "blocks": [
+        {
+          "id": 7200044,
+          "page": 650,
+          "en": "Giebel S, Czyz A, Ottmann O, et al. Use of tyrosine kinase inhibitors to prevent relapse after allogeneic hematopoietic stem cell transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: A position statement of the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Cancer. 2016;122:2941–51.",
+          "zh": "Giebel S, Czyz A, Ottmann O, et al. Use of tyrosine kinase inhibitors to prevent relapse after allogeneic hematopoietic stem cell transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: A position statement of the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Cancer. 2016;122:2941–51.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Giebel%20S%2C%20Czyz%20A%2C%20Ottmann%20O%2C%20et%20al.%20Use%20of%20tyrosine%20kinase%20inhibitors%20to%20prevent%20relapse%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20patients%20with%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia%3A%20A%20position%20statement%20of%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Cancer.%202016%3B122%3A2941%E2%80%9351."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Giebel%20S%2C%20Czyz%20A%2C%20Ottmann%20O%2C%20et%20al.%20Use%20of%20tyrosine%20kinase%20inhibitors%20to%20prevent%20relapse%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20patients%20with%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia%3A%20A%20position%20statement%20of%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Cancer.%202016%3B122%3A2941%E2%80%9351."
+            }
+          ]
+        },
+        {
+          "id": 7200045,
+          "page": 650,
+          "en": "Giebel S, Marks DI, Boissel N, et al. Hematopoietic stem cell transplantation for adults with Philadelphia chromosome-negative acute lymphoblastic leukemia in first remission: a position statement of the European Working Group for Adult Acute Lymphoblastic Leukemia (EWALL) and the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation (EBMT). Bone Marrow Transplant. 2019;54:798–809.",
+          "zh": "Giebel S, Marks DI, Boissel N, et al. Hematopoietic stem cell transplantation for adults with Philadelphia chromosome-negative acute lymphoblastic leukemia in first remission: a position statement of the European Working Group for Adult Acute Lymphoblastic Leukemia (EWALL) and the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation (EBMT). Bone Marrow Transplant. 2019;54:798–809.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Giebel%20S%2C%20Marks%20DI%2C%20Boissel%20N%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20adults%20with%20Philadelphia%20chromosome-negative%20acute%20lymphoblastic%20leukemia%20in%20first%20remission%3A%20a%20position%20statement%20of%20the%20European%20Working%20Group%20for%20Adult%20Acute%20Lymphoblastic%20Leukemia%20(EWALL)%20and%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20(EBMT).%20Bone%20Marrow%20Transplant.%202019%3B54%3A798%E2%80%93809."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Giebel%20S%2C%20Marks%20DI%2C%20Boissel%20N%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20adults%20with%20Philadelphia%20chromosome-negative%20acute%20lymphoblastic%20leukemia%20in%20first%20remission%3A%20a%20position%20statement%20of%20the%20European%20Working%20Group%20for%20Adult%20Acute%20Lymphoblastic%20Leukemia%20(EWALL)%20and%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20(EBMT).%20Bone%20Marrow%20Transplant.%202019%3B54%3A798%E2%80%93809."
+            }
+          ]
+        },
+        {
+          "id": 7200046,
+          "page": 650,
+          "en": "Gokbuget N, Dombret H, Ribera JM, et al. International reference analysis of outcomes in adults with B-precursor Ph-negative relapsed/refractory acute lymphoblastic leukemia. Haematologica. 2016;101:1524–33.",
+          "zh": "Gokbuget N, Dombret H, Ribera JM, et al. International reference analysis of outcomes in adults with B-precursor Ph-negative relapsed/refractory acute lymphoblastic leukemia. Haematologica. 2016;101:1524–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gokbuget%20N%2C%20Dombret%20H%2C%20Ribera%20JM%2C%20et%20al.%20International%20reference%20analysis%20of%20outcomes%20in%20adults%20with%20B-precursor%20Ph-negative%20relapsed%2Frefractory%20acute%20lymphoblastic%20leukemia.%20Haematologica.%202016%3B101%3A1524%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gokbuget%20N%2C%20Dombret%20H%2C%20Ribera%20JM%2C%20et%20al.%20International%20reference%20analysis%20of%20outcomes%20in%20adults%20with%20B-precursor%20Ph-negative%20relapsed%2Frefractory%20acute%20lymphoblastic%20leukemia.%20Haematologica.%202016%3B101%3A1524%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 7200047,
+          "page": 650,
+          "en": "Marks DI, Forman SJ, Blume KG, et al. A comparison of cyclophosphamide and total body irradiation with etoposide and total body irradiation as conditioning regimens for patients undergoing sibling allografting for acute lymphoblastic leukemia in first or second complete remission. Biol Blood Marrow Transplant. 2006;12:438–53.",
+          "zh": "Marks DI, Forman SJ, Blume KG, et al. A comparison of cyclophosphamide and total body irradiation with etoposide and total body irradiation as conditioning regimens for patients undergoing sibling allografting for acute lymphoblastic leukemia in first or second complete remission. Biol Blood Marrow Transplant. 2006;12:438–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Marks%20DI%2C%20Forman%20SJ%2C%20Blume%20KG%2C%20et%20al.%20A%20comparison%20of%20cyclophosphamide%20and%20total%20body%20irradiation%20with%20etoposide%20and%20total%20body%20irradiation%20as%20conditioning%20regimens%20for%20patients%20undergoing%20sibling%20allografting%20for%20acute%20lymphoblastic%20leukemia%20in%20first%20or%20second%20complete%20remission.%20Biol%20Blood%20Marrow%20Transplant.%202006%3B12%3A438%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Marks%20DI%2C%20Forman%20SJ%2C%20Blume%20KG%2C%20et%20al.%20A%20comparison%20of%20cyclophosphamide%20and%20total%20body%20irradiation%20with%20etoposide%20and%20total%20body%20irradiation%20as%20conditioning%20regimens%20for%20patients%20undergoing%20sibling%20allografting%20for%20acute%20lymphoblastic%20leukemia%20in%20first%20or%20second%20complete%20remission.%20Biol%20Blood%20Marrow%20Transplant.%202006%3B12%3A438%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 7200048,
+          "page": 650,
+          "en": "Maude 2018: N Engl J Med. 2018;378(5):439–48. https://doi.org/10.1056/NEJMoa1709866.",
+          "zh": "Maude 2018: N Engl J Med. 2018;378(5):439–48. https://doi.org/10.1056/NEJMoa1709866.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maude%202018%3A%20N%20Engl%20J%20Med.%202018%3B378(5)%3A439%E2%80%9348.%20https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa1709866."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maude%202018%3A%20N%20Engl%20J%20Med.%202018%3B378(5)%3A439%E2%80%9348.%20https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa1709866."
+            }
+          ]
+        },
+        {
+          "id": 7200049,
+          "page": 650,
+          "en": "Maury S, Chevret S, Thomas X, et al. Rituximab in B-lineage adult acute lymphoblastic leukemia. N Engl J Med. 2016;375:1044–53.",
+          "zh": "Maury S, Chevret S, Thomas X, et al. Rituximab in B-lineage adult acute lymphoblastic leukemia. N Engl J Med. 2016;375:1044–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maury%20S%2C%20Chevret%20S%2C%20Thomas%20X%2C%20et%20al.%20Rituximab%20in%20B-lineage%20adult%20acute%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202016%3B375%3A1044%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maury%20S%2C%20Chevret%20S%2C%20Thomas%20X%2C%20et%20al.%20Rituximab%20in%20B-lineage%20adult%20acute%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202016%3B375%3A1044%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 7200050,
+          "page": 650,
+          "en": "Nachmias B, Shaulov A, Gatt ME, et al. A Bortezomib-based protocol induces a high rate of complete remission with minor toxicity in adult patients with relapsed/refractory acute lymphoblastic leukemia. Acta Haematol. 2018;140(4):209–14.",
+          "zh": "Nachmias B, Shaulov A, Gatt ME, et al. A Bortezomib-based protocol induces a high rate of complete remission with minor toxicity in adult patients with relapsed/refractory acute lymphoblastic leukemia. Acta Haematol. 2018;140(4):209–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nachmias%20B%2C%20Shaulov%20A%2C%20Gatt%20ME%2C%20et%20al.%20A%20Bortezomib-based%20protocol%20induces%20a%20high%20rate%20of%20complete%20remission%20with%20minor%20toxicity%20in%20adult%20patients%20with%20relapsed%2Frefractory%20acute%20lymphoblastic%20leukemia.%20Acta%20Haematol.%202018%3B140(4)%3A209%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nachmias%20B%2C%20Shaulov%20A%2C%20Gatt%20ME%2C%20et%20al.%20A%20Bortezomib-based%20protocol%20induces%20a%20high%20rate%20of%20complete%20remission%20with%20minor%20toxicity%20in%20adult%20patients%20with%20relapsed%2Frefractory%20acute%20lymphoblastic%20leukemia.%20Acta%20Haematol.%202018%3B140(4)%3A209%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 7200051,
+          "page": 650,
+          "en": "Nagler 2020: Leukemia. 2020;34(10):2766–75. https://doi.org/10.1038/s41375-020-0850-9. Epub 2020 May 11. PMID: 32393841.",
+          "zh": "Nagler 2020: Leukemia. 2020;34(10):2766–75. https://doi.org/10.1038/s41375-020-0850-9. Epub 2020 May 11. PMID: 32393841.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nagler%202020%3A%20Leukemia.%202020%3B34(10)%3A2766%E2%80%9375.%20https%3A%2F%2Fdoi.org%2F10.1038%2Fs41375-020-0850-9.%20Epub%202020%20May%2011.%20PMID%3A%2032393841."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nagler%202020%3A%20Leukemia.%202020%3B34(10)%3A2766%E2%80%9375.%20https%3A%2F%2Fdoi.org%2F10.1038%2Fs41375-020-0850-9.%20Epub%202020%20May%2011.%20PMID%3A%2032393841."
+            }
+          ]
+        },
+        {
+          "id": 7200052,
+          "page": 650,
+          "en": "Nagler A, Labopin M, Houhou M, et al. Outcome of haploidentical versus matched sibling donors in hematopoietic stem cell transplantation for adult patients with acute lymphoblastic leukemia: a study from the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. J Hematol Oncol. 2021;14:53.",
+          "zh": "Nagler A, Labopin M, Houhou M, et al. Outcome of haploidentical versus matched sibling donors in hematopoietic stem cell transplantation for adult patients with acute lymphoblastic leukemia: a study from the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. J Hematol Oncol. 2021;14:53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nagler%20A%2C%20Labopin%20M%2C%20Houhou%20M%2C%20et%20al.%20Outcome%20of%20haploidentical%20versus%20matched%20sibling%20donors%20in%20hematopoietic%20stem%20cell%20transplantation%20for%20adult%20patients%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20study%20from%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20J%20Hematol%20Oncol.%202021%3B14%3A53."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nagler%20A%2C%20Labopin%20M%2C%20Houhou%20M%2C%20et%20al.%20Outcome%20of%20haploidentical%20versus%20matched%20sibling%20donors%20in%20hematopoietic%20stem%20cell%20transplantation%20for%20adult%20patients%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20study%20from%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20J%20Hematol%20Oncol.%202021%3B14%3A53."
+            }
+          ]
+        },
+        {
+          "id": 7200053,
+          "page": 650,
+          "en": "Pan J, Tan Y, Wang G, et al. Donor-derived CD7 chimeric antigen receptor T cells for T-cell acute lymphoblastic leukemia: first-in-human, Phase I Trial. J Clin Oncol. 2021;39:2340–3351.",
+          "zh": "Pan J, Tan Y, Wang G, et al. Donor-derived CD7 chimeric antigen receptor T cells for T-cell acute lymphoblastic leukemia: first-in-human, Phase I Trial. J Clin Oncol. 2021;39:2340–3351.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pan%20J%2C%20Tan%20Y%2C%20Wang%20G%2C%20et%20al.%20Donor-derived%20CD7%20chimeric%20antigen%20receptor%20T%20cells%20for%20T-cell%20acute%20lymphoblastic%20leukemia%3A%20first-in-human%2C%20Phase%20I%20Trial.%20J%20Clin%20Oncol.%202021%3B39%3A2340%E2%80%933351."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pan%20J%2C%20Tan%20Y%2C%20Wang%20G%2C%20et%20al.%20Donor-derived%20CD7%20chimeric%20antigen%20receptor%20T%20cells%20for%20T-cell%20acute%20lymphoblastic%20leukemia%3A%20first-in-human%2C%20Phase%20I%20Trial.%20J%20Clin%20Oncol.%202021%3B39%3A2340%E2%80%933351."
+            }
+          ]
+        },
+        {
+          "id": 7200054,
+          "page": 650,
+          "en": "Pavlu J, Labopin M, Zoellner AK, et al. Allogeneic hematopoietic cell transplantation for primary refractory acute lymphoblastic leukemia: a report from the acute leukemia working party of the EBMT. Cancer. 2017;123:1965–70.",
+          "zh": "Pavlu J, Labopin M, Zoellner AK, et al. Allogeneic hematopoietic cell transplantation for primary refractory acute lymphoblastic leukemia: a report from the acute leukemia working party of the EBMT. Cancer. 2017;123:1965–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pavlu%20J%2C%20Labopin%20M%2C%20Zoellner%20AK%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20for%20primary%20refractory%20acute%20lymphoblastic%20leukemia%3A%20a%20report%20from%20the%20acute%20leukemia%20working%20party%20of%20the%20EBMT.%20Cancer.%202017%3B123%3A1965%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pavlu%20J%2C%20Labopin%20M%2C%20Zoellner%20AK%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20for%20primary%20refractory%20acute%20lymphoblastic%20leukemia%3A%20a%20report%20from%20the%20acute%20leukemia%20working%20party%20of%20the%20EBMT.%20Cancer.%202017%3B123%3A1965%E2%80%9370."
+            }
+          ]
+        },
+        {
+          "id": 7200055,
+          "page": 650,
+          "en": "Shah BD, Ghobadi A, Oluwole OO, et al. KTE-X19 for relapsed or refractory adult B-cell acute lymphoblastic leukaemia: phase 2 results of the single-arm, open-label, multicentre ZUMA-3 study. Lanccet. 2021;398:491–502.",
+          "zh": "Shah BD, Ghobadi A, Oluwole OO, et al. KTE-X19 for relapsed or refractory adult B-cell acute lymphoblastic leukaemia: phase 2 results of the single-arm, open-label, multicentre ZUMA-3 study. Lanccet. 2021;398:491–502.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shah%20BD%2C%20Ghobadi%20A%2C%20Oluwole%20OO%2C%20et%20al.%20KTE-X19%20for%20relapsed%20or%20refractory%20adult%20B-cell%20acute%20lymphoblastic%20leukaemia%3A%20phase%202%20results%20of%20the%20single-arm%2C%20open-label%2C%20multicentre%20ZUMA-3%20study.%20Lanccet.%202021%3B398%3A491%E2%80%93502."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shah%20BD%2C%20Ghobadi%20A%2C%20Oluwole%20OO%2C%20et%20al.%20KTE-X19%20for%20relapsed%20or%20refractory%20adult%20B-cell%20acute%20lymphoblastic%20leukaemia%3A%20phase%202%20results%20of%20the%20single-arm%2C%20open-label%2C%20multicentre%20ZUMA-3%20study.%20Lanccet.%202021%3B398%3A491%E2%80%93502."
+            }
+          ]
+        },
+        {
+          "id": 7200056,
+          "page": 650,
+          "en": "Shem-Tov N, Peczynski C, Labopin M, et al. Haploidentical vs. unrelated allogeneic stem cell transplantation for acute lymphoblastic leukemia in first complete remission: on behalf of the ALWP of the EBMT. Leukemia. 2020;34:283–92.",
+          "zh": "Shem-Tov N, Peczynski C, Labopin M, et al. Haploidentical vs. unrelated allogeneic stem cell transplantation for acute lymphoblastic leukemia in first complete remission: on behalf of the ALWP of the EBMT. Leukemia. 2020;34:283–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shem-Tov%20N%2C%20Peczynski%20C%2C%20Labopin%20M%2C%20et%20al.%20Haploidentical%20vs.%20unrelated%20allogeneic%20stem%20cell%20transplantation%20for%20acute%20lymphoblastic%20leukemia%20in%20first%20complete%20remission%3A%20on%20behalf%20of%20the%20ALWP%20of%20the%20EBMT.%20Leukemia.%202020%3B34%3A283%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shem-Tov%20N%2C%20Peczynski%20C%2C%20Labopin%20M%2C%20et%20al.%20Haploidentical%20vs.%20unrelated%20allogeneic%20stem%20cell%20transplantation%20for%20acute%20lymphoblastic%20leukemia%20in%20first%20complete%20remission%3A%20on%20behalf%20of%20the%20ALWP%20of%20the%20EBMT.%20Leukemia.%202020%3B34%3A283%E2%80%9392."
+            }
+          ]
+        },
+        {
+          "id": 7200057,
+          "page": 650,
+          "en": "Terwilliger T, Abdul-Hay M. Acute lymphoblastic leukemia: a comprehensive review and 2017 update. Blood Cancer J. 2017;7:e577.",
+          "zh": "Terwilliger T, Abdul-Hay M. Acute lymphoblastic leukemia: a comprehensive review and 2017 update. Blood Cancer J. 2017;7:e577.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Terwilliger%20T%2C%20Abdul-Hay%20M.%20Acute%20lymphoblastic%20leukemia%3A%20a%20comprehensive%20review%20and%202017%20update.%20Blood%20Cancer%20J.%202017%3B7%3Ae577."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Terwilliger%20T%2C%20Abdul-Hay%20M.%20Acute%20lymphoblastic%20leukemia%3A%20a%20comprehensive%20review%20and%202017%20update.%20Blood%20Cancer%20J.%202017%3B7%3Ae577."
+            }
+          ]
+        },
+        {
+          "id": 7200058,
+          "page": 650,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

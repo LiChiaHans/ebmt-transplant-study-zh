@@ -1,0 +1,980 @@
+{
+  "id": 86,
+  "title": "Large B-Cell Lymphoma",
+  "engine": "Google 翻譯輔助之 AI 逐段翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 132,
+  "scope": "正文、小節、表格、圖說與原有章末重點依PDF閱讀順序逐段翻譯；藥物、縮寫及書目專名可保留英文，原圖版面請回查PDF。AI翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 758,
+      "blocks": [
+        {
+          "id": 8600001,
+          "page": 758,
+          "en": "86 Large B-Cell Lymphoma — Leyre Bento, Bertram Glass, and Norbert Schmitz",
+          "zh": "86 大 B 細胞淋巴瘤 — Leyre Bento、Bertram Glass 和 Norbert Schmitz",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600002,
+          "page": 758,
+          "en": "Author affiliations: Leyre Bento — Department of Hematology, Son Espases University Hospital, IdISBa, University of Balearic Islands, Palma, Spain (leyre.bento@ssib.es). Bertram Glass — Department of Hematology and Stem Cell Therapy, Helios Hospital Berlin-Buch, Berlin, Germany. Norbert Schmitz — Department of Medicine A, Hematology, Oncology, Pneumonology and Hemostaseology, University Hospital Münster, Münster, Germany.",
+          "zh": "作者單位：Leyre Bento — 西班牙帕爾馬巴利阿里群島大學 IdISBa Son Espases 大學醫院血液科 (leyre.bento@ssib.es)。 Bertram Glass — 德國柏林 Helios 柏林布赫醫院血液學和幹細胞治療科。 Norbert Schmitz — 德國明斯特大學醫院血液學、腫瘤學、肺病學和止血學 A 系。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600003,
+          "page": 758,
+          "en": "86.1 Definition and Epidemiology The most recent WHO classification of tumors of hematopoietic and lymphoid tissues (Alaggio et al. 2022) classifies large B cell lymphomas (LBCL) into diffuse large B cell lymphoma (DLBCL) NOS with distinct morphological and molecular (germinal center B-cell, activated B-cell) subtypes, high-grade B-cell lymphomas (with MYC and BCL2 rearrangements or NOS subtype), and other less frequent subtypes.",
+          "zh": "86.1 定義與流行病學 最新的 WHO 造血與淋巴組織腫瘤分類（Alaggio et al. 2022）將大 B 細胞淋巴瘤（LBCL）分為：具有不同形態與分子亞型（生發中心 B 細胞型、活化 B 細胞型）的瀰漫性大 B 細胞淋巴瘤（DLBCL）NOS、高惡度 B 細胞淋巴瘤（具有 MYC 與 BCL2 重排或 NOS 亞型），以及其他較少見的亞型。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600004,
+          "page": 758,
+          "en": "With some important exceptions, diagnostic work-up and treatment are identical in all LBCL subtypes. It is beyond the scope of this article to fully describe the exceptions; we mention the most important differences but otherwise focus on transplantation and cell therapy for patients with relapsed/refractory (R/R) LBCL.",
+          "zh": "除少數重要例外外，各 LBCL 亞型的診斷評估與治療原則相同。本文無法完整說明所有例外；以下僅提及最重要的差異，其餘內容聚焦於復發／難治性（R/R）LBCL 患者的移植與細胞治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600005,
+          "page": 758,
+          "en": "DLBCL is the most frequent lymphoma subtype and accounts for approximately one third of newly diagnosed lymphoma cases worldwide. In Europe, the 10-year prevalence of DLBCL is estimated at 43.3 per 100,000 per year (Smith et al. 2015). The disease is slightly more frequent in men than in women; it mostly is a disease of the elderly (median patient age beyond 60 years) but can occur also in children and adolescents.",
+          "zh": "DLBCL 是最常見的淋巴瘤亞型，約占全球新診斷淋巴瘤病例的三分之一。在歐洲，DLBCL 的 10 年盛行率估計為每年每 100,000 人 43.3 例（Smith et al. 2015）。男性略多於女性；本病主要見於老年人（患者中位年齡超過 60 歲），但兒童與青少年亦可能罹患。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600006,
+          "page": 758,
+          "en": "86.2 Diagnosis The diagnosis is made according to the WHO classification from a sufficiently large surgical specimen or excisional lymph node biopsy; needle biopsies are not recommended. Beyond morphological evaluation by an experienced pathologist, determination of the immunophenotype of the malignant cells (positivity of malignant cells for CD19 and CD20 must be documented because of its therapeutic consequences) and determination of the cell of origin by adequate molecular methods are required (Alaggio et al. 2022).",
+          "zh": "86.2 診斷 根據 WHO 分類，從足夠大的手術標本或切除淋巴結活檢中做出診斷；不建議進行針吸活檢。除了由經驗豐富的病理學家進行形態學評估之外，還需要確定惡性細胞的免疫表型（由於其治療後果，必須記錄惡性細胞的 CD19 和 CD20 陽性）並透過適當的分子方法確定細胞來源 (Alaggio et al. 2022)。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600007,
+          "page": 758,
+          "en": "86.3 Classification The LBCL comprise the morphological and molecular subtypes of DLBCL NOS, high-grade B-cell lymphomas, and other LBCL (see Paragraph 1).",
+          "zh": "86.3 分類 LBCL 包括 DLBCL NOS、高等級 B 細胞淋巴瘤和其他 LBCL 的形態學和分子亞型（參見第 1 段）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600008,
+          "page": 758,
+          "en": "The WHO classification describes 14 other lymphomas of large B cells. Among these, primary large B-cell lymphoma of immune",
+          "zh": "WHO 分類另描述 14 種大 B 細胞淋巴瘤。其中，原發於免疫",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 759,
+      "blocks": [
+        {
+          "id": 8600009,
+          "page": 759,
+          "en": "privileged sites (CNS, testicle, and vitreoretina), lymphomatoid granulomatosis, primary mediastinal large B-cell lymphoma (PMBCL), and plasmablastic lymphoma not only show significant differences in pathogenesis and clinical manifestation but in most centers are treated different from classical DLBCL. In order to fulfill all WHO requirements, the cell of origin (GCB or ABC-subtype by IHC or gene expression profiling) and the presence/absence of distinct chromosomal translocations (BCL2 and MYC by FISH testing or IHC) must be determined.",
+          "zh": "特權部位（CNS、睪丸和玻璃體視網膜）、淋巴瘤樣肉芽腫、原發性縱隔大 B 細胞淋巴瘤 (PMBCL) 和漿母細胞淋巴瘤不僅在發病機制和臨床表現上表現出顯著差異，而且在大多數中心的治療方式與經典 DLBCL 不同。為了滿足所有 WHO 要求，必須確定細胞來源（透過 IHC 或基因表​​達譜測定的 GCB 或 ABC 亞型）以及是否存在不同的染色體易位（透過 FISH 測試或 IHC 測定的 BCL2 和 MYC）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600010,
+          "page": 759,
+          "en": "86.4 Risk Factors The International Prognostic Index (IPI) remains the most important tool in order to estimate the prognosis of patients with LBCL (Ziepert et al.",
+          "zh": "86.4 危險因子 國際預後指數（IPI）仍是評估 LBCL 患者預後最重要的工具（Ziepert et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600011,
+          "page": 759,
+          "en": "2010). The IPI takes into account five factors (age, stage, LDH, performance status, and number of extranodal sites involved). Patients within the low (IPI 0, 1), low-intermediate (IPI 2), highintermediate (IPI 3), and high-risk group (IPI 4, 5) can expect 3-year overall survival of 91.4%, 80.9%, 65.1%, and 59.0%, respectively, if treated with R-CHOP or one of its variants. Other clinical risk factor models (R-IPI; NCCN-IPI) (Sehn et al. 2007; Zhou et al. 2014) have been proposed, but advantages over the original IPI seem limited.",
+          "zh": "2010）。IPI 納入五項因素：年齡、分期、LDH、體能狀態及受累結外部位數。接受 R-CHOP 或其變型治療時，低風險（IPI 0、1）、低中風險（IPI 2）、高中風險（IPI 3）與高風險（IPI 4、5）組的 3 年總存活率預期分別為 91.4%、80.9%、65.1% 與 59.0%。另有 R-IPI、NCCN-IPI 等臨床風險模型（Sehn et al. 2007；Zhou et al. 2014），但相較原始 IPI 的優勢似乎有限。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600012,
+          "page": 759,
+          "en": "86.5 First-Line Treatment First-line treatment of patients with LBCL generally consists of RTX at standard dose (375 mg/ sqm) in combination with CHOP (CY, DOXO, VCR, and PRD). Six cycles of R-CHOP are generally used. Patients with early disease (IPI 0 and 1) have been treated with abbreviated chemotherapy and involved-field radiotherapy (RT). Some studies do not support a role for RT in such patients (Lamy et al. 2018). In patients with IPI 2–5, radiotherapy to bulky and extranodal disease is regularly recommended after R-CHOP in some but not in the majority of countries. Recently, prospective randomized trial has confirmed the benefit of adding polatuzumab to R-CHP in patients with IPI ≥2 in terms of progression-free survival (Tilly et al. 2022).",
+          "zh": "86.5 第一線治療 LBCL 患者的第一線治療通常包括標準劑量（375 毫克/平方公尺）的 RTX 合併 CHOP（CY、DOXO、VCR 和 PRD）。通常使用六個循環的R-CHOP。早期疾病患者（IPI 0 和 1）已接受簡短化療和涉及野放療 (RT) 治療。一些研究不支持放射治療對此類患者的作用（Lamy 等人，2018）。對於 IPI 2-5 的患者，在某些國家（但在大多數國家），通常建議在 R-CHOP 後對大塊結外疾病進行放射治療。最近，前瞻性隨機試驗證實，在 IPI ≥2 的患者中，在 R-CHP 中添加 polatuzumab 在無惡化存活期方面具有益處 (Tilly et al. 2022)。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600013,
+          "page": 759,
+          "en": "Several studies failed to demonstrate an advantage of consolidation with auto-HCT over conventional chemotherapy; therefore, it is generally not recommended as part of first-line therapy in LBCL.",
+          "zh": "多項研究未能證明自體 HCT 鞏固治療相對於傳統化療的優勢；因此，一般不建議將其作為 LBCL 一線治療的一部分。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600014,
+          "page": 759,
+          "en": "Patients with primary large B-cell lymphoma of immuned privileged sites must receive chemotherapy penetrating into the CNS. More aggressive chemotherapies (CHOEP, DA-EPOCH, or ACVBP) in combination with RTX with or without RT are recommended in patients with PMBCL or plasmablastic lymphoma. Also, more intensive therapy has been recommended for patients with MYC and BCL2 rearrangements based mainly on retrospective studies (Oki et al. 2014).",
+          "zh": "免疫特權部位原發性大 B 細胞淋巴瘤患者必須接受滲透至中樞神經系統的化療。對於 PMBCL 或漿母細胞淋巴瘤患者，建議採用更積極的化療（CHOEP、DA-EPOCH 或 ACVBP）合併 RTX（伴隨或不伴隨 RT）。此外，主要基於回顧性研究，建議對 MYC 和 BCL2 重排的患者進行更強化的治療（Oki et al. 2014）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600015,
+          "page": 759,
+          "en": "86.6 Second-Line Treatment The principles of management of relapsed and refractory (R/R) LBCL are shown in Table 86.1.",
+          "zh": "86.6 二線治療 復發性與難治性 (R/R) LBCL 的治療原則如表 86.1 所示。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600016,
+          "page": 759,
+          "en": "CAR T cells have become the standard of care for patients with refractory disease or early relapse (within 12 months from the end of first-line therapy).Auto-HCT is currently considered an option for patients with R/R LBCL especially in late relapse. All chemotherapy-based salvage regimens cause hematologic toxicity in many cases necessitating RBC and platelet transfusions.",
+          "zh": "CAR T細胞已成為難治性疾病或早期復發（第一線治療結束後12個月內）患者的標準治療。 自體 HCT目前被認為是R/R LBCL患者的選擇，尤其是晚期復發的患者。所有基於化療的挽救方案在許多情況下都會導致血液毒性，需要輸注紅血球和血小板。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600017,
+          "page": 759,
+          "en": "Mucositis, gastrointestinal toxicities, neutropenic fever, and infections are reported in a significant proportion of patients. Nephrotoxicity, hepatotoxicity, and other nonhematologic toxicities are also observed. Failure to mobilize hematopoietic stem cells in 10–20% of cases occurs with all salvage regimens. Efficacy of different salvage options is shown in Table 86.2.",
+          "zh": "很大一部分患者報告有黏膜炎、胃腸道毒性、嗜中性球減少性發燒和感染。也觀察到腎毒性、肝毒性和其他非血液毒性。所有挽救方案均會出現 10-20% 病例無法動員造血幹細胞的情況。不同救助方案的效果如表 86.2 所示。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 760,
+      "blocks": [
+        {
+          "id": 8600018,
+          "page": 760,
+          "en": "Table 86.1 Management of relapsed or refractory LBCL",
+          "zh": "表 86.1 復發或難治性 LBCL 的治療",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600019,
+          "page": 760,
+          "en": "– New biopsy: Highly recommended in all patients with R/R LBCL. Core biopsies acceptable",
+          "zh": "– 新的切片檢查：強烈建議所有 R/R LBCL 患者重新切片；可接受粗針切片。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600020,
+          "page": 760,
+          "en": "– Radiological evaluation: PET/CT recommended for evaluation of treatment outcome",
+          "zh": "– 放射線評估：建議使用 PET/CT 評估治療結果",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600021,
+          "page": 760,
+          "en": "– Salvage therapy followed by auto-HCT is currently considered the standard of care for patients with R/R DLBCL with late relapse (>12 months from the end of first-line therapy)",
+          "zh": "– 挽救治療後進行自體 HCT 目前被認為是晚期復發的 R/R DLBCL 患者（第一線治療結束後 12 個月以上）的標準治療方法",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600022,
+          "page": 760,
+          "en": "– CAR T cells is considered standard of care for patients with refractory disease or early relapse (within 12 months from the end of first-line therapy)",
+          "zh": "– CAR T 細胞被認為是難治性疾病或早期復發（第一線治療結束後 12 個月內）患者的標準治療方法",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600023,
+          "page": 760,
+          "en": "– Allo-HCT could be considered a potential treatment option in younger patients without comorbidities especially in patients with R/R after CAR T cells and with chemosensitive disease",
+          "zh": "– 對於沒有合併症的年輕患者，尤其是 CAR T 細胞治療後出現 R/R 和化療敏感性疾病的患者，異體 HCT 可以被視為一種潛在的治療選擇",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600024,
+          "page": 760,
+          "en": "– Selection of salvage therapy: Randomized studies failed to show significant differences in terms of efficacy or toxicity with different salvage regimens. Therefore, salvage strategies should take into account individual patient characteristics (age and comorbidities) considering potential cumulative hematologic and nonhematologic toxicity and the possibility of harvesting stem cells. Cardiac, pulmonary, renal, and liver function should be evaluated prior to treatment",
+          "zh": "– 挽救治療的選擇：隨機研究未能顯示不同挽救方案在療效或毒性方面有顯著差異。因此，挽救策略應考慮患者的個別特徵（年齡和合併症），考慮潛在的累積血液學和非血液學毒性以及收穫幹細胞的可能性。治療前應評估心、肺、腎及肝功能",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600025,
+          "page": 760,
+          "en": "– The objective of salvage chemotherapy is to induce a complete or partial response indicating that the tumor remains chemosensitive, this having a major impact on outcome after transplantation.",
+          "zh": "– 挽救化療的目標是誘導完全或部分緩解，顯示腫瘤仍具化療敏感性；此點對移植後結果有重大影響。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600026,
+          "page": 760,
+          "en": "PET negativity after salvage therapy is a surrogate marker of chemosensitivity and predicts patient outcome after auto-HCT",
+          "zh": "PET 陰性是化療敏感性的替代標記物，可預測自體 HCT 後的患者結果",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600027,
+          "page": 760,
+          "en": "Table 86.2 Response to salvage regimens Regimens compared in prospective randomized trials R-DHAP (Gisselbrecht et al.",
+          "zh": "表 86.2 挽救方案的反應率：前瞻性隨機試驗比較的方案；R-DHAP（Gisselbrecht et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600028,
+          "page": 760,
+          "en": "2010)",
+          "zh": "2010)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600029,
+          "page": 760,
+          "en": "Dexamethasone, cytarabine, cisplatin ORR 62.8% (44.1%)a , CR 28% (14.3%)a R-GDP (Crump et al. 2014)",
+          "zh": "地塞米松、阿糖胞苷、順鉑 ORR 62.8% (44.1%)a 、CR 28% (14.3%)a R-GDP（Crump 等人，2014 年）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600030,
+          "page": 760,
+          "en": "Gemcitabine, dexamethasone, cisplatin ORR 45.1%, CR 13.5% after 2 cycles R-ICE (Gisselbrecht et al. 2010)",
+          "zh": "Gemcitabine、dexamethasone、cisplatin：2 個療程後 ORR 45.1%、CR 13.5%；R-ICE（Gisselbrecht et al. 2010）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600031,
+          "page": 760,
+          "en": "Ifosfamide, carboplatin, etoposide ORR 63.5%, CR 24% Addition of new drugs (lenalidomide, ibrutinib, brentuximab vedotin, polatuzumab, other) to RTXchemo in order to improve response rates of salvage regimens is not recommended outside clinical trials a Percentages in brackets from Crump et al. (2014)",
+          "zh": "Ifosfamide、carboplatin、etoposide：ORR 63.5%、CR 24%。除臨床試驗外，不建議在 RTX 化療中加入 lenalidomide、ibrutinib、brentuximab vedotin、polatuzumab 等新藥以提高挽救方案反應率。a 括號內百分比取自 Crump et al.（2014）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600032,
+          "page": 760,
+          "en": "86.7 Autologous HCT Auto-HCT is still considered the standard of care for patients with late relapse (>12 months from the end of first-line therapy) in PR or CR after salvage therapy and could be an option treatment for patients with early relapse or primary refractory disease when CAR T cells are not available.",
+          "zh": "86.7 自體 HCT 自體 HCT 仍被認為是挽救治療後 PR 或 CR 中晚期復發（一線治療結束後 12 個月以上）患者的標準治療，並且可以成為早期復發或原發性難治性疾病患者在無法使用 CAR T 細胞時的一種選擇治療。\nLBCL 中自體 HCT 的",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600033,
+          "page": 760,
+          "en": "EBMT indications (Snowden et al. 2022) for auto-HCT in LBCL are shown in Table 86.3.",
+          "zh": "EBMT 適應症（Snowden 等，2022）如表 86.3 所示。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600034,
+          "page": 760,
+          "en": "Auto-HCT is generally not recommended as part of first-line therapy in DLBCL; however, it could be considered in those patients with high-grade B cell lymphomas treated with R-CHOP like regimens and in LBCL with CNS involvement at diagnosis with chemosensitive disease. We discourage auto-HCT for patients with refractory disease not responding to salvage therapy.",
+          "zh": "自體 HCT 通常不建議作為 DLBCL 一線治療的一部分；然而，對於那些接受 R-CHOP 類方案治療的高級別 B 細胞淋巴瘤患者以及在診斷化療敏感性疾病時累及中樞神經系統的 LBCL 患者，可以考慮進行該治療。我們不鼓勵對挽救治療無反應的難治性疾病患者進行自體 HCT。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600035,
+          "page": 760,
+          "en": "86.7.1 HSC Source PBSC is used in >90% of auto-HCT.",
+          "zh": "86.7.1 HSC 來源 PBSC 用於 >90% 的自體 HCT。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600036,
+          "page": 760,
+          "en": "86.7.2 Consolidation (High-Dose Therapy)",
+          "zh": "86.7.2 鞏固（高劑量治療）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600037,
+          "page": 760,
+          "en": "Consolidation (high-dose therapy) should eliminate malignant cells with minimal impact on organ systems other than hematopoiesis. The choice of the preparative regimen varies and is based on institutional experience rather than evi-",
+          "zh": "鞏固（高劑量治療）應清除惡性細胞，且對造血系統以外器官的影響降至最低。預處理方案的選擇不一，主要依據各機構經驗，而非證",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600038,
+          "page": 760,
+          "en": "Table 86.3 Indications for auto-HCT in LBCL Disease status Recommendations First complete remission Clinical option Level of evidence I Chemosensitive early relapse, ≥CR2 Clinical option Level of evidence I Chemosensitive late relapse, ≥CR2 Standard of care Level of evidence II Refractory disease Generally not recommended Level of evidence I",
+          "zh": "表 86.3 LBCL 中自體 HCT 的指徵 疾病狀態 建議 首次完全緩解 臨床選擇 證據等級 I 化療敏感的早期復發，≥CR2 臨床選擇 證據等級 I 化療敏感的晚期復發，≥CR2 標準照護 證據等級 II 難治性疾病 一般不建議 證據 I",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 761,
+      "blocks": [
+        {
+          "id": 8600039,
+          "page": 761,
+          "en": "dence. The BEAM regimen typically consisting of BCNU (300 mg/m2 × 1, day-6), VP (200 mg/ m2 , days −5 to −2), Ara-C (200 mg/m2 bid, days −5 to −2), and MEL (140 mg/kg/day ×1, days −1) is the preferred regimen in EBMT centers.",
+          "zh": "據。BEAM 是 EBMT 中心的首選方案，通常包括 BCNU（300 mg/m² × 1，第 −6 天）、VP（200 mg/m²，第 −5 至 −2 天）、Ara-C（200 mg/m²，每日兩次，第 −5 至 −2 天）及 MEL（140 mg/kg/day × 1，第 −1 天）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600040,
+          "page": 761,
+          "en": "Acute toxicities of BEAM include severe mucositis, nausea and vomiting, diarrhea, hepatotoxicity, nephrotoxicity, and noninfective pulmonary complications. Late toxicities include pulmonary complications such as chronic interstitial fibrosis and decrease in lung diffusion capacity (21%), infection (30%), metabolic syndrome (17%), cardiovascular complications (12%), secondary tumors (20%), and other toxicities (20%). The most frequent cause of NRM is subsequent malignancy (12-fold increased risk compared with the general population). Late death is also attributed to cardiac toxicity (2%), pulmonary complications (2%), and other treatmentrelated toxicities (15%).",
+          "zh": "BEAM 的急性毒性包括嚴重黏膜炎、噁心和嘔吐、腹瀉、肝毒性、腎毒性和非感染性肺部併發症。晚期毒性包括肺部併發症，如慢性間質纖維化和肺擴散能力下降（21%）、感染（30%）、代謝症候群（17%）、心血管併發症（12%）、繼發性腫瘤（20%）和其他毒性（20%）。 NRM 最常見的原因是隨後發生的惡性腫瘤（與一般人群相比，風險增加 12 倍）。晚期死亡也歸因於心臟毒性（2%）、肺部併發症（2%）和其他治療相關毒性（15%）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600041,
+          "page": 761,
+          "en": "Other high-dose regimens have been used sometimes because of shortage of MEL or BCNU. Some publications suggest that the BEAC (CY) and TEAM (TT) regimens show efficacy and toxicity similar to BEAM in most if not all lymphoma subtypes (Robinson et al.",
+          "zh": "有時因 MEL 或 BCNU 短缺而採用其他高劑量方案。有文獻指出，BEAC（CY）與 TEAM（TT）在多數（若非全部）淋巴瘤亞型中的療效與毒性均與 BEAM 相近（Robinson et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600042,
+          "page": 761,
+          "en": "2018).",
+          "zh": "2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600043,
+          "page": 761,
+          "en": "86.7.3 Prognostic Factors Adverse prognostic factors for auto-HCT identified in prospective studies include early relapse within 12 months of induction therapy (Crump et al. 2017), secondary age-adjusted IPI, poor performance status, and involvement of two or more extranodal sites at relapse.",
+          "zh": "86.7.3 預後因素 前瞻性研究中確定的自體 HCT 的不良預後因素包括誘導治療 12 個月內的早期復發（Crump 等人，2017 年）、繼發性年齡調整 IPI、體能狀態差以及復發時累及兩個或多個結外部位。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600044,
+          "page": 761,
+          "en": "86.7.4 Results of Auto-HCT NRM OS at 3 years EFS at 3 years Gisselbrecht et al.",
+          "zh": "86.7.4 自體 HCT NRM OS 結果 3 年 EFS 3 年 Gisselbrecht 等人。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600045,
+          "page": 761,
+          "en": "(2012)a 1.4% 51% (DHAP)",
+          "zh": "(2012)a 1.4% 51% (DHAP)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600046,
+          "page": 761,
+          "en": "35% (DHAP)",
+          "zh": "35% (DHAP)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600047,
+          "page": 761,
+          "en": "Crump et al.",
+          "zh": "Crump 等人。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600048,
+          "page": 761,
+          "en": "(2014)a NR 39% (both arms)",
+          "zh": "(2014)a NR 39%（雙臂）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600049,
+          "page": 761,
+          "en": "26% (both arms) a Results from prospective randomized studies. Differences in OS and EFS may be explained by differing patient characteristics and study design",
+          "zh": "26%（雙組） a 前瞻性隨機研究的結果。 OS 和 EFS 的差異可以透過不同的患者特徵和研究設計來解釋",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600050,
+          "page": 761,
+          "en": "86.7.5 Consolidation Treatment After Auto-HCT There are no data and no recommendation for consolidative therapy after auto-HCT for LBCL. In the CORAL study (Gisselbrecht et al.",
+          "zh": "86.7.5 自體 HCT 後鞏固治療 對於 LBCL，自體 HCT 後沒有鞏固治療的數據，也沒有建議。在 CORAL 研究中（Gisselbrecht 等。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600051,
+          "page": 761,
+          "en": "2012), RTX maintenance did not improve outcome.",
+          "zh": "2012），RTX 維護並沒有改善結果。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600052,
+          "page": 761,
+          "en": "86.7.6 Tandem Transplantation No data from the RTX era are available.",
+          "zh": "86.7.6 串聯移植 沒有 RTX 時代的可用資料。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600053,
+          "page": 761,
+          "en": "86.7.7 Relapse After Auto-HCT CAR T cells therapy is considered the standard treatment for these patients. Results of CAR T cells after failure of auto-HCT are reported below. Data on the use of new drugs such as bispecific antibodies are promising but currently in clinical trials (Thieblemont et al. 2023; Dickinson et al. 2022).",
+          "zh": "86.7.7 自體 HCT CAR T 細胞治療後復發被認為是這些患者的標準治療方法。自體 HCT 失敗後 CAR T 細胞的結果報告如下。雙特異性抗體等新藥的使用數據很有希望，但目前正在進行臨床試驗（Thieblemont 等人，2023 年；Dickinson 等人，2022 年）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600054,
+          "page": 761,
+          "en": "86.8 CAR T Cells Recently, anti-CD19 CAR T cells, axicabtagene ciloleucel and lisocaptagene maraleucel, show significant improvement in PFS and a strong trend in OS in two phase III clinical studies in high-risk R/R LBCL compared with salvage therapy followed by auto-HCT (Locke et al.",
+          "zh": "86.8 CAR T 細胞 最近兩項針對高風險 R/R LBCL 的 III 期臨床研究顯示，抗 CD19 CAR T 細胞 axicabtagene ciloleucel 與 lisocabtagene maraleucel，相較於挽救治療後自體 HCT，可顯著改善 PFS，且 OS 呈明顯改善趨勢（Locke et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600055,
+          "page": 761,
+          "en": "2022; Kamdar et al. 2021). For this reason, CAR T cells have been recently considered the best option for patients with refractory disease or early relapse.",
+          "zh": "2022；Kamdar et al. 2021）。因此，CAR T 細胞現被視為難治性疾病或早期復發患者的最佳選擇。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600056,
+          "page": 761,
+          "en": "CAR T cells have been considered the standard of care for patients failing an autograft (grade of evidence I) (Schuster et al. 2019; Neelapu et al. 2017). Real-world evidence in third line use has been recently published confirming the efficacy and safety of these approach.",
+          "zh": "CAR T 細胞被認為是自體移植失敗患者的護理標準（I 級證據）（Schuster 等人，2019 年；Neelapu 等人，2017 年）。最近發布的三線使用的真實世界證據證實了這些方法的有效性和安全性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600057,
+          "page": 761,
+          "en": "These studies support higher efficacy and also a higher toxicity of axi-cel compared to tisa-cel (Bachy et al. 2022; Bethge et al. 2022).",
+          "zh": "這些研究支持 axi-cel 與 tisa-cel 相比具有更高的功效和更高的毒性（Bachy 等人，2022 年；Bethge 等人，2022 年）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 762,
+      "blocks": [
+        {
+          "id": 8600058,
+          "page": 762,
+          "en": "There are some advantages of CAR T cells comparing with HCT; chemosensitivity is not needed and patients that are not candidates for HCT because of age or comorbidities could be rescued with this strategy (Sehgal et al. 2022).",
+          "zh": "CAR T細胞與HCT相比有一些優勢；不需要化學敏感性，並且由於年齡或合併症而不適合 HCT 的患者可以通過此策略得到挽救（Sehgal 等人，2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600059,
+          "page": 762,
+          "en": "86.9 Allogeneic HCT Allo-HCT is still considered a curative treatment option for patients with LBCL who relapse or progress after CAR T cells (Mussetti et al. 2023).",
+          "zh": "86.9 異體 HCT 對於 CAR T 細胞治療後復發或進展的 LBCL 患者，異體 HCT 仍被認為是一種治癒性治療選擇 (Mussetti et al. 2023)。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600060,
+          "page": 762,
+          "en": "Survival and NRM for allo-HCT in LBCL are summarized in Table 85.9.6.",
+          "zh": "LBCL 接受異體 HCT 的存活與 NRM 結果彙整於表 85.9.6。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600061,
+          "page": 762,
+          "en": "The only prospective randomized clinical trial reported so far including patients with R/R T and B aggressive lymphomas who underwent allo- HCT with MAC conditioning confirmed 3 year- PFS and OS 25% and 26%, respectively (Glass et al. 2014). Haploidentical allo-HCT with posttransplant cyclophosphamide (PT-CY) as GVHD prophylaxis has been associated with a lower chronic GVHD compared with matched sibling receiving calcineurin inhibitor-based prophylaxis and unrelated donor (URD) with or without T-cell depletion (Dreger et al. 2019). These data show that allo-HCT should be still considered a curative option for patients relapsing after CAR T cells.",
+          "zh": "目前唯一已報告的前瞻性隨機臨床試驗，納入接受 MAC 預處理異體 HCT 的 R/R 侵襲性 T 與 B 細胞淋巴瘤患者；3 年 PFS 與 OS 分別為 25% 與 26%（Glass et al. 2014）。採移植後 cyclophosphamide（PT-CY）作為 GVHD 預防的半相合異體 HCT，相較於接受 calcineurin inhibitor 預防的相合同胞供者，以及伴或不伴 T 細胞去除的無關供者（URD），慢性 GVHD 較少（Dreger et al. 2019）。這些資料顯示，CAR T 細胞治療後復發者仍應考慮異體 HCT 作為治癒性選項。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600062,
+          "page": 762,
+          "en": "86.9.1 Stem Cell Source PBSC is the preferred stem cell source for allo- HCT. The use of haploidentical donors has somewhat increased the use of BM in some of the series.",
+          "zh": "86.9.1 幹細胞來源 PBSC 是異體 HCT 的首選幹細胞來源。部分系列因使用半相合供者而略增 BM 的使用。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600063,
+          "page": 762,
+          "en": "86.9.2 Donor Selection In recent years, there has been a significant increase in the use of haploidentical donors for allo-HCT after the introduction of PT-CY. Retrospective analyses from EBMT and CIBMTR (Kanate et al. 2016) suggest that allo- HCT from HLA-identical family and URD or from haploidentical donors give comparable results. However, no prospective clinical trials comparing haploidentical donors versus HLAidentical siblings and MUD have been published so far.",
+          "zh": "86.9.2 供者選擇 近年引入 PT-CY 後，半相合供者用於異體 HCT 的比例顯著增加。EBMT 與 CIBMTR 的回顧性分析（Kanate et al. 2016）顯示，HLA 相合家屬、無關供者（URD）及半相合供者的異體 HCT 結果相近。然而，目前尚無前瞻性臨床試驗直接比較半相合供者與 HLA 相合同胞或 MUD。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600064,
+          "page": 762,
+          "en": "86.9.3 Conditioning RIC regimens reduce NRM after transplantation in many indications but also tend to increase RI after transplantation. Because no prospective clinical trials demonstrating the superiority of one conditioning regimen over another have been reported, the question if RIC or MAC should be preferred cannot generally be answered.",
+          "zh": "86.9.3 預處理 RIC 方案在多種適應症可降低移植後 NRM，但也傾向增加移植後復發率（RI）。由於尚無前瞻性臨床試驗證明某一預處理方案優於另一方案，因此一般無法回答應優先選擇 RIC 或 MAC。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600065,
+          "page": 762,
+          "en": "Aggressive disease not completely responding to salvage therapy and high tumor are situations where MAC should be considered.",
+          "zh": "對挽救治療未完全反應的侵襲性疾病及高腫瘤負荷，是應考慮 MAC 的情況。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600066,
+          "page": 762,
+          "en": "86.9.4 Prognostic Factors The most important adverse prognostic factor that impacts long-term outcome of patients being treated with allo-HCT is disease status before the treatment. However, unlike the situation with auto- HCT, also patients not perfectly responding to salvage therapy, e.g., patients with minor response or stable disease, may benefit from allo-HCT.",
+          "zh": "86.9.4 預後因素 影響接受異體 HCT 治療的患者長期結果的最重要的不良預後因素是治療前的疾病狀態。然而，與自體 HCT 的情況不同，對挽救治療沒有完全反應的患者，例如反應輕微或疾病穩定的患者，也可能受益於異體 HCT。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600067,
+          "page": 762,
+          "en": "86.9.5 The Use of Allo-HCT in the Era of New Drugs and CAR T Cells Allo-HCT is still a curative therapeutic strategy for fit patients with chemosensitive disease, especially relapsing after CAR T cells or whenever CAR T cells are not available.",
+          "zh": "86.9.5 異體 HCT 在新藥和 CAR T 細胞時代的應用 異體 HCT 對於患有化學敏感性疾病的健康患者來說仍然是一種治癒性治療策略，特別是在 CAR T 細胞後復發或無法獲得 CAR T 細胞時。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600068,
+          "page": 762,
+          "en": "86.9.6 Results of Allo-HCT NRM (%)",
+          "zh": "86.9.6 異體 HCT NRM 結果 (%)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600069,
+          "page": 762,
+          "en": "OS at 3 years (%)",
+          "zh": "3 年 OS（%）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600070,
+          "page": 762,
+          "en": "PFS at 3 years (%)",
+          "zh": "3 年 PFS（%）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600071,
+          "page": 762,
+          "en": "Glass et al.",
+          "zh": "Glass et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600072,
+          "page": 762,
+          "en": "(2014)",
+          "zh": "(2014)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600073,
+          "page": 762,
+          "en": "35 26 25 Fenske et al.",
+          "zh": "35 26 25；Fenske et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600074,
+          "page": 762,
+          "en": "(2016)",
+          "zh": "(2016)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600075,
+          "page": 762,
+          "en": "30 31 37 Bento et al.",
+          "zh": "30 31 37；Bento et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600076,
+          "page": 762,
+          "en": "(2021)",
+          "zh": "(2021)",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600077,
+          "page": 762,
+          "en": "30 44 38",
+          "zh": "30 44 38",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 763,
+      "blocks": [
+        {
+          "id": 8600078,
+          "page": 763,
+          "en": "86.9.7 Disease Relapse After Allo-HCT Patients relapsing after allo-HCT generally have a poor prognosis. Clinical trials should be actively considered including bispecific antibodies or other targeted therapies such as polatuzumab or lenalidomide. Unfortunately, palliative care is a reality in many cases.",
+          "zh": "86.9.7 異體 HCT 後疾病復發 異體 HCT 後復發的患者通常預後較差。應積極考慮臨床試驗，包括雙特異性抗體或其他標靶治療，如polatuzumab 或來那度胺。不幸的是，安寧療護在許多情況下都是現實。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600079,
+          "page": 763,
+          "en": "86.9.8 Therapeutic Algorithm Recommended by the Authors (See Fig. 86.1)",
+          "zh": "86.9.8 作者推薦的治療演算法（見圖 86.1）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600080,
+          "page": 763,
+          "en": "See Fig. 86.1.",
+          "zh": "見圖 86.1。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600081,
+          "page": 763,
+          "en": "Key Points",
+          "zh": "要點",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600082,
+          "page": 763,
+          "en": "• Auto-HCT is generally not recommended as part of first-line therapy in LBCL. It is still the standard of care for those LBCL patients with chemosensitive first late relapse.",
+          "zh": "• 通常不建議將自體 HCT 作為 LBCL 第一線治療的一部分。它仍然是那些化療敏感的首次晚期復發的 LBCL 患者的標準治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600083,
+          "page": 763,
+          "en": "• CAR T cells are considered standard of care for patients with refractory disease, early relapse (within 12 months from the end of first-line therapy) or patients relapsing after auto-HCT.",
+          "zh": "• CAR T 細胞被認為是難治性疾病、早期復發（第一線治療結束後 12 個月內）或自體 HCT 後復發患者的標準治療方法。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600084,
+          "page": 763,
+          "en": "• Allo-HCT is the only curative treatment option for fit patients with relapse disease after CART cells. Conditioning should be guided by the individual clinical situation.",
+          "zh": "• 異體 HCT 是CAR T 細胞治療後疾病復發的健康患者的唯一治療選擇。調理應根據個別臨床情況進行指導。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600085,
+          "page": 763,
+          "en": "Relapse/refractory after first line treatment Primary refractory or relapse <12 months from the end of first-line therapy Yes CAR T cells (axicel, lisocel)",
+          "zh": "一線治療後復發/難治 原發性難治或復發 自一線治療結束後 12 個月以內 是 CAR T 細胞（axicel、lisocel）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600086,
+          "page": 763,
+          "en": "Yes No No Relapse/ progression Clinical trials Targered therapies Supportive care Relapse/progression Fit for allo-HSCT and at least SD for last therapy Relapse/progession Yes Allo-HSCT SD/RR CAR T cells Auto-HSCT CR/PR Salvage chemotherapy (R-ICE, R-DHAP, R- GDP)",
+          "zh": "是 否 否 復發/進展 臨床試驗 標靶治療 支持性治療 復發/進展 適合異體 HSCT，上次治療至少為 SD 復發/進展 是 異體 HSCT SD/RR CAR T 細胞 自動 HSCT CR/PR 挽救化療（R-ICE、R-DHAP、R-GDP）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600087,
+          "page": 763,
+          "en": "Fig. 86.1 HCT and CAR T cells in R/R LBCL: treatment decision",
+          "zh": "圖 86.1 R/R LBCL 中的 HCT 和 CAR T 細胞：治療決策",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 764,
+      "blocks": [
+        {
+          "id": 8600088,
+          "page": 764,
+          "en": "References Alaggio R, Amador C, Anagnostopoulos I, Attygalle AD, de Araujo IBO, Berti E, Bhagat G, Borges AM, Boyer D, Calaminici M, Chadburn A, Chan JKC, Cheuk W, Chng W-J, Choi JK, Chuang S-S, Coupland SE, Czader M, Dave SS, de Jong D, et al. The 5th edition of the World Health Organization classification of haematolymphoid tumours: lymphoid neoplasms.",
+          "zh": "References Alaggio R, Amador C, Anagnostopoulos I, Attygalle AD, de Araujo IBO, Berti E, Bhagat G, Borges AM, Boyer D, Calaminici M, Chadburn A, Chan JKC, Cheuk W, Chng W-J, Choi JK, Chuang S-S, Coupland SE, Czader M, Dave SS, de Jong D, et al. The 5th edition of the World Health Organization classification of haematolymphoid tumours: lymphoid neoplasms.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600089,
+          "page": 764,
+          "en": "Leukemia. 2022;36:1720–48.",
+          "zh": "Leukemia. 2022;36:1720–48.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600090,
+          "page": 764,
+          "en": "Bachy E, Le Gouill S, Di Blasi R, Sesques P, Manson G, Cartron G, Beauvais D, Roulin L, Gros FX, Rubio MT, Bories P, Bay JO, Llorente CC, Choquet S, Casasnovas R-O, Mohty M, Guidez S, Joris M, Loschi M, Carras S, et al. A real-world comparison of tisagenlecleucel and axicabtagene ciloleucel CAR T cells in relapsed or refractory diffuse large B cell lymphoma.",
+          "zh": "Bachy E, Le Gouill S, Di Blasi R, Sesques P, Manson G, Cartron G, Beauvais D, Roulin L, Gros FX, Rubio MT, Bories P, Bay JO, Llorente CC, Choquet S, Casasnovas R-O, Mohty M, Guidez S, Joris M, Loschi M, Carras S, et al. A real-world comparison of tisagenlecleucel and axicabtagene ciloleucel CAR T cells in relapsed or refractory diffuse large B cell lymphoma.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600091,
+          "page": 764,
+          "en": "Nat Med. 2022;28:2145–54.",
+          "zh": "Nat Med. 2022;28:2145–54.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600092,
+          "page": 764,
+          "en": "Bento L, Gutiérrez A, Novelli S, Montoro J, Piñana JL, López-Corral L, Cabrero M, Martín-Sancho A, Gutiérrez-García G, Ortiz-Moscovich M, Bastos- Oreiro M, Dorado N, Pérez A, Hernani R, Ferrà C, Parody R, García-Cadenas I, Herrera P, Rodríguez G, Rodríguez N, et al. Allogeneic stem cell transplantation as a curative option in relapse/refractory diffuse large B cell lymphoma: Spanish multicenter GETH/GELTAMO study. Bone Marrow Transplant.",
+          "zh": "Bento L, Gutiérrez A, Novelli S, Montoro J, Piñana JL, López-Corral L, Cabrero M, Martín-Sancho A, Gutiérrez-García G, Ortiz-Moscovich M, Bastos- Oreiro M, Dorado N, Pérez A, Hernani R, Ferrà C, Parody R, García-Cadenas I, Herrera P, Rodríguez G, Rodríguez N, et al. Allogeneic stem cell transplantation as a curative option in relapse/refractory diffuse large B cell lymphoma: Spanish multicenter GETH/GELTAMO study. Bone Marrow Transplant.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600093,
+          "page": 764,
+          "en": "2021;56:1919–28.",
+          "zh": "2021;56:1919–28.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600094,
+          "page": 764,
+          "en": "Bethge WA, Martus P, Schmitt M, Holtick U, Subklewe M, von Tresckow B,Ayuk F, Wagner-Drouet EM, Wulf GG, Marks R, Penack O, Schnetzke U, Koenecke C, von Bonin M, Stelljes M, Glass B, Baldus CD, Vucinic V, Mougiakakos D, Topp M, et al. GLA/DRST real-world outcome analysis of CAR T-cell therapies for large B-cell lymphoma in Germany. Blood.",
+          "zh": "Bethge WA, Martus P, Schmitt M, Holtick U, Subklewe M, von Tresckow B,Ayuk F, Wagner-Drouet EM, Wulf GG, Marks R, Penack O, Schnetzke U, Koenecke C, von Bonin M, Stelljes M, Glass B, Baldus CD, Vucinic V, Mougiakakos D, Topp M, et al. GLA/DRST real-world outcome analysis of CAR T-cell therapies for large B-cell lymphoma in Germany. Blood.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600095,
+          "page": 764,
+          "en": "2022;140:349–58.",
+          "zh": "2022;140:349–58.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600096,
+          "page": 764,
+          "en": "Crump M, Kuruvilla J, Couban S, MacDonald DA, Kukreti V, Kouroukis CT, Rubinger M, Buckstein R, Imrie KR, Federico M, Di Renzo N, Howson-Jan K, Baetz T, Kaizer L, Voralia M, Olney HJ, Turner AR, Sussman J, Hay AE, Djurfeldt MS, et al. Randomized comparison of gemcitabine, dexamethasone, and cisplatin versus dexamethasone, cytarabine, and cisplatin chemotherapy before autologous stem-cell transplantation for relapsed and refractory aggressive lymphomas: NCIC-CTG LY.12. J Clin Oncol.",
+          "zh": "Crump M, Kuruvilla J, Couban S, MacDonald DA, Kukreti V, Kouroukis CT, Rubinger M, Buckstein R, Imrie KR, Federico M, Di Renzo N, Howson-Jan K, Baetz T, Kaizer L, Voralia M, Olney HJ, Turner AR, Sussman J, Hay AE, Djurfeldt MS, et al. Randomized comparison of gemcitabine, dexamethasone, and cisplatin versus dexamethasone, cytarabine, and cisplatin chemotherapy before autologous stem-cell transplantation for relapsed and refractory aggressive lymphomas: NCIC-CTG LY.12. J Clin Oncol.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600097,
+          "page": 764,
+          "en": "2014;32:3490–6.",
+          "zh": "2014;32:3490–6.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600098,
+          "page": 764,
+          "en": "Crump M, Neelapu SS, Farooq U, Van Den Neste E, Kuruvilla J, Westin J, Link BK, Hay A, Cerhan JR, Zhu L, Boussetta S, Feng L, Maurer MJ, Navale L, Wiezorek J, Go WY, Gisselbrecht C. Outcomes in refractory diffuse large B-cell lymphoma: results from the international SCHOLAR-1 study. Blood.",
+          "zh": "Crump M, Neelapu SS, Farooq U, Van Den Neste E, Kuruvilla J, Westin J, Link BK, Hay A, Cerhan JR, Zhu L, Boussetta S, Feng L, Maurer MJ, Navale L, Wiezorek J, Go WY, Gisselbrecht C. Outcomes in refractory diffuse large B-cell lymphoma: results from the international SCHOLAR-1 study. Blood.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600099,
+          "page": 764,
+          "en": "2017;130:1800–8.",
+          "zh": "2017;130:1800–8.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600100,
+          "page": 764,
+          "en": "Dickinson MJ, Carlo-Stella C, Morschhauser F, Bachy E, Corradini P, Iacoboni G, Khan C, Wróbel T, Offner F, Trněný M, Wu S-J, Cartron G, Hertzberg M, Sureda A, Perez-Callejo D, Lundberg L, Relf J, Dixon M, Clark E, Humphrey K, et al. Glofitamab for relapsed or refractory diffuse large B-cell lymphoma. N Engl J Med. 2022;387:2220–31.",
+          "zh": "Dickinson MJ, Carlo-Stella C, Morschhauser F, Bachy E, Corradini P, Iacoboni G, Khan C, Wróbel T, Offner F, Trněný M, Wu S-J, Cartron G, Hertzberg M, Sureda A, Perez-Callejo D, Lundberg L, Relf J, Dixon M, Clark E, Humphrey K, et al. Glofitamab for relapsed or refractory diffuse large B-cell lymphoma. N Engl J Med. 2022;387:2220–31.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600101,
+          "page": 764,
+          "en": "Dreger P, Sureda A, Ahn KW, Eapen M, Litovich C, Finel H, Boumendil A, Gopal A, Herrera AF, Schmid C, Diez-Martin JL, Fuchs E, Bolaños-Meade J, Gooptu M, Al Malki MM, Castagna L, Ciurea SO, Dominietto A, Blaise D, Ciceri F, et al. PTCy-based haploidentical vs matched related or unrelated donor reducedintensity conditioning transplant for DLBCL. Blood Adv. 2019;3:360–9.",
+          "zh": "Dreger P, Sureda A, Ahn KW, Eapen M, Litovich C, Finel H, Boumendil A, Gopal A, Herrera AF, Schmid C, Diez-Martin JL, Fuchs E, Bolaños-Meade J, Gooptu M, Al Malki MM, Castagna L, Ciurea SO, Dominietto A, Blaise D, Ciceri F, et al. PTCy-based haploidentical vs matched related or unrelated donor reducedintensity conditioning transplant for DLBCL. Blood Adv. 2019;3:360–9.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600102,
+          "page": 764,
+          "en": "Fenske TS, Ahn KW, Graff TM, DiGilio A, Bashir Q, Kamble RT, Ayala E, Bacher U, Brammer JE, Cairo M, Chen A, ChenY-B, Chhabra S, D’Souza A, Farooq U, Freytes C, Ganguly S, Hertzberg M, Inwards D, Jaglowski S, et al. Allogeneic transplantation provides durable remission in a subset of DLBCL patients relapsing after autologous transplantation. Br J Haematol. 2016;174:235–48.",
+          "zh": "Fenske TS, Ahn KW, Graff TM, DiGilio A, Bashir Q, Kamble RT, Ayala E, Bacher U, Brammer JE, Cairo M, Chen A, ChenY-B, Chhabra S, D’Souza A, Farooq U, Freytes C, Ganguly S, Hertzberg M, Inwards D, Jaglowski S, et al. Allogeneic transplantation provides durable remission in a subset of DLBCL patients relapsing after autologous transplantation. Br J Haematol. 2016;174:235–48.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600103,
+          "page": 764,
+          "en": "Gisselbrecht C, Glass B, Mounier N, Singh Gill D, Linch DC, Trneny M, Bosly A, Ketterer N, Shpilberg O, Hagberg H, Ma D, Brière J, Moskowitz CH, Schmitz N. Salvage regimens with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin Oncol. 2010;28:4184–90.",
+          "zh": "Gisselbrecht C, Glass B, Mounier N, Singh Gill D, Linch DC, Trneny M, Bosly A, Ketterer N, Shpilberg O, Hagberg H, Ma D, Brière J, Moskowitz CH, Schmitz N. Salvage regimens with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin Oncol. 2010;28:4184–90.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600104,
+          "page": 764,
+          "en": "Gisselbrecht C, Schmitz N, Mounier N, Singh Gill D, Linch DC, Trneny M, Bosly A, Milpied NJ, Radford J, Ketterer N, Shpilberg O, Dührsen U, Hagberg H, Ma DD, Viardot A, Lowenthal R, Brière J, Salles G, Moskowitz CH, Glass B. Rituximab maintenance therapy after autologous stem-cell transplantation in patients with relapsed CD20(+) diffuse large B-cell lymphoma: final analysis of the collaborative trial in relapsed aggressive lymphoma. J Clin Oncol.",
+          "zh": "Gisselbrecht C, Schmitz N, Mounier N, Singh Gill D, Linch DC, Trneny M, Bosly A, Milpied NJ, Radford J, Ketterer N, Shpilberg O, Dührsen U, Hagberg H, Ma DD, Viardot A, Lowenthal R, Brière J, Salles G, Moskowitz CH, Glass B. Rituximab maintenance therapy after autologous stem-cell transplantation in patients with relapsed CD20(+) diffuse large B-cell lymphoma: final analysis of the collaborative trial in relapsed aggressive lymphoma. J Clin Oncol.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600105,
+          "page": 764,
+          "en": "2012;30:4462–9.",
+          "zh": "2012;30:4462–9.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600106,
+          "page": 764,
+          "en": "Glass B, Hasenkamp J, Wulf G, Dreger P, Pfreundschuh M, Gramatzki M, Silling G, Wilhelm C, Zeis M, Görlitz A, Pfeiffer S, Hilgers R, Truemper L, Schmitz N, German High-Grade Lymphoma Study Group.",
+          "zh": "Glass B, Hasenkamp J, Wulf G, Dreger P, Pfreundschuh M, Gramatzki M, Silling G, Wilhelm C, Zeis M, Görlitz A, Pfeiffer S, Hilgers R, Truemper L, Schmitz N, German High-Grade Lymphoma Study Group.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600107,
+          "page": 764,
+          "en": "Rituximab after lymphoma-directed conditioning and allogeneic stem-cell transplantation for relapsed and refractory aggressive non-Hodgkin lymphoma (DSHNHL R3): an open-label, randomised, phase 2 trial. Lancet Oncol. 2014;15:757–66.",
+          "zh": "Rituximab after lymphoma-directed conditioning and allogeneic stem-cell transplantation for relapsed and refractory aggressive non-Hodgkin lymphoma (DSHNHL R3): an open-label, randomised, phase 2 trial. Lancet Oncol. 2014;15:757–66.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600108,
+          "page": 764,
+          "en": "Kamdar M, Solomon SR, Arnason JE, Johnston PB, Glass B, Bachanova V, Ibrahimi S, Mielke S, Mutsaers PGNJ, Hernandez-Ilizaliturri FJ, Izutsu K, Morschhauser F, Lunning MA, Maloney DG, Crotta A, Montheard S, Previtali A, Stepan L, Ogasawara K, Mack T, et al. Lisocabtagene maraleucel (lisocel), a CD19-directed chimeric antigen receptor (CAR) T cell therapy, versus standard of care (SOC) with salvage chemotherapy (CT) followed by autologous stem cell transplantation (ASCT) as second-line (2L) treatment in patients (Pts) with relapsed or refractory (R/R) large B-cell lymphoma (LBCL): results from the randomized phase 3 transform study. Blood. 2021;138:91. https://ashpublications.org/blood/article/138/Supplement/1/91/477568/ Lisocabtagene-Maraleucel-liso-cel-a-CD19-Directed",
+          "zh": "Kamdar M, Solomon SR, Arnason JE, Johnston PB, Glass B, Bachanova V, Ibrahimi S, Mielke S, Mutsaers PGNJ, Hernandez-Ilizaliturri FJ, Izutsu K, Morschhauser F, Lunning MA, Maloney DG, Crotta A, Montheard S, Previtali A, Stepan L, Ogasawara K, Mack T, et al. Lisocabtagene maraleucel (lisocel), a CD19-directed chimeric antigen receptor (CAR) T cell therapy, versus standard of care (SOC) with salvage chemotherapy (CT) followed by autologous stem cell transplantation (ASCT) as second-line (2L) treatment in patients (Pts) with relapsed or refractory (R/R) large B-cell lymphoma (LBCL): results from the randomized phase 3 transform study. Blood. 2021;138:91. https://ashpublications.org/blood/article/138/Supplement/1/91/477568/ Lisocabtagene-Maraleucel-liso-cel-a-CD19-Directed",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 765,
+      "blocks": [
+        {
+          "id": 8600109,
+          "page": 765,
+          "en": "Kanate AS, Mussetti A, Kharfan-Dabaja MA, Ahn KW, DiGilio A, Beitinjaneh A, Chhabra S, Fenske TS, Freytes C, Gale RP, Ganguly S, Hertzberg M, Klyuchnikov E, Lazarus HM, Olsson R, Perales M-A, Rezvani A, Riches M, Saad A, Slavin S, et al.",
+          "zh": "Kanate AS, Mussetti A, Kharfan-Dabaja MA, Ahn KW, DiGilio A, Beitinjaneh A, Chhabra S, Fenske TS, Freytes C, Gale RP, Ganguly S, Hertzberg M, Klyuchnikov E, Lazarus HM, Olsson R, Perales M-A, Rezvani A, Riches M, Saad A, Slavin S, et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600110,
+          "page": 765,
+          "en": "Reduced-intensity transplantation for lymphomas using haploidentical related donors vs HLA-matched unrelated donors. Blood. 2016;127:938–47.",
+          "zh": "Reduced-intensity transplantation for lymphomas using haploidentical related donors vs HLA-matched unrelated donors. Blood. 2016;127:938–47.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600111,
+          "page": 765,
+          "en": "Lamy T, Damaj G, Soubeyran P, Gyan E, Cartron G, Bouabdallah K, Gressin R, Cornillon J, Banos A, Le Du K, Benchalal M, Moles M-P, Le Gouill S, Fleury J, Godmer P, Maisonneuve H, Deconinck E, Houot R, Laribi K, Marolleau JP, et al. R-CHOP 14 with or without radiotherapy in nonbulky limited-stage diffuse large B-cell lymphoma. Blood. 2018;131:174–81.",
+          "zh": "Lamy T, Damaj G, Soubeyran P, Gyan E, Cartron G, Bouabdallah K, Gressin R, Cornillon J, Banos A, Le Du K, Benchalal M, Moles M-P, Le Gouill S, Fleury J, Godmer P, Maisonneuve H, Deconinck E, Houot R, Laribi K, Marolleau JP, et al. R-CHOP 14 with or without radiotherapy in nonbulky limited-stage diffuse large B-cell lymphoma. Blood. 2018;131:174–81.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600112,
+          "page": 765,
+          "en": "Locke FL, Miklos DB, Jacobson CA, Perales M-A, Kersten M-J, Oluwole OO, Ghobadi A, Rapoport AP, McGuirk J, Pagel JM, Muñoz J, Farooq U, van Meerten T, Reagan PM, Sureda A, Flinn IW, Vandenberghe P, Song KW, Dickinson M, Minnema MC, et al. Axicabtagene ciloleucel as second-line therapy for large B-cell lymphoma. N Engl J Med.",
+          "zh": "Locke FL, Miklos DB, Jacobson CA, Perales M-A, Kersten M-J, Oluwole OO, Ghobadi A, Rapoport AP, McGuirk J, Pagel JM, Muñoz J, Farooq U, van Meerten T, Reagan PM, Sureda A, Flinn IW, Vandenberghe P, Song KW, Dickinson M, Minnema MC, et al. Axicabtagene ciloleucel as second-line therapy for large B-cell lymphoma. N Engl J Med.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600113,
+          "page": 765,
+          "en": "2022;386:640–54.",
+          "zh": "2022;386:640–54.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600114,
+          "page": 765,
+          "en": "Mussetti A, Bento L, Bastos-Oreiro M, Rius-Sansalvador B, Albo C, Bailen R, Barba P, Benzaquén A, Briones J, Caballero AC, Campos A, Español I, Ferra C, López SG, González Sierra PA, Guerra LM, Hernani R, Iacoboni G, Jiménez-Ubieto A, Kwon M, et al. Role of allogeneic hematopoietic cell transplant for relapsed/ refractory aggressive B-cell lymphomas in the CART era. Bone Marrow Transplant. 2023;58:738.",
+          "zh": "Mussetti A, Bento L, Bastos-Oreiro M, Rius-Sansalvador B, Albo C, Bailen R, Barba P, Benzaquén A, Briones J, Caballero AC, Campos A, Español I, Ferra C, López SG, González Sierra PA, Guerra LM, Hernani R, Iacoboni G, Jiménez-Ubieto A, Kwon M, et al. Role of allogeneic hematopoietic cell transplant for relapsed/ refractory aggressive B-cell lymphomas in the CART era. Bone Marrow Transplant. 2023;58:738.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600115,
+          "page": 765,
+          "en": "Neelapu SS, Locke FL, Bartlett NL, Lekakis LJ, Miklos DB, Jacobson CA, Braunschweig I, Oluwole OO, Siddiqi T, Lin Y, Timmerman JM, Stiff PJ, Friedberg JW, Flinn IW, Goy A, Hill BT, Smith MR, Deol A, Farooq U, McSweeney P, et al. Axicabtagene ciloleucel CAR T-cell therapy in refractory large B-cell lymphoma. N Engl J Med. 2017;377:2531–44.",
+          "zh": "Neelapu SS, Locke FL, Bartlett NL, Lekakis LJ, Miklos DB, Jacobson CA, Braunschweig I, Oluwole OO, Siddiqi T, Lin Y, Timmerman JM, Stiff PJ, Friedberg JW, Flinn IW, Goy A, Hill BT, Smith MR, Deol A, Farooq U, McSweeney P, et al. Axicabtagene ciloleucel CAR T-cell therapy in refractory large B-cell lymphoma. N Engl J Med. 2017;377:2531–44.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600116,
+          "page": 765,
+          "en": "Oki Y, Noorani M, Lin P, Davis RE, Neelapu SS, Ma L, Ahmed M, Rodriguez MA, Hagemeister FB, Fowler N, Wang M, Fanale MA, Nastoupil L, Samaniego F, Lee HJ, Dabaja BS, Pinnix CC, Medeiros LJ, Nieto Y, Khouri I, et al. Double hit lymphoma: the MD Anderson Cancer Center clinical experience. Br J Haematol. 2014;166:891–901.",
+          "zh": "Oki Y, Noorani M, Lin P, Davis RE, Neelapu SS, Ma L, Ahmed M, Rodriguez MA, Hagemeister FB, Fowler N, Wang M, Fanale MA, Nastoupil L, Samaniego F, Lee HJ, Dabaja BS, Pinnix CC, Medeiros LJ, Nieto Y, Khouri I, et al. Double hit lymphoma: the MD Anderson Cancer Center clinical experience. Br J Haematol. 2014;166:891–901.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600117,
+          "page": 765,
+          "en": "Robinson SP, Boumendil A, Finel H, Dreger P, Sureda A, Hermine O, Montoto S. High-dose therapy with BEAC conditioning compared to BEAM conditioning prior to autologous stem cell transplantation for non-Hodgkin lymphoma: no differences in toxicity or outcome. A matched-control study of the EBMTlymphoma working party. Bone Marrow Transplant. 2018;53:1553–9.",
+          "zh": "Robinson SP, Boumendil A, Finel H, Dreger P, Sureda A, Hermine O, Montoto S. High-dose therapy with BEAC conditioning compared to BEAM conditioning prior to autologous stem cell transplantation for non-Hodgkin lymphoma: no differences in toxicity or outcome. A matched-control study of the EBMTlymphoma working party. Bone Marrow Transplant. 2018;53:1553–9.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600118,
+          "page": 765,
+          "en": "Schuster SJ, Bishop MR, Tam CS, Waller EK, Borchmann P, McGuirk JP, Jäger U, Jaglowski S, Andreadis C, Westin JR, Fleury I, Bachanova V, Foley SR, Ho PJ, Mielke S, Magenau JM, Holte H, Pantano S, Pacaud LB,Awasthi R, et al. Tisagenlecleucel in adult relapsed or refractory diffuse large B-cell lymphoma. N Engl J Med. 2019;380:45–56.",
+          "zh": "Schuster SJ, Bishop MR, Tam CS, Waller EK, Borchmann P, McGuirk JP, Jäger U, Jaglowski S, Andreadis C, Westin JR, Fleury I, Bachanova V, Foley SR, Ho PJ, Mielke S, Magenau JM, Holte H, Pantano S, Pacaud LB,Awasthi R, et al. Tisagenlecleucel in adult relapsed or refractory diffuse large B-cell lymphoma. N Engl J Med. 2019;380:45–56.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600119,
+          "page": 765,
+          "en": "Sehgal A, Hoda D, Riedell PA, Ghosh N, Hamadani M, Hildebrandt GC, Godwin JE, Reagan PM, Wagner- Johnston N, Essell J, Nath R, Solomon SR, Champion R,LicitraE,FanningS,GuptaN,DubowyR,D’Andrea A, Wang L, Ogasawara K, et al. Lisocabtagene maraleucel as second-line therapy in adults with relapsed or refractory large B-cell lymphoma who were not intended for haematopoietic stem cell transplantation (PILOT): an open-label, phase 2 study. Lancet Oncol.",
+          "zh": "Sehgal A, Hoda D, Riedell PA, Ghosh N, Hamadani M, Hildebrandt GC, Godwin JE, Reagan PM, Wagner- Johnston N, Essell J, Nath R, Solomon SR, Champion R,LicitraE,FanningS,GuptaN,DubowyR,D’Andrea A, Wang L, Ogasawara K, et al. Lisocabtagene maraleucel as second-line therapy in adults with relapsed or refractory large B-cell lymphoma who were not intended for haematopoietic stem cell transplantation (PILOT): an open-label, phase 2 study. Lancet Oncol.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600120,
+          "page": 765,
+          "en": "2022;23:1066–77.",
+          "zh": "2022;23:1066–77.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600121,
+          "page": 765,
+          "en": "Sehn LH, Berry B, Chhanabhai M, Fitzgerald C, Gill K, Hoskins P, Klasa R, Savage KJ, Shenkier T, Sutherland J, Gascoyne RD, Connors JM. The revised International Prognostic Index (R-IPI) is a better predictor of outcome than the standard IPI for patients with diffuse large B-cell lymphoma treated with R-CHOP. Blood. 2007;109:1857–61.",
+          "zh": "Sehn LH, Berry B, Chhanabhai M, Fitzgerald C, Gill K, Hoskins P, Klasa R, Savage KJ, Shenkier T, Sutherland J, Gascoyne RD, Connors JM. The revised International Prognostic Index (R-IPI) is a better predictor of outcome than the standard IPI for patients with diffuse large B-cell lymphoma treated with R-CHOP. Blood. 2007;109:1857–61.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600122,
+          "page": 765,
+          "en": "Smith A, Crouch S, Lax S, Li J, Painter D, Howell D, Patmore R, Jack A, Roman E. Lymphoma incidence, survival and prevalence 2004–2014: sub-type analyses from the UK’s Haematological Malignancy Research Network. Br J Cancer. 2015;112:1575–84.",
+          "zh": "Smith A, Crouch S, Lax S, Li J, Painter D, Howell D, Patmore R, Jack A, Roman E. Lymphoma incidence, survival and prevalence 2004–2014: sub-type analyses from the UK’s Haematological Malignancy Research Network. Br J Cancer. 2015;112:1575–84.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600123,
+          "page": 765,
+          "en": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, Basak GW, Chabannon C, de la Camara R, Dolstra H, Duarte RF, Glass B, Greco R, Lankester AC, Mohty M, Neven B, de Latour RP, Pedrazzoli P, Peric Z, Yakoub-Agha I, Sureda A, Kröger N, European Society for Blood and Marrow Transplantation (EBMT). Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant.",
+          "zh": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, Basak GW, Chabannon C, de la Camara R, Dolstra H, Duarte RF, Glass B, Greco R, Lankester AC, Mohty M, Neven B, de Latour RP, Pedrazzoli P, Peric Z, Yakoub-Agha I, Sureda A, Kröger N, European Society for Blood and Marrow Transplantation (EBMT). Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600124,
+          "page": 765,
+          "en": "2022;57:1217–39.",
+          "zh": "2022;57:1217–39.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600125,
+          "page": 765,
+          "en": "Thieblemont C, Phillips T, Ghesquieres H, Cheah CY, Clausen MR, Cunningham D, Do YR, Feldman T, Gasiorowski R, Jurczak W, Kim TM, Lewis DJ, van der Poel M, Poon ML, Cota Stirner M, Kilavuz N, Chiu C, Chen M, Sacchi M, Elliott B, et al. Epcoritamab, a novel, subcutaneous CD3xCD20 bispecific T-cellengaging antibody, in relapsed or refractory large B-cell lymphoma: dose expansion in a phase I/II trial.",
+          "zh": "Thieblemont C, Phillips T, Ghesquieres H, Cheah CY, Clausen MR, Cunningham D, Do YR, Feldman T, Gasiorowski R, Jurczak W, Kim TM, Lewis DJ, van der Poel M, Poon ML, Cota Stirner M, Kilavuz N, Chiu C, Chen M, Sacchi M, Elliott B, et al. Epcoritamab, a novel, subcutaneous CD3xCD20 bispecific T-cellengaging antibody, in relapsed or refractory large B-cell lymphoma: dose expansion in a phase I/II trial.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600126,
+          "page": 765,
+          "en": "J Clin Oncol. 2023;41:2238–47.",
+          "zh": "J Clin Oncol. 2023;41:2238–47.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600127,
+          "page": 765,
+          "en": "Tilly H, Morschhauser F, Sehn LH, Friedberg JW, Trněný M, Sharman JP, Herbaux C, Burke JM, Matasar M, Rai S, Izutsu K, Mehta-Shah N, Oberic L, Chauchet A, Jurczak W, Song Y, Greil R, Mykhalska L, Bergua- Burgués JM, Cheung MC, et al. Polatuzumab vedotin in previously untreated diffuse large B-cell lymphoma.",
+          "zh": "Tilly H, Morschhauser F, Sehn LH, Friedberg JW, Trněný M, Sharman JP, Herbaux C, Burke JM, Matasar M, Rai S, Izutsu K, Mehta-Shah N, Oberic L, Chauchet A, Jurczak W, Song Y, Greil R, Mykhalska L, Bergua- Burgués JM, Cheung MC, et al. Polatuzumab vedotin in previously untreated diffuse large B-cell lymphoma.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600128,
+          "page": 765,
+          "en": "N Engl J Med. 2022;386:351–63.",
+          "zh": "N Engl J Med. 2022;386:351–63.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600129,
+          "page": 765,
+          "en": "Zhou Z, Sehn LH, Rademaker AW, Gordon LI, Lacasce AS, Crosby-Thompson A, Vanderplas A, Zelenetz AD, Abel GA, Rodriguez MA, Nademanee A, Kaminski MS, Czuczman MS, Millenson M, Niland J, Gascoyne RD, Connors JM, Friedberg JW, Winter JN. An enhanced international prognostic index (NCCN- IPI) for patients with diffuse large B-cell lymphoma treated in the rituximab era. Blood. 2014;123:837–42.",
+          "zh": "Zhou Z, Sehn LH, Rademaker AW, Gordon LI, Lacasce AS, Crosby-Thompson A, Vanderplas A, Zelenetz AD, Abel GA, Rodriguez MA, Nademanee A, Kaminski MS, Czuczman MS, Millenson M, Niland J, Gascoyne RD, Connors JM, Friedberg JW, Winter JN. An enhanced international prognostic index (NCCN- IPI) for patients with diffuse large B-cell lymphoma treated in the rituximab era. Blood. 2014;123:837–42.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600130,
+          "page": 765,
+          "en": "Ziepert M, Hasenclever D, Kuhnt E, Glass B, Schmitz N, Pfreundschuh M, Loeffler M. Standard international prognostic index remains a valid predictor of outcome for patients with aggressive CD20+ B-cell lymphoma in the rituximab era. J Clin Oncol. 2010;28:2373–80.",
+          "zh": "Ziepert M, Hasenclever D, Kuhnt E, Glass B, Schmitz N, Pfreundschuh M, Loeffler M. Standard international prognostic index remains a valid predictor of outcome for patients with aggressive CD20+ B-cell lymphoma in the rituximab era. J Clin Oncol. 2010;28:2373–80.",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 766,
+      "blocks": [
+        {
+          "id": 8600131,
+          "page": 766,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+          "zh": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8600132,
+          "page": 766,
+          "en": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

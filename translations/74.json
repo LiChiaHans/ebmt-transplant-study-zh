@@ -1,0 +1,251 @@
+{
+  "id": 74,
+  "title": "Myelodysplastic Neoplasms/Syndromes (MDS)",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "paragraphs": 20,
+  "pages": [
+    {
+      "page": 660,
+      "blocks": [
+        {
+          "id": 7400001,
+          "page": 660,
+          "en": "Myelodysplastic Neoplasms/ Syndromes (MDS) 74 Marie Robin and Carmelo Gurnari",
+          "zh": "74 骨髓增生不良腫瘤／症候群（MDS）\nMarie Robin、Carmelo Gurnari",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024）。繁體中文為 AI 直接逐段翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_74"
+            }
+          ]
+        },
+        {
+          "id": 7400002,
+          "page": 660,
+          "en": "74.1 Introduction Myelodysplastic syndromes (MDS) are a heterogeneous group of clonal stem cell disorders characterized by peripheral cytopenias and dysplastic features in blood and bone marrow. The natural history of these diseases varies from an indolent course, over a number of years, to a more rapid transition into secondary acute myeloid leukemia (AML). MDS is mainly diagnosed in elderly patients, with an annual incidence of 4.9/100,000 person/year, increasing up to 20–50 cases after the age of 60. In 2022, two classifications for MDS/AML have been published, an update of the WHO classification and the International Consensus Classification (ICC) (Khoury et al. 2022; Arber et al. 2022). As compared to the previous WHO 2016 classification, these 2 news proposal for MDS classification include genetic classification and do not consider marrow blast percentage as the single criteria to define MDS or AML. Both classifications recognize SF3B1  mutated MDS and TP53 biallelic mutated MDS as specific entities. Notably, several cases of MDS will now be defined as MDS/AML when they will show 10–19% BM blasts, recognizing the diagnostic continuum between these two nosologic entities. Due to the variable course the disease may take, a number of different risk-scoring systems have been developed. The initial one is the International Prognostic Scoring System (IPSS) (P. Greenberg et al. 1997) revised in 2012 to account also for the degree of cytopenias (P. L. Greenberg et al. 2012) (Table 74.1). The importance of transfusion dependency is included in a WHO classification-based prognostic scoring system (WPSS) (Della Porta et al. 2015). The role of somatic mutations has been explored recently, highlighting their prognostic impact, now taken into account in the most recent classifications. For instance, SF3B1 mutations are commonly associated with refractory anemia with ringed sideroblasts and expected survival of >10 years. Poor prognostic genomic alterations, such as TP53 mutations, occur mainly in patients with HR-MDS (especially those causing biallelic inactivation) and confer a higher risk of transition to AML (Bernard Elsa et al. 2022). The urge to incorporate such molecular information into MDS prognostication led to the development of the molecular IPSS (IPSS-M), currently being validated in different variety of MDS settings (Bernard Elsa et al. 2022; Sauta et al. 2023;",
+          "zh": "74.1 前言\nMDS 是一群異質性克隆性幹細胞疾病，特徵為周邊血球減少以及血液、骨髓發育不良。自然病程可多年緩慢，也可迅速轉為次發 AML。MDS 主要診斷於高齡者，年發生率每 10 萬人 4.9 例，60 歲後增至 20–50 例。2022 年 WHO 更新版與 ICC 兩套 MDS／AML 分類納入遺傳分類，不再只以骨髓芽細胞比例區分 MDS 或 AML；兩者均將 SF3B1 突變 MDS 與 TP53 雙等位突變 MDS 列為特定實體。骨髓芽細胞 10–19% 的一些病例現定義為 MDS／AML，承認兩者的診斷連續性。\n疾病走向不一，因此發展多種風險評分。最初的 IPSS 於 2012 年修訂為 IPSS-R，納入血球減少程度（表 74.1）；WPSS 亦納入輸血依賴。體細胞突變的預後影響已納入最新分類：SF3B1 常與環狀鐵芽球難治性貧血及預期存活 >10 年相關；TP53 突變，尤其雙等位失活，多見於 HR-MDS，增加轉為 AML 的風險。為納入分子資訊，發展了 IPSS-M，正於各種 MDS 情境驗證。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400003,
+          "page": 660,
+          "en": "M. Robin (*) Department of Hematology—Transplantation, Hôpital Saint-Louis, Assistance Publique Hôpitaux de Paris, Université de Paris Cité, Paris, France e-mail: marie.robin@sls.aphp.fr C. Gurnari Department of Biomedicine and Prevention, University of Rome Tor Vergata, Rome, Italy Department of Translational Hematology and Oncology Research, Taussig Cancer Institute, Cleveland Clinic, Cleveland, OH, USA  © The Author(s) 2024 A. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_74",
+          "zh": "作者單位：Marie Robin，Hôpital Saint-Louis／Université de Paris Cité 血液移植科（marie.robin@sls.aphp.fr）；Carmelo Gurnari，University of Rome Tor Vergata、Cleveland Clinic。© 作者 2024；收錄於《The EBMT Handbook》。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 661,
+      "blocks": [
+        {
+          "id": 7400004,
+          "page": 661,
+          "en": "Table 74.1 “Revised IPSS” Points Marrow blast Cytogenetica Cytopeniab Risk Number of points Median OS (years) Median time to 25% AML transformation in years 0 <3 Very good No 0.5 1 3–4 Good 1.5 Severe anemia Very low Low Intermediate High 2–3 4–4.5 5–6 ≤ 1.5 8.8 5.3 3 1.6 10.8 3.2 1.4 2 3 4 5–10 >10 Intermediate Poor Very poor Mild Moderate Very high >6 0.8 0.73 Cytogenetics: very good, -Y, del(11q); good, normal, del(5q), del(12p), del(20q), double including del(5q); intermediate, del(7q), −8, −19, i(17q), any other single or double independent clones; poor, −7, inv.(3)/t(3q)/del(3q), double including −7/del(7q), complex, 3 abnormalities; very poor, complex, >3 abnormalities b Cytopenia, mild cytopenia, platelet count <100 × 109/L or neutrophil count <0.8 × 109/L; moderate cytopenia, hemoglobin <10 g/dL but >8 g/dL, platelet count <50 × 109/L; severe anemia, hemoglobin <8 g/dL a",
+          "zh": "表 74.1 修訂版 IPSS（IPSS-R）\n骨髓芽細胞：<3% 為 0 分；3–4% 為 1 分；5–10% 為 2 分；>10% 為 3 分。\n細胞遺傳：very good 0 分；good 1 分；intermediate 2 分；poor 3 分；very poor 4 分。Very good：−Y、del(11q)；good：正常、del(5q)、del(12p)、del(20q)、含 del(5q) 的雙重異常；intermediate：del(7q)、+8、+19、i(17q)、其他單一或雙重獨立 clone；poor：−7、inv(3)／t(3q)／del(3q)、含 −7／del(7q) 的雙重異常、3 項複雜異常；very poor：>3 項複雜異常。\n血球減少：無 0 分；輕度 0.5 分〔血小板 <100×10⁹/L 或嗜中性球 <0.8×10⁹/L〕；中度 1 分〔Hb <10 但 >8 g/dL、血小板 <50×10⁹/L〕；重度貧血 1.5 分〔Hb <8 g/dL〕。\n風險／總分／中位 OS／25% 轉 AML 中位時間：very low ≤1.5 分，8.8 年／未列；low 2–3 分，5.3 年／10.8 年；intermediate 4–4.5 分，3 年／3.2 年；high 5–6 分，1.6 年／1.4 年；very high >6 分，0.8 年／0.73 年。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400005,
+          "page": 661,
+          "en": "Kewan et al. 2023). The IPSS-M can be calculated using https://mds-risk-model.com. In the setting of allo-HCT, both somatic mutations and cytogenetic characteristics conserve their prognostic impacts after transplantation, and this aspect will be discussed further hereafter. In the 3 prospective trails based on donor availibility (Robin et al. 2015; Kröger et al. 2021; Nakamura et al. 2021) higher risk patient benefit more from allogeneic stem cell transplantation than from conventional therapy. Higher risk categories are patients (HR-MDS) classified intermediate-2 or high according to the classical IPSS, as compared to intermediate-1 and low risk patients (LR-MDS). Survivals of these higher risk patients may correspond to high and very high risk with the IPSS-M, but this needs to be confirmed. Especially LR-MDS are very heterogeneous with expected median survival between 3 and 10 years. As a result, intensive treatment strategies are predominantly applied in patients with HR-MDS, whereas LR-MDS tend to be treated conservatively (Robin et al. 2015; Kröger et al. 2021; Nakamura et al. 2021). Allo-HCT is increasingly performed in MDS. Data from the EBMT registry show that 2591 MDS patients were transplanted in 2019, increasing from 946 patients in 2006. This has been the consequence of an expanded access to HCT also in older patients (>60 years), represent- ing 52% of all transplants in 2019 vs. 24% in 2006, as well as the recourse to more MURD (43% vs. 34%, respectively). The use of HLA mismatched related donor, mainly haplo-identical donor, has indeed grown from 4.5% in 2006 to 20.5% in 2019.",
+          "zh": "IPSS-M 可於 https://mds-risk-model.com 計算。Allo-HCT 後，體細胞突變與細胞遺傳特徵仍保有預後影響。三項依供者可用性設計的前瞻試驗顯示，較高風險患者由 allo-HCT 獲益多於傳統治療；HR-MDS 指傳統 IPSS 中高／高風險，相對於中低／低風險（LR-MDS）。其存活可能對應 IPSS-M 高／極高風險，仍需確認。LR-MDS 異質性大，預期中位存活 3–10 年，因此 HR-MDS 多採密集治療，LR-MDS 多保守處理。\nMDS 的 allo-HCT 使用增加：EBMT 登錄由 2006 年 946 人增至 2019 年 2591 人；>60 歲患者占比由 24% 增至 52%，MURD 由 34% 增至 43%，HLA 不相合親屬（主要半相合）由 4.5% 增至 20.5%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400006,
+          "page": 661,
+          "en": "74.2 Indication of HCT in MDS and Timing to Transplant HCT is an established procedure for MDS leading to potential long-term survival. The indications for HCT may change following the introduction of new treatment strategies, and the HCT approach itself has consistently evolved over time. NRM should always be balanced against the benefits associated with HCT. Prospective trials based on donor availability showed a gain in life expectancy in HR-MDS patients who have a donor (Robin et al. 2015; Kröger et al. 2021; Nakamura et al. 2021). Retrospective studies showed that LR-MDS patients do not benefit from upfront HCT (Cutler et al. 2004; Koreth et al. 2013). International expert panel has confirmed the indication of HCT in HR-MDS and in LR-MDS when they have or acquire specific poor prognostic features, including genetic alterations, failure to respond to usual treatment, life-threat-",
+          "zh": "74.2 MDS 的 HCT 適應症與移植時機\nHCT 可使 MDS 長期存活；新療法與移植技術演進可能改變適應症，必須平衡 NRM 與效益。依供者可用性的前瞻試驗顯示，有供者的 HR-MDS 可增加預期壽命；回溯研究顯示 LR-MDS 不受益於一開始即移植。國際專家確認 HR-MDS 適合 HCT；LR-MDS 若存在或新出現不良遺傳變化、一般治療無反應、危及生命的血球減少或高輸血負擔，也適合 HCT。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 662,
+      "blocks": [
+        {
+          "id": 7400007,
+          "page": 662,
+          "en": "ening cytopenias, and high transfusion burden (de Witte et al. 2017; DeFilipp et al. 2023). Figures 74.1 and 74.2 summarize transplant indications in MDS patients. Currently, efforts to incorporate molecular scores to guide decision for HCT are under investigations, including the use of the new IPSS-M emphasizing that not only disease-specific but also transplant-related characteristic must be considered in the prognosis of MDS patients undergoing HCT(Sauta et al. 2023; Gurnari et al. 2023). Fig. 74.1 Therapeutic flow chart for adult MDS patients with (very) low-risk or intermediate-risk IPSS-R scores @ indicates nonfit (patients with multiple comorbidities and/ or poor performance) or fit (patients with no comorbidities and good performance status). * indicates nontransplant strategies according to most recent versions published by international MDS expert groups, including ELN and NCCN. & indicates failure of nontransplant strategies. ** indicates poor-risk features (defined as poor-risk cytogenetic characteristics, persistent blast increase [>50% or with >15% BM blasts], life-threatening cytopenias, high transfusion burden >2 units per months for 6 months; molecular testing should be considered, in case of absence of poor-risk cytogenetic characteristics or persistent blast increase). # indicates transplant strategies (all forms of HCT, for details of the donor selection, type of conditioning, and post-transplant strategies, see text; no upper age limit if patients are fit, without serious comorbidity, and with good Karnofsky status) Figure labels: (Very) Low Risk / Intermediate Risk IPSS-R; Poor performance / Nonfit; Nontransplant strategies; Failure; Good performance / Fit; No poor risk features; Nontransplant strategies; Transplant strategies; Poor risk features; Available donor; Transplant strategies.",
+          "zh": "74.2（續）\n圖 74.1、74.2 彙整 MDS 移植適應症。正研究以分子評分引導 HCT，包括 IPSS-M；評估移植者預後時，必須同時考量疾病與移植相關特徵。\n圖 74.1 成人 IPSS-R（極）低或中風險 MDS 治療流程：起點為「（極）低／中風險 IPSS-R」。體能差／不適合移植者 → 非移植策略。體能佳者：無不良風險特徵 → 非移植策略；若失敗 → 移植策略。具有不良風險特徵且有供者 → 移植策略。\n@：不適合指多重共病及／或體能差；適合指無共病且體能佳。*：依 ELN、NCCN 等最新版的非移植策略。&：非移植策略失敗。**：不良風險包括不良細胞遺傳、芽細胞持續增加〔>50% 或骨髓芽細胞 >15%〕、危及生命的血球減少、連續 6 個月每月輸血 >2 單位；若無不良細胞遺傳或持續芽細胞增加，應考慮分子檢測。#：各型 HCT；患者適合、無嚴重共病且 Karnofsky 良好時無絕對年齡上限。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 663,
+      "blocks": [
+        {
+          "id": 7400008,
+          "page": 663,
+          "en": "Fig. 74.2 Therapeutic flow chart for adult MDS patients with poor IPSS-R scores. @ indicates nonfit (patients with multiple comorbidities and/or poor performance) or fit (patients with no comorbidities and good performance status). * indicates nontransplant strategies according to most recent versions published by international MDS expert groups, including ELN and NCCN. & indicates failure of nontransplant strategies. ** indicates poor-risk features (defined as poor-risk cytogenetic characteristics, persistent blast increase [>50% or with >15% BM blasts], life-threatening cytopenias, high transfusion burden >2 units per months for 6 months; molecular testing should be considered, in case of absence of poor-risk cytogenetic characteristics or persistent blast increase). # indicates transplant strategies (all forms of HCT, for details of the donor selection, type of conditioning, and post transplant strategies, see text; no upper age limit if patients are fit, without serious comorbidity,and with good Karnofsky status) Figure labels: (Very) Poor Risk IPSS-R; Poor performance / Nonfit; Nontransplant strategies; Fit / Good performance; No suitable donor; Nontransplant strategies; Available donor; <10% marrow blasts; Transplant strategies; ≥10% marrow blasts; Cytoreductive therapy; Transplant strategies.",
+          "zh": "圖 74.2 成人 IPSS-R 不良風險 MDS 治療流程：起點為「（極）高風險 IPSS-R」。體能差／不適合移植者 → 非移植策略。體能佳者：無合適供者 → 非移植策略；有供者且骨髓芽細胞 <10% → 移植策略；骨髓芽細胞 ≥10% → 先細胞減量治療，再採移植策略。圖註的 @、*、&、**、# 定義同圖 74.1。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400009,
+          "page": 663,
+          "en": "74.3 Treatment Prior to HCT apy may prevent transformation into AML in cases whereby the transplantation cannot be performed in a timely fashion. International guidelines generally recommend with a low level of evidence that patients with more than 10% marrow blast should receive cytoreductive treatment (de Witte et al. 2017; DeFilipp et al. 2023). Refractoriness to pregraft treatment Pregraft therapy is still a matter of debate. Upfront transplantation, hypomethylating agents alone or in combination, or chemotherapy may be all viable options in HR-MDS, although more studies are needed to determine the precise allocation of these therapy. The use of pregraft ther-",
+          "zh": "74.3 HCT 前治療\n移植前治療仍有爭議。HR-MDS 可選立即移植、低甲基化藥單用／合併，或化療；仍需研究精確分配。移植無法及時進行時，移植前治療可防止轉為 AML。國際指引以低等級證據建議骨髓芽細胞 >10% 者先接受細胞減量；對移植前治療難治通常與較差結果相關。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 664,
+      "blocks": [
+        {
+          "id": 7400010,
+          "page": 664,
+          "en": "is generally associated with poor outcomes (Potter et al. 2016). As shown by the BMT-AZA prospective study, azacitidine bridge in HR-MDS is feasibile before HCT (Voso et al. 2017).",
+          "zh": "BMT-AZA 前瞻研究顯示，HR-MDS 移植前以 azacitidine 橋接可行。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400011,
+          "page": 664,
+          "en": "74.4 Preparative Regimen The use of RIC regimens for HCT has raised considerable interest. Multiple centers have developed novel RIC regimens that have reduced NRM and morbidity and subsequently expanded the curative potential of HCT to older individuals who have historically not been considered to be HCT candidates. An EBMT prospective study including 120 patients and comparing the use of RIC (FLU/BU) and MAC (CY/BU) in patients with MDS or secondary AML (Kröger et al. 2017) failed to show any impact of the regimen intensity with regards to OS and RFS. The BMTCTN performed a prospective study on 272 patients with MDS or AML who were randomized between RIC and MAC. In the MDS subgroup, there was no difference in OS, despite a higher relapse rate after RIC (Scott et al. 2017). Recently, the CIBMTR performed a registry analysis based on a Disease Risk Index (DRI) in 4387 adults with MDS and AML (aged 40–65 years). While in low/intermediate DRI cases, RIC associated with lower DFS rates (HR, 1.19; P = 0.001), in high/very high DRI, DFS was similar regardless of conditioning intensity (Bejanyan et al. 2021). A phase 3 trial comparing RIC and sequential regimen has also reported similar outcomes in both arms (Craddock et al. 2021). Nowadays, the conditioning regimen is still based on the fitness of the patients, using MAC only in eligible, fit and generally younger patients.",
+          "zh": "74.4 前處理方案\nRIC 降低 NRM 與罹病，使高齡者也可能由 HCT 根治。EBMT 前瞻研究納入 120 名 MDS 或次發 AML，比較 RIC（FLU／BU）與 MAC（CY／BU），OS、RFS 不受強度影響。BMT-CTN 對 272 名 MDS／AML 隨機比較；MDS 亞群雖 RIC 復發較多，OS 無差異。CIBMTR 對 4387 名 40–65 歲 MDS／AML 依 DRI 分析：低／中 DRI 的 RIC DFS 較差（HR 1.19；P=0.001）；高／極高 DRI 則不同強度 DFS 相近。III 期 RIC 與 sequential regimen 亦結果相近。現仍依體能選擇前處理，MAC 限適合、體能佳且通常較年輕者。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400012,
+          "page": 664,
+          "en": "74.5 Post-HCT Outcomes As aforementioned, post-HCT outcomes depend both on disease- and transplant-specific risk factors. Poor and very poor risk cytogenetics, includ- ing monosomal karyotypes, and HR-MDS are associated with poorer outcomes. Age and hematopoietic cell transplant-comorbidity index (HCT-CI) are patient-specific risk factors. An EBMT study defined a transplant-specific risk score including age, donor type, performance status, cytogenetic category, recipient’s cytomegalovirus status, percentage of blasts, and platelet count, which outperformed previous scoring systems specifically predicting post-HCT outcomes (Gagelmann et al. 2019). Somatic mutations, i.e., biallelic TP53 inactivation, ASXL1, RUNX1, and RAS pathways mutations, have also been reported to be prognostic independent players (Lindsley et al. 2017; Sauta et al. 2023).",
+          "zh": "74.5 HCT 後結果\n結果同時取決於疾病與移植風險。Poor／very poor 細胞遺傳（含 monosomal karyotype）及 HR-MDS 結果較差。患者風險包括年齡與 HCT-CI。EBMT 移植特異評分納入年齡、供者、體能、細胞遺傳類別、受者 CMV、芽細胞比例與血小板，預測移植後結果優於先前評分。TP53 雙等位失活、ASXL1、RUNX1、RAS 路徑突變也是獨立預後因子。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400013,
+          "page": 664,
+          "en": "74.6 Alternative Donors and Donor Choice While MUD and HLA-matched sibling donor are both suitable options in MDS patients (de Witte et al. 2017), as well as in other diseases, the recourse to haplo-identical donor have progressively increased. Conversely, unrelated cord blood units are less used, due to the limited number of cells and the slow hematological and immunological recovery. In recent analyses of the EBMT registry, transplantation from an haplo-identical donor showed promising results, albeit without reaching the outcomes of HLAmatched unrelated or related donors, due to an excess risk of NRM (Raj et al. 2022; Robin et al. 2017, 2019). A specific issue is the impact of donor age on post-transplant outcomes, suggesting the use of younger donors (Kröger et al. 2013; Murthy et al. 2022). This is particularly relevant in MDS, where both recipients and related donors are typically old.",
+          "zh": "74.6 替代供者與供者選擇\nMUD 與 HLA 相合手足均適合；半相合使用日增。非親屬臍帶血因細胞數有限、血液與免疫恢復慢而較少使用。EBMT 分析中半相合結果令人鼓舞，但 NRM 較高，仍未達 HLA 相合非親屬／親屬的結果。供者年齡會影響結果，傾向選較年輕者；MDS 受者及親屬供者通常都年長，尤其重要。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400014,
+          "page": 664,
+          "en": "74.7 Post-HCT Treatment MDS patients with relapse after HCT become often refractory to treatment, or are not fit enough to be treated. The main risk factors for treatment response are time from transplantation",
+          "zh": "74.7 HCT 後治療\nMDS 在 HCT 後復發常對治療難治或體能不足。治療反應主要取決於移植至復發時間及骨髓芽細胞比例；僅分子復發者預後較佳。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 665,
+      "blocks": [
+        {
+          "id": 7400015,
+          "page": 665,
+          "en": "to relapse and percentage of marrow blast with better prognosis in patients who have only a molecular relapse. An EBMT study involving 181 MDS patients treated with AZA for postHCT relapse confirmed that lower blast counts upon relapse and a time gap of >6 months after HCT were both good prognostic factors (Craddock et al. 2016). In this study, the addition of DLI did not modify outcomes. Another EBMT study exploring the use of cellular therapy after relapse (DLI or second transplant) showed that a second allo-HCT performed in CR may rescue some patients, especially those with no prior history of GVHD, and for whom a new donor is available (Schmid et al. 2018). In a French SFGM-TC study of 147 MDS patients relapsing after transplant (Guièze et al. 2016), only those receiving DLI or second HCT were able to achieve long-term survival (32% versus 6% for chemotherapy alone). Besides DLI, other strategies involve preventive or preemptive treatment after transplantation to avoid morphological relapse (maintenance). These strategies based on the underlying risk or monitoring of minimal residual disease may help in patients who present a high risk of posttransplant relapse, namely cases with biallelic TP53 inactivation or complex cytogenetics (DeFilipp et al. 2023). Although relapse remains the most common cause of transplant failure, particularly in patients with high-risk features, the preemptive use of AZA or DLI may be effective in improving historically poor outcomes. Preventive posttransplant treatment testing and HMA early after transplantation have also been reported in small prospective studies and a recent systematic review and metanalysis showed a better survival outcomes in patients receveing preventively HMA after HCT (Kungwankiattichai et al. 2022). However, the phase 3 trial randomizing 5-azacytidine to observation has not concluded to a benefit for the interventional arm (Oran et al. 2020). Trials using novel oral azacitidine formulations and targeted agents (venetoclax, enasidenib, and eprenetapopt) alone or in combinations are expected.",
+          "zh": "EBMT 181 名移植後復發 MDS 接受 AZA 的研究顯示，復發時芽細胞較低、HCT 後 >6 個月才復發是良好因子；加 DLI 未改變結果。另一研究顯示，CR 時第二次 allo-HCT 可救援部分患者，尤其無既往 GVHD 且有新供者者。法國 147 人研究中，只有 DLI 或第二次 HCT 可帶來長期存活（32%，單用化療 6%）。\n其他策略是在形態復發前，依基礎風險或 MRD 監測給預防性／搶先維持治療，可能幫助 TP53 雙等位失活、複雜細胞遺傳等高復發風險者。AZA 或 DLI 搶先使用可能改善歷史上的差結果；小型前瞻研究與統合分析顯示移植後早期預防性 HMA 存活較佳，但 III 期 5-azacytidine 對觀察未證實效益。正期待口服 azacitidine 新劑型及 venetoclax、enasidenib、eprenetapopt 等標靶藥單用或合併試驗。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400016,
+          "page": 665,
+          "en": "Key Points • Allo-HCT is the treatment of choice for all patients with HR-MDS who are fit enough to be considered for transplantation. • In HR-MDS, delayed HCT is associated with reduced chances of prolonged relapse-free survival. Conversely, patients with LR-MDS may benefit from deferred HCT upon disease progression. • Allo-HCT outcomes have improved progressively in recent years, mainly due to a gradual reduction in non-relapse mortality. Reducedintensity conditioning (RIC) regimens have extended the use of allo-HCT to older patients, including those entering their eighth decade. • The use of alternative donors has broadened the chance to recourse to HCT in MDS with satisfying long-term outcomes. • A number of questions remain to be solved by prospective studies, such as the role of molecular markers in the HCT decision algorithm and the posttransplant maintenance strategies, in line of the availability of new targeted treatments.",
+          "zh": "重點整理\n• 體能允許的 HR-MDS，allo-HCT 是首選。\n• HR-MDS 延遲 HCT 會降低長期 RFS；LR-MDS 可等疾病進展再移植。\n• Allo-HCT 結果近年逐步改善，主因 NRM 降低；RIC 使高齡、甚至 70 多歲患者也能接受。\n• 替代供者擴大 MDS 接受 HCT 的機會，且長期結果令人滿意。\n• 仍需前瞻研究釐清分子標記在 HCT 決策中的角色，以及新標靶治療時代的移植後維持策略。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7400017,
+          "page": 665,
+          "en": "References Arber DA, Orazi A, Hasserjian RP, Borowitz MJ, Calvo KR, Kvasnicka H-M, Wang SA, et al. International consensus classification of myeloid neoplasms and acute Leukemias: integrating morphologic, clinical, and genomic data. Blood. 2022;140(11):1200–28. https://doi.org/10.1182/blood.2022015850. Bejanyan N, Zhang M, Bo-Subait K, Brunstein C, Wang H, Warlick ED, Giralt S, et al. Myeloablative conditioning for allogeneic transplantation results in superior disease-free survival for acute myelogenous leukemia and myelodysplastic syndromes with low/ intermediate but not high disease risk index: a center for international blood and marrow transplant research study. Transplant Cell Ther. 2021;27(1):68.e1–9. https://doi.org/10.1016/j.bbmt.2020.09.026.",
+          "zh": "參考文獻\n本頁英文書目保留原文，從 Arber、Bejanyan 等研究開始。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+74+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 666,
+      "blocks": [
+        {
+          "id": 7400018,
+          "page": 666,
+          "en": "Craddock C, Labopin M, Robin M, Finke J, Chevallier P, Yakoub-Agha I, Bourhis JH, et al. Clinical activity of Azacitidine in patients who relapse after allogeneic stem cell transplantation for acute myeloid leukemia. Haematologica. 2016;101(7):879–83. https://doi. org/10.3324/haematol.2015.140996. Craddock C, Jackson A, Loke J, Siddique S, Hodgkinson A, Mason J, Andrew G, et al. Augmented reducedintensity regimen does not improve postallogeneic transplant outcomes in acute Myeloid Leukemia. J Clin Oncol. 2021;39(7):768–78. https://doi.org/10.1200/ JCO.20.02308. Cutler CS, Lee SJ, Greenberg P, Deeg HJ, Perez WS, Anasetti C, Bolwell BJ, et al. A decision analysis of allogeneic bone marrow transplantation for the myelodysplastic syndromes: delayed transplantation for low-risk myelodysplasia is associated with improved outcome. Blood. 2004;104(2):579–85. de Witte T, Bowen D, Robin M, Malcovati L, Niederwieser D, Yakoub-Agha I, Mufti GJ, et al. Allogeneic hematopoietic stem cell transplantation for MDS and CMML: recommendations from an international expert panel. Blood. 2017;129(13):1753–62. https:// doi.org/10.1182/blood-2016-06-724500. DeFilipp Z, Ciurea SO, Cutler C, Robin M, Warlick ED, Nakamura R, Brunner AM, et al. Hematopoietic cell transplantation in the Management of Myelodysplastic Syndrome: an evidence-based review from the American Society for Transplantation and Cellular Therapy Committee on practice guidelines. Transplant Cell Ther. 2023;29(2):71–81. https://doi. org/10.1016/j.jtct.2022.11.014. Della Porta MG, Tuechler H, Malcovati L, Schanz J, Sanz G, Garcia-Manero G, Solé F, et al. Validation of WHO classification-based prognostic scoring system (WPSS) for myelodysplastic syndromes and comparison with the revised international prognostic scoring system (IPSS-R). A study of the international working Group for Prognosis in myelodysplasia (IWG-PM). Leukemia. 2015;29(7):1502–13. https:// doi.org/10.1038/leu.2015.55. Elsa B, Heinz T, Greenberg PL, Hasserjian RP, Arango Ossa Juan E, Yasuhito N, Devlin SM, et al. Molecular international prognostic scoring system for myelodysplastic syndromes. NEJM Evidence. 2022;1(7):EVIDoa2200008. https://doi.org/10.1056/ EVIDoa2200008. Gagelmann N, Eikema D-J, Stelljes M, Beelen D, de Wreede L, Mufti G, Knelange NS, et al. Optimized EBMT transplant-specific risk score in myelodysplastic syndromes after allogeneic stem-cell transplantation. Haematologica. 2019;104(5):929–36. https://doi. org/10.3324/haematol.2018.200808. Greenberg P, Cox C, LeBeau MM, Fenaux P, Morel P, Sanz G, Sanz M, et al. International scoring system for evaluating prognosis in myelodysplastic syndromes. Blood. 1997;89(6):2079–88. Greenberg PL, Tuechler H, Schanz J, Sanz G, Garcia- Manero G, Sole F, Bennett JM, et al. Revised interna- tional prognostic scoring system for myelodysplastic syndromes. Blood. 2012;120(12):2454–65. Guièze R, Damaj G, Pereira B, Robin M, Chevallier P, Michallet M, Vigouroux S, et al. Management of Myelodysplastic Syndrome Relapsing after allogeneic hematopoietic stem cell transplantation: a study by the French Society of Bone Marrow Transplantation and Cell Therapies. Biol Blood Marrow Transplant. 2016;22(2):240– 7. https://doi.org/10.1016/j.bbmt.2015.07.037. Gurnari C, Gagelmann N, Badbaran A, Awada H, Dima D, Pagliuca S, D’Aveni-Piney M, et al. Outcome prediction in myelodysplastic neoplasm undergoing hematopoietic cell transplant in the molecular era of IPSS-M. Leukemia. 2023;37(3):717–9. https://doi. org/10.1038/s41375-023-01820-4. Kewan T, Bahaj W, Durmaz A, Aly M, Ogbue OD, Carraway HE, Sekeres MA, Visconte V, Gurnari C, Maciejewski JP. Validation of the molecular international prognostic scoring system in patients with myelodysplastic syndromes. Blood. 2023;141(14):1768–72. https://doi.org/10.1182/blood.2022018896. Khoury JD, Solary E, Abla O, Akkari Y, Alaggio R, Apperley JF, Bejar R, et al. The 5th edition of the World Health Organization classification of Haematolymphoid Tumours: myeloid and histiocytic/ dendritic neoplasms. Leukemia. 2022;36(7):1703–19. https://doi.org/10.1038/s41375-022-01613-1. Koreth J, Pidala J, Perez WS, Deeg HJ, Garcia-Manero G, Malcovati L, Cazzola M, et al. Role of reducedintensity conditioning allogeneic hematopoietic stem-cell transplantation in older patients with de novo myelodysplastic syndromes: an international collaborative decision analysis. J Clin Oncol. 2013;31(21):2662–70. Kröger N, Zabelina T, de Wreede L, Berger J, Alchalby H, van Biezen A, Milpied N, et al. Allogeneic stem cell transplantation for older advanced MDS patients: improved survival with young unrelated donor in comparison with HLA-identical siblings. Leukemia. 2013;27(3):604–9. https://doi.org/10.1038/ leu.2012.210. Kröger N, Iacobelli S, Franke G-N, Platzbecker U, Uddin R, Hübel K, Scheid C, et al. Dose-reduced versus standard conditioning followed by allogeneic stemcell transplantation for patients with myelodysplastic syndrome: a prospective randomized phase III study of the EBMT (RICMAC trial). J Clin Oncol Off J Am Soc Clin Oncol. 2017;35(19):2157–64. https://doi. org/10.1200/JCO.2016.70.7349. Kröger N, Sockel K, Wolschke C, Bethge W, Schlenk RF, Wolf D, Stadler M, et al. Comparison between 5- azacytidine treatment and allogeneic stem-cell transplantation in elderly patients with advanced mds according to donor availability (VidazaAllo Study). J Clin Oncol. 2021;39(30):3318–27. https://doi. org/10.1200/JCO.20.02724. Kungwankiattichai S, Ponvilawan B, Roy C, Tunsing P, Kuchenbauer F, Owattanapanich W. Maintenance with Hypomethylating agents after allogeneic stem",
+          "zh": "參考文獻（續）\n本頁完整英文書目保留原文，可使用 Google／Scholar 查詢。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+74+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 667,
+      "blocks": [
+        {
+          "id": 7400019,
+          "page": 667,
+          "en": "cell transplantation in acute myeloid leukemia and myelodysplastic syndrome: a systematic review and meta-analysis. Front Med. 2022;9:801632. https://doi. org/10.3389/fmed.2022.801632. Lindsley RC, Saber W, Mar BG, Redd R, Wang T, Haagenson MD, Grauman PV, et al. Prognostic mutations in myelodysplastic syndrome after stem-cell transplantation. N Engl J Med. 2017;376(6):536–47. https://doi.org/10.1056/NEJMoa1611604. Murthy G, Subramanian G, Kim S, Zhen-Huan H, Estrada-Merly N, Abid MB, Aljurf M, Bacher U, et al. Relapse and disease-free survival in patients with myelodysplastic syndrome undergoing allogeneic hematopoietic cell transplantation using older matched sibling donors vs younger matched unrelated donors. JAMA Oncol. 2022;8(3):404–11. https://doi. org/10.1001/jamaoncol.2021.6846. Nakamura R, Saber W, Martens MJ, Ramirez A, Scott B, Oran B, Leifer E, et al. Biologic assignment trial of reduced-intensity hematopoietic cell transplantation based on donor availability in patients 50–75 years of age with advanced myelodysplastic syndrome. J Clin Oncol. 2021;39(30):3328–39. https://doi.org/10.1200/ JCO.20.03380. Oran B, de Lima M, Garcia-Manero G, Thall PF, Lin R, Popat U, Alousi AM, et al. A phase 3 randomized study of 5-Azacitidine maintenance vs observation after transplant in high-risk AML and MDS patients. Blood Adv. 2020;4(21):5580–8. https://doi. org/10.1182/bloodadvances.2020002544. Potter VT, Iacobelli S, van Biezen A, Maertens J, Bourhis J-H, Passweg JR, Yakhoub-Agha I, et al. Comparison of intensive chemotherapy and hypomethylating agents before allogeneic stem cell transplantation for advanced myelodysplastic syndromes: a study of the myelodysplastic syndrome subcommittee of the chronic malignancies working party of the european society for blood and marrow transplant research. Biol Blood Marrow Transplant. 2016;22(9):1615–20. https://doi.org/10.1016/j.bbmt.2016.05.026. Raj K, Eikema D-J, Sheth V, Koster L, de Wreede LC, Blaise D, Di Grazia C, et al. Comparison of outcomes for HLA-matched sibling and Haplo-identical donors in myelodysplastic syndromes: report from the chronic malignancies working party of EBMT. Blood Cancer J. 2022;12(9):140. https://doi.org/10.1038/ s41408-022-00729-y. Robin M, Porcher R, Adès L, Raffoux E, Michallet M, François S, Cahn J-Y, et al. HLA-matched allogeneic stem cell transplantation improves outcome of higher risk myelodysplastic syndrome a prospective study on behalf of SFGM-TC and GFM. Leukemia. 2015;29(7):1496– 501. https://doi.org/10.1038/leu.2015.37. Robin M, Porcher R, Ciceri F, Teresa M, van Lint S, Santarone GE, Blaise D, et al. Haploidentical transplant in patients with myelodysplastic syndrome. Blood Adv. 2017;1(22):1876–83. https://doi. org/10.1182/bloodadvances.2017007146. Robin M, Porcher R, Ruggeri A, Blaise D, Wolschke C, Koster L, Angelucci E, et al. HLA-mismatched donors in patients with myelodysplastic syndrome: an EBMT registry analysis. Biol Blood Marrow Transplant. 2019;25(1):114–20. https://doi.org/10.1016/j. bbmt.2018.08.026. Sauta E, Robin M, Bersanelli M, Travaglino E, Meggendorfer M, Zhao L-P, Berrocal JCC, et al. Realworld validation of molecular international prognostic scoring system for myelodysplastic syndromes. J Clin Oncol Off J Am Soc Clin Oncol. 2023;41(15):2827– 42. https://doi.org/10.1200/JCO.22.01784. Schmid C, de Wreede LC, van Biezen A, Finke J, Ehninger G, Ganser A, Volin L, et al. Outcome after relapse of myelodysplastic syndrome and secondary acute myeloid leukemia following allogeneic stem cell transplantation: a retrospective registry analysis on 698 patients by the chronic malignancies working Party of the European Society of blood and marrow transplantation. Haematologica. 2018;103(2):237–45. https://doi.org/10.3324/haematol.2017.168716. Scott BL, Pasquini MC, Logan BR, Juan W, Devine SM, Porter DL, Maziarz RT, et al. Myeloablative versus reduced-intensity hematopoietic cell transplantation for acute myeloid leukemia and myelodysplastic syndromes. J Clin Oncol Off J Am Soc Clin Oncol. 2017;35(11):1154–61. https://doi.org/10.1200/ JCO.2016.70.7091. Voso MT, Leone G, Piciocchi A, Fianchi L, Santarone S, Candoni A, Criscuolo M, et al. Feasibility of allogeneic stem-cell transplantation after Azacitidine bridge in higher-risk myelodysplastic syndromes and low blast count acute myeloid leukemia: results of the BMT-AZA prospective study. Ann Oncol. 2017;28(7):1547–53. https://doi.org/10.1093/annonc/ mdx154.",
+          "zh": "參考文獻（續）\n本頁完整英文書目保留原文，可使用 Google／Scholar 查詢。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+74+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 668,
+      "blocks": [
+        {
+          "id": 7400020,
+          "page": 668,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用\n本章採 Creative Commons Attribution 4.0 International License。適當標示原作者與來源、提供授權連結並註明修改後，可使用、分享、改作、散布與重製。除另有權利標示外，圖片與第三方材料亦納入；未納入且用途超出法規允許者須另取授權。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+74+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+74"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

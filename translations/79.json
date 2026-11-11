@@ -1,0 +1,367 @@
+{
+  "id": 79,
+  "title": "Fanconi Anemia and Other Hereditary Bone Marrow Failure Syndromes",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "scope": "依原 PDF 視覺閱讀順序逐頁、逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "paragraphs": 39,
+  "pages": [
+    {
+      "page": 704,
+      "blocks": [
+        {
+          "id": 7900001,
+          "page": 704,
+          "en": "Fanconi Anemia and Other Hereditary Bone Marrow Failure Syndromes Cristina Diaz-de-Heredia, Marc Bierings, Jean-Hugues Dalle, Francesca Fioredda, and Brigitte Strahm",
+          "zh": "79 Fanconi 貧血與其他遺傳性骨髓衰竭症候群\nCristina Diaz-de-Heredia、Marc Bierings、Jean-Hugues Dalle、Francesca Fioredda、Brigitte Strahm",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024）。繁體中文為 AI 直接逐段翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_79"
+            }
+          ]
+        },
+        {
+          "id": 7900002,
+          "page": 704,
+          "en": "79.1 Introduction Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of rare blood disorders due to hematopoiesis impairment, with different clinical presentations and pathogenic mechanisms. Some patients present with congenital malformations, may progress through clonal evolution (myelodisplasia, MDS and acute leukemia, AL) and are at risk for solid tumors at early ages. With the rapid evolution of diagnostic accuracy, the number of identified genetic defects rises annually. HCT is a curative treatment for these congenital disorders. However, it should be well understood that it will only correct the hematopoietic deficiency and will not cure the congenital malformations or reduce the risk of solid tumors. Moreover, HCT per se may increase this risk additionally. Consequently, the decision to transplant a patient should be taken by a multidisciplinary team. HCT must be performed at specialized centers owing to patient susceptibilities to toxicity and the need for specific management during and after the procedure. The general recommendations for management of IBMFS are included in the key points at the end of the chapter.",
+          "zh": "79.1 引言\n遺傳性骨髓衰竭症候群（IBMFS）是一群因造血功能受損而造成的罕見異質性血液疾病，臨床表現與致病機轉各異。有些患者出生即有先天畸形，之後可能發生克隆演化〔骨髓增生不良（MDS）及急性白血病（AL）〕，並在年輕時即面臨實體腫瘤風險。隨著診斷精準度快速進步，每年辨識出的基因缺陷持續增加。HCT 可根治這些先天疾病的造血缺陷，但必須清楚了解：它只能矯正造血不足，不能治癒先天畸形，也不會降低實體腫瘤風險；HCT 本身甚至可能進一步增加此風險。因此，是否移植應由多專科團隊共同決定。由於患者對毒性特別敏感，且移植期間與之後需要特殊照護，HCT 必須在專門中心進行。本章末的重點整理列出 IBMFS 的一般處置建議。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900003,
+          "page": 704,
+          "en": "C. Diaz-de-Heredia (*) Division of Pediatric Hematology and Oncology, Hospital Universitari Vall d’Hebron, Barcelona, Spain e-mail: cristina.diazdeheredia@vallhebron.cat M. Bierings Department of Stem Cell Transplantation, Princess Maxima Centre for Pediatric Oncology and University Children’s Hospital, Wilhelmina Kinderziekenhuis, Utrecht, The Netherlands e-mail: m.bierings@umcutrecht.nl J.-H. Dalle HCT Programme, Hemato Immunology Department, Hôpital Robert Debré GHU APHP Nord—Université Paris Cité, Paris, France e-mail: jean-hugues.dalle@aphp.fr F. Fioredda Hematology Unit, IRCCS, Istituto Giannina Gaslini, Genoa, Italy e-mail: francescafioredda@gaslini.org B. Strahm Division of Pediatric Hematology and Oncology, Department of Pediatrics and Adolescent Medicine, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg im Breisgau, Germany e-mail: brigitte.strahm@uniklinik-freiburg.de",
+          "zh": "作者單位：C. Diaz-de-Heredia，西班牙巴塞隆納 Hospital Universitari Vall d’Hebron 兒童血液腫瘤科（cristina.diazdeheredia@vallhebron.cat）；M. Bierings，荷蘭 Utrecht Princess Maxima Centre for Pediatric Oncology／University Children’s Hospital 幹細胞移植科（m.bierings@umcutrecht.nl）；J.-H. Dalle，法國巴黎 Hôpital Robert Debré GHU APHP Nord—Université Paris Cité 造血細胞移植計畫與血液免疫科（jean-hugues.dalle@aphp.fr）；F. Fioredda，義大利 Genoa IRCCS Istituto Giannina Gaslini 血液科（francescafioredda@gaslini.org）；B. Strahm，德國 Freiburg University Medical Center 兒童與青少年醫學部兒童血液腫瘤科（brigitte.strahm@uniklinik-freiburg.de）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900004,
+          "page": 704,
+          "en": "© The Author(s) 2024 A. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_79",
+          "zh": "© 作者 2024；收錄於《The EBMT Handbook》。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 705,
+      "blocks": [
+        {
+          "id": 7900005,
+          "page": 705,
+          "en": "79.2 Fanconi Anemia",
+          "zh": "79.2 Fanconi 貧血",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900006,
+          "page": 705,
+          "en": "79.2.1 Pathogenesis and Principal Clinical Features Fanconi anemia (FA) is the most common IBMFS with an estimated incidence of 1/200,000. FA is a disorder of DNA damage repair, leading to increased chromosomal breakage in diagnostic assays. At least twenty-three underlying genes have been identified. The presentation is variable with somatic abnormalities in 70% of patients, marrow failure, and a highly increased risk of malignancies (MDS, leukemia, head and neck cancer, gynecological cancers) at an early age. The diagnosis can be delayed into adulthood, e.g., in cases of (familial) pancytopenia, myelodysplasia, head, and neck cancer at young age or unexpected severe toxicity of treatment. FA patients are highly susceptible to alkylating agent-based chemotherapy and irradiationinduced damage such as mucositis and bowel toxicity.",
+          "zh": "79.2.1 致病機轉與主要臨床特徵\nFanconi 貧血（FA）是最常見的 IBMFS，估計發生率為 1/200,000。它屬 DNA 損傷修復疾病，因此在診斷試驗中會出現染色體斷裂增加；目前至少已確認 23 個相關基因。表現多變：70% 患者有體細胞異常，並可能有骨髓衰竭，且在年輕時即大幅增加 MDS、白血病、頭頸癌與婦科癌症等惡性腫瘤風險。診斷可能延至成年，例如家族性全血球低下、骨髓增生不良、年輕時頭頸癌，或治療出現非預期嚴重毒性時。FA 患者對烷化劑化療及放射線造成的損害（如黏膜炎與腸道毒性）高度敏感。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900007,
+          "page": 705,
+          "en": "79.2.2 Indications of HCT Indications for transplant include marrow failure (transfusion dependency or severe neutropenia) and myelodysplasia/leukemia. Since transplantation implies exposure to chemo/radiotherapy and since the outcome is dependent on age at transplant, the decision to proceed to transplant should be individualized and discussed with experts in the field trying to intercept the most appropriate time.",
+          "zh": "79.2.2 HCT 適應症\n移植適應症包括骨髓衰竭（依賴輸血或嚴重嗜中性球低下）及 MDS／白血病。移植會暴露於化療／放療，且結果受移植年齡影響，因此是否進行移植須個別化，並與此領域專家討論，以掌握最適時機。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900008,
+          "page": 705,
+          "en": "79.2.3 Specific Considerations for Conditioning Regimen Conditioning regimens should be adapted for FA patients, with reduced doses of many cytotoxic drugs and irradiation. Current conditioning regimens generally contain FLU (cumulative dose 150 mg/m2 ), in combination with reduced doses of CY (up to 50 mg/kg cumulative) and/or lowdose TBI (100–300 cGy) in the case of unrelated donors. For adults no clear recommendations can be given at this point. Patients with MDS with excess of blasts, overtAML, or BRCA2/FANCD1 patients may benefit from pre-HCT cytoreduction with fludarabine and cytarabine; however, it is very important to secure a donor before starting chemotherapy given the risk of prolonged chemotherapy-associated aplasia.",
+          "zh": "79.2.3 前處理療程的特殊考量\nFA 患者的前處理應降低多種細胞毒性藥物與放射線劑量。現行療程通常含 FLU（累積 150 mg/m²），並合併減量 CY（累積最多 50 mg/kg）；使用非親屬供者時可再加低劑量 TBI（100–300 cGy）。成人目前尚無明確建議。具有過多芽細胞的 MDS、明顯 AML，或 BRCA2/FANCD1 患者，可能受益於移植前以 fludarabine 與 cytarabine 進行細胞減量；但化療可能造成長期再生不良，因此開始化療前務必先確定供者。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900009,
+          "page": 705,
+          "en": "79.2.4 Results Current results of transplant for marrow failure in children with FA show survival rates depending on donor type ranging from 50% to more than 90%. Factors influencing outcome include age at transplant, MSD availability, and the use of FLU in the conditioning regimen. An EBMT study of the period 2000–2009 reported 78% and 65% OS at 5-year post-transplant for MSD and MUD, respectively. Eight hundred and thirteen patients patients under 18 years from the EBMT data registry were reported at ASH 2022. Ninety one percent of patients received a first HCT for marrow failure whereas 9% for either MDS or AML. Eighty three percent received FLU-based conditioning regimen, 87% any type of serotherapy, and 88% did not receive any irradiation. 5y-OS was 83%, statistically better for those transplanted from either MSD or MUD compared to those transplanted from MMUD or haploidentical donor. Being transplanted for MDS/AML dramatically worsened OS 40% vs. 85% for those transplanted for AA. Clonal disease and adult age at transplant remain a challenge. Both TRM and relapse of malignant disease contribute to these generally poor results.",
+          "zh": "79.2.4 結果\n目前 FA 兒童因骨髓衰竭接受移植後，依供者類型不同，存活率約 50% 至超過 90%。影響結果的因素包括移植年齡、是否有 MSD，以及前處理是否使用 FLU。EBMT 對 2000–2009 年的研究顯示，MSD 與 MUD 移植後 5 年 OS 分別為 78% 與 65%。\nEBMT 登錄資料中 813 名未滿 18 歲患者於 ASH 2022 報告：91% 首次 HCT 的適應症為骨髓衰竭，9% 為 MDS 或 AML；83% 接受 FLU 為基礎的前處理，87% 接受某種血清療法，88% 未接受放射線。5 年 OS 為 83%；MSD 或 MUD 顯著優於 MMUD 或半相合供者。因 MDS／AML 移植者的 OS 為 40%，遠差於因再生不良性貧血移植者的 85%。克隆性疾病與成人移植仍具挑戰；治療相關死亡及惡性疾病復發皆造成整體結果不佳。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900010,
+          "page": 705,
+          "en": "79.2.5 Recommendations for Long- Term Follow-Up After transplant, the risk of secondary malignancies is high (Fig. 79.1). Patients should be carefully monitored for head-neck malignancies (regular ear, nose, mouth, and throat specialist checks for early signs of malignant transforma- C. Diaz-de-Heredia et al.",
+          "zh": "79.2.5 長期追蹤建議\n移植後繼發惡性腫瘤風險很高（圖 79.1）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 706,
+      "blocks": [
+        {
+          "id": 7900011,
+          "page": 706,
+          "en": "Fig. 79.1 Fanconi’s anemia: probability of death and secondary malignancies post transplant. The EBMT experience. Peffault de Latour R. Blood 2013; 122: 4279–86",
+          "zh": "圖 79.1 Fanconi 貧血：移植後死亡與繼發惡性腫瘤機率；EBMT 經驗。Peffault de Latour R. Blood 2013;122:4279–86。圖中藍線為死亡、紅線為繼發惡性腫瘤；橫軸為移植後時間（年），縱軸為機率；風險人數依序為 518、297、149、58、15。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900012,
+          "page": 706,
+          "en": "tion, and women undergo gynecological checkups and screening for breast cancer with ultrasound and MRI) and other manifestations of FA (e.g., endocrinopathies such as thyroid dysfunction, diabetes, growth problems, and early menopause). As more FA patients survive into adulthood, specialist multidisciplinary teams taking care of these complex patients are needed. Due to the increased risk of both head and neck and perineal secondary cancers, vaccination against human papilloma virus is strongly recommended.",
+          "zh": "應仔細監測頭頸部惡性腫瘤，定期由耳鼻口咽專科檢查早期惡性轉化；女性應接受婦科檢查，並以超音波及 MRI 篩檢乳癌。也要追蹤 FA 的其他表現，例如甲狀腺功能異常、糖尿病、生長問題與早發停經等內分泌病。隨更多 FA 患者存活至成年，需要專門的多專科團隊照護這些複雜患者。由於頭頸部與會陰部繼發癌症風險增加，強烈建議接種人類乳突病毒疫苗。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900013,
+          "page": 706,
+          "en": "79.3 Telomere Disorders",
+          "zh": "79.3 端粒疾病",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900014,
+          "page": 706,
+          "en": "79.3.1 Pathogenesis and Principal Clinical Features Telomere disorders are multisystemic disorders. The classic example being dyskeratosis congenita (DC), characterized by the triad of nail dystrophy, skin pigment alteration, and oral leukoplakia, is frequently associated with bone marrow failure and organ involvement (pulmonary fibrosis, liver, neurological and gastrointestinal abnormalities, ocular impairment, and cancer predisposition). The causative mechanism of the disease is abnormal telomere shortening due to a defect in one of the genes encoding for the telomerase-shelterin complex. Bone marrow failure is the main cause of death, although pulmonary fibrosis, liver cirrhosis, and cancer significantly contribute to morbidity and mortality. Androgens have shown some effect on hematopoiesis and lung function.",
+          "zh": "79.3.1 致病機轉與主要臨床特徵\n端粒疾病為多系統疾病。典型例子是先天性角化不良（DC），以指甲營養不良、皮膚色素改變及口腔白斑三聯徵為特徵，常合併骨髓衰竭與器官受累，包括肺纖維化、肝臟、神經及胃腸道異常、視覺障礙及癌症易感性。致病機轉是編碼 telomerase–shelterin 複合體的基因之一發生缺陷，導致端粒異常縮短。骨髓衰竭是主要死因，但肺纖維化、肝硬化與癌症也顯著增加罹病與死亡。雄性素對造血及肺功能可能有一定效果。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900015,
+          "page": 706,
+          "en": "79.3.2 Indications for Transplant HCT is the only curative option for bone marrow failure in DC. Organ dysfunction is not corrected by HCT and limits its indication by negatively affecting outcome. HCT is not indicated as a preemptive measure but is recommended in cases of progressive marrow failure without significant organ dysfunction.",
+          "zh": "79.3.2 移植適應症\nHCT 是 DC 骨髓衰竭唯一根治選項。器官功能異常不會被 HCT 矯正，且會惡化移植結果、限制適應症。HCT 不作預防性使用；對無顯著器官功能異常而骨髓衰竭持續進展者則建議施行。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 707,
+      "blocks": [
+        {
+          "id": 7900016,
+          "page": 707,
+          "en": "79.3.3 Specific Considerations for Donor Selection and Conditioning Regimen MSD are the donors of choice when familial genetic study is available and demonstrated the donor is not affected; MUD and mismatched related donors are associated with inferior outcomes. Given tissue “fragility,” a reduced intensity combination containing fludarabine would be preferable to a myeloablative regimen. A thorough evaluation of organ status is recommended prior to transplant.",
+          "zh": "79.3.3 供者選擇與前處理的特殊考量\n若能取得家族基因檢查並證實供者未受影響，MSD 為首選供者；MUD 與不相合親屬供者的結果較差。由於組織「脆弱」，含 fludarabine 的減低強度療程優於骨髓清除性前處理。移植前建議完整評估各器官狀態。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900017,
+          "page": 707,
+          "en": "79.3.4 Results Five- and 10-year survival is 57% and 23%, respectively. Age > 20 years at HCT, HCT before 2000 and alternative donor transplant were poor prognostic markers. Patients transplanted after 2000 had improved early survival to 70% at 5-year post transplant. However, medium- and long-time follow-up still remain poor. One of the unsolved caveats is the lack of a clear genotype–phenotype association. In fact, it is possible that some telomeropathies are associated with a good outcome after HCT, while others are associated with poor survival, regardless of the type of transplantation.",
+          "zh": "79.3.4 結果\n5 年與 10 年存活率分別為 57% 與 23%。HCT 時年齡 >20 歲、2000 年前接受 HCT，以及替代供者移植均為不良預後指標。2000 年後移植者早期存活改善，移植後 5 年達 70%，但中、長期追蹤結果仍不佳。尚未解決的問題之一是缺乏明確基因型—表現型關聯；某些端粒病變可能在 HCT 後結果良好，另一些則不論移植類型皆存活不佳。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900018,
+          "page": 707,
+          "en": "79.3.5 Specific Recommendations for Long-Term Follow-Up Since HCT may increase the risk of secondary malignancies in these patients, long-term follow- up is mandatory.",
+          "zh": "79.3.5 長期追蹤的特殊建議\nHCT 可能增加這些患者的繼發惡性腫瘤風險，因此必須長期追蹤。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900019,
+          "page": 707,
+          "en": "79.4 Severe Congenital Neutropenia and Shwachman-Diamond Syndrome",
+          "zh": "79.4 嚴重先天性嗜中性球低下與 Shwachman–Diamond 症候群",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900020,
+          "page": 707,
+          "en": "79.4.1 Pathogenesis and Principal Clinical Features The term “severe congenital neutropenia” (SCN) covers a group of inherited disorders characterized by a persistent absolute neutrophil count (ANC) below 0.5 × 109 /L and early onset of severe infections. To date, more than 30 distinct genes have been associated with SCN, which may manifest as an isolated disorder or associated with various extra-hematologic features. The most common form (60%) of genetic neutropenia, at least in the Western registries, is due to mutations in the ELANE gene. Shwachman Diamond syndrome (SDS) caused by a biallelic pathogenic variants in the SBDS gene is the most common form of neutropenia associated with extra-hematologic features (exocrine pancreas deficiency, metaphyseal dysplasia, mental retardation, cardiomyopathy, and immune dysfunction). The underlying pathogenic mechanism of most genetic SCN is accelerated apoptosis of promyelocytes causing blockage of neutrophil maturation. In SDS, the defect in the SBDS protein causes abnormal ribosomal assembly and inadequate maintenance of the stromal microenvironment. The SCN clinical phenotype consists of predisposition to severe infections. The use of granulocyte colony-stimulating factor (G-CSF) improved the prognosis of the disease, which had been lethal in almost 50% of cases. The aim of treatment is to maintain protective neutrophil values (between 1.0 and 5.0 × 109 /L) that are usually achieved with G-CSF doses of 3–5 μg/kg/day. Patients requiring G-CSF between 10 and 15 μg/ kg/day are defined as “poor responders,” whereas those requiring >20 μg/kg/day are considered “non-responders.” Another feature of SCN and SDS is its tendency to transform into MDS/AML. The overall cumulative incidence of MDS/AML is 10.8% and 22% after 15 and 20 years of G-CSF treatment according to the French and International Severe Chronic Neutropenia Registries, respectively. In SDS, the cumulative incidence is between 18% and 36% at 20 and 30 years. 79.4.2 Indications for Transplant The definitive cure of the hematologic defect is HCT. For SCN, established indications are C. Diaz-de-Heredia et al.",
+          "zh": "79.4.1 致病機轉與主要臨床特徵\n「嚴重先天性嗜中性球低下」（SCN）涵蓋一群遺傳疾病，特徵是絕對嗜中性球計數（ANC）持續低於 0.5 × 10⁹/L，且早期即發生嚴重感染。目前已有 30 多個基因與 SCN 相關；它可單獨出現，也可合併各種血液系統外特徵。至少在西方登錄資料中，最常見的遺傳性嗜中性球低下（60%）源於 ELANE 基因突變。Shwachman–Diamond 症候群（SDS）由 SBDS 基因雙等位致病變異造成，是合併血液外特徵最常見的嗜中性球低下，包括胰外分泌不足、幹骺端發育不良、智能障礙、心肌病及免疫功能異常。\n多數遺傳性 SCN 的致病機轉為早幼粒細胞凋亡加速，阻斷嗜中性球成熟。SDS 則因 SBDS 蛋白缺陷造成核糖體組裝異常及基質微環境維持不良。\nSCN 臨床表現為易發生嚴重感染。G-CSF 改善了疾病預後；過去近 50% 病例會死亡。治療目標是維持具保護性的嗜中性球值 1.0–5.0 × 10⁹/L，通常以 G-CSF 3–5 μg/kg/day 達成。需要 10–15 μg/kg/day 者稱「反應不佳」，需要 >20 μg/kg/day 者視為「無反應」。\nSCN 與 SDS 另一特徵是可能轉化為 MDS／AML。依據法國及國際嚴重慢性嗜中性球低下登錄，G-CSF 治療 15 年與 20 年後 MDS／AML 累積發生率分別為 10.8% 與 22%；SDS 在 20 年及 30 年時為 18%–36%。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 708,
+      "blocks": [
+        {
+          "id": 7900021,
+          "page": 708,
+          "en": "patients with absent or poor response to G-CSF and MDS/AML. However, given the long-term dependency to G-CSF, HCT for children <10 years old with a healthy MSD may be considered. For SDS, the indications for transplant are worsening cytopenias with increased transfusion dependence and transformation into MDS/ AML. However, given the very poor prognosis of SDS patients with leukemia, HCT should be performed before leukemia is established in patients with unfavorable cytogenetics or MDS.",
+          "zh": "79.4.2 移植適應症\nHCT 可根治血液學缺陷。SCN 已確立的適應症為對 G-CSF 無反應或反應不佳，以及 MDS／AML。不過，考量長期依賴 G-CSF，未滿 10 歲且有健康 MSD 的兒童也可考慮 HCT。SDS 的適應症為血球低下惡化、輸血依賴增加，以及轉化為 MDS／AML。由於 SDS 合併白血病預後極差，若有不良細胞遺傳學或 MDS，應在白血病形成前移植。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900022,
+          "page": 708,
+          "en": "79.4.3 Specific Considerations for Conditioning Regimen A MAC regimen is considered appropriate in SCN, while a RIC is recommended in SDS owing to possible secondary organ dysfunction (e.g., heart disease). In patients with MDS/AML, the safety of a chemotherapy-based myeloablative conditioning should be evaluated case by case. Cytoreductive chemotherapy before HCT is an option, although its efficacy is in debate.",
+          "zh": "79.4.3 前處理療程的特殊考量\nSCN 適合 MAC；SDS 因可能有次發器官功能異常（如心臟病），建議 RIC。MDS／AML 患者是否能安全接受化療型骨髓清除前處理，須逐例評估。HCT 前可考慮細胞減量化療，但療效仍有爭議。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900023,
+          "page": 708,
+          "en": "79.4.4 Results For SCN patients, an EBMT study reported a 5-year post transplant OS of 82% with TRM of 17% in the largest cohort (136 patients) described. Better results were obtained in patients under 10 years of age, in those transplanted after 2000 and in cases of MSD transplants. For SDS in another study from the EBMT the OS at 5-year post transplant was 63.3%, and the TRM was 19.8%.",
+          "zh": "79.4.4 結果\n在最大型的 SCN 隊列（136 人）中，EBMT 研究報告移植後 5 年 OS 為 82%，TRM 17%；未滿 10 歲、2000 年後移植及 MSD 移植者結果較佳。另一項 EBMT 的 SDS 研究顯示，移植後 5 年 OS 63.3%，TRM 19.8%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900024,
+          "page": 708,
+          "en": "79.5 Diamond-Blackfan Anemia",
+          "zh": "79.5 Diamond–Blackfan 貧血",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900025,
+          "page": 708,
+          "en": "79.5.1 Pathogenesis and Principal Clinical Features Diamond-Blackfan anemia (DBA) is a rare IBMFS mainly caused by heterozygous mutations in ribosomal genes. No genetic aberration is identified in approximately 30% of patients. Patients usually present with transfusiondependent macrocytic anemia at birth or in early infancy. Mild neutropenia and progressive thrombocytopenia have been observed in the course of the disease. Despite various possible physical abnormalities (short stature, abnormal thumbs, cleft palate, heart defects, and urogenital malformations), the nonhematologic phenotype is usually rather subtle in around 50% of patients. Patients with DBA are at increased risk of developing hematologic (AML/MDS) and nonhematologic malignancies (osteosarcoma, colon cancer). After the first year of life, at least two trials of steroid therapy are recommended; around 60% of the patients are responders. Patients <12 months of age or those who are steroid nonresponders are treated with red blood cell (RBC) transfusions. Iron chelation is essential to prevent organ damage from iron overload. About 20% of patients become transfusion independent with no further treatment (spontaneous remission).",
+          "zh": "79.5.1 致病機轉與主要臨床特徵\nDiamond–Blackfan 貧血（DBA）是罕見 IBMFS，主要由核糖體基因的雜合突變造成；約 30% 患者找不到基因異常。通常在出生或嬰兒早期即出現依賴輸血的大球性貧血；病程中也可見輕度嗜中性球低下與進行性血小板低下。雖可能有各種身體異常（身材矮小、拇指異常、顎裂、心臟缺陷及泌尿生殖畸形），約 50% 患者的非血液表現通常很輕微。DBA 患者發生血液惡性腫瘤（AML／MDS）及非血液惡性腫瘤（骨肉瘤、結腸癌）的風險增加。\n滿 1 歲後建議至少進行兩次類固醇治療試驗，約 60% 有反應。未滿 12 個月或對類固醇無反應者以紅血球輸血治療；鐵螯合對預防鐵過量所致器官損害至關重要。約 20% 患者可在不再治療下脫離輸血（自發緩解）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900026,
+          "page": 708,
+          "en": "79.5.2 Indications for Transplant HCT is the only cure for hematologic manifestations. Indications are nonresponse to steroids, steroid dependency at a dose ≥0.3 mg/kg/day, transfusion dependency, alloimmunization to RBC, progressive pancytopenia, or MDS/ AML. Published data indicate that HCT should be performed before the age of 10 years; however, an earlier time point might be preferable to avoid iron overload. Indications must be evaluated taking into account the alternative approach with RBC transfusions combined with rigorous iron chelation. 79.5.3 Specific Considerations for Donor Selection and Conditioning Regimen HCT from a MSD including cord blood has resulted in OS >80% and is recommended for all indications. Sibling donors should be carefully assessed to rule out silent carrier status. Recent reports have described no differences in terms of survival between sibling and MUD transplants,",
+          "zh": "79.5.2 移植適應症\nHCT 是血液學表現唯一根治方式。適應症包括類固醇無反應、依賴劑量 ≥0.3 mg/kg/day 的類固醇、依賴輸血、對紅血球產生同種免疫、進行性全血球低下或 MDS／AML。已發表資料顯示應在 10 歲前進行 HCT；為避免鐵過量，可能更早較佳。評估適應症時也須考量紅血球輸血配合嚴格鐵螯合的替代方案。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 709,
+      "blocks": [
+        {
+          "id": 7900027,
+          "page": 709,
+          "en": "although GVHD was higher in MUD transplants. By contrast, data supporting HCT from mismatched donors as standard procedure are scarce. The majority of transplants reported were performed with myeloablative conditioning. Based on available data, a standard regimen including FLU and BU or TREO is recommended. ATG/ ATLG has been used in multiply transfused patients transplanted from MSD and MUD with excellent engraftment rates.",
+          "zh": "79.5.3 供者選擇與前處理的特殊考量\n以 MSD（包括臍帶血）進行 HCT，所有適應症的 OS 均 >80%，因此建議使用。應仔細評估手足供者，排除無症狀帶因。近期報告顯示手足與 MUD 移植的存活無差異，但 MUD 的 GVHD 較高；相較之下，支持不相合供者作為標準程序的資料很少。多數已報告移植使用骨髓清除性前處理；依現有資料，建議含 FLU 與 BU 或 TREO 的標準療程。多次輸血、接受 MSD 或 MUD 移植者使用 ATG／ATLG，植入率極佳。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900028,
+          "page": 709,
+          "en": "79.5.4 Results In children aged <10 years outcomes are comparable for HCT performed using MSD and MUD. A study of DBA patients registered in Germany and France reported a cGFS of 90% for patients <10 years and of 78% for those aged 10–18 years. Lower OS and higher TRM have been reported in patients with higher ferritin levels as a marker of iron overload.",
+          "zh": "79.5.4 結果\n未滿 10 歲兒童以 MSD 或 MUD 施行 HCT，結果相當。德國與法國 DBA 登錄研究顯示，未滿 10 歲者 cGFS 90%，10–18 歲者 78%。Ferritin 較高（鐵過量指標）者 OS 較低且 TRM 較高。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900029,
+          "page": 709,
+          "en": "79.5.5 Specific Recommendations for Long-Term Follow-Up Long-term care for patients being transplanted for DBA should focus on the management of iron overload. Depending on its extent, phlebotomies, and/or iron chelation therapy might be indicated. Furthermore, patients and physicians should be aware of the increased risk of malignancies (especially osteosarcoma and colon cancer).",
+          "zh": "79.5.5 長期追蹤的特殊建議\nDBA 移植患者的長期照護應著重處理鐵過量；依嚴重程度可採放血及／或鐵螯合治療。患者與醫師也應注意惡性腫瘤風險增加，尤其骨肉瘤及結腸癌。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900030,
+          "page": 709,
+          "en": "79.6 Congenital Amegakaryocytic Thrombocytopenia",
+          "zh": "79.6 先天性無巨核細胞性血小板低下",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900031,
+          "page": 709,
+          "en": "79.6.1 Pathogenesis and Principal Clinical Features Congenital amegakaryocytic thrombocytopenia (CAMT) is a rare IBMFS caused by mutations in the gene coding for the thrombopoietin receptor MPL. Patients usually present with thrombocytopenia at birth or within the first year of life. Most patients develop hypocellular bone marrow and progress to pancytopenia early in the course of disease. Clonal evolution with acquired chromosomal aberrations and the development of myelodysplastic syndromes are very rare events. Characteristic nonhematologic manifestations of the disease have not been described.",
+          "zh": "79.6.1 致病機轉與主要臨床特徵\n先天性無巨核細胞性血小板低下（CAMT）是罕見 IBMFS，由編碼 thrombopoietin receptor 的 MPL 基因突變造成。患者通常在出生時或出生後第一年內出現血小板低下。多數患者會形成低細胞性骨髓，並在病程早期進展為全血球低下。帶有後天染色體異常的克隆演化及 MDS 極罕見，尚未描述具特徵性的非血液表現。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900032,
+          "page": 709,
+          "en": "79.6.2 Indications for Transplant HCT is the only curative treatment and should be offered to all patients with transfusion-dependent thrombocytopenia, pancytopenia, or clonal evolution.",
+          "zh": "79.6.2 移植適應症\nHCT 是唯一根治療法，所有依賴血小板輸注、全血球低下或有克隆演化的患者都應接受。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900033,
+          "page": 709,
+          "en": "79.6.3 Specific Considerations for Donor Selection and Conditioning Regimen HCT from an MSD is the preferred option, and successful transplants from heterozygous-related donors have been reported. HCT from MUD (≥9/10) is an acceptable alternative. Successful HCT from mismatched family donors or mismatched unrelated cord blood donors have been reported: these should preferentially be performed in clinical trials or experienced centers. In view of a considerable graft failure rate, a MAC with FLU in combination with TREO or BU is preferred. There have been reports of successful engraftment after a RIC, and this might be considered in cases with severely hypocellular bone marrow in the absence of clonal aberrations and alloimmunization to platelet transfusions.",
+          "zh": "79.6.3 供者選擇與前處理的特殊考量\nMSD 為首選；已有使用雜合帶因親屬供者成功移植的報告。MUD（≥9/10）是可接受替代。也曾報告不相合家族供者或不相合非親屬臍帶血成功移植，但應優先在臨床試驗或經驗豐富中心施行。因移植物失敗率不低，首選 FLU 合併 TREO 或 BU 的 MAC。也有 RIC 後成功植入的報告；若骨髓嚴重低細胞、無克隆異常且未因血小板輸注產生同種免疫，可考慮 RIC。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900034,
+          "page": 709,
+          "en": "79.6.4 Results Five-year OS was 77% with TRM of 12.6% in a retrospective EBMT study. However, this series included HCT performed over a period of 26 years with a variety of donors, regimens, and stem cell sources, with no difference in outcome. These results were updated for ASH annual meeting in 2022 and demonstrated a 6-year OS of 85.6% with a transplant-related mortality of C. Diaz-de-Heredia et al.",
+          "zh": "79.6.4 結果\n一項 EBMT 回溯研究顯示 5 年 OS 77%、TRM 12.6%；但該系列跨越 26 年，供者、療程及幹細胞來源多樣，結果未見差異。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 710,
+      "blocks": [
+        {
+          "id": 7900035,
+          "page": 710,
+          "en": "8.0%. GVHD/graft failure-free survival was 65.7% at 6 years. 6-year OS was significantly lower after cord blood (37.5%) than after BM ( 95%) or PB (88.9%) (p < 0.001).",
+          "zh": "2022 年 ASH 年會更新顯示，6 年 OS 85.6%，移植相關死亡率 8.0%，6 年無 GVHD／移植物失敗存活率 65.7%。臍帶血的 6 年 OS（37.5%）顯著低於骨髓（95%）或周邊血（88.9%）（p < 0.001）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7900036,
+          "page": 710,
+          "en": "Further Reading Ayas M, Saber W, Davies SM, et al. Allogeneic hematopoietic stem cell transplantation for Fanconi anemia in patients with pre-transplantation cytogenetic abnormalities, myelodysplastic syndrome or acute leukemia. J Clin Oncol. 2013;31:1669–76. Ballmaier M, Germeshausen M. Congenital amegakaryocytic thrombocytopenia: clinical presentation, diagnosis, and treatment. Semin Thromb Hemost. 2011;37:673–81. Barbaro P, Vedi A. Survival after hematopoietic stem cell transplant in patients with dyskeratosis congenita: a systematic review of the literature. Biol Blood Marrow Transplant. 2016;22:1152–8. Benajiba L, Salvado C, Dalle JH, et al. HLA-matched related donor HSCT in Fanconi anemia patients conditioned with cyclophosphamide and fludarabine. Blood. 2015;125:417–8. Bizzetto R, Bonfim C, Rocha V, et al. Outcomes after related and unrelated umbilical cord blood transplantation for hereditary bone marrow failure syndromes other than Fanconi anemia. Haematologica. 2011;96:134–41. Cesaro S, Pillon M, Sauer M, et al. Long-term outcome after allogeneic hematopoietic stem cell transplantation for Shwachman-Diamond Syndrome: a retrospective analysis and a review of the literature by the Severe Aplastic Anemia Working Party of the European Society for Blood and Marrow Transplantation (SAAWP-EBMT). Bone Marrow Transplant. 2020;55:1796–809. Cesaro S, Donadieu J, Cipolli M, et al. Stem cell transplantation in patients affected by shwachman-diamond syndrome: expert consensus and recommendations from the EBMT Severe Aplastic Anaemia Working Party. Transplant Cell Ther. 2022;28:637–49. Dalle JH, Fahd M, et al. Allogeneic stem cell transplantation in amegacaryocytosis: results of a retrospective study in EBMT centers. Biol Blood Marrow Transplant. 2014;20:S81–2. Diaz de Heredia C, Bresters D, Faulkner L, et al. Recommendations on hematopoietic stem cell transplantation for patients with Diamond–Blackfan anemia. On behalf of the Pediatric Diseases and Severe Aplastic Anemia Working Parties of the EBMT. Bone Marrow Transplant. 2021;56:2956–63. Donadieu J, Fenneteau O, Beaupain B, et al. Classification of and risk factors for hematologic complications in a French national cohort of 102 patients with Shwachman-Diamond syndrome. Haematologica. 2012;97:1312–9. Donadieu J, Beaupain B, Fenneteau O, et al. Congenital neutropenia in the era of genomics: classification, diagnosis, and natural history. Br J Haematol. 2017;79:557–74. Dufour C, Pierri F. Modern management of Fanconi anemia. ASH Education. https://doi.org/10.1182/ hematology.2022000393.",
+          "zh": "延伸閱讀\n本頁所列英文書目保留原文，包含 Ayas 等（Fanconi 貧血合併移植前細胞遺傳異常、MDS 或急性白血病）、Ballmaier 與 Germeshausen（CAMT）、Barbaro 與 Vedi（先天性角化不良移植存活）、Benajiba 等（Fanconi 貧血 HLA 相合親屬供者移植）、Bizzetto 等（非 Fanconi 遺傳性骨髓衰竭的臍帶血移植）、Cesaro 等（SDS 長期結果與 EBMT 共識）、Dalle 等（無巨核細胞症移植）、Diaz de Heredia 等（DBA 移植建議）、Donadieu 等（SDS 與先天性嗜中性球低下）、Dufour 與 Pierri（Fanconi 貧血現代處置）。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+79+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+79"
+            }
+          ]
+        },
+        {
+          "id": 7900037,
+          "page": 710,
+          "en": "Key Points Patient Evaluate carefully hematologic and extra-hematologic manifestations of the disease prior to transplant Donor The best donor is MSD; however, it is mandatory to test the genetic defect in the donor since some IBMFS may present different clinical and hematologic expression in members of the same family Consider MUD in case of no appropriate MSD Mismatched related and UD and unrelated CB only in experienced centers and preferentially in clinical trials Source of stem cells BM is the best source of stem cells Matched related CB is a good option PB is associated with higher risk of cGVHD and should be avoided Cell dose It is important for graft failure prevention: NC > 3 × 108 /kg recipient bw for BM NC > 3 × 107 /kg recipient bw for related CB NC > 4 × 107 /kg recipient bw for unrelated CB Conditioning regimen MAC or RIC depending on the type of IBMF Irradiation should be avoided owing to the known risk of cancer Patients with Fanconi’s anemia and dyskeratosis congenita must receive a RIC GVHD prophylaxis GVHD must be avoided Include two immunosuppressive drugs Serotherapy for UD transplants Long-term follow-up It is mandatory owing to high risk of secondary malignancies, extra-hematologic manifestations, and iron overload Patients should be followed-up by a multidisciplinary team",
+          "zh": "重點整理\n患者：移植前仔細評估疾病的血液與血液外表現。\n供者：最佳供者為 MSD；但部分 IBMFS 在同一家族成員可有不同臨床與血液表現，必須檢測供者的基因缺陷。無合適 MSD 時考慮 MUD。不相合親屬、非親屬供者及非親屬臍帶血，只應在經驗豐富中心，最好於臨床試驗中使用。\n幹細胞來源：骨髓為最佳來源；相合親屬臍帶血是良好選項。周邊血增加慢性 GVHD 風險，應避免。\n細胞劑量：預防移植物失敗很重要。骨髓的有核細胞（NC）>3 × 10⁸/kg 受者體重；親屬臍帶血 NC >3 × 10⁷/kg；非親屬臍帶血 NC >4 × 10⁷/kg。\n前處理：依 IBMFS 類型選擇 MAC 或 RIC。因已知癌症風險，應避免放射線。Fanconi 貧血及先天性角化不良患者必須接受 RIC。\nGVHD 預防：必須避免 GVHD；使用兩種免疫抑制藥；非親屬供者移植加血清療法。\n長期追蹤：因繼發惡性腫瘤、血液外表現及鐵過量風險高，必須長期追蹤，並由多專科團隊照護。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 711,
+      "blocks": [
+        {
+          "id": 7900038,
+          "page": 711,
+          "en": "Fagioli F, Quarello P, Zecca M, et al. Haematopoietic stem cell transplantation for diamond Blackfan anaemia: a report from the Italian association of Paediatric Haematology and oncology registry. Br J Haematol. 2014;165:673–81. Fioredda F, Iacobelli S, van Biezen A, et al. Severe aplastic anemia the inborn error and the pediatric disease working parties of the European Society for Blood and Bone Marrow Transplantation (EBMT) and stem cell transplant for Immunodeficiencies in Europe (SCETIDE). Stem cell transplantation in severe congenital neutropenia: an analysis from the European Society for Blood and Marrow Transplantation. Blood. 2015;126:1885–92. Frangoul H, Keates-Baleeiro J, Calder C, et al. Unrelated bone marrow transplant for congenital amegakaryocytic thrombocytopenia: report of two cases and review of the literature. Pediatr Transplant. 2010;14:E42–5. Mahadeo KM, Tewari P, Parikh SH, et al. Durable engraftment and correction of hematological abnormalities in children with congenital amegakaryocytic thrombocytopenia following myeloablative umbilical cord blood transplantation. Pediatr Transplant. 2015;19:753–7. Miano M, Eikema DJ, de la Fuente J, et al. Stem cell transplantation for diamond-Blackfan anemia. A retrospective study on behalf of the severe aplastic anemia working party of the European Blood and Marrow Transplantation Group (EBMT). Transplant Cell Ther. 2021;27:274.e1–5. Mugishima H, Ohga S, Ohara A, et al. Hematopoietic stem cell transplantation for Diamond-Blackfan anemia: a report from the aplastic anemia Committee of the Japanese Society of pediatric hematology. Pediatr Transplant. 2007;11:601–7. Muraoka K, Ischii E, Ihara K, et al. Successful bone marrow transplantation in a patient with c-mpl-mutated congenital amegakaryocytic thrombocytopenia from a carrier donor. Pediatr Transplant. 2005;9:101–3. Peffault de Latour R, Porcher R, Dalle JH, et al. Allogeneic hematopoietic stem cell transplantation in Fanconi anemia: the European Group for Blood and Marrow Transplantation experience. Blood. 2013;122:4279–86. Peffault de Latour R, Peters C, Gibson B, et al. On behalf of the pediatric working Party of the European Group for blood and marrow transplantation and the severe aplastic anemia working Party of the European Group for blood and marrow transplantation. Recommendations on hematopoietic stem cell transplantation for inherited bone marrow failure syndromes. Bone Marrow Transplant. 2015;50:1168–72. Rosenberg PS, Zeidler C, Bolyard AA, et al. Stable longterm risk of leukaemia in patients with severe congenital neutropenia maintained on G-CSF therapy. Br J Haematol. 2010;150:196–9. Savage SA, Dufour C. Classical inherited bone marrow failure syndromes with high risk for myelodysplastic syndrome and acute myelogenous leukemia. Semin Hematol. 2017;54:105–14. Strahm B, Loewecke F, Niemeyer CM, et al. Favorable outcomes of hematopoietic stem cell transplantation in children and adolescents with Diamond-Blackfan anemia. Blood Adv. 2020;4:1760–9. Team Telomere. https://teamtelomere.org/telomerebiology-disorders-diagnosis-and-managementguidelines-downloads/. n.d. Vlachos A, Muir E. How I treat diamond-Blackfan anemia. Blood. 2010;116:3715–23. Woods G, Bajwa RP, Rose MJ, et al. Reduced intensity transplantation for congenital amegakaryocytic thrombocytopenia: report of a case and review of the literature. Pediatr Transplant. 2014;18:E31–4.",
+          "zh": "延伸閱讀（續）\n本頁英文書目保留原文，涵蓋 Fagioli 等（DBA 移植）、Fioredda 等（SCN 移植）、Frangoul 等（CAMT 非親屬骨髓移植）、Mahadeo 等（CAMT 臍帶血移植）、Miano 等（DBA 幹細胞移植）、Mugishima 等、Muraoka 等、Peffault de Latour 等（Fanconi 貧血移植與 IBMFS 建議）、Rosenberg 等（SCN 使用 G-CSF 的白血病風險）、Savage 與 Dufour（高 MDS／AML 風險的遺傳性骨髓衰竭）、Strahm 等（DBA 移植結果）、Team Telomere 指引、Vlachos 與 Muir（DBA 治療）、Woods 等（CAMT 減低強度移植）。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+79+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+79"
+            }
+          ]
+        },
+        {
+          "id": 7900039,
+          "page": 711,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. C. Diaz-de-Heredia et al.",
+          "zh": "開放取用\n本章採 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/），在適當標示原作者與來源、提供授權連結並註明是否修改的前提下，允許以任何媒介或格式使用、分享、改作、散布與重製。\n除另有權利標示外，本章圖片及其他第三方材料亦納入本章 Creative Commons 授權。若材料未納入該授權，且預定用途不受法規允許或超出允許範圍，須直接向著作權人取得許可。",
+          "review": "ai-draft",
+          "retained": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=EBMT+Handbook+chapter+79+references"
+            },
+            {
+              "label": "Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=EBMT+Handbook+chapter+79"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
