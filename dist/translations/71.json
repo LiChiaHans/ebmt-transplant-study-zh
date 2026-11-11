@@ -1,0 +1,1628 @@
+{
+  "id": 71,
+  "title": "Acute Myeloid Leukaemia in Children",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 121,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 626,
+      "blocks": [
+        {
+          "id": 7100001,
+          "page": 626,
+          "en": "71 Acute Myeloid Leukaemia in Children Brenda E. S. Gibson, Martin G. Sauer, Subramaniam Ramanathan, and Persis J. Amrolia",
+          "zh": "71 兒童急性骨髓性白血病 — Brenda E. S. Gibson、Martin G. Sauer、Subramaniam Ramanathan、Persis J. Amrolia",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 翻譯改作，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_71"
+            }
+          ]
+        },
+        {
+          "id": 7100002,
+          "page": 626,
+          "en": "71.1 Introduction Whilst the outcome of frontline AML (including PR) has improved, treatment of R/R AML remains a challenge. Despite the majority of children (>90%) achieving CR, the relapse risk (RR) in CR1 remains high at 20–30%, albeit varying by risk group. Relapse remains the most common cause of death.",
+          "zh": "71.1 前言\n儘管第一線急性骨髓性白血病（AML，包含不良風險［PR］）的療效已有所改善，復發／難治型（R/R）AML 的治療仍是一大挑戰。儘管絕大多數兒童（>90%）可達到完全緩解（CR），首次完全緩解（CR1）的復發風險（RR）仍高達 20–30%，雖因風險分群而異。復發仍是最常見的死因。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100003,
+          "page": 626,
+          "en": "HCT reduces the RR in CR1 in all risk groups when compared to chemotherapy as consolidation treatment. Historically, this reduction in RR has not always translated into an improvement in OS due to the treatment-related mortality (TRM). However in the current era of a relatively low TRM, the balance shifts in favour of HCT for children at high risk of relapse. When considering the benefits of transplantation in children, it is important to acknowledge the potential for associated late effects, particularly infertility. HCT offers children with R/R AML their only real chance of long-term survival, which may rely on augmenting the graft versus leukaemia (GVL) effect. Post-HCT strategies such as the employment of FLT3 inhibitors (sorafenib and midastaurin) for FLT3/ITD-mutated AML, donor lymphocyte infusion (DLI), adoptive T-cells, or NK-cell immunotherapy may reduce the risk of further relapse post-transplant. A number of CAR T-cells are in development and may offer hope for the future.",
+          "zh": "相較於以化學治療作為鞏固治療，造血細胞移植（HCT）在所有風險分群中皆能降低 CR1 的復發風險（RR）。過去由於治療相關死亡率（TRM），RR 的降低並不總是轉化為整體存活率（OS）的改善。然而，在目前 TRM 相對較低的時代，對於具有高度復發風險的兒童，利弊權衡已傾向支持進行 HCT。在考量兒童接受移植的效益時，必須正視相關晚期後遺症（特別是不孕症）的潛在風險。HCT 為 R/R AML 兒童提供了唯一真正長期存活的機會，這可能仰賴於強化移植物抗白血病（GVL）效應。移植後策略，例如針對 FLT3/ITD 突變 AML 使用 FLT3 抑制劑（sorafenib 與 midostaurin［原文拼作 midastaurin］）、供者淋巴球輸注（DLI）、過繼性 T 細胞或自然殺手（NK）細胞免疫治療，可能降低移植後再次復發的風險。多種嵌合抗原受體 T 細胞（CAR T 細胞）正在研發中，可望為未來帶來希望。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100004,
+          "page": 626,
+          "en": "71.2 Prognostic Factors and Indications 71.2.1 First Complete Remission Consolidation therapy with allogeneic HCT in CR1 of paediatric AML has been shown consistently to reduce the RR through a GVL effect, which is stronger in AML than ALL. Recognising the importance of the GVL effect in preventing relapse has led to the adoption of techniques to augment the GVL effect such as the use of cord blood stem cells, omission of serotherapy and early withdrawal of immunosuppression.",
+          "zh": "71.2 預後因子與適應症\n71.2.1 首次完全緩解（CR1）\n在兒童 AML 的 CR1 階段以異體 HCT 進行鞏固治療，已一致證實可透過 GVL 效應降低 RR，且此效應在 AML 中強於急性淋巴性白血病（ALL）。體認到 GVL 效應在預防復發上的重要性，促使臨床採行強化 GVL 效應的技術，例如使用臍帶血幹細胞、省略血清治療（serotherapy），以及提早撤除免疫抑制劑。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100005,
+          "page": 626,
+          "en": "Improvements in HLA typing and expansion of the donor pool through the use of cord blood",
+          "zh": "人類白血球抗原（HLA）分型的進步，以及透過使用臍帶血",
+          "review": "ai-draft",
+          "endPage": 627
+        },
+        {
+          "id": 7100006,
+          "page": 626,
+          "en": "B. E. S. Gibson (*) Haematology Department, Royal Hospital for Children, University of Glasgow, Glasgow, UK e-mail: brenda.gibson@ggc.scot.nhs.uk M. G. Sauer Pediatric Hematology, Oncology and Blood Cell Transplantation, Medizinische Hochschule Hannover, Hannover, Germany e-mail: sauer.martin@mh-hannover.de S. Ramanathan Department of Paediatric Bone Marrow Transplant, Great North Children’s Hospital, Newcastle-upon-Tyne, UK e-mail: s.ramanathan@nhs.net P. J. Amrolia Department of Bone Marrow Transplant, Great Ormond St Children’s Hospital, London, UK e-mail: Persis.Amrolia@gosh.nhs.uk",
+          "zh": "作者單位：Brenda E. S. Gibson（通訊作者）— 英國格拉斯哥大學皇家兒童醫院（Royal Hospital for Children, University of Glasgow）血液科；e-mail: brenda.gibson@ggc.scot.nhs.uk。Martin G. Sauer — 德國漢諾威醫學院（Medizinische Hochschule Hannover）兒童血液、腫瘤暨血球移植科；e-mail: sauer.martin@mh-hannover.de。Subramaniam Ramanathan — 英國泰恩河畔新堡大北方兒童醫院（Great North Children’s Hospital）兒童骨髓移植科；e-mail: s.ramanathan@nhs.net。Persis J. Amrolia — 英國倫敦大奧蒙德街兒童醫院（Great Ormond St Children’s Hospital）骨髓移植科；e-mail: Persis.Amrolia@gosh.nhs.uk。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 627,
+      "blocks": [
+        {
+          "id": 7100007,
+          "page": 627,
+          "en": "stem cells and haploidentical donors have made HCT an option for the majority of patients. All patients with AML should be tissue-typed at presentation in order to optimise the chance of early transplant should this be indicated.",
+          "zh": "幹細胞與半相合供者來擴大供者庫，已使 HCT 成為大多數患者的治療選項。所有 AML 患者在初診時皆應進行組織分型，以便在有移植適應症時能把握早期移植的最佳時機。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100008,
+          "page": 627,
+          "en": "The criteria for transplanting patients has evolved from transplanting patients irrespective of the risk group, to transplanting all patients other than those with good-risk (GR) cytogenetics (about 70–80% of all patients), to the current practice of restricting transplant to those with poor-risk (PR) cytogenetics (about 30% of all patients), who are at the highest risk of relapse and most likely to benefit from HCT in CR1 in an era of low TRM.",
+          "zh": "患者接受移植的標準已隨時間演進：從早期不論風險分群皆進行移植，演變為除良好風險（GR）細胞遺傳學以外的所有患者皆進行移植（約占所有患者的 70–80%），再到目前的臨床實務，將移植限縮於具有不良風險（PR）細胞遺傳學的患者（約占所有患者的 30%）；在低 TRM 的時代，這群患者的復發風險最高，也最可能從 CR1 階段的 HCT 中獲益。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100009,
+          "page": 627,
+          "en": "There is no international agreement on the definition of PR disease. Most groups define PR disease which may benefit from HCT in CR1 through a combination of PR cytogenetics/molecular abnormalities, which are currently considered to be the strongest indicator of outcome, and the persistence of MRD after chemotherapy course 1 or 2. There is evolving consensus on which cytogenetics/molecular aberration constitutes high-risk disease, although some national groups place more value on MRD.",
+          "zh": "目前國際間對於 PR 疾病的定義尚無統一共識。大多數研究團隊結合 PR 細胞遺傳學／分子異常（目前被視為最強的預後指標）以及第 1 或第 2 療程化療後持續存在的可測量殘存疾病（MRD），來定義可能從 CR1 階段 HCT 獲益的 PR 疾病。儘管部分國家研究團隊更重視 MRD，但對於哪些細胞遺傳學／分子異常構成高風險疾病，共識正逐漸形成。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100010,
+          "page": 627,
+          "en": "There is consensus that failure to achieve CR carries a poor outcome. There is no advantage for HCT in CR1 for patients with GR disease, that is, those with t(8;21)(q22;q22)/RUNX1::RUNX1T1, inv.(16)(p13;q22)/CBFB::MYH11, NPM1 mutation or biallelic CEBPA bZIP in-frame insertion/deletion mutation. The benefit of HCT in CR1 for patients with intermediate-risk (IR) cytogenetics is less clear, and these may be the patients without PR cytogenetics but with a suboptimal early response to chemotherapy in whom MRD assessment can identify those at high risk of relapse who may benefit from transplant. There is no role for HCT in CR1 of acute promyelocytic leukaemia (APL) or Down syndrome myeloid leukaemia (ML-DS). HCT for patients with Fanconi anaemia and MDS/AML and those with JMML are discussed elsewhere.",
+          "zh": "各方共識認為，無法達到 CR 者預後不良。對於 GR 疾病患者，亦即具有 t(8;21)(q22;q22)/RUNX1::RUNX1T1、inv.(16)(p13;q22)/CBFB::MYH11、NPM1 突變或雙等位基因 CEBPA bZIP 同框插入／缺失突變（in-frame insertion/deletion mutation）者，在 CR1 進行 HCT 並無優勢。對於中度風險（IR）細胞遺傳學患者，在 CR1 進行 HCT 的效益則較不明確；這群患者可能不具 PR 細胞遺傳學，但對化療的早期反應不佳，透過 MRD 評估可從中識別出具有高度復發風險且可能從移植獲益的患者。在急性前骨髓細胞白血病（APL）或唐氏症骨髓性白血病（ML-DS）的 CR1 階段，HCT 並無角色。范可尼貧血（Fanconi anaemia）合併骨髓化生不良症候群（MDS）／AML 以及幼年型骨髓單核球白血病（JMML）患者的 HCT 則於其他章節討論。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100011,
+          "page": 627,
+          "en": "71.2.1.1 Cytogenetics Cytogenetic/molecular abnormalities are strong prognostic indicators of outcome in AML and are used to risk-stratify treatment. There is consensus that patients with GR cytogenetics have favourable outcomes with chemotherapy alone and, with the exception of rare cases with a suboptimal response to induction therapy, should not proceed to transplant. The approach to patients with IR cytogenetics is largely based on response to chemotherapy as assessed by MRD. HCT is generally recommended for patients with PR risk cytogenetic/molecular abnormalities. There is increasing consensus on which cytogenetic/molecular abnormalities are PR and those most commonly considered indicative of being at high risk of relapse include:\n• inv.(3)(q21q26)/t(3;3)(q21;q26)/abn(3q26) (MECOM rearrangements),\n• −5/del(5q)\n• −7\n• t(6,9)(p23;q34)/DEK::NUP214,\n• t(9;22)(q34;q11)/BCR::ABL1,\n• 12p abnormalities\n• t(6,11)(q27;q23)/KMT2A::MLLT4,\n• t(4;11)(q21;q23)/KMT2A::AFF1,\n• t(10;11)(p11 ~ 14;q23)/KMT2A::MLLT10 and other KMT2A partners located on 10p (e.g., ABI1),\n• All NUP98 fusions, t(5;11)(q35;p15.5)/NUP98::NSD1, NUP98::KDM5A.\n• t(7;12)(q36;p13)/MNX1::ETV6,\n• inv.(16)(p13.3;q24.3)/CBFA2T3::GLIS2,\n• FLT3-ITD without NPM1 mutation or CEBPA in-frame bZIP mutation or CBF-AML (NB: CEBPA double mutation with FLT3-ITD is intermediate risk).\n• Complex karyotype – no consensus.",
+          "zh": "71.2.1.1 細胞遺傳學\n細胞遺傳學／分子異常是 AML 預後的強大指標，並用於治療的風險分層。目前共識認為，具有 GR 細胞遺傳學的患者單靠化療即可獲得良好預後，除了極少數對誘導治療反應不佳的案例外，不應進行移植。對於 IR 細胞遺傳學患者的處置，主要取決於以 MRD 評估的化療反應。一般建議具有 PR 風險細胞遺傳學／分子異常的患者接受 HCT。對於哪些細胞遺傳學／分子異常屬於 PR 的共識正日益增加，最常被視為預示高度復發風險的異常包括：\n• inv.(3)(q21q26)/t(3;3)(q21;q26)/abn(3q26)（MECOM 基因重組）\n• −5/del(5q)\n• −7\n• t(6,9)(p23;q34)/DEK::NUP214\n• t(9;22)(q34;q11)/BCR::ABL1\n• 12p 異常\n• t(6,11)(q27;q23)/KMT2A::MLLT4\n• t(4;11)(q21;q23)/KMT2A::AFF1\n• t(10;11)(p11 ~ 14;q23)/KMT2A::MLLT10 及位於 10p 上的其他 KMT2A 夥伴基因（例如 ABI1）\n• 所有 NUP98 融合基因、t(5;11)(q35;p15.5)/NUP98::NSD1、NUP98::KDM5A\n• t(7;12)(q36;p13)/MNX1::ETV6\n• inv.(16)(p13.3;q24.3)/CBFA2T3::GLIS2\n• 未伴隨 NPM1 突變、CEBPA bZIP 同框突變或核心結合因子 AML（CBF-AML）的 FLT3-ITD（註：CEBPA 雙突變伴隨 FLT3-ITD 屬於中度風險）\n• 複雜核型（complex karyotype）– 尚無共識。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100012,
+          "page": 627,
+          "en": "It is difficult to risk-stratify rare fusions, but FUS::ERG and PICALM::MLLT10 have been reported in the literature as poor risk. Not all groups consider a complex karyotype (3 or more abnormalities) to be poor risk. The translocation t(11;19)(q23; p13.3)/KMT2A::MLLT1 is variably classified as intermediate or high risk. KMT2A (MLL) rearrangements with the exception of t(4;11)(q21;q23)/KMT2A::AFF1, t(6;11)(q27;q23)/KMT2A::MLLT4 and t(10;11p11-p14; q23)/KMT2A::MLLT10/KMT2A::ABI1 are",
+          "zh": "罕見融合基因難以進行風險分層，但文獻中曾將 FUS::ERG 與 PICALM::MLLT10 報告為不良風險。並非所有研究團隊皆將複雜核型（≥3 個異常）視為不良風險。轉位 t(11;19)(q23; p13.3)/KMT2A::MLLT1 在不同分類中被歸為中度或高風險。除了 t(4;11)(q21;q23)/KMT2A::AFF1、t(6;11)(q27;q23)/KMT2A::MLLT4 及 t(10;11p11-p14; q23)/KMT2A::MLLT10/KMT2A::ABI1 以外的 KMT2A（MLL）重組，",
+          "review": "ai-draft",
+          "endPage": 628
+        }
+      ]
+    },
+    {
+      "page": 628,
+      "blocks": [
+        {
+          "id": 7100013,
+          "page": 628,
+          "en": "generally considered intermediate risk, but in rare incidences intermediate risk KMT2A abnormalities may co-occur with poor-risk features (e.g., FLT3-ITD, monosomy 7, 12p abnormalities, etc.), which may alter the risk. FLT3-ITD is considered as poor risk but often co-occurs with other poor-risk cytogenetic abnormalities, when the risk may be augmented. The absence of GR cytogenetic abnormalities and the allelic ratio (>0.4) may influence the risk and approach to treatment. An increasing number of clinically relevant fusions are becoming recognised, a number of which are cytogenetically cryptic and require more comprehensive diagnostic assessment. Currently, PR cytogenetics comprise about 30–35% of all AML in children.",
+          "zh": "一般被視為中度風險，但在少數情況下，中度風險的 KMT2A 異常可能與不良風險特徵（例如 FLT3-ITD、單體 7［monosomy 7］、12p 異常等）同時出現，進而改變其風險分級。FLT3-ITD 被視為不良風險，但常與其他不良風險細胞遺傳學異常同時發生，此時風險可能會進一步升高。缺乏 GR 細胞遺傳學異常以及等位基因比率（allelic ratio >0.4）可能會影響風險評估與治療策略。目前已有越來越多具臨床意義的融合基因被識別出來，其中許多在傳統細胞遺傳學檢查中具隱匿性（cryptic），需要更全面的診斷評估。目前，PR 細胞遺傳學約占所有兒童 AML 的 30–35%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100014,
+          "page": 628,
+          "en": "AML is a heterogeneous disease, and not all PR cytogenetic groups will benefit to the same degree from HCT in CR1. The European Society for Blood and Marrow Transplantation (EBMT)/ Paediatric Diseases Working Party (PDWP) recently reported a review of children ≤18 years of age at HCT reported to the European Society for Blood and Marrow Transplantation (EBMT) registry, who received their first allogeneic HCT for AML in CR1 between 2005 and 2020 and who had an evaluable diagnostic karyotype. The aim was to establish whether PR cytogenetic abnormalities at diagnosis remain predictive of OS after HCT. Patients were subgrouped as (a) monosomy 7/del(7q) or monosomy 5/del(5q) (24%), (b) 11q23 abnormalities excluding t(9;11)(p12;q23)/KMT2A::MLLT3 (37%), (c) complex or monosomal karyotype (24%), or (d) “other” (15%). A complex karyotype was defined as three or more structural abnormalities, and a monosomal karyotype as a monosomy with one or more structural abnormalities, excluding WHO-designated recurring translocations or inversions (2017 ELN recommendations). The “other” subgroup included t(6;9)(p23;q34)/DEK::NUP214, t(3;5)(q25;q34)/NPM1::MLF1,t(9;22)(q34;q11)/BCR::ABL1, t(8;16)(p11;p13)/MYST3::CREBBP, inv.(3)(q21q26) or t(3;3)(q21;q26)/RPN1::MECOM, t(16;21)(p11;q22)/FUS::ERG, abn(11)(p15) and del(12p)/abnormality of 12(p13). The review included 744 children (median age at HCT: 8.6 years [0.3–18 years]). Median follow-up after HCT was 4.4 years. Eighty-six per cent of 346 evaluable patients were MRD-negative pre-HCT and 97% of patients received myeloablative conditioning (MAC). The OS and leukaemia-free survival (LFS) for the entire cohort were 76% and 70%, respectively, at 2 years. In a multivariate model, 11q23 (hazard ratio (HR) = 0.59, P = 0.01) and “other” PR cytogenetic abnormalities (HR = 0.49, P < 0.01) were associated with significantly better OS compared to monosomy 7/del(7q) or 5/del(5q) (HR1). The “other” PR cytogenetic abnormalities category was also associated with a lower risk of disease relapse after HCT (HR = 0.4, P = 0.01). Receipt of an unrelated donor was associated with a lower relapse incidence (RI) (HR = 0.58, P = 0.03).",
+          "zh": "AML 是一種異質性疾病，並非所有 PR 細胞遺傳學分群都能從 CR1 的 HCT 中獲得相同程度的效益。歐洲血液與骨髓移植學會（EBMT）／兒童疾病工作小組（PDWP）近期報告了一項針對向 EBMT 登錄系統通報、於 2005 年至 2020 年間在 CR1 接受首次異體 HCT、移植時年齡 ≤18 歲且具可評估診斷核型的 AML 兒童之回顧分析。其目的在於確立診斷時的 PR 細胞遺傳學異常是否仍能預測 HCT 後的 OS。患者被細分為以下次分群：(a) 單體 7/del(7q) 或單體 5/del(5q)（24%）、(b) 排除 t(9;11)(p12;q23)/KMT2A::MLLT3 後的 11q23 異常（37%）、(c) 複雜核型或單體核型（monosomal karyotype）（24%），或 (d)「其他」（15%）。複雜核型定義為 ≥3 個結構異常，單體核型定義為一個單體合併 ≥1 個結構異常，並排除世界衛生組織（WHO）指定的重現性轉位或倒位（依據 2017 年歐洲白血病網［ELN］建議）。「其他」次分群包括 t(6;9)(p23;q34)/DEK::NUP214、t(3;5)(q25;q34)/NPM1::MLF1、t(9;22)(q34;q11)/BCR::ABL1、t(8;16)(p11;p13)/MYST3::CREBBP、inv.(3)(q21q26) 或 t(3;3)(q21;q26)/RPN1::MECOM、t(16;21)(p11;q22)/FUS::ERG、abn(11)(p15) 以及 del(12p)/12(p13) 異常。該回顧納入了 744 名兒童（HCT 時中位年齡：8.6 歲［0.3–18 歲］）。HCT 後中位追蹤時間為 4.4 年。在 346 名可評估患者中，86% 於 HCT 前為 MRD 陰性，且 97% 患者接受骨髓清除性預處理（MAC）。整個世代在 2 年時的 OS 與無白血病存活率（LFS）分別為 76% 與 70%。在多變數模型中，相較於單體 7/del(7q) 或 5/del(5q)（HR = 1），11q23（風險比［HR］= 0.59，P = 0.01）與「其他」PR 細胞遺傳學異常（HR = 0.49，P < 0.01）與顯著較佳的 OS 相關。「其他」PR 細胞遺傳學異常類別亦與 HCT 後較低的疾病復發風險相關（HR = 0.4，P = 0.01）。接受非親屬供者移植則與較低的復發發生率（RI）相關（HR = 0.58，P = 0.03）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100015,
+          "page": 628,
+          "en": "71.2.1.2 Measurable Residual Disease Assessment (See Chap. 57) Whilst genetic risk is the most important prognostic factor in AML, MRD is an independent post-remission prognostic factor important for risk stratification and treatment decision (Schuurhuis et al. 2018). Detection can be done by multiparametric flow cytometry (MFC), reverse-transcription quantitative PCR (RT-qPCR), digital droplet PCR and next-generation sequencing (NGS), all of which have different sensitivities and specificities. The European Leukaemia Net (ELN)-MRD Working Party has produced guidelines for standardisation and harmonisation which includes recommendations for the use of MRD prognostically, selection of the methodology, appropriate time points for assessment, MRD thresholds and definition of response (Heuser et al. 2021).",
+          "zh": "71.2.1.2 可測量殘存疾病評估（參見第 57 章）\n儘管遺傳風險是 AML 最重要的預後因子，MRD 仍是緩解後獨立的預後因子，對於風險分層與治療決策至關重要（Schuurhuis et al. 2018）。檢測可透過多參數流式細胞儀（MFC）、反轉錄定量聚合酶連鎖反應（RT-qPCR）、微滴式數位 PCR（digital droplet PCR）及次世代定序（NGS）進行，各種方法皆具有不同的敏感度與特異度。歐洲白血病網（ELN）-MRD 工作小組已制定標準化與協調指南，內容包含將 MRD 用於預後評估、方法學選擇、適當評估時間點、MRD 閾值以及反應定義之建議（Heuser et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100016,
+          "page": 628,
+          "en": "MFC is most commonly employed in paediatric AML either by measuring leukaemia aberrant immunophenotype (LAIP), a “different from normal” (DfN) phenotype or a combination of both methodologies. MRD positivity by MFC at early time points is strongly predictive of outcome. It is sensitive to a level of 0.1–0.01% and with an appropriate panel about 90% of children will have an informative LAIP by MFC.",
+          "zh": "在兒童 AML 中最常採用 MFC，可透過測量白血病異常免疫表現型（LAIP）、「異於正常」（DfN）表現型，或結合這兩種方法來進行。早期時間點的 MFC MRD 陽性對預後具有強烈的預測力。其敏感度可達 0.1–0.01% 的水準，且若使用適當的抗體組合（panel），約 90% 的兒童可藉由 MFC 檢測出具資訊價值的 LAIP。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100017,
+          "page": 628,
+          "en": "Currently, the commonest threshold level for MFC is 0.1%, and the time point for post-course",
+          "zh": "目前，MFC 最常採用的閾值水準為 0.1%，且療程後評估的時間點為第",
+          "review": "ai-draft",
+          "endPage": 629
+        }
+      ]
+    },
+    {
+      "page": 629,
+      "blocks": [
+        {
+          "id": 7100018,
+          "page": 629,
+          "en": "is 1 or 2. However, the ability to define absolute risk remains limited with nearly a quarter of patients with flow MRD ≤ 0.1% post-course 1 relapsing and a similar proportion of patients with flow MRD >0.1% remaining relapse-free (Sievers et al. 2003; Paietta 2018). More recently, a systematic review of the prognostic value of MRD in paediatric AML was reported. Thirteen studies were included and in all studies, MRD positivity during treatment was associated with worse clinical outcome. However, MRD negativity during treatment is associated with significantly better clinical outcome but does not exclude the possibility of relapse, whilst positivity early during treatment does not exclude cure (Segerink et al. 2021).",
+          "zh": "1 或第 2 療程後。然而，其界定絕對風險的能力仍然有限，在第 1 療程後流式細胞儀 MRD ≤ 0.1% 的患者中，有近四分之一會復發，而在流式細胞儀 MRD >0.1% 的患者中，也有相近比例的患者維持無復發（Sievers et al. 2003; Paietta 2018）。近期有一項關於兒童 AML 中 MRD 預後價值的系統性回顧報告，共納入 13 項研究，所有研究皆顯示治療期間 MRD 陽性與較差的臨床預後相關。然而，治療期間 MRD 陰性雖與顯著較佳的臨床預後相關，卻不能排除復發的可能性；而治療早期的陽性亦不排除治癒的可能（Segerink et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100019,
+          "page": 629,
+          "en": "Molecular MRD assessment by RT-qPCR generally has a sensitivity level of 0.1–0.001% and is applicable in approximately 80% of children who have a target for RT-qPCR such as a fusion gene or NPM1 mutation. Not only can molecular MRD be used to guide treatment but can also be used sequentially for the early detection and pre-emptive treatment of relapse. Further work is required to define molecular MRD thresholds at early time points that are predictive of relapse in the paediatric setting, bearing in mind that these may vary by molecular subtype. However, serially rising transcript levels (i.e., MRD relapse) are strongly predictive of haematological relapse, and some consider this an indication for pre-emptive therapy. Digital PCR and next-generation sequencing have some potential advantages for MRD monitoring over existing molecular techniques but currently remain in the research arena. Similarly, leukaemia stem cell monitoring may add prognostic information to current flow cytometry-based assays (Schuurhuis et al. 2018).",
+          "zh": "以 RT-qPCR 進行的分子 MRD 評估一般具有 0.1–0.001% 的敏感度水準，並適用於約 80% 具有 RT-qPCR 標的（如融合基因或 NPM1 突變）的兒童。分子 MRD 不僅可用於指引治療，亦可連續監測以早期偵測復發並進行先發性治療（pre-emptive treatment）。目前仍需進一步研究來定義兒童群體中在早期時間點可預測復發的分子 MRD 閾值，同時須考量這些閾值可能因分子亞型而異。然而，連續上升的轉錄本濃度（亦即 MRD 復發）可強烈預測血液學復發，部分專家將此視為先發性治療的適應症。數位 PCR 與次世代定序在 MRD 監測上相較於現有分子技術具有部分潛在優勢，但目前仍停留在研究階段。同樣地，白血病幹細胞監測可能為現行以流式細胞儀為基礎的檢測提供額外的預後資訊（Schuurhuis et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100020,
+          "page": 629,
+          "en": "Preliminary data from adult studies and AAML 03P1 (Loken et al. 2012) suggest a limited discriminatory value for flow MRD in patients with PR cytogenetics. Observation from COG AAML03P1 and AIEOP 2002/01 that patients considered MRD negative at the end of treatment, but with previously documented MRD post-course 1, remain at high risk of relapse and poor outcome, suggesting that intervention beyond clearance of MRD with chemotherapy alone is required for improved outcome (Buldini et al. 2017; Loken et al. 2012).",
+          "zh": "來自成人研究與 AAML 03P1（Loken et al. 2012）的初步數據顯示，流式細胞儀 MRD 在具有 PR 細胞遺傳學的患者中鑑別價值有限。兒童腫瘤學群（COG）AAML03P1 與義大利兒童血液腫瘤學會（AIEOP）2002/01 的觀察發現，在治療結束時被視為 MRD 陰性、但先前於第 1 療程後曾記錄到 MRD 的患者，仍處於高度復發風險且預後不良，這顯示除了單靠化療清除 MRD 之外，還需要額外的介入措施才能改善預後（Buldini et al. 2017; Loken et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100021,
+          "page": 629,
+          "en": "In patients with GR cytogenetics, stable or falling transcript levels may be an indication for further chemotherapy rather than HCT. It is recognised that some patients with GR cytogenetics may have disease which is detectable molecularly after course 1, but patients may still obtain a durable CR with chemotherapy alone. Karlsson et al. reported a small study of 15 children treated on NOPHO-AML 2004 which compared results by RT-qPCR and MFC. Eight children had a RUNX1::RUNX1T1, one CBFB::MYH11 and six KMT2A::MLLT3. Ten of 22 samples were discordant with a cutoff for positivity of ≥0.1%. The majority (9/10) were MRD-positive with RT-qPCR but MRD-negative with MFC. This was shown to be due to the presence of fusion transcripts in mature cells as well as in CD34-expressing cells. Measurement of RT-qPCR suggests slower response kinetics than indicated by MFC, and the authors suggest that the prognostic impact of early measurement with RT-qPCR remains to be determined (Karlsson et al. 2022).",
+          "zh": "在具有 GR 細胞遺傳學的患者中，穩定或下降的轉錄本濃度可能是繼續進行化療而非 HCT 的適應症。目前已體認到，部分具有 GR 細胞遺傳學的患者在第 1 療程後仍可由分子檢測偵測到疾病，但僅靠化療仍可獲得持久的 CR。Karlsson 等人報告了一項納入 15 名接受 NOPHO-AML 2004 治療兒童的小型研究，比較 RT-qPCR 與 MFC 的結果。其中 8 名兒童具有 RUNX1::RUNX1T1、1 名具有 CBFB::MYH11、6 名具有 KMT2A::MLLT3。以 ≥0.1% 作為陽性切點時，22 個檢體中有 10 個結果不一致。絕大多數（9/10）在 RT-qPCR 為 MRD 陽性，但在 MFC 則為 MRD 陰性。研究證實這是因為融合轉錄本不僅存在於表現 CD34 的細胞中，也存在於成熟細胞中。RT-qPCR 的測量結果顯示其反應動力學比 MFC 所呈現的更慢，作者認為以 RT-qPCR 進行早期測量的預後影響仍有待確立（Karlsson et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100022,
+          "page": 629,
+          "en": "In the NOPHO–AML 2004 trial, MRD detected by MFC was performed on day 15 and before consolidation and was evaluable in 101 patients. Using a 0.1% MRD cutoff level, MRD-negative and MRD-postive patients at the start of consolidation therapy had a 5-year EFS of 57 ± 7% and 11 ± 7%, respectively (P < 0.001) and an OS of 78 ± 6% and 28 ± 11% (P < 0.001). Patients who were MRD-positive before consolidation had a cumulative incidence of relapse (CIR) of 82 ± 9.3% compared to 38.2 ± 6% in those who were MRD-negative at this time point. In multivariate analysis, only MRD correlated significantly with survival and MRD before consolidation therapy was the strongest independent prognostic factor for EFS and OS (Tierens et al. 2016).",
+          "zh": "在 NOPHO–AML 2004 試驗中，於第 15 天及鞏固治療前進行 MFC MRD 檢測，共有 101 名患者可進行評估。採用 0.1% 的 MRD 切點水準，鞏固治療開始時 MRD 陰性與 MRD 陽性患者的 5 年無事件存活率（EFS）分別為 57 ± 7% 與 11 ± 7%（P < 0.001），OS 則分別為 78 ± 6% 與 28 ± 11%（P < 0.001）。鞏固治療前 MRD 陽性患者的累積復發發生率（CIR）為 82 ± 9.3%，而在該時間點 MRD 陰性者則為 38.2 ± 6%。在多變數分析中，僅有 MRD 與存活率呈顯著相關，且鞏固治療前的 MRD 是 EFS 與 OS 最強的獨立預後因子（Tierens et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100023,
+          "page": 629,
+          "en": "HCT has been shown to reduce the negative impact of a poor early treatment response. Thirty one of 267 (12%) children treated on NOPHO-AML 20024 were defined as poor responders (15% blasts morphologically after course 1 or 5% blasts after course 2). These patients had",
+          "zh": "HCT 已被證實可減輕早期治療反應不佳的負面影響。在接受 NOPHO-AML 2004（原文誤植為 20024）治療的 267 名兒童中，有 31 名（12%）被定義為反應不佳者（第 1 療程後形態學芽球 ≥15% 或第 2 療程後芽球 ≥5%）。這些患者接受了",
+          "review": "ai-draft",
+          "endPage": 630
+        }
+      ]
+    },
+    {
+      "page": 630,
+      "blocks": [
+        {
+          "id": 7100024,
+          "page": 630,
+          "en": "time-intensive chemotherapy followed by HCT in 25 of 31 with a donor. The 3-year probability of survival for these high-risk patients was 70%. Patients classified as intermediate risk (defined as 5–14.9% blasts after course 1) had a significantly inferior EFS compared to high-risk patients. Both groups had time-intensive chemotherapy, but only high-risk patients proceeded to HCT (Wareham et al. 2013; Abrahamsson et al. 2011).",
+          "zh": "時間密集型化學治療，且 31 名中有供者的 25 名隨後接受了 HCT。這些高風險患者的 3 年存活機率為 70%。被歸類為中度風險（定義為第 1 療程後芽球 5–14.9%）的患者，其 EFS 顯著劣於高風險患者。兩組患者皆接受了時間密集型化療，但僅高風險患者進一步接受 HCT（Wareham et al. 2013; Abrahamsson et al. 2011）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100025,
+          "page": 630,
+          "en": "The St Jude’s group showed that flow MRD positivity >0.1% after course 1 was associated with a 3-year EFS of 43% compared to 74% in those who were MRD-negative (Rubnitz et al. 2010). Likewise on the COG AAML03P1 protocol, of 188 patients who achieved morphological CR after course 1 or 2, 46 (24%) had detectable flow MRD > 0.1%. Those with and without MRD > 0.1% at the end of course 2 had a 3-year-RR of 67% and 30% and a relapse-free survival (RFS) of 29% and 65%, respectively (Loken et al. 2012).",
+          "zh": "St Jude 研究團隊顯示，第 1 療程後流式細胞儀 MRD 陽性（>0.1%）者的 3 年 EFS 為 43%，而 MRD 陰性者則為 74%（Rubnitz et al. 2010）。同樣地，在 COG AAML03P1 治療方案中，於第 1 或第 2 療程後達到形態學 CR 的 188 名患者裡，有 46 名（24%）可偵測到流式細胞儀 MRD > 0.1%。在第 2 療程結束時具有與不具有 MRD > 0.1% 的患者，其 3 年 RR 分別為 67% 與 30%，無復發存活率（RFS）則分別為 29% 與 65%（Loken et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100026,
+          "page": 630,
+          "en": "Compared to patients with PR cytogenetics, the benefit of HCT in CR1 for patients with IR cytogenetics is less clear.",
+          "zh": "相較於具有 PR 細胞遺傳學的患者，具有 IR 細胞遺傳學的患者在 CR1 接受 HCT 的效益較不明確。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100027,
+          "page": 630,
+          "en": "A recent I-BFMSG study evaluated the benefit of HCT in CR 1 in a heterogenous cohort of patients with KMT2A-r (rearranged) AML including high- and intermediate-risk rearrangements based on the fusion partner. Irrespective of risk group, MRD negativity post-course 2 was associated with superior EFS and a trend towards lower CIR. However, within the intermediate-risk group, the CIR was similar for MRD-negative and MRD-positive patients post-course 2. The authors recognised the limitations of a retrospective study in which the transplant rate was low (21%) by today’s standards, the limitations of MFC MRD in the era studied, and that the study was not powered to assess the effect of HCT in CR1 (van Weelderen et al. 2023).",
+          "zh": "近期一項國際 BFM 研究群（I-BFMSG）的研究，在一個異質性的 KMT2A 重組（KMT2A-r）AML 患者世代（依融合夥伴基因包含高風險與中度風險重組）中，評估了 CR1 進行 HCT 的效益。不論風險分群為何，第 2 療程後 MRD 陰性皆與較佳的 EFS 及較低 CIR 的趨勢相關。然而，在中度風險群內，第 2 療程後 MRD 陰性與 MRD 陽性患者的 CIR 相近。作者群指出此回顧性研究的幾項限制：以今日標準而言其移植率偏低（21%）、所研究年代的 MFC MRD 技術存在限制，以及該研究的統計檢定力不足以評估在 CR1 進行 HCT 的效果（van Weelderen et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100028,
+          "page": 630,
+          "en": "71.2.2 Relapsed Disease Patients with relapsed AML across all cytogenetic risk groups have a dismal prognosis with chemotherapy alone, and it is generally accepted that they should proceed to transplant in CR2. The first international I-BFM AML Relapsed Study reported the chance of achieving a second CR after relapse to be dependent on the length of CR1: CR1 < 1 year versus CR >1 year is 50% versus 75% with an overall CR rate of 60% and OS for CR1 < 1 year 26% versus 45% CR1 > 1 year, p < 0.001 (Kaspers et al. 2013). Cytogenetics are strong prognostic indicators in relapse as in de novo disease with patients with CBF leukaemias fairing the best: CBF leukaemias versus others—OS 67% versus 31%, p < 0.001. Other significant prognostic indicators were no HCT in CR1 and speed of response to reinduction.",
+          "zh": "71.2.2 復發性疾病\n所有細胞遺傳學風險分群的復發性 AML 患者，若僅接受化學治療，預後皆極為慘淡，因此普遍公認應在第二次完全緩解（CR2）時進行移植。第一項國際 I-BFM AML 復發研究報告指出，復發後達到第二次 CR 的機率取決於 CR1 的持續時間：CR1 < 1 年對比 CR > 1 年分別為 50% 對比 75%（整體 CR 率為 60%），且 CR1 < 1 年的 OS 為 26%，對比 CR1 > 1 年為 45%，p < 0.001（Kaspers et al. 2013）。細胞遺傳學在復發時如同初發（de novo）疾病一樣是強力的預後指標，其中核心結合因子（CBF）白血病患者的表現最佳：CBF 白血病對比其他類型——OS 為 67% 對比 31%，p < 0.001。其他顯著的預後指標包括未曾在 CR1 接受 HCT，以及對再誘導治療的反應速度。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100029,
+          "page": 630,
+          "en": "A retrospective analysis of two large international study groups (COG and BFM) has updated these outcomes. The OS at 5 years was 42% (BFM) and 35% (COG). Initial high-risk features and short time to relapse predicted poor outcomes. OS for all patients who received a HCT was 54% ± 4%. In the BFM cohort, 82% of patients proceeded to HCT which represented an increase compared to previous trials and an improvement in outcomes was observed (Rasche et al. 2021).",
+          "zh": "兩大國際研究團隊（COG 與 BFM）的回顧性分析更新了上述結果。5 年 OS 在 BFM 為 42%，在 COG 為 35%。初始高風險特徵與距離復發時間短預示著不良預後。所有接受 HCT 患者的 OS 為 54% ± 4%。在 BFM 世代中，有 82% 的患者接受了 HCT，比例較先前的試驗增加，且觀察到預後有所改善（Rasche et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100030,
+          "page": 630,
+          "en": "The AML-SCT BFM 0227 trial showed similar outcomes. Patients transplanted in CR2 had a 4-year EFS of 46% with a RR of 27% (Sauer et al. 2020).",
+          "zh": "AML-SCT BFM 2007（原文誤植為 0227）試驗亦顯示類似的結果。在 CR2 接受移植的患者，其 4 年 EFS 為 46%，RR 為 27%（Sauer et al. 2020）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100031,
+          "page": 630,
+          "en": "Outcomes in multiply relapsed AML are poor. An AML-BFM study group reported a 5-year probability of OS of 31 ± 9% following HCT (n = 25) in patients transplanted after a second relapse. Twenty-one of 25 (88%) had a previous HCT. Early second relapse was associated with a dismal outcome and dependent on a favourable response to further treatment. Although survival at the second relapse is poor, it is possible (Rasche et al. 2021). Novel therapies may have a role in multiple relapsed AML to achieve remission prior to HCT.",
+          "zh": "多次復發 AML 的預後不佳。AML-BFM 研究團隊報告，在第二次復發後接受移植的患者（n = 25）中，HCT 後的 5 年 OS 機率為 31 ± 9%。25 名患者中有 21 名（88%）先前曾接受過 HCT。早期第二次復發與極差的預後相關，且取決於對後續治療是否有良好反應。儘管第二次復發時的存活率不高，但仍有存活可能（Rasche et al. 2021）。新興療法在多次復發的 AML 中可能扮演一角，協助患者在 HCT 前達到緩解。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100032,
+          "page": 630,
+          "en": "71.2.3 Refractory Disease Residual disease/MRD positivity pre-HCT increases the risk of relapse post-HCT, but the susceptibility of AML to GVL does not preclude",
+          "zh": "71.2.3 難治性疾病\nHCT 前存在殘存疾病／MRD 陽性會增加 HCT 後的復發風險，但由於 AML 對 GVL 效應具敏感性，這並不排除",
+          "review": "ai-draft",
+          "endPage": 631
+        }
+      ]
+    },
+    {
+      "page": 631,
+      "blocks": [
+        {
+          "id": 7100033,
+          "page": 631,
+          "en": "transplant. MRD status just prior to HCT is an important prognostic indicator. A small study reported a 5-year OS of 80.4% for children with <0.01% MRD (n = 27), 66.7% for those with 0.01–5% MRD (n = 9) and 58.3% for those with >5% MRD (Leung et al. 2012). In a retrospective study from the UK of 44 paediatric patients transplanted for refractory AML, 68% achieved CR following HCT with a 5-year LFS of 43% and RR of 32% (O'Hare et al. 2017)). Outcomes in patients with primary refractory disease (n = 23) were equivalent to those with R/R AML (n = 21). Blast percentage ⩽ 30% in the bone marrow (BM) pre-HCT, myeloablative conditioning and acute GVHD were favourable prognostic features. Stratification according to age ≥ 10 years and > 30% blasts in BM pre-HCT enabled prognostication, i.e., patients with neither or one of these risk factors had a LFS of 53% whereas those with both factors had a LFS of 10%. It should be noted, however, that these data were in patients who proceeded to HCT and there is thus significant selection bias. Recent data suggest particularly impressive outcomes with unrelated cord blood transplant in patients with refractory disease with a 61% EFS in patients with primary refractory disease (n = 29) and 45% in those with R/R disease (n = 23) (Horgan et al. 2023). Overall these data suggest that a significant subset of patients with refractory disease are curable by HCT.",
+          "zh": "進行移植。HCT 前一刻的 MRD 狀態是重要的預後指標。一項小型研究報告指出，MRD <0.01% 的兒童（n = 27）其 5 年 OS 為 80.4%，MRD 0.01–5% 者（n = 9）為 66.7%，而 MRD >5% 者則為 58.3%（Leung et al. 2012）。在英國一項針對 44 名因難治性 AML 接受移植的兒童患者之回顧性研究中，68% 在 HCT 後達到 CR，5 年 LFS 為 43%，RR 為 32%（O'Hare et al. 2017）。原發性難治性疾病患者（n = 23）的預後與 R/R AML 患者（n = 21）相當。HCT 前骨髓（BM）芽球比例 ⩽ 30%、骨髓清除性預處理以及發生急性移植物抗宿主疾病（GVHD）皆為良好的預後特徵。依據年齡 ≥ 10 歲以及 HCT 前 BM 芽球 > 30% 進行分層可預測預後：不具任何一項或僅具其中一項危險因子的患者，其 LFS 為 53%，而同時具有這兩項因子的患者，其 LFS 僅為 10%。然而須注意的是，這些數據來自得以進行 HCT 的患者，因此存在顯著的選擇性偏差（selection bias）。近期數據顯示，非親屬臍帶血移植在難治性疾病患者中展現出特別令人矚目的成果，原發性難治性疾病患者（n = 29）的 EFS 達 61%，而 R/R 疾病患者（n = 23）則為 45%（Horgan et al. 2023）。整體而言，這些數據顯示有相當比例的難治性疾病患者可透過 HCT 治癒。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100034,
+          "page": 631,
+          "en": "71.3 Conditioning Regimens No advantage has been shown for total body irradiation (TBI) in AML, and chemotherapy-only regimens should be used to limit the burden of morbidity associated with endocrine dysfunction. Adult data from the CIBMTR demonstrated improved NRM, OS and DFS in patients with AML transplanted using IV BU with therapeutic drug monitoring (TDM) compared with TBI (Copelan et al. 2013). Myeloablative conditioning (MAC) regimens are most commonly used, but a number of reduced toxicity conditioning (RTC) regimens are being tested. There is no proven “best” chemotherapy conditioning regimen, though MAC regimens with BU and CY with TDM of BU levels are currently the standard of care.",
+          "zh": "71.3 預處理方案\n在 AML 中，全身放射治療（TBI）並未顯示出任何優勢，因此應使用純化學治療預處理方案，以減少與內分泌功能障礙相關的發病負擔。來自國際血液與骨髓移植研究中心（CIBMTR）的成人數據顯示，相較於 TBI，使用靜脈注射 busulfan（IV BU）並搭配治療藥物監測（TDM）進行移植的 AML 患者，其非復發死亡率（NRM）、OS 與無病存活率（DFS）皆有所改善（Copelan et al. 2013）。骨髓清除性預處理（MAC）方案最常被使用，但目前亦有數種減低毒性預處理（RTC）方案正在測試中。目前尚無經證實「最佳」的化療預處理方案，不過採用 BU 與 cyclophosphamide（CY）並對 BU 濃度進行 TDM 的 MAC 方案是目前公認的標準照護。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100035,
+          "page": 631,
+          "en": "However, the AUC to be targeted has been systemically evaluated for the combination of BU with CY only. When BU was combined with agents other than CY, relationships between BU exposure and clinical outcomes have been shown to be altered (McCune et al. 2000). For example, the use of BU TDM varied considerably with BU/FLU (Parmar et al. 2013; Ayala et al. 2015), Bu/clofarabine (Andersson et al. 2011; Kebriaei et al. 2012) and BU/CY/etoposide (Zhang et al. 2012; Chen et al. 2015). A retrospective EBMT study of Bu, Cy and Melphalan (Mel) (enhanced MAC) in paediatric AML in CR1 suggested improved RR and LFS compared with Bu-Cy, but the majority of patients receiving Bu-Cy on this study did not undergo TDM (Lucchini et al. 2017). The prospectively conducted and centrally monitored BFM trial AML SCT-BFM 2007 used BU/CY/MEL (enhanced MAC) for children with a matched family or unrelated donor. BU dosing was weight-adapted only. Four-year EFS and OS were 61% and 70%, respectively, for the complete cohort. CIR was 22%. TRM was 15% and correlated with age reaching 9% (SE 3%) in children younger than 12 years and 31% (SE 9%) in older children and adolescents. Of note, children under the age of 12 years, who were transplanted in CR1, achieved an exceptional OS of 94%, an EFS of 84% and a TRM of 6% at four years. Due to unacceptable TRM rates between 20 and 30%, the trial was halted for teenagers, and this regimen should be avoided or used with caution in this age group (Sauer et al. 2020). There is an increasing body of experience with BU/FLU-based MAC, which is well tolerated, but no published randomised comparisons are available to determine the relative anti-leukaemic activity of BU/FLU versus BU/CY (Harris et al. 2018). The recently completed MyeChild01 trial is expected to give answers to this unresolved question.",
+          "zh": "然而，目前僅針對 BU 併用 CY 的組合系統性地評估過目標曲線下面積（AUC）。當 BU 與 CY 以外的藥物併用時，BU 暴露量與臨床結果之間的關係已被證實會發生改變（McCune et al. 2000）。例如，在 BU/fludarabine（FLU）（Parmar et al. 2013; Ayala et al. 2015）、Bu/clofarabine（Andersson et al. 2011; Kebriaei et al. 2012）以及 BU/CY/etoposide（Zhang et al. 2012; Chen et al. 2015）中，BU TDM 的使用方式差異甚大。一項針對兒童 AML 在 CR1 使用 Bu、Cy 與 melphalan（Mel）（強化版 MAC）的 EBMT 回顧性研究顯示，相較於 Bu-Cy，其 RR 與 LFS 有所改善，但該研究中接受 Bu-Cy 的大多數患者並未進行 TDM（Lucchini et al. 2017）。前瞻性執行且集中監測的 BFM 試驗 AML SCT-BFM 2007，對具有相合親屬或非親屬供者的兒童採用了 BU/CY/MEL（強化版 MAC）。BU 劑量僅依體重調整。整個世代的 4 年 EFS 與 OS 分別為 61% 與 70%。CIR 為 22%。TRM 為 15%，且與年齡相關：在未滿 12 歲的兒童中為 9%（標準誤［SE］3%），而在較大兒童與青少年中則高達 31%（SE 9%）。值得注意的是，在 CR1 接受移植的未滿 12 歲兒童，在 4 年時達到了 94% 的優異 OS、84% 的 EFS 以及 6% 的 TRM。由於在青少年中出現 20% 至 30% 無法接受的 TRM 比率，該試驗針對青少年族群提前終止，因此在此年齡層應避免使用或審慎使用此方案（Sauer et al. 2020）。以 BU/FLU 為基礎的 MAC 臨床經驗正日益增加，其耐受性良好，但目前尚無已發表的隨機對照研究可決定 BU/FLU 對比 BU/CY 的相對抗白血病活性（Harris et al. 2018）。近期完成的 MyeChild01 試驗預計將為此懸而未決的問題提供解答。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100036,
+          "page": 631,
+          "en": "Replacing BU with Treosulfan (TREO) to reduce toxicity whilst maintaining efficacy is being tested and given in combination with CY (TREO/CY) or with FLU and Thiotepa (FTT). The choice of conditioning regimen is a balance between efficacy and toxicity. Comorbidity, pretreatment with drugs that may contribute to toxicity, i.e., gemtu-",
+          "zh": "以 treosulfan（TREO）取代 BU 以在維持療效的同時降低毒性的做法正在測試中，並與 CY 併用（TREO/CY）或與 FLU 及 thiotepa 併用（FTT）。預處理方案的選擇是療效與毒性之間的權衡。共病症、先前曾使用可能增加毒性的藥物（即 gemtu-",
+          "review": "ai-draft",
+          "endPage": 632
+        }
+      ]
+    },
+    {
+      "page": 632,
+      "blocks": [
+        {
+          "id": 7100037,
+          "page": 632,
+          "en": "zumab and VOD/SOS, age and HLA disparity may influence the choice of conditioning regimen. Comorbidity or heavy previous treatment may indicate a reduced intensity conditioning (RIC) regimen with BU/FLU or FLU/MEL. Targeted BU levels will differ between MAC, RTC and RIC. Patient toxicities may suggest avoidance of specific agents. Newer regimens which include clofarabine (CLO) are being tested. A prospectively randomised study comparing CLO/FLU/BU and BU/CY/MEL is currently being conducted by the NOPHO-DBH consortium.",
+          "zh": "zumab 與肝靜脈閉塞性疾病／肝竇阻塞症候群［VOD/SOS］）、年齡以及 HLA 不相合程度，皆可能影響預處理方案的選擇。共病症或先前接受過高強度治療，可能適合採用 BU/FLU 或 FLU/MEL 的減低強度預處理（RIC）方案。MAC、RTC 與 RIC 的目標 BU 濃度將有所不同。患者既有的毒性反應可能提示須避開特定藥物。包含 clofarabine（CLO）的較新方案正在測試中。NOPHO-DBH 聯盟目前正在進行一項比較 CLO/FLU/BU 與 BU/CY/MEL 的前瞻性隨機對照研究。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100038,
+          "page": 632,
+          "en": "An important concept has been introduced by the FLAMSA-RIC approach (Schmid et al. 2006). It incorporates prophylactic DLI after a rapid CSA taper to compensate for the potentially decreased anti-leukaemic potency of RIC chemotherapy. The AML SCT BFM 2007 trial for children with refractory disease reported an EFS and OS of 53% and 57%, respectively, at 4 years for children with primary refractory de novo AML (Sauer et al. 2020). The trial delivered sequential conditioning for R/R AML immediately followed by allo-HCT. The prospectively randomised phase III ASAP trial has very recently substantiated this concept in adults and produced comparable LFS for conventional intensive induction treatment prior to transplant (Stelljes et al. 2022).",
+          "zh": "FLAMSA-RIC 策略引入了一項重要概念（Schmid et al. 2006）。該策略在快速減量 cyclosporin A（CSA）後加入預防性 DLI，以彌補 RIC 化療可能降低的抗白血病效力。針對難治性疾病兒童的 AML SCT BFM 2007 試驗報告指出，原發性難治性初發 AML 兒童在 4 年時的 EFS 與 OS 分別為 53% 與 57%（Sauer et al. 2020）。該試驗對 R/R AML 給予序列性預處理（sequential conditioning）並緊接著進行異體 HCT。前瞻性隨機分派的第三期 ASAP 試驗近期已在成人中證實了此一概念，並產生與移植前接受傳統高強度誘導治療相當的 LFS（Stelljes et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100039,
+          "page": 632,
+          "en": "71.4 Donor Selection Hierarchy and Stem Cell Source 71.4.1 Allogeneic HCT The choice of donor for allo-HCT is based on HLA compatibility and CMV status. Outcomes are similar for MSD and MUD. The degree of mismatch which is acceptable depends on the risk of relapse and CR status. MMUD or cords and haplo-HCT are generally reserved for HR disease or early relapses.",
+          "zh": "71.4 供者選擇順位與幹細胞來源\n71.4.1 異體 HCT\n異體 HCT 的供者選擇係依據 HLA 相合度與巨細胞病毒（CMV）狀態。相合手足供者（MSD）與相合非親屬供者（MUD）的預後相似。可接受的不相合程度取決於復發風險與 CR 狀態。不相合非親屬供者（MMUD）或臍帶血以及半相合 HCT（haplo-HCT）一般保留用於高風險（HR）疾病或早期復發。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100040,
+          "page": 632,
+          "en": "Patients and their siblings should be tissue-typed at diagnosis. In the absence of a HLA MFD, an UD and a CBU, a search should be initiated as soon as possible after induction course 1 for patients with IR or PR cytogenetics. Donors should be selected using the selection hierarchy of the national group. Medium-/high-resolution typing is required for adult URD (HLA A, B, C, HLA-DRB1, HLA-DQB1 and HLA-DPB1) and unrelated cords (HLA A, B, C and DR loci). The risk of relapse does not direct the need for transplantation, but the HLA discrepancy which is acceptable. MFD or well-MUD should be identified for CR1 patients, whilst mismatched donors and cords or haplo-HCT should be reserved for high-risk disease, CR2, or refractory disease. For MFD/UD, BM is the preferred stem cell source, but the use of peripheral blood stem cell (PBSC) is permissible. The use of PBSC from mismatched donors should be avoided wherever possible.",
+          "zh": "患者及其手足應在診斷時進行組織分型。對於具有 IR 或 PR 細胞遺傳學的患者，若無 HLA 相合親屬供者（MFD），應在第 1 療程誘導治療後儘快啟動非親屬供者（UD）及臍帶血單位（CBU）的搜尋。應依據各國研究團隊的選擇順位來挑選供者。成人非親屬供者（URD）需進行中／高解析度分型（HLA A、B、C、HLA-DRB1、HLA-DQB1 及 HLA-DPB1），非親屬臍帶血亦同（HLA A、B、C 及 DR 基因座）。復發風險並非用來決定是否需要移植，而是決定可接受的 HLA 差異程度。CR1 患者應尋找 MFD 或高相合度的 MUD（well-MUD），而不相合供者、臍帶血或 haplo-HCT 則應保留給高風險疾病、CR2 或難治性疾病。對於 MFD/UD，骨髓（BM）是首選的幹細胞來源，但亦允許使用周邊血幹細胞（PBSC）。應儘可能避免使用來自不相合供者的 PBSC。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100041,
+          "page": 632,
+          "en": "In the UK, serotherapy is only given to patients transplanted from unrelated donors, 9/10 mismatched family donors, or 5/8 matched cord blood units, but not to patients receiving grafts from matched family donors or 6–8/8 unrelated cord blood units (Table 71.1).",
+          "zh": "在英國，血清治療（serotherapy）僅給予接受非親屬供者、9/10 不相合親屬供者或 5/8 相合臍帶血單位移植的患者，而不給予接受相合親屬供者或 6–8/8 非親屬臍帶血單位移植物的患者（表 71.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100042,
+          "page": 632,
+          "en": "The optimal stem cell source for HCT in AML remains the subject of intense debate. A retrospective study comparing the outcomes of MSD, MUD and CB HCT in paediatric AML showed no difference in RR or LFS but improved chronic GVHD-free/LFS with unrelated CB HCT (Keating et al. 2019). Another recent retrospective analysis comparing outcomes of T-replete",
+          "zh": "AML 進行 HCT 的最佳幹細胞來源仍是激烈爭論的主題。一項比較兒童 AML 中 MSD、MUD 與臍帶血（CB）HCT 預後的回顧性研究顯示，RR 或 LFS 並無差異，但非親屬 CB HCT 的無慢性 GVHD／無白血病存活率（chronic GVHD-free/LFS）有所改善（Keating et al. 2019）。另一項近期比較未去除 T 細胞（T-replete）",
+          "review": "ai-draft",
+          "endPage": 633
+        },
+        {
+          "id": 7100043,
+          "page": 632,
+          "en": "Table 71.1 Donor and source for HCT: the hierarchy of the UK\nChoice | Family donor | Unrelated donor | Unrelated cord\n1st | MFD (BM, PBSC and CB) | - | -\n2nd | - | 10/10 MUD; 9/10 1DQ MMUD | 8/8 MUCB (total nucleated cell (TNC >3 × 10⁷/kg)\n3rd | 9/10 MMFD | 9/10 (other) MMUD | 5–7/8 MMUCB (TNC >3 × 10⁷/kg)ᵃ\nᵃFor unrelated cord blood, a single cord is used if the cryopreserved TNC dose is >3 × 10⁷/kg. If <3 × 10⁷/kg, a double-cord transplant is preferred\nMFD matched family donor, MUD matched unrelated donor, MMUD mismatched unrelated donor, MUCB matched unrelated cord blood, MMFD mismatched family donor, MMUCB mismatched unrelated cord blood",
+          "zh": "表 71.1 HCT 的供者與幹細胞來源：英國的選擇順位\n欄位依序為：順位選擇（Choice）、親屬供者（Family donor）、非親屬供者（Unrelated donor）、非親屬臍帶血（Unrelated cord）。\n• 第 1 順位（1st）：\n  - 親屬供者：MFD（BM、PBSC 及 CB）\n  - 非親屬供者：—\n  - 非親屬臍帶血：—\n• 第 2 順位（2nd）：\n  - 親屬供者：—\n  - 非親屬供者：10/10 MUD；9/10（僅 1 個 DQ 不相合）MMUD\n  - 非親屬臍帶血：8/8 MUCB（總有核細胞數［TNC］>3 × 10⁷/kg）\n• 第 3 順位（3rd）：\n  - 親屬供者：9/10 MMFD\n  - 非親屬供者：9/10（其他基因座不相合）MMUD\n  - 非親屬臍帶血：5–7/8 MMUCB（TNC >3 × 10⁷/kg）ᵃ\nᵃ 針對非親屬臍帶血，若冷凍保存的 TNC 劑量 >3 × 10⁷/kg，則使用單一臍帶血。若 <3 × 10⁷/kg，則優先選擇雙臍帶血移植。\n縮寫：MFD 為相合親屬供者；MUD 為相合非親屬供者；MMUD 為不相合非親屬供者；MUCB 為相合非親屬臍帶血；MMFD 為不相合親屬供者；MMUCB 為不相合非親屬臍帶血。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 633,
+      "blocks": [
+        {
+          "id": 7100044,
+          "page": 633,
+          "en": "unrelated CB HCT (n = 112) with other stem cell sources (n = 255) suggests a significantly improved EFS (HR 0.57) with CB HCT in multivariate analysis (Horgan et al. 2023). Similar to what has previously been described in adults (Milano et al. 2016), this benefit was particularly seen in patients who were flow MRD-positive (>0.1%) pre-HCT where a striking reduction in relapse was observed in the CB cohort compared to other stem cell sources (36% vs. 66% HR 0.46), suggesting this is mediated through enhanced GVL effects. Interestingly, while aGVHD was common after T-replete CB HCT, the incidence of chronic GVHD was reduced (HR 0.28).",
+          "zh": "非親屬 CB HCT（n = 112）與其他幹細胞來源（n = 255）預後的回顧性分析顯示，在多變數分析中，CB HCT 的 EFS 顯著改善（HR 0.57）（Horgan et al. 2023）。與先前在成人中所描述的結果（Milano et al. 2016）相似，此項效益在 HCT 前流式細胞儀 MRD 陽性（>0.1%）的患者中尤為明顯；在此族群中，相較於其他幹細胞來源，CB 世代觀察到復發率大幅降低（36% 對比 66%，HR 0.46），顯示這是透過強化 GVL 效應所介導。有趣的是，雖然未去除 T 細胞的 CB HCT 後常見急性 GVHD（aGVHD），但慢性 GVHD 的發生率卻有所降低（HR 0.28）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100045,
+          "page": 633,
+          "en": "Bertaina et al have compared the outcomes of TCRαβ-depleted haploidentical transplant with MUD and MMUD HCT in a multicentre, retrospective analysis in paediatric patients with acute leukaemia, including 105 patients with AML. They report a lower incidence of acute and chronic GVHD and similar LFS between the three cohorts but an improved chronic GVHD-free/RFS in those with haploidentical or MUD donors compared to MMUDs. However, only a minority of these patients had AML, so we would caution extrapolating this data to this disease where the GVL effect is significant (Bertaina et al. 2018). In contrast to the adult setting, data on haploidentical HCT with post-transplant cyclophosphamide (PTC) are limited in the paediatric setting, and to date it is not possible to comment on which approach to haploidentical HCT is preferable. Ultimately, prospective randomised studies are needed to truly determine the optimal stem cell source for this indication.",
+          "zh": "Bertaina 等人在一項針對急性白血病兒童患者（包含 105 名 AML 患者）的多中心回顧性分析中，比較了去除 TCRαβ 之半相合移植與 MUD 及 MMUD HCT 的預後。他們報告指出，去除 TCRαβ 之半相合移植的急性與慢性 GVHD 發生率較低，三個世代間的 LFS 相近，但相較於 MMUD，半相合或 MUD 供者移植者的無慢性 GVHD／無復發存活率（chronic GVHD-free/RFS）有所改善。然而，這些患者中僅少數為 AML，因此在將此數據外推至 GVL 效應至關重要的 AML 時應持審慎態度（Bertaina et al. 2018）。與成人領域相反，兒童領域中使用移植後 cyclophosphamide（PTC）進行半相合 HCT 的數據有限，迄今尚無法評論何種半相合 HCT 方式較佳。最終仍需前瞻性隨機對照研究，才能真正確定此適應症的最佳幹細胞來源。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100046,
+          "page": 633,
+          "en": "71.5 GVHD Prophylaxis All patients should receive IS with CSA. Most, but not all, groups add short-course methotrexate (MTX) for all patients. Patients receiving grafts from a MMD or those in whom the stem cell source is PBSC or unrelated CB should receive prophylaxis in addition to CSA with either MMF or short-course MTX.",
+          "zh": "71.5 移植物抗宿主疾病（GVHD）預防\n所有患者皆應接受以 CSA 為基礎的免疫抑制治療（IS）。大多數（但非全部）研究團隊會對所有患者加上短療程 methotrexate（MTX）。接受來自不相合供者（MMD）移植物的患者，或幹細胞來源為 PBSC 或非親屬 CB 的患者，除 CSA 外，應額外併用 mycophenolate mofetil（MMF）或短療程 MTX 進行預防。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100047,
+          "page": 633,
+          "en": "71.6 Prevention of Relapse Post-Transplant 71.6.1 Withdrawal of Immunosuppression Withdrawal of immunosuppression in order to optimise the GVL effect is frequently used pre-emptively in patients at high risk of relapse or in those who develop mixed chimerism (MC) or MRD. In adult AML, increased exposure to CSA was associated with increased relapse and decreased survival (Craddock et al. 2010), supporting early withdrawal of IS where possible. In the absence of GVHD, MMF can be stopped at day 28 post-transplant, and CSA tailed over 4–6 weeks from day 60 (MFD), day 100 (MUD), or earlier if mixed chimerism is detected in the whole blood.",
+          "zh": "71.6 移植後復發之預防\n71.6.1 撤除免疫抑制劑\n為了將 GVL 效應最佳化而撤除免疫抑制劑的做法，常作為先發性措施用於具高度復發風險的患者，或出現混合嵌合狀態（mixed chimerism, MC）或 MRD 的患者。在成人 AML 中，較高的 CSA 暴露量與復發率增加及存活率下降相關（Craddock et al. 2010），這支持在可行的情況下提早撤除 IS。在無 GVHD 的情況下，MMF 可於移植後第 28 天停藥，而 CSA 可自第 60 天（MFD）或第 100 天（MUD）起在 4–6 週內逐漸減量停藥；若在全血中偵測到混合嵌合狀態，則可更早開始減量。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100048,
+          "page": 633,
+          "en": "71.6.2 Donor Lymphocyte Infusion (DLI) The evidence of benefit for DLI is weak. Rettinger et al. (2017) investigated the use of pre-emptive immunotherapy with reduction of IS and low-dose DLI in patients with paediatric AML developing MC after HCT for AML: 6/13 patients with MC who received immunotherapy remained in long-term CR, whereas all 7 patients with MC who did not receive immunotherapy relapsed. Based on these limited data, our practice is to use pre-emptive immunotherapy in patients with confirmed MC (defined as >1% autologous cells in the whole blood on two occasions 1 week apart) without active aGVHD >Grade 1 or cGVHD in the first-year post-transplant. If patients are still receiving IS, this should be discontinued and chimerism reassessed a month later. In patients already off IS, chimerism should be reassessed a month off IS. If MC persists, DLI should be given to recipients of MFD or MUD. DLI is not recommended in the context of 9/10 mismatched donor HCT. The DLI cell dose administered is dependent on the donor source and the timing post-transplant. In the future, the use of pre-emptive",
+          "zh": "71.6.2 供者淋巴球輸注（DLI）\n支持 DLI 效益的證據較弱。Rettinger 等人（2017）研究了在因 AML 接受 HCT 後出現 MC 的兒童 AML 患者中，採用減量 IS 與低劑量 DLI 進行先發性免疫治療的效果：接受免疫治療的 13 名 MC 患者中有 6 名維持長期 CR，而未接受免疫治療的 7 名 MC 患者則全數復發。基於這些有限的數據，我們的臨床實務是在移植後第一年內，針對確認為 MC（定義為間隔 1 週的兩次檢測中，全血自體細胞皆 >1%）且無 >第 1 級之活動性 aGVHD 或慢性 GVHD（cGVHD）的患者，使用先發性免疫治療。若患者仍在使用 IS，應予停藥並於一個月後重新評估嵌合狀態。若患者已停用 IS，則應在停用 IS 一個月後重新評估嵌合狀態。若 MC 持續存在，應對 MFD 或 MUD 的受贈者給予 DLI。在 9/10 不相合供者 HCT 的情況下，不建議使用 DLI。給予的 DLI 細胞劑量取決於供者來源及移植後的時間點。未來，先發性",
+          "review": "ai-draft",
+          "endPage": 634
+        }
+      ]
+    },
+    {
+      "page": 634,
+      "blocks": [
+        {
+          "id": 7100049,
+          "page": 634,
+          "en": "DLI is likely to be based on the detection of flow or molecular MRD in the bone marrow in the absence of GVHD.",
+          "zh": "DLI 的使用很可能會依據在無 GVHD 的情況下，於骨髓中偵測到流式細胞儀或分子 MRD 而定。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100050,
+          "page": 634,
+          "en": "71.6.3 Targeted Maintenance Therapy Several options have emerged as post-HCT maintenance strategies to sustain the remission achieved by HCT. These include hypomethylating agents (HMAs) (Decitabine and Azacytidine), tyrosine kinase inhibitors (TKIs) (for FLT3-mutated AMLs) and Venetoclax.",
+          "zh": "71.6.3 標靶維持治療\n目前已出現數種作為 HCT 後維持策略的治療選項，以維持藉由 HCT 達成的緩解狀態。這些選項包括去甲基化藥物（HMAs）（decitabine 與 azacitidine）、酪胺酸激酶抑制劑（TKIs）（針對 FLT3 突變之 AML）以及 venetoclax。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100051,
+          "page": 634,
+          "en": "(a) Hypomethylating agents (Decitabine and Azacytidine): HMAs act on the DNA methyl transferases (DNMTs), reduce epigenetic dysregulation and promote tumour suppression. Their utility and good tolerance as frontline treatment of AML in elderly and frail patients prompted their use as oral prophylactic agents post-allogeneic HCT to prevent relapse in adults. A pilot trial in HR adult AML (RICAZA trial) employing Azacitidine as relapse prophylaxis in high-risk adult AML (n = 37) demonstrated a 1-year/2-year-RFS of 57%/49%, respectively, with a beneficial impact of positive CD8+ T-cell response (HR, 0.30; 95% CI, 0.10–0.85; p = 0.02). In this trial, patients with stable engraftment commenced treatment with Azacitidine on day +42 at a dose of 36 mg/m² subcutaneously (reduced to 24 mg/m² in dose-limiting toxicity) for 5 days, every 4 weeks for 12 months after HCT (Craddock et al. 2016).",
+          "zh": "(a) 去甲基化藥物（decitabine 與 azacitidine）：HMAs 作用於 DNA 甲基轉移酶（DNMTs），可減少表觀遺傳失調並促進腫瘤抑制。由於它們作為高齡與體弱 AML 患者的第一線治療兼具實用性與良好耐受性，促使臨床在成人異體 HCT 後將其作為預防復發的預防性藥物。一項在高風險成人 AML 中使用 azacitidine 作為復發預防的前導試驗（RICAZA 試驗，n = 37）顯示，1 年／2 年 RFS 分別為 57%／49%，且陽性 CD8+ T 細胞反應具有正面效益（HR, 0.30；95% CI, 0.10–0.85；p = 0.02）。在此試驗中，穩定植入的患者於移植後第 +42 天開始接受皮下注射 azacitidine 36 mg/m²（若出現劑量限制性毒性則減量至 24 mg/m²），每次連續 5 天、每 4 週一次，於 HCT 後持續治療 12 個月（Craddock et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100052,
+          "page": 634,
+          "en": "Because the demethylating effect of Decitabine was noted to be cyclin-dependent, it was explored as a combination therapy with recombinant human G-CSF (100 mcg/m² from D0–5) in a prospective phase II RCT (Gao et al. 2020) in adults (n = 152) and children (n = 52). The dose of Decitabine (5 mg/m² from D1–5) was lowered to minimise its myelosuppressive side effects. Patients randomised to Decitabine + G-CSF (adults = 75; children = 25) were noted to have a lower CIR at 2 years (15% versus 38.3%; HR, 0.32; p < 0.01). G-CSF was tolerated well without a relative increase in cGVHD. In a more recent study, Booth et al. employed a combination of Azacitidine (36 mg/m²/day for 5 days, starting on D + 60, repeated every 4 weeks) and DLI as prophylaxis post-allogenic HCT in 17 patients with IR/HR-AML and reported a 2-year-LFS of 88.2% (61.5% in pre-intervention historical cohort (n = 39) (Booth et al. 2023).",
+          "zh": "由於 decitabine 的去甲基化作用被發現具有細胞週期蛋白依賴性（cyclin-dependent），一項前瞻性第二期隨機對照試驗（Gao et al. 2020）在成人（n = 152）與兒童（n = 52）中探索了將其與重組人類顆粒球集落刺激因子（G-CSF，第 0–5 天 100 mcg/m²）併用的組合療法。Decitabine 的劑量（第 1–5 天 5 mg/m²）予以調降，以將其骨髓抑制副作用降至最低。隨機分派至 decitabine + G-CSF 組的患者（成人 = 75；兒童 = 25）在 2 年時具有較低的 CIR（15% 對比 38.3%；HR, 0.32；p < 0.01）。G-CSF 耐受性良好，且未相對增加 cGVHD。在近期一項研究中，Booth 等人對 17 名 IR/HR-AML 患者在異體 HCT 後採用 azacitidine（自第 +60 天起，每日 36 mg/m² 連續 5 天，每 4 週重複一次）併用 DLI 作為預防治療，報告其 2 年 LFS 達 88.2%（介入前歷史對照世代［n = 39］則為 61.5%）（Booth et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100053,
+          "page": 634,
+          "en": "(b) FLT3 inhibitors (FLT3i): The role of FLT3i was first identified in adult AMLs in both frontline and post-HCT approaches. TKI maintenance therapy for FLT3-ITD positive AML has prospectively been shown to improve the outcome significantly. With a median follow-up of 41.8 months, the SORMAIN study reported a HR for relapse or death of 0.39 in the sorafenib group versus placebo. Twenty-four-month RFS probability was 53.3% with placebo versus 85.0% with sorafenib (Burchert et al. 2020). Mechanistic studies suggest that the combination with DLI might even be more potent (Mathew et al. 2018). A retrospective paediatric study (Tarlock et al. 2015) demonstrated the feasibility and tolerability of sorafenib (median dose 150 mg/m²; started at a median interval of 100 days post-HCT, for a median duration of 12 months post-HCT), and all patients who received sorafenib for MRD positivity immediately prior to transplant or with the emergence of MRD post-HCT are alive and remain in complete remission at a median of 48 months post-HCT. This benefit was explored further in a randomised, multi-centre COG AAML 1031 trial, in a cohort of 72 children with high allelic ratio-FLT3-mutated AML (Pollard et al. 2022). While the outcome analysis indicated an improved EFS with a HR of 3.03 (95% CI: 1.31–7.04) for all patients exposed to sorafenib, results focused on outcomes of maintenance therapy post-HCT (n = 46) are not available.",
+          "zh": "(b) FLT3 抑制劑（FLT3i）：FLT3i 的角色最早是在成人 AML 的第一線與 HCT 後治療策略中被確立。針對 FLT3-ITD 陽性 AML 的 TKI 維持治療，已在前瞻性研究中證實能顯著改善預後。在中位追蹤時間 41.8 個月下，SORMAIN 研究報告 sorafenib 組對比安慰劑組發生復發或死亡的 HR 為 0.39。24 個月 RFS 機率在安慰劑組為 53.3%，而在 sorafenib 組則為 85.0%（Burchert et al. 2020）。機轉研究顯示，與 DLI 併用效果可能更為強大（Mathew et al. 2018）。一項兒童回顧性研究（Tarlock et al. 2015）證實了 sorafenib（中位劑量 150 mg/m²；於 HCT 後中位間隔 100 天開始給藥，HCT 後中位治療持續時間為 12 個月）的可行性與耐受性，且所有因緊接移植前 MRD 陽性或 HCT 後出現 MRD 而接受 sorafenib 的患者，在 HCT 後中位 48 個月時皆存活且維持完全緩解。此項效益隨後在一項隨機分派、多中心的 COG AAML 1031 試驗中，於 72 名具有高等位基因比率 FLT3 突變 AML 的兒童世代中進一步探索（Pollard et al. 2022）。雖然結果分析顯示所有曾暴露於 sorafenib 的患者其 EFS 皆有所改善，風險比（HR）為 3.03（95% CI：1.31–7.04；指未暴露對比暴露之事件風險），但專注於 HCT 後維持治療（n = 46）預後的結果則尚未公布。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100054,
+          "page": 634,
+          "en": "Targeted inhibition of the FLT3 ligand by sorafenib has been shown to be associated",
+          "zh": "由 sorafenib 針對 FLT3 進行標靶抑制（原文作 FLT3 ligand），已被證實與",
+          "review": "ai-draft",
+          "endPage": 635
+        }
+      ]
+    },
+    {
+      "page": 635,
+      "blocks": [
+        {
+          "id": 7100055,
+          "page": 635,
+          "en": "with deeper and more durable remission in patients relapsing after prior HCT (Metzelder et al. 2012), reflecting an anti-leukaemic synergism between sorafenib and allo-immune effects exerted by the stem cell graft. It is important to consider the dose-limiting effects of sorafenib, particularly those of cardiotoxicity, palmoplantar dysesthesia and myelosuppression.",
+          "zh": "先前 HCT 後復發患者達成更深且更持久的緩解相關（Metzelder et al. 2012），反映出 sorafenib 與幹細胞移植物所發揮之同種異體免疫效應（allo-immune effects）之間具有抗白血病協同作用。臨床上必須考量 sorafenib 的劑量限制性副作用，特別是心臟毒性、手足感覺異常（palmoplantar dysesthesia）以及骨髓抑制。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100056,
+          "page": 635,
+          "en": "TKI resistance and off-target toxicities associated with first-generation TKI led to their replacement with second-generation TKIs, but their role in paediatric AML remains unclear given the paucity of data. In a small retrospective case series (n = 8), the use of Giltertinib (a more potent and selective FLT3 inhibitor) was associated with a 1-year-OS of 70% (McCall et al. 2021). Of note, 4/8 (50%) received Gilteritinib as maintenance post-HCT, and all were alive. Newer second-generation TKIs (including Giltertinib and Quizartinib) are being tested in early-phase prospective paediatric trials (see Table 71.2).",
+          "zh": "與第一代 TKI 相關的 TKI 抗藥性及脫靶毒性（off-target toxicities），促使其被第二代 TKI 取代，但鑑於數據匱乏，第二代 TKI 在兒童 AML 中的角色仍不明確。在一項小型回顧性病例系列（n = 8）中，使用 gilteritinib（原文亦拼作 Giltertinib，一種更強效且具選擇性的 FLT3 抑制劑）與 70% 的 1 年 OS 相關（McCall et al. 2021）。值得注意的是，有 4/8（50%）的患者在 HCT 後接受 gilteritinib 作為維持治療，且全數存活。較新的第二代 TKI（包括 gilteritinib 與 quizartinib）目前正在早期前瞻性兒童試驗中進行測試（參見表 71.2）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100057,
+          "page": 635,
+          "en": "Table 71.2 Summary of novel emerging treatments in paediatric AML\nNewer treatment | Target/mechanism of action | Paediatric AML target population | Current stage | Ref/trial ID\nAntibody-drug conjugates\nGemtuzumab ozogamicin | CD33 | Frontline treatment of all AMLs | Component of the recently concluded MyeChild 01 trial and standard of care in a phase III COG AAML1831 | MyeChild01: NCT02724163; AAML 1831: NCT04293562\nIMGN632 | CD123 | Relapsed/refractory AMLs | Phase I/II | NCT05320380\nFlotetuzumab | CD123-CD3 DART | Relapsed/refractory AMLs | Phase I | NCT04158739\nSTRO-002ᵃ | CBAF2-GLIS2 | AML with ‘RAM phenotype’ | Tested on compassionate basis; awaiting trials | Meshinchi et al. (Blood 2022); NCT03748186 (Approved in ovarian/endometrial cancers)\nTagraxofusp | CD123 | Relapsed/refractory CD123 expressing haematological cancers | Phase I | NCT05476770\nFLT3 inhibitors\nSorafenib^ | 1st gen (type II) TKI | Frontline treatment and also as post-HCT maintenance in FLT3 + ve with high allelic ratio | Phase III RCT | Pollard et al. (2022), NCT01371981\nSorafenib^ | 1st gen (type II) TKI | FLT3-mutated acute monocytic leukaemia | Phase III (in combination with chemotherapy) | NCT05313958\nMidostaurin | 1st gen (type I) TKI | Frontline treatment of FLT3-mutated AML | Phase I/II (in combination with chemotherapy) | NCT03591510\nQuizartinib | 2nd gen (type II) TKI | Relapsed/refractory FLT3-mutated AML | Phase I/II (in combination and as maintenance monotherapy) | NCT03793478\nGilteritinib (ASP2215) | 2nd gen (type I) TKI | Relapsed/refractory FLT3-mutated AML | Phase I/II (in combination with chemotherapy) | NCT04240002\nGilteritinib (ASP2215) | 2nd gen (type I) TKI | Frontline treatment of all AMLs | Phase III (in combination with chemotherapy; COG AAML1831) | NCT04293562\nCrenolanib~ | 2nd gen (type I) TKI | Relapsed/refractory FLT3-mutated AML | Phase I (in combination with Sorafenib) | Inaba et al. (2022), NCT02270788",
+          "zh": "表 71.2 兒童 AML 新興療法摘要（第一部分）\n欄位依序為：新興療法（Newer treatment）、標的／作用機轉（Target/mechanism of action）、兒童 AML 目標族群（Paediatric AML target population）、目前階段（Current stage）、參考文獻／試驗編號（Ref/trial ID）。\n【抗體藥物複合體（Antibody-drug conjugates）】\n• Gemtuzumab ozogamicin｜CD33｜所有 AML 之第一線治療｜近期完成之 MyeChild 01 試驗的組成部分，並為第三期 COG AAML1831 試驗之標準照護｜MyeChild01: NCT02724163; AAML 1831: NCT04293562\n• IMGN632｜CD123｜復發／難治型 AML｜第一／二期｜NCT05320380\n• Flotetuzumab｜CD123-CD3 DART｜復發／難治型 AML｜第一期｜NCT04158739\n• STRO-002ᵃ｜CBFA2T3-GLIS2（原文作 CBAF2-GLIS2）｜具「RAM 表現型」之 AML｜以恩慈療法方式測試；等待臨床試驗中｜Meshinchi et al. (Blood 2022); NCT03748186（已核准用於卵巢／子宮內膜癌）\n• Tagraxofusp｜CD123｜復發／難治型且表現 CD123 之血液惡性腫瘤｜第一期｜NCT05476770\n【FLT3 抑制劑（FLT3 inhibitors）】\n• Sorafenib^（對應註腳 d）｜第一代（第二型）TKI｜（1）具有高等位基因比率之 FLT3 陽性患者的第一線治療及 HCT 後維持治療｜第三期 RCT｜Pollard et al. (2022), NCT01371981；（2）FLT3 突變之急性單核球白血病｜第三期（與化學治療併用）｜NCT05313958\n• Midostaurin｜第一代（第一型）TKI｜FLT3 突變 AML 之第一線治療｜第一／二期（與化學治療併用）｜NCT03591510\n• Quizartinib｜第二代（第二型）TKI｜復發／難治型 FLT3 突變 AML｜第一／二期（併用化療及作為單一藥物維持治療）｜NCT03793478\n• Gilteritinib (ASP2215)｜第二代（第一型）TKI｜（1）復發／難治型 FLT3 突變 AML｜第一／二期（與化學治療併用）｜NCT04240002；（2）所有 AML 之第一線治療｜第三期（與化學治療併用；COG AAML1831）｜NCT04293562\n• Crenolanib~｜第二代（第一型）TKI｜復發／難治型 FLT3 突變 AML｜第一期（與 Sorafenib 併用）｜Inaba et al. (2022), NCT02270788",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 636,
+      "blocks": [
+        {
+          "id": 7100058,
+          "page": 636,
+          "en": "Table 71.2 (continued)\nNewer treatment | Target/mechanism of action | Paediatric AML target population | Current stage | Ref/trial ID\nKMT2A fusion inhibitors\nPinometostatᵇ | DOT1L | Relapsed/refractory KMT2A (r) leukaemias | Phase I (published) | Shukla et al. (2016)\nRevumenibᶜ | Menin inhibitor | Relapsed/refractory KMT2A (r) AML (adults + children) | Phase I/II (in combination with chemotherapy) | Issa et al. (2023)\nRevumenibᶜ | Menin inhibitor | Frontline treatment of AML > 12 years with KMT2A (r) | Phase I (in combination with decitabine/cedazuridine and venetoclax) | NCT05360160\nCAR T-cells\nAutologous lentiviral CAR-T | CD33 | Relapsed/refractory AMLs (CD33 + ve) | Phase I (costimulatory domains: 41BB, CD3ζ, HER1t) | Tambaro et al. (2021), NCT03126864\nAutologous lentiviral CAR-T | CD33 | Relapsed/refractory AMLs (CD33 + ve) | Phase I/II | NCT03971799\nAutologous lentiviral CAR-T | CD123 | Relapsed/refractory AMLs | Phase I | NCT04678336\nAutologous retroviral CAR-T | CLL-1 | Relapsed/refractory AMLs (>30% CLL-1 blasts on flow) | Phase I (costimulatory domain: CD28) | NCT04219163\nCAR T-cells | CD38 | Relapsed/refractory AMLs (CD38 + ve) | Phase I/II | NCT04351022\nAutologous CART (with a suicide gene) | CD44v6 | Relapsed/refractory AMLs (CD44v6 + ve) | Phase I/II | NCT04097301\nAbbreviations: AML acute myeloid leukaemia, DART dual-affinity retargeting, TKI tyrosine kinase inhibitor, FLT3 Fms-like tyrosine kinase 3, CART chimeric antigen receptor–T-cell, COG Children’s Oncology Group, RCT randomised controlled trial\nᵃUsed on compassionate basis in 16 patients with CBAF2-GLIS2 fusion (monotherapy in 10) with 6 (38%) achieving MRD-negative CR (Meshinchi et al. 2022)\nᵇPinometostat at a R2PD of 70 mg/m² showed transient reductions in peripheral/BMblasts were detected in nearly 40% of pts. (n = 7/18); however, no objective responses were observed\nᶜRevumenib associated with CR/CRi of 30% (18/60 evaluable patients) with undetectable flow MRD negativity in 78% (14/18)\nᵈResults described in the text (Pollard et al. 2022); ~Crenolanib (and sorafenib combination was tolerable without dose-limiting toxicities, and three complete remissions (one with incomplete count recovery), and one partial remission were observed in 8 evaluable children",
+          "zh": "表 71.2（續）兒童 AML 新興療法摘要（第二部分）\n欄位依序為：新興療法（Newer treatment）、標的／作用機轉（Target/mechanism of action）、兒童 AML 目標族群（Paediatric AML target population）、目前階段（Current stage）、參考文獻／試驗編號（Ref/trial ID）。\n【KMT2A 融合抑制劑（KMT2A fusion inhibitors）】\n• Pinometostatᵇ｜DOT1L｜復發／難治型 KMT2A 重組（r）白血病｜第一期（已發表）｜Shukla et al. (2016)\n• Revumenibᶜ｜Menin 抑制劑｜（1）復發／難治型 KMT2A (r) AML（成人＋兒童）｜第一／二期（與化學治療併用）｜Issa et al. (2023)；（2）> 12 歲具 KMT2A (r) 之 AML 的第一線治療｜第一期（與 decitabine/cedazuridine 及 venetoclax 併用）｜NCT05360160\n【CAR T 細胞（CAR T-cells）】\n• 自體慢病毒 CAR-T（Autologous lentiviral CAR-T）｜CD33｜（1）復發／難治型 AML（CD33 陽性）｜第一期（共刺激結構域：41BB、CD3ζ、HER1t）｜Tambaro et al. (2021), NCT03126864；（2）復發／難治型 AML（CD33 陽性）｜第一／二期｜NCT03971799\n• 自體慢病毒 CAR-T｜CD123｜復發／難治型 AML｜第一期｜NCT04678336\n• 自體反轉錄病毒 CAR-T（Autologous retroviral CAR-T）｜CLL-1｜復發／難治型 AML（流式細胞儀檢測 >30% CLL-1 芽球）｜第一期（共刺激結構域：CD28）｜NCT04219163\n• CAR T 細胞｜CD38｜復發／難治型 AML（CD38 陽性）｜第一／二期｜NCT04351022\n• 自體 CART（帶有自殺基因）｜CD44v6｜復發／難治型 AML（CD44v6 陽性）｜第一／二期｜NCT04097301\n縮寫：AML 為急性骨髓性白血病；DART 為雙親和力再導向（dual-affinity retargeting）；TKI 為酪胺酸激酶抑制劑；FLT3 為 Fms 樣酪胺酸激酶 3；CART 為嵌合抗原受體 T 細胞；COG 為兒童腫瘤學群；RCT 為隨機對照試驗。\nᵃ 以恩慈療法用於 16 名具有 CBFA2T3-GLIS2（原文作 CBAF2-GLIS2）融合基因的患者（其中 10 名為單一藥物治療），有 6 名（38%）達到 MRD 陰性之 CR（Meshinchi et al. 2022）。\nᵇ Pinometostat 在建議第二期劑量（R2PD）70 mg/m² 下，於近 40% 的患者（n = 7/18）中偵測到周邊血／骨髓芽球暫時減少；然而未觀察到客觀反應。\nᶜ Revumenib 與 30%（18/60 名可評估患者）的 CR/CRi 相關，其中 78%（14/18）達到無法偵測之流式細胞儀 MRD 陰性。\nᵈ 結果敘述於正文中（Pollard et al. 2022）；~ Crenolanib（與 sorafenib 併用）耐受性良好且無劑量限制性毒性，在 8 名可評估兒童中觀察到 3 例完全緩解（其中 1 例血球計數未完全恢復）及 1 例部分緩解。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100059,
+          "page": 636,
+          "en": "(c) Venetoclax: Venetoclax is a highly selective and potent inhibitor of BCL2, which is an apoptosis-regulating protein, upregulated in haematological malignancies. Data on its use as prophylaxis against relapse post-HCT are limited. In a phase I dose-escalation study (Karol et al. 2020) in R/R paediatric AML patients (n = 20), CR/CRi and partial remission was observed in 70% and 10%, respectively. The recommended phase 2 dose (R2D) in this early-phase trial was 360 mg/m², when used in combination with either Cytarabine or Idarubicin. More recently, in a larger cohort of high-risk paediatric AML patients (n = 43; PR cytogenetics in 35(85%), prior history of BMT in 17 (37%) treated on a venetoclax-based regimen, a CR/CRi and partial remission of 40%/5%, respectively, was reported for the overall cohort and CR/CRi and partial remission of 29%/6%, respectively, in patients with previous BMT. None of the patients received venetoclax monotherapy (Trabal et al. 2023).",
+          "zh": "(c) Venetoclax：Venetoclax 是高度選擇性且強效的 BCL2 抑制劑，BCL2 是一種調控細胞凋亡的蛋白質，在血液惡性腫瘤中表現量上升。關於在 HCT 後將其用作預防復發的數據仍屬有限。在一項針對 R/R 兒童 AML 患者（n = 20）的第一期劑量遞增研究（Karol et al. 2020）中，分別有 70% 與 10% 觀察到完全緩解／血球計數未完全恢復之完全緩解（CR/CRi）與部分緩解。在此早期試驗中，當與 cytarabine 或 idarubicin 併用時，建議的第二期劑量（R2D）為 360 mg/m²。近期在一個較大的高風險兒童 AML 患者世代中（n = 43；其中 35 名［85%］具 PR 細胞遺傳學，17 名［37%］具骨髓移植［BMT］病史），接受以 venetoclax 為基礎的方案治療，報告整體世代的 CR/CRi 與部分緩解率分別為 40%／5%，而在先前接受過 BMT 的患者中，CR/CRi 與部分緩解率則分別為 29%／6%。所有患者皆非接受 venetoclax 單一藥物治療（Trabal et al. 2023）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 637,
+      "blocks": [
+        {
+          "id": 7100060,
+          "page": 637,
+          "en": "Whilst there definitely seems to be a benefit in combining ≥2 agents (i.e., HMA + venetoclax, venetoclax+FLT3i, DLI + HMA), determining the best possible combination, the optimal dose, duration of therapy and positioning of these therapies in the treatment algorithm (either as post-HCT maintenance, definitive therapy for first relapse or as a bridge to subsequent HCT) will best be answered by prospective trials. It is likely that in the future, maintenance therapy post-HCT with agents targeting specific high-risk genetic abnormalities will play an increasing role.",
+          "zh": "儘管併用 ≥2 種藥物（即 HMA + venetoclax、venetoclax + FLT3i、DLI + HMA）確實顯示出效益，但如何決定最佳組合、最理想劑量、治療持續時間，以及這些療法在治療流程中的定位（無論是作為 HCT 後維持治療、首次復發的確定性治療，或是作為後續 HCT 的橋接治療），仍有待前瞻性試驗提供最佳解答。未來，在 HCT 後使用針對特定高風險遺傳異常之藥物進行維持治療，很可能會扮演日益吃重的角色。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100061,
+          "page": 637,
+          "en": "71.7 Role of the Second HCT For selected patients who relapse late (>1 year) post-first HCT and respond to reinduction chemotherapy, the second HCT may be curative with survival rates of 24–35% reported (Yaniv et al. 2018). However, for the entire relapse population, the prognosis is grim. Two large groups have shown similar dismal outcomes following the second HCT in children relapsing after the first HCT: (Uden et al. 2020) (n = 122; 4-year-OS/NRM/CIR = 31%/22%/45%); (n = 251; for patients in remission, the 5-year-OS/NRM/CIR = 31%/29%/46%). Remission status impacted survival in the former study and graft/donor choice (better survival in BM grafts and MFD) in the latter. In a smaller cohort of 46 children relapsing after the first HCT, Taga et al. demonstrated a 5-year-OS of 41.7% after the second HCT, with an inter-HCT interval of >24 months conferring a better outcome (63% vs. 27%; p = 0.01). In a multicentre national analysis of mismatched T-replete CB for R/R AML (Horgan et al. 2023), an impressive 2-year-EFS of 69% was noted in a cohort of patients with a previous history of HCT (n = 24).",
+          "zh": "71.7 第二次 HCT 的角色\n對於經過挑選、在首次 HCT 後晚期復發（>1 年）且對再誘導化療有反應的患者，第二次 HCT 可能具有治癒潛力，報告的存活率為 24–35%（Yaniv et al. 2018）。然而，就整體復發族群而言，預後極為嚴峻。兩大研究團隊針對首次 HCT 後復發並接受第二次 HCT 的兒童，展示了相似的慘淡結果：（Uden et al. 2020）（n = 122；4 年 OS/NRM/CIR = 31%/22%/45%）；（n = 251；針對處於緩解期的患者，5 年 OS/NRM/CIR = 31%/29%/46%）。在前一項研究中，緩解狀態影響了存活率；而在後一項研究中，移植物／供者選擇影響了存活率（BM 移植物與 MFD 的存活率較佳）。在另一個納入 46 名首次 HCT 後復發兒童的較小世代中，Taga 等人證實第二次 HCT 後的 5 年 OS 為 41.7%，且兩次 HCT 間隔 >24 個月者預後較佳（63% 對比 27%；p = 0.01）。在一項針對 R/R AML 使用不相合且未去除 T 細胞之臍帶血（CB）的多中心全國性分析中（Horgan et al. 2023），於具既往 HCT 病史的患者世代（n = 24）中觀察到高達 69% 的優異 2 年 EFS。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100062,
+          "page": 637,
+          "en": "These data demonstrate an urgent need to improve outcomes for this group of children and young adults. Interestingly, CR has been seen in cutaneous (but not BM) relapse of AML post-transplant with the checkpoint inhibitor Ipilimumab (Davids et al. 2016). Treatment options for patients who relapse early after transplant remain limited, and at present, for the majority of such patients, we recommend symptom care or enrolment in a clinical trial. Antibody–drug conjugates, bispecific T-cell-engaging antibodies and CAR T-cells are under development and offer hope for the near future.",
+          "zh": "這些數據顯示我們迫切需要改善這群兒童與年輕成人患者的預後。有趣的是，在移植後發生皮膚（而非骨髓）復發的 AML 中，曾觀察到使用免疫檢查點抑制劑 ipilimumab 達到 CR 的案例（Davids et al. 2016）。對於移植後早期復發的患者，治療選項仍然有限；目前對於此類患者中的大多數，我們建議採取症狀照護或納入臨床試驗。抗體藥物複合體（ADC）、雙特異性 T 細胞銜接抗體（bispecific T-cell-engaging antibodies）以及 CAR T 細胞目前正在研發中，並為不久的將來帶來希望。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100063,
+          "page": 637,
+          "en": "Key Points\n• There is increasing evidence that patients with cytogenetic or molecular high-risk features may benefit from HCT in CR1. About 30% of children fall into this risk group. A TRM below 10% should be achievable.\n• A MFD or MUD is considered the optimal donor, and BM is the preferred stem cell source. A mismatched donor may be considered appropriate for patients with poorly responding disease.\n• Children who achieve CR2 after first relapse have a bleak prognosis without HCT.\n• MAC, TBI-free, conditioning is recommended for patients transplanted in CR1 and CR2, and to date the standard regimen had been BU/CY.\n• Novel conditioning regimens incorporating TREO or CLO are being explored, and these need to be compared with BU/CY in prospective, randomised studies.\n• Relapse after HCT in CR1 is associated with a very poor outcome and is not curable without the second HCT. TRM for the second HCT exceeds 30% which might favour the use of a RIC in this setting. The prevention of relapse remains the major challenge.\n• Several novel treatment options, including CAR T-cells, have emerged in the last decade, but their position in the treatment algorithm needs clarity.",
+          "zh": "重點摘要（Key Points）\n• 越來越多證據顯示，具有細胞遺傳學或分子高風險特徵的患者可能從 CR1 階段的 HCT 獲益。約 30% 的兒童屬於此風險群。臨床上應可達成低於 10% 的 TRM。\n• MFD 或 MUD 被視為最佳供者，且 BM 為首選的幹細胞來源。對於疾病治療反應不佳的患者，可考慮使用不相合供者。\n• 首次復發後達到 CR2 的兒童，若不進行 HCT，預後極為黯淡。\n• 對於在 CR1 與 CR2 接受移植的患者，建議採用不含 TBI 的 MAC 預處理，且迄今的標準方案為 BU/CY。\n• 納入 TREO 或 CLO 的新型預處理方案正在探索中，這些方案需要在前瞻性隨機對照研究中與 BU/CY 進行比較。\n• CR1 接受 HCT 後復發的預後極差，若不進行第二次 HCT 則無法治癒。第二次 HCT 的 TRM 超過 30%，因此在此情況下可能傾向使用 RIC。預防復發仍是主要挑戰。\n• 過去十年間出現了包含 CAR T 細胞在內的數種新興治療選項，但它們在治療流程中的定位仍需進一步釐清。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 638,
+      "blocks": [
+        {
+          "id": 7100064,
+          "page": 638,
+          "en": "Abbreviations\nALL Acute lymphoblastic leukaemia\nAML Acute myeloid leukaemia\nAPL Acute promyelocytic leukaemia\nBFM Berlin Frankfurt Munster\nBM Bone marrow\nCAR Chimeric antigen receptor\nCOG Children’s oncology group\nCR Complete remission\nCSA Cyclosporin A\nDART Dual affinity re-targetting\nDLI Donor lymphocyte infusion\nEFS Event-free survival\nFLT3 Fms-like tyrosine kinase 3\nG-CSF Granulocyte colony-stimulating factor\nGR Good risk\nGVHD Graft versus host disease\nGVL Graft versus leukaemia\nHLA Human leucocyte antigen\nHMA Hypomethylating agents\nHR Hazard ratio\nHCT Haematopoeitic cell transplant\nIR Intermediate risk\nITD Internal tandem duplication\nKMT2A Lysine methyltransferase 2A\nLAIP Leukaemia aberrant immunophenotype\nLFS Leukaemia-free survival\nMAC Myeloablative conditioning\nMC Mixed chimerism\nMDS Myelodysplastic syndrome\nMFC Multiparametric flow cytometry\nML-DS Myeloid leukaemia of down syndrome\nMLL Mixed lineage leukaemia\nMMF Mycophenolate mofetil\nMMUD Mismatched unrelated donor\nMRD Measurable residual disease\nOS Overall survival\nPBSC Peripheral blood stem cells\nPCR Polymerase chain reaction\nPDWP Paediatric Diseases Working Party\nPR Poor risk\nR/R Relapsed/refractory\nRCT Randomised controlled trial\nTKI Tyrosine kinase inhibitor\nTRM Transplant-related mortality\nVOD/SOS Venoocclusive disease/sinusoidal obstruction syndrome",
+          "zh": "縮寫列表（Abbreviations）\n• ALL：急性淋巴性白血病（Acute lymphoblastic leukaemia）\n• AML：急性骨髓性白血病（Acute myeloid leukaemia）\n• APL：急性前骨髓細胞白血病（Acute promyelocytic leukaemia）\n• BFM：柏林–法蘭克福–明斯特研究群（Berlin Frankfurt Munster）\n• BM：骨髓（Bone marrow）\n• CAR：嵌合抗原受體（Chimeric antigen receptor）\n• COG：兒童腫瘤學群（Children’s oncology group）\n• CR：完全緩解（Complete remission）\n• CSA：環孢素 A（Cyclosporin A）\n• DART：雙親和力再導向（Dual affinity re-targetting）\n• DLI：供者淋巴球輸注（Donor lymphocyte infusion）\n• EFS：無事件存活率（Event-free survival）\n• FLT3：Fms 樣酪胺酸激酶 3（Fms-like tyrosine kinase 3）\n• G-CSF：顆粒球集落刺激因子（Granulocyte colony-stimulating factor）\n• GR：良好風險（Good risk）\n• GVHD：移植物抗宿主疾病（Graft versus host disease）\n• GVL：移植物抗白血病（Graft versus leukaemia）\n• HLA：人類白血球抗原（Human leucocyte antigen）\n• HMA：去甲基化藥物（Hypomethylating agents）\n• HR：風險比（Hazard ratio）\n• HCT：造血細胞移植（Haematopoeitic cell transplant）\n• IR：中度風險（Intermediate risk）\n• ITD：內部串聯重複（Internal tandem duplication）\n• KMT2A：離胺酸甲基轉移酶 2A（Lysine methyltransferase 2A）\n• LAIP：白血病異常免疫表現型（Leukaemia aberrant immunophenotype）\n• LFS：無白血病存活率（Leukaemia-free survival）\n• MAC：骨髓清除性預處理（Myeloablative conditioning）\n• MC：混合嵌合狀態（Mixed chimerism）\n• MDS：骨髓化生不良症候群（Myelodysplastic syndrome）\n• MFC：多參數流式細胞儀（Multiparametric flow cytometry）\n• ML-DS：唐氏症骨髓性白血病（Myeloid leukaemia of down syndrome）\n• MLL：混合譜系白血病基因（Mixed lineage leukaemia）\n• MMF：麥考酚酯（Mycophenolate mofetil）\n• MMUD：不相合非親屬供者（Mismatched unrelated donor）\n• MRD：可測量殘存疾病（Measurable residual disease）\n• OS：整體存活率（Overall survival）\n• PBSC：周邊血幹細胞（Peripheral blood stem cells）\n• PCR：聚合酶連鎖反應（Polymerase chain reaction）\n• PDWP：兒童疾病工作小組（Paediatric Diseases Working Party）\n• PR：不良風險（Poor risk）\n• R/R：復發／難治型（Relapsed/refractory）\n• RCT：隨機對照試驗（Randomised controlled trial）\n• TKI：酪胺酸激酶抑制劑（Tyrosine kinase inhibitor）\n• TRM：移植相關死亡率（Transplant-related mortality）\n• VOD/SOS：肝靜脈閉塞性疾病／肝竇阻塞症候群（Venoocclusive disease/sinusoidal obstruction syndrome）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7100065,
+          "page": 638,
+          "en": "References",
+          "zh": "References",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=References"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=References"
+            }
+          ]
+        },
+        {
+          "id": 7100066,
+          "page": 638,
+          "en": "Abrahamsson J, Forestier E, Heldrup J, et al. Response-guided induction therapy in pediatric acute myeloid leukemia with excellent remission rate. J Clin Oncol. 2011;29:310–5.",
+          "zh": "Abrahamsson J, Forestier E, Heldrup J, et al. Response-guided induction therapy in pediatric acute myeloid leukemia with excellent remission rate. J Clin Oncol. 2011;29:310–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abrahamsson%20J%2C%20Forestier%20E%2C%20Heldrup%20J%2C%20et%20al.%20Response-guided%20induction%20therapy%20in%20pediatric%20acute%20myeloid%20leukemia%20with%20excellent%20remission%20rate.%20J%20Clin%20Oncol.%202011%3B29%3A310%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abrahamsson%20J%2C%20Forestier%20E%2C%20Heldrup%20J%2C%20et%20al.%20Response-guided%20induction%20therapy%20in%20pediatric%20acute%20myeloid%20leukemia%20with%20excellent%20remission%20rate.%20J%20Clin%20Oncol.%202011%3B29%3A310%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 7100067,
+          "page": 638,
+          "en": "Andersson BS, Valdez BC, de Lima M, et al. Clofarabine ± fludarabine with once daily i.v. busulfan as pre-transplant conditioning therapy for advanced myeloid leukemia and MDS. Biol Blood Marrow Transplant. 2011;17(6):893–900. https://doi.org/10.1016/j.bbmt.2010.09.022. Epub 2010 Oct 11",
+          "zh": "Andersson BS, Valdez BC, de Lima M, et al. Clofarabine ± fludarabine with once daily i.v. busulfan as pre-transplant conditioning therapy for advanced myeloid leukemia and MDS. Biol Blood Marrow Transplant. 2011;17(6):893–900. https://doi.org/10.1016/j.bbmt.2010.09.022. Epub 2010 Oct 11",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Andersson%20BS%2C%20Valdez%20BC%2C%20de%20Lima%20M%2C%20et%20al.%20Clofarabine%20%C2%B1%20fludarabine%20with%20once%20daily%20i.v.%20busulfan%20as%20pre-transplant%20conditioning%20therapy%20for%20advanced%20myeloid%20leukemia%20and%20MDS.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%286%29%3A893%E2%80%93900.%20https%3A//doi.org/10.1016/j.bbmt.2010.09.022.%20Epub%202010%20Oct%2011"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Andersson%20BS%2C%20Valdez%20BC%2C%20de%20Lima%20M%2C%20et%20al.%20Clofarabine%20%C2%B1%20fludarabine%20with%20once%20daily%20i.v.%20busulfan%20as%20pre-transplant%20conditioning%20therapy%20for%20advanced%20myeloid%20leukemia%20and%20MDS.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%286%29%3A893%E2%80%93900.%20https%3A//doi.org/10.1016/j.bbmt.2010.09.022.%20Epub%202010%20Oct%2011"
+            }
+          ]
+        },
+        {
+          "id": 7100068,
+          "page": 638,
+          "en": "Ayala E, Figueroa J, Perkins J, et al. Myeloablative intravenous pharmacokinetically targeted busulfan plus fludarabine as conditioning for allogeneic hematopoietic cell transplantation in patients with non-Hodgkin lymphoma. Clin Lymphoma Myeloma Leuk. 2015;15(6):335–40. https://doi.org/10.1016/j.clml.2014.12.016. Epub 2015 Jan 7",
+          "zh": "Ayala E, Figueroa J, Perkins J, et al. Myeloablative intravenous pharmacokinetically targeted busulfan plus fludarabine as conditioning for allogeneic hematopoietic cell transplantation in patients with non-Hodgkin lymphoma. Clin Lymphoma Myeloma Leuk. 2015;15(6):335–40. https://doi.org/10.1016/j.clml.2014.12.016. Epub 2015 Jan 7",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ayala%20E%2C%20Figueroa%20J%2C%20Perkins%20J%2C%20et%20al.%20Myeloablative%20intravenous%20pharmacokinetically%20targeted%20busulfan%20plus%20fludarabine%20as%20conditioning%20for%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20patients%20with%20non-Hodgkin%20lymphoma.%20Clin%20Lymphoma%20Myeloma%20Leuk.%202015%3B15%286%29%3A335%E2%80%9340.%20https%3A//doi.org/10.1016/j.clml.2014.12.016.%20Epub%202015%20Jan%207"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ayala%20E%2C%20Figueroa%20J%2C%20Perkins%20J%2C%20et%20al.%20Myeloablative%20intravenous%20pharmacokinetically%20targeted%20busulfan%20plus%20fludarabine%20as%20conditioning%20for%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20patients%20with%20non-Hodgkin%20lymphoma.%20Clin%20Lymphoma%20Myeloma%20Leuk.%202015%3B15%286%29%3A335%E2%80%9340.%20https%3A//doi.org/10.1016/j.clml.2014.12.016.%20Epub%202015%20Jan%207"
+            }
+          ]
+        },
+        {
+          "id": 7100069,
+          "page": 638,
+          "en": "Bertaina A, Zecca M, Buldini B, et al. Unrelated donor vs HLA-haploidentical α/β T-cell- and B-cell-depleted HSCT in children with acute leukemia. Blood. 2018;132(24):2594–607. https://doi.org/10.1182/blood-2018-07-861575. Epub 2018 Oct 22",
+          "zh": "Bertaina A, Zecca M, Buldini B, et al. Unrelated donor vs HLA-haploidentical α/β T-cell- and B-cell-depleted HSCT in children with acute leukemia. Blood. 2018;132(24):2594–607. https://doi.org/10.1182/blood-2018-07-861575. Epub 2018 Oct 22",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bertaina%20A%2C%20Zecca%20M%2C%20Buldini%20B%2C%20et%20al.%20Unrelated%20donor%20vs%20HLA-haploidentical%20%CE%B1/%CE%B2%20T-cell-%20and%20B-cell-depleted%20HSCT%20in%20children%20with%20acute%20leukemia.%20Blood.%202018%3B132%2824%29%3A2594%E2%80%93607.%20https%3A//doi.org/10.1182/blood-2018-07-861575.%20Epub%202018%20Oct%2022"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bertaina%20A%2C%20Zecca%20M%2C%20Buldini%20B%2C%20et%20al.%20Unrelated%20donor%20vs%20HLA-haploidentical%20%CE%B1/%CE%B2%20T-cell-%20and%20B-cell-depleted%20HSCT%20in%20children%20with%20acute%20leukemia.%20Blood.%202018%3B132%2824%29%3A2594%E2%80%93607.%20https%3A//doi.org/10.1182/blood-2018-07-861575.%20Epub%202018%20Oct%2022"
+            }
+          ]
+        },
+        {
+          "id": 7100070,
+          "page": 638,
+          "en": "Booth N, Mirea L, Huschart E, Miller H, et al. Efficacy of Azacitidine and Prophylactic Donor Lymphocyte Infusion after HSCT in Pediatric Patients with Acute Myelogenous Leukemia: A Retrospective Pre-Post. StudyTransplant Cell Ther. 2023;29(5):330.e1–7. https://doi.org/10.1016/j.jtct.2023.02.009. Epub 2023 Feb 19",
+          "zh": "Booth N, Mirea L, Huschart E, Miller H, et al. Efficacy of Azacitidine and Prophylactic Donor Lymphocyte Infusion after HSCT in Pediatric Patients with Acute Myelogenous Leukemia: A Retrospective Pre-Post. StudyTransplant Cell Ther. 2023;29(5):330.e1–7. https://doi.org/10.1016/j.jtct.2023.02.009. Epub 2023 Feb 19",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Booth%20N%2C%20Mirea%20L%2C%20Huschart%20E%2C%20Miller%20H%2C%20et%20al.%20Efficacy%20of%20Azacitidine%20and%20Prophylactic%20Donor%20Lymphocyte%20Infusion%20after%20HSCT%20in%20Pediatric%20Patients%20with%20Acute%20Myelogenous%20Leukemia%3A%20A%20Retrospective%20Pre-Post.%20StudyTransplant%20Cell%20Ther.%202023%3B29%285%29%3A330.e1%E2%80%937.%20https%3A//doi.org/10.1016/j.jtct.2023.02.009.%20Epub%202023%20Feb%2019"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Booth%20N%2C%20Mirea%20L%2C%20Huschart%20E%2C%20Miller%20H%2C%20et%20al.%20Efficacy%20of%20Azacitidine%20and%20Prophylactic%20Donor%20Lymphocyte%20Infusion%20after%20HSCT%20in%20Pediatric%20Patients%20with%20Acute%20Myelogenous%20Leukemia%3A%20A%20Retrospective%20Pre-Post.%20StudyTransplant%20Cell%20Ther.%202023%3B29%285%29%3A330.e1%E2%80%937.%20https%3A//doi.org/10.1016/j.jtct.2023.02.009.%20Epub%202023%20Feb%2019"
+            }
+          ]
+        },
+        {
+          "id": 7100071,
+          "page": 638,
+          "en": "Buldini B, Rizzati F, Masetti R, et al. Prognostic significance of flow-cytometry evaluation of minimal residual disease in children with acute myeloid leukaemia treated according to the AIEOP-AML 2002/01 study protocol. Br J Haematol. 2017;177:116–26.",
+          "zh": "Buldini B, Rizzati F, Masetti R, et al. Prognostic significance of flow-cytometry evaluation of minimal residual disease in children with acute myeloid leukaemia treated according to the AIEOP-AML 2002/01 study protocol. Br J Haematol. 2017;177:116–26.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Buldini%20B%2C%20Rizzati%20F%2C%20Masetti%20R%2C%20et%20al.%20Prognostic%20significance%20of%20flow-cytometry%20evaluation%20of%20minimal%20residual%20disease%20in%20children%20with%20acute%20myeloid%20leukaemia%20treated%20according%20to%20the%20AIEOP-AML%202002/01%20study%20protocol.%20Br%20J%20Haematol.%202017%3B177%3A116%E2%80%9326."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Buldini%20B%2C%20Rizzati%20F%2C%20Masetti%20R%2C%20et%20al.%20Prognostic%20significance%20of%20flow-cytometry%20evaluation%20of%20minimal%20residual%20disease%20in%20children%20with%20acute%20myeloid%20leukaemia%20treated%20according%20to%20the%20AIEOP-AML%202002/01%20study%20protocol.%20Br%20J%20Haematol.%202017%3B177%3A116%E2%80%9326."
+            }
+          ]
+        },
+        {
+          "id": 7100072,
+          "page": 638,
+          "en": "Burchert A, Bug G, Fritz LV, et al. Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN)J. Clin Oncol. 2020;38(26):2993–3002. https://doi.org/10.1200/JCO.19.03345. Epub 2020 Jul 16",
+          "zh": "Burchert A, Bug G, Fritz LV, et al. Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN)J. Clin Oncol. 2020;38(26):2993–3002. https://doi.org/10.1200/JCO.19.03345. Epub 2020 Jul 16",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Burchert%20A%2C%20Bug%20G%2C%20Fritz%20LV%2C%20et%20al.%20Sorafenib%20maintenance%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20with%20FLT3-internal%20tandem%20duplication%20mutation%20%28SORMAIN%29J.%20Clin%20Oncol.%202020%3B38%2826%29%3A2993%E2%80%933002.%20https%3A//doi.org/10.1200/JCO.19.03345.%20Epub%202020%20Jul%2016"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Burchert%20A%2C%20Bug%20G%2C%20Fritz%20LV%2C%20et%20al.%20Sorafenib%20maintenance%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20with%20FLT3-internal%20tandem%20duplication%20mutation%20%28SORMAIN%29J.%20Clin%20Oncol.%202020%3B38%2826%29%3A2993%E2%80%933002.%20https%3A//doi.org/10.1200/JCO.19.03345.%20Epub%202020%20Jul%2016"
+            }
+          ]
+        },
+        {
+          "id": 7100073,
+          "page": 638,
+          "en": "Chen YB, Li S, Fisher DC, Driscoll J, et al. Phase II Trial of Tandem High-Dose Chemotherapy with Autologous Stem Cell Transplantation Followed by Reduced-Intensity Allogeneic Stem Cell Transplantation for Patients with High-Risk Lymphoma. Biol Blood Marrow Transplant. 2015;21(9):1583–8. https://doi.org/10.1016/j.bbmt.2015.05.016. Epub 2015 May 22",
+          "zh": "Chen YB, Li S, Fisher DC, Driscoll J, et al. Phase II Trial of Tandem High-Dose Chemotherapy with Autologous Stem Cell Transplantation Followed by Reduced-Intensity Allogeneic Stem Cell Transplantation for Patients with High-Risk Lymphoma. Biol Blood Marrow Transplant. 2015;21(9):1583–8. https://doi.org/10.1016/j.bbmt.2015.05.016. Epub 2015 May 22",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chen%20YB%2C%20Li%20S%2C%20Fisher%20DC%2C%20Driscoll%20J%2C%20et%20al.%20Phase%20II%20Trial%20of%20Tandem%20High-Dose%20Chemotherapy%20with%20Autologous%20Stem%20Cell%20Transplantation%20Followed%20by%20Reduced-Intensity%20Allogeneic%20Stem%20Cell%20Transplantation%20for%20Patients%20with%20High-Risk%20Lymphoma.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%289%29%3A1583%E2%80%938.%20https%3A//doi.org/10.1016/j.bbmt.2015.05.016.%20Epub%202015%20May%2022"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chen%20YB%2C%20Li%20S%2C%20Fisher%20DC%2C%20Driscoll%20J%2C%20et%20al.%20Phase%20II%20Trial%20of%20Tandem%20High-Dose%20Chemotherapy%20with%20Autologous%20Stem%20Cell%20Transplantation%20Followed%20by%20Reduced-Intensity%20Allogeneic%20Stem%20Cell%20Transplantation%20for%20Patients%20with%20High-Risk%20Lymphoma.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%289%29%3A1583%E2%80%938.%20https%3A//doi.org/10.1016/j.bbmt.2015.05.016.%20Epub%202015%20May%2022"
+            }
+          ]
+        },
+        {
+          "id": 7100074,
+          "page": 638,
+          "en": "Copelan EA, Hamilton BK, Avalos B, et al. Better leukaemia-free and overall survival in AML in first remission following cyclophosphamide in combination with Busulfan compared with TBI. Blood. 2013;122:3863–70.",
+          "zh": "Copelan EA, Hamilton BK, Avalos B, et al. Better leukaemia-free and overall survival in AML in first remission following cyclophosphamide in combination with Busulfan compared with TBI. Blood. 2013;122:3863–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Copelan%20EA%2C%20Hamilton%20BK%2C%20Avalos%20B%2C%20et%20al.%20Better%20leukaemia-free%20and%20overall%20survival%20in%20AML%20in%20first%20remission%20following%20cyclophosphamide%20in%20combination%20with%20Busulfan%20compared%20with%20TBI.%20Blood.%202013%3B122%3A3863%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Copelan%20EA%2C%20Hamilton%20BK%2C%20Avalos%20B%2C%20et%20al.%20Better%20leukaemia-free%20and%20overall%20survival%20in%20AML%20in%20first%20remission%20following%20cyclophosphamide%20in%20combination%20with%20Busulfan%20compared%20with%20TBI.%20Blood.%202013%3B122%3A3863%E2%80%9370."
+            }
+          ],
+          "endPage": 639
+        }
+      ]
+    },
+    {
+      "page": 639,
+      "blocks": [
+        {
+          "id": 7100075,
+          "page": 639,
+          "en": "Craddock C, Jilani N, Siddique S, et al. Tolerability and Clinical Activity of Post-Transplantation Azacitidine in Patients Allografted for Acute Myeloid Leukemia Treated on the RICAZA Trial. Biol Blood Marrow Transplant. 2016;22(2):385–90. https://doi.org/10.1016/j.bbmt.2015.09.004. Epub 2015 Sep 9",
+          "zh": "Craddock C, Jilani N, Siddique S, et al. Tolerability and Clinical Activity of Post-Transplantation Azacitidine in Patients Allografted for Acute Myeloid Leukemia Treated on the RICAZA Trial. Biol Blood Marrow Transplant. 2016;22(2):385–90. https://doi.org/10.1016/j.bbmt.2015.09.004. Epub 2015 Sep 9",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Craddock%20C%2C%20Jilani%20N%2C%20Siddique%20S%2C%20et%20al.%20Tolerability%20and%20Clinical%20Activity%20of%20Post-Transplantation%20Azacitidine%20in%20Patients%20Allografted%20for%20Acute%20Myeloid%20Leukemia%20Treated%20on%20the%20RICAZA%20Trial.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%282%29%3A385%E2%80%9390.%20https%3A//doi.org/10.1016/j.bbmt.2015.09.004.%20Epub%202015%20Sep%209"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Craddock%20C%2C%20Jilani%20N%2C%20Siddique%20S%2C%20et%20al.%20Tolerability%20and%20Clinical%20Activity%20of%20Post-Transplantation%20Azacitidine%20in%20Patients%20Allografted%20for%20Acute%20Myeloid%20Leukemia%20Treated%20on%20the%20RICAZA%20Trial.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%282%29%3A385%E2%80%9390.%20https%3A//doi.org/10.1016/j.bbmt.2015.09.004.%20Epub%202015%20Sep%209"
+            }
+          ]
+        },
+        {
+          "id": 7100076,
+          "page": 639,
+          "en": "Craddock C, Nagra S, Peniket A, et al. Factors predicting long-term survival after T-cell depleted reduced intensity allogeneic stem cell transplantation for acute myeloid leukaemia. Haematologica. 2010;95:989–95.",
+          "zh": "Craddock C, Nagra S, Peniket A, et al. Factors predicting long-term survival after T-cell depleted reduced intensity allogeneic stem cell transplantation for acute myeloid leukaemia. Haematologica. 2010;95:989–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Craddock%20C%2C%20Nagra%20S%2C%20Peniket%20A%2C%20et%20al.%20Factors%20predicting%20long-term%20survival%20after%20T-cell%20depleted%20reduced%20intensity%20allogeneic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukaemia.%20Haematologica.%202010%3B95%3A989%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Craddock%20C%2C%20Nagra%20S%2C%20Peniket%20A%2C%20et%20al.%20Factors%20predicting%20long-term%20survival%20after%20T-cell%20depleted%20reduced%20intensity%20allogeneic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukaemia.%20Haematologica.%202010%3B95%3A989%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 7100077,
+          "page": 639,
+          "en": "Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+          "zh": "Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Davids%20MS%2C%20Kim%20HT%2C%20Bachireddy%20P%2C%20et%20al.%20Ipilimumab%20for%20patients%20with%20relapse%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202016%3B375%3A143%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Davids%20MS%2C%20Kim%20HT%2C%20Bachireddy%20P%2C%20et%20al.%20Ipilimumab%20for%20patients%20with%20relapse%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202016%3B375%3A143%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 7100078,
+          "page": 639,
+          "en": "Gao L, Zhang Y, Wang S, et al. Effect of rhG-CSF combined with Decitabine prophylaxis on relapse of patients with high-risk MRD-negative AML after HSCT: an open-label, Multicenter, Randomized Controlled Trial. J Clin Oncol. 2020;38(36):4249–59. https://doi.org/10.1200/JCO.19.03277. Epub 2020 Oct 27",
+          "zh": "Gao L, Zhang Y, Wang S, et al. Effect of rhG-CSF combined with Decitabine prophylaxis on relapse of patients with high-risk MRD-negative AML after HSCT: an open-label, Multicenter, Randomized Controlled Trial. J Clin Oncol. 2020;38(36):4249–59. https://doi.org/10.1200/JCO.19.03277. Epub 2020 Oct 27",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gao%20L%2C%20Zhang%20Y%2C%20Wang%20S%2C%20et%20al.%20Effect%20of%20rhG-CSF%20combined%20with%20Decitabine%20prophylaxis%20on%20relapse%20of%20patients%20with%20high-risk%20MRD-negative%20AML%20after%20HSCT%3A%20an%20open-label%2C%20Multicenter%2C%20Randomized%20Controlled%20Trial.%20J%20Clin%20Oncol.%202020%3B38%2836%29%3A4249%E2%80%9359.%20https%3A//doi.org/10.1200/JCO.19.03277.%20Epub%202020%20Oct%2027"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gao%20L%2C%20Zhang%20Y%2C%20Wang%20S%2C%20et%20al.%20Effect%20of%20rhG-CSF%20combined%20with%20Decitabine%20prophylaxis%20on%20relapse%20of%20patients%20with%20high-risk%20MRD-negative%20AML%20after%20HSCT%3A%20an%20open-label%2C%20Multicenter%2C%20Randomized%20Controlled%20Trial.%20J%20Clin%20Oncol.%202020%3B38%2836%29%3A4249%E2%80%9359.%20https%3A//doi.org/10.1200/JCO.19.03277.%20Epub%202020%20Oct%2027"
+            }
+          ]
+        },
+        {
+          "id": 7100079,
+          "page": 639,
+          "en": "Harris AC, Boelens JJ, Ahn KW, et al. Comparison of pediatric allogeneic transplant outcomes using myeloablative Busulfan with cyclophosphamide or fludarabine. Blood Adv. 2018;2:1198–206.",
+          "zh": "Harris AC, Boelens JJ, Ahn KW, et al. Comparison of pediatric allogeneic transplant outcomes using myeloablative Busulfan with cyclophosphamide or fludarabine. Blood Adv. 2018;2:1198–206.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Harris%20AC%2C%20Boelens%20JJ%2C%20Ahn%20KW%2C%20et%20al.%20Comparison%20of%20pediatric%20allogeneic%20transplant%20outcomes%20using%20myeloablative%20Busulfan%20with%20cyclophosphamide%20or%20fludarabine.%20Blood%20Adv.%202018%3B2%3A1198%E2%80%93206."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Harris%20AC%2C%20Boelens%20JJ%2C%20Ahn%20KW%2C%20et%20al.%20Comparison%20of%20pediatric%20allogeneic%20transplant%20outcomes%20using%20myeloablative%20Busulfan%20with%20cyclophosphamide%20or%20fludarabine.%20Blood%20Adv.%202018%3B2%3A1198%E2%80%93206."
+            }
+          ]
+        },
+        {
+          "id": 7100080,
+          "page": 639,
+          "en": "Heuser M, Freeman SD, Ossenkoppele GJ, et al. 2021 Update on MRD in acute myeloid leukemia: a consensus document from the European LeukemiaNet MRD working Party. Blood. 2021;138(26):2753–67. https://doi.org/10.1182/blood.2021013626.",
+          "zh": "Heuser M, Freeman SD, Ossenkoppele GJ, et al. 2021 Update on MRD in acute myeloid leukemia: a consensus document from the European LeukemiaNet MRD working Party. Blood. 2021;138(26):2753–67. https://doi.org/10.1182/blood.2021013626.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Heuser%20M%2C%20Freeman%20SD%2C%20Ossenkoppele%20GJ%2C%20et%20al.%202021%20Update%20on%20MRD%20in%20acute%20myeloid%20leukemia%3A%20a%20consensus%20document%20from%20the%20European%20LeukemiaNet%20MRD%20working%20Party.%20Blood.%202021%3B138%2826%29%3A2753%E2%80%9367.%20https%3A//doi.org/10.1182/blood.2021013626."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Heuser%20M%2C%20Freeman%20SD%2C%20Ossenkoppele%20GJ%2C%20et%20al.%202021%20Update%20on%20MRD%20in%20acute%20myeloid%20leukemia%3A%20a%20consensus%20document%20from%20the%20European%20LeukemiaNet%20MRD%20working%20Party.%20Blood.%202021%3B138%2826%29%3A2753%E2%80%9367.%20https%3A//doi.org/10.1182/blood.2021013626."
+            }
+          ]
+        },
+        {
+          "id": 7100081,
+          "page": 639,
+          "en": "Horgan C, Mullanfiroze K, Rauthan A, et al. T-cell replete cord transplants give superior outcomes in high-risk and relapsed/refractory pediatric myeloid malignancy. Blood Adv. 2023;7(10):2155–65. https://doi.org/10.1182/bloodadvances.2022009253.",
+          "zh": "Horgan C, Mullanfiroze K, Rauthan A, et al. T-cell replete cord transplants give superior outcomes in high-risk and relapsed/refractory pediatric myeloid malignancy. Blood Adv. 2023;7(10):2155–65. https://doi.org/10.1182/bloodadvances.2022009253.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Horgan%20C%2C%20Mullanfiroze%20K%2C%20Rauthan%20A%2C%20et%20al.%20T-cell%20replete%20cord%20transplants%20give%20superior%20outcomes%20in%20high-risk%20and%20relapsed/refractory%20pediatric%20myeloid%20malignancy.%20Blood%20Adv.%202023%3B7%2810%29%3A2155%E2%80%9365.%20https%3A//doi.org/10.1182/bloodadvances.2022009253."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Horgan%20C%2C%20Mullanfiroze%20K%2C%20Rauthan%20A%2C%20et%20al.%20T-cell%20replete%20cord%20transplants%20give%20superior%20outcomes%20in%20high-risk%20and%20relapsed/refractory%20pediatric%20myeloid%20malignancy.%20Blood%20Adv.%202023%3B7%2810%29%3A2155%E2%80%9365.%20https%3A//doi.org/10.1182/bloodadvances.2022009253."
+            }
+          ]
+        },
+        {
+          "id": 7100082,
+          "page": 639,
+          "en": "Inaba H, van Oosterwijk JG, Panetta JC, et al. Preclinical and pilot study of type I FLT3 tyrosine kinase inhibitor, Crenolanib, with Sorafenib in acute myeloid leukemia and FLT3-internal tandem duplication. Clin Cancer Res. 2022;28(12):2536–46. https://doi.org/10.1158/1078-0432.CCR-21-4450.",
+          "zh": "Inaba H, van Oosterwijk JG, Panetta JC, et al. Preclinical and pilot study of type I FLT3 tyrosine kinase inhibitor, Crenolanib, with Sorafenib in acute myeloid leukemia and FLT3-internal tandem duplication. Clin Cancer Res. 2022;28(12):2536–46. https://doi.org/10.1158/1078-0432.CCR-21-4450.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Inaba%20H%2C%20van%20Oosterwijk%20JG%2C%20Panetta%20JC%2C%20et%20al.%20Preclinical%20and%20pilot%20study%20of%20type%20I%20FLT3%20tyrosine%20kinase%20inhibitor%2C%20Crenolanib%2C%20with%20Sorafenib%20in%20acute%20myeloid%20leukemia%20and%20FLT3-internal%20tandem%20duplication.%20Clin%20Cancer%20Res.%202022%3B28%2812%29%3A2536%E2%80%9346.%20https%3A//doi.org/10.1158/1078-0432.CCR-21-4450."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Inaba%20H%2C%20van%20Oosterwijk%20JG%2C%20Panetta%20JC%2C%20et%20al.%20Preclinical%20and%20pilot%20study%20of%20type%20I%20FLT3%20tyrosine%20kinase%20inhibitor%2C%20Crenolanib%2C%20with%20Sorafenib%20in%20acute%20myeloid%20leukemia%20and%20FLT3-internal%20tandem%20duplication.%20Clin%20Cancer%20Res.%202022%3B28%2812%29%3A2536%E2%80%9346.%20https%3A//doi.org/10.1158/1078-0432.CCR-21-4450."
+            }
+          ]
+        },
+        {
+          "id": 7100083,
+          "page": 639,
+          "en": "Issa GC, Aldoss I, DiPersio J, et al. The menin inhibitor revumenib in KMT2A-rearranged or NPM1-mutant leukaemia. Nature. 2023;615:920–4. https://doi.org/10.1038/s41586-023-05812-3.",
+          "zh": "Issa GC, Aldoss I, DiPersio J, et al. The menin inhibitor revumenib in KMT2A-rearranged or NPM1-mutant leukaemia. Nature. 2023;615:920–4. https://doi.org/10.1038/s41586-023-05812-3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Issa%20GC%2C%20Aldoss%20I%2C%20DiPersio%20J%2C%20et%20al.%20The%20menin%20inhibitor%20revumenib%20in%20KMT2A-rearranged%20or%20NPM1-mutant%20leukaemia.%20Nature.%202023%3B615%3A920%E2%80%934.%20https%3A//doi.org/10.1038/s41586-023-05812-3."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Issa%20GC%2C%20Aldoss%20I%2C%20DiPersio%20J%2C%20et%20al.%20The%20menin%20inhibitor%20revumenib%20in%20KMT2A-rearranged%20or%20NPM1-mutant%20leukaemia.%20Nature.%202023%3B615%3A920%E2%80%934.%20https%3A//doi.org/10.1038/s41586-023-05812-3."
+            }
+          ]
+        },
+        {
+          "id": 7100084,
+          "page": 639,
+          "en": "Karlsson L, Nyvold CG, Soboli A, et al. Fusion transcript analysis reveals slower response kinetics than multiparameter flow cytometry in childhood acute myeloid leukaemia. Int J Lab Hematol. 2022;44(6):1094–101. https://doi.org/10.1111/ijlh.13935. Epub 2022 Aug 2",
+          "zh": "Karlsson L, Nyvold CG, Soboli A, et al. Fusion transcript analysis reveals slower response kinetics than multiparameter flow cytometry in childhood acute myeloid leukaemia. Int J Lab Hematol. 2022;44(6):1094–101. https://doi.org/10.1111/ijlh.13935. Epub 2022 Aug 2",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Karlsson%20L%2C%20Nyvold%20CG%2C%20Soboli%20A%2C%20et%20al.%20Fusion%20transcript%20analysis%20reveals%20slower%20response%20kinetics%20than%20multiparameter%20flow%20cytometry%20in%20childhood%20acute%20myeloid%20leukaemia.%20Int%20J%20Lab%20Hematol.%202022%3B44%286%29%3A1094%E2%80%93101.%20https%3A//doi.org/10.1111/ijlh.13935.%20Epub%202022%20Aug%202"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Karlsson%20L%2C%20Nyvold%20CG%2C%20Soboli%20A%2C%20et%20al.%20Fusion%20transcript%20analysis%20reveals%20slower%20response%20kinetics%20than%20multiparameter%20flow%20cytometry%20in%20childhood%20acute%20myeloid%20leukaemia.%20Int%20J%20Lab%20Hematol.%202022%3B44%286%29%3A1094%E2%80%93101.%20https%3A//doi.org/10.1111/ijlh.13935.%20Epub%202022%20Aug%202"
+            }
+          ]
+        },
+        {
+          "id": 7100085,
+          "page": 639,
+          "en": "Karol SE, Alexander TB, Budhraja A, et al. Venetoclax in combination with cytarabine with or without idarubicin in children with relapsed or refractory acute myeloid leukaemia: a phase 1, dose-escalation study. Lancet Oncol. 2020;21(4):551–60. https://doi.org/10.1016/S1470-2045(20)30060-7. Epub 2020 Mar 11",
+          "zh": "Karol SE, Alexander TB, Budhraja A, et al. Venetoclax in combination with cytarabine with or without idarubicin in children with relapsed or refractory acute myeloid leukaemia: a phase 1, dose-escalation study. Lancet Oncol. 2020;21(4):551–60. https://doi.org/10.1016/S1470-2045(20)30060-7. Epub 2020 Mar 11",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Karol%20SE%2C%20Alexander%20TB%2C%20Budhraja%20A%2C%20et%20al.%20Venetoclax%20in%20combination%20with%20cytarabine%20with%20or%20without%20idarubicin%20in%20children%20with%20relapsed%20or%20refractory%20acute%20myeloid%20leukaemia%3A%20a%20phase%201%2C%20dose-escalation%20study.%20Lancet%20Oncol.%202020%3B21%284%29%3A551%E2%80%9360.%20https%3A//doi.org/10.1016/S1470-2045%2820%2930060-7.%20Epub%202020%20Mar%2011"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Karol%20SE%2C%20Alexander%20TB%2C%20Budhraja%20A%2C%20et%20al.%20Venetoclax%20in%20combination%20with%20cytarabine%20with%20or%20without%20idarubicin%20in%20children%20with%20relapsed%20or%20refractory%20acute%20myeloid%20leukaemia%3A%20a%20phase%201%2C%20dose-escalation%20study.%20Lancet%20Oncol.%202020%3B21%284%29%3A551%E2%80%9360.%20https%3A//doi.org/10.1016/S1470-2045%2820%2930060-7.%20Epub%202020%20Mar%2011"
+            }
+          ]
+        },
+        {
+          "id": 7100086,
+          "page": 639,
+          "en": "Kaspers GL, Zimmermann M, Reinhardt D, et al. Improved outcome in pediatric relapsed acute myeloid leukaemia: results of a randomised trial on liposomal daunorubicin by the international BFM study group. J Clin Oncol. 2013;31:599–607.",
+          "zh": "Kaspers GL, Zimmermann M, Reinhardt D, et al. Improved outcome in pediatric relapsed acute myeloid leukaemia: results of a randomised trial on liposomal daunorubicin by the international BFM study group. J Clin Oncol. 2013;31:599–607.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kaspers%20GL%2C%20Zimmermann%20M%2C%20Reinhardt%20D%2C%20et%20al.%20Improved%20outcome%20in%20pediatric%20relapsed%20acute%20myeloid%20leukaemia%3A%20results%20of%20a%20randomised%20trial%20on%20liposomal%20daunorubicin%20by%20the%20international%20BFM%20study%20group.%20J%20Clin%20Oncol.%202013%3B31%3A599%E2%80%93607."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kaspers%20GL%2C%20Zimmermann%20M%2C%20Reinhardt%20D%2C%20et%20al.%20Improved%20outcome%20in%20pediatric%20relapsed%20acute%20myeloid%20leukaemia%3A%20results%20of%20a%20randomised%20trial%20on%20liposomal%20daunorubicin%20by%20the%20international%20BFM%20study%20group.%20J%20Clin%20Oncol.%202013%3B31%3A599%E2%80%93607."
+            }
+          ]
+        },
+        {
+          "id": 7100087,
+          "page": 639,
+          "en": "Keating AK, Langenhorst J, Wagner JE, et al. The influence of stem cell source on transplant outcomes for pediatric patients with acute myeloid leukemia. Blood Adv. 2019;3(7):1118–28. https://doi.org/10.1182/bloodadvances.2018025908.",
+          "zh": "Keating AK, Langenhorst J, Wagner JE, et al. The influence of stem cell source on transplant outcomes for pediatric patients with acute myeloid leukemia. Blood Adv. 2019;3(7):1118–28. https://doi.org/10.1182/bloodadvances.2018025908.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Keating%20AK%2C%20Langenhorst%20J%2C%20Wagner%20JE%2C%20et%20al.%20The%20influence%20of%20stem%20cell%20source%20on%20transplant%20outcomes%20for%20pediatric%20patients%20with%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202019%3B3%287%29%3A1118%E2%80%9328.%20https%3A//doi.org/10.1182/bloodadvances.2018025908."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Keating%20AK%2C%20Langenhorst%20J%2C%20Wagner%20JE%2C%20et%20al.%20The%20influence%20of%20stem%20cell%20source%20on%20transplant%20outcomes%20for%20pediatric%20patients%20with%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202019%3B3%287%29%3A1118%E2%80%9328.%20https%3A//doi.org/10.1182/bloodadvances.2018025908."
+            }
+          ]
+        },
+        {
+          "id": 7100088,
+          "page": 639,
+          "en": "Kebriaei P, Basset R, Ledesma C, et al. Clofarabine combined with busulfan provides excellent disease control in adult patients with acute lymphoblastic leukemia undergoing allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2012;18(12):1819–26. https://doi.org/10.1016/j.bbmt.2012.06.010. Epub 2012 Jun 29",
+          "zh": "Kebriaei P, Basset R, Ledesma C, et al. Clofarabine combined with busulfan provides excellent disease control in adult patients with acute lymphoblastic leukemia undergoing allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2012;18(12):1819–26. https://doi.org/10.1016/j.bbmt.2012.06.010. Epub 2012 Jun 29",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kebriaei%20P%2C%20Basset%20R%2C%20Ledesma%20C%2C%20et%20al.%20Clofarabine%20combined%20with%20busulfan%20provides%20excellent%20disease%20control%20in%20adult%20patients%20with%20acute%20lymphoblastic%20leukemia%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%2812%29%3A1819%E2%80%9326.%20https%3A//doi.org/10.1016/j.bbmt.2012.06.010.%20Epub%202012%20Jun%2029"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kebriaei%20P%2C%20Basset%20R%2C%20Ledesma%20C%2C%20et%20al.%20Clofarabine%20combined%20with%20busulfan%20provides%20excellent%20disease%20control%20in%20adult%20patients%20with%20acute%20lymphoblastic%20leukemia%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%2812%29%3A1819%E2%80%9326.%20https%3A//doi.org/10.1016/j.bbmt.2012.06.010.%20Epub%202012%20Jun%2029"
+            }
+          ]
+        },
+        {
+          "id": 7100089,
+          "page": 639,
+          "en": "Leung W, Pui CH, Coustan-Smith E, et al. Detectable minimal residual disease before hematopoietic cell transplantation is prognostic but does not preclude cure for children with very –high-risk leukaemia. Blood. 2012;120:468–72.",
+          "zh": "Leung W, Pui CH, Coustan-Smith E, et al. Detectable minimal residual disease before hematopoietic cell transplantation is prognostic but does not preclude cure for children with very –high-risk leukaemia. Blood. 2012;120:468–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Leung%20W%2C%20Pui%20CH%2C%20Coustan-Smith%20E%2C%20et%20al.%20Detectable%20minimal%20residual%20disease%20before%20hematopoietic%20cell%20transplantation%20is%20prognostic%20but%20does%20not%20preclude%20cure%20for%20children%20with%20very%20%E2%80%93high-risk%20leukaemia.%20Blood.%202012%3B120%3A468%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Leung%20W%2C%20Pui%20CH%2C%20Coustan-Smith%20E%2C%20et%20al.%20Detectable%20minimal%20residual%20disease%20before%20hematopoietic%20cell%20transplantation%20is%20prognostic%20but%20does%20not%20preclude%20cure%20for%20children%20with%20very%20%E2%80%93high-risk%20leukaemia.%20Blood.%202012%3B120%3A468%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 7100090,
+          "page": 639,
+          "en": "Loken MR, Alonzo TA, Pardo L, et al. Residual disease detected by multidimensional flow cytometry signifies high relapse risk in patients with de novo acute myeloid leukemia: a report from Children’s Oncology Group. Blood. 2012;120(8):1581–8. https://doi.org/10.1182/blood-2012-02-408336. Epub 2012 May 30",
+          "zh": "Loken MR, Alonzo TA, Pardo L, et al. Residual disease detected by multidimensional flow cytometry signifies high relapse risk in patients with de novo acute myeloid leukemia: a report from Children’s Oncology Group. Blood. 2012;120(8):1581–8. https://doi.org/10.1182/blood-2012-02-408336. Epub 2012 May 30",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loken%20MR%2C%20Alonzo%20TA%2C%20Pardo%20L%2C%20et%20al.%20Residual%20disease%20detected%20by%20multidimensional%20flow%20cytometry%20signifies%20high%20relapse%20risk%20in%20patients%20with%20de%20novo%20acute%20myeloid%20leukemia%3A%20a%20report%20from%20Children%E2%80%99s%20Oncology%20Group.%20Blood.%202012%3B120%288%29%3A1581%E2%80%938.%20https%3A//doi.org/10.1182/blood-2012-02-408336.%20Epub%202012%20May%2030"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loken%20MR%2C%20Alonzo%20TA%2C%20Pardo%20L%2C%20et%20al.%20Residual%20disease%20detected%20by%20multidimensional%20flow%20cytometry%20signifies%20high%20relapse%20risk%20in%20patients%20with%20de%20novo%20acute%20myeloid%20leukemia%3A%20a%20report%20from%20Children%E2%80%99s%20Oncology%20Group.%20Blood.%202012%3B120%288%29%3A1581%E2%80%938.%20https%3A//doi.org/10.1182/blood-2012-02-408336.%20Epub%202012%20May%2030"
+            }
+          ]
+        },
+        {
+          "id": 7100091,
+          "page": 639,
+          "en": "Lucchini et al. Impact of Conditioning Regimen on Outcomes for Children with Acute Myeloid Leukemia Undergoing Transplantation in First Complete Remission. An Analysis on Behalf of the Pediatric Disease Working Party of the European Group for Blood and Marrow Transplantation Biology of Blood and Marrow Transplantation 2017;23(3):467−74. https://doi.org/10.1016/j.bbmt.2016.11.022.",
+          "zh": "Lucchini et al. Impact of Conditioning Regimen on Outcomes for Children with Acute Myeloid Leukemia Undergoing Transplantation in First Complete Remission. An Analysis on Behalf of the Pediatric Disease Working Party of the European Group for Blood and Marrow Transplantation Biology of Blood and Marrow Transplantation 2017;23(3):467−74. https://doi.org/10.1016/j.bbmt.2016.11.022.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lucchini%20et%20al.%20Impact%20of%20Conditioning%20Regimen%20on%20Outcomes%20for%20Children%20with%20Acute%20Myeloid%20Leukemia%20Undergoing%20Transplantation%20in%20First%20Complete%20Remission.%20An%20Analysis%20on%20Behalf%20of%20the%20Pediatric%20Disease%20Working%20Party%20of%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20Biology%20of%20Blood%20and%20Marrow%20Transplantation%202017%3B23%283%29%3A467%E2%88%9274.%20https%3A//doi.org/10.1016/j.bbmt.2016.11.022."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lucchini%20et%20al.%20Impact%20of%20Conditioning%20Regimen%20on%20Outcomes%20for%20Children%20with%20Acute%20Myeloid%20Leukemia%20Undergoing%20Transplantation%20in%20First%20Complete%20Remission.%20An%20Analysis%20on%20Behalf%20of%20the%20Pediatric%20Disease%20Working%20Party%20of%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20Biology%20of%20Blood%20and%20Marrow%20Transplantation%202017%3B23%283%29%3A467%E2%88%9274.%20https%3A//doi.org/10.1016/j.bbmt.2016.11.022."
+            }
+          ]
+        },
+        {
+          "id": 7100092,
+          "page": 639,
+          "en": "Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018;24(3):282–91. https://doi.org/10.1038/nm.4484. Epub 2018 Feb 12",
+          "zh": "Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018;24(3):282–91. https://doi.org/10.1038/nm.4484. Epub 2018 Feb 12",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018%3B24%283%29%3A282%E2%80%9391.%20https%3A//doi.org/10.1038/nm.4484.%20Epub%202018%20Feb%2012"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018%3B24%283%29%3A282%E2%80%9391.%20https%3A//doi.org/10.1038/nm.4484.%20Epub%202018%20Feb%2012"
+            }
+          ]
+        },
+        {
+          "id": 7100093,
+          "page": 639,
+          "en": "McCall D, Roth M, Mahadeo KM, et al. Gilteritinib combination therapies in pediatric patients with FLT3-mutated acute myeloid leukemia. Blood Adv. 2021;5(23):5215–9. https://doi.org/10.1182/bloodadvances.2021005164.",
+          "zh": "McCall D, Roth M, Mahadeo KM, et al. Gilteritinib combination therapies in pediatric patients with FLT3-mutated acute myeloid leukemia. Blood Adv. 2021;5(23):5215–9. https://doi.org/10.1182/bloodadvances.2021005164.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=McCall%20D%2C%20Roth%20M%2C%20Mahadeo%20KM%2C%20et%20al.%20Gilteritinib%20combination%20therapies%20in%20pediatric%20patients%20with%20FLT3-mutated%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5%2823%29%3A5215%E2%80%939.%20https%3A//doi.org/10.1182/bloodadvances.2021005164."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=McCall%20D%2C%20Roth%20M%2C%20Mahadeo%20KM%2C%20et%20al.%20Gilteritinib%20combination%20therapies%20in%20pediatric%20patients%20with%20FLT3-mutated%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5%2823%29%3A5215%E2%80%939.%20https%3A//doi.org/10.1182/bloodadvances.2021005164."
+            }
+          ]
+        },
+        {
+          "id": 7100094,
+          "page": 639,
+          "en": "McCune JS, Gibbs JP, Slattery JT. Plasma concentration monitoring of busulfan: does it improve clinical outcome. Clin Pharmacokinet. 2000;39(2):155–65. https://doi.org/10.2165/00003088-200039020-00005.",
+          "zh": "McCune JS, Gibbs JP, Slattery JT. Plasma concentration monitoring of busulfan: does it improve clinical outcome. Clin Pharmacokinet. 2000;39(2):155–65. https://doi.org/10.2165/00003088-200039020-00005.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=McCune%20JS%2C%20Gibbs%20JP%2C%20Slattery%20JT.%20Plasma%20concentration%20monitoring%20of%20busulfan%3A%20does%20it%20improve%20clinical%20outcome.%20Clin%20Pharmacokinet.%202000%3B39%282%29%3A155%E2%80%9365.%20https%3A//doi.org/10.2165/00003088-200039020-00005."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=McCune%20JS%2C%20Gibbs%20JP%2C%20Slattery%20JT.%20Plasma%20concentration%20monitoring%20of%20busulfan%3A%20does%20it%20improve%20clinical%20outcome.%20Clin%20Pharmacokinet.%202000%3B39%282%29%3A155%E2%80%9365.%20https%3A//doi.org/10.2165/00003088-200039020-00005."
+            }
+          ]
+        },
+        {
+          "id": 7100095,
+          "page": 639,
+          "en": "Meshinchi S, Miller L, Massaro S, et al. Anti-leukemic activity of STRO-002 a novel folate receptor-α (FR-α)-targeting ADC in relapsed/refractory CBF2AT3-GLIS2 AML. Blood. 2022;140(Supplement 1):159–61. https://doi.org/10.1182/blood-2022-162842.",
+          "zh": "Meshinchi S, Miller L, Massaro S, et al. Anti-leukemic activity of STRO-002 a novel folate receptor-α (FR-α)-targeting ADC in relapsed/refractory CBF2AT3-GLIS2 AML. Blood. 2022;140(Supplement 1):159–61. https://doi.org/10.1182/blood-2022-162842.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meshinchi%20S%2C%20Miller%20L%2C%20Massaro%20S%2C%20et%20al.%20Anti-leukemic%20activity%20of%20STRO-002%20a%20novel%20folate%20receptor-%CE%B1%20%28FR-%CE%B1%29-targeting%20ADC%20in%20relapsed/refractory%20CBF2AT3-GLIS2%20AML.%20Blood.%202022%3B140%28Supplement%201%29%3A159%E2%80%9361.%20https%3A//doi.org/10.1182/blood-2022-162842."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meshinchi%20S%2C%20Miller%20L%2C%20Massaro%20S%2C%20et%20al.%20Anti-leukemic%20activity%20of%20STRO-002%20a%20novel%20folate%20receptor-%CE%B1%20%28FR-%CE%B1%29-targeting%20ADC%20in%20relapsed/refractory%20CBF2AT3-GLIS2%20AML.%20Blood.%202022%3B140%28Supplement%201%29%3A159%E2%80%9361.%20https%3A//doi.org/10.1182/blood-2022-162842."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 640,
+      "blocks": [
+        {
+          "id": 7100096,
+          "page": 640,
+          "en": "Metzelder SK, Schroeder T, Finck A, et al. High activity of sorafenib in FLT3-ITD-positive acute myeloid leukemia synergizes with allo-immune effects to induce sustained responses. Leukemia. 2012;26(11):2353–9. https://doi.org/10.1038/leu.2012.105. Epub 2012 Apr 16",
+          "zh": "Metzelder SK, Schroeder T, Finck A, et al. High activity of sorafenib in FLT3-ITD-positive acute myeloid leukemia synergizes with allo-immune effects to induce sustained responses. Leukemia. 2012;26(11):2353–9. https://doi.org/10.1038/leu.2012.105. Epub 2012 Apr 16",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Metzelder%20SK%2C%20Schroeder%20T%2C%20Finck%20A%2C%20et%20al.%20High%20activity%20of%20sorafenib%20in%20FLT3-ITD-positive%20acute%20myeloid%20leukemia%20synergizes%20with%20allo-immune%20effects%20to%20induce%20sustained%20responses.%20Leukemia.%202012%3B26%2811%29%3A2353%E2%80%939.%20https%3A//doi.org/10.1038/leu.2012.105.%20Epub%202012%20Apr%2016"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Metzelder%20SK%2C%20Schroeder%20T%2C%20Finck%20A%2C%20et%20al.%20High%20activity%20of%20sorafenib%20in%20FLT3-ITD-positive%20acute%20myeloid%20leukemia%20synergizes%20with%20allo-immune%20effects%20to%20induce%20sustained%20responses.%20Leukemia.%202012%3B26%2811%29%3A2353%E2%80%939.%20https%3A//doi.org/10.1038/leu.2012.105.%20Epub%202012%20Apr%2016"
+            }
+          ]
+        },
+        {
+          "id": 7100097,
+          "page": 640,
+          "en": "Milano F, Gooley T, Wood B, et al. Cord-blood transplantation in patients with minimal residual disease. N Engl J Med. 2016;375(10):944–53. https://doi.org/10.1056/NEJMoa1602074.",
+          "zh": "Milano F, Gooley T, Wood B, et al. Cord-blood transplantation in patients with minimal residual disease. N Engl J Med. 2016;375(10):944–53. https://doi.org/10.1056/NEJMoa1602074.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Milano%20F%2C%20Gooley%20T%2C%20Wood%20B%2C%20et%20al.%20Cord-blood%20transplantation%20in%20patients%20with%20minimal%20residual%20disease.%20N%20Engl%20J%20Med.%202016%3B375%2810%29%3A944%E2%80%9353.%20https%3A//doi.org/10.1056/NEJMoa1602074."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Milano%20F%2C%20Gooley%20T%2C%20Wood%20B%2C%20et%20al.%20Cord-blood%20transplantation%20in%20patients%20with%20minimal%20residual%20disease.%20N%20Engl%20J%20Med.%202016%3B375%2810%29%3A944%E2%80%9353.%20https%3A//doi.org/10.1056/NEJMoa1602074."
+            }
+          ]
+        },
+        {
+          "id": 7100098,
+          "page": 640,
+          "en": "O'Hare P, Lucchini G, Cummins M, et al. Allogeneic stem cell transplantation for refractory acute myeloid leukemia in pediatric patients: the UK experience. Bone Marrow Transplant. 2017;52(6):825–31. https://doi.org/10.1038/bmt.2017.3. Epub 2017 Feb 20",
+          "zh": "O'Hare P, Lucchini G, Cummins M, et al. Allogeneic stem cell transplantation for refractory acute myeloid leukemia in pediatric patients: the UK experience. Bone Marrow Transplant. 2017;52(6):825–31. https://doi.org/10.1038/bmt.2017.3. Epub 2017 Feb 20",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=O%27Hare%20P%2C%20Lucchini%20G%2C%20Cummins%20M%2C%20et%20al.%20Allogeneic%20stem%20cell%20transplantation%20for%20refractory%20acute%20myeloid%20leukemia%20in%20pediatric%20patients%3A%20the%20UK%20experience.%20Bone%20Marrow%20Transplant.%202017%3B52%286%29%3A825%E2%80%9331.%20https%3A//doi.org/10.1038/bmt.2017.3.%20Epub%202017%20Feb%2020"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=O%27Hare%20P%2C%20Lucchini%20G%2C%20Cummins%20M%2C%20et%20al.%20Allogeneic%20stem%20cell%20transplantation%20for%20refractory%20acute%20myeloid%20leukemia%20in%20pediatric%20patients%3A%20the%20UK%20experience.%20Bone%20Marrow%20Transplant.%202017%3B52%286%29%3A825%E2%80%9331.%20https%3A//doi.org/10.1038/bmt.2017.3.%20Epub%202017%20Feb%2020"
+            }
+          ]
+        },
+        {
+          "id": 7100099,
+          "page": 640,
+          "en": "Paietta E. Consensus on MRD in AML. Blood. 2018;131(12):1265–6. https://doi.org/10.1182/blood-2018-01-828145.",
+          "zh": "Paietta E. Consensus on MRD in AML. Blood. 2018;131(12):1265–6. https://doi.org/10.1182/blood-2018-01-828145.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Paietta%20E.%20Consensus%20on%20MRD%20in%20AML.%20Blood.%202018%3B131%2812%29%3A1265%E2%80%936.%20https%3A//doi.org/10.1182/blood-2018-01-828145."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Paietta%20E.%20Consensus%20on%20MRD%20in%20AML.%20Blood.%202018%3B131%2812%29%3A1265%E2%80%936.%20https%3A//doi.org/10.1182/blood-2018-01-828145."
+            }
+          ]
+        },
+        {
+          "id": 7100100,
+          "page": 640,
+          "en": "Parmar S, Rondon G, de Lima M, et al. Dose intensification of busulfan in the preparative regimen is associated with improved survival: a phase I/II controlled, randomized study. Biol Blood Marrow Transplant. 2013;19(3):474–80. https://doi.org/10.1016/j.bbmt.2012.12.001. Epub 2012 Dec 7",
+          "zh": "Parmar S, Rondon G, de Lima M, et al. Dose intensification of busulfan in the preparative regimen is associated with improved survival: a phase I/II controlled, randomized study. Biol Blood Marrow Transplant. 2013;19(3):474–80. https://doi.org/10.1016/j.bbmt.2012.12.001. Epub 2012 Dec 7",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Parmar%20S%2C%20Rondon%20G%2C%20de%20Lima%20M%2C%20et%20al.%20Dose%20intensification%20of%20busulfan%20in%20the%20preparative%20regimen%20is%20associated%20with%20improved%20survival%3A%20a%20phase%20I/II%20controlled%2C%20randomized%20study.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%283%29%3A474%E2%80%9380.%20https%3A//doi.org/10.1016/j.bbmt.2012.12.001.%20Epub%202012%20Dec%207"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Parmar%20S%2C%20Rondon%20G%2C%20de%20Lima%20M%2C%20et%20al.%20Dose%20intensification%20of%20busulfan%20in%20the%20preparative%20regimen%20is%20associated%20with%20improved%20survival%3A%20a%20phase%20I/II%20controlled%2C%20randomized%20study.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%283%29%3A474%E2%80%9380.%20https%3A//doi.org/10.1016/j.bbmt.2012.12.001.%20Epub%202012%20Dec%207"
+            }
+          ]
+        },
+        {
+          "id": 7100101,
+          "page": 640,
+          "en": "Pollard JA, Alonzo TA, Gerbing R, et al. Sorafenib in combination with standard chemotherapy for children with high allelic ratio FLT3/ITD+ acute myeloid leukemia: areport from the Children's oncology group protocol AAML1031J. Clin Oncol. 2022;40(18):2023–35. https://doi.org/10.1200/JCO.21.01612. Epub 2022 Mar 29",
+          "zh": "Pollard JA, Alonzo TA, Gerbing R, et al. Sorafenib in combination with standard chemotherapy for children with high allelic ratio FLT3/ITD+ acute myeloid leukemia: areport from the Children's oncology group protocol AAML1031J. Clin Oncol. 2022;40(18):2023–35. https://doi.org/10.1200/JCO.21.01612. Epub 2022 Mar 29",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pollard%20JA%2C%20Alonzo%20TA%2C%20Gerbing%20R%2C%20et%20al.%20Sorafenib%20in%20combination%20with%20standard%20chemotherapy%20for%20children%20with%20high%20allelic%20ratio%20FLT3/ITD%2B%20acute%20myeloid%20leukemia%3A%20areport%20from%20the%20Children%27s%20oncology%20group%20protocol%20AAML1031J.%20Clin%20Oncol.%202022%3B40%2818%29%3A2023%E2%80%9335.%20https%3A//doi.org/10.1200/JCO.21.01612.%20Epub%202022%20Mar%2029"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pollard%20JA%2C%20Alonzo%20TA%2C%20Gerbing%20R%2C%20et%20al.%20Sorafenib%20in%20combination%20with%20standard%20chemotherapy%20for%20children%20with%20high%20allelic%20ratio%20FLT3/ITD%2B%20acute%20myeloid%20leukemia%3A%20areport%20from%20the%20Children%27s%20oncology%20group%20protocol%20AAML1031J.%20Clin%20Oncol.%202022%3B40%2818%29%3A2023%E2%80%9335.%20https%3A//doi.org/10.1200/JCO.21.01612.%20Epub%202022%20Mar%2029"
+            }
+          ]
+        },
+        {
+          "id": 7100102,
+          "page": 640,
+          "en": "Rasche M, Zimmermann M, Steidel E, et al. Survival Following Relapse in Children with Acute Myeloid Leukemia: A Report from AML-BFM and COG. Cancers (Basel). 2021;13(10):2336. https://doi.org/10.3390/cancers13102336.",
+          "zh": "Rasche M, Zimmermann M, Steidel E, et al. Survival Following Relapse in Children with Acute Myeloid Leukemia: A Report from AML-BFM and COG. Cancers (Basel). 2021;13(10):2336. https://doi.org/10.3390/cancers13102336.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rasche%20M%2C%20Zimmermann%20M%2C%20Steidel%20E%2C%20et%20al.%20Survival%20Following%20Relapse%20in%20Children%20with%20Acute%20Myeloid%20Leukemia%3A%20A%20Report%20from%20AML-BFM%20and%20COG.%20Cancers%20%28Basel%29.%202021%3B13%2810%29%3A2336.%20https%3A//doi.org/10.3390/cancers13102336."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rasche%20M%2C%20Zimmermann%20M%2C%20Steidel%20E%2C%20et%20al.%20Survival%20Following%20Relapse%20in%20Children%20with%20Acute%20Myeloid%20Leukemia%3A%20A%20Report%20from%20AML-BFM%20and%20COG.%20Cancers%20%28Basel%29.%202021%3B13%2810%29%3A2336.%20https%3A//doi.org/10.3390/cancers13102336."
+            }
+          ]
+        },
+        {
+          "id": 7100103,
+          "page": 640,
+          "en": "Rettinger E, Merker M, Salzmann-Manrique E, et al. Pre-emptive immunotherapy for clearance of molecular disease in childhood acute lymphoblastic leukaemia after transplantation. Biol Blood Marrow Transplant. 2017;23:87–95.",
+          "zh": "Rettinger E, Merker M, Salzmann-Manrique E, et al. Pre-emptive immunotherapy for clearance of molecular disease in childhood acute lymphoblastic leukaemia after transplantation. Biol Blood Marrow Transplant. 2017;23:87–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rettinger%20E%2C%20Merker%20M%2C%20Salzmann-Manrique%20E%2C%20et%20al.%20Pre-emptive%20immunotherapy%20for%20clearance%20of%20molecular%20disease%20in%20childhood%20acute%20lymphoblastic%20leukaemia%20after%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A87%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rettinger%20E%2C%20Merker%20M%2C%20Salzmann-Manrique%20E%2C%20et%20al.%20Pre-emptive%20immunotherapy%20for%20clearance%20of%20molecular%20disease%20in%20childhood%20acute%20lymphoblastic%20leukaemia%20after%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A87%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 7100104,
+          "page": 640,
+          "en": "Rubnitz JE, Inaba H, Dahl G, et al. Minimal residual disease – directed therapy for childhood acute myeloid leukaemia; results of the AML 02 multicentre trial. Lancet Oncol. 2010;11:543–52.",
+          "zh": "Rubnitz JE, Inaba H, Dahl G, et al. Minimal residual disease – directed therapy for childhood acute myeloid leukaemia; results of the AML 02 multicentre trial. Lancet Oncol. 2010;11:543–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rubnitz%20JE%2C%20Inaba%20H%2C%20Dahl%20G%2C%20et%20al.%20Minimal%20residual%20disease%20%E2%80%93%20directed%20therapy%20for%20childhood%20acute%20myeloid%20leukaemia%3B%20results%20of%20the%20AML%2002%20multicentre%20trial.%20Lancet%20Oncol.%202010%3B11%3A543%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rubnitz%20JE%2C%20Inaba%20H%2C%20Dahl%20G%2C%20et%20al.%20Minimal%20residual%20disease%20%E2%80%93%20directed%20therapy%20for%20childhood%20acute%20myeloid%20leukaemia%3B%20results%20of%20the%20AML%2002%20multicentre%20trial.%20Lancet%20Oncol.%202010%3B11%3A543%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 7100105,
+          "page": 640,
+          "en": "Sauer MG, Lang PJ, Albert MH, et al. Hematopoietic stem cell transplantation for children with acute myeloid leukemia-results of the AML SCT-BFM 2007 trial. Leukemia. 2020;34(2):613–24. https://doi.org/10.1038/s41375-019-0584-8. Epub 2019 Oct 2",
+          "zh": "Sauer MG, Lang PJ, Albert MH, et al. Hematopoietic stem cell transplantation for children with acute myeloid leukemia-results of the AML SCT-BFM 2007 trial. Leukemia. 2020;34(2):613–24. https://doi.org/10.1038/s41375-019-0584-8. Epub 2019 Oct 2",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sauer%20MG%2C%20Lang%20PJ%2C%20Albert%20MH%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20children%20with%20acute%20myeloid%20leukemia-results%20of%20the%20AML%20SCT-BFM%202007%20trial.%20Leukemia.%202020%3B34%282%29%3A613%E2%80%9324.%20https%3A//doi.org/10.1038/s41375-019-0584-8.%20Epub%202019%20Oct%202"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sauer%20MG%2C%20Lang%20PJ%2C%20Albert%20MH%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20children%20with%20acute%20myeloid%20leukemia-results%20of%20the%20AML%20SCT-BFM%202007%20trial.%20Leukemia.%202020%3B34%282%29%3A613%E2%80%9324.%20https%3A//doi.org/10.1038/s41375-019-0584-8.%20Epub%202019%20Oct%202"
+            }
+          ]
+        },
+        {
+          "id": 7100106,
+          "page": 640,
+          "en": "Schmid C, Schleuning M, Schwerdtfeger R, et al. Long-term survival in refractory acute myeloid leukemia after sequential treatment with chemotherapy and reduced-intensity conditioning for allogeneic stem cell transplantation. Blood. 2006;108(3):1092–9. https://doi.org/10.1182/blood-2005-10-4165. Epub 2006 Mar 21",
+          "zh": "Schmid C, Schleuning M, Schwerdtfeger R, et al. Long-term survival in refractory acute myeloid leukemia after sequential treatment with chemotherapy and reduced-intensity conditioning for allogeneic stem cell transplantation. Blood. 2006;108(3):1092–9. https://doi.org/10.1182/blood-2005-10-4165. Epub 2006 Mar 21",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmid%20C%2C%20Schleuning%20M%2C%20Schwerdtfeger%20R%2C%20et%20al.%20Long-term%20survival%20in%20refractory%20acute%20myeloid%20leukemia%20after%20sequential%20treatment%20with%20chemotherapy%20and%20reduced-intensity%20conditioning%20for%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202006%3B108%283%29%3A1092%E2%80%939.%20https%3A//doi.org/10.1182/blood-2005-10-4165.%20Epub%202006%20Mar%2021"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmid%20C%2C%20Schleuning%20M%2C%20Schwerdtfeger%20R%2C%20et%20al.%20Long-term%20survival%20in%20refractory%20acute%20myeloid%20leukemia%20after%20sequential%20treatment%20with%20chemotherapy%20and%20reduced-intensity%20conditioning%20for%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202006%3B108%283%29%3A1092%E2%80%939.%20https%3A//doi.org/10.1182/blood-2005-10-4165.%20Epub%202006%20Mar%2021"
+            }
+          ]
+        },
+        {
+          "id": 7100107,
+          "page": 640,
+          "en": "Schuurhuis GJ, Heuser M, Freeman S, et al. Minimal/measurable residual disease in AML: a consensus document from the European leukemiaNet MRD working party. Blood. 2018;131:1275–91.",
+          "zh": "Schuurhuis GJ, Heuser M, Freeman S, et al. Minimal/measurable residual disease in AML: a consensus document from the European leukemiaNet MRD working party. Blood. 2018;131:1275–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schuurhuis%20GJ%2C%20Heuser%20M%2C%20Freeman%20S%2C%20et%20al.%20Minimal/measurable%20residual%20disease%20in%20AML%3A%20a%20consensus%20document%20from%20the%20European%20leukemiaNet%20MRD%20working%20party.%20Blood.%202018%3B131%3A1275%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schuurhuis%20GJ%2C%20Heuser%20M%2C%20Freeman%20S%2C%20et%20al.%20Minimal/measurable%20residual%20disease%20in%20AML%3A%20a%20consensus%20document%20from%20the%20European%20leukemiaNet%20MRD%20working%20party.%20Blood.%202018%3B131%3A1275%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 7100108,
+          "page": 640,
+          "en": "Segerink WH, de Haas V, Kaspers GJL. Measurable residual disease in pediatric acute myeloid leukemia: a systematic review. Expert Rev Anticancer Ther. 2021;21(4):451–9. https://doi.org/10.1080/14737140.2021.1860763. Epub 2021 Mar 11",
+          "zh": "Segerink WH, de Haas V, Kaspers GJL. Measurable residual disease in pediatric acute myeloid leukemia: a systematic review. Expert Rev Anticancer Ther. 2021;21(4):451–9. https://doi.org/10.1080/14737140.2021.1860763. Epub 2021 Mar 11",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Segerink%20WH%2C%20de%20Haas%20V%2C%20Kaspers%20GJL.%20Measurable%20residual%20disease%20in%20pediatric%20acute%20myeloid%20leukemia%3A%20a%20systematic%20review.%20Expert%20Rev%20Anticancer%20Ther.%202021%3B21%284%29%3A451%E2%80%939.%20https%3A//doi.org/10.1080/14737140.2021.1860763.%20Epub%202021%20Mar%2011"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Segerink%20WH%2C%20de%20Haas%20V%2C%20Kaspers%20GJL.%20Measurable%20residual%20disease%20in%20pediatric%20acute%20myeloid%20leukemia%3A%20a%20systematic%20review.%20Expert%20Rev%20Anticancer%20Ther.%202021%3B21%284%29%3A451%E2%80%939.%20https%3A//doi.org/10.1080/14737140.2021.1860763.%20Epub%202021%20Mar%2011"
+            }
+          ]
+        },
+        {
+          "id": 7100109,
+          "page": 640,
+          "en": "Shukla N, Wetmore C, O'Brien MM, et al. Final report of phase 1 study of the DOT1L inhibitor, Pinometostat (EPZ-5676), in children with relapsed or refractory MLL-r acute leukemia. Blood. 2016;128(22):2780. https://doi.org/10.1182/blood.V128.22.2780.2780.",
+          "zh": "Shukla N, Wetmore C, O'Brien MM, et al. Final report of phase 1 study of the DOT1L inhibitor, Pinometostat (EPZ-5676), in children with relapsed or refractory MLL-r acute leukemia. Blood. 2016;128(22):2780. https://doi.org/10.1182/blood.V128.22.2780.2780.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shukla%20N%2C%20Wetmore%20C%2C%20O%27Brien%20MM%2C%20et%20al.%20Final%20report%20of%20phase%201%20study%20of%20the%20DOT1L%20inhibitor%2C%20Pinometostat%20%28EPZ-5676%29%2C%20in%20children%20with%20relapsed%20or%20refractory%20MLL-r%20acute%20leukemia.%20Blood.%202016%3B128%2822%29%3A2780.%20https%3A//doi.org/10.1182/blood.V128.22.2780.2780."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shukla%20N%2C%20Wetmore%20C%2C%20O%27Brien%20MM%2C%20et%20al.%20Final%20report%20of%20phase%201%20study%20of%20the%20DOT1L%20inhibitor%2C%20Pinometostat%20%28EPZ-5676%29%2C%20in%20children%20with%20relapsed%20or%20refractory%20MLL-r%20acute%20leukemia.%20Blood.%202016%3B128%2822%29%3A2780.%20https%3A//doi.org/10.1182/blood.V128.22.2780.2780."
+            }
+          ]
+        },
+        {
+          "id": 7100110,
+          "page": 640,
+          "en": "Sievers EL, Lange BJ, Alonzo TA, et al. Immunophenotypic evidence of leukemia after induction therapy predicts relapse: results from a prospective Children’s Cancer Group study of 252 patients with acute myeloid leukemia. Blood. 2003;101(9):3398–406. https://doi.org/10.1182/blood-2002-10-3064. Epub 2002 Dec 27",
+          "zh": "Sievers EL, Lange BJ, Alonzo TA, et al. Immunophenotypic evidence of leukemia after induction therapy predicts relapse: results from a prospective Children’s Cancer Group study of 252 patients with acute myeloid leukemia. Blood. 2003;101(9):3398–406. https://doi.org/10.1182/blood-2002-10-3064. Epub 2002 Dec 27",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sievers%20EL%2C%20Lange%20BJ%2C%20Alonzo%20TA%2C%20et%20al.%20Immunophenotypic%20evidence%20of%20leukemia%20after%20induction%20therapy%20predicts%20relapse%3A%20results%20from%20a%20prospective%20Children%E2%80%99s%20Cancer%20Group%20study%20of%20252%20patients%20with%20acute%20myeloid%20leukemia.%20Blood.%202003%3B101%289%29%3A3398%E2%80%93406.%20https%3A//doi.org/10.1182/blood-2002-10-3064.%20Epub%202002%20Dec%2027"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sievers%20EL%2C%20Lange%20BJ%2C%20Alonzo%20TA%2C%20et%20al.%20Immunophenotypic%20evidence%20of%20leukemia%20after%20induction%20therapy%20predicts%20relapse%3A%20results%20from%20a%20prospective%20Children%E2%80%99s%20Cancer%20Group%20study%20of%20252%20patients%20with%20acute%20myeloid%20leukemia.%20Blood.%202003%3B101%289%29%3A3398%E2%80%93406.%20https%3A//doi.org/10.1182/blood-2002-10-3064.%20Epub%202002%20Dec%2027"
+            }
+          ]
+        },
+        {
+          "id": 7100111,
+          "page": 640,
+          "en": "Stelljes M, Middeke JM, Bug G, et al. In patients with relapsed/refractory AML sequential conditioning and immediate allogeneic stem cell transplantation (Allo-HCT) results in similar overall and leukemia-free survival compared to intensive remission induction chemotherapy followed by Allo-HCT: results from the randomized phase III ASAP trial. Blood. 2022;140(Supplement 1):9–11. https://doi.org/10.1182/blood-2022-159962.",
+          "zh": "Stelljes M, Middeke JM, Bug G, et al. In patients with relapsed/refractory AML sequential conditioning and immediate allogeneic stem cell transplantation (Allo-HCT) results in similar overall and leukemia-free survival compared to intensive remission induction chemotherapy followed by Allo-HCT: results from the randomized phase III ASAP trial. Blood. 2022;140(Supplement 1):9–11. https://doi.org/10.1182/blood-2022-159962.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Stelljes%20M%2C%20Middeke%20JM%2C%20Bug%20G%2C%20et%20al.%20In%20patients%20with%20relapsed/refractory%20AML%20sequential%20conditioning%20and%20immediate%20allogeneic%20stem%20cell%20transplantation%20%28Allo-HCT%29%20results%20in%20similar%20overall%20and%20leukemia-free%20survival%20compared%20to%20intensive%20remission%20induction%20chemotherapy%20followed%20by%20Allo-HCT%3A%20results%20from%20the%20randomized%20phase%20III%20ASAP%20trial.%20Blood.%202022%3B140%28Supplement%201%29%3A9%E2%80%9311.%20https%3A//doi.org/10.1182/blood-2022-159962."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Stelljes%20M%2C%20Middeke%20JM%2C%20Bug%20G%2C%20et%20al.%20In%20patients%20with%20relapsed/refractory%20AML%20sequential%20conditioning%20and%20immediate%20allogeneic%20stem%20cell%20transplantation%20%28Allo-HCT%29%20results%20in%20similar%20overall%20and%20leukemia-free%20survival%20compared%20to%20intensive%20remission%20induction%20chemotherapy%20followed%20by%20Allo-HCT%3A%20results%20from%20the%20randomized%20phase%20III%20ASAP%20trial.%20Blood.%202022%3B140%28Supplement%201%29%3A9%E2%80%9311.%20https%3A//doi.org/10.1182/blood-2022-159962."
+            }
+          ]
+        },
+        {
+          "id": 7100112,
+          "page": 640,
+          "en": "Tambaro FP, Singh H, Jones E, et al. Autologous CD33-CAR-T cells for treatment of relapsed/refractory acute myelogenous leukemia. Leukemia. 2021;35:3282–6. https://doi.org/10.1038/s41375-021-01232-2.",
+          "zh": "Tambaro FP, Singh H, Jones E, et al. Autologous CD33-CAR-T cells for treatment of relapsed/refractory acute myelogenous leukemia. Leukemia. 2021;35:3282–6. https://doi.org/10.1038/s41375-021-01232-2.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tambaro%20FP%2C%20Singh%20H%2C%20Jones%20E%2C%20et%20al.%20Autologous%20CD33-CAR-T%20cells%20for%20treatment%20of%20relapsed/refractory%20acute%20myelogenous%20leukemia.%20Leukemia.%202021%3B35%3A3282%E2%80%936.%20https%3A//doi.org/10.1038/s41375-021-01232-2."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tambaro%20FP%2C%20Singh%20H%2C%20Jones%20E%2C%20et%20al.%20Autologous%20CD33-CAR-T%20cells%20for%20treatment%20of%20relapsed/refractory%20acute%20myelogenous%20leukemia.%20Leukemia.%202021%3B35%3A3282%E2%80%936.%20https%3A//doi.org/10.1038/s41375-021-01232-2."
+            }
+          ]
+        },
+        {
+          "id": 7100113,
+          "page": 640,
+          "en": "Tarlock K, Chang B, Cooper T, et al. Sorafenib treatment following hematopoietic stem cell transplant in pediatric FLT3/ITD acute myeloid leukemia. Pediatr Blood Cancer. 2015;62(6):1048–54. https://doi.org/10.1002/pbc.25437. Epub 2015 Feb 8",
+          "zh": "Tarlock K, Chang B, Cooper T, et al. Sorafenib treatment following hematopoietic stem cell transplant in pediatric FLT3/ITD acute myeloid leukemia. Pediatr Blood Cancer. 2015;62(6):1048–54. https://doi.org/10.1002/pbc.25437. Epub 2015 Feb 8",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tarlock%20K%2C%20Chang%20B%2C%20Cooper%20T%2C%20et%20al.%20Sorafenib%20treatment%20following%20hematopoietic%20stem%20cell%20transplant%20in%20pediatric%20FLT3/ITD%20acute%20myeloid%20leukemia.%20Pediatr%20Blood%20Cancer.%202015%3B62%286%29%3A1048%E2%80%9354.%20https%3A//doi.org/10.1002/pbc.25437.%20Epub%202015%20Feb%208"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tarlock%20K%2C%20Chang%20B%2C%20Cooper%20T%2C%20et%20al.%20Sorafenib%20treatment%20following%20hematopoietic%20stem%20cell%20transplant%20in%20pediatric%20FLT3/ITD%20acute%20myeloid%20leukemia.%20Pediatr%20Blood%20Cancer.%202015%3B62%286%29%3A1048%E2%80%9354.%20https%3A//doi.org/10.1002/pbc.25437.%20Epub%202015%20Feb%208"
+            }
+          ]
+        },
+        {
+          "id": 7100114,
+          "page": 640,
+          "en": "Tierens A, Bjørklund E, Siitonen S, et al. Residual disease detected by flow cytometry is an independent predictor of survival in childhood acute myeloid leukaemia; results of the NOPHO-AML 2004 study. Br J Haematol. 2016;174(4):600–9. https://doi.org/10.1111/bjh.14093. Epub 2016 Apr 13",
+          "zh": "Tierens A, Bjørklund E, Siitonen S, et al. Residual disease detected by flow cytometry is an independent predictor of survival in childhood acute myeloid leukaemia; results of the NOPHO-AML 2004 study. Br J Haematol. 2016;174(4):600–9. https://doi.org/10.1111/bjh.14093. Epub 2016 Apr 13",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tierens%20A%2C%20Bj%C3%B8rklund%20E%2C%20Siitonen%20S%2C%20et%20al.%20Residual%20disease%20detected%20by%20flow%20cytometry%20is%20an%20independent%20predictor%20of%20survival%20in%20childhood%20acute%20myeloid%20leukaemia%3B%20results%20of%20the%20NOPHO-AML%202004%20study.%20Br%20J%20Haematol.%202016%3B174%284%29%3A600%E2%80%939.%20https%3A//doi.org/10.1111/bjh.14093.%20Epub%202016%20Apr%2013"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tierens%20A%2C%20Bj%C3%B8rklund%20E%2C%20Siitonen%20S%2C%20et%20al.%20Residual%20disease%20detected%20by%20flow%20cytometry%20is%20an%20independent%20predictor%20of%20survival%20in%20childhood%20acute%20myeloid%20leukaemia%3B%20results%20of%20the%20NOPHO-AML%202004%20study.%20Br%20J%20Haematol.%202016%3B174%284%29%3A600%E2%80%939.%20https%3A//doi.org/10.1111/bjh.14093.%20Epub%202016%20Apr%2013"
+            }
+          ]
+        },
+        {
+          "id": 7100115,
+          "page": 640,
+          "en": "Trabal A, Gibson A, He J, et al. Venetoclax for acute myeloid leukemia in pediatric patients: a Texas medical center experience. Cancers (Basel). 2023;15(7):1983. https://doi.org/10.3390/cancers15071983.",
+          "zh": "Trabal A, Gibson A, He J, et al. Venetoclax for acute myeloid leukemia in pediatric patients: a Texas medical center experience. Cancers (Basel). 2023;15(7):1983. https://doi.org/10.3390/cancers15071983.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Trabal%20A%2C%20Gibson%20A%2C%20He%20J%2C%20et%20al.%20Venetoclax%20for%20acute%20myeloid%20leukemia%20in%20pediatric%20patients%3A%20a%20Texas%20medical%20center%20experience.%20Cancers%20%28Basel%29.%202023%3B15%287%29%3A1983.%20https%3A//doi.org/10.3390/cancers15071983."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Trabal%20A%2C%20Gibson%20A%2C%20He%20J%2C%20et%20al.%20Venetoclax%20for%20acute%20myeloid%20leukemia%20in%20pediatric%20patients%3A%20a%20Texas%20medical%20center%20experience.%20Cancers%20%28Basel%29.%202023%3B15%287%29%3A1983.%20https%3A//doi.org/10.3390/cancers15071983."
+            }
+          ]
+        },
+        {
+          "id": 7100116,
+          "page": 640,
+          "en": "Uden T, Bertaina A, Abrahamsson J, et al. Outcome of children relapsing after first allogeneic haematopoietic stem cell transplantation for acute myeloid leukaemia: a retrospective I-BFM analysis of 333 children. Br J Haematol. 2020;189(4):745−50.",
+          "zh": "Uden T, Bertaina A, Abrahamsson J, et al. Outcome of children relapsing after first allogeneic haematopoietic stem cell transplantation for acute myeloid leukaemia: a retrospective I-BFM analysis of 333 children. Br J Haematol. 2020;189(4):745−50.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Uden%20T%2C%20Bertaina%20A%2C%20Abrahamsson%20J%2C%20et%20al.%20Outcome%20of%20children%20relapsing%20after%20first%20allogeneic%20haematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukaemia%3A%20a%20retrospective%20I-BFM%20analysis%20of%20333%20children.%20Br%20J%20Haematol.%202020%3B189%284%29%3A745%E2%88%9250."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Uden%20T%2C%20Bertaina%20A%2C%20Abrahamsson%20J%2C%20et%20al.%20Outcome%20of%20children%20relapsing%20after%20first%20allogeneic%20haematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukaemia%3A%20a%20retrospective%20I-BFM%20analysis%20of%20333%20children.%20Br%20J%20Haematol.%202020%3B189%284%29%3A745%E2%88%9250."
+            }
+          ]
+        },
+        {
+          "id": 7100117,
+          "page": 640,
+          "en": "van Weelderen RE, Klein K, Harrison CJ, et al. Measurable residual disease and fusion partner independently predict survival and relapse risk in childhood KMT2A-rearranged acute myeloid leukemia: astudy by the international Berlin-Frankfurt-Münster study GroupJ. Clin Oncol. 2023;41(16):2963–74. https://doi.org/10.1200/JCO.22.02120. Epub 2023 Mar 30",
+          "zh": "van Weelderen RE, Klein K, Harrison CJ, et al. Measurable residual disease and fusion partner independently predict survival and relapse risk in childhood KMT2A-rearranged acute myeloid leukemia: astudy by the international Berlin-Frankfurt-Münster study GroupJ. Clin Oncol. 2023;41(16):2963–74. https://doi.org/10.1200/JCO.22.02120. Epub 2023 Mar 30",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=van%20Weelderen%20RE%2C%20Klein%20K%2C%20Harrison%20CJ%2C%20et%20al.%20Measurable%20residual%20disease%20and%20fusion%20partner%20independently%20predict%20survival%20and%20relapse%20risk%20in%20childhood%20KMT2A-rearranged%20acute%20myeloid%20leukemia%3A%20astudy%20by%20the%20international%20Berlin-Frankfurt-M%C3%BCnster%20study%20GroupJ.%20Clin%20Oncol.%202023%3B41%2816%29%3A2963%E2%80%9374.%20https%3A//doi.org/10.1200/JCO.22.02120.%20Epub%202023%20Mar%2030"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=van%20Weelderen%20RE%2C%20Klein%20K%2C%20Harrison%20CJ%2C%20et%20al.%20Measurable%20residual%20disease%20and%20fusion%20partner%20independently%20predict%20survival%20and%20relapse%20risk%20in%20childhood%20KMT2A-rearranged%20acute%20myeloid%20leukemia%3A%20astudy%20by%20the%20international%20Berlin-Frankfurt-M%C3%BCnster%20study%20GroupJ.%20Clin%20Oncol.%202023%3B41%2816%29%3A2963%E2%80%9374.%20https%3A//doi.org/10.1200/JCO.22.02120.%20Epub%202023%20Mar%2030"
+            }
+          ],
+          "endPage": 641
+        }
+      ]
+    },
+    {
+      "page": 641,
+      "blocks": [
+        {
+          "id": 7100118,
+          "page": 641,
+          "en": "Wareham NE, Heilmann C, Abrahamsson J, et al. Outcome of poor response paediatric AML using early SCT. Eur J Haematol. 2013;90:187–94.",
+          "zh": "Wareham NE, Heilmann C, Abrahamsson J, et al. Outcome of poor response paediatric AML using early SCT. Eur J Haematol. 2013;90:187–94.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wareham%20NE%2C%20Heilmann%20C%2C%20Abrahamsson%20J%2C%20et%20al.%20Outcome%20of%20poor%20response%20paediatric%20AML%20using%20early%20SCT.%20Eur%20J%20Haematol.%202013%3B90%3A187%E2%80%9394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wareham%20NE%2C%20Heilmann%20C%2C%20Abrahamsson%20J%2C%20et%20al.%20Outcome%20of%20poor%20response%20paediatric%20AML%20using%20early%20SCT.%20Eur%20J%20Haematol.%202013%3B90%3A187%E2%80%9394."
+            }
+          ]
+        },
+        {
+          "id": 7100119,
+          "page": 641,
+          "en": "Yaniv I, Krauss AC, Beohou E, et al. Second hematopoietic stem cell transplantation for post-transplantation relapsed acute leukaemia in children: a retrospective EBMT-PDWP study. Biol Blood Marrow Transplant. 2018;24(8):1629–42.",
+          "zh": "Yaniv I, Krauss AC, Beohou E, et al. Second hematopoietic stem cell transplantation for post-transplantation relapsed acute leukaemia in children: a retrospective EBMT-PDWP study. Biol Blood Marrow Transplant. 2018;24(8):1629–42.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yaniv%20I%2C%20Krauss%20AC%2C%20Beohou%20E%2C%20et%20al.%20Second%20hematopoietic%20stem%20cell%20transplantation%20for%20post-transplantation%20relapsed%20acute%20leukaemia%20in%20children%3A%20a%20retrospective%20EBMT-PDWP%20study.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%288%29%3A1629%E2%80%9342."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yaniv%20I%2C%20Krauss%20AC%2C%20Beohou%20E%2C%20et%20al.%20Second%20hematopoietic%20stem%20cell%20transplantation%20for%20post-transplantation%20relapsed%20acute%20leukaemia%20in%20children%3A%20a%20retrospective%20EBMT-PDWP%20study.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%288%29%3A1629%E2%80%9342."
+            }
+          ]
+        },
+        {
+          "id": 7100120,
+          "page": 641,
+          "en": "Zhang H, Graiser M, Hutcherson DA, et al. Pharmacokinetic-directed high-dose busulfan combined with cyclophosphamide and etoposide results in predictable drug levels and durable long-term survival in lymphoma patients undergoing autologous stem cell transplantation. Biol Blood Marrow Transplant. 2012;18(8):1287–94. https://doi.org/10.1016/j.bbmt.2012.02.006. Epub 2012 Feb 25",
+          "zh": "Zhang H, Graiser M, Hutcherson DA, et al. Pharmacokinetic-directed high-dose busulfan combined with cyclophosphamide and etoposide results in predictable drug levels and durable long-term survival in lymphoma patients undergoing autologous stem cell transplantation. Biol Blood Marrow Transplant. 2012;18(8):1287–94. https://doi.org/10.1016/j.bbmt.2012.02.006. Epub 2012 Feb 25",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhang%20H%2C%20Graiser%20M%2C%20Hutcherson%20DA%2C%20et%20al.%20Pharmacokinetic-directed%20high-dose%20busulfan%20combined%20with%20cyclophosphamide%20and%20etoposide%20results%20in%20predictable%20drug%20levels%20and%20durable%20long-term%20survival%20in%20lymphoma%20patients%20undergoing%20autologous%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%288%29%3A1287%E2%80%9394.%20https%3A//doi.org/10.1016/j.bbmt.2012.02.006.%20Epub%202012%20Feb%2025"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhang%20H%2C%20Graiser%20M%2C%20Hutcherson%20DA%2C%20et%20al.%20Pharmacokinetic-directed%20high-dose%20busulfan%20combined%20with%20cyclophosphamide%20and%20etoposide%20results%20in%20predictable%20drug%20levels%20and%20durable%20long-term%20survival%20in%20lymphoma%20patients%20undergoing%20autologous%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%288%29%3A1287%E2%80%9394.%20https%3A//doi.org/10.1016/j.bbmt.2012.02.006.%20Epub%202012%20Feb%2025"
+            }
+          ]
+        },
+        {
+          "id": 7100121,
+          "page": 641,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "本章依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）授權。只要適當註明原作者與來源、提供授權連結，並指出是否有修改，即可於任何媒體或格式使用、分享、改作、散布及重製。\n除素材註記另有說明外，本章圖片或其他第三方素材亦納入此 Creative Commons 授權。若素材未包含於授權內，且你的使用不為法規許可或超過法定範圍，須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

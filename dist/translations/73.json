@@ -1,0 +1,1146 @@
+{
+  "id": 73,
+  "title": "Acute Lymphoblastic Leukaemia in Children and Adolescents",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 77,
+  "scope": "依原 PDF 視覺閱讀順序直接逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 651,
+      "blocks": [
+        {
+          "id": 7300001,
+          "page": 651,
+          "en": "73 Acute Lymphoblastic Leukaemia in Children and Adolescents\nChristina Peters, Franco Locatelli, and Peter Bader",
+          "zh": "73 兒童與青少年急性淋巴性白血病 — Christina Peters、Franco Locatelli、Peter Bader",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_73"
+            }
+          ]
+        },
+        {
+          "id": 7300002,
+          "page": 651,
+          "en": "73.1 Introduction\nAcute lymphoblastic leukaemia (ALL) is the most common paediatric cancer; approximately 60% of ALL cases occur in children and adolescents younger than 20 years (Inaba and Pui 2021). Allogeneic haematopoietic cell transplantation (HCT) became the most commonly applied cellular immunotherapy and the standard of care for children with ALL who are either at high risk for relapse or had previously experienced a disease recurrence. HCT represents a successful therapeutic option and a relevant proportion of patients achieved long-term survival (Balduzzi et al. 2019). The most frequent cause of treatment failure is relapse after allogeneic HCT. The risk of post-transplant relapse is influenced by several factors, including remission status at transplantation, conditioning regimen and donor type (Peters, et al. 2021). Strategies aimed at reducing the risk of treatment failure have included a reduction of minimal residual disease (MRD) pre-transplant (Bader et al. 2019), the substitution of toxic chemotherapy before transplantation with bispecific antibodies (Locatelli et al. 2021), replacement of HCT with chimeric antigen receptor (CAR) T-cell therapy (Maude et al. 2018a, b), improved transplant strategies for specific groups, including infants (Pieters et al. 2019), adolescents and young adults (AYA) (Diesch-Furlanetto et al. 2021) and innovative prophylaxis and treatments for acute and chronic graft-vs.-host disease (GvHD). Furthermore, therapeutic drug monitoring with dose adjustment of some drugs, including busulfan (Diesch-Furlanetto et al. 2021) and novel radiation techniques might enable a more individualised approach (Hoeben et al. 2021).",
+          "zh": "73.1 前言\n急性淋巴性白血病（ALL）是最常見的兒童癌症；約 60% 的 ALL 病例發生於 20 歲以下的兒童與青少年（Inaba and Pui 2021）。異體造血細胞移植（HCT）已成為最常應用的細胞免疫療法，也是具有高復發風險或曾發生疾病復發之 ALL 兒童的標準照護。HCT 是一項成功的治療選擇，且相當比例的病患可達到長期存活（Balduzzi et al. 2019）。治療失敗最常見的原因是異體 HCT 後復發。移植後復發的風險受多項因素影響，包括移植時的緩解狀態、調理方案（conditioning regimen）以及供者類型（Peters, et al. 2021）。旨在降低治療失敗風險的策略包括：在移植前降低微量殘存疾病（MRD）（Bader et al. 2019）、以雙特異性抗體取代移植前的高毒性化療（Locatelli et al. 2021）、以嵌合抗原受體（CAR）T 細胞療法取代 HCT（Maude et al. 2018a, b）、針對特定族群（包括嬰兒〔Pieters et al. 2019〕、青少年與年輕成人〔AYA〕〔Diesch-Furlanetto et al. 2021〕）改良移植策略，以及針對急性與慢性移植物抗宿主疾病（GvHD）採取創新的預防與治療。此外，對部分藥物（包括 busulfan）進行治療藥物濃度監測與劑量調整（Diesch-Furlanetto et al. 2021），以及採用新型放射線技術，皆可能使治療方式更為個別化（Hoeben et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300003,
+          "page": 651,
+          "endPage": 652,
+          "en": "To offer the patients the best available treatment options, a close collaboration between international study groups and transplant consortia is necessary. As an example, this cooperation was realized within the treatment consortia for childhood leukaemia (e.g. IBFM-SG, IntReALL, NOPHO, UKALL, AIEOP, FRALLE and others) and the paediatric transplant community (e.g. EBMT-PD WG, IBFM-SC SCT,",
+          "zh": "為了向病患提供最佳的可用治療選擇，國際研究團隊與移植聯盟之間的密切合作是必要的。舉例而言，此類合作已在兒童白血病治療聯盟（例如 IBFM-SG、IntReALL、NOPHO、UKALL、AIEOP、FRALLE 等）以及兒科移植社群（例如 EBMT-PD WG、IBFM-SC SCT、",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300004,
+          "page": 651,
+          "en": "C. Peters (*)\nStem Cell Transplantation Unit, St. Anna Children’s Hospital; St. Anna Children’s Cancer Research Insitute, Vienna, Austria\ne-mail: christina.peters@stanna.at\nF. Locatelli\nDepartment of Pediatric Hematology and Oncology, IRCCS Bambino Gesù Children’s Hospital, Rome, Italy\nDepartment of Pediatric Science, Catholic University of the Sacred Heart, Rome, Italy\ne-mail: franco.locatelli@opbg.net\nP. Bader\nDivision for Stem Cell Transplantation and Immunology, University Hospital for Children and Adolescents, Goethe University Frankfurt am Main, Frankfurt, Germany\ne-mail: p.bader@em.uni-frankfurt.de\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_73",
+          "zh": "作者單位與聯絡資訊：\nC. Peters（通訊作者）：奧地利維也納 St. Anna 兒童醫院幹細胞移植中心；St. Anna 兒童癌症研究所；e-mail: christina.peters@stanna.at。\nF. Locatelli：義大利羅馬 IRCCS Bambino Gesù 兒童醫院兒科血液與腫瘤學部；義大利羅馬聖心天主教大學兒科學系；e-mail: franco.locatelli@opbg.net。\nP. Bader：德國法蘭克福歌德大學兒童與青少年大學醫院幹細胞移植與免疫學部；e-mail: p.bader@em.uni-frankfurt.de。\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_73。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 652,
+      "blocks": [
+        {
+          "id": 7300005,
+          "page": 652,
+          "en": "GETMON and GITMO). ALL trial groups assess outcome according to their chemotherapy protocols and stratify patients into standard, intermediate and high relapse risk groups. In contrast to adults, only high-risk patients are eligible for allo-HCT in first complete remission (CR).",
+          "zh": "GETMON 與 GITMO）之中實現。各 ALL 臨床試驗團隊會依據其化療方案評估治療結果，並將病患分層為標準、中度與高復發風險族群。與成人不同，兒童病患僅有高風險族群符合在第一次完全緩解（CR）時接受異體 HCT（allo-HCT）的資格。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300006,
+          "page": 652,
+          "en": "73.2 Prognostic Factors and Indications for HCT\nHCT indications have to be defined prospectively and must be re-evaluated and regularly revised at intervals dependent on modifications and improvements in non-transplant approaches for both front-line and relapse protocols. Some risk factors such as recurrent molecular lesions predicting a poor outcome conveying a dismal prognosis in childhood ALL can be identified at diagnosis (Moorman 2016; O'Connor et al. 2018). In addition, the response to induction therapy measured by MRD levels has a strong prognostic value and now defines many indications for HCT (Bader et al. 2009; Conter et al. 2010; Schrappe et al. 2011; Eckert et al. 2013; Berry et al. 2017).",
+          "zh": "73.2 預後因子與 HCT 適應症\nHCT 適應症必須前瞻性地予以定義，並須依據第一線與復發治療方案中非移植療法的修改與進展，定期重新評估與修訂。部分風險因子（例如在兒童 ALL 中預示結果不良、帶來極差預後的反覆出現之分子病灶）可在診斷時即被辨識出來（Moorman 2016; O'Connor et al. 2018）。此外，以 MRD 數值衡量的誘導治療反應具有極強的預後價值，且目前已決定了許多 HCT 的適應症（Bader et al. 2009; Conter et al. 2010; Schrappe et al. 2011; Eckert et al. 2013; Berry et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300007,
+          "page": 652,
+          "en": "73.2.1 Indications: CR1\nOnly patients with high-risk cytogenetic features or unsatisfactory response to chemotherapy are eligible for HCT in first remission. In contrast to earlier recommendations, for these patients an MSD and an MUD and for the highest relapse category also mismatched donors (MMD) are an option (Truong et al. 2021). In the ongoing AIEOP-BFM 2017-trial, the very-high-risk subgroup with an indication for HCT in first CR is defined by\n1. The presence of TCF3-HLF gene fusion,\n2. KMT2A-AFF1 gene fusion,\n3. Hypodiploidy defined as <44 chromosmes,\n4. IKZF1plus deletions and medium-risk/high-risk MRD levels at the end of consolidation,\n5. PCR-MRD HR, and.\n6. T-ALL with PPR and/or FCM-MRD d15 HR and/or IF.",
+          "zh": "73.2.1 適應症：CR1\n僅有具備高風險細胞遺傳學特徵或對化療反應不佳的病患，才符合在第一次緩解時接受 HCT 的資格。與早期的建議不同，對這些病患而言，HLA 相合手足供者（MSD）與相合非親屬供者（MUD）皆為可選方案，且針對最高復發風險類別，HLA 不相合供者（MMD）亦為選項之一（Truong et al. 2021）。在進行中的 AIEOP-BFM 2017 臨床試驗中，具有第一次 CR 接受 HCT 適應症的極高風險（very-high-risk）次族群定義如下：\n1. 存在 TCF3-HLF 基因融合，\n2. KMT2A-AFF1 基因融合，\n3. 低二倍體（hypodiploidy），定義為染色體少於 44 條（<44 chromosomes），\n4. IKZF1plus 缺失，且在鞏固治療結束時具有中度風險／高風險 MRD 數值，\n5. PCR-MRD 高風險（HR），以及\n6. T 細胞急性淋巴性白血病（T-ALL）合併 prednisone 反應不佳（PPR）及／或第 15 天流式細胞儀 MRD（FCM-MRD d15）高風險（HR）及／或誘導失敗（IF）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300008,
+          "page": 652,
+          "en": "Patients with MRD negativity at EOI are excluded from a HCT indication. MMD-HCTs are nowadays reserved for a PCR-MRD TP2 ≥ 5 × 10⁻³, all TCF3-HLF fused leukaemias and those with induction failure (Table 73.1).",
+          "zh": "在誘導治療結束時（EOI）達到 MRD 陰性的病患，排除於 HCT 適應症之外。如今，MMD-HCT 僅保留給第 2 時間點 PCR-MRD（PCR-MRD TP2）≥ 5 × 10⁻³、所有具有 TCF3-HLF 融合的白血病，以及誘導失敗的病患（表 73.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300009,
+          "page": 652,
+          "en": "Table 73.1 Indications for allogeneic HCT in CR1 according to AIEOP-BFM ALL 2009-trial\nColumns under PCR-MRD resultsᵃ: Criteria hierarchical | MRD-SR | MRD-MRᵇ | MRD-HR: MRD TP2 ≥ 10⁻³ to <10⁻² | MRD-HR: MRD TP2 ≥ 10⁻² | No MRD result\n• No CR d33: MRD-SR = Noᶜ | MRD-MRᵇ = MMD | MRD TP2 ≥ 10⁻³ to <10⁻² = MMD | MRD TP2 ≥ 10⁻² = MMD | No MRD result = MMD\n• t(4;11)ᵈ: MRD-SR = No | MRD-MRᵇ = MD | MRD TP2 ≥ 10⁻³ to <10⁻² = MD | MRD TP2 ≥ 10⁻² = MMD | No MRD result = MD\n• Hypodiploidy <44 chromosomesᵉ: MRD-SR = No | MRD-MRᵇ = MD | MRD TP2 ≥ 10⁻³ to <10⁻² = MD | MRD TP2 ≥ 10⁻² = MMD | No MRD result = MD\n• PPR + T-ALL: MRD-SR = No | MRD-MRᵇ = No | MRD TP2 ≥ 10⁻³ to <10⁻² = MD | MRD TP2 ≥ 10⁻² = MMD | No MRD result = MD\n• None of the above featuresᶠ: MRD-SR = No | MRD-MRᵇ = No | MRD TP2 ≥ 10⁻³ to <10⁻² = MD | MRD TP2 ≥ 10⁻² = MMD | No MRD result = No\nAbbreviations: PPR Prednisone Poor Response on day 8, NRd33 No Remission on day 33, MRD Minimal Residual Disease, no Allo HCT not indicated, MD Permitted donor: HLA-matched sibling or non-sibling donor, MMD Permitted donor: HLA-matched or HLA-mismatched donor\nᵃ FCM-MRD results have no impact on the allo-HCT indication\nᵇ Including MRD-MR SER (MRD TP1 ≥ 10⁻³ and TP2 10⁻⁴/⁻⁵)\nᶜ Non-remission in patients with this rare constellation should be due to extramedullary disease. Allo-HCT indication in these cases should be discussed with the national study coordinator\nᵈ Independent of prednisone response\nᵉ The finding of exactly 44 chromosomes qualifies for HR treatment but has no impact on allo-HCT indication\nᶠ Including patients with 44 chromosomes",
+          "zh": "表 73.1 依據 AIEOP-BFM ALL 2009 試驗之 CR1 異體 HCT 適應症\nPCR-MRD 結果ᵃ 下方各欄位：階層式標準（Criteria hierarchical）｜MRD-SR｜MRD-MRᵇ｜MRD-HR：MRD TP2 ≥ 10⁻³ 至 <10⁻²｜MRD-HR：MRD TP2 ≥ 10⁻²｜無 MRD 結果（No MRD result）\n• 第 33 天未達完全緩解（No CR d33）：MRD-SR = 不移植（Noᶜ）｜MRD-MRᵇ = MMD｜MRD TP2 ≥ 10⁻³ 至 <10⁻² = MMD｜MRD TP2 ≥ 10⁻² = MMD｜無 MRD 結果 = MMD\n• t(4;11)ᵈ：MRD-SR = 不移植（No）｜MRD-MRᵇ = MD｜MRD TP2 ≥ 10⁻³ 至 <10⁻² = MD｜MRD TP2 ≥ 10⁻² = MMD｜無 MRD 結果 = MD\n• 低二倍體 <44 條染色體（Hypodiploidy <44 chromosomesᵉ）：MRD-SR = 不移植（No）｜MRD-MRᵇ = MD｜MRD TP2 ≥ 10⁻³ 至 <10⁻² = MD｜MRD TP2 ≥ 10⁻² = MMD｜無 MRD 結果 = MD\n• PPR + T-ALL：MRD-SR = 不移植（No）｜MRD-MRᵇ = 不移植（No）｜MRD TP2 ≥ 10⁻³ 至 <10⁻² = MD｜MRD TP2 ≥ 10⁻² = MMD｜無 MRD 結果 = MD\n• 無上述任何特徵（None of the above featuresᶠ）：MRD-SR = 不移植（No）｜MRD-MRᵇ = 不移植（No）｜MRD TP2 ≥ 10⁻³ 至 <10⁻² = MD｜MRD TP2 ≥ 10⁻² = MMD｜無 MRD 結果 = 不移植（No）\n縮寫說明：PPR = 第 8 天對 prednisone 反應不佳（Prednisone Poor Response on day 8）；NRd33 = 第 33 天未緩解（No Remission on day 33）；MRD = 微量殘存疾病（Minimal Residual Disease）；no = 無異體 HCT 適應症（Allo HCT not indicated）；MD = 允許之供者：HLA 相合手足或非手足供者（HLA-matched sibling or non-sibling donor）；MMD = 允許之供者：HLA 相合或 HLA 不相合供者（HLA-matched or HLA-mismatched donor）。\nᵃ 流式細胞儀 MRD（FCM-MRD）結果對異體 HCT 適應症無影響。\nᵇ 包含 MRD-MR 緩慢早期反應者（SER，即 MRD TP1 ≥ 10⁻³ 且 TP2 為 10⁻⁴/⁻⁵）。\nᶜ 出現此罕見組合之未緩解病患，原因應為髓外疾病；此類病例的異體 HCT 適應症應與國家研究協調人討論。\nᵈ 不受 prednisone 反應影響。\nᵉ 染色體恰為 44 條者符合高風險（HR）治療資格，但對異體 HCT 適應症無影響。\nᶠ 包含具有 44 條染色體的病患。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 653,
+      "blocks": [
+        {
+          "id": 7300010,
+          "page": 653,
+          "en": "Table 73.2 Indication for HCT according to IntReALL SR 2010 and HR protocol criteria\nColumns: Relapse risk group | Phenotype | Time of relapse | Site of relapse | MRD-status | Donor type\n• Relapse risk group: Very high (Donor type: MSD, MD, MMD)\n  – Phenotype: T-ALL | Time of relapse: Any time | Site of relapse: I-BM, C-BM, I-EM | MRD-status: — | Donor type: MSD, MD, MMD\n  – Phenotype: Non-T-ALL | Time of relapse: Very early | Site of relapse: I-BM, C-BM, I-EM | MRD-status: — | Donor type: MSD, MD, MMD\n  – Phenotype: Non-T-ALL | Time of relapse: Early | Site of relapse: I-BM, C-BM | MRD-status: PR, ND | Donor type: MSD, MD, MMD\n• Relapse risk group: High (Phenotype: Non-T-ALL; Donor type: MSD, MD)\n  – Phenotype: Non-T-ALL | Time of relapse: Late | Site of relapse: I-BM, C-BM | MRD-status: PR, ND | Donor type: MSD, MD\n  – Phenotype: Non-T-ALL | Time of relapse: Early | Site of relapse: C-BM | MRD-status: GR | Donor type: MSD, MD\n  – Phenotype: Non-T-ALL | Time of relapse: Early | Site of relapse: I-EM | MRD-status: — | Donor type: MSD, MD\n  – Phenotype: Non-T-ALL | Time of relapse: Late | Site of relapse: I-BM | MRD-status: PR, ND | Donor type: MSD, MD\n  – Phenotype: Non-T-ALL | Time of relapse: Late | Site of relapse: C-BM | MRD-status: ND | Donor type: MSD, MD\nAbbreviations: I-BM isolated bone marrow, C-BM combined bone marrow and extramedullary site, I-EM isolated extramedullary, MRD: GR good response as defined by the specific chemotherapy-protocol, PR poor response, ND not detectable",
+          "zh": "表 73.2 依據 IntReALL SR 2010 與 HR 治療方案標準之 HCT 適應症\n欄位：復發風險分組（Relapse risk group）｜表現型（Phenotype）｜復發時間（Time of relapse）｜復發部位（Site of relapse）｜MRD 狀態（MRD-status）｜供者類型（Donor type）\n• 復發風險分組：極高風險（Very high）（供者類型：MSD、MD、MMD）\n  – 表現型：T-ALL｜復發時間：任何時間（Any time）｜復發部位：I-BM、C-BM、I-EM｜MRD 狀態：—｜供者類型：MSD、MD、MMD\n  – 表現型：非 T-ALL（Non-T-ALL）｜復發時間：極早期（Very early）｜復發部位：I-BM、C-BM、I-EM｜MRD 狀態：—｜供者類型：MSD、MD、MMD\n  – 表現型：非 T-ALL（Non-T-ALL）｜復發時間：早期（Early）｜復發部位：I-BM、C-BM｜MRD 狀態：PR、ND｜供者類型：MSD、MD、MMD\n• 復發風險分組：高風險（High）（表現型：非 T-ALL〔Non-T-ALL〕；供者類型：MSD、MD）\n  – 表現型：非 T-ALL｜復發時間：晚期（Late）｜復發部位：I-BM、C-BM｜MRD 狀態：PR、ND｜供者類型：MSD、MD\n  – 表現型：非 T-ALL｜復發時間：早期（Early）｜復發部位：C-BM｜MRD 狀態：GR｜供者類型：MSD、MD\n  – 表現型：非 T-ALL｜復發時間：早期（Early）｜復發部位：I-EM｜MRD 狀態：—｜供者類型：MSD、MD\n  – 表現型：非 T-ALL｜復發時間：晚期（Late）｜復發部位：I-BM｜MRD 狀態：PR、ND｜供者類型：MSD、MD\n  – 表現型：非 T-ALL｜復發時間：晚期（Late）｜復發部位：C-BM｜MRD 狀態：ND｜供者類型：MSD、MD\n縮寫說明：I-BM = 單獨骨髓復發（isolated bone marrow）；C-BM = 骨髓合併髓外部位復發（combined bone marrow and extramedullary site）；I-EM = 單獨髓外復發（isolated extramedullary）；MRD：GR = 依特定化療方案定義之良好反應（good response），PR = 反應不佳（poor response），ND = 未檢出／無資料（not detectable）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300011,
+          "page": 653,
+          "en": "73.2.2 Indications: CR2 and Later\nAll patients with relapse of T-ALL and patients with B-ALL who relapse during frontline therapy or within 6 months from treatment discontinuation (very early and early relapse) have a dismal prognosis when treated with conventional chemotherapy. Allo-HCT from any donor type is the contemporary standard post-remission consolidation therapy (Table 73.2a).",
+          "zh": "73.2.2 適應症：CR2 及其後\n所有 T-ALL 復發的病患，以及在第一線治療期間或停藥後 6 個月內復發（極早期與早期復發）的 B-ALL 病患，若僅接受傳統化療，預後極差。來自任何供者類型的異體 HCT（allo-HCT）是當代標準的緩解後鞏固治療（表 73.2）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300012,
+          "page": 653,
+          "en": "In multiple relapsed patients, if they achieve a third or higher remission, allo-HCT should be considered in all patients, provided that their condition allows such a procedure. Patient not in morphological remission should not be transplanted except in extraordinary experimental situations (e.g. well-designed clinical trial with clear scientific questions).",
+          "zh": "對於多次復發的病患，若能達到第三次或更後線的緩解，只要其身體狀況允許此項處置，所有病患皆應考慮接受異體 HCT。未達形態學緩解的病患，除非處於極特殊的實驗性情境（例如具有明確科學問題且設計良好的臨床試驗），否則不應進行移植。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300013,
+          "page": 653,
+          "en": "73.3 Donor Selection and Stem Cell Source\nOS and incidence of NRM in patients transplanted from a MSD as well as from a > 9/10 MUD have steadily improved over time, and today the results for these outcomes do not differ according to the type of donor. However, it has been shown that in children HCT from an HLA-identical sibling results in a faster myeloid engraftment, prompter immunoreconstitution and less severe infections and should remain the preferred option (Peters et al. 2015a, b).",
+          "zh": "73.3 供者選擇與幹細胞來源\n接受 MSD 以及 > 9/10 MUD 移植之病患的整體存活率（OS）與非復發死亡率（NRM）發生率已隨時間穩定改善，且如今這些結果並不因供者類型不同而有差異。然而，研究已證實，在兒童中，來自 HLA 相合手足的 HCT 可帶來更快速的骨髓系植入、更及時的免疫重建以及較少的嚴重感染，因此仍應作為首選方案（Peters et al. 2015a, b）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300014,
+          "page": 653,
+          "en": "Since less than 25% of patients have a MSD, HCT from an alternative donors is most frequently applied. Several groups have demonstrated that an HCT from a MUD, identified by HLA high-resolution typing, has a similar outcome as a MSD-HCT (Zhang et al. 2012; Fagioli et al. 2013; Burke et al. 2015) Notably, Dalle et al. recently reported the 3-year consolidated results of 612 patients aged 4–21 years, treated at >100 pediatric centers in 26 countries following HCT from either MSD (n = 186, 30%) or MUD (defined as 9 or 10/10 4-digit molecular HLA compatibility, n = 426, 70%) following 12Gy TBI-VP16 for ALL in CR1. GvHD-relapse-secondary malignancy-free survival (GRFS) was significantly better in MUD vs. MSD (62 ± 3 vs. ±51 ± 5%, P = 0.04) (Dalle et al. 2022).",
+          "zh": "由於僅有不到 25% 的病患擁有 MSD，因此最常採用來自替代供者的 HCT。多個研究團隊已證實，透過 HLA 高解析度定型所選出的 MUD，其 HCT 治療結果與 MSD-HCT 相近（Zhang et al. 2012; Fagioli et al. 2013; Burke et al. 2015）。值得注意的是，Dalle 等人近期報告了 612 名年齡 4–21 歲、在 26 個國家超過 100 家兒科中心接受治療之 CR1 ALL 病患的 3 年整合結果；這些病患在 12 Gy 全身放射線照射併用 etoposide（TBI-VP16）調理後，接受來自 MSD（n = 186，30%）或 MUD（定義為 9/10 或 10/10 四位數分子 HLA 相合，n = 426，70%）的 HCT。無 GvHD、無復發且無次發性惡性腫瘤存活率（GRFS）在 MUD 組顯著優於 MSD 組（62 ± 3% 對 ±51 ± 5%，P = 0.04）（Dalle et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300015,
+          "page": 653,
+          "en": "Several methods were developed to overcome the HLA barriers in those patients who lack an HLA compatible donor. Currently, it is not clear which of the following, HLA-mismatched CB, TCD (alpha-beta depleted, CD34+ selected or CD3/CD19 depleted) haploidentical grafts or PT-CY approaches, will result in the best outcome (Lang and Handgretinger 2008; Smith et al. 2009; Ruggeri et al. 2014; Locatelli et al. 2017; Rocha, et al. 2021) (Tables 73.3 and 73.4). Very promising results have been recently confirmed in children with ALL receinving a graft from an α/β T cell depleted HLA-haploidentical relative, with a very low risk of NRM and of both acute and chronic GvHD (Merli et al. 2022).",
+          "zh": "針對缺乏 HLA 相合供者的病患，目前已發展出多種克服 HLA 屏障的方法。目前尚不清楚下列何種方式能帶來最佳結果：HLA 不相合臍帶血（CB）、去 T 細胞（TCD，包括 α/β T 細胞去除、CD34+ 陽性選殖或 CD3/CD19 去除）半相合移植物，或是移植後 cyclophosphamide（PT-CY）策略（Lang and Handgretinger 2008; Smith et al. 2009; Ruggeri et al. 2014; Locatelli et al. 2017; Rocha, et al. 2021）（表 73.3 與表 73.4）。近期在兒童 ALL 病患中，接受來自 α/β T 細胞去除之 HLA 半相合親屬移植物已證實具有非常令人鼓舞的結果，其 NRM 以及急性與慢性 GvHD 的風險皆極低（Merli et al. 2022）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 654,
+      "blocks": [
+        {
+          "id": 7300016,
+          "page": 654,
+          "en": "Table 73.4 Donor hierarchy—further selection criteria\nColumns: Variable/order | Priority\n• CMV-status\n  – Patient CMV IgG positive:\n    1: Donor CMV IgG positive\n    2: Donor CMV IgG negative\n  – Patient CMV IgG negative:\n    1: Donor CMV IgG negative\n    2: Donor CMV IgG positive\n• Gender (Locatelli et al. 2022)\n  – 1: Male or female (preferentially not Allo-immunized by prior pregnancy) donor\n  – Male patient:\n    1: Male donor\n    2: Female (preferentially not Allo-immunized by prior pregnancy) donor\n• Age\n  – 1: Younger donor if body weight enables sufficient SC harvest\n  – 2: Older donor\n• Stem cell source — HCT from MSD or MD\n  – 1: Bone marrow\n  – 2: PPBSC (CAVE: Adjust GvHD-prophylaxis for matched siblings)\n  – 2: Cord blood with sufficient cell number (>3 × 10⁷ NC/kg)\n• Stem cell source — HCT from MMD: Possible options\n  – BM, 8/10 matches, unmanipulated\n  – PBSC, haploidentical, CD3/CD19 depleted, α/β depleted\n  – CB, sufficient stem cell dose\n  – PBSC, haploidentical, CD34+ selection\n  – PT-CY",
+          "zh": "表 73.4 供者優先順序——進一步選擇標準\n欄位：變數／順位（Variable/order）｜優先選擇（Priority）\n• 巨細胞病毒狀態（CMV-status）\n  – 病患 CMV IgG 陽性：\n    1：供者 CMV IgG 陽性\n    2：供者 CMV IgG 陰性\n  – 病患 CMV IgG 陰性：\n    1：供者 CMV IgG 陰性\n    2：供者 CMV IgG 陽性\n• 性別（Gender）（Locatelli et al. 2022）\n  – 1：男性或女性（優先選擇未因既有懷孕產生同種免疫反應者）供者\n  – 男性病患：\n    1：男性供者\n    2：女性（優先選擇未因既有懷孕產生同種免疫反應者）供者\n• 年齡（Age）\n  – 1：若體重允許採集足夠幹細胞（SC），優先選擇較年輕供者\n  – 2：較年長供者\n• 幹細胞來源（Stem cell source）——來自 MSD 或 MD 之 HCT\n  – 1：骨髓（Bone marrow）\n  – 2：周邊血幹細胞（PPBSC）（注意〔CAVE〕：針對相合手足須調整 GvHD 預防方案）\n  – 2：具有足夠細胞數（有核細胞 >3 × 10⁷ NC/kg）之臍帶血（Cord blood）\n• 幹細胞來源（Stem cell source）——來自 MMD 之 HCT：可行選項\n  – 骨髓（BM），8/10 相合，未經體外處置（unmanipulated）\n  – 周邊血幹細胞（PBSC），半相合（haploidentical），CD3/CD19 去除、α/β T 細胞去除\n  – 臍帶血（CB），具足夠幹細胞劑量\n  – 周邊血幹細胞（PBSC），半相合（haploidentical），CD34+ 陽性選殖\n  – 移植後 cyclophosphamide（PT-CY）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300017,
+          "page": 654,
+          "en": "Table 73.3 Matching criteria according to HLA typing/matching and stem cell source for children and AYAs with ALL\n• MSD | HLA-genotypically matched sibling, or 10/10 allelic match (if parental haplotypes unknown) | BM, PBSC\n• MSD | 6/6 or 8/8, 5/6 or 7/8ᵃ | CB\n• MD | 9/10 or 10/10 allelic matched related or unrelated | BM, PBSC\n• MD | 5–6/6 unrelated or 6–7–8/8 unrelated | CB\n• MMD | Less than 9/10 matched | BM, PBSC\n• MMD | Less than 5/6 or 6/8 UCB | CB\nAbbreviations: MSD matched sibling donor, MD matched donor, MMD mismatched donor\nᵃ 4 digits high-resolution typing recommended also for CB matching definition",
+          "zh": "表 73.3 兒童與 AYA ALL 病患依據 HLA 定型／相合度與幹細胞來源之配對標準\n• MSD｜HLA 基因型相合手足，或 10/10 等位基因相合（若雙親單倍型未知）｜BM、PBSC\n• MSD｜6/6 或 8/8、5/6 或 7/8ᵃ｜CB\n• MD｜9/10 或 10/10 等位基因相合之親屬或非親屬｜BM、PBSC\n• MD｜5–6/6 非親屬或 6–7–8/8 非親屬｜CB\n• MMD｜低於 9/10 相合｜BM、PBSC\n• MMD｜低於 5/6 或 6/8 非親屬臍帶血（UCB）｜CB\n縮寫說明：MSD = 相合手足供者（matched sibling donor）；MD = 相合供者（matched donor）；MMD = 不相合供者（mismatched donor）。\nᵃ 針對臍帶血（CB）配對相合度的定義，亦建議採用 4 位數高解析度定型。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300018,
+          "page": 654,
+          "en": "Other factors to be considered in the choice of the donor are detailed in Tables 73.3 and 73.4. In particular, the donor/recipient CMV serology plays a relevant role in the post-transplant outcome as well as the donor age.",
+          "zh": "選擇供者時須考量的其他因素詳列於表 73.3 與表 73.4。特別是供者／受者的 CMV 血清學狀態以及供者年齡，皆在移植後結果中扮演重要角色。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300019,
+          "page": 654,
+          "en": "73.4 Conditioning Regimen\nA myeloablative conditioning regimen is the treatment of choice for children and AYA with ALL. The FORUM trial demonstrated the significant superiority of the TBI/etoposide scheme in a randomized, prospective, multicenter, phase III trial. At a median age of 4.5 years, patients over 4 years of age with high-risk ALL had a 20% better OS and EFS and a lower NRM compared to patients who received a chemotherapy-based conditioning regimen.(Locatelli et al. 2022). In addition, the risk of leukaemia recurrence was much lower in patients given TBI as part of the conditioning regimen in comparison to those prepared with a chemo-therapy-based myeloablation. The same study showed that a myeloablative regimen containing treosulfan, thiotepa and fludarabine was associated with an outcome comparable to that of patients treated with busulfan, thiotepa and fludarabine (Peters, et al. 2021) (Fig. 73.1).",
+          "zh": "73.4 調理方案\n骨髓消除性（myeloablative）調理方案是兒童與 AYA ALL 病患的首選治療。FORUM 試驗在一項隨機、前瞻性、多中心、第三期臨床試驗中，證實了全身放射線照射（TBI）／etoposide 方案的顯著優勢。在中位年齡 4.5 歲的條件下，4 歲以上的高風險 ALL 病患與接受化學治療為基礎之調理方案的病患相比，整體存活率（OS）與無事件存活率（EFS）高出 20%，且非復發死亡率（NRM）較低（Locatelli et al. 2022）。此外，接受包含 TBI 在內之調理方案的病患，其白血病復發風險遠低於接受以化療為基礎之骨髓消除方案準備的病患。同一項研究亦顯示，包含 treosulfan、thiotepa 與 fludarabine 的骨髓消除方案，其治療結果與接受 busulfan、thiotepa 與 fludarabine 治療的病患相當（Peters, et al. 2021）（圖 73.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300020,
+          "page": 654,
+          "en": "Whether a myeloablative conditioning with treosulfan will have a more benign adverse event profile and a higher chance for fertility preservation remains to be proven (Wachowiak et al. 2011; Boztug et al. 2015; Lee et al. 2015; Faraci et al. 2019).",
+          "zh": "使用 treosulfan 的骨髓消除性調理是否具有更溫和的不良事件表現以及更高的生育力保存機會，仍有待證實（Wachowiak et al. 2011; Boztug et al. 2015; Lee et al. 2015; Faraci et al. 2019）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300021,
+          "page": 654,
+          "en": "Whenever possible, the interval between the end of the last chemotherapy and the start of the conditioning regimen should be 3–6 weeks to reduce the risk of NRM. If infection or toxicity requires a delay in conditioning, patients receive risk-adjusted chemotherapy or immunotherapy to bridge the time to transplant. The most successful approach to allow a reduction of MRD before transplantation is the use of blinatumomab. The continuous infusion of the bispecific antibody enables not only a deeper remission but also to spare chemotherapy-associated organ toxicity which results in better pre-transplant performance status (Locatelli et al. 2000a, b).",
+          "zh": "只要情況允許，最後一次化療結束至開始調理方案之間的間隔應為 3–6 週，以降低 NRM 風險。若因感染或毒性而必須延後調理，病患應接受依風險調整的化療或免疫治療，以橋接至移植前的等待時間。在移植前降低 MRD 最成功的方法是使用 blinatumomab。連續輸注此雙特異性抗體不僅能達成更深度的緩解，亦能避免化療相關的器官毒性，進而使病患在移植前具有更佳的體能狀態（Locatelli et al. 2000a, b）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 655,
+      "blocks": [
+        {
+          "id": 7300022,
+          "page": 655,
+          "en": "Fig. 73.1 Outcome of the randomized, prospective, multicentre phase III FORUM-study: (© 2020 by American Society of Clinical Oncology)\n• Left panel: Intention-to-Treat Population (Years 0 to 5, P < .0001)\n  – At risk (TBI): Year 0 = 212, Year 1 = 173, Year 2 = 105, Year 3 = 65, Year 4 = 27\n  – At risk (CHC): Year 0 = 201, Year 1 = 145, Year 2 = 85, Year 3 = 47, Year 4 = 17\n  – Summary table (Intention-to-Treat Population):\n    * TBI: Patients = 212 | Eval. = 209 | Deaths = 19 | 2-year OS = 0.91 (0.86–0.95)\n    * CHC: Patients = 201 | Eval. = 200 | Deaths = 49 | 2-year OS = 0.75 (0.67–0.81)\n• Right panel: Modified As-Treated Population (Years 0 to 5; P = .0025; TBI vs. BU: P = .0009; TBI vs. TREO: P = .0041; BU vs. Treo: P = .6152)\n  – At risk (TBI): Year 0 = 194, Year 1 = 161, Year 2 = 97, Year 3 = 61, Year 4 = 25\n  – At risk (BU): Year 0 = 96, Year 1 = 72, Year 2 = 38, Year 3 = 19, Year 4 = 5\n  – At risk (TREO): Year 0 = 90, Year 1 = 67, Year 2 = 44, Year 3 = 27, Year 4 = 11\n  – Summary table (Modified As-Treated Population):\n    * TBI: Patients = 194 | Eval. = 194 | Deaths = 19 | 2-year OS = 0.91 (0.85–0.94)\n    * BU: Patients = 96 | Eval. = 96 | Deaths = 22 | 2-year OS = 0.77 (0.66–0.85)\n    * TREO: Patients = 90 | Eval. = 90 | Deaths = 20 | 2-year OS = 0.77 (0.65–0.85)\nPrimary end point: Overall survival. BU, busulfan; CHC, chemo-conditioning; CIR, cumulative incidence of relapse; EFS, event-free survival; OS, overall survival; TBI, total body irradiation; TREO, treosulfan; TRM, treatment-related mortality.",
+          "zh": "圖 73.1 隨機、前瞻性、多中心第三期 FORUM 試驗之結果：（© 2020 美國臨床腫瘤學會〔American Society of Clinical Oncology〕）\n• 左圖：意向治療族群（Intention-to-Treat Population）（第 0 至 5 年，P < .0001）\n  – 風險人數（At risk，TBI 組）：第 0 年 = 212，第 1 年 = 173，第 2 年 = 105，第 3 年 = 65，第 4 年 = 27\n  – 風險人數（At risk，CHC 組）：第 0 年 = 201，第 1 年 = 145，第 2 年 = 85，第 3 年 = 47，第 4 年 = 17\n  – 摘要表（意向治療族群）：\n    * TBI：病患數（Patients）= 212｜可評估數（Eval.）= 209｜死亡數（Deaths）= 19｜2 年 OS = 0.91（0.86–0.95）\n    * CHC：病患數（Patients）= 201｜可評估數（Eval.）= 200｜死亡數（Deaths）= 49｜2 年 OS = 0.75（0.67–0.81）\n• 右圖：修正後實際治療族群（Modified As-Treated Population）（第 0 至 5 年；整體 P = .0025；TBI 對 BU：P = .0009；TBI 對 TREO：P = .0041；BU 對 Treo：P = .6152）\n  – 風險人數（At risk，TBI 組）：第 0 年 = 194，第 1 年 = 161，第 2 年 = 97，第 3 年 = 61，第 4 年 = 25\n  – 風險人數（At risk，BU 組）：第 0 年 = 96，第 1 年 = 72，第 2 年 = 38，第 3 年 = 19，第 4 年 = 5\n  – 風險人數（At risk，TREO 組）：第 0 年 = 90，第 1 年 = 67，第 2 年 = 44，第 3 年 = 27，第 4 年 = 11\n  – 摘要表（修正後實際治療族群）：\n    * TBI：病患數（Patients）= 194｜可評估數（Eval.）= 194｜死亡數（Deaths）= 19｜2 年 OS = 0.91（0.85–0.94）\n    * BU：病患數（Patients）= 96｜可評估數（Eval.）= 96｜死亡數（Deaths）= 22｜2 年 OS = 0.77（0.66–0.85）\n    * TREO：病患數（Patients）= 90｜可評估數（Eval.）= 90｜死亡數（Deaths）= 20｜2 年 OS = 0.77（0.65–0.85）\n主要評估指標：整體存活率（Overall survival）。縮寫說明：BU = busulfan；CHC = 化療調理（chemo-conditioning）；CIR = 累積復發發生率（cumulative incidence of relapse）；EFS = 無事件存活率（event-free survival）；OS = 整體存活率（overall survival）；TBI = 全身放射線照射（total body irradiation）；TREO = treosulfan；TRM = 治療相關死亡率（treatment-related mortality）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300023,
+          "page": 655,
+          "en": "73.5 GVHD Prophylaxis\nChildren transplanted with bone marrow from MSD might benefit from an augmented GVL effect if only cyclosporine A is administered as GVHD prophylaxis (Locatelli et al. 2000a, b; Peters et al. 2010). However, careful monitoring and rapid intervention are crucial to prevent the development of severe GVHD. After HCT from non-sibling donors, a combination of a calcineurin inhibitor with short-course MTX and ATG is given in most patients (Peters et al. 2015a, b; Veys et al. 2012a, b; Balduzzi et al. 2019).",
+          "zh": "73.5 GVHD 預防\n接受 MSD 骨髓移植的兒童，若僅給予 cyclosporine A 作為 GVHD 預防用藥，可能會因增強的移植物抗白血病（GVL）效應而獲益（Locatelli et al. 2000a, b; Peters et al. 2010）。然而，密切監測與迅速介入對於預防嚴重 GVHD 的發生至關重要。在接受非手足供者 HCT 後，大多數病患會給予鈣調磷酸酶抑制劑（calcineurin inhibitor）併用短療程 methotrexate（MTX）與抗胸腺細胞球蛋白（ATG）的組合方案（Peters et al. 2015a, b; Veys et al. 2012a, b; Balduzzi et al. 2019）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300024,
+          "page": 655,
+          "en": "73.6 Children below 4 Years of Age\nBoth relapse and NRM contribute to treatment failure in infants and young children with high-risk ALL undergoing HCT. The optimal chemotherapeutic approach able to improve event-free survival (EFS) and to reduce the risk of NRM is not yet defined (Peters et al. 2022).",
+          "zh": "73.6 4 歲以下兒童\n在接受 HCT 的高風險 ALL 嬰兒與幼童中，復發與非復發死亡率（NRM）皆是造成治療失敗的原因。能夠改善無事件存活率（EFS）並降低 NRM 風險的最佳化療調理方式目前尚未確立（Peters et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300025,
+          "page": 655,
+          "en": "73.6.1 Mixed Chimerism (MC) and MRD\nMixed chimerism (MC) and MRD strongly predict risk for relapse in children (Bader et al. 2015).",
+          "zh": "73.6.1 混合嵌合狀態（MC）與 MRD\n混合嵌合狀態（MC）與 MRD 強烈預測兒童的復發風險（Bader et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300026,
+          "page": 655,
+          "en": "Preemptive immunotherapy, e.g. withdrawal of IS or DLI guided by chimerism and MRD monitoring, may prevent impending relapse. However, the dynamic of leukaemic reappearance hampers the final success of these methods. Therefore, new post-transplant intervention strategies with less risk for severe complications like bi-specific antibodies or CAR-T-cell interventions may expedite the control of impending relapse (Handgretinger et al. 2011; Maude et al. 2018a, b).",
+          "zh": "在嵌合狀態與 MRD 監測指引下進行搶先性（preemptive）免疫治療（例如停用免疫抑制劑〔IS〕或給予供者淋巴球輸注〔DLI〕），可能防止即將發生的復發。然而，白血病再次出現的快速動態過程限制了這些方法的最終成功率。因此，發生嚴重併發症風險較低的新型移植後介入策略（例如雙特異性抗體或 CAR-T 細胞介入治療），可能會加速控制即將發生的復發（Handgretinger et al. 2011; Maude et al. 2018a, b）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300027,
+          "page": 655,
+          "endPage": 656,
+          "en": "73.6.2 Children with Ph + ALL\nChildren with Ph + ALL should receive TKIs post-transplant for relapse prevention. Whether the prophylactic approach (all Ph + patients will",
+          "zh": "73.6.2 費城染色體陽性（Ph +）ALL 兒童\nPh + ALL 兒童在移植後應接受酪胺酸激酶抑制劑（TKI）治療以預防復發。究竟是預防性給藥策略（所有 Ph + 病患皆",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 656,
+      "blocks": [
+        {
+          "id": 7300028,
+          "page": 656,
+          "en": "receive TKIs) or a preemptive therapy (only patients with a persistence/reappearance of BCR/ABL fusion transcript) is more effective has yet to be demonstrated (Schultz et al. 2010; Bernt and Hunger 2014). Both strategies are currently under investigation.",
+          "zh": "接受 TKI 治療）抑或搶先性治療策略（僅針對 BCR/ABL 融合轉錄本持續存在或再次出現的病患給藥）較為有效，仍有待證實（Schultz et al. 2010; Bernt and Hunger 2014）。這兩種策略目前皆在研究當中。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300029,
+          "page": 656,
+          "en": "73.6.2.1 The Amended EsPhALL Recommendation\nAdministration of imatinib prophylaxis post HCT when more than 50,000 platelets are reached is recommended with a duration of 365 days after HCT.",
+          "zh": "73.6.2.1 修訂版 EsPhALL 建議\n建議在 HCT 後血小板數回升超過 50,000 時開始給予 imatinib 預防治療，持續時間為 HCT 後 365 天。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300030,
+          "page": 656,
+          "en": "73.6.2.2 TKI According to MRD Result\nAdministration of imatinib post HCT for all MRD-positive patients until two negative results are achieved. FACS- and PCR-MRD analyses are accepted.",
+          "zh": "73.6.2.2 依據 MRD 結果給予 TKI\n針對所有 MRD 陽性的病患，在 HCT 後給予 imatinib 治療，直到連續達成兩次 MRD 陰性結果為止。流式細胞儀（FACS）與 PCR-MRD 分析方式皆可接受。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300031,
+          "page": 656,
+          "en": "Key Points\n• Only children and adolescents with very high or high relapse risk should be candidates for allo-HCT in CR1 and CR2. The assessment of relapse risk is largely influenced by the presence of recurrent molecular and cytogenetic abnormalities, response to chemotherapy, assessed through MRD evaluation and in relapsed patients – by time and site of relapse.\n• MRD levels pre- and post-HCT are powerful predictors for outcome after HCT.\n• Patients who are not in morphological remission before conditioning should not undergo allogeneic HCT except in extraordinary situations.\n• Fractionated TBI/VP16-MAC is recommended for all children above the age of 4 with ALL. If this is not possible, a myeloablative chemo-conditioning is an option.",
+          "zh": "重點摘要（Key Points）\n• 僅有具極高或高復發風險的兒童與青少年，才應作為在 CR1 與 CR2 接受異體 HCT（allo-HCT）的候選對象。復發風險的評估主要受下列因素影響：是否存在反覆出現的分子與細胞遺傳學異常、透過 MRD 評估所測得的化療反應，以及在復發病患中的復發時間與復發部位。\n• HCT 前與 HCT 後的 MRD 數值是預測 HCT 後治療結果的強力指標。\n• 在調理前未達形態學緩解的病患，除非處於極特殊情況，否則不應接受異體 HCT。\n• 對於所有 4 歲以上的 ALL 兒童，建議採用分次全身放射線照射併用 etoposide 之骨髓消除性調理（fractionated TBI/VP16-MAC）。若無法實行，則可選擇骨髓消除性化療調理（myeloablative chemo-conditioning）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7300032,
+          "page": 656,
+          "en": "Bader P, Kreyenberg H, Henze GH, et al. Prognostic value of minimal residual disease quantification before allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia: the ALL-REZ BFM study group. J Clin Oncol. 2009;27:377–84.",
+          "zh": "Bader P, Kreyenberg H, Henze GH, et al. Prognostic value of minimal residual disease quantification before allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia: the ALL-REZ BFM study group. J Clin Oncol. 2009;27:377–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bader%20P%2C%20Kreyenberg%20H%2C%20Henze%20GH%2C%20et%20al.%20Prognostic%20value%20of%20minimal%20residual%20disease%20quantification%20before%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%3A%20the%20ALL-REZ%20BFM%20study%20group.%20J%20Clin%20Oncol.%202009%3B27%3A377%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bader%20P%2C%20Kreyenberg%20H%2C%20Henze%20GH%2C%20et%20al.%20Prognostic%20value%20of%20minimal%20residual%20disease%20quantification%20before%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%3A%20the%20ALL-REZ%20BFM%20study%20group.%20J%20Clin%20Oncol.%202009%3B27%3A377%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 7300033,
+          "page": 656,
+          "en": "Bader P, Kreyenberg H, von Stackelberg A, et al. Monitoring of minimal residual disease after allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia allows for the identification of impending relapse: results of the ALL-BFM-SCT 2003 trial. J Clin Oncol. 2015;33:1275–84.",
+          "zh": "Bader P, Kreyenberg H, von Stackelberg A, et al. Monitoring of minimal residual disease after allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia allows for the identification of impending relapse: results of the ALL-BFM-SCT 2003 trial. J Clin Oncol. 2015;33:1275–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bader%20P%2C%20Kreyenberg%20H%2C%20von%20Stackelberg%20A%2C%20et%20al.%20Monitoring%20of%20minimal%20residual%20disease%20after%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%20allows%20for%20the%20identification%20of%20impending%20relapse%3A%20results%20of%20the%20ALL-BFM-SCT%202003%20trial.%20J%20Clin%20Oncol.%202015%3B33%3A1275%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bader%20P%2C%20Kreyenberg%20H%2C%20von%20Stackelberg%20A%2C%20et%20al.%20Monitoring%20of%20minimal%20residual%20disease%20after%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%20allows%20for%20the%20identification%20of%20impending%20relapse%3A%20results%20of%20the%20ALL-BFM-SCT%202003%20trial.%20J%20Clin%20Oncol.%202015%3B33%3A1275%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 7300034,
+          "page": 656,
+          "en": "Bader P, Salzmann-Manrique E, Balduzzi A, Dalle JH, Woolfrey AE, Bar M, Verneris MR, Borowitz MJ, Shah NN, Gossai N, Shaw PJ, Chen AR, Schultz KR, Kreyenberg H, Di Maio L, Cazzaniga G, Eckert C, van der Velden VHJ, Sutton R, Lankester A, Peters C, Klingebiel TE, Willasch AM, Grupp SA, Pulsipher MA. More precisely defining risk peri-HCT in pediatric ALL: pre- vs post-MRD measures, serial positivity, and risk modeling. Blood Adv. 2019;3:3393–405.",
+          "zh": "Bader P, Salzmann-Manrique E, Balduzzi A, Dalle JH, Woolfrey AE, Bar M, Verneris MR, Borowitz MJ, Shah NN, Gossai N, Shaw PJ, Chen AR, Schultz KR, Kreyenberg H, Di Maio L, Cazzaniga G, Eckert C, van der Velden VHJ, Sutton R, Lankester A, Peters C, Klingebiel TE, Willasch AM, Grupp SA, Pulsipher MA. More precisely defining risk peri-HCT in pediatric ALL: pre- vs post-MRD measures, serial positivity, and risk modeling. Blood Adv. 2019;3:3393–405.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bader%20P%2C%20Salzmann-Manrique%20E%2C%20Balduzzi%20A%2C%20Dalle%20JH%2C%20Woolfrey%20AE%2C%20Bar%20M%2C%20Verneris%20MR%2C%20Borowitz%20MJ%2C%20Shah%20NN%2C%20Gossai%20N%2C%20Shaw%20PJ%2C%20Chen%20AR%2C%20Schultz%20KR%2C%20Kreyenberg%20H%2C%20Di%20Maio%20L%2C%20Cazzaniga%20G%2C%20Eckert%20C%2C%20van%20der%20Velden%20VHJ%2C%20Sutton%20R%2C%20Lankester%20A%2C%20Peters%20C%2C%20Klingebiel%20TE%2C%20Willasch%20AM%2C%20Grupp%20SA%2C%20Pulsipher%20MA.%20More%20precisely%20defining%20risk%20peri-HCT%20in%20pediatric%20ALL%3A%20pre-%20vs%20post-MRD%20measures%2C%20serial%20positivity%2C%20and%20risk%20modeling.%20Blood%20Adv.%202019%3B3%3A3393%E2%80%93405."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bader%20P%2C%20Salzmann-Manrique%20E%2C%20Balduzzi%20A%2C%20Dalle%20JH%2C%20Woolfrey%20AE%2C%20Bar%20M%2C%20Verneris%20MR%2C%20Borowitz%20MJ%2C%20Shah%20NN%2C%20Gossai%20N%2C%20Shaw%20PJ%2C%20Chen%20AR%2C%20Schultz%20KR%2C%20Kreyenberg%20H%2C%20Di%20Maio%20L%2C%20Cazzaniga%20G%2C%20Eckert%20C%2C%20van%20der%20Velden%20VHJ%2C%20Sutton%20R%2C%20Lankester%20A%2C%20Peters%20C%2C%20Klingebiel%20TE%2C%20Willasch%20AM%2C%20Grupp%20SA%2C%20Pulsipher%20MA.%20More%20precisely%20defining%20risk%20peri-HCT%20in%20pediatric%20ALL%3A%20pre-%20vs%20post-MRD%20measures%2C%20serial%20positivity%2C%20and%20risk%20modeling.%20Blood%20Adv.%202019%3B3%3A3393%E2%80%93405."
+            }
+          ]
+        },
+        {
+          "id": 7300035,
+          "page": 656,
+          "en": "Balduzzi A, Dalle JH, Wachowiak J, Yaniv I, Yesilipek A, Sedlacek P, Bierings M, Ifversen M, Sufliarska S, Kalwak K, Lankester A, Toporski J, Di Maio L, Glogova E, Poetschger U, Peters C. Transplantation in children and adolescents with acute lymphoblastic leukemia from a matched donor versus an HLA-identical sibling: is the outcome comparable? Results from the international BFM ALL SCT 2007 study. Biol Blood Marrow Transplant. 2019;25:2197–210.",
+          "zh": "Balduzzi A, Dalle JH, Wachowiak J, Yaniv I, Yesilipek A, Sedlacek P, Bierings M, Ifversen M, Sufliarska S, Kalwak K, Lankester A, Toporski J, Di Maio L, Glogova E, Poetschger U, Peters C. Transplantation in children and adolescents with acute lymphoblastic leukemia from a matched donor versus an HLA-identical sibling: is the outcome comparable? Results from the international BFM ALL SCT 2007 study. Biol Blood Marrow Transplant. 2019;25:2197–210.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Balduzzi%20A%2C%20Dalle%20JH%2C%20Wachowiak%20J%2C%20Yaniv%20I%2C%20Yesilipek%20A%2C%20Sedlacek%20P%2C%20Bierings%20M%2C%20Ifversen%20M%2C%20Sufliarska%20S%2C%20Kalwak%20K%2C%20Lankester%20A%2C%20Toporski%20J%2C%20Di%20Maio%20L%2C%20Glogova%20E%2C%20Poetschger%20U%2C%20Peters%20C.%20Transplantation%20in%20children%20and%20adolescents%20with%20acute%20lymphoblastic%20leukemia%20from%20a%20matched%20donor%20versus%20an%20HLA-identical%20sibling%3A%20is%20the%20outcome%20comparable%3F%20Results%20from%20the%20international%20BFM%20ALL%20SCT%202007%20study.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A2197%E2%80%93210."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Balduzzi%20A%2C%20Dalle%20JH%2C%20Wachowiak%20J%2C%20Yaniv%20I%2C%20Yesilipek%20A%2C%20Sedlacek%20P%2C%20Bierings%20M%2C%20Ifversen%20M%2C%20Sufliarska%20S%2C%20Kalwak%20K%2C%20Lankester%20A%2C%20Toporski%20J%2C%20Di%20Maio%20L%2C%20Glogova%20E%2C%20Poetschger%20U%2C%20Peters%20C.%20Transplantation%20in%20children%20and%20adolescents%20with%20acute%20lymphoblastic%20leukemia%20from%20a%20matched%20donor%20versus%20an%20HLA-identical%20sibling%3A%20is%20the%20outcome%20comparable%3F%20Results%20from%20the%20international%20BFM%20ALL%20SCT%202007%20study.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A2197%E2%80%93210."
+            }
+          ]
+        },
+        {
+          "id": 7300036,
+          "page": 656,
+          "en": "Bernt KM, Hunger SP. Current concepts in pediatric Philadelphia chromosome-positive acute lymphoblastic leukemia. Front Oncol. 2014;4:54.",
+          "zh": "Bernt KM, Hunger SP. Current concepts in pediatric Philadelphia chromosome-positive acute lymphoblastic leukemia. Front Oncol. 2014;4:54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bernt%20KM%2C%20Hunger%20SP.%20Current%20concepts%20in%20pediatric%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia.%20Front%20Oncol.%202014%3B4%3A54."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bernt%20KM%2C%20Hunger%20SP.%20Current%20concepts%20in%20pediatric%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia.%20Front%20Oncol.%202014%3B4%3A54."
+            }
+          ]
+        },
+        {
+          "id": 7300037,
+          "page": 656,
+          "en": "Berry DA, Zhou S, Higley H, Mukundan L, Fu S, Reaman GH, Wood BL, Kelloff GJ, Jessup JM, Radich JP. Association of Minimal Residual Disease with Clinical Outcome in pediatric and adult acute lymphoblastic leukemia: a meta-analysis. JAMA Oncol. 2017;3:e170580.",
+          "zh": "Berry DA, Zhou S, Higley H, Mukundan L, Fu S, Reaman GH, Wood BL, Kelloff GJ, Jessup JM, Radich JP. Association of Minimal Residual Disease with Clinical Outcome in pediatric and adult acute lymphoblastic leukemia: a meta-analysis. JAMA Oncol. 2017;3:e170580.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Berry%20DA%2C%20Zhou%20S%2C%20Higley%20H%2C%20Mukundan%20L%2C%20Fu%20S%2C%20Reaman%20GH%2C%20Wood%20BL%2C%20Kelloff%20GJ%2C%20Jessup%20JM%2C%20Radich%20JP.%20Association%20of%20Minimal%20Residual%20Disease%20with%20Clinical%20Outcome%20in%20pediatric%20and%20adult%20acute%20lymphoblastic%20leukemia%3A%20a%20meta-analysis.%20JAMA%20Oncol.%202017%3B3%3Ae170580."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Berry%20DA%2C%20Zhou%20S%2C%20Higley%20H%2C%20Mukundan%20L%2C%20Fu%20S%2C%20Reaman%20GH%2C%20Wood%20BL%2C%20Kelloff%20GJ%2C%20Jessup%20JM%2C%20Radich%20JP.%20Association%20of%20Minimal%20Residual%20Disease%20with%20Clinical%20Outcome%20in%20pediatric%20and%20adult%20acute%20lymphoblastic%20leukemia%3A%20a%20meta-analysis.%20JAMA%20Oncol.%202017%3B3%3Ae170580."
+            }
+          ]
+        },
+        {
+          "id": 7300038,
+          "page": 656,
+          "en": "Boztug H, Zecca M, Sykora KW, et al. EBMT paediatric diseases working party. Treosulfan-based conditioning regimens for allogeneic HSCT in children with acute lymphoblastic leukemia. Ann Hematol. 2015;94:297–306.",
+          "zh": "Boztug H, Zecca M, Sykora KW, et al. EBMT paediatric diseases working party. Treosulfan-based conditioning regimens for allogeneic HSCT in children with acute lymphoblastic leukemia. Ann Hematol. 2015;94:297–306.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Boztug%20H%2C%20Zecca%20M%2C%20Sykora%20KW%2C%20et%20al.%20EBMT%20paediatric%20diseases%20working%20party.%20Treosulfan-based%20conditioning%20regimens%20for%20allogeneic%20HSCT%20in%20children%20with%20acute%20lymphoblastic%20leukemia.%20Ann%20Hematol.%202015%3B94%3A297%E2%80%93306."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Boztug%20H%2C%20Zecca%20M%2C%20Sykora%20KW%2C%20et%20al.%20EBMT%20paediatric%20diseases%20working%20party.%20Treosulfan-based%20conditioning%20regimens%20for%20allogeneic%20HSCT%20in%20children%20with%20acute%20lymphoblastic%20leukemia.%20Ann%20Hematol.%202015%3B94%3A297%E2%80%93306."
+            }
+          ]
+        },
+        {
+          "id": 7300039,
+          "page": 656,
+          "en": "Burke MJ, Verneris MR, Le Rademacher J, et al. Transplant outcomes for children with t cell acute lymphoblastic leukemia in second remission: a report from the center for international blood and marrow transplant research. Biol Blood Marrow Transplant. 2015;21:2154–9.",
+          "zh": "Burke MJ, Verneris MR, Le Rademacher J, et al. Transplant outcomes for children with t cell acute lymphoblastic leukemia in second remission: a report from the center for international blood and marrow transplant research. Biol Blood Marrow Transplant. 2015;21:2154–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Burke%20MJ%2C%20Verneris%20MR%2C%20Le%20Rademacher%20J%2C%20et%20al.%20Transplant%20outcomes%20for%20children%20with%20t%20cell%20acute%20lymphoblastic%20leukemia%20in%20second%20remission%3A%20a%20report%20from%20the%20center%20for%20international%20blood%20and%20marrow%20transplant%20research.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A2154%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Burke%20MJ%2C%20Verneris%20MR%2C%20Le%20Rademacher%20J%2C%20et%20al.%20Transplant%20outcomes%20for%20children%20with%20t%20cell%20acute%20lymphoblastic%20leukemia%20in%20second%20remission%3A%20a%20report%20from%20the%20center%20for%20international%20blood%20and%20marrow%20transplant%20research.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A2154%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7300040,
+          "page": 656,
+          "endPage": 657,
+          "en": "Conter V, Bartram CR, Valsecchi MG, et al. Molecular response to treatment redefines all prognostic factors in children and adolescents with B-cell precursor acute lymphoblastic leukemia: results in 3184 patients of the AIEOP-BFM ALL 2000 study. Blood. 2010;115:3206–14.",
+          "zh": "Conter V, Bartram CR, Valsecchi MG, et al. Molecular response to treatment redefines all prognostic factors in children and adolescents with B-cell precursor acute lymphoblastic leukemia: results in 3184 patients of the AIEOP-BFM ALL 2000 study. Blood. 2010;115:3206–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Conter%20V%2C%20Bartram%20CR%2C%20Valsecchi%20MG%2C%20et%20al.%20Molecular%20response%20to%20treatment%20redefines%20all%20prognostic%20factors%20in%20children%20and%20adolescents%20with%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia%3A%20results%20in%203184%20patients%20of%20the%20AIEOP-BFM%20ALL%202000%20study.%20Blood.%202010%3B115%3A3206%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Conter%20V%2C%20Bartram%20CR%2C%20Valsecchi%20MG%2C%20et%20al.%20Molecular%20response%20to%20treatment%20redefines%20all%20prognostic%20factors%20in%20children%20and%20adolescents%20with%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia%3A%20results%20in%203184%20patients%20of%20the%20AIEOP-BFM%20ALL%202000%20study.%20Blood.%202010%3B115%3A3206%E2%80%9314."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 657,
+      "blocks": [
+        {
+          "id": 7300041,
+          "page": 657,
+          "en": "Diesch-Furlanetto T, Gabriel M, Zajac-Spychala O, Cattoni A, Hoeben BAW, Balduzzi A. Late effects after Haematopoietic stem cell transplantation in ALL, Long-Term Follow-Up and Transition: A Step Into Adult Life. Front Pediatr. 2021;9:9.",
+          "zh": "Diesch-Furlanetto T, Gabriel M, Zajac-Spychala O, Cattoni A, Hoeben BAW, Balduzzi A. Late effects after Haematopoietic stem cell transplantation in ALL, Long-Term Follow-Up and Transition: A Step Into Adult Life. Front Pediatr. 2021;9:9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Diesch-Furlanetto%20T%2C%20Gabriel%20M%2C%20Zajac-Spychala%20O%2C%20Cattoni%20A%2C%20Hoeben%20BAW%2C%20Balduzzi%20A.%20Late%20effects%20after%20Haematopoietic%20stem%20cell%20transplantation%20in%20ALL%2C%20Long-Term%20Follow-Up%20and%20Transition%3A%20A%20Step%20Into%20Adult%20Life.%20Front%20Pediatr.%202021%3B9%3A9."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Diesch-Furlanetto%20T%2C%20Gabriel%20M%2C%20Zajac-Spychala%20O%2C%20Cattoni%20A%2C%20Hoeben%20BAW%2C%20Balduzzi%20A.%20Late%20effects%20after%20Haematopoietic%20stem%20cell%20transplantation%20in%20ALL%2C%20Long-Term%20Follow-Up%20and%20Transition%3A%20A%20Step%20Into%20Adult%20Life.%20Front%20Pediatr.%202021%3B9%3A9."
+            }
+          ]
+        },
+        {
+          "id": 7300042,
+          "page": 657,
+          "en": "Dalle J-H, Bader P, Yesilipek A, Locatelli F, Palma J, Wachowiak J, et al. Superior Graft-Versus-Leukemia Effect in Matched Unrelated Donor Versus HLA-Identical Sibling Pediatric Recipients Transplanted for Acute Lymphoblastic Leukemia within the Forum Study. Blood. 2022;140(Supplement 1):903–5.",
+          "zh": "Dalle J-H, Bader P, Yesilipek A, Locatelli F, Palma J, Wachowiak J, et al. Superior Graft-Versus-Leukemia Effect in Matched Unrelated Donor Versus HLA-Identical Sibling Pediatric Recipients Transplanted for Acute Lymphoblastic Leukemia within the Forum Study. Blood. 2022;140(Supplement 1):903–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dalle%20J-H%2C%20Bader%20P%2C%20Yesilipek%20A%2C%20Locatelli%20F%2C%20Palma%20J%2C%20Wachowiak%20J%2C%20et%20al.%20Superior%20Graft-Versus-Leukemia%20Effect%20in%20Matched%20Unrelated%20Donor%20Versus%20HLA-Identical%20Sibling%20Pediatric%20Recipients%20Transplanted%20for%20Acute%20Lymphoblastic%20Leukemia%20within%20the%20Forum%20Study.%20Blood.%202022%3B140(Supplement%201)%3A903%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dalle%20J-H%2C%20Bader%20P%2C%20Yesilipek%20A%2C%20Locatelli%20F%2C%20Palma%20J%2C%20Wachowiak%20J%2C%20et%20al.%20Superior%20Graft-Versus-Leukemia%20Effect%20in%20Matched%20Unrelated%20Donor%20Versus%20HLA-Identical%20Sibling%20Pediatric%20Recipients%20Transplanted%20for%20Acute%20Lymphoblastic%20Leukemia%20within%20the%20Forum%20Study.%20Blood.%202022%3B140(Supplement%201)%3A903%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 7300043,
+          "page": 657,
+          "en": "Eckert C, von Stackelberg A, Seeger K, et al. Minimal residual disease after induction is the strongest predictor of prognosis in intermediate risk relapsed acute lymphoblastic leukemia - long-term results of trial ALL-REZ BFM P95/96. Eur J Cancer. 2013;49:1346–55.",
+          "zh": "Eckert C, von Stackelberg A, Seeger K, et al. Minimal residual disease after induction is the strongest predictor of prognosis in intermediate risk relapsed acute lymphoblastic leukemia - long-term results of trial ALL-REZ BFM P95/96. Eur J Cancer. 2013;49:1346–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eckert%20C%2C%20von%20Stackelberg%20A%2C%20Seeger%20K%2C%20et%20al.%20Minimal%20residual%20disease%20after%20induction%20is%20the%20strongest%20predictor%20of%20prognosis%20in%20intermediate%20risk%20relapsed%20acute%20lymphoblastic%20leukemia%20-%20long-term%20results%20of%20trial%20ALL-REZ%20BFM%20P95%2F96.%20Eur%20J%20Cancer.%202013%3B49%3A1346%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eckert%20C%2C%20von%20Stackelberg%20A%2C%20Seeger%20K%2C%20et%20al.%20Minimal%20residual%20disease%20after%20induction%20is%20the%20strongest%20predictor%20of%20prognosis%20in%20intermediate%20risk%20relapsed%20acute%20lymphoblastic%20leukemia%20-%20long-term%20results%20of%20trial%20ALL-REZ%20BFM%20P95%2F96.%20Eur%20J%20Cancer.%202013%3B49%3A1346%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 7300044,
+          "page": 657,
+          "en": "Fagioli F, Quarello P, Zecca M, et al. Hematopoietic stem cell transplantation for children with high-risk acute lymphoblastic leukemia in first complete remission: a report from the AIEOP registry. Haematologica. 2013;98:1273–81.",
+          "zh": "Fagioli F, Quarello P, Zecca M, et al. Hematopoietic stem cell transplantation for children with high-risk acute lymphoblastic leukemia in first complete remission: a report from the AIEOP registry. Haematologica. 2013;98:1273–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fagioli%20F%2C%20Quarello%20P%2C%20Zecca%20M%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20children%20with%20high-risk%20acute%20lymphoblastic%20leukemia%20in%20first%20complete%20remission%3A%20a%20report%20from%20the%20AIEOP%20registry.%20Haematologica.%202013%3B98%3A1273%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fagioli%20F%2C%20Quarello%20P%2C%20Zecca%20M%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20children%20with%20high-risk%20acute%20lymphoblastic%20leukemia%20in%20first%20complete%20remission%3A%20a%20report%20from%20the%20AIEOP%20registry.%20Haematologica.%202013%3B98%3A1273%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 7300045,
+          "page": 657,
+          "en": "Faraci M, Diesch T, Labopin M, Dalissier A, Lankester A, Gennery A, Sundin M, Uckan-Cetinkaya D, Bierings M, Peters AMJ, Garwer M, Schulz A, Michel G, Giorgiani G, Gruhn B, Locatelli F, Giardino S, Uyttebroeck A, Rialland F, Itala-Remes M, Dreger P, Shaw PJ, Bordon V, Schlegel PG, Mellgren K, Moraleda JM, Patrick K, Schneider P, Jubert C, Lawitschka A, Salooja N, Basak GW, Corbacioglu S, Duarte R, Bader P. Gonadal function after Busulfan compared with Treosulfan in children and adolescents undergoing allogeneic hematopoietic stem cell transplant. Biol Blood Marrow Transplant. 2019;25:1786–91.",
+          "zh": "Faraci M, Diesch T, Labopin M, Dalissier A, Lankester A, Gennery A, Sundin M, Uckan-Cetinkaya D, Bierings M, Peters AMJ, Garwer M, Schulz A, Michel G, Giorgiani G, Gruhn B, Locatelli F, Giardino S, Uyttebroeck A, Rialland F, Itala-Remes M, Dreger P, Shaw PJ, Bordon V, Schlegel PG, Mellgren K, Moraleda JM, Patrick K, Schneider P, Jubert C, Lawitschka A, Salooja N, Basak GW, Corbacioglu S, Duarte R, Bader P. Gonadal function after Busulfan compared with Treosulfan in children and adolescents undergoing allogeneic hematopoietic stem cell transplant. Biol Blood Marrow Transplant. 2019;25:1786–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Faraci%20M%2C%20Diesch%20T%2C%20Labopin%20M%2C%20Dalissier%20A%2C%20Lankester%20A%2C%20Gennery%20A%2C%20Sundin%20M%2C%20Uckan-Cetinkaya%20D%2C%20Bierings%20M%2C%20Peters%20AMJ%2C%20Garwer%20M%2C%20Schulz%20A%2C%20Michel%20G%2C%20Giorgiani%20G%2C%20Gruhn%20B%2C%20Locatelli%20F%2C%20Giardino%20S%2C%20Uyttebroeck%20A%2C%20Rialland%20F%2C%20Itala-Remes%20M%2C%20Dreger%20P%2C%20Shaw%20PJ%2C%20Bordon%20V%2C%20Schlegel%20PG%2C%20Mellgren%20K%2C%20Moraleda%20JM%2C%20Patrick%20K%2C%20Schneider%20P%2C%20Jubert%20C%2C%20Lawitschka%20A%2C%20Salooja%20N%2C%20Basak%20GW%2C%20Corbacioglu%20S%2C%20Duarte%20R%2C%20Bader%20P.%20Gonadal%20function%20after%20Busulfan%20compared%20with%20Treosulfan%20in%20children%20and%20adolescents%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplant.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A1786%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Faraci%20M%2C%20Diesch%20T%2C%20Labopin%20M%2C%20Dalissier%20A%2C%20Lankester%20A%2C%20Gennery%20A%2C%20Sundin%20M%2C%20Uckan-Cetinkaya%20D%2C%20Bierings%20M%2C%20Peters%20AMJ%2C%20Garwer%20M%2C%20Schulz%20A%2C%20Michel%20G%2C%20Giorgiani%20G%2C%20Gruhn%20B%2C%20Locatelli%20F%2C%20Giardino%20S%2C%20Uyttebroeck%20A%2C%20Rialland%20F%2C%20Itala-Remes%20M%2C%20Dreger%20P%2C%20Shaw%20PJ%2C%20Bordon%20V%2C%20Schlegel%20PG%2C%20Mellgren%20K%2C%20Moraleda%20JM%2C%20Patrick%20K%2C%20Schneider%20P%2C%20Jubert%20C%2C%20Lawitschka%20A%2C%20Salooja%20N%2C%20Basak%20GW%2C%20Corbacioglu%20S%2C%20Duarte%20R%2C%20Bader%20P.%20Gonadal%20function%20after%20Busulfan%20compared%20with%20Treosulfan%20in%20children%20and%20adolescents%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplant.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A1786%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 7300046,
+          "page": 657,
+          "en": "Handgretinger R, Zugmaier G, Henze G, et al. Complete remission after blinatumomab-induced donor T-cell activation in three pediatric patients with post-transplant relapsed acute lymphoblastic leukemia. Leukemia. 2011;25:181–4.",
+          "zh": "Handgretinger R, Zugmaier G, Henze G, et al. Complete remission after blinatumomab-induced donor T-cell activation in three pediatric patients with post-transplant relapsed acute lymphoblastic leukemia. Leukemia. 2011;25:181–4.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Handgretinger%20R%2C%20Zugmaier%20G%2C%20Henze%20G%2C%20et%20al.%20Complete%20remission%20after%20blinatumomab-induced%20donor%20T-cell%20activation%20in%20three%20pediatric%20patients%20with%20post-transplant%20relapsed%20acute%20lymphoblastic%20leukemia.%20Leukemia.%202011%3B25%3A181%E2%80%934."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Handgretinger%20R%2C%20Zugmaier%20G%2C%20Henze%20G%2C%20et%20al.%20Complete%20remission%20after%20blinatumomab-induced%20donor%20T-cell%20activation%20in%20three%20pediatric%20patients%20with%20post-transplant%20relapsed%20acute%20lymphoblastic%20leukemia.%20Leukemia.%202011%3B25%3A181%E2%80%934."
+            }
+          ]
+        },
+        {
+          "id": 7300047,
+          "page": 657,
+          "en": "Hoeben BAW, Wong JYC, Fog LS, Losert C, Filippi AR, Bentzen SM, Balduzzi A, Specht L. Total body irradiation in Haematopoietic stem cell transplantation for Paediatric acute lymphoblastic Leukaemia: review of the literature and future directions. Front Pediatr. 2021;9:774348.",
+          "zh": "Hoeben BAW, Wong JYC, Fog LS, Losert C, Filippi AR, Bentzen SM, Balduzzi A, Specht L. Total body irradiation in Haematopoietic stem cell transplantation for Paediatric acute lymphoblastic Leukaemia: review of the literature and future directions. Front Pediatr. 2021;9:774348.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hoeben%20BAW%2C%20Wong%20JYC%2C%20Fog%20LS%2C%20Losert%20C%2C%20Filippi%20AR%2C%20Bentzen%20SM%2C%20Balduzzi%20A%2C%20Specht%20L.%20Total%20body%20irradiation%20in%20Haematopoietic%20stem%20cell%20transplantation%20for%20Paediatric%20acute%20lymphoblastic%20Leukaemia%3A%20review%20of%20the%20literature%20and%20future%20directions.%20Front%20Pediatr.%202021%3B9%3A774348."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hoeben%20BAW%2C%20Wong%20JYC%2C%20Fog%20LS%2C%20Losert%20C%2C%20Filippi%20AR%2C%20Bentzen%20SM%2C%20Balduzzi%20A%2C%20Specht%20L.%20Total%20body%20irradiation%20in%20Haematopoietic%20stem%20cell%20transplantation%20for%20Paediatric%20acute%20lymphoblastic%20Leukaemia%3A%20review%20of%20the%20literature%20and%20future%20directions.%20Front%20Pediatr.%202021%3B9%3A774348."
+            }
+          ]
+        },
+        {
+          "id": 7300048,
+          "page": 657,
+          "en": "Inaba H, Pui CH. Advances in the diagnosis and treatment of pediatric acute lymphoblastic leukemia. J Clin Med. 2021;10:1926.",
+          "zh": "Inaba H, Pui CH. Advances in the diagnosis and treatment of pediatric acute lymphoblastic leukemia. J Clin Med. 2021;10:1926.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Inaba%20H%2C%20Pui%20CH.%20Advances%20in%20the%20diagnosis%20and%20treatment%20of%20pediatric%20acute%20lymphoblastic%20leukemia.%20J%20Clin%20Med.%202021%3B10%3A1926."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Inaba%20H%2C%20Pui%20CH.%20Advances%20in%20the%20diagnosis%20and%20treatment%20of%20pediatric%20acute%20lymphoblastic%20leukemia.%20J%20Clin%20Med.%202021%3B10%3A1926."
+            }
+          ]
+        },
+        {
+          "id": 7300049,
+          "page": 657,
+          "en": "Lang P, Handgretinger R. Haploidentical SCT in children: an update and future perspectives. Bone Marrow Transplant. 2008;42(Suppl 2):S54–9.",
+          "zh": "Lang P, Handgretinger R. Haploidentical SCT in children: an update and future perspectives. Bone Marrow Transplant. 2008;42(Suppl 2):S54–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lang%20P%2C%20Handgretinger%20R.%20Haploidentical%20SCT%20in%20children%3A%20an%20update%20and%20future%20perspectives.%20Bone%20Marrow%20Transplant.%202008%3B42(Suppl%202)%3AS54%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lang%20P%2C%20Handgretinger%20R.%20Haploidentical%20SCT%20in%20children%3A%20an%20update%20and%20future%20perspectives.%20Bone%20Marrow%20Transplant.%202008%3B42(Suppl%202)%3AS54%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7300050,
+          "page": 657,
+          "en": "Lee JW, Kang HJ, Kim S, et al. Favorable outcome of hematopoietic stem cell transplantation using a targeted once-daily intravenous busulfan-fludarabine-etoposide regimen in pediatric and infant acute lymphoblastic leukemia patients. Biol Blood Marrow Transplant. 2015;21:190–5.",
+          "zh": "Lee JW, Kang HJ, Kim S, et al. Favorable outcome of hematopoietic stem cell transplantation using a targeted once-daily intravenous busulfan-fludarabine-etoposide regimen in pediatric and infant acute lymphoblastic leukemia patients. Biol Blood Marrow Transplant. 2015;21:190–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lee%20JW%2C%20Kang%20HJ%2C%20Kim%20S%2C%20et%20al.%20Favorable%20outcome%20of%20hematopoietic%20stem%20cell%20transplantation%20using%20a%20targeted%20once-daily%20intravenous%20busulfan-fludarabine-etoposide%20regimen%20in%20pediatric%20and%20infant%20acute%20lymphoblastic%20leukemia%20patients.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A190%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lee%20JW%2C%20Kang%20HJ%2C%20Kim%20S%2C%20et%20al.%20Favorable%20outcome%20of%20hematopoietic%20stem%20cell%20transplantation%20using%20a%20targeted%20once-daily%20intravenous%20busulfan-fludarabine-etoposide%20regimen%20in%20pediatric%20and%20infant%20acute%20lymphoblastic%20leukemia%20patients.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A190%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 7300051,
+          "page": 657,
+          "en": "Locatelli F, Bruno B, Zecca M, et al. Cyclosporin a and short-term methotrexate versus cyclosporin a as graft versus host disease prophylaxis in patients with severe aplastic anemia given allogeneic bone marrow transplantation from an HLA-identical sibling: results of a GITMO/EBMT randomized trial. Blood. 2000a;96:1690–7.",
+          "zh": "Locatelli F, Bruno B, Zecca M, et al. Cyclosporin a and short-term methotrexate versus cyclosporin a as graft versus host disease prophylaxis in patients with severe aplastic anemia given allogeneic bone marrow transplantation from an HLA-identical sibling: results of a GITMO/EBMT randomized trial. Blood. 2000a;96:1690–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Bruno%20B%2C%20Zecca%20M%2C%20et%20al.%20Cyclosporin%20a%20and%20short-term%20methotrexate%20versus%20cyclosporin%20a%20as%20graft%20versus%20host%20disease%20prophylaxis%20in%20patients%20with%20severe%20aplastic%20anemia%20given%20allogeneic%20bone%20marrow%20transplantation%20from%20an%20HLA-identical%20sibling%3A%20results%20of%20a%20GITMO%2FEBMT%20randomized%20trial.%20Blood.%202000a%3B96%3A1690%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Bruno%20B%2C%20Zecca%20M%2C%20et%20al.%20Cyclosporin%20a%20and%20short-term%20methotrexate%20versus%20cyclosporin%20a%20as%20graft%20versus%20host%20disease%20prophylaxis%20in%20patients%20with%20severe%20aplastic%20anemia%20given%20allogeneic%20bone%20marrow%20transplantation%20from%20an%20HLA-identical%20sibling%3A%20results%20of%20a%20GITMO%2FEBMT%20randomized%20trial.%20Blood.%202000a%3B96%3A1690%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 7300052,
+          "page": 657,
+          "en": "Locatelli F, Zecca M, Rondelli R, Bonetti F, Dini G, Prete A, Messina C, Uderzo C, Ripaldi M, Porta F, Giorgiani G, Giraldi E, Pession A. Graft versus host disease prophylaxis with low-dose cyclosporine-a reduces the risk of relapse in children with acute leukemia given HLA-identical sibling bone marrow transplantation: results of a randomized trial. Blood. 2000b;95:1572–9.",
+          "zh": "Locatelli F, Zecca M, Rondelli R, Bonetti F, Dini G, Prete A, Messina C, Uderzo C, Ripaldi M, Porta F, Giorgiani G, Giraldi E, Pession A. Graft versus host disease prophylaxis with low-dose cyclosporine-a reduces the risk of relapse in children with acute leukemia given HLA-identical sibling bone marrow transplantation: results of a randomized trial. Blood. 2000b;95:1572–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Zecca%20M%2C%20Rondelli%20R%2C%20Bonetti%20F%2C%20Dini%20G%2C%20Prete%20A%2C%20Messina%20C%2C%20Uderzo%20C%2C%20Ripaldi%20M%2C%20Porta%20F%2C%20Giorgiani%20G%2C%20Giraldi%20E%2C%20Pession%20A.%20Graft%20versus%20host%20disease%20prophylaxis%20with%20low-dose%20cyclosporine-a%20reduces%20the%20risk%20of%20relapse%20in%20children%20with%20acute%20leukemia%20given%20HLA-identical%20sibling%20bone%20marrow%20transplantation%3A%20results%20of%20a%20randomized%20trial.%20Blood.%202000b%3B95%3A1572%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Zecca%20M%2C%20Rondelli%20R%2C%20Bonetti%20F%2C%20Dini%20G%2C%20Prete%20A%2C%20Messina%20C%2C%20Uderzo%20C%2C%20Ripaldi%20M%2C%20Porta%20F%2C%20Giorgiani%20G%2C%20Giraldi%20E%2C%20Pession%20A.%20Graft%20versus%20host%20disease%20prophylaxis%20with%20low-dose%20cyclosporine-a%20reduces%20the%20risk%20of%20relapse%20in%20children%20with%20acute%20leukemia%20given%20HLA-identical%20sibling%20bone%20marrow%20transplantation%3A%20results%20of%20a%20randomized%20trial.%20Blood.%202000b%3B95%3A1572%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7300053,
+          "page": 657,
+          "en": "Locatelli F, Merli P, Pagliara D, et al. Outcome of children with acute leukemia given HLA-haploidentical HSCT after alphabeta T-cell and B-cell depletion. Blood. 2017;130:677–85.",
+          "zh": "Locatelli F, Merli P, Pagliara D, et al. Outcome of children with acute leukemia given HLA-haploidentical HSCT after alphabeta T-cell and B-cell depletion. Blood. 2017;130:677–85.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Merli%20P%2C%20Pagliara%20D%2C%20et%20al.%20Outcome%20of%20children%20with%20acute%20leukemia%20given%20HLA-haploidentical%20HSCT%20after%20alphabeta%20T-cell%20and%20B-cell%20depletion.%20Blood.%202017%3B130%3A677%E2%80%9385."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Merli%20P%2C%20Pagliara%20D%2C%20et%20al.%20Outcome%20of%20children%20with%20acute%20leukemia%20given%20HLA-haploidentical%20HSCT%20after%20alphabeta%20T-cell%20and%20B-cell%20depletion.%20Blood.%202017%3B130%3A677%E2%80%9385."
+            }
+          ]
+        },
+        {
+          "id": 7300054,
+          "page": 657,
+          "en": "Locatelli F, Zugmaier G, von Stackelberg A. Blinatumomab vs chemotherapy among children with relapsed acute lymphoblastic leukemia-reply. JAMA. 2021;326:359–60.",
+          "zh": "Locatelli F, Zugmaier G, von Stackelberg A. Blinatumomab vs chemotherapy among children with relapsed acute lymphoblastic leukemia-reply. JAMA. 2021;326:359–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Zugmaier%20G%2C%20von%20Stackelberg%20A.%20Blinatumomab%20vs%20chemotherapy%20among%20children%20with%20relapsed%20acute%20lymphoblastic%20leukemia-reply.%20JAMA.%202021%3B326%3A359%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Zugmaier%20G%2C%20von%20Stackelberg%20A.%20Blinatumomab%20vs%20chemotherapy%20among%20children%20with%20relapsed%20acute%20lymphoblastic%20leukemia-reply.%20JAMA.%202021%3B326%3A359%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 7300055,
+          "page": 657,
+          "en": "Locatelli F, Bader P, Dalle J-H, Poetschger U, Pichler H, Sedlacek P, Büchner J, Shaw PJ, Ifversen M, Staciuk R, Vettenranta K, Balduzzi A, Peters C. Long-term data confirm the superiority of Total body irradiation-containing conditioning regimen in comparison to a chemotherapy-based preparation in children with acute lymphoblastic leukemia above the age of 4 years given an Unmanipulated allograft. Results of the Forum randomized clinical trial. Blood. 2022;140:4865–7.",
+          "zh": "Locatelli F, Bader P, Dalle J-H, Poetschger U, Pichler H, Sedlacek P, Büchner J, Shaw PJ, Ifversen M, Staciuk R, Vettenranta K, Balduzzi A, Peters C. Long-term data confirm the superiority of Total body irradiation-containing conditioning regimen in comparison to a chemotherapy-based preparation in children with acute lymphoblastic leukemia above the age of 4 years given an Unmanipulated allograft. Results of the Forum randomized clinical trial. Blood. 2022;140:4865–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Bader%20P%2C%20Dalle%20J-H%2C%20Poetschger%20U%2C%20Pichler%20H%2C%20Sedlacek%20P%2C%20B%C3%BCchner%20J%2C%20Shaw%20PJ%2C%20Ifversen%20M%2C%20Staciuk%20R%2C%20Vettenranta%20K%2C%20Balduzzi%20A%2C%20Peters%20C.%20Long-term%20data%20confirm%20the%20superiority%20of%20Total%20body%20irradiation-containing%20conditioning%20regimen%20in%20comparison%20to%20a%20chemotherapy-based%20preparation%20in%20children%20with%20acute%20lymphoblastic%20leukemia%20above%20the%20age%20of%204%20years%20given%20an%20Unmanipulated%20allograft.%20Results%20of%20the%20Forum%20randomized%20clinical%20trial.%20Blood.%202022%3B140%3A4865%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Bader%20P%2C%20Dalle%20J-H%2C%20Poetschger%20U%2C%20Pichler%20H%2C%20Sedlacek%20P%2C%20B%C3%BCchner%20J%2C%20Shaw%20PJ%2C%20Ifversen%20M%2C%20Staciuk%20R%2C%20Vettenranta%20K%2C%20Balduzzi%20A%2C%20Peters%20C.%20Long-term%20data%20confirm%20the%20superiority%20of%20Total%20body%20irradiation-containing%20conditioning%20regimen%20in%20comparison%20to%20a%20chemotherapy-based%20preparation%20in%20children%20with%20acute%20lymphoblastic%20leukemia%20above%20the%20age%20of%204%20years%20given%20an%20Unmanipulated%20allograft.%20Results%20of%20the%20Forum%20randomized%20clinical%20trial.%20Blood.%202022%3B140%3A4865%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 7300056,
+          "page": 657,
+          "en": "Maude SL, Laetsch TW, Buechner J, Rives S, Boyer M, Bittencourt H, Bader P, Verneris MR, Stefanski HE, Myers GD, Qayed M, De Moerloose B, Hiramatsu H, Schlis K, Davis KL, Martin PL, Nemecek ER, Yanik GA, Peters C, Baruchel A, Boissel N, Mechinaud F, Balduzzi A, Krueger J, June CH, Levine BL, Wood P, Taran T, Leung M, Mueller KT, Zhang Y, Sen K, Lebwohl D, Pulsipher MA, Grupp SA. Tisagenlecleucel in children and young adults with B-cell lymphoblastic leukemia. N Engl J Med. 2018a;378:439–48.",
+          "zh": "Maude SL, Laetsch TW, Buechner J, Rives S, Boyer M, Bittencourt H, Bader P, Verneris MR, Stefanski HE, Myers GD, Qayed M, De Moerloose B, Hiramatsu H, Schlis K, Davis KL, Martin PL, Nemecek ER, Yanik GA, Peters C, Baruchel A, Boissel N, Mechinaud F, Balduzzi A, Krueger J, June CH, Levine BL, Wood P, Taran T, Leung M, Mueller KT, Zhang Y, Sen K, Lebwohl D, Pulsipher MA, Grupp SA. Tisagenlecleucel in children and young adults with B-cell lymphoblastic leukemia. N Engl J Med. 2018a;378:439–48.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maude%20SL%2C%20Laetsch%20TW%2C%20Buechner%20J%2C%20Rives%20S%2C%20Boyer%20M%2C%20Bittencourt%20H%2C%20Bader%20P%2C%20Verneris%20MR%2C%20Stefanski%20HE%2C%20Myers%20GD%2C%20Qayed%20M%2C%20De%20Moerloose%20B%2C%20Hiramatsu%20H%2C%20Schlis%20K%2C%20Davis%20KL%2C%20Martin%20PL%2C%20Nemecek%20ER%2C%20Yanik%20GA%2C%20Peters%20C%2C%20Baruchel%20A%2C%20Boissel%20N%2C%20Mechinaud%20F%2C%20Balduzzi%20A%2C%20Krueger%20J%2C%20June%20CH%2C%20Levine%20BL%2C%20Wood%20P%2C%20Taran%20T%2C%20Leung%20M%2C%20Mueller%20KT%2C%20Zhang%20Y%2C%20Sen%20K%2C%20Lebwohl%20D%2C%20Pulsipher%20MA%2C%20Grupp%20SA.%20Tisagenlecleucel%20in%20children%20and%20young%20adults%20with%20B-cell%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202018a%3B378%3A439%E2%80%9348."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maude%20SL%2C%20Laetsch%20TW%2C%20Buechner%20J%2C%20Rives%20S%2C%20Boyer%20M%2C%20Bittencourt%20H%2C%20Bader%20P%2C%20Verneris%20MR%2C%20Stefanski%20HE%2C%20Myers%20GD%2C%20Qayed%20M%2C%20De%20Moerloose%20B%2C%20Hiramatsu%20H%2C%20Schlis%20K%2C%20Davis%20KL%2C%20Martin%20PL%2C%20Nemecek%20ER%2C%20Yanik%20GA%2C%20Peters%20C%2C%20Baruchel%20A%2C%20Boissel%20N%2C%20Mechinaud%20F%2C%20Balduzzi%20A%2C%20Krueger%20J%2C%20June%20CH%2C%20Levine%20BL%2C%20Wood%20P%2C%20Taran%20T%2C%20Leung%20M%2C%20Mueller%20KT%2C%20Zhang%20Y%2C%20Sen%20K%2C%20Lebwohl%20D%2C%20Pulsipher%20MA%2C%20Grupp%20SA.%20Tisagenlecleucel%20in%20children%20and%20young%20adults%20with%20B-cell%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202018a%3B378%3A439%E2%80%9348."
+            }
+          ]
+        },
+        {
+          "id": 7300057,
+          "page": 657,
+          "en": "Maude SL, Laetsch TW, Buechner J, et al. Tisagenlecleucel in children and young adults with b-cell lymphoblastic leukemia. N Engl J Med. 2018b;378:439–48.",
+          "zh": "Maude SL, Laetsch TW, Buechner J, et al. Tisagenlecleucel in children and young adults with b-cell lymphoblastic leukemia. N Engl J Med. 2018b;378:439–48.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maude%20SL%2C%20Laetsch%20TW%2C%20Buechner%20J%2C%20et%20al.%20Tisagenlecleucel%20in%20children%20and%20young%20adults%20with%20b-cell%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202018b%3B378%3A439%E2%80%9348."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maude%20SL%2C%20Laetsch%20TW%2C%20Buechner%20J%2C%20et%20al.%20Tisagenlecleucel%20in%20children%20and%20young%20adults%20with%20b-cell%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202018b%3B378%3A439%E2%80%9348."
+            }
+          ]
+        },
+        {
+          "id": 7300058,
+          "page": 657,
+          "endPage": 658,
+          "en": "Merli P, Pagliara D, Galaverna F, Li Pira G, Andreani M, Leone G, Amodio D, Pinto RM, Bertaina A, Bertaina V, Mastronuzzi A, Strocchio L, Boccieri E, Pende D, Falco M, Di Nardo M, Del Bufalo F, Algeri M, Locatelli F. TCRαβ/CD19 depleted HSCT from an HLA-haploidentical relative to treat children with different nonmalignant disorders. Blood Adv. 2022;6:281–92.",
+          "zh": "Merli P, Pagliara D, Galaverna F, Li Pira G, Andreani M, Leone G, Amodio D, Pinto RM, Bertaina A, Bertaina V, Mastronuzzi A, Strocchio L, Boccieri E, Pende D, Falco M, Di Nardo M, Del Bufalo F, Algeri M, Locatelli F. TCRαβ/CD19 depleted HSCT from an HLA-haploidentical relative to treat children with different nonmalignant disorders. Blood Adv. 2022;6:281–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Merli%20P%2C%20Pagliara%20D%2C%20Galaverna%20F%2C%20Li%20Pira%20G%2C%20Andreani%20M%2C%20Leone%20G%2C%20Amodio%20D%2C%20Pinto%20RM%2C%20Bertaina%20A%2C%20Bertaina%20V%2C%20Mastronuzzi%20A%2C%20Strocchio%20L%2C%20Boccieri%20E%2C%20Pende%20D%2C%20Falco%20M%2C%20Di%20Nardo%20M%2C%20Del%20Bufalo%20F%2C%20Algeri%20M%2C%20Locatelli%20F.%20TCR%CE%B1%CE%B2%2FCD19%20depleted%20HSCT%20from%20an%20HLA-haploidentical%20relative%20to%20treat%20children%20with%20different%20nonmalignant%20disorders.%20Blood%20Adv.%202022%3B6%3A281%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Merli%20P%2C%20Pagliara%20D%2C%20Galaverna%20F%2C%20Li%20Pira%20G%2C%20Andreani%20M%2C%20Leone%20G%2C%20Amodio%20D%2C%20Pinto%20RM%2C%20Bertaina%20A%2C%20Bertaina%20V%2C%20Mastronuzzi%20A%2C%20Strocchio%20L%2C%20Boccieri%20E%2C%20Pende%20D%2C%20Falco%20M%2C%20Di%20Nardo%20M%2C%20Del%20Bufalo%20F%2C%20Algeri%20M%2C%20Locatelli%20F.%20TCR%CE%B1%CE%B2%2FCD19%20depleted%20HSCT%20from%20an%20HLA-haploidentical%20relative%20to%20treat%20children%20with%20different%20nonmalignant%20disorders.%20Blood%20Adv.%202022%3B6%3A281%E2%80%9392."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 658,
+      "blocks": [
+        {
+          "id": 7300059,
+          "page": 658,
+          "en": "Moorman AV. New and emerging prognostic and predictive genetic biomarkers in B-cell precursor acute lymphoblastic leukemia. Haematologica. 2016;101:407–16.",
+          "zh": "Moorman AV. New and emerging prognostic and predictive genetic biomarkers in B-cell precursor acute lymphoblastic leukemia. Haematologica. 2016;101:407–16.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Moorman%20AV.%20New%20and%20emerging%20prognostic%20and%20predictive%20genetic%20biomarkers%20in%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia.%20Haematologica.%202016%3B101%3A407%E2%80%9316."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Moorman%20AV.%20New%20and%20emerging%20prognostic%20and%20predictive%20genetic%20biomarkers%20in%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia.%20Haematologica.%202016%3B101%3A407%E2%80%9316."
+            }
+          ]
+        },
+        {
+          "id": 7300060,
+          "page": 658,
+          "en": "O'Connor D, Enshaei A, Bartram J, et al. Genotype-specific minimal residual disease interpretation improves stratification in pediatric acute lymphoblastic leukemia. J Clin Oncol. 2018;36:34–43.",
+          "zh": "O'Connor D, Enshaei A, Bartram J, et al. Genotype-specific minimal residual disease interpretation improves stratification in pediatric acute lymphoblastic leukemia. J Clin Oncol. 2018;36:34–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=O%27Connor%20D%2C%20Enshaei%20A%2C%20Bartram%20J%2C%20et%20al.%20Genotype-specific%20minimal%20residual%20disease%20interpretation%20improves%20stratification%20in%20pediatric%20acute%20lymphoblastic%20leukemia.%20J%20Clin%20Oncol.%202018%3B36%3A34%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=O%27Connor%20D%2C%20Enshaei%20A%2C%20Bartram%20J%2C%20et%20al.%20Genotype-specific%20minimal%20residual%20disease%20interpretation%20improves%20stratification%20in%20pediatric%20acute%20lymphoblastic%20leukemia.%20J%20Clin%20Oncol.%202018%3B36%3A34%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 7300061,
+          "page": 658,
+          "en": "Peters C, Cornish JM, Parikh SH, Kurtzberg J. Stem cell source and outcome after hematopoietic stem cell transplantation (HSCT) in children and adolescents with acute leukemia. Pediatr Clin N Am. 2010;57:27–46.",
+          "zh": "Peters C, Cornish JM, Parikh SH, Kurtzberg J. Stem cell source and outcome after hematopoietic stem cell transplantation (HSCT) in children and adolescents with acute leukemia. Pediatr Clin N Am. 2010;57:27–46.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Peters%20C%2C%20Cornish%20JM%2C%20Parikh%20SH%2C%20Kurtzberg%20J.%20Stem%20cell%20source%20and%20outcome%20after%20hematopoietic%20stem%20cell%20transplantation%20(HSCT)%20in%20children%20and%20adolescents%20with%20acute%20leukemia.%20Pediatr%20Clin%20N%20Am.%202010%3B57%3A27%E2%80%9346."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Peters%20C%2C%20Cornish%20JM%2C%20Parikh%20SH%2C%20Kurtzberg%20J.%20Stem%20cell%20source%20and%20outcome%20after%20hematopoietic%20stem%20cell%20transplantation%20(HSCT)%20in%20children%20and%20adolescents%20with%20acute%20leukemia.%20Pediatr%20Clin%20N%20Am.%202010%3B57%3A27%E2%80%9346."
+            }
+          ]
+        },
+        {
+          "id": 7300062,
+          "page": 658,
+          "en": "Peters C, Schrappe M, von Stackelberg A, Schrauder A, Bader P, Ebell W, Lang P, Sykora KW, Schrum J, Kremens B, Ehlert K, Albert MH, Meisel R, Matthes-Martin S, Gungor T, Holter W, Strahm B, Gruhn B, Schulz A, Woessmann W, Poetschger U, Zimmermann M, Klingebiel T. Stem-cell transplantation in children with acute lymphoblastic leukemia: a prospective international multicenter trial comparing sibling donors with matched unrelated donors-the ALL-SCT-BFM-2003 trial. J Clin Oncol. 2015a;33:1265–74.",
+          "zh": "Peters C, Schrappe M, von Stackelberg A, Schrauder A, Bader P, Ebell W, Lang P, Sykora KW, Schrum J, Kremens B, Ehlert K, Albert MH, Meisel R, Matthes-Martin S, Gungor T, Holter W, Strahm B, Gruhn B, Schulz A, Woessmann W, Poetschger U, Zimmermann M, Klingebiel T. Stem-cell transplantation in children with acute lymphoblastic leukemia: a prospective international multicenter trial comparing sibling donors with matched unrelated donors-the ALL-SCT-BFM-2003 trial. J Clin Oncol. 2015a;33:1265–74.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Peters%20C%2C%20Schrappe%20M%2C%20von%20Stackelberg%20A%2C%20Schrauder%20A%2C%20Bader%20P%2C%20Ebell%20W%2C%20Lang%20P%2C%20Sykora%20KW%2C%20Schrum%20J%2C%20Kremens%20B%2C%20Ehlert%20K%2C%20Albert%20MH%2C%20Meisel%20R%2C%20Matthes-Martin%20S%2C%20Gungor%20T%2C%20Holter%20W%2C%20Strahm%20B%2C%20Gruhn%20B%2C%20Schulz%20A%2C%20Woessmann%20W%2C%20Poetschger%20U%2C%20Zimmermann%20M%2C%20Klingebiel%20T.%20Stem-cell%20transplantation%20in%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20prospective%20international%20multicenter%20trial%20comparing%20sibling%20donors%20with%20matched%20unrelated%20donors-the%20ALL-SCT-BFM-2003%20trial.%20J%20Clin%20Oncol.%202015a%3B33%3A1265%E2%80%9374."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Peters%20C%2C%20Schrappe%20M%2C%20von%20Stackelberg%20A%2C%20Schrauder%20A%2C%20Bader%20P%2C%20Ebell%20W%2C%20Lang%20P%2C%20Sykora%20KW%2C%20Schrum%20J%2C%20Kremens%20B%2C%20Ehlert%20K%2C%20Albert%20MH%2C%20Meisel%20R%2C%20Matthes-Martin%20S%2C%20Gungor%20T%2C%20Holter%20W%2C%20Strahm%20B%2C%20Gruhn%20B%2C%20Schulz%20A%2C%20Woessmann%20W%2C%20Poetschger%20U%2C%20Zimmermann%20M%2C%20Klingebiel%20T.%20Stem-cell%20transplantation%20in%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20prospective%20international%20multicenter%20trial%20comparing%20sibling%20donors%20with%20matched%20unrelated%20donors-the%20ALL-SCT-BFM-2003%20trial.%20J%20Clin%20Oncol.%202015a%3B33%3A1265%E2%80%9374."
+            }
+          ]
+        },
+        {
+          "id": 7300063,
+          "page": 658,
+          "en": "Peters C, Schrappe M, von Stackelberg A, et al. Stem-cell transplantation in children with acute lymphoblastic leukemia: a prospective international multicenter trial comparing sibling donors with matched unrelated donors-the ALL-SCT-BFM-2003 trial. J Clin Oncol. 2015b;33:1265–74.",
+          "zh": "Peters C, Schrappe M, von Stackelberg A, et al. Stem-cell transplantation in children with acute lymphoblastic leukemia: a prospective international multicenter trial comparing sibling donors with matched unrelated donors-the ALL-SCT-BFM-2003 trial. J Clin Oncol. 2015b;33:1265–74.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Peters%20C%2C%20Schrappe%20M%2C%20von%20Stackelberg%20A%2C%20et%20al.%20Stem-cell%20transplantation%20in%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20prospective%20international%20multicenter%20trial%20comparing%20sibling%20donors%20with%20matched%20unrelated%20donors-the%20ALL-SCT-BFM-2003%20trial.%20J%20Clin%20Oncol.%202015b%3B33%3A1265%E2%80%9374."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Peters%20C%2C%20Schrappe%20M%2C%20von%20Stackelberg%20A%2C%20et%20al.%20Stem-cell%20transplantation%20in%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20prospective%20international%20multicenter%20trial%20comparing%20sibling%20donors%20with%20matched%20unrelated%20donors-the%20ALL-SCT-BFM-2003%20trial.%20J%20Clin%20Oncol.%202015b%3B33%3A1265%E2%80%9374."
+            }
+          ]
+        },
+        {
+          "id": 7300064,
+          "page": 658,
+          "en": "Peters C, Dalle JH, Locatelli F, Poetschger U, Sedlacek P, Buechner J, Shaw PJ, Staciuk R, Ifversen M, Pichler H, Vettenranta K, Svec P, Aleinikova O, Stein J, Gungor T, Toporski J, Truong TH, Diaz-de-Heredia C, Bierings M, Ariffin H, Essa M, Burkhardt B, Schultz K, Meisel R, Lankester A, Ansari M, Schrappe M, Group, I.S, von Stackelberg A, IntRe, A.L.L.S.G, Balduzzi A, Group, I.B.S.S, Corbacioglu S, Party, E.P.D.W, Bader P. Total body irradiation or chemotherapy conditioning in childhood ALL: a multinational, randomized, noninferiority phase III study. J Clin Oncol. 2021;39:295–307.",
+          "zh": "Peters C, Dalle JH, Locatelli F, Poetschger U, Sedlacek P, Buechner J, Shaw PJ, Staciuk R, Ifversen M, Pichler H, Vettenranta K, Svec P, Aleinikova O, Stein J, Gungor T, Toporski J, Truong TH, Diaz-de-Heredia C, Bierings M, Ariffin H, Essa M, Burkhardt B, Schultz K, Meisel R, Lankester A, Ansari M, Schrappe M, Group, I.S, von Stackelberg A, IntRe, A.L.L.S.G, Balduzzi A, Group, I.B.S.S, Corbacioglu S, Party, E.P.D.W, Bader P. Total body irradiation or chemotherapy conditioning in childhood ALL: a multinational, randomized, noninferiority phase III study. J Clin Oncol. 2021;39:295–307.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Peters%20C%2C%20Dalle%20JH%2C%20Locatelli%20F%2C%20Poetschger%20U%2C%20Sedlacek%20P%2C%20Buechner%20J%2C%20Shaw%20PJ%2C%20Staciuk%20R%2C%20Ifversen%20M%2C%20Pichler%20H%2C%20Vettenranta%20K%2C%20Svec%20P%2C%20Aleinikova%20O%2C%20Stein%20J%2C%20Gungor%20T%2C%20Toporski%20J%2C%20Truong%20TH%2C%20Diaz-de-Heredia%20C%2C%20Bierings%20M%2C%20Ariffin%20H%2C%20Essa%20M%2C%20Burkhardt%20B%2C%20Schultz%20K%2C%20Meisel%20R%2C%20Lankester%20A%2C%20Ansari%20M%2C%20Schrappe%20M%2C%20Group%2C%20I.S%2C%20von%20Stackelberg%20A%2C%20IntRe%2C%20A.L.L.S.G%2C%20Balduzzi%20A%2C%20Group%2C%20I.B.S.S%2C%20Corbacioglu%20S%2C%20Party%2C%20E.P.D.W%2C%20Bader%20P.%20Total%20body%20irradiation%20or%20chemotherapy%20conditioning%20in%20childhood%20ALL%3A%20a%20multinational%2C%20randomized%2C%20noninferiority%20phase%20III%20study.%20J%20Clin%20Oncol.%202021%3B39%3A295%E2%80%93307."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Peters%20C%2C%20Dalle%20JH%2C%20Locatelli%20F%2C%20Poetschger%20U%2C%20Sedlacek%20P%2C%20Buechner%20J%2C%20Shaw%20PJ%2C%20Staciuk%20R%2C%20Ifversen%20M%2C%20Pichler%20H%2C%20Vettenranta%20K%2C%20Svec%20P%2C%20Aleinikova%20O%2C%20Stein%20J%2C%20Gungor%20T%2C%20Toporski%20J%2C%20Truong%20TH%2C%20Diaz-de-Heredia%20C%2C%20Bierings%20M%2C%20Ariffin%20H%2C%20Essa%20M%2C%20Burkhardt%20B%2C%20Schultz%20K%2C%20Meisel%20R%2C%20Lankester%20A%2C%20Ansari%20M%2C%20Schrappe%20M%2C%20Group%2C%20I.S%2C%20von%20Stackelberg%20A%2C%20IntRe%2C%20A.L.L.S.G%2C%20Balduzzi%20A%2C%20Group%2C%20I.B.S.S%2C%20Corbacioglu%20S%2C%20Party%2C%20E.P.D.W%2C%20Bader%20P.%20Total%20body%20irradiation%20or%20chemotherapy%20conditioning%20in%20childhood%20ALL%3A%20a%20multinational%2C%20randomized%2C%20noninferiority%20phase%20III%20study.%20J%20Clin%20Oncol.%202021%3B39%3A295%E2%80%93307."
+            }
+          ]
+        },
+        {
+          "id": 7300065,
+          "page": 658,
+          "en": "Peters C, Poetschger U, Dalle J-H, Yesilipek A, Stein J, Pichler H, Balduzzi A, Locatelli F, Sedlacek P, Wachowiak J, Güngör T, Ifversen M, Renard M, Truong TH, Staciuk R, Shaw PJ, Kriván G, Büchner J, Bader P. Relapse is the Most common treatment failure post HSCT in children with ALL below 4 years of age given a chemo-based conditioning regimen. Results from the prospective multinational Forum-trial. Blood. 2022;140:897–9.",
+          "zh": "Peters C, Poetschger U, Dalle J-H, Yesilipek A, Stein J, Pichler H, Balduzzi A, Locatelli F, Sedlacek P, Wachowiak J, Güngör T, Ifversen M, Renard M, Truong TH, Staciuk R, Shaw PJ, Kriván G, Büchner J, Bader P. Relapse is the Most common treatment failure post HSCT in children with ALL below 4 years of age given a chemo-based conditioning regimen. Results from the prospective multinational Forum-trial. Blood. 2022;140:897–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Peters%20C%2C%20Poetschger%20U%2C%20Dalle%20J-H%2C%20Yesilipek%20A%2C%20Stein%20J%2C%20Pichler%20H%2C%20Balduzzi%20A%2C%20Locatelli%20F%2C%20Sedlacek%20P%2C%20Wachowiak%20J%2C%20G%C3%BCng%C3%B6r%20T%2C%20Ifversen%20M%2C%20Renard%20M%2C%20Truong%20TH%2C%20Staciuk%20R%2C%20Shaw%20PJ%2C%20Kriv%C3%A1n%20G%2C%20B%C3%BCchner%20J%2C%20Bader%20P.%20Relapse%20is%20the%20Most%20common%20treatment%20failure%20post%20HSCT%20in%20children%20with%20ALL%20below%204%20years%20of%20age%20given%20a%20chemo-based%20conditioning%20regimen.%20Results%20from%20the%20prospective%20multinational%20Forum-trial.%20Blood.%202022%3B140%3A897%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Peters%20C%2C%20Poetschger%20U%2C%20Dalle%20J-H%2C%20Yesilipek%20A%2C%20Stein%20J%2C%20Pichler%20H%2C%20Balduzzi%20A%2C%20Locatelli%20F%2C%20Sedlacek%20P%2C%20Wachowiak%20J%2C%20G%C3%BCng%C3%B6r%20T%2C%20Ifversen%20M%2C%20Renard%20M%2C%20Truong%20TH%2C%20Staciuk%20R%2C%20Shaw%20PJ%2C%20Kriv%C3%A1n%20G%2C%20B%C3%BCchner%20J%2C%20Bader%20P.%20Relapse%20is%20the%20Most%20common%20treatment%20failure%20post%20HSCT%20in%20children%20with%20ALL%20below%204%20years%20of%20age%20given%20a%20chemo-based%20conditioning%20regimen.%20Results%20from%20the%20prospective%20multinational%20Forum-trial.%20Blood.%202022%3B140%3A897%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7300066,
+          "page": 658,
+          "en": "Pieters R, De Lorenzo P, Ancliffe P, Aversa LA, Brethon B, Biondi A, Campbell M, Escherich G, Ferster A, Gardner RA, Kotecha RS, Lausen B, Li CK, Locatelli F, Attarbaschi A, Peters C, Rubnitz JE, Silverman LB, Stary J, Szczepanski T, Vora A, Schrappe M, Valsecchi MG. Outcome of infants younger than 1 year with acute lymphoblastic leukemia treated with the Interfant-06 protocol: results from an international phase III randomized study. J Clin Oncol. 2019;37:2246–56.",
+          "zh": "Pieters R, De Lorenzo P, Ancliffe P, Aversa LA, Brethon B, Biondi A, Campbell M, Escherich G, Ferster A, Gardner RA, Kotecha RS, Lausen B, Li CK, Locatelli F, Attarbaschi A, Peters C, Rubnitz JE, Silverman LB, Stary J, Szczepanski T, Vora A, Schrappe M, Valsecchi MG. Outcome of infants younger than 1 year with acute lymphoblastic leukemia treated with the Interfant-06 protocol: results from an international phase III randomized study. J Clin Oncol. 2019;37:2246–56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pieters%20R%2C%20De%20Lorenzo%20P%2C%20Ancliffe%20P%2C%20Aversa%20LA%2C%20Brethon%20B%2C%20Biondi%20A%2C%20Campbell%20M%2C%20Escherich%20G%2C%20Ferster%20A%2C%20Gardner%20RA%2C%20Kotecha%20RS%2C%20Lausen%20B%2C%20Li%20CK%2C%20Locatelli%20F%2C%20Attarbaschi%20A%2C%20Peters%20C%2C%20Rubnitz%20JE%2C%20Silverman%20LB%2C%20Stary%20J%2C%20Szczepanski%20T%2C%20Vora%20A%2C%20Schrappe%20M%2C%20Valsecchi%20MG.%20Outcome%20of%20infants%20younger%20than%201%20year%20with%20acute%20lymphoblastic%20leukemia%20treated%20with%20the%20Interfant-06%20protocol%3A%20results%20from%20an%20international%20phase%20III%20randomized%20study.%20J%20Clin%20Oncol.%202019%3B37%3A2246%E2%80%9356."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pieters%20R%2C%20De%20Lorenzo%20P%2C%20Ancliffe%20P%2C%20Aversa%20LA%2C%20Brethon%20B%2C%20Biondi%20A%2C%20Campbell%20M%2C%20Escherich%20G%2C%20Ferster%20A%2C%20Gardner%20RA%2C%20Kotecha%20RS%2C%20Lausen%20B%2C%20Li%20CK%2C%20Locatelli%20F%2C%20Attarbaschi%20A%2C%20Peters%20C%2C%20Rubnitz%20JE%2C%20Silverman%20LB%2C%20Stary%20J%2C%20Szczepanski%20T%2C%20Vora%20A%2C%20Schrappe%20M%2C%20Valsecchi%20MG.%20Outcome%20of%20infants%20younger%20than%201%20year%20with%20acute%20lymphoblastic%20leukemia%20treated%20with%20the%20Interfant-06%20protocol%3A%20results%20from%20an%20international%20phase%20III%20randomized%20study.%20J%20Clin%20Oncol.%202019%3B37%3A2246%E2%80%9356."
+            }
+          ]
+        },
+        {
+          "id": 7300067,
+          "page": 658,
+          "en": "Rocha V, Arcuri LJ, Seber A, Colturato V, Zecchin VG, Kuwahara C, Nichele S, Gouveia R, Fernandes JF, Macedo AV, Tavares R, Daudt L, De Souza MP, Darrigo-Jr LG, Villela NC, Mariano LCB, Ginani VC, Zanette A, Loth G, Gomes AA, Hamerschlak N, Flowers ME, Bonfim C, Paediatric Working, G. & the Brazil-Seattle Consortium Study Group of the Brazilian Bone Marrow Transplantation, S. Impact of mother donor, peripheral blood stem cells and measurable residual disease on outcomes after haploidentical hematopoietic cell transplantation with post-transplant cyclophosphamide in children with acute leukaemia. Bone Marrow Transplant. 2021;56:3042–8.",
+          "zh": "Rocha V, Arcuri LJ, Seber A, Colturato V, Zecchin VG, Kuwahara C, Nichele S, Gouveia R, Fernandes JF, Macedo AV, Tavares R, Daudt L, De Souza MP, Darrigo-Jr LG, Villela NC, Mariano LCB, Ginani VC, Zanette A, Loth G, Gomes AA, Hamerschlak N, Flowers ME, Bonfim C, Paediatric Working, G. & the Brazil-Seattle Consortium Study Group of the Brazilian Bone Marrow Transplantation, S. Impact of mother donor, peripheral blood stem cells and measurable residual disease on outcomes after haploidentical hematopoietic cell transplantation with post-transplant cyclophosphamide in children with acute leukaemia. Bone Marrow Transplant. 2021;56:3042–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rocha%20V%2C%20Arcuri%20LJ%2C%20Seber%20A%2C%20Colturato%20V%2C%20Zecchin%20VG%2C%20Kuwahara%20C%2C%20Nichele%20S%2C%20Gouveia%20R%2C%20Fernandes%20JF%2C%20Macedo%20AV%2C%20Tavares%20R%2C%20Daudt%20L%2C%20De%20Souza%20MP%2C%20Darrigo-Jr%20LG%2C%20Villela%20NC%2C%20Mariano%20LCB%2C%20Ginani%20VC%2C%20Zanette%20A%2C%20Loth%20G%2C%20Gomes%20AA%2C%20Hamerschlak%20N%2C%20Flowers%20ME%2C%20Bonfim%20C%2C%20Paediatric%20Working%2C%20G.%20%26%20the%20Brazil-Seattle%20Consortium%20Study%20Group%20of%20the%20Brazilian%20Bone%20Marrow%20Transplantation%2C%20S.%20Impact%20of%20mother%20donor%2C%20peripheral%20blood%20stem%20cells%20and%20measurable%20residual%20disease%20on%20outcomes%20after%20haploidentical%20hematopoietic%20cell%20transplantation%20with%20post-transplant%20cyclophosphamide%20in%20children%20with%20acute%20leukaemia.%20Bone%20Marrow%20Transplant.%202021%3B56%3A3042%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rocha%20V%2C%20Arcuri%20LJ%2C%20Seber%20A%2C%20Colturato%20V%2C%20Zecchin%20VG%2C%20Kuwahara%20C%2C%20Nichele%20S%2C%20Gouveia%20R%2C%20Fernandes%20JF%2C%20Macedo%20AV%2C%20Tavares%20R%2C%20Daudt%20L%2C%20De%20Souza%20MP%2C%20Darrigo-Jr%20LG%2C%20Villela%20NC%2C%20Mariano%20LCB%2C%20Ginani%20VC%2C%20Zanette%20A%2C%20Loth%20G%2C%20Gomes%20AA%2C%20Hamerschlak%20N%2C%20Flowers%20ME%2C%20Bonfim%20C%2C%20Paediatric%20Working%2C%20G.%20%26%20the%20Brazil-Seattle%20Consortium%20Study%20Group%20of%20the%20Brazilian%20Bone%20Marrow%20Transplantation%2C%20S.%20Impact%20of%20mother%20donor%2C%20peripheral%20blood%20stem%20cells%20and%20measurable%20residual%20disease%20on%20outcomes%20after%20haploidentical%20hematopoietic%20cell%20transplantation%20with%20post-transplant%20cyclophosphamide%20in%20children%20with%20acute%20leukaemia.%20Bone%20Marrow%20Transplant.%202021%3B56%3A3042%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 7300068,
+          "page": 658,
+          "en": "Ruggeri A, Labopin M, Sormani MP, et al. Engraftment kinetics and graft failure after single umbilical cord blood transplantation using a myeloablative conditioning regimen. Haematologica. 2014;99:1509–15.",
+          "zh": "Ruggeri A, Labopin M, Sormani MP, et al. Engraftment kinetics and graft failure after single umbilical cord blood transplantation using a myeloablative conditioning regimen. Haematologica. 2014;99:1509–15.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ruggeri%20A%2C%20Labopin%20M%2C%20Sormani%20MP%2C%20et%20al.%20Engraftment%20kinetics%20and%20graft%20failure%20after%20single%20umbilical%20cord%20blood%20transplantation%20using%20a%20myeloablative%20conditioning%20regimen.%20Haematologica.%202014%3B99%3A1509%E2%80%9315."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ruggeri%20A%2C%20Labopin%20M%2C%20Sormani%20MP%2C%20et%20al.%20Engraftment%20kinetics%20and%20graft%20failure%20after%20single%20umbilical%20cord%20blood%20transplantation%20using%20a%20myeloablative%20conditioning%20regimen.%20Haematologica.%202014%3B99%3A1509%E2%80%9315."
+            }
+          ]
+        },
+        {
+          "id": 7300069,
+          "page": 658,
+          "en": "Schrappe M, Valsecchi MG, Bartram CR, et al. Late MRD response determines relapse risk overall and in subsets of childhood T-cell ALL: results of the AIEOP-BFM-ALL 2000 study. Blood. 2011;118:2077–84.",
+          "zh": "Schrappe M, Valsecchi MG, Bartram CR, et al. Late MRD response determines relapse risk overall and in subsets of childhood T-cell ALL: results of the AIEOP-BFM-ALL 2000 study. Blood. 2011;118:2077–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schrappe%20M%2C%20Valsecchi%20MG%2C%20Bartram%20CR%2C%20et%20al.%20Late%20MRD%20response%20determines%20relapse%20risk%20overall%20and%20in%20subsets%20of%20childhood%20T-cell%20ALL%3A%20results%20of%20the%20AIEOP-BFM-ALL%202000%20study.%20Blood.%202011%3B118%3A2077%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schrappe%20M%2C%20Valsecchi%20MG%2C%20Bartram%20CR%2C%20et%20al.%20Late%20MRD%20response%20determines%20relapse%20risk%20overall%20and%20in%20subsets%20of%20childhood%20T-cell%20ALL%3A%20results%20of%20the%20AIEOP-BFM-ALL%202000%20study.%20Blood.%202011%3B118%3A2077%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 7300070,
+          "page": 658,
+          "en": "Schultz KR, Prestidge T, Camitta B. Philadelphia chromosome-positive acute lymphoblastic leukemia in children: new and emerging treatment options. Expert Rev Hematol. 2010;3:731–42.",
+          "zh": "Schultz KR, Prestidge T, Camitta B. Philadelphia chromosome-positive acute lymphoblastic leukemia in children: new and emerging treatment options. Expert Rev Hematol. 2010;3:731–42.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schultz%20KR%2C%20Prestidge%20T%2C%20Camitta%20B.%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia%20in%20children%3A%20new%20and%20emerging%20treatment%20options.%20Expert%20Rev%20Hematol.%202010%3B3%3A731%E2%80%9342."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schultz%20KR%2C%20Prestidge%20T%2C%20Camitta%20B.%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia%20in%20children%3A%20new%20and%20emerging%20treatment%20options.%20Expert%20Rev%20Hematol.%202010%3B3%3A731%E2%80%9342."
+            }
+          ]
+        },
+        {
+          "id": 7300071,
+          "page": 658,
+          "en": "Smith AR, Baker KS, Defor TE, et al. Hematopoietic cell transplantation for children with acute lymphoblastic leukemia in second complete remission: similar outcomes in recipients of unrelated marrow and umbilical cord blood versus marrow from HLA matched sibling donors. Biol Blood Marrow Transplant. 2009;15:1086–93.",
+          "zh": "Smith AR, Baker KS, Defor TE, et al. Hematopoietic cell transplantation for children with acute lymphoblastic leukemia in second complete remission: similar outcomes in recipients of unrelated marrow and umbilical cord blood versus marrow from HLA matched sibling donors. Biol Blood Marrow Transplant. 2009;15:1086–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Smith%20AR%2C%20Baker%20KS%2C%20Defor%20TE%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20for%20children%20with%20acute%20lymphoblastic%20leukemia%20in%20second%20complete%20remission%3A%20similar%20outcomes%20in%20recipients%20of%20unrelated%20marrow%20and%20umbilical%20cord%20blood%20versus%20marrow%20from%20HLA%20matched%20sibling%20donors.%20Biol%20Blood%20Marrow%20Transplant.%202009%3B15%3A1086%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Smith%20AR%2C%20Baker%20KS%2C%20Defor%20TE%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20for%20children%20with%20acute%20lymphoblastic%20leukemia%20in%20second%20complete%20remission%3A%20similar%20outcomes%20in%20recipients%20of%20unrelated%20marrow%20and%20umbilical%20cord%20blood%20versus%20marrow%20from%20HLA%20matched%20sibling%20donors.%20Biol%20Blood%20Marrow%20Transplant.%202009%3B15%3A1086%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 7300072,
+          "page": 658,
+          "en": "Truong TH, Jinca C, Mann G, Arghirescu S, Buechner J, Merli P, Whitlock JA. Allogeneic hematopoietic stem cell transplantation for children with acute lymphoblastic leukemia: shifting indications in the era of immunotherapy. Front Pediatr. 2021;9:782785.",
+          "zh": "Truong TH, Jinca C, Mann G, Arghirescu S, Buechner J, Merli P, Whitlock JA. Allogeneic hematopoietic stem cell transplantation for children with acute lymphoblastic leukemia: shifting indications in the era of immunotherapy. Front Pediatr. 2021;9:782785.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Truong%20TH%2C%20Jinca%20C%2C%20Mann%20G%2C%20Arghirescu%20S%2C%20Buechner%20J%2C%20Merli%20P%2C%20Whitlock%20JA.%20Allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20shifting%20indications%20in%20the%20era%20of%20immunotherapy.%20Front%20Pediatr.%202021%3B9%3A782785."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Truong%20TH%2C%20Jinca%20C%2C%20Mann%20G%2C%20Arghirescu%20S%2C%20Buechner%20J%2C%20Merli%20P%2C%20Whitlock%20JA.%20Allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20shifting%20indications%20in%20the%20era%20of%20immunotherapy.%20Front%20Pediatr.%202021%3B9%3A782785."
+            }
+          ]
+        },
+        {
+          "id": 7300073,
+          "page": 658,
+          "en": "Veys P, Wynn RF, Ahn KW, Samarasinghe S, He W, Bonney D, Craddock J, Cornish J, Davies SM, Dvorak CC, Duerst RE, Gross TG, Kapoor N, Kitko C, Krance RA, Leung W, Lewis VA, Steward C, Wagner JE, Carpenter PA, Eapen M. Impact of immune modulation with in vivo T-cell depletion and myleoablative total body irradiation conditioning on outcomes after unrelated donor transplantation for childhood acute lymphoblastic leukemia. Blood. 2012a;119:6155–61.",
+          "zh": "Veys P, Wynn RF, Ahn KW, Samarasinghe S, He W, Bonney D, Craddock J, Cornish J, Davies SM, Dvorak CC, Duerst RE, Gross TG, Kapoor N, Kitko C, Krance RA, Leung W, Lewis VA, Steward C, Wagner JE, Carpenter PA, Eapen M. Impact of immune modulation with in vivo T-cell depletion and myleoablative total body irradiation conditioning on outcomes after unrelated donor transplantation for childhood acute lymphoblastic leukemia. Blood. 2012a;119:6155–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Veys%20P%2C%20Wynn%20RF%2C%20Ahn%20KW%2C%20Samarasinghe%20S%2C%20He%20W%2C%20Bonney%20D%2C%20Craddock%20J%2C%20Cornish%20J%2C%20Davies%20SM%2C%20Dvorak%20CC%2C%20Duerst%20RE%2C%20Gross%20TG%2C%20Kapoor%20N%2C%20Kitko%20C%2C%20Krance%20RA%2C%20Leung%20W%2C%20Lewis%20VA%2C%20Steward%20C%2C%20Wagner%20JE%2C%20Carpenter%20PA%2C%20Eapen%20M.%20Impact%20of%20immune%20modulation%20with%20in%20vivo%20T-cell%20depletion%20and%20myleoablative%20total%20body%20irradiation%20conditioning%20on%20outcomes%20after%20unrelated%20donor%20transplantation%20for%20childhood%20acute%20lymphoblastic%20leukemia.%20Blood.%202012a%3B119%3A6155%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Veys%20P%2C%20Wynn%20RF%2C%20Ahn%20KW%2C%20Samarasinghe%20S%2C%20He%20W%2C%20Bonney%20D%2C%20Craddock%20J%2C%20Cornish%20J%2C%20Davies%20SM%2C%20Dvorak%20CC%2C%20Duerst%20RE%2C%20Gross%20TG%2C%20Kapoor%20N%2C%20Kitko%20C%2C%20Krance%20RA%2C%20Leung%20W%2C%20Lewis%20VA%2C%20Steward%20C%2C%20Wagner%20JE%2C%20Carpenter%20PA%2C%20Eapen%20M.%20Impact%20of%20immune%20modulation%20with%20in%20vivo%20T-cell%20depletion%20and%20myleoablative%20total%20body%20irradiation%20conditioning%20on%20outcomes%20after%20unrelated%20donor%20transplantation%20for%20childhood%20acute%20lymphoblastic%20leukemia.%20Blood.%202012a%3B119%3A6155%E2%80%9361."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 659,
+      "blocks": [
+        {
+          "id": 7300074,
+          "page": 659,
+          "en": "Veys P, Wynn RF, Ahn KW, et al. Impact of immune modulation with in vivo T-cell depletion and myleoablative total body irradiation conditioning on outcomes after unrelated donor transplantation for childhood acute lymphoblastic leukemia. Blood. 2012b;119:6155–61.",
+          "zh": "Veys P, Wynn RF, Ahn KW, et al. Impact of immune modulation with in vivo T-cell depletion and myleoablative total body irradiation conditioning on outcomes after unrelated donor transplantation for childhood acute lymphoblastic leukemia. Blood. 2012b;119:6155–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Veys%20P%2C%20Wynn%20RF%2C%20Ahn%20KW%2C%20et%20al.%20Impact%20of%20immune%20modulation%20with%20in%20vivo%20T-cell%20depletion%20and%20myleoablative%20total%20body%20irradiation%20conditioning%20on%20outcomes%20after%20unrelated%20donor%20transplantation%20for%20childhood%20acute%20lymphoblastic%20leukemia.%20Blood.%202012b%3B119%3A6155%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Veys%20P%2C%20Wynn%20RF%2C%20Ahn%20KW%2C%20et%20al.%20Impact%20of%20immune%20modulation%20with%20in%20vivo%20T-cell%20depletion%20and%20myleoablative%20total%20body%20irradiation%20conditioning%20on%20outcomes%20after%20unrelated%20donor%20transplantation%20for%20childhood%20acute%20lymphoblastic%20leukemia.%20Blood.%202012b%3B119%3A6155%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 7300075,
+          "page": 659,
+          "en": "Wachowiak J, Sykora KW, Cornish J, et al. Treosulfan-based preparative regimens for Allo-HSCT in childhood hematological malignancies: a retrospective study on behalf of the EBMT pediatric diseases working party. Bone Marrow Transplant. 2011;46:1510–8.",
+          "zh": "Wachowiak J, Sykora KW, Cornish J, et al. Treosulfan-based preparative regimens for Allo-HSCT in childhood hematological malignancies: a retrospective study on behalf of the EBMT pediatric diseases working party. Bone Marrow Transplant. 2011;46:1510–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wachowiak%20J%2C%20Sykora%20KW%2C%20Cornish%20J%2C%20et%20al.%20Treosulfan-based%20preparative%20regimens%20for%20Allo-HSCT%20in%20childhood%20hematological%20malignancies%3A%20a%20retrospective%20study%20on%20behalf%20of%20the%20EBMT%20pediatric%20diseases%20working%20party.%20Bone%20Marrow%20Transplant.%202011%3B46%3A1510%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wachowiak%20J%2C%20Sykora%20KW%2C%20Cornish%20J%2C%20et%20al.%20Treosulfan-based%20preparative%20regimens%20for%20Allo-HSCT%20in%20childhood%20hematological%20malignancies%3A%20a%20retrospective%20study%20on%20behalf%20of%20the%20EBMT%20pediatric%20diseases%20working%20party.%20Bone%20Marrow%20Transplant.%202011%3B46%3A1510%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 7300076,
+          "page": 659,
+          "en": "Zhang MJ, Davies SM, Camitta BM, et al. Comparison of outcomes after HLA-matched sibling and unrelated donor transplantation for children with high-risk acute lymphoblastic leukemia. Biol Blood Marrow Transplant. 2012;18:1204–10.",
+          "zh": "Zhang MJ, Davies SM, Camitta BM, et al. Comparison of outcomes after HLA-matched sibling and unrelated donor transplantation for children with high-risk acute lymphoblastic leukemia. Biol Blood Marrow Transplant. 2012;18:1204–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhang%20MJ%2C%20Davies%20SM%2C%20Camitta%20BM%2C%20et%20al.%20Comparison%20of%20outcomes%20after%20HLA-matched%20sibling%20and%20unrelated%20donor%20transplantation%20for%20children%20with%20high-risk%20acute%20lymphoblastic%20leukemia.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A1204%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhang%20MJ%2C%20Davies%20SM%2C%20Camitta%20BM%2C%20et%20al.%20Comparison%20of%20outcomes%20after%20HLA-matched%20sibling%20and%20unrelated%20donor%20transplantation%20for%20children%20with%20high-risk%20acute%20lymphoblastic%20leukemia.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A1204%E2%80%9310."
+            }
+          ]
+        },
+        {
+          "id": 7300077,
+          "page": 659,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依據 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權；只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許於任何媒介或格式中使用、分享、改作、散佈及重製。\n除非於素材來源說明中另有註明，否則本章中之圖片或其他第三方素材皆包含於本章的 Creative Commons 授權條款之內。若素材未包含於本章的 Creative Commons 授權條款中，且您的預定使用方式未獲法規允許或超出授權允許範圍，您必須直接向著作權人取得授權許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

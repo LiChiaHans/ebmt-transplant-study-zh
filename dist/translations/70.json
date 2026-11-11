@@ -1,0 +1,1828 @@
+{
+  "id": 70,
+  "title": "AML in Adults",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 120,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 611,
+      "blocks": [
+        {
+          "id": 7000001,
+          "page": 611,
+          "en": "70 AML in Adults Jurjen Versluis, Jan J. Cornelissen, Charles Craddock, Miguel Á. Sanz, and Arnon Nagler",
+          "zh": "70 成人急性骨髓性白血病（AML） — Jurjen Versluis、Jan J. Cornelissen、Charles Craddock、Miguel Á. Sanz、Arnon Nagler",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 翻譯改作，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_70"
+            }
+          ]
+        },
+        {
+          "id": 7000002,
+          "page": 611,
+          "en": "70.1 AML in CR1 Jurjen Versluis and Jan J. Cornelissen 70.1.1 Definition, Subtypes AML is a malignancy of hematopoietic immature precursors (myeloblasts) that accumulate in the BM at the expense of their normal counterparts. AML is increasingly being recognized as a heterogenous malignancy based on distinct disease biology and underlying cytogenetic and molecular profiles. Although a blast count of ≥20% in the BM or PB is still considered to diagnose AML, the 2022 World Health Organization (WHO) classification and International Consensus Classification (ICC) considered a lower threshold to allow for disease-defining genetic abnormalities and to acknowledge the biologic continuum between MDS and AML (Khoury et al. 2022; Arber et al. 2022). A less strict definition of blast cutoff in the updated WHO classification and ICC emphasizes a comprehensive assessment of morphology, cytogenetic, and molecular genetic analyses to classify MDS and/or AML.",
+          "zh": "70.1 第一完全緩解期（CR1）之急性骨髓性白血病（AML）\nJurjen Versluis 與 Jan J. Cornelissen\n\n70.1.1 定義與亞型\n急性骨髓性白血病（AML）是一種造血未成熟前驅細胞（骨髓母細胞，myeloblasts）的惡性腫瘤，這些細胞在骨髓（BM）中大量累積並排擠正常造血細胞。基於截然不同的疾病生物學特性以及潛在的細胞遺傳學與分子特徵，AML 日益被認為是一種高度異質性的惡性腫瘤。儘管骨髓（BM）或周邊血（PB）中母細胞（blast）比例 ≥20% 仍被視為診斷 AML 的標準，但 2022 年世界衛生組織（WHO）分類與國際共識分類（ICC）皆納入了較低的母細胞門檻，以涵蓋具疾病定義性的遺傳異常，並肯認骨髓化生不良症候群（MDS）與 AML 之間的生物學連續性（Khoury et al. 2022；Arber et al. 2022）。更新版 WHO 分類與 ICC 對母細胞切點採取較不僵化的定義，強調結合形態學、細胞遺傳學與分子遺傳學分析進行綜合評估，以對 MDS 及／或 AML 作出分類。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000003,
+          "page": 611,
+          "en": "The ELN recommendations have also been updated in 2022, which stratified patients into three risk groups, including favorable risk, intermediate risk, and adverse risk, based on pretreatment cytogenetic abnormalities and gene mutations (Dohner et al. 2022). The ELN 2022 further recognizes the underlying disease biology in its risk classification by adding a secondary type, MDS-associated mutations to the adverse-risk category (Dohner et al. 2022).",
+          "zh": "歐洲白血病網（ELN）建議亦於 2022 年更新，根據治療前的細胞遺傳學異常與基因突變，將患者分為三個風險群組：預後良好（favorable risk）、中度風險（intermediate risk）與預後不良（adverse risk）（Dohner et al. 2022）。2022 年版 ELN 風險分類進一步反映潛在的疾病生物學特性，將次發型（secondary-type）、MDS 相關基因突變納入預後不良（adverse-risk）類別（Dohner et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000004,
+          "page": 611,
+          "en": "70.1.2 Clinical Presentation The median age at diagnosis is approximately 70 years, and the annual age-standardized incidence rate varies between 3 and 4 cases per 100,000. Patients with AML typically present with symptoms such as fatigue, bruising, or infections, whereas lymphadenopathy and/or hepatosplenomegaly may be found by physical examination. Analysis of blood work often",
+          "zh": "70.1.2 臨床表現\n診斷時的中位年齡約為 70 歲，每年年齡標準化發生率介於每 10 萬人 3 至 4 例之間。AML 患者典型表現包括疲倦、瘀斑或感染等症狀，理學檢查則可能發現淋巴結腫大及／或肝脾腫大。血液檢查分析常",
+          "review": "ai-draft",
+          "endPage": 612
+        },
+        {
+          "id": 7000005,
+          "page": 611,
+          "en": "J. Versluis (*) · J. J. Cornelissen Department of Hematology, Erasmus Medical Center Cancer Institute, Rotterdam, The Netherlands e-mail: j.versluis.1@erasmusmc.nl; j.cornelissen@erasmusmc.nl C. Craddock Centre for Clinical Haematology, University Hospitals NHS Trust Birmingham and University of Warwick, Warwick, UK e-mail: charles.craddock@uhb.nhs.uk M. Á. Sanz Department of Hematology, University Hospital La Fe, University of Valencia, Valencia, Spain e-mail: Miguel.Sanz@uv.es A. Nagler Hematology and BMT Division, Chaim Sheba Medical Center, Tel-Hashomer, Israel e-mail: arnon.nagler@sheba.health.gov.il",
+          "zh": "作者單位：Jurjen Versluis（通訊作者）、Jan J. Cornelissen — 荷蘭鹿特丹伊拉斯姆斯醫學中心癌症研究所血液科；e-mail: j.versluis.1@erasmusmc.nl; j.cornelissen@erasmusmc.nl。Charles Craddock — 英國伯明罕大學醫院 NHS 信託及華威大學臨床血液學中心；e-mail: charles.craddock@uhb.nhs.uk。Miguel Á. Sanz — 西班牙瓦倫西亞大學拉費大學醫院血液科；e-mail: Miguel.Sanz@uv.es。Arnon Nagler — 以色列 Tel-Hashomer 希巴醫療中心（Chaim Sheba Medical Center）血液與骨髓移植科；e-mail: arnon.nagler@sheba.health.gov.il。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 612,
+      "blocks": [
+        {
+          "id": 7000006,
+          "page": 612,
+          "en": "reveals thrombocytopenia, anemia, and/or neutropenia. In some patients, a serious bleeding diathesis can occur, particularly in the early phase of treatment, because the leukemic blasts are able to activate the coagulation cascade and cause hyperfibrinolysis.",
+          "zh": "顯示血小板低下、貧血及／或嗜中性白血球低下。部分患者可能出現嚴重的出血傾向（特別是在治療初期），因為白血病母細胞能活化凝血連鎖反應並引起過度纖維蛋白溶解（hyperfibrinolysis）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000007,
+          "page": 612,
+          "en": "70.1.3 First-Line Treatment Achieving and maintaining a first CR is crucial in AML patients, but treatment may largely fail because of relapse from CR rather than primary induction failure or treatment-related mortality (TRM). The standard intensive AML induction treatment has consisted of 7–10 days of the antimetabolite cytosine arabinoside (Ara-C) and 3 days of an anthracycline (i.e., daunorubicin or idarubicin) since the 1980s. CR rates with standard induction estimate between 70 and 90%. Favorable-risk patients have relatively good outcomes with overall survival rates of approximately 60–70%, whereas outcomes for patients with intermediate-risk and particularly adverse-risk AML remain unsatisfactory.",
+          "zh": "70.1.3 第一線治療\n在 AML 患者中，達成並維持第一完全緩解（CR1）至關重要；然而治療失敗的主要原因往往是自完全緩解（CR）後復發，而非原發性誘導失敗或治療相關死亡率（TRM）。自 1980 年代以來，標準高強度 AML 誘導治療包含 7–10 天的抗代謝藥物 cytosine arabinoside（Ara-C，阿糖胞苷）加上 3 天的蔥環類藥物（anthracycline，即 daunorubicin 或 idarubicin）。標準誘導治療的 CR 率估計介於 70% 至 90% 之間。預後良好風險（favorable-risk）患者的預後相對較佳，整體存活率（OS）約為 60–70%；然而中度風險（intermediate-risk）與特別是預後不良風險（adverse-risk）AML 患者的治療結果仍不理想。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000008,
+          "page": 612,
+          "en": "Targeted therapies have been introduced in AML, of which the kinase inhibitor midostaurin added to intensive induction and consolidation chemotherapy has been approved for first-line treatment of AML patients with mutated FLT3 based on the survival benefit observed in the RATIFY trial (Stone et al. 2017). Other promising targeted therapies against FLT3 (e.g., gilteritinib and quizartinib) or IDH1/2 mutations (e.g., ivosidenib and enasidenib) are currently being investigated in first-line intensive induction treatment of which results are awaited. Alternative induction strategies might consist of gemtuzumab-ozogamicin, a humanized anti-CD33 antibody–drug conjugate or CPX-351, a liposomal formulation of cytarabine and daunorubicin, for specific subgroups of patients. CPX-351 has been shown to improve overall outcome compared with standard intensive induction chemotherapy in patients aged 60–75 years with therapy-related or secondary-type AML, including MDS-related cytogenetic abnormalities (Lancet et al. 2018).",
+          "zh": "標靶治療已引進 AML 治療領域，其中激酶抑制劑 midostaurin 併用高強度誘導及鞏固化學治療，基於 RATIFY 試驗觀察到的存活效益，已獲核准作為帶有 FLT3 突變之 AML 患者的第一線治療（Stone et al. 2017）。其他針對 FLT3（例如 gilteritinib 與 quizartinib）或 IDH1/2 突變（例如 ivosidenib 與 enasidenib）的具潛力標靶藥物，目前正於第一線高強度誘導治療中進行研究，結果尚待揭曉。針對特定患者亞群的替代誘導策略，可能包括人源化抗 CD33 抗體藥物複合體 gemtuzumab-ozogamicin，或 cytarabine 與 daunorubicin 的脂質體製劑 CPX-351。研究已證實，在 60–75 歲患有治療相關或次發型 AML（包含帶有 MDS 相關細胞遺傳學異常）的患者中，CPX-351 相較於標準高強度誘導化療能改善整體預後（Lancet et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000009,
+          "page": 612,
+          "en": "Treatment options have increased considerably for AML patients deemed not eligible for intensive treatment to induce the first CR. Hypomethylating agents, including azacytidine and decitabine, may be a treatment option in mono or combination therapy. Venetoclax, a BCL2 inhibitor, combined with azacitidine increased response rates, which were rapid and durable, and improved survival and quality of life compared with azacitidine alone (DiNardo et al. 2020). As a result, azacitidine and venetoclax treatment has been established as the new standard of care for first-line treatment of older or unfit AML patients. Alternatively, for patients with mutated IDH1, ivosidenib combined with azacitidine was associated with higher response rates and superior survival compared with azacitidine alone in a randomized phase III trial (Montesinos et al. 2022). These targeted therapies have different toxicity profiles compared with conventional chemotherapy and need specific monitoring of drug–drug interactions and adverse events such as cardiac QTc assessment, differentiation syndrome, and prolonged cytopenias.",
+          "zh": "對於經評估不適合接受高強度誘導治療以取得第一次 CR 的 AML 患者，治療選擇已大幅增加。去甲基化藥物（hypomethylating agents，包括 azacitidine 與 decitabine）可作為單一藥物或合併治療的選擇。BCL2 抑制劑 venetoclax 併用 azacitidine 相較於單用 azacitidine，不僅能提高反應率（且反應迅速而持久），亦改善了存活率與生活品質（DiNardo et al. 2020）。因此，azacitidine 併用 venetoclax 已確立為年長或不耐受強效化療（unfit）之 AML 患者第一線治療的新標準照護。此外，針對帶有 IDH1 突變的患者，在一項隨機分配第三期臨床試驗中，ivosidenib 併用 azacitidine 相較於單用 azacitidine 具有更高的反應率與更優異的存活率（Montesinos et al. 2022）。這些標靶治療具有與傳統化學治療不同的毒性表現，需要特別監測藥物交互作用與不良事件，例如心電圖 QTc 評估、分化症候群（differentiation syndrome）以及延遲性血球低下。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000010,
+          "page": 612,
+          "en": "Once a remission is being obtained, post-remission treatment decisions are directed by the ability of pretreatment features such as those incorporated in the ELN risk classification to predict outcome. However, probably more prognostically important than the pretreatment features is response to treatment and especially the presence, in hematological remission, of measurable residual disease (MRD) as assessed by flow cytometry or targeted quantitative PCR for specific markers.",
+          "zh": "一旦取得緩解，緩解後治療決策取決於治療前特徵（例如納入 ELN 風險分類中的各項指標）預測預後的能力。然而，在預後判斷上可能比治療前特徵更為重要的，是對治療的反應，特別是在達到血液學緩解時，以流式細胞儀或針對特定標記之定量聚合酶連鎖反應（PCR）所評估的可測量殘存疾病（MRD）是否存在。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000011,
+          "page": 612,
+          "en": "70.1.4 HCT and AML Risk Categories 70.1.4.1 AML Risk Categories Previously, conventional cytogenetics and mutations in NPM1, FLT3-ITD, CEBPA, RUNX1, ASXL1, and TP53 genes were included in the ELN 2017 risk classification of AML patients (Dohner et al. 2017). The current ELN 2022 risk classification has added mutations in BCOR,",
+          "zh": "70.1.4 造血細胞移植（HCT）與 AML 風險分類\n70.1.4.1 AML 風險分類\n過去 2017 年版 ELN 的 AML 患者風險分類納入了傳統細胞遺傳學以及 NPM1、FLT3-ITD、CEBPA、RUNX1、ASXL1 與 TP53 等基因突變（Dohner et al. 2017）。目前的 2022 年版 ELN 風險分類則新增了 BCOR、",
+          "review": "ai-draft",
+          "endPage": 613
+        }
+      ]
+    },
+    {
+      "page": 613,
+      "blocks": [
+        {
+          "id": 7000012,
+          "page": 613,
+          "en": "EZH2, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2, which are being recognized as MDS-related mutations with an adverse outcome (Table 70.1) (Dohner et al. 2022). Other important changes include (1) the FLT3-ITD allelic ratio not being considered in the classification; (2) only in-frame mutations in the b-zip region of CEBPA are now considered as favorable risk, irrespective of being mono- or bi-allelic; (3) NPM1 mutations are not classified as favorable if adverse-risk cytogenetics are present; (4) recurring cytogenetic abnormalities including t(3q26;v) or t(8;16)(p11.2;13.3) are being included in the adverse-risk group; (5) hyperdiploid karyotypes are not considered complex; and (6) only TP53 mutations at a variant allele fraction of ≥10% are considered adverse risk.",
+          "zh": "EZH2、SF3B1、SRSF2、STAG2、U2AF1 及／或 ZRSR2 基因突變，這些突變被認定為具不良預後的 MDS 相關突變（表 70.1）（Dohner et al. 2022）。其他重要變更包括：(1) 分類中不再考量 FLT3-ITD 等位基因比率（allelic ratio）；(2) 目前僅將 CEBPA 的 bZIP 區域內框內突變（in-frame mutations）視為預後良好風險，無論為單等位基因或雙等位基因突變；(3) 若同時存在預後不良的細胞遺傳學異常，NPM1 突變不再歸類為預後良好；(4) 復發性細胞遺傳學異常包括 t(3q26;v) 或 t(8;16)(p11.2;13.3) 被納入預後不良風險群組；(5) 超二倍體核型（hyperdiploid karyotypes）不被視為複雜核型；以及 (6) 僅變異等位基因分率（VAF）≥10% 的 TP53 突變被視為預後不良風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000013,
+          "page": 613,
+          "en": "Similar to the previous risk classification, the ELN 2022 AML risk classification is advocated to be used for risk-stratifying AML and to a risk-adapted treatment approach for patients with AML. Such a risk-adapted treatment approach for patients with AML depends not only on the risk of relapse of the underlying AML but also on the risk of TRM associated with the applied post-remission treatment. The application of MRD, detected by either multiparametric flow cytometry or quantitative PCR for specific molecular markers may further improve AML risk classifications. MRD may be detected at time points",
+          "zh": "與先前的風險分類相同，臨床上倡議使用 2022 年版 ELN 之 AML 風險分類對 AML 進行風險分層，並據以採取依風險調整（risk-adapted）的 AML 治療策略。此種依風險調整的治療策略不僅取決於潛在 AML 的復發風險，亦取決於所採用緩解後治療伴隨的治療相關死亡率（TRM）風險。透過多參數流式細胞儀或針對特定分子標記之定量 PCR 檢測可測量殘存疾病（MRD），可望進一步完善 AML 風險分類。MRD 可在多個時間點進行檢測：",
+          "review": "ai-draft",
+          "endPage": 614
+        },
+        {
+          "id": 7000014,
+          "page": 613,
+          "en": "Table 70.1 Risk-adapted post-remission treatment for patients with AML in the first CRª\nColumns: AML risk classificationᵇ | MRD statusᶜ | Preferred post-remission treatment\nFavorable:\n- t(8;21)(q22;q22.1); RUNX1-RUNX1T1\n- Inv(16)(p13.1q22) or t(16;16)(p13.1;q22); CBFB-MYH11\n- Mutated NPM1 without FLT3-ITD (without adverse-risk cytogenetic abnormalities)\n- bZIP in-frame mutated CEBPA\n  • MRD status: Negative -> Preferred post-remission treatment: Chemotherapy/auto-HCT\n  • MRD status: Positive -> Preferred post-remission treatment: Allo-HCTᵇ (unless excessive TRM can be predicted)\nIntermediate:\n- Mutated NPM1 with FLT3-ITD (without adverse-risk cytogenetic abnormalities)\n- Wild-type NPM1 without FLT3-ITD (without adverse-risk genetic lesions)\n- t(9;11)(p21.3;q23.3); MLLT3-KMT2A\n- Cytogenetic and/or molecular abnormalities not classified as favorable or adverse\n  • MRD status: Negative -> Preferred post-remission treatment: Consider allo-HCTᵇ (if acceptable risk of TRM; alternative, chemo/auto-HCT)\n  • MRD status: Positive -> Preferred post-remission treatment: Allo-HCTᵉ\nAdverse:\n- t(6;9)(p23;q34.1); DEK-NUP214\n- t(v;11q23.3); KMT2A rearranged\n- t(9;22)(q34.1;q11.2); BCR-ABL1\n- t(8;16)(p11.2;p13.3); KAT6A-CREBBP\n- Inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM(EVI1)\n- t(3q26.2;v)/MECOM(EVI1)-rearranged\n- −5 or del(5q); −7; −17/abn(17p)\n- Complex karyotype (excluding hyperdiploid), monosomal karyotype\n- Mutated ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, and/or ZRSR2\n- Mutated TP53 with VAF ≥10%\n  • MRD status: Negative -> Preferred post-remission treatment: Allo-HCTᵉ\n  • MRD status: Positive -> Preferred post-remission treatment: Allo-HCTᵉ\nFootnotes:\nªAdapted from (Cornelissen et al. 2012b), Table 4\nᵇAllo-HCT using HLA-identical sibling or 10/10 MUD donors\nᶜAdapted from (Dohner et al. 2022), Table 6\nᵈDetected with multiparametric flow cytometry or with for qPCR specific markers\nᵉAllo-HCT using HLA-identical sibling, MUD, MMUD umbilical cord blood, or haploidentical donors",
+          "zh": "表 70.1 第一完全緩解期（CR1）AML 患者依風險調整之緩解後治療ª\n欄位：AML 風險分類ᵇ｜MRD 狀態ᶜ（註ᵈ）｜首選緩解後治療\n\n【預後良好（Favorable）】\n• t(8;21)(q22;q22.1); RUNX1-RUNX1T1\n• Inv(16)(p13.1q22) 或 t(16;16)(p13.1;q22); CBFB-MYH11\n• NPM1 突變且無 FLT3-ITD（無預後不良細胞遺傳學異常）\n• CEBPA 之 bZIP 區域框內突變（bZIP in-frame mutated CEBPA）\n  - MRD 陰性（Negative）：化學治療／自體 HCT（auto-HCT）\n  - MRD 陽性（Positive）：異體 HCT（allo-HCT）ᵇ（除非預測有過高之 TRM 風險）\n\n【中度風險（Intermediate）】\n• NPM1 突變合併 FLT3-ITD（無預後不良細胞遺傳學異常）\n• 野生型 NPM1 且無 FLT3-ITD（無預後不良遺傳病灶）\n• t(9;11)(p21.3;q23.3); MLLT3-KMT2A\n• 未歸類為預後良好或預後不良之細胞遺傳學及／或分子異常\n  - MRD 陰性（Negative）：考慮異體 HCTᵇ（若 TRM 風險可接受；替代方案為化學治療／自體 HCT）\n  - MRD 陽性（Positive）：異體 HCTᵉ\n\n【預後不良（Adverse）】\n• t(6;9)(p23;q34.1); DEK-NUP214\n• t(v;11q23.3); KMT2A 重組（rearranged）\n• t(9;22)(q34.1;q11.2); BCR-ABL1\n• t(8;16)(p11.2;p13.3); KAT6A-CREBBP\n• Inv(3)(q21.3q26.2) 或 t(3;3)(q21.3;q26.2); GATA2, MECOM(EVI1)\n• t(3q26.2;v)/MECOM(EVI1) 重組\n• −5 或 del(5q)；−7；−17/abn(17p)\n• 複雜核型（complex karyotype，排除超二倍體）、單體核型（monosomal karyotype）\n• ASXL1、BCOR、EZH2、RUNX1、SF3B1、SRSF2、STAG2、U2AF1 及／或 ZRSR2 突變\n• TP53 突變且 VAF ≥10%\n  - MRD 陰性（Negative）：異體 HCTᵉ\n  - MRD 陽性（Positive）：異體 HCTᵉ\n\n註腳：\nª改編自（Cornelissen et al. 2012b）表 4\nᵇ使用 HLA 全相合手足或 10/10 非親屬相合捐贈者（MUD）進行異體 HCT\nᶜ改編自（Dohner et al. 2022）表 6\nᵈ以多參數流式細胞儀或針對特定標記之定量 PCR（qPCR）檢測\nᵉ使用 HLA 全相合手足、MUD、非親屬部分相合捐贈者（MMUD）、臍帶血或半相合捐贈者進行異體 HCT",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 614,
+      "blocks": [
+        {
+          "id": 7000015,
+          "page": 614,
+          "en": "early after induction treatment to assess the remission status of the AML but also after post-remission treatment to detect imminent relapse. Consequently, MRD negativity has been introduced as an end point in patients with a hematological CR (Dohner et al. 2017).",
+          "zh": "既可在誘導治療後早期檢測以評估 AML 的緩解深度，亦可在緩解後治療結束後檢測以偵測即將發生的復發。因此，在達到血液學 CR 的患者中，MRD 陰性已被引入作為一項評估指標（Dohner et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000016,
+          "page": 614,
+          "en": "70.1.4.2 Transplantion Risk Categories The risk-adapted approach of patients with AML in the first CR should also include the assessment of TRM for each individual patient. TRM may be attributed to GVHD, infectious complications, organ toxicity, and other causes (Penack et al. 2020). A number of parameters may relate to allo-HCT-related mortality, including the procedure (e.g., conditioning regimen and application of TCD), donor characteristics (e.g., HLA-matching), and recipient features (e.g., age and comorbidity). The risk of mortality may be quantified by composite risk scores, which have been established to predict TRM and overall outcome.",
+          "zh": "70.1.4.2 移植風險分類\n針對處於第一完全緩解期（CR1）的 AML 患者採取依風險調整策略時，亦應納入對個別患者治療相關死亡率（TRM）的評估。TRM 可能歸因於移植物抗宿主疾病（GVHD）、感染併發症、器官毒性及其他原因（Penack et al. 2020）。多項參數與異體 HCT 相關死亡率有關，包括移植程序（例如預處理方案與 T 細胞去除術［TCD］的應用）、捐贈者特徵（例如 HLA 相合度）以及受贈者特徵（例如年齡與共病症）。死亡風險可透過綜合風險評分加以量化，這些評分系統已被確立用於預測 TRM 與整體預後。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000017,
+          "page": 614,
+          "en": "Two generally approved transplant risks were developed and validated, including the EBMT risk score (Gratwohl et al. 1998) and the hematopoietic cell transplantation-comorbidity index (HCT-CI) (Sorror et al. 2005). The EBMT risk score is based on patient and transplantation characteristics, which was developed in CML patients and subsequently validated in other patient groups including AML (Gratwohl et al. 2009). The HCT-CI consists of 17 comorbidities that contribute to a cumulative score, which has been extensively validated and continuously being refined, including age, disease status, or biomarkers (Sorror et al. 2007, 2014). A machine-based learning model was developed by the EBMT-acute leukemia working party (ALWP) based on 10 variables, which was highly predictive of mortality at 100 days and 2 years (Shouval et al. 2015). Other groups have also developed predictive models for TRM modifying the weights of the EBMT risk score and the HCT-CI (Barba et al. 2010), whereas others combined transplant-related parameters and patient characteristics or used biomarkers (Parimon et al. 2006; Barba et al. 2014; Luft et al. 2017).",
+          "zh": "目前有兩種廣獲認可的移植風險評分系統已完成開發與驗證，包括 EBMT 風險評分（Gratwohl et al. 1998）與造血細胞移植共病指數（HCT-CI）（Sorror et al. 2005）。EBMT 風險評分係依據患者與移植特徵所建立，最初於慢性骨髓性白血病（CML）患者中開發，隨後在包括 AML 在內的其他患者群體中獲得驗證（Gratwohl et al. 2009）。HCT-CI 包含 17 項共病症並計算累積分數，已獲廣泛驗證且持續改良，後續亦整合了年齡、疾病狀態或生物標記（Sorror et al. 2007, 2014）。EBMT 急性白血病工作小組（ALWP）亦根據 10 項變數開發出機器學習模型，對移植後 100 天與 2 年死亡率具高度預測力（Shouval et al. 2015）。其他研究團隊也透過調整 EBMT 風險評分與 HCT-CI 的權重開發出預測 TRM 的模型（Barba et al. 2010），另有團隊則結合移植相關參數與患者特徵或採用生物標記進行預測（Parimon et al. 2006；Barba et al. 2014；Luft et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000018,
+          "page": 614,
+          "en": "Developments in allo-HCT care have improved outcomes over the last decades, attributable to for example the introduction of reduced intensity conditioning, improved supportive care and infectious prophylaxis, and better GVHD prophylaxis or GVHD treatment. Consequently, TRM has been strongly reduced and the use of allo-HCT as post-remission treatment for older or less fit patients with comorbidities has increased (Snowden et al. 2022). Several groups have reported less predictive power of the established TRM risk models in the current era of allo-HCT. The EBMT-ALWP has developed updated scoring systems applicable to the setting of RIC in older patients with AML and PTCY as GVHD prophylaxis which both had increased predictive power (Versluis et al. 2015; Hermans et al. 2023). Similar to updating AML risk classifications, the prediction of TRM also needs continued refinement and reassessment in specific patient groups and novel treatments.",
+          "zh": "過去數十年間，異體 HCT 照護的發展改善了治療結果，這可歸功於減低強度預處理（RIC）的引進、支持性照護與感染預防的進步，以及更完善的 GVHD 預防或治療。因此，TRM 已大幅降低，且將異體 HCT 作為年長或體能較差且具共病症患者之緩解後治療的應用也有所增加（Snowden et al. 2022）。數個研究團隊指出，在當今異體 HCT 時代，既有 TRM 風險模型的預測力有所下降。EBMT-ALWP 已開發出適用於年長 AML 患者接受 RIC 移植以及使用移植後 cyclophosphamide（PTCY）作為 GVHD 預防之情境的更新版評分系統，兩者皆提升了預測能力（Versluis et al. 2015；Hermans et al. 2023）。如同 AML 風險分類的更新，TRM 的預測亦需針對特定患者群體與新型療法持續加以精進與重新評估。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000019,
+          "page": 614,
+          "en": "70.1.5 HCT in First-Line AML Treatment: A Risk-Adapted Approach AML risk classifications are being used for tailoring patients’ optimal post-remission treatment, which include allo-HCT, high-dose chemotherapy followed by auto-HCT, and continued chemotherapy. Allo-HCT is the most optimal post-remission treatment for the prevention of relapse due to a potent GVL effect, which has been demonstrated to be exerted irrespective of underlying AML cytogenetic subcategories and MRD status (Cornelissen et al. 2012a; Versluis et al. 2017a). However, absolute estimates of relapse incidence differ and reflect molecular or cytogenetic differences resulting in resistance of the AML. Although the GVL effect of allo-HCT is unequivocally present in patients with AML in the first CR, concurrent TRM compromises overall outcome, especially in AML patients with a relatively low incidence of relapse. Thus, a risk-adapted approach of post-remission treatment for patients with AML in the first CR should include an assessment of the TRM risk in addition to leu-",
+          "zh": "70.1.5 第一線 AML 治療中的造血細胞移植（HCT）：依風險調整之策略\nAML 風險分類被用於為患者量身打造最佳的緩解後治療，選項包括異體 HCT、高劑量化學治療後接續自體 HCT，以及持續化學治療。由於異體 HCT 具有強大的移植物抗白血病（GVL）效應，且研究已證實無論潛在 AML 細胞遺傳學亞型與 MRD 狀態為何皆能發揮此效應，因此異體 HCT 是預防復發最理想的緩解後治療（Cornelissen et al. 2012a；Versluis et al. 2017a）。然而，復發發生率的絕對估計值仍有差異，反映了導致 AML 抗藥性的分子或細胞遺傳學差異。儘管異體 HCT 的 GVL 效應在 CR1 的 AML 患者中無庸置疑地存在，但伴隨的 TRM 會損及整體預後，特別是在復發率相對較低的 AML 患者中。因此，針對 CR1 之 AML 患者的依風險調整緩解後治療策略，除了評估白血",
+          "review": "ai-draft",
+          "endPage": 615
+        }
+      ]
+    },
+    {
+      "page": 615,
+      "blocks": [
+        {
+          "id": 7000020,
+          "page": 615,
+          "en": "kemia characteristics and MRD (Cornelissen et al. 2012b; Cornelissen and Blaise 2016). Table 70.1 summarizes a risk-adapted approach based on the ELN 2022 AML risk classification, MRD status, and the risk for TRM. The risk for TRM should be preferably assessed with dedicated scores for specific subgroups of patients.",
+          "zh": "病特徵與 MRD 外，還應納入對 TRM 風險的評估（Cornelissen et al. 2012b；Cornelissen and Blaise 2016）。表 70.1 總結了根據 2022 年版 ELN 之 AML 風險分類、MRD 狀態與 TRM 風險所制定的依風險調整治療策略。TRM 風險宜優先採用針對特定患者亞群設計的專用評分系統進行評估。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000021,
+          "page": 615,
+          "en": "Allo-HCT is generally not indicated in patients with a favorable AML risk profile; for those patients auto-HCT or continued chemotherapy may be preferred (Cornelissen et al. 2012b; Cornelissen and Blaise 2016; Dohner et al. 2022). However, favorable-risk patients with MRD are considered high risk for relapse and preferably receive an allo-HCT in the first CR, unless excessive TRM is predicted even with RIC.",
+          "zh": "對於具預後良好（favorable）AML 風險特徵的患者，通常不建議進行異體 HCT；此類患者可能優先選擇自體 HCT 或持續化學治療（Cornelissen et al. 2012b；Cornelissen and Blaise 2016；Dohner et al. 2022）。然而，預後良好風險但具 MRD 陽性的患者被視為高復發風險群，除非預測即使採用減低強度預處理（RIC）仍有過高的 TRM，否則建議優先在第一完全緩解期（CR1）接受異體 HCT。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000022,
+          "page": 615,
+          "en": "Results of allo-HCT compared with non-allo-HCT post-remission therapies have yielded contradicting results in intermediate-risk patients, especially taking molecular markers into account (Koreth et al. 2009; Stelljes et al. 2014; Versluis et al. 2017b). A risk-adapted AML trial which allocated patients with MRD negative, intermediate-risk AML to auto-HCT, whereas intermediate-risk patients with MRD positivity received allo-HCT, showed similar outcomes for auto-HCT and allo-HCT (Venditti et al. 2019). Consequently, assessment of MRD status is strongly advocated for post-remission treatment decisions in patients with an intermediate-risk AML. Allo-HCT may be applied in patients with intermediate-risk AML with MRD after induction chemotherapy, except for patients with a high risk for TRM. Allo-HCT might also be considered for patients with intermediate risk, MRD negative AML, but auto-HCT and chemotherapy are alternative treatment options, particularly when the predicted risk for TRM is high.",
+          "zh": "在中度風險（intermediate-risk）患者中，比較異體 HCT 與非異體 HCT 緩解後治療的研究結果並不一致，特別是在納入分子標記考量時（Koreth et al. 2009；Stelljes et al. 2014；Versluis et al. 2017b）。一項依風險調整的 AML 臨床試驗將 MRD 陰性的中度風險 AML 患者分配至自體 HCT，而將 MRD 陽性的中度風險患者分配至異體 HCT，結果顯示自體 HCT 與異體 HCT 的預後相似（Venditti et al. 2019）。因此，強烈建議在中度風險 AML 患者的緩解後治療決策中評估 MRD 狀態。對於誘導化療後仍具 MRD 的中度風險 AML 患者，除高 TRM 風險者外，可施行異體 HCT。對於中度風險且 MRD 陰性的 AML 患者，亦可考慮異體 HCT，但自體 HCT 與化學治療均為替代治療選擇，特別是在預測 TRM 風險較高時。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000023,
+          "page": 615,
+          "en": "Adverse-risk patients with MRD should be transplanted with an allograft as soon as a hematological CR is obtained. Adverse-risk patients without MRD still have a significant risk of relapse and are also candidates for allo-HCT, although patients with a very high risk for TRM may be considered for non-allo-HCT approaches.",
+          "zh": "具 MRD 的預後不良風險（adverse-risk）患者一旦取得血液學 CR，應儘速接受異體移植。無 MRD 的預後不良風險患者仍具有顯著的復發風險，同樣是異體 HCT 的候選對象；不過若患者具有極高的 TRM 風險，則可考慮非異體 HCT 的治療策略。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000024,
+          "page": 615,
+          "en": "70.2 Allo-HCT in Advanced AML Charles Craddock 70.2.1 Introduction Allo-HCT plays an increasingly important role in the management of AML in adults (Dohner et al. 2022). The advent of RIC regimens coupled with increased donor availability has dramatically increased the number of patients in whom allo-HCT can be contemplated. At the same molecular characterization at diagnosis coupled with MRD, quantitation after induction chemotherapy has considerably improved our ability to predict relapse risk in patients treated with intensive chemotherapy alone refining our ability to identify patients with the potential to benefit from allogeneic transplantation (Loke et al. 2020). Consequently, allo-HCT is now a pivotally important personalized component of the treatment algorithm in adults with AML in CR1. At the same time, there is an emerging recognition of the curative potential of allografting in patients with advanced-phase AML, particularly patients with primary refractory (PREF) AML (Dohner et al. 2022). It is therefore extremely important that all fit adults with newly diagnosed AML are tissue typed at presentation and, unless there are compelling reasons to believe allo-HCT will not be included in the patients’ treatment algorithm, a donor search is commenced in a timely manner. Encouraging results have been achieved using both matched sibling and volunteer unrelated donors and more recently transplantation using haploidentical donors (in conjunction with post-transplant cyclophosphamide GVHD prophylaxis) and cord blood units with a high nucleated cell dose. To date, there is no compelling data concerning whether there is an optimal stem cell source and prospective studies are required to address this important point. In both patients transplanted in CR1 and those with advanced phase disease, there has been a substantial reduction in transplant-related mortality (TRM) over the decades, but the risk of disease relapse post-",
+          "zh": "70.2 晚期 AML 之異體造血細胞移植（Allo-HCT）\nCharles Craddock\n\n70.2.1 前言\n異體 HCT 在成人 AML 的治療處置中扮演日益重要的角色（Dohner et al. 2022）。減低強度預處理（RIC）方案的問世加上捐贈者來源的增加，已大幅增加了可考慮進行異體 HCT 的患者人數。與此同時，診斷時的分子特徵分析結合誘導化療後的 MRD 定量，大幅提升了我們預測單用高強度化療患者復發風險的能力，進而能更精準地篩選出可望受惠於異體移植的患者（Loke et al. 2020）。因此，異體 HCT 現已成為處於 CR1 之成人 AML 治療流程中至關重要的個人化核心環節。同時，醫界也日益認識到異體移植對於晚期（advanced-phase）AML 患者——特別是原發性難治型（primary refractory, PREF）AML 患者——具有治癒潛力（Dohner et al. 2022）。因此，所有新診斷且體能合適（fit）的成人 AML 患者在初診時即進行組織分型（HLA 分型）極為重要；而且除非有充分理由確信異體 HCT 不會納入該患者的治療流程，否則應及時啟動捐贈者搜尋。無論是使用相合手足捐贈者、志願非親屬捐贈者，或是近期使用半相合捐贈者（搭配移植後 cyclophosphamide 之 GVHD 預防）以及高有核細胞劑量的臍帶血單位，皆已取得令人鼓舞的成果。迄今尚無確切數據證實是否存在最佳的幹細胞來源，仍需前瞻性研究來解答此一重要問題。無論是在 CR1 接受移植的患者或晚期疾病患者，過去數十年間移植相關死亡率（TRM）已大幅下降，但移植後疾病復發的風險",
+          "review": "ai-draft",
+          "endPage": 616
+        }
+      ]
+    },
+    {
+      "page": 616,
+      "blocks": [
+        {
+          "id": 7000025,
+          "page": 616,
+          "en": "transplant remains stubbornly high and now represents the major cause of treatment failure in patients allografted for AML. There remains, therefore, an urgent requirement to develop novel strategies with the potential to reduce the risk of disease recurrence in all patients allografted for AML.",
+          "zh": "依然居高不下，目前已成為 AML 異體移植患者治療失敗的主要原因。因此，臨床上仍迫切需要開發具潛力的新型策略，以降低所有接受異體移植之 AML 患者的疾病復發風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000026,
+          "page": 616,
+          "en": "70.2.2 The Role of Allo-HCT in the Management of Primary Refractory AML Ten to forty percent of adults with newly diagnosed AML have PREF AML defined as a failure to achieve a morphological CR after two courses of intensive induction chemotherapy, including at least one cycle of intermediate dose cytarabine (Ferguson et al. 2016). Factors determining refractoriness to induction chemotherapy include adverse disease biology and patient age. Patients with PREF AML have genuinely chemo-refractory disease with long-term survival rates <10% if treated with further chemotherapy, and allo-HCT represents the only treatment modality with the potential to deliver long-term disease-free survival. Evidence that allo-HCT can deliver long-term survival in a significant proportion of patients with PREF AML has been accumulating over the last decade and represents an important advance in the management of this sizeable patient population for whom no other effective therapy exists (Craddock et al. 2011; Todisco et al. 2017; Brissot et al. 2017; Boyiadzis et al. 2023). Nonetheless, outcomes in patients allografted for PREF AML remain unsatisfactory, and both TRM and disease relapse continue to represent significant barriers to long-term survival. There is also a lack of clarity concerning which patients with PREF AML are the most likely to benefit from transplantation. Outcome is superior in patients who proceed swiftly to transplant after no more than two courses of intensive chemotherapy, and relapse appears to be lower in those with a lower burden of disease at the time of transplantation. It is therefore important to consider transplant as a potentially curative treatment modality in fit patients with PREF AML, providing a suitable donor can be identified rapidly and the predicted TRM is acceptable. However, further studies both on the impact of disease biology and evidence of chemo-responsiveness on outcome after allo-HCT are required if we are to be able to identify with greater clarity both which patients with PREF AML are likely to benefit from allo-HCT and equally for whom this further intensification in treatment is unlikely to deliver long-term survival. At present, accumulating data identifies very poor outcomes for patients with high-risk molecular features such as the presence of a TP53 mutation or inv(3)(q21.3q26.2) and on the basis of current knowledge it is probably reasonable to reserve allogeneic transplantation in this patient group for patients who have achieved a morphological CR (Loke et al. 2022; Daver et al. 2022; Badar et al. 2023).",
+          "zh": "70.2.2 異體 HCT 在原發性難治型 AML（PREF AML）處置中的角色\n新診斷的成人 AML 患者中有 10% 至 40% 為原發性難治型 AML（PREF AML），其定義為接受兩個療程的高強度誘導化學治療（包含至少一個療程的中劑量 cytarabine）後，仍未能達到形態學完全緩解（CR）（Ferguson et al. 2016）。決定對誘導化療具抗藥性的因素包括不良的疾病生物學特性與患者年齡。PREF AML 患者屬於真正對化療具抗藥性的疾病，若僅以進一步化療治療，長期存活率 <10%，而異體 HCT 是唯一具潛力帶來長期無病存活的治療方式。過去十年間，愈來愈多證據顯示異體 HCT 能讓相當比例的 PREF AML 患者獲得長期存活，這對於此一缺乏其他有效療法且人數可觀的患者群體而言，代表著臨床處置上的重大進展（Craddock et al. 2011；Todisco et al. 2017；Brissot et al. 2017；Boyiadzis et al. 2023）。儘管如此，PREF AML 患者接受異體移植的預後仍不盡理想，TRM 與疾病復發持續是阻礙長期存活的重大障礙。此外，對於哪些 PREF AML 患者最可能從移植中獲益，目前亦尚不完全明朗。在接受不超過兩個療程的高強度化療後即迅速進行移植的患者，其預後較佳；而在移植時疾病負荷較低者，復發率似乎也較低。因此，對於體能合適（fit）的 PREF AML 患者，只要能迅速找到合適捐贈者且預測的 TRM 在可接受範圍內，將移植視為具治癒潛力的治療方式相當重要。然而，若要更清楚地區分哪些 PREF AML 患者可能受惠於異體 HCT，以及同樣重要地，哪些患者即使接受此種進一步強化治療仍不太可能獲得長期存活，則仍需針對疾病生物學特性與化療反應證據對異體 HCT 後預後的影響進行更多研究。目前累積的數據顯示，帶有高風險分子特徵（例如存在 TP53 突變或 inv(3)(q21.3q26.2)）的患者預後極差；根據現有知識，在此患者群體中，將異體移植保留給已達到形態學 CR 的患者可能是合理的作法（Loke et al. 2022；Daver et al. 2022；Badar et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000027,
+          "page": 616,
+          "en": "The optimal conditioning regimen in patients with PREF AML remains a matter of conjecture, but it is recommended that a myeloablative regimen is utilized in patients under the age of 50 years unless there are compelling reasons to the contrary. In older adults, there is no evidence that any particular RIC regimen is to be favored. Although encouraging results using a FLAMSA sequential regimen were reported in patients with PREF AML, it is relevant to note that a recent randomized trial failed to demonstrate any benefit of such a regimen compared with the standard RIC regimen FB2 in adults with AML in CR1 or CR2, although insufficient patients with PREF AML were randomized to address whether this regimen has particular activity in this clinical setting (Craddock et al. 2021). As with all patients allografted for high-risk AML, it is important to assess response to transplant by performing MRD studies on a bone marrow aspirate 30–45 days posttransplant, since this may guide the implementation of an early immunosuppression taper or use of prophylactic/pre-emptive donor lymphocyte infusion (DLI) (Loke et al. 2023).",
+          "zh": "PREF AML 患者的最佳預處理方案目前尚無定論，但除非有充分的反對理由，否則建議在 50 歲以下患者中使用骨髓清除性（myeloablative）方案。在年長成人中，並無證據顯示任何特定的減低強度預處理（RIC）方案更為優越。儘管曾有報告指出使用 FLAMSA 序貫方案在 PREF AML 患者中取得令人鼓舞的結果，但值得注意的是，近期一項隨機分配試驗在處於 CR1 或 CR2 的成人 AML 患者中，未能證實此方案相較於標準 RIC 方案 FB2 具有任何效益；不過該試驗中納入隨機分配的 PREF AML 患者人數不足，尚無法解答此方案在該臨床情境下是否具有特殊活性（Craddock et al. 2021）。如同所有因高風險 AML 接受異體移植的患者，在移植後 30–45 天抽取骨髓進行 MRD 檢測以評估對移植的反應至關重要，因為這能指引是否提早調降免疫抑制劑，或採用預防性／先發性（prophylactic/pre-emptive）捐贈者淋巴球輸注（DLI）（Loke et al. 2023）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 617,
+      "blocks": [
+        {
+          "id": 7000028,
+          "page": 617,
+          "en": "70.3 Practical Issues for Allo-HCT in AML Arnon Nagler AML is the most frequent indication in Europe for allogeneic HCT. As per the latest publication by Passweg et al., 7123 allo-HCT has been performed in Europe in 2021 for AML (4266 for de novo AML in the first CR, 1775 for de novo AML not in CR, and 1082 for AML-therapy-related or myelodysplasia-related changes) accounting for 38% of the allogeneic transplant activity in Europe (Passweg et al. 2021). In sharp contrast to the lymphatic malignancies, the allogeneic activity in AML has not been decreased as CAR-T cell treatment for AML is still in its infancy (Passweg et al. 2021). As in many of the AML patients with an indication for allo-HCT, transplant is currently the only curative procedure and in those achieving CR after first induction results are better. It is therefore recommended to perform HLA typing of the patient and the potential family donors upfront once the AML is diagnosed and to start a search (Carreras et al. 2019). In recent years, continuous novel developments in the field of allo-HCT and mainly the reduced intensity/reduced toxicity conditioning and haploidentical donor allo-HCT with post-transplant cyclophosphamide (PTCY) have significantly reduced transplant-related toxicities and mortality combined with the improved supportive care (Slavin et al. 1998; Kasamon et al. 2015; Shimoni et al. 2005). Consequently, the median age of the AML patients that are undergoing transplantations is increasing with many of the transplanted patients being over 60 years or even 65 years of age. Many of these patients are receiving the allo-HCT following upfront induction with low-intensity Venetoclax-based protocols which further reduced toxicities (Dohner et al. 2022; Keith et al. 2022). Achieving measurable residual disease (MRD) negativity, pre-allo-HCT correlates with outcomes and becomes a major goal in the treatment paradigm for acute leukemias and other hematological malignancies as well (Keith et al. 2022; Abhishek et al. 2021; Bazinet et al. 2023). Most of the allo-HCTs that are being performed nowadays are from unrelated including mismatched unrelated and haploidentical donors and with mobilized PBSC (Nagler and Mohty 2022; Arslan and Al Malki 2022; Anasetti et al. 2012; Raghunandan 2022). Patients with a high risk of relapse post-allo-HCT including those with high-risk AML, secondary poor prognostic mutations, or secondary AML should be considered for maintenance or preemptive therapy post-allo-HCT in an attempt to reduce the relapse rates (Eshrak et al. 2023). Finally, PTCY-based regimens are becoming the preferred mode of GVHD prophylaxis including for patients with AML undergoing HLA-matched related, unrelated, and haploidentical allo-HCT, and it may change other aspects of allo-HCT including the intensity of the conditioning as well as the risk of relapse post-transplantation (Bolanos-Meade et al. 2023).",
+          "zh": "70.3 AML 異體造血細胞移植（Allo-HCT）之實務議題\nArnon Nagler\n\nAML 是歐洲異體 HCT 最常見的適應症。根據 Passweg 等人最新發表的數據，2021 年歐洲共為 AML 施行了 7123 例異體 HCT（其中 4266 例為處於 CR1 的原發性［de novo］AML、1775 例為未達 CR 的原發性 AML，以及 1082 例為治療相關或具骨髓化生不良相關變化的 AML），占歐洲異體移植總量的 38%（Passweg et al. 2021）。與淋巴系統惡性腫瘤形成鮮明對比的是，由於針對 AML 的 CAR-T 細胞治療仍在起步階段，AML 的異體移植量並未減少（Passweg et al. 2021）。對許多具異體 HCT 適應症的 AML 患者而言，移植是目前唯一具治癒性的醫療程序，且在首次誘導治療後即達到 CR 者預後更佳。因此建議一旦診斷出 AML，即應預先為患者及潛在家族捐贈者進行 HLA 分型並啟動配對搜尋（Carreras et al. 2019）。近年來，異體 HCT 領域持續有新進展，主要是減低強度／減低毒性預處理（RIC/RTC）以及搭配移植後 cyclophosphamide（PTCY）的半相合捐贈者異體 HCT，結合支持性照護的改善，已顯著降低了移植相關毒性與死亡率（Slavin et al. 1998；Kasamon et al. 2015；Shimoni et al. 2005）。因此，接受移植的 AML 患者中位年齡不斷上升，許多受植患者年齡超過 60 歲甚至 65 歲。這些患者中有許多人在接受以 venetoclax 為基礎的低強度前導誘導治療（進一步減少了毒性）後，順利接續接受異體 HCT（Dohner et al. 2022；Keith et al. 2022）。在異體 HCT 前達到可測量殘存疾病（MRD）陰性與預後密切相關，並已成為急性白血病及其他血液惡性腫瘤治療典範中的主要目標（Keith et al. 2022；Abhishek et al. 2021；Bazinet et al. 2023）。現今施行的異體 HCT 大多來自非親屬捐贈者（包括部分相合非親屬捐贈者［MMUD］）與半相合捐贈者，並採用動員後周邊血幹細胞（mobilized PBSC）（Nagler and Mohty 2022；Arslan and Al Malki 2022；Anasetti et al. 2012；Raghunandan 2022）。異體 HCT 後具高復發風險的患者（包括高風險 AML、帶有次發性不良預後突變或次發性 AML 者），應考慮在異體 HCT 後進行維持治療或先發性（preemptive）治療，以期降低復發率（Eshrak et al. 2023）。最後，以 PTCY 為基礎的方案正成為 GVHD 預防的首選模式，包括接受 HLA 相合親屬、非親屬及半相合異體 HCT 的 AML 患者，而這也可能改變異體 HCT 的其他層面，包括預處理強度以及移植後的復發風險（Bolanos-Meade et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000029,
+          "page": 617,
+          "en": "70.4 Acute Promyelocytic Leukemia Miguel Á. Sanz 70.4.1 Concept and Incidence APL is a subtype of AML with peculiar clinical and morphological characteristics, which presents a specific genetic alteration, the t (15; 17), with its corresponding molecular counterpart, the rearrangement PML-RARA, which confer a particular sensitivity to all-trans retinoic acid (ATRA) and arsenic trioxide (ATO). It also highlights the presence of a hemorrhagic diathesis associated with a peculiar coagulopathy, which causes a high incidence of hemorrhagic complications at presentation and early during the induction treatment.",
+          "zh": "70.4 急性前骨髓細胞白血病（Acute Promyelocytic Leukemia, APL）\nMiguel Á. Sanz\n\n70.4.1 概念與發生率\n急性前骨髓細胞白血病（APL）是具有獨特臨床與形態學特徵的 AML 亞型，表現出特定的遺傳學改變——t(15;17) 轉位及其對應的分子基因重組 PML-RARA，此異常賦予其對全反式維生素 A 酸（all-trans retinoic acid, ATRA）與三氧化二砷（arsenic trioxide, ATO）的特殊敏感性。此疾病另一顯著特徵為伴隨特殊凝血病變（coagulopathy）的出血傾向，導致患者在初診時與誘導治療初期有極高發生率的出血併發症。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000030,
+          "page": 617,
+          "en": "APL accounts for 5–15% of AML, with a median age of around 40 years and similar distribution by sex. About 10% occur after the use of cytotoxic drugs (especially topoisomerase II inhibitors) or radiation.",
+          "zh": "APL 占所有 AML 的 5–15%，中位發病年齡約 40 歲，男女分布相近。約 10% 的病例發生於使用細胞毒性藥物（特別是第二型拓撲異構酶抑制劑［topoisomerase II inhibitors］）或放射線治療之後。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 618,
+      "blocks": [
+        {
+          "id": 7000031,
+          "page": 618,
+          "en": "70.4.2 Diagnosis\n70.4.2.1 Morphology, Immunophenotyping, and Other Features\nColumns: M3 typical (hypergranular) 75–80% | M3 variant (microgranular) 20–25%\nMorphology:\n- M3 typical (hypergranular): • Cytoplasm with dense granulation. Frequent Auer rods • Reniform or bilobed nucleus\n- M3 variant (microgranular): • Cytoplasm with fine granulation or hypogranular. Less frequent Auer rods • Reniform nucleus, bi- or multilobed\nImmunophenotyping:\n- M3 typical (hypergranular): HLA-DR−/CD34−/CD33+ª/CD13+ᵇ/CD15−/+\n- M3 variant (microgranular): HLA-DR±/CD34±/CD33+ª/CD9+/CD2±/CD13+ᵇ/CD56±\nOther associated features:\n- M3 typical (hypergranular): • Most frequently, low WBC counts • Less frequently, BCR3 isoform\n- M3 variant (microgranular): • Most frequently, high WBC counts • Most frequently, BCR3 isoform\nFootnotes:\nªIntense and homogeneous expression\nᵇHeterogeneous expression",
+          "zh": "70.4.2 診斷\n70.4.2.1 形態學、免疫表現型與其他特徵\n欄位：典型 M3（多顆粒型，hypergranular）75–80%｜變異型 M3（微顆粒型，microgranular）20–25%\n\n【形態學（Morphology）】\n• 典型 M3（多顆粒型）：\n  - 細胞質具濃密顆粒。常見 Auer 氏小體（Auer rods）\n  - 腎形或雙葉細胞核\n• 變異型 M3（微顆粒型）：\n  - 細胞質具細小顆粒或寡顆粒（hypogranular）。Auer 氏小體較少見\n  - 腎形、雙葉或多葉細胞核\n\n【免疫表現型（Immunophenotyping）】\n• 典型 M3（多顆粒型）：HLA-DR−/CD34−/CD33+ª/CD13+ᵇ/CD15−/+\n• 變異型 M3（微顆粒型）：HLA-DR±/CD34±/CD33+ª/CD9+/CD2±/CD13+ᵇ/CD56±\n\n【其他相關特徵（Other associated features）】\n• 典型 M3（多顆粒型）：\n  - 最常表現為低白血球計數（low WBC counts）\n  - BCR3 異構型（isoform）較少見\n• 變異型 M3（微顆粒型）：\n  - 最常表現為高白血球計數（high WBC counts）\n  - 最常為 BCR3 異構型（isoform）\n\n註腳：\nª強且均質表現（Intense and homogeneous expression）\nᵇ異質性表現（Heterogeneous expression）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000032,
+          "page": 618,
+          "en": "70.4.2.2 Genetic Diagnosis\nConventional cytogenetics t(15;17)(q22;q21)\nPros:\n– Very specific\n– Detects additional anomalies in 30% (+8 the most frequent)\nCons:\n– Low sensitivity (80%)\n– Inadequate, bad metaphases or normal karyotype (false-negative) in 20%\nFISH PML-RARA\nPros:\n– Very specific and rapid\nCons:\n– Not very sensitive and does not provide information about the isoform\nRT-PCR\nPros:\n– Very specific, rapid, and sensitive\n– Identifies the isoform, which allows MRD monitoring\nCons:\n– Occasional artifacts and contaminations\nImmunostaining with anti-PML antibody (PG-M3)\nPros:\n– Very specific, rapid, and cheap\n– Characteristic microspeckled pattern by indirect immunofluorescence\nCons:\n– Does not provide information about the isoform",
+          "zh": "70.4.2.2 遺傳學診斷\n【傳統細胞遺傳學 t(15;17)(q22;q21)】\n• 優點（Pros）：\n  – 特異性極高\n  – 可在 30% 病例中偵測到額外染色體異常（最常見為 +8）\n• 缺點（Cons）：\n  – 敏感度較低（80%）\n  – 20% 病例因分裂中期細胞不足、品質不佳或呈現正常核型而出現偽陰性\n\n【螢光原位雜交（FISH）PML-RARA】\n• 優點（Pros）：\n  – 特異性極高且快速\n• 缺點（Cons）：\n  – 敏感度不夠高，且無法提供異構型（isoform）資訊\n\n【反轉錄聚合酶連鎖反應（RT-PCR）】\n• 優點（Pros）：\n  – 特異性極高、快速且具高敏感度\n  – 可鑑定異構型（isoform），有助於後續 MRD 監測\n• 缺點（Cons）：\n  – 偶有人工偽影（artifacts）與汙染問題\n\n【抗 PML 抗體（PG-M3）免疫染色】\n• 優點（Pros）：\n  – 特異性極高、快速且價格低廉\n  – 間接免疫螢光下呈現特徵性微斑點型態（microspeckled pattern）\n• 缺點（Cons）：\n  – 無法提供異構型（isoform）資訊",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000033,
+          "page": 618,
+          "en": "70.4.2.3 Other Rearrangements of the RARA Gene on Chromosome 17\nColumns: Chromosomal abnormality | RARA rearrangement\n• t(11;17) (q23;q21) -> ZBTB16 (PLZF)/RARA (ATRA-resistant)\n• t(17;17) (q21;q21) -> STAT5b/RARA (ATRA-resistant)\n• t(11;17) (q23;q21) -> KMT2a/RARA (ATRA sensitivity unknown)\n• t(5;17) (q35;q21) -> NPM1/RARA (ATRA sensitivity unknown)\n• t(11;17) (q13;q21) -> NUMA1/RARA (ATRA sensitivity unknown)\n• t(17;17)(q21;q24) -> PRKAR1A/RARA (ATRA sensitive)\n• t(X;17)(p11;q21) -> BCOR/RARA (ATRA sensitive in two cases)\n• t(4;17) (q12;q21) -> FIP1L1/RARA (ATRA sensitivity unknown)\n• t(2;17) (q32;q21) -> NABP1 (OBFC2A)/RARA (ATRA sensitive in one case)\n• t(3;17) (q26;q21) -> TBLR1/RARA (insensitive to ATRA)\n• t(7;17) (q11;q21) -> GTF2I/RARA (ATRA sensitive)\n• t(1;17) (q42;q21) -> IRF2BP2/RARA (ATRA sensitive)\n• t(3;17)(q26;q21) -> FNDC3B/RARA (ATRA sensitive)\n• der(17) -> STAT3/RARA (ATRA sensitivity unknown)\n• ins(15;17)(q22;q21;q25) -> PML/ADAMTS17/RARA (ATRA sensitivity unknown)\n• t(1;17)(q3;q21) -> THRAP3/RARA (ATRA-resistant)",
+          "zh": "70.4.2.3 第 17 號染色體上 RARA 基因之其他重組\n欄位：染色體異常（Chromosomal abnormality）｜RARA 重組（RARA rearrangement）\n• t(11;17) (q23;q21) → ZBTB16 (PLZF)/RARA（對 ATRA 具抗藥性）\n• t(17;17) (q21;q21) → STAT5b/RARA（對 ATRA 具抗藥性）\n• t(11;17) (q23;q21) → KMT2a/RARA（對 ATRA 敏感性未知）\n• t(5;17) (q35;q21) → NPM1/RARA（對 ATRA 敏感性未知）\n• t(11;17) (q13;q21) → NUMA1/RARA（對 ATRA 敏感性未知）\n• t(17;17)(q21;q24) → PRKAR1A/RARA（對 ATRA 敏感）\n• t(X;17)(p11;q21) → BCOR/RARA（2 例對 ATRA 敏感）\n• t(4;17) (q12;q21) → FIP1L1/RARA（對 ATRA 敏感性未知）\n• t(2;17) (q32;q21) → NABP1 (OBFC2A)/RARA（1 例對 ATRA 敏感）\n• t(3;17) (q26;q21) → TBLR1/RARA（對 ATRA 不敏感）\n• t(7;17) (q11;q21) → GTF2I/RARA（對 ATRA 敏感）\n• t(1;17) (q42;q21) → IRF2BP2/RARA（對 ATRA 敏感）\n• t(3;17)(q26;q21) → FNDC3B/RARA（對 ATRA 敏感）\n• der(17) → STAT3/RARA（對 ATRA 敏感性未知）\n• ins(15;17)(q22;q21;q25) → PML/ADAMTS17/RARA（對 ATRA 敏感性未知）\n• t(1;17)(q3;q21) → THRAP3/RARA（對 ATRA 具抗藥性）",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 619,
+      "blocks": [
+        {
+          "id": 7000034,
+          "page": 619,
+          "en": "70.4.3 First-Line Treatment The ELN recommendations in 2009 acknowledged the promising outcomes reported in several non-randomized studies using ATRA plus ATO, with or without minimal use of chemotherapy, but the standard of care remained the combination of ATRA plus anthracycline-based chemotherapy (Sanz et al. 2009). However, recent findings have led to modify this recommendation in the updated ELN guidelines (Sanz et al. 2019).",
+          "zh": "70.4.3 第一線治療\n2009 年版 ELN 建議肯認了數項非隨機研究中使用 ATRA 併用 ATO（無論是否搭配極少量化學治療）所報告的良好結果，但當時的標準照護仍是 ATRA 併用蔥環類（anthracycline）基礎化學治療的組合（Sanz et al. 2009）。然而，近期的臨床研究結果促使更新版 ELN 指引修正了此項建議（Sanz et al. 2019）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000035,
+          "page": 619,
+          "en": "The long-term results of a non-randomized study (Abaza et al. 2017) and two randomized clinical trials (Lo-Coco et al. 2013; Burnett et al. 2015), comparing the efficacy and safety of ATRA plus ATO versus the standard ATRA plus chemotherapy approach, strongly support the former combination as the new standard of care for low-to-intermediate-risk APL patients with WBC counts lower than 10 × 10⁹/L at presentation. Nevertheless, in countries where chemotherapy is more affordable than ATO, the classical combination of ATRA and chemotherapy remains an acceptable option. For high-risk patients, however, there are two valid options, either ATRA plus chemotherapy or ATRA plus ATO with a certain amount of cytoreductive chemotherapy, at least during the induction phase.",
+          "zh": "一項非隨機研究（Abaza et al. 2017）與兩項隨機臨床試驗（Lo-Coco et al. 2013；Burnett et al. 2015）比較了 ATRA 併用 ATO 與標準 ATRA 併用化學治療之療效與安全性，其長期結果強力支持將 ATRA 併用 ATO 確立為初診時白血球計數（WBC）低於 10 × 10⁹/L 之低至中度風險 APL 患者的新標準照護。儘管如此，在化學治療比 ATO 更易負擔的國家中，ATRA 併用化學治療的傳統組合仍是可接受的選擇。然而，對於高風險患者則有兩種有效選擇：ATRA 併用化學治療，或 ATRA 併用 ATO 並在至少誘導階段加上一定劑量的減積化學治療（cytoreductive chemotherapy）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000036,
+          "page": 619,
+          "en": "HCT is never indicated in patients in CR1, except for the small fraction of patients with persistent RQ-PCR positivity of PML-RARA after consolidation (<1%), given the poor prognosis associated with this subset. HCT is also indicated in APL patients who relapse and achieve second or subsequent CR.",
+          "zh": "處於第一完全緩解期（CR1）的患者絕對無需進行 HCT，唯一例外是鞏固治療後 PML-RARA 之即時定量 PCR（RQ-PCR）持續呈陽性的極少數患者（<1%），因為此亞群的預後極差。此外，對於復發後達到第二次或後續 CR 的 APL 患者，亦有進行 HCT 的適應症。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000037,
+          "page": 619,
+          "en": "70.4.4 Salvage Therapy Apart from patients with MRD positivity at the end of consolidation (molecular persistence), there is a consensus that patients experiencing molecular or hematological relapse later on require immediate additional treatment, including HCT. The goal of salvage treatment is to achieve molecular remission as a bridge to HCT. In cases where ATRA plus chemotherapy was the frontline therapy, salvage treatment with ATRA plus ATO is recommended. Conversely, if frontline therapy involves ATRA plus ATO, ATRA plus chemotherapy is the preferred option.",
+          "zh": "70.4.4 救援治療（Salvage Therapy）\n除了鞏固治療結束時仍呈 MRD 陽性（分子持續存在，molecular persistence）的患者外，目前的共識是日後發生分子復發或血液學復發的患者，必須立即接受包括 HCT 在內的額外治療。救援治療的目標是達成分子緩解，作為銜接至 HCT 的橋接治療（bridge to HCT）。若第一線治療採用 ATRA 併用化學治療，建議使用 ATRA 併用 ATO 作為救援治療；反之，若第一線治療已使用 ATRA 併用 ATO，則優先選擇 ATRA 併用化學治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000038,
+          "page": 619,
+          "en": "The use of gemtuzumab ozogamicin may also be considered in both situations, but always as a bridge to HCT. Various studies (Yanada et al. 2013; Holter Chakrabarty et al. 2014; Lengfelder et al. 2015) suggest that auto-HCT should be considered the first choice for eligible patients achieving a second molecular remission. Patients who are unsuitable for HCT or have a very prolonged CR1 can be managed with some maintenance therapy, which would be chosen considering previous treatments and clinical condition.",
+          "zh": "在上述兩種情況下，亦可考慮使用 gemtuzumab ozogamicin，但一律作為銜接至 HCT 的橋接治療。多項研究（Yanada et al. 2013；Holter Chakrabarty et al. 2014；Lengfelder et al. 2015）顯示，對於達到第二次分子緩解且符合移植條件的患者，應將自體 HCT（auto-HCT）視為首選。不適合接受 HCT 或 CR1 持續時間極長的患者，則可採行某種維持治療，其藥物選擇需綜合考量先前的治療紀錄與臨床狀況。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000039,
+          "page": 619,
+          "en": "Allo-HCT should be reserved for patients with a high risk of relapse and low risk of TRM, but also as a second option for patients who relapse after an auto-HCT.",
+          "zh": "異體 HCT 應保留給復發風險高且 TRM 風險低的患者，或作為自體 HCT 後再次復發患者的第二線移植選擇。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000040,
+          "page": 619,
+          "en": "70.4.5 Indications of HCT HCT is never indicated in patients in CR1, with the exception of those who fail to achieve molecular remission at the end of consolidation (<1%). For a comprehensive overview of HCT indications and other recommendations for patients who require HCT, please refer to Table 70.2 and the algorithm depicted in the following figure.",
+          "zh": "70.4.5 造血細胞移植（HCT）之適應症\n處於 CR1 的患者絕對無需進行 HCT，唯一例外是鞏固治療結束時未能達到分子緩解者（<1%）。有關需要接受 HCT 之患者的完整適應症與其他建議總覽，請參閱表 70.2 及下圖所示之治療流程。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000041,
+          "page": 619,
+          "en": "70.4.6 Main Series Reported on HCT in APL There are no randomized trials to evaluate the efficacy and safety of the different modalities of HCT in refractory/relapsed APL. The data come mostly from retrospective studies comparing historical cohorts from registries (Table 70.3). Registry studies of both the EBMT (Sanz et al. 2021) and the CIBMTR (Holter Chakrabarty et al. 2014) showed superiority in overall survival for autologous compared to allogeneic HCT, although there were no significant differences in the relapse rate. Other non-comparative JALSG studies have also recently reported the remarkable efficacy of autologous HCT after ATO salvage therapy (Yanada et al. 2013, 2017).",
+          "zh": "70.4.6 APL 造血細胞移植之主要文獻系列報告\n目前尚無隨機分配臨床試驗評估不同 HCT 模式在難治型／復發型 APL 中的療效與安全性。現有數據主要來自比較登錄資料庫歷史世代的回顧性研究（表 70.3）。EBMT（Sanz et al. 2021）與 CIBMTR（Holter Chakrabarty et al. 2014）的登錄資料庫研究均顯示，儘管復發率無顯著差異，但自體 HCT 在整體存活率（OS）上優於異體 HCT。日本成人白血病研究群（JALSG）的其他非比較性研究近期亦報告，在 ATO 救援治療後進行自體 HCT 具有相當卓越的療效（Yanada et al. 2013, 2017）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 620,
+      "blocks": [
+        {
+          "id": 7000042,
+          "page": 620,
+          "en": "Table 70.2 Indications of HCT in patients with APL (Treatment Algorithm Flowchart)\n[Upper Panel: Front-line therapy]\n- Front-line therapy -> MRD assessment after consolidation:\n  • Molecular remission -> HCT not indicated\n  • Molecular persistence (<1%) -> Salvage therapy -> Allogeneic HCT\n[Lower Panel: Salvage therapy]\n- Salvage therapy -> MRD assessment after consolidation:\n  • Molecular remission -> Risk assessment:\n    - TRM high -> No HCT*\n    - TRM and relapse low -> Autologous HCT\n    - TRM low and relapse high -> Allogeneic HCT\n  • Molecular persistence -> Intensification therapy -> Allogeneic HCT\n* Consider maintenance therapy (ATRA, ATO and/or low dosee chemotherapy)",
+          "zh": "表 70.2 APL 患者進行 HCT 之適應症（治療決策流程圖）\n【上半部：第一線治療（Front-line therapy）】\n• 第一線治療 → 鞏固治療後 MRD 評估（MRD assessment after consolidation）：\n  – 分子緩解（Molecular remission）→ 無 HCT 適應症（HCT not indicated）\n  – 分子持續存在（Molecular persistence，<1%）→ 救援治療（Salvage therapy）→ 異體 HCT（Allogeneic HCT）\n\n【下半部：救援治療（Salvage therapy）】\n• 救援治療 → 鞏固治療後 MRD 評估（MRD assessment after consolidation）：\n  – 分子緩解（Molecular remission）→ 風險評估（Risk assessment）：\n    ▪ TRM 風險高（TRM high）→ 不進行 HCT（No HCT*）\n    ▪ TRM 與復發風險皆低（TRM and relapse low）→ 自體 HCT（Autologous HCT）\n    ▪ TRM 風險低且復發風險高（TRM low and relapse high）→ 異體 HCT（Allogeneic HCT）\n  – 分子持續存在（Molecular persistence）→ 強化治療（Intensification therapy）→ 異體 HCT（Allogeneic HCT）\n* 考慮維持治療（ATRA、ATO 及／或低劑量化學治療）",
+          "review": "ai-draft",
+          "note": "原表上半部為兩階段決策流程圖，下半部為對照表；此處完整呈現流程圖所有節點與路徑。"
+        },
+        {
+          "id": 7000043,
+          "page": 620,
+          "en": "Table 70.2 (continued) Indications of HCT in patients with APL (Summary Table)\nColumns: Category | Auto-HCT | Allo-HCT\n- Not indicated:\n  • Auto-HCT: CR1 in molecular remission\n  • Allo-HCT: CR1 in molecular remission\n- Indicated:\n  • Auto-HCT: ≥CR2, but in molecular remission\n  • Allo-HCT: – ≥CR2 with PML-RARA (+) after salvage therapy; – ≥CR2 if an auto-HCT has failed previously; – ≥CR2 in patients with a high risk of relapse and low risk of TRM\n- Salvage therapy as a bridge to HCT:\n  • Auto-HCT: Attempt to achieve molecular remission with ATRA plus ATO in patient who relapsed after ATRA plus chemotherapy as front-line therapy, whereas ATRA plus chemotherapy is the option when patients relapse after ATRA plus ATO\n  • Allo-HCT: Attempt to achieve molecular remission with ATRA plus ATO in patient who relapsed after ATRA plus chemotherapy as front-line therapy, whereas ATRA plus chemotherapy is the option when patients relapse after ATRA plus ATO\n- Conditioning regimen:\n  • Auto-HCT: Either for use in AML, preferably containing HDAC (e.g., BEA (Gondo et al. 1997): BU/VP/Ara-C)\n  • Allo-HCT: Either for use in AML\n- Cell source:\n  • Auto-HCT: Mobilized peripheral blood\n  • Allo-HCT: Mobilized peripheral blood\n- Indication of CNS prophylaxis:\n  • Auto-HCT: ITT with MTX, hydrocortisone, and Ara-C, especially in those who presented relapse in CNS\n  • Allo-HCT: ITT with MTX, hydrocortisone, and Ara-C, especially in those who presented relapse in CNS\n- Maintenance therapy post-HCT:\n  • Auto-HCT: Not proven, but conceivable that ATO + ATRA may be effective\n  • Allo-HCT: Not proven, but conceivable that ATO + ATRA may be effective\n- Molecular monitoring:\n  • Auto-HCT: Recommended by RQ-PCR at least every 3 months for 2–3 years\n  • Allo-HCT: Recommended by RQ-PCR at least every 3 months for 2–3 years",
+          "zh": "表 70.2（續）APL 患者進行 HCT 之適應症與建議總表\n欄位：項目｜自體 HCT（Auto-HCT）｜異體 HCT（Allo-HCT）\n\n• 無適應症（Not indicated）：\n  – 自體 HCT：處於分子緩解之 CR1\n  – 異體 HCT：處於分子緩解之 CR1\n• 具適應症（Indicated）：\n  – 自體 HCT：≥CR2，且處於分子緩解\n  – 異體 HCT：\n    ▪ ≥CR2 且救援治療後 PML-RARA 仍呈陽性（+）\n    ▪ ≥CR2 且先前自體 HCT 失敗\n    ▪ ≥CR2 且屬於高復發風險、低 TRM 風險之患者\n• 銜接至 HCT 之橋接救援治療（Salvage therapy as a bridge to HCT）：\n  – 自體 HCT：第一線接受 ATRA＋化療後復發者，嘗試以 ATRA＋ATO 達成分子緩解；第一線接受 ATRA＋ATO 後復發者，則選擇 ATRA＋化療\n  – 異體 HCT：第一線接受 ATRA＋化療後復發者，嘗試以 ATRA＋ATO 達成分子緩解；第一線接受 ATRA＋ATO 後復發者，則選擇 ATRA＋化療\n• 預處理方案（Conditioning regimen）：\n  – 自體 HCT：任何適用於 AML 之方案，優先選擇含高劑量 Ara-C（HDAC）者（例如 BEA 方案［Gondo et al. 1997］：BU/VP/Ara-C）\n  – 異體 HCT：任何適用於 AML 之方案\n• 幹細胞來源（Cell source）：\n  – 自體 HCT：動員後周邊血（Mobilized peripheral blood）\n  – 異體 HCT：動員後周邊血（Mobilized peripheral blood）\n• 中樞神經系統（CNS）預防之適應症（Indication of CNS prophylaxis）：\n  – 自體 HCT：以 MTX、hydrocortisone 與 Ara-C 進行鞘內注射治療（ITT），特別是發生 CNS 復發者\n  – 異體 HCT：以 MTX、hydrocortisone 與 Ara-C 進行鞘內注射治療（ITT），特別是發生 CNS 復發者\n• 移植後維持治療（Maintenance therapy post-HCT）：\n  – 自體 HCT：尚未證實，但理論上 ATO + ATRA 可能有效\n  – 異體 HCT：尚未證實，但理論上 ATO + ATRA 可能有效\n• 分子監測（Molecular monitoring）：\n  – 自體 HCT：建議至少每 3 個月以 RQ-PCR 監測一次，持續 2–3 年\n  – 異體 HCT：建議至少每 3 個月以 RQ-PCR 監測一次，持續 2–3 年",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 621,
+      "blocks": [
+        {
+          "id": 7000044,
+          "page": 621,
+          "en": "Table 70.3 Main series reported on HCT in APL\nColumns: Reference | Study period – salvage therapy | No. of patients | Overall survival, % | Relapse rate, %\n1. Sanz et al. (2007) | 1993–2003 ATRA+CHT | Auto = 195, Alo = 137 | Auto = 51ª, Alo = 59, P = ND | Auto = 37, Alo = 17, P = ND\n2. De Botton et al. (2005) | 1992–2001 ATRA+CHT | Auto = 50, Alo = 23 | Auto = 60, Alo = 52, P = 0.04 | Auto = 79ᵇ, Alo = 92, P = 0.2\n3. Kohno et al. (2008) | 1999–2004 Miscelaneous | Auto = 15, Alo = 13 | Auto = 76, Alo = 46, P = 0.2 | Auto = 79ᵇ, Alo = 92, NS\n4. Lengfelder et al. (2015) | 2003–2011 ATO-based | Auto = 60, Alo = 33 | Auto = 77, Alo = 79, NS | Auto = 37, Alo = 39, NS\n5. Pemmaraju et al. (2013) | 1980–2010 Miscelaneous | Auto = 10, Alo = 17 | Auto = 86, Alo = 49, NS | Auto = 30, Alo = 18, NS\n6. Fujita et al. (2013) | 1997–2002 ATRA+CHT | Auto = 6, Alo = 21 | Auto = 83, Alo = 76, NS | Auto = 58ᶜ, Alo = 10, P = 0.007\n7. Alimoghaddam et al. (2011) | 1989–2011 ATO-based | Auto = 11, Alo = 29 | Auto = 47, Alo = 76, NS | NA\n8. Holter Chakrabarty et al. (2014) | 1995–2006 NA | Auto = 62, Alo = 232 | Auto = 75, Alo = 54, P = 0.002 | Auto = 30, Alo = 18, P = 0.4\n9. Sanz et al. (2021) | 2004–2018 NA | Auto = 341, Alo = 228 | Auto = 82, Alo = 64, P = 0.001 | Auto = 23, Alo = 28, P = 0.3\nFootnotes: ATRA all trans-retinoic, ATO arsenic trioxide, QT quimioterapia, NA not available, NS no significant; ªLeukemia-free survival; ᵇDisease-free survival; ᶜCrude relapse rate",
+          "zh": "表 70.3 APL 進行造血細胞移植（HCT）之主要文獻系列報告\n欄位：文獻來源｜研究期間－救援治療｜患者人數｜整體存活率（%）｜復發率（%）\n\n1. Sanz et al. (2007)：1993–2003，ATRA+CHT｜自體（Auto）= 195，異體（Alo）= 137｜OS：Auto = 51ª，Alo = 59（P = ND）｜復發率：Auto = 37，Alo = 17（P = ND）\n2. De Botton et al. (2005)：1992–2001，ATRA+CHT｜Auto = 50，Alo = 23｜OS：Auto = 60，Alo = 52（P = 0.04）｜復發率／DFS：Auto = 79ᵇ，Alo = 92（P = 0.2）\n3. Kohno et al. (2008)：1999–2004，綜合（Miscelaneous）｜Auto = 15，Alo = 13｜OS：Auto = 76，Alo = 46（P = 0.2）｜復發率／DFS：Auto = 79ᵇ，Alo = 92（NS）\n4. Lengfelder et al. (2015)：2003–2011，以 ATO 為基礎（ATO-based）｜Auto = 60，Alo = 33｜OS：Auto = 77，Alo = 79（NS）｜復發率：Auto = 37，Alo = 39（NS）\n5. Pemmaraju et al. (2013)：1980–2010，綜合（Miscelaneous）｜Auto = 10，Alo = 17｜OS：Auto = 86，Alo = 49（NS）｜復發率：Auto = 30，Alo = 18（NS）\n6. Fujita et al. (2013)：1997–2002，ATRA+CHT｜Auto = 6，Alo = 21｜OS：Auto = 83，Alo = 76（NS）｜復發率：Auto = 58ᶜ，Alo = 10（P = 0.007）\n7. Alimoghaddam et al. (2011)：1989–2011，以 ATO 為基礎（ATO-based）｜Auto = 11，Alo = 29｜OS：Auto = 47，Alo = 76（NS）｜復發率：NA\n8. Holter Chakrabarty et al. (2014)：1995–2006，NA｜Auto = 62，Alo = 232｜OS：Auto = 75，Alo = 54（P = 0.002）｜復發率：Auto = 30，Alo = 18（P = 0.4）\n9. Sanz et al. (2021)：2004–2018，NA｜Auto = 341，Alo = 228｜OS：Auto = 82，Alo = 64（P = 0.001）｜復發率：Auto = 23，Alo = 28（P = 0.3）\n\n註腳：ATRA＝全反式維生素 A 酸（all trans-retinoic acid）；ATO＝三氧化二砷（arsenic trioxide）；QT（CHT）＝化學治療（quimioterapia）；NA＝無資料（not available）；NS＝無顯著差異（no significant）；ª無白血病存活率（Leukemia-free survival）；ᵇ無病存活率（Disease-free survival）；ᶜ粗復發率（Crude relapse rate）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000045,
+          "page": 621,
+          "en": "Key Points • The application of allo-HCT for patients with AML in first CR should be based on a risk-adapted strategy assessing both the risk of TRM and the risk of the AML. • Allo-HCT remains a potentially curative treatment modality in fit patients with primary refractory AML providing a suitable donor can be identified rapidly and the predicted TRM is acceptable. • Allo-HCT in acute promyelocytic leukemia is only indicated in specific cases (eg, ≥CR2 not in molecular remission or after previous auto-HCT).",
+          "zh": "重點摘要（Key Points）\n• 處於第一完全緩解期（CR1）之 AML 患者是否進行異體 HCT，應根據同時評估 TRM 風險與 AML 疾病風險的依風險調整策略而定。\n• 對於體能合適（fit）的原發性難治型 AML（PREF AML）患者，只要能迅速找到合適捐贈者且預測的 TRM 可接受，異體 HCT 仍是具治癒潛力的治療方式。\n• 急性前骨髓細胞白血病（APL）僅在特定情況下有異體 HCT 適應症（例如：≥CR2 但未達分子緩解，或先前自體 HCT 失敗後）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 7000046,
+          "page": 621,
+          "en": "References",
+          "zh": "References",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=References"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=References"
+            }
+          ]
+        },
+        {
+          "id": 7000047,
+          "page": 621,
+          "en": "Abaza Y, Kantarjian H, Garcia-Manero G, et al. Long-term outcome of acute promyelocytic leukemia treated with all-trans-retinoic acid, arsenic trioxide, and gemtuzumab. Blood. 2017;129:1275–83.",
+          "zh": "Abaza Y, Kantarjian H, Garcia-Manero G, et al. Long-term outcome of acute promyelocytic leukemia treated with all-trans-retinoic acid, arsenic trioxide, and gemtuzumab. Blood. 2017;129:1275–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abaza%20Y%2C%20Kantarjian%20H%2C%20Garcia-Manero%20G%2C%20et%20al.%20Long-term%20outcome%20of%20acute%20promyelocytic%20leukemia%20treated%20with%20all-trans-retinoic%20acid%2C%20arsenic%20trioxide%2C%20and%20gemtuzumab.%20Blood.%202017%3B129%3A1275%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abaza%20Y%2C%20Kantarjian%20H%2C%20Garcia-Manero%20G%2C%20et%20al.%20Long-term%20outcome%20of%20acute%20promyelocytic%20leukemia%20treated%20with%20all-trans-retinoic%20acid%2C%20arsenic%20trioxide%2C%20and%20gemtuzumab.%20Blood.%202017%3B129%3A1275%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 7000048,
+          "page": 621,
+          "en": "Abhishek M, DiNardo CD, Wang SA, Jorgensen J, Kadia TM, et al. Prognostic value of measurable residual disease after venetoclax and decitabine in acute myeloid leukemia. Blood Adv. 2021;5(7):1876–83.",
+          "zh": "Abhishek M, DiNardo CD, Wang SA, Jorgensen J, Kadia TM, et al. Prognostic value of measurable residual disease after venetoclax and decitabine in acute myeloid leukemia. Blood Adv. 2021;5(7):1876–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abhishek%20M%2C%20DiNardo%20CD%2C%20Wang%20SA%2C%20Jorgensen%20J%2C%20Kadia%20TM%2C%20et%20al.%20Prognostic%20value%20of%20measurable%20residual%20disease%20after%20venetoclax%20and%20decitabine%20in%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5(7)%3A1876%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abhishek%20M%2C%20DiNardo%20CD%2C%20Wang%20SA%2C%20Jorgensen%20J%2C%20Kadia%20TM%2C%20et%20al.%20Prognostic%20value%20of%20measurable%20residual%20disease%20after%20venetoclax%20and%20decitabine%20in%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5(7)%3A1876%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 7000049,
+          "page": 621,
+          "en": "Alimoghaddam K, Ghavamzadeh A, Jahani M, et al. Hematopoietic stem cell transplantation in acute promyelocytic leukemia, experience in Iran. Arch Iran Med. 2011;14:332–4.",
+          "zh": "Alimoghaddam K, Ghavamzadeh A, Jahani M, et al. Hematopoietic stem cell transplantation in acute promyelocytic leukemia, experience in Iran. Arch Iran Med. 2011;14:332–4.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Alimoghaddam%20K%2C%20Ghavamzadeh%20A%2C%20Jahani%20M%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20in%20acute%20promyelocytic%20leukemia%2C%20experience%20in%20Iran.%20Arch%20Iran%20Med.%202011%3B14%3A332%E2%80%934."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Alimoghaddam%20K%2C%20Ghavamzadeh%20A%2C%20Jahani%20M%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20in%20acute%20promyelocytic%20leukemia%2C%20experience%20in%20Iran.%20Arch%20Iran%20Med.%202011%3B14%3A332%E2%80%934."
+            }
+          ]
+        },
+        {
+          "id": 7000050,
+          "page": 621,
+          "en": "Anasetti C, Logan BR, Lee SJ, et al. Peripheral-blood stem cells versus bone marrow from unrelated donors. N Engl J Med. 2012;367:1487–96.",
+          "zh": "Anasetti C, Logan BR, Lee SJ, et al. Peripheral-blood stem cells versus bone marrow from unrelated donors. N Engl J Med. 2012;367:1487–96.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Anasetti%20C%2C%20Logan%20BR%2C%20Lee%20SJ%2C%20et%20al.%20Peripheral-blood%20stem%20cells%20versus%20bone%20marrow%20from%20unrelated%20donors.%20N%20Engl%20J%20Med.%202012%3B367%3A1487%E2%80%9396."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Anasetti%20C%2C%20Logan%20BR%2C%20Lee%20SJ%2C%20et%20al.%20Peripheral-blood%20stem%20cells%20versus%20bone%20marrow%20from%20unrelated%20donors.%20N%20Engl%20J%20Med.%202012%3B367%3A1487%E2%80%9396."
+            }
+          ]
+        },
+        {
+          "id": 7000051,
+          "page": 621,
+          "en": "Arber DA, Orazi A, Hasserjian RP, Borowitz MJ, Calvo KR, Kvasnicka H-M, Wang SA, et al. International consensus classification of myeloid neoplasms and acute Leukemias: integrating morphologic, clinical, and genomic data. Blood. 2022;140(11):1200–28.",
+          "zh": "Arber DA, Orazi A, Hasserjian RP, Borowitz MJ, Calvo KR, Kvasnicka H-M, Wang SA, et al. International consensus classification of myeloid neoplasms and acute Leukemias: integrating morphologic, clinical, and genomic data. Blood. 2022;140(11):1200–28.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Arber%20DA%2C%20Orazi%20A%2C%20Hasserjian%20RP%2C%20Borowitz%20MJ%2C%20Calvo%20KR%2C%20Kvasnicka%20H-M%2C%20Wang%20SA%2C%20et%20al.%20International%20consensus%20classification%20of%20myeloid%20neoplasms%20and%20acute%20Leukemias%3A%20integrating%20morphologic%2C%20clinical%2C%20and%20genomic%20data.%20Blood.%202022%3B140(11)%3A1200%E2%80%9328."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Arber%20DA%2C%20Orazi%20A%2C%20Hasserjian%20RP%2C%20Borowitz%20MJ%2C%20Calvo%20KR%2C%20Kvasnicka%20H-M%2C%20Wang%20SA%2C%20et%20al.%20International%20consensus%20classification%20of%20myeloid%20neoplasms%20and%20acute%20Leukemias%3A%20integrating%20morphologic%2C%20clinical%2C%20and%20genomic%20data.%20Blood.%202022%3B140(11)%3A1200%E2%80%9328."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 622,
+      "blocks": [
+        {
+          "id": 7000052,
+          "page": 622,
+          "en": "Arslan S, Al Malki M. New strategies for mismatched unrelated donor (MMUD) hematopoietic cell transplant (HCT)hematology am Soc Hematol Educ. Program. 2022;2022(1):74–82.",
+          "zh": "Arslan S, Al Malki M. New strategies for mismatched unrelated donor (MMUD) hematopoietic cell transplant (HCT)hematology am Soc Hematol Educ. Program. 2022;2022(1):74–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Arslan%20S%2C%20Al%20Malki%20M.%20New%20strategies%20for%20mismatched%20unrelated%20donor%20(MMUD)%20hematopoietic%20cell%20transplant%20(HCT)hematology%20am%20Soc%20Hematol%20Educ.%20Program.%202022%3B2022(1)%3A74%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Arslan%20S%2C%20Al%20Malki%20M.%20New%20strategies%20for%20mismatched%20unrelated%20donor%20(MMUD)%20hematopoietic%20cell%20transplant%20(HCT)hematology%20am%20Soc%20Hematol%20Educ.%20Program.%202022%3B2022(1)%3A74%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 7000053,
+          "page": 622,
+          "en": "Badar T, Atallah E, Shallis R, Saliba AN, Patel A, Bewersdorf JP, et al. Survival of TP53-mutated acute myeloid leukemia patients receiving allogeneic stem cell transplantation after first induction or salvage therapy: results from the consortium on myeloid malignancies and neoplastic diseases (COMMAND). Leukemia. 2023;37(4):799–806.",
+          "zh": "Badar T, Atallah E, Shallis R, Saliba AN, Patel A, Bewersdorf JP, et al. Survival of TP53-mutated acute myeloid leukemia patients receiving allogeneic stem cell transplantation after first induction or salvage therapy: results from the consortium on myeloid malignancies and neoplastic diseases (COMMAND). Leukemia. 2023;37(4):799–806.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Badar%20T%2C%20Atallah%20E%2C%20Shallis%20R%2C%20Saliba%20AN%2C%20Patel%20A%2C%20Bewersdorf%20JP%2C%20et%20al.%20Survival%20of%20TP53-mutated%20acute%20myeloid%20leukemia%20patients%20receiving%20allogeneic%20stem%20cell%20transplantation%20after%20first%20induction%20or%20salvage%20therapy%3A%20results%20from%20the%20consortium%20on%20myeloid%20malignancies%20and%20neoplastic%20diseases%20(COMMAND).%20Leukemia.%202023%3B37(4)%3A799%E2%80%93806."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Badar%20T%2C%20Atallah%20E%2C%20Shallis%20R%2C%20Saliba%20AN%2C%20Patel%20A%2C%20Bewersdorf%20JP%2C%20et%20al.%20Survival%20of%20TP53-mutated%20acute%20myeloid%20leukemia%20patients%20receiving%20allogeneic%20stem%20cell%20transplantation%20after%20first%20induction%20or%20salvage%20therapy%3A%20results%20from%20the%20consortium%20on%20myeloid%20malignancies%20and%20neoplastic%20diseases%20(COMMAND).%20Leukemia.%202023%3B37(4)%3A799%E2%80%93806."
+            }
+          ]
+        },
+        {
+          "id": 7000054,
+          "page": 622,
+          "en": "Barba P, Pinana JL, Martino R, et al. Comparison of two pretransplant predictive models and a flexible HCT-CI using different cut off points to determine low-, intermediate-, and high-risk groups: the flexible HCT-CI is the best predictor of NRM and OS in a population of patients undergoing Allo-RIC. Biol Blood Marrow Transplant. 2010;16:413–20.",
+          "zh": "Barba P, Pinana JL, Martino R, et al. Comparison of two pretransplant predictive models and a flexible HCT-CI using different cut off points to determine low-, intermediate-, and high-risk groups: the flexible HCT-CI is the best predictor of NRM and OS in a population of patients undergoing Allo-RIC. Biol Blood Marrow Transplant. 2010;16:413–20.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Barba%20P%2C%20Pinana%20JL%2C%20Martino%20R%2C%20et%20al.%20Comparison%20of%20two%20pretransplant%20predictive%20models%20and%20a%20flexible%20HCT-CI%20using%20different%20cut%20off%20points%20to%20determine%20low-%2C%20intermediate-%2C%20and%20high-risk%20groups%3A%20the%20flexible%20HCT-CI%20is%20the%20best%20predictor%20of%20NRM%20and%20OS%20in%20a%20population%20of%20patients%20undergoing%20Allo-RIC.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%3A413%E2%80%9320."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Barba%20P%2C%20Pinana%20JL%2C%20Martino%20R%2C%20et%20al.%20Comparison%20of%20two%20pretransplant%20predictive%20models%20and%20a%20flexible%20HCT-CI%20using%20different%20cut%20off%20points%20to%20determine%20low-%2C%20intermediate-%2C%20and%20high-risk%20groups%3A%20the%20flexible%20HCT-CI%20is%20the%20best%20predictor%20of%20NRM%20and%20OS%20in%20a%20population%20of%20patients%20undergoing%20Allo-RIC.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%3A413%E2%80%9320."
+            }
+          ]
+        },
+        {
+          "id": 7000055,
+          "page": 622,
+          "en": "Barba P, Martino R, Perez-Simon JA, et al. Combination of the hematopoietic cell transplantation comorbidity index and the European Group for Blood and Marrow Transplantation score allows a better stratification of high-risk patients undergoing reduced-toxicity allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2014;20:66–72.",
+          "zh": "Barba P, Martino R, Perez-Simon JA, et al. Combination of the hematopoietic cell transplantation comorbidity index and the European Group for Blood and Marrow Transplantation score allows a better stratification of high-risk patients undergoing reduced-toxicity allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2014;20:66–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Barba%20P%2C%20Martino%20R%2C%20Perez-Simon%20JA%2C%20et%20al.%20Combination%20of%20the%20hematopoietic%20cell%20transplantation%20comorbidity%20index%20and%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20score%20allows%20a%20better%20stratification%20of%20high-risk%20patients%20undergoing%20reduced-toxicity%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A66%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Barba%20P%2C%20Martino%20R%2C%20Perez-Simon%20JA%2C%20et%20al.%20Combination%20of%20the%20hematopoietic%20cell%20transplantation%20comorbidity%20index%20and%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20score%20allows%20a%20better%20stratification%20of%20high-risk%20patients%20undergoing%20reduced-toxicity%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A66%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 7000056,
+          "page": 622,
+          "en": "Bazinet A, Kadia TM, Short NJ, Borthakur G, Wang SA, et al. Undetectable measurable residual disease is associated with improved outcomes in AML irrespective of treatment intensity. Blood Adv. 2023;7(13):3284–96.",
+          "zh": "Bazinet A, Kadia TM, Short NJ, Borthakur G, Wang SA, et al. Undetectable measurable residual disease is associated with improved outcomes in AML irrespective of treatment intensity. Blood Adv. 2023;7(13):3284–96.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bazinet%20A%2C%20Kadia%20TM%2C%20Short%20NJ%2C%20Borthakur%20G%2C%20Wang%20SA%2C%20et%20al.%20Undetectable%20measurable%20residual%20disease%20is%20associated%20with%20improved%20outcomes%20in%20AML%20irrespective%20of%20treatment%20intensity.%20Blood%20Adv.%202023%3B7(13)%3A3284%E2%80%9396."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bazinet%20A%2C%20Kadia%20TM%2C%20Short%20NJ%2C%20Borthakur%20G%2C%20Wang%20SA%2C%20et%20al.%20Undetectable%20measurable%20residual%20disease%20is%20associated%20with%20improved%20outcomes%20in%20AML%20irrespective%20of%20treatment%20intensity.%20Blood%20Adv.%202023%3B7(13)%3A3284%E2%80%9396."
+            }
+          ]
+        },
+        {
+          "id": 7000057,
+          "page": 622,
+          "en": "Bolanos-Meade J, Hamadani M, Wu J, et al. Post-transplantation cyclophosphamide-based graft-versus-host disease prophylaxis. N Engl J Med. 2023;388:2338–48.",
+          "zh": "Bolanos-Meade J, Hamadani M, Wu J, et al. Post-transplantation cyclophosphamide-based graft-versus-host disease prophylaxis. N Engl J Med. 2023;388:2338–48.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bolanos-Meade%20J%2C%20Hamadani%20M%2C%20Wu%20J%2C%20et%20al.%20Post-transplantation%20cyclophosphamide-based%20graft-versus-host%20disease%20prophylaxis.%20N%20Engl%20J%20Med.%202023%3B388%3A2338%E2%80%9348."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bolanos-Meade%20J%2C%20Hamadani%20M%2C%20Wu%20J%2C%20et%20al.%20Post-transplantation%20cyclophosphamide-based%20graft-versus-host%20disease%20prophylaxis.%20N%20Engl%20J%20Med.%202023%3B388%3A2338%E2%80%9348."
+            }
+          ]
+        },
+        {
+          "id": 7000058,
+          "page": 622,
+          "en": "Boyiadzis M, Zhang MJ, Chen K, Abdel-Azim H, Abid MB, Aljurf M, et al. Impact of pre-transplant induction and consolidation cycles on AML allogeneic transplant outcomes: a CIBMTR analysis in 3113 AML patients. Leukemia. 2023;37(5):1006–17.",
+          "zh": "Boyiadzis M, Zhang MJ, Chen K, Abdel-Azim H, Abid MB, Aljurf M, et al. Impact of pre-transplant induction and consolidation cycles on AML allogeneic transplant outcomes: a CIBMTR analysis in 3113 AML patients. Leukemia. 2023;37(5):1006–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Boyiadzis%20M%2C%20Zhang%20MJ%2C%20Chen%20K%2C%20Abdel-Azim%20H%2C%20Abid%20MB%2C%20Aljurf%20M%2C%20et%20al.%20Impact%20of%20pre-transplant%20induction%20and%20consolidation%20cycles%20on%20AML%20allogeneic%20transplant%20outcomes%3A%20a%20CIBMTR%20analysis%20in%203113%20AML%20patients.%20Leukemia.%202023%3B37(5)%3A1006%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Boyiadzis%20M%2C%20Zhang%20MJ%2C%20Chen%20K%2C%20Abdel-Azim%20H%2C%20Abid%20MB%2C%20Aljurf%20M%2C%20et%20al.%20Impact%20of%20pre-transplant%20induction%20and%20consolidation%20cycles%20on%20AML%20allogeneic%20transplant%20outcomes%3A%20a%20CIBMTR%20analysis%20in%203113%20AML%20patients.%20Leukemia.%202023%3B37(5)%3A1006%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 7000059,
+          "page": 622,
+          "en": "Brissot E, Labopin M, Stelljes M, et al. Comparison of matched sibling donors versus unrelated donors in allogeneic stem cell transplantation for primary refractory acute myeloid leukemia: a study on behalf of the acute leukemia working party of the EBMT. J Hematol Oncol. 2017;10:130.",
+          "zh": "Brissot E, Labopin M, Stelljes M, et al. Comparison of matched sibling donors versus unrelated donors in allogeneic stem cell transplantation for primary refractory acute myeloid leukemia: a study on behalf of the acute leukemia working party of the EBMT. J Hematol Oncol. 2017;10:130.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Brissot%20E%2C%20Labopin%20M%2C%20Stelljes%20M%2C%20et%20al.%20Comparison%20of%20matched%20sibling%20donors%20versus%20unrelated%20donors%20in%20allogeneic%20stem%20cell%20transplantation%20for%20primary%20refractory%20acute%20myeloid%20leukemia%3A%20a%20study%20on%20behalf%20of%20the%20acute%20leukemia%20working%20party%20of%20the%20EBMT.%20J%20Hematol%20Oncol.%202017%3B10%3A130."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Brissot%20E%2C%20Labopin%20M%2C%20Stelljes%20M%2C%20et%20al.%20Comparison%20of%20matched%20sibling%20donors%20versus%20unrelated%20donors%20in%20allogeneic%20stem%20cell%20transplantation%20for%20primary%20refractory%20acute%20myeloid%20leukemia%3A%20a%20study%20on%20behalf%20of%20the%20acute%20leukemia%20working%20party%20of%20the%20EBMT.%20J%20Hematol%20Oncol.%202017%3B10%3A130."
+            }
+          ]
+        },
+        {
+          "id": 7000060,
+          "page": 622,
+          "en": "Burnett AK, Russell NH, Hills RK, et al. Arsenic trioxide and all-trans retinoic acid treatment for acute promyelocytic leukaemia in all risk groups (AML17): results of a randomised, controlled, phase 3 trial. Lancet Oncol. 2015;16:1295–305.",
+          "zh": "Burnett AK, Russell NH, Hills RK, et al. Arsenic trioxide and all-trans retinoic acid treatment for acute promyelocytic leukaemia in all risk groups (AML17): results of a randomised, controlled, phase 3 trial. Lancet Oncol. 2015;16:1295–305.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Burnett%20AK%2C%20Russell%20NH%2C%20Hills%20RK%2C%20et%20al.%20Arsenic%20trioxide%20and%20all-trans%20retinoic%20acid%20treatment%20for%20acute%20promyelocytic%20leukaemia%20in%20all%20risk%20groups%20(AML17)%3A%20results%20of%20a%20randomised%2C%20controlled%2C%20phase%203%20trial.%20Lancet%20Oncol.%202015%3B16%3A1295%E2%80%93305."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Burnett%20AK%2C%20Russell%20NH%2C%20Hills%20RK%2C%20et%20al.%20Arsenic%20trioxide%20and%20all-trans%20retinoic%20acid%20treatment%20for%20acute%20promyelocytic%20leukaemia%20in%20all%20risk%20groups%20(AML17)%3A%20results%20of%20a%20randomised%2C%20controlled%2C%20phase%203%20trial.%20Lancet%20Oncol.%202015%3B16%3A1295%E2%80%93305."
+            }
+          ]
+        },
+        {
+          "id": 7000061,
+          "page": 622,
+          "en": "Carreras E, Dufour C, Mohty M, Kröger N. The EBMT handbook: hematopoietic stem cell transplantation and cellular therapies. 7th ed. Cham (CH): Springer; 2019.",
+          "zh": "Carreras E, Dufour C, Mohty M, Kröger N. The EBMT handbook: hematopoietic stem cell transplantation and cellular therapies. 7th ed. Cham (CH): Springer; 2019.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Carreras%20E%2C%20Dufour%20C%2C%20Mohty%20M%2C%20Kr%C3%B6ger%20N.%20The%20EBMT%20handbook%3A%20hematopoietic%20stem%20cell%20transplantation%20and%20cellular%20therapies.%207th%20ed.%20Cham%20(CH)%3A%20Springer%3B%202019."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Carreras%20E%2C%20Dufour%20C%2C%20Mohty%20M%2C%20Kr%C3%B6ger%20N.%20The%20EBMT%20handbook%3A%20hematopoietic%20stem%20cell%20transplantation%20and%20cellular%20therapies.%207th%20ed.%20Cham%20(CH)%3A%20Springer%3B%202019."
+            }
+          ]
+        },
+        {
+          "id": 7000062,
+          "page": 622,
+          "en": "Cornelissen JJ, Blaise D. Hematopoietic stem cell transplantation for patients with AML in first complete remission. Blood. 2016;127:62–70.",
+          "zh": "Cornelissen JJ, Blaise D. Hematopoietic stem cell transplantation for patients with AML in first complete remission. Blood. 2016;127:62–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cornelissen%20JJ%2C%20Blaise%20D.%20Hematopoietic%20stem%20cell%20transplantation%20for%20patients%20with%20AML%20in%20first%20complete%20remission.%20Blood.%202016%3B127%3A62%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cornelissen%20JJ%2C%20Blaise%20D.%20Hematopoietic%20stem%20cell%20transplantation%20for%20patients%20with%20AML%20in%20first%20complete%20remission.%20Blood.%202016%3B127%3A62%E2%80%9370."
+            }
+          ]
+        },
+        {
+          "id": 7000063,
+          "page": 622,
+          "en": "Cornelissen JJ, Breems D, van Putten WLJ, Gratwohl AA, Passweg JR, Pabst T, Maertens J, et al. Comparative analysis of the value of allogeneic hematopoietic stem-cell transplantation in acute myeloid leukemia with Monosomal karyotype versus other cytogenetic risk categories. J Clin Oncol. 2012a;30(17):2140–6.",
+          "zh": "Cornelissen JJ, Breems D, van Putten WLJ, Gratwohl AA, Passweg JR, Pabst T, Maertens J, et al. Comparative analysis of the value of allogeneic hematopoietic stem-cell transplantation in acute myeloid leukemia with Monosomal karyotype versus other cytogenetic risk categories. J Clin Oncol. 2012a;30(17):2140–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cornelissen%20JJ%2C%20Breems%20D%2C%20van%20Putten%20WLJ%2C%20Gratwohl%20AA%2C%20Passweg%20JR%2C%20Pabst%20T%2C%20Maertens%20J%2C%20et%20al.%20Comparative%20analysis%20of%20the%20value%20of%20allogeneic%20hematopoietic%20stem-cell%20transplantation%20in%20acute%20myeloid%20leukemia%20with%20Monosomal%20karyotype%20versus%20other%20cytogenetic%20risk%20categories.%20J%20Clin%20Oncol.%202012a%3B30(17)%3A2140%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cornelissen%20JJ%2C%20Breems%20D%2C%20van%20Putten%20WLJ%2C%20Gratwohl%20AA%2C%20Passweg%20JR%2C%20Pabst%20T%2C%20Maertens%20J%2C%20et%20al.%20Comparative%20analysis%20of%20the%20value%20of%20allogeneic%20hematopoietic%20stem-cell%20transplantation%20in%20acute%20myeloid%20leukemia%20with%20Monosomal%20karyotype%20versus%20other%20cytogenetic%20risk%20categories.%20J%20Clin%20Oncol.%202012a%3B30(17)%3A2140%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 7000064,
+          "page": 622,
+          "en": "Cornelissen JJ, Gratwohl A, Schlenk RF, Sierra J, Bornhäuser M, Juliusson G, Råcil Z, et al. The European LeukemiaNet AML working party consensus statement on allogeneic HCT for patients with AML in remission: an integrated-risk adapted approach. Nat Rev Clin Oncol. 2012b;9(10):579–90.",
+          "zh": "Cornelissen JJ, Gratwohl A, Schlenk RF, Sierra J, Bornhäuser M, Juliusson G, Råcil Z, et al. The European LeukemiaNet AML working party consensus statement on allogeneic HCT for patients with AML in remission: an integrated-risk adapted approach. Nat Rev Clin Oncol. 2012b;9(10):579–90.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cornelissen%20JJ%2C%20Gratwohl%20A%2C%20Schlenk%20RF%2C%20Sierra%20J%2C%20Bornh%C3%A4user%20M%2C%20Juliusson%20G%2C%20R%C3%A5cil%20Z%2C%20et%20al.%20The%20European%20LeukemiaNet%20AML%20working%20party%20consensus%20statement%20on%20allogeneic%20HCT%20for%20patients%20with%20AML%20in%20remission%3A%20an%20integrated-risk%20adapted%20approach.%20Nat%20Rev%20Clin%20Oncol.%202012b%3B9(10)%3A579%E2%80%9390."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cornelissen%20JJ%2C%20Gratwohl%20A%2C%20Schlenk%20RF%2C%20Sierra%20J%2C%20Bornh%C3%A4user%20M%2C%20Juliusson%20G%2C%20R%C3%A5cil%20Z%2C%20et%20al.%20The%20European%20LeukemiaNet%20AML%20working%20party%20consensus%20statement%20on%20allogeneic%20HCT%20for%20patients%20with%20AML%20in%20remission%3A%20an%20integrated-risk%20adapted%20approach.%20Nat%20Rev%20Clin%20Oncol.%202012b%3B9(10)%3A579%E2%80%9390."
+            }
+          ]
+        },
+        {
+          "id": 7000065,
+          "page": 622,
+          "en": "Craddock C, Labopin M, Pillai S, et al. Factors predicting outcome after unrelated donor stem cell transplantation in primary refractory acute myeloid leukaemia. Leukemia. 2011;25:808–13.",
+          "zh": "Craddock C, Labopin M, Pillai S, et al. Factors predicting outcome after unrelated donor stem cell transplantation in primary refractory acute myeloid leukaemia. Leukemia. 2011;25:808–13.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Craddock%20C%2C%20Labopin%20M%2C%20Pillai%20S%2C%20et%20al.%20Factors%20predicting%20outcome%20after%20unrelated%20donor%20stem%20cell%20transplantation%20in%20primary%20refractory%20acute%20myeloid%20leukaemia.%20Leukemia.%202011%3B25%3A808%E2%80%9313."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Craddock%20C%2C%20Labopin%20M%2C%20Pillai%20S%2C%20et%20al.%20Factors%20predicting%20outcome%20after%20unrelated%20donor%20stem%20cell%20transplantation%20in%20primary%20refractory%20acute%20myeloid%20leukaemia.%20Leukemia.%202011%3B25%3A808%E2%80%9313."
+            }
+          ]
+        },
+        {
+          "id": 7000066,
+          "page": 622,
+          "en": "Craddock C, Jackson A, Loke J, Siddique S, Hodgkinson A, Mason J, et al. Augmented reduced-intensity regimen does not improve Postallogeneic transplant outcomes in acute myeloid leukemia. J Clin Oncol. 2021;39(7):768–78.",
+          "zh": "Craddock C, Jackson A, Loke J, Siddique S, Hodgkinson A, Mason J, et al. Augmented reduced-intensity regimen does not improve Postallogeneic transplant outcomes in acute myeloid leukemia. J Clin Oncol. 2021;39(7):768–78.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Craddock%20C%2C%20Jackson%20A%2C%20Loke%20J%2C%20Siddique%20S%2C%20Hodgkinson%20A%2C%20Mason%20J%2C%20et%20al.%20Augmented%20reduced-intensity%20regimen%20does%20not%20improve%20Postallogeneic%20transplant%20outcomes%20in%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202021%3B39(7)%3A768%E2%80%9378."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Craddock%20C%2C%20Jackson%20A%2C%20Loke%20J%2C%20Siddique%20S%2C%20Hodgkinson%20A%2C%20Mason%20J%2C%20et%20al.%20Augmented%20reduced-intensity%20regimen%20does%20not%20improve%20Postallogeneic%20transplant%20outcomes%20in%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202021%3B39(7)%3A768%E2%80%9378."
+            }
+          ]
+        },
+        {
+          "id": 7000067,
+          "page": 622,
+          "en": "Daver NG, Maiti A, Kadia TM, Vyas P, Majeti R, Wei AH, et al. TP53-mutated myelodysplastic syndrome and acute myeloid leukemia: biology, current therapy, and future directions. Cancer Discov. 2022;12(11):2516–29.",
+          "zh": "Daver NG, Maiti A, Kadia TM, Vyas P, Majeti R, Wei AH, et al. TP53-mutated myelodysplastic syndrome and acute myeloid leukemia: biology, current therapy, and future directions. Cancer Discov. 2022;12(11):2516–29.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Daver%20NG%2C%20Maiti%20A%2C%20Kadia%20TM%2C%20Vyas%20P%2C%20Majeti%20R%2C%20Wei%20AH%2C%20et%20al.%20TP53-mutated%20myelodysplastic%20syndrome%20and%20acute%20myeloid%20leukemia%3A%20biology%2C%20current%20therapy%2C%20and%20future%20directions.%20Cancer%20Discov.%202022%3B12(11)%3A2516%E2%80%9329."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Daver%20NG%2C%20Maiti%20A%2C%20Kadia%20TM%2C%20Vyas%20P%2C%20Majeti%20R%2C%20Wei%20AH%2C%20et%20al.%20TP53-mutated%20myelodysplastic%20syndrome%20and%20acute%20myeloid%20leukemia%3A%20biology%2C%20current%20therapy%2C%20and%20future%20directions.%20Cancer%20Discov.%202022%3B12(11)%3A2516%E2%80%9329."
+            }
+          ]
+        },
+        {
+          "id": 7000068,
+          "page": 622,
+          "en": "DeBotton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute Promyelocytic leukemia initially treated with all-trans-retinoic acid: aretrospective analysis of the European acute Promyelocytic leukemia group. J Clin Oncol. 2005;23:120–6.",
+          "zh": "DeBotton S, Fawaz A, Chevret S, et al. Autologous and allogeneic stem-cell transplantation as salvage treatment of acute Promyelocytic leukemia initially treated with all-trans-retinoic acid: aretrospective analysis of the European acute Promyelocytic leukemia group. J Clin Oncol. 2005;23:120–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=DeBotton%20S%2C%20Fawaz%20A%2C%20Chevret%20S%2C%20et%20al.%20Autologous%20and%20allogeneic%20stem-cell%20transplantation%20as%20salvage%20treatment%20of%20acute%20Promyelocytic%20leukemia%20initially%20treated%20with%20all-trans-retinoic%20acid%3A%20aretrospective%20analysis%20of%20the%20European%20acute%20Promyelocytic%20leukemia%20group.%20J%20Clin%20Oncol.%202005%3B23%3A120%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=DeBotton%20S%2C%20Fawaz%20A%2C%20Chevret%20S%2C%20et%20al.%20Autologous%20and%20allogeneic%20stem-cell%20transplantation%20as%20salvage%20treatment%20of%20acute%20Promyelocytic%20leukemia%20initially%20treated%20with%20all-trans-retinoic%20acid%3A%20aretrospective%20analysis%20of%20the%20European%20acute%20Promyelocytic%20leukemia%20group.%20J%20Clin%20Oncol.%202005%3B23%3A120%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 7000069,
+          "page": 622,
+          "en": "DiNardo CD, Jonas BA, Pullarkat V, Thirman MJ, Garcia JS, Wei AH, Konopleva M, et al. Azacitidine and Venetoclax in previously untreated acute myeloid leukemia. N Engl J. 2020;383(7):617–29.",
+          "zh": "DiNardo CD, Jonas BA, Pullarkat V, Thirman MJ, Garcia JS, Wei AH, Konopleva M, et al. Azacitidine and Venetoclax in previously untreated acute myeloid leukemia. N Engl J. 2020;383(7):617–29.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=DiNardo%20CD%2C%20Jonas%20BA%2C%20Pullarkat%20V%2C%20Thirman%20MJ%2C%20Garcia%20JS%2C%20Wei%20AH%2C%20Konopleva%20M%2C%20et%20al.%20Azacitidine%20and%20Venetoclax%20in%20previously%20untreated%20acute%20myeloid%20leukemia.%20N%20Engl%20J.%202020%3B383(7)%3A617%E2%80%9329."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=DiNardo%20CD%2C%20Jonas%20BA%2C%20Pullarkat%20V%2C%20Thirman%20MJ%2C%20Garcia%20JS%2C%20Wei%20AH%2C%20Konopleva%20M%2C%20et%20al.%20Azacitidine%20and%20Venetoclax%20in%20previously%20untreated%20acute%20myeloid%20leukemia.%20N%20Engl%20J.%202020%3B383(7)%3A617%E2%80%9329."
+            }
+          ]
+        },
+        {
+          "id": 7000070,
+          "page": 622,
+          "en": "Dohner H, Estey E, Grimwade D, et al. Diagnosis and management of AML in adults: 2017 ELN recommendations from an international expert panel. Blood. 2017;129:424–47.",
+          "zh": "Dohner H, Estey E, Grimwade D, et al. Diagnosis and management of AML in adults: 2017 ELN recommendations from an international expert panel. Blood. 2017;129:424–47.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dohner%20H%2C%20Estey%20E%2C%20Grimwade%20D%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202017%20ELN%20recommendations%20from%20an%20international%20expert%20panel.%20Blood.%202017%3B129%3A424%E2%80%9347."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dohner%20H%2C%20Estey%20E%2C%20Grimwade%20D%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202017%20ELN%20recommendations%20from%20an%20international%20expert%20panel.%20Blood.%202017%3B129%3A424%E2%80%9347."
+            }
+          ]
+        },
+        {
+          "id": 7000071,
+          "page": 622,
+          "en": "Dohner H, Wei AH, Appelbaum FR, Craddock C, DiNardo CD, Dombret H, et al. Diagnosis and management of AML in adults: 2022 ELN recommendations from an international expert panel. Blood. 2022;129(4):424–47.",
+          "zh": "Dohner H, Wei AH, Appelbaum FR, Craddock C, DiNardo CD, Dombret H, et al. Diagnosis and management of AML in adults: 2022 ELN recommendations from an international expert panel. Blood. 2022;129(4):424–47.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dohner%20H%2C%20Wei%20AH%2C%20Appelbaum%20FR%2C%20Craddock%20C%2C%20DiNardo%20CD%2C%20Dombret%20H%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202022%20ELN%20recommendations%20from%20an%20international%20expert%20panel.%20Blood.%202022%3B129(4)%3A424%E2%80%9347."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dohner%20H%2C%20Wei%20AH%2C%20Appelbaum%20FR%2C%20Craddock%20C%2C%20DiNardo%20CD%2C%20Dombret%20H%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202022%20ELN%20recommendations%20from%20an%20international%20expert%20panel.%20Blood.%202022%3B129(4)%3A424%E2%80%9347."
+            }
+          ]
+        },
+        {
+          "id": 7000072,
+          "page": 622,
+          "en": "Eshrak AL-S, Novitzky-Basso I, Mattsson J, Kim DDH. Post-transplant maintenance therapy in acute myeloid leukemia after allogeneic hematopoietic stem cell transplantation harmonizing multiple therapeutic modalities including targeted therapy, immunotherapy and cellular therapy. Int J Hematol. 2023:1–17.",
+          "zh": "Eshrak AL-S, Novitzky-Basso I, Mattsson J, Kim DDH. Post-transplant maintenance therapy in acute myeloid leukemia after allogeneic hematopoietic stem cell transplantation harmonizing multiple therapeutic modalities including targeted therapy, immunotherapy and cellular therapy. Int J Hematol. 2023:1–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eshrak%20AL-S%2C%20Novitzky-Basso%20I%2C%20Mattsson%20J%2C%20Kim%20DDH.%20Post-transplant%20maintenance%20therapy%20in%20acute%20myeloid%20leukemia%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20harmonizing%20multiple%20therapeutic%20modalities%20including%20targeted%20therapy%2C%20immunotherapy%20and%20cellular%20therapy.%20Int%20J%20Hematol.%202023%3A1%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eshrak%20AL-S%2C%20Novitzky-Basso%20I%2C%20Mattsson%20J%2C%20Kim%20DDH.%20Post-transplant%20maintenance%20therapy%20in%20acute%20myeloid%20leukemia%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20harmonizing%20multiple%20therapeutic%20modalities%20including%20targeted%20therapy%2C%20immunotherapy%20and%20cellular%20therapy.%20Int%20J%20Hematol.%202023%3A1%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 7000073,
+          "page": 622,
+          "en": "Ferguson P, Hills RK, Grech A, et al. An operational definition of primary refractory acute myeloid leukemia allowing early identification of patients who may benefit from allogeneic stem cell transplantation. Haematologica. 2016;101:1351–8.",
+          "zh": "Ferguson P, Hills RK, Grech A, et al. An operational definition of primary refractory acute myeloid leukemia allowing early identification of patients who may benefit from allogeneic stem cell transplantation. Haematologica. 2016;101:1351–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ferguson%20P%2C%20Hills%20RK%2C%20Grech%20A%2C%20et%20al.%20An%20operational%20definition%20of%20primary%20refractory%20acute%20myeloid%20leukemia%20allowing%20early%20identification%20of%20patients%20who%20may%20benefit%20from%20allogeneic%20stem%20cell%20transplantation.%20Haematologica.%202016%3B101%3A1351%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ferguson%20P%2C%20Hills%20RK%2C%20Grech%20A%2C%20et%20al.%20An%20operational%20definition%20of%20primary%20refractory%20acute%20myeloid%20leukemia%20allowing%20early%20identification%20of%20patients%20who%20may%20benefit%20from%20allogeneic%20stem%20cell%20transplantation.%20Haematologica.%202016%3B101%3A1351%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 7000074,
+          "page": 622,
+          "en": "Fujita H, Asou N, Iwanaga M, et al. Role of hematopoietic stem cell transplantation for relapsed acute promyelocytic leukemia: a retrospective analysis of JALSG-APL97. Cancer Sci. 2013;104:1339–45.",
+          "zh": "Fujita H, Asou N, Iwanaga M, et al. Role of hematopoietic stem cell transplantation for relapsed acute promyelocytic leukemia: a retrospective analysis of JALSG-APL97. Cancer Sci. 2013;104:1339–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fujita%20H%2C%20Asou%20N%2C%20Iwanaga%20M%2C%20et%20al.%20Role%20of%20hematopoietic%20stem%20cell%20transplantation%20for%20relapsed%20acute%20promyelocytic%20leukemia%3A%20a%20retrospective%20analysis%20of%20JALSG-APL97.%20Cancer%20Sci.%202013%3B104%3A1339%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fujita%20H%2C%20Asou%20N%2C%20Iwanaga%20M%2C%20et%20al.%20Role%20of%20hematopoietic%20stem%20cell%20transplantation%20for%20relapsed%20acute%20promyelocytic%20leukemia%3A%20a%20retrospective%20analysis%20of%20JALSG-APL97.%20Cancer%20Sci.%202013%3B104%3A1339%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 7000075,
+          "page": 622,
+          "en": "Gondo H, Harada M, Miyamoto T, et al. Autologous peripheral blood stem cell transplantation for acute myelogenous leukemia. Bone Marrow Transplant. 1997;20:821–6.",
+          "zh": "Gondo H, Harada M, Miyamoto T, et al. Autologous peripheral blood stem cell transplantation for acute myelogenous leukemia. Bone Marrow Transplant. 1997;20:821–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gondo%20H%2C%20Harada%20M%2C%20Miyamoto%20T%2C%20et%20al.%20Autologous%20peripheral%20blood%20stem%20cell%20transplantation%20for%20acute%20myelogenous%20leukemia.%20Bone%20Marrow%20Transplant.%201997%3B20%3A821%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gondo%20H%2C%20Harada%20M%2C%20Miyamoto%20T%2C%20et%20al.%20Autologous%20peripheral%20blood%20stem%20cell%20transplantation%20for%20acute%20myelogenous%20leukemia.%20Bone%20Marrow%20Transplant.%201997%3B20%3A821%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 7000076,
+          "page": 622,
+          "en": "Gratwohl A, Hermans J, Goldman JM, et al. Risk assessment for patients with chronic myeloid leukaemia before allogeneic blood or marrow transplantation. Chronic leukemia working Party of the European Group for blood and marrow transplantation. Lancet. 1998;352:1087–92.",
+          "zh": "Gratwohl A, Hermans J, Goldman JM, et al. Risk assessment for patients with chronic myeloid leukaemia before allogeneic blood or marrow transplantation. Chronic leukemia working Party of the European Group for blood and marrow transplantation. Lancet. 1998;352:1087–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gratwohl%20A%2C%20Hermans%20J%2C%20Goldman%20JM%2C%20et%20al.%20Risk%20assessment%20for%20patients%20with%20chronic%20myeloid%20leukaemia%20before%20allogeneic%20blood%20or%20marrow%20transplantation.%20Chronic%20leukemia%20working%20Party%20of%20the%20European%20Group%20for%20blood%20and%20marrow%20transplantation.%20Lancet.%201998%3B352%3A1087%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gratwohl%20A%2C%20Hermans%20J%2C%20Goldman%20JM%2C%20et%20al.%20Risk%20assessment%20for%20patients%20with%20chronic%20myeloid%20leukaemia%20before%20allogeneic%20blood%20or%20marrow%20transplantation.%20Chronic%20leukemia%20working%20Party%20of%20the%20European%20Group%20for%20blood%20and%20marrow%20transplantation.%20Lancet.%201998%3B352%3A1087%E2%80%9392."
+            }
+          ],
+          "endPage": 623
+        }
+      ]
+    },
+    {
+      "page": 623,
+      "blocks": [
+        {
+          "id": 7000077,
+          "page": 623,
+          "en": "Gratwohl A, Stern M, Brand R, et al. Risk score for outcome after allogeneic hematopoietic stem cell transplantation: a retrospective analysis. Cancer. 2009;115:4715–26.",
+          "zh": "Gratwohl A, Stern M, Brand R, et al. Risk score for outcome after allogeneic hematopoietic stem cell transplantation: a retrospective analysis. Cancer. 2009;115:4715–26.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gratwohl%20A%2C%20Stern%20M%2C%20Brand%20R%2C%20et%20al.%20Risk%20score%20for%20outcome%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20retrospective%20analysis.%20Cancer.%202009%3B115%3A4715%E2%80%9326."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gratwohl%20A%2C%20Stern%20M%2C%20Brand%20R%2C%20et%20al.%20Risk%20score%20for%20outcome%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20retrospective%20analysis.%20Cancer.%202009%3B115%3A4715%E2%80%9326."
+            }
+          ]
+        },
+        {
+          "id": 7000078,
+          "page": 623,
+          "en": "Hermans SJF, Versluis J, Labopin M, Giebel S, van Norden Y, Moiseev I, Blaise D, et al. Prediction of nonrelapse mortality in patients with acute myeloid leukemia and acute lymphoblastic leukemia receiving allogeneic stem cell transplantation with Posttransplantation cyclophosphamide-based graft versus host disease prophylaxis. HemaSphere. 2023;7(3):e846.",
+          "zh": "Hermans SJF, Versluis J, Labopin M, Giebel S, van Norden Y, Moiseev I, Blaise D, et al. Prediction of nonrelapse mortality in patients with acute myeloid leukemia and acute lymphoblastic leukemia receiving allogeneic stem cell transplantation with Posttransplantation cyclophosphamide-based graft versus host disease prophylaxis. HemaSphere. 2023;7(3):e846.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hermans%20SJF%2C%20Versluis%20J%2C%20Labopin%20M%2C%20Giebel%20S%2C%20van%20Norden%20Y%2C%20Moiseev%20I%2C%20Blaise%20D%2C%20et%20al.%20Prediction%20of%20nonrelapse%20mortality%20in%20patients%20with%20acute%20myeloid%20leukemia%20and%20acute%20lymphoblastic%20leukemia%20receiving%20allogeneic%20stem%20cell%20transplantation%20with%20Posttransplantation%20cyclophosphamide-based%20graft%20versus%20host%20disease%20prophylaxis.%20HemaSphere.%202023%3B7(3)%3Ae846."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hermans%20SJF%2C%20Versluis%20J%2C%20Labopin%20M%2C%20Giebel%20S%2C%20van%20Norden%20Y%2C%20Moiseev%20I%2C%20Blaise%20D%2C%20et%20al.%20Prediction%20of%20nonrelapse%20mortality%20in%20patients%20with%20acute%20myeloid%20leukemia%20and%20acute%20lymphoblastic%20leukemia%20receiving%20allogeneic%20stem%20cell%20transplantation%20with%20Posttransplantation%20cyclophosphamide-based%20graft%20versus%20host%20disease%20prophylaxis.%20HemaSphere.%202023%3B7(3)%3Ae846."
+            }
+          ]
+        },
+        {
+          "id": 7000079,
+          "page": 623,
+          "en": "Holter Chakrabarty JL, Rubinger M, Le-Rademacher J, et al. Autologous is superior to allogeneic hematopoietic cell transplantation for acute promyelocytic leukemia in second complete remission. Biol Blood Marrow Transplant. 2014;20:1021–5.",
+          "zh": "Holter Chakrabarty JL, Rubinger M, Le-Rademacher J, et al. Autologous is superior to allogeneic hematopoietic cell transplantation for acute promyelocytic leukemia in second complete remission. Biol Blood Marrow Transplant. 2014;20:1021–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Holter%20Chakrabarty%20JL%2C%20Rubinger%20M%2C%20Le-Rademacher%20J%2C%20et%20al.%20Autologous%20is%20superior%20to%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20acute%20promyelocytic%20leukemia%20in%20second%20complete%20remission.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A1021%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Holter%20Chakrabarty%20JL%2C%20Rubinger%20M%2C%20Le-Rademacher%20J%2C%20et%20al.%20Autologous%20is%20superior%20to%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20acute%20promyelocytic%20leukemia%20in%20second%20complete%20remission.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A1021%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 7000080,
+          "page": 623,
+          "en": "Passweg JR et al, for the European Society for Blood and Marrow Transplantation (EBMT)hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+          "zh": "Passweg JR et al, for the European Society for Blood and Marrow Transplantation (EBMT)hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%20et%20al%2C%20for%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20(EBMT)hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%20et%20al%2C%20for%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20(EBMT)hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 7000081,
+          "page": 623,
+          "en": "Kasamon YL, Bolaños-Meade J, Prince GT, Tsai HL, McCurdy SR, et al. Outcomes of nonmyeloablative HLA-Haploidentical blood or marrow transplantation with high-dose post-transplantation cyclophosphamide in older adults. J Clin Oncol. 2015;33(28):3152–61.",
+          "zh": "Kasamon YL, Bolaños-Meade J, Prince GT, Tsai HL, McCurdy SR, et al. Outcomes of nonmyeloablative HLA-Haploidentical blood or marrow transplantation with high-dose post-transplantation cyclophosphamide in older adults. J Clin Oncol. 2015;33(28):3152–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kasamon%20YL%2C%20Bola%C3%B1os-Meade%20J%2C%20Prince%20GT%2C%20Tsai%20HL%2C%20McCurdy%20SR%2C%20et%20al.%20Outcomes%20of%20nonmyeloablative%20HLA-Haploidentical%20blood%20or%20marrow%20transplantation%20with%20high-dose%20post-transplantation%20cyclophosphamide%20in%20older%20adults.%20J%20Clin%20Oncol.%202015%3B33(28)%3A3152%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kasamon%20YL%2C%20Bola%C3%B1os-Meade%20J%2C%20Prince%20GT%2C%20Tsai%20HL%2C%20McCurdy%20SR%2C%20et%20al.%20Outcomes%20of%20nonmyeloablative%20HLA-Haploidentical%20blood%20or%20marrow%20transplantation%20with%20high-dose%20post-transplantation%20cyclophosphamide%20in%20older%20adults.%20J%20Clin%20Oncol.%202015%3B33(28)%3A3152%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 7000082,
+          "page": 623,
+          "en": "Keith WP, Jonas BA, Pullarkat V, Recher C, Schuh AC, et al. Measurable residual disease response and prognosis in treatment-Naïve acute myeloid leukemia with Venetoclax and Azacitidine. J Clin Oncol. 2022;40(8):855–65.",
+          "zh": "Keith WP, Jonas BA, Pullarkat V, Recher C, Schuh AC, et al. Measurable residual disease response and prognosis in treatment-Naïve acute myeloid leukemia with Venetoclax and Azacitidine. J Clin Oncol. 2022;40(8):855–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Keith%20WP%2C%20Jonas%20BA%2C%20Pullarkat%20V%2C%20Recher%20C%2C%20Schuh%20AC%2C%20et%20al.%20Measurable%20residual%20disease%20response%20and%20prognosis%20in%20treatment-Na%C3%AFve%20acute%20myeloid%20leukemia%20with%20Venetoclax%20and%20Azacitidine.%20J%20Clin%20Oncol.%202022%3B40(8)%3A855%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Keith%20WP%2C%20Jonas%20BA%2C%20Pullarkat%20V%2C%20Recher%20C%2C%20Schuh%20AC%2C%20et%20al.%20Measurable%20residual%20disease%20response%20and%20prognosis%20in%20treatment-Na%C3%AFve%20acute%20myeloid%20leukemia%20with%20Venetoclax%20and%20Azacitidine.%20J%20Clin%20Oncol.%202022%3B40(8)%3A855%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 7000083,
+          "page": 623,
+          "en": "Khoury J, Solary E, Abla O, Akkari Y, Alaggio R, Apperley JF, Bejar R, et al. The 5th edition of the World Health Organization classification of Haematolymphoid Tumours: myeloid and histiocytic/dendritic neoplasms. Leukemia. 2022;36(7):1703–19.",
+          "zh": "Khoury J, Solary E, Abla O, Akkari Y, Alaggio R, Apperley JF, Bejar R, et al. The 5th edition of the World Health Organization classification of Haematolymphoid Tumours: myeloid and histiocytic/dendritic neoplasms. Leukemia. 2022;36(7):1703–19.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Khoury%20J%2C%20Solary%20E%2C%20Abla%20O%2C%20Akkari%20Y%2C%20Alaggio%20R%2C%20Apperley%20JF%2C%20Bejar%20R%2C%20et%20al.%20The%205th%20edition%20of%20the%20World%20Health%20Organization%20classification%20of%20Haematolymphoid%20Tumours%3A%20myeloid%20and%20histiocytic%2Fdendritic%20neoplasms.%20Leukemia.%202022%3B36(7)%3A1703%E2%80%9319."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Khoury%20J%2C%20Solary%20E%2C%20Abla%20O%2C%20Akkari%20Y%2C%20Alaggio%20R%2C%20Apperley%20JF%2C%20Bejar%20R%2C%20et%20al.%20The%205th%20edition%20of%20the%20World%20Health%20Organization%20classification%20of%20Haematolymphoid%20Tumours%3A%20myeloid%20and%20histiocytic%2Fdendritic%20neoplasms.%20Leukemia.%202022%3B36(7)%3A1703%E2%80%9319."
+            }
+          ]
+        },
+        {
+          "id": 7000084,
+          "page": 623,
+          "en": "Kohno A, Morishita Y, Iida H, et al. Hematopoietic stem cell transplantation for acute promyelocytic leukemia in second or third complete remission: a retrospective analysis in the Nagoya blood and marrow transplantation group. Int J Hematol. 2008;87:210–6.",
+          "zh": "Kohno A, Morishita Y, Iida H, et al. Hematopoietic stem cell transplantation for acute promyelocytic leukemia in second or third complete remission: a retrospective analysis in the Nagoya blood and marrow transplantation group. Int J Hematol. 2008;87:210–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kohno%20A%2C%20Morishita%20Y%2C%20Iida%20H%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20acute%20promyelocytic%20leukemia%20in%20second%20or%20third%20complete%20remission%3A%20a%20retrospective%20analysis%20in%20the%20Nagoya%20blood%20and%20marrow%20transplantation%20group.%20Int%20J%20Hematol.%202008%3B87%3A210%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kohno%20A%2C%20Morishita%20Y%2C%20Iida%20H%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20acute%20promyelocytic%20leukemia%20in%20second%20or%20third%20complete%20remission%3A%20a%20retrospective%20analysis%20in%20the%20Nagoya%20blood%20and%20marrow%20transplantation%20group.%20Int%20J%20Hematol.%202008%3B87%3A210%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 7000085,
+          "page": 623,
+          "en": "Koreth J, Schlenk R, Kopecky KJ, et al. Allogeneic stem cell transplantation for acute myeloid leukemia in first complete remission: systematic review and meta-analysis of prospective clinical trials. JAMA. 2009;301:2349–61.",
+          "zh": "Koreth J, Schlenk R, Kopecky KJ, et al. Allogeneic stem cell transplantation for acute myeloid leukemia in first complete remission: systematic review and meta-analysis of prospective clinical trials. JAMA. 2009;301:2349–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Koreth%20J%2C%20Schlenk%20R%2C%20Kopecky%20KJ%2C%20et%20al.%20Allogeneic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20in%20first%20complete%20remission%3A%20systematic%20review%20and%20meta-analysis%20of%20prospective%20clinical%20trials.%20JAMA.%202009%3B301%3A2349%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Koreth%20J%2C%20Schlenk%20R%2C%20Kopecky%20KJ%2C%20et%20al.%20Allogeneic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20in%20first%20complete%20remission%3A%20systematic%20review%20and%20meta-analysis%20of%20prospective%20clinical%20trials.%20JAMA.%202009%3B301%3A2349%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 7000086,
+          "page": 623,
+          "en": "Lancet JE, Uy GL, Cortes JE, Newell LF, Lin TL, Ritchie EK, Stuart RK, et al. CPX-351 (cytarabine and Daunorubicin) liposome for injection versus conventional Cytarabine plus Daunorubicin in older patients with newly diagnosed secondary acute myeloid leukemia. J Clin Oncol. 2018;36(26):2684–92.",
+          "zh": "Lancet JE, Uy GL, Cortes JE, Newell LF, Lin TL, Ritchie EK, Stuart RK, et al. CPX-351 (cytarabine and Daunorubicin) liposome for injection versus conventional Cytarabine plus Daunorubicin in older patients with newly diagnosed secondary acute myeloid leukemia. J Clin Oncol. 2018;36(26):2684–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lancet%20JE%2C%20Uy%20GL%2C%20Cortes%20JE%2C%20Newell%20LF%2C%20Lin%20TL%2C%20Ritchie%20EK%2C%20Stuart%20RK%2C%20et%20al.%20CPX-351%20(cytarabine%20and%20Daunorubicin)%20liposome%20for%20injection%20versus%20conventional%20Cytarabine%20plus%20Daunorubicin%20in%20older%20patients%20with%20newly%20diagnosed%20secondary%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202018%3B36(26)%3A2684%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lancet%20JE%2C%20Uy%20GL%2C%20Cortes%20JE%2C%20Newell%20LF%2C%20Lin%20TL%2C%20Ritchie%20EK%2C%20Stuart%20RK%2C%20et%20al.%20CPX-351%20(cytarabine%20and%20Daunorubicin)%20liposome%20for%20injection%20versus%20conventional%20Cytarabine%20plus%20Daunorubicin%20in%20older%20patients%20with%20newly%20diagnosed%20secondary%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202018%3B36(26)%3A2684%E2%80%9392."
+            }
+          ]
+        },
+        {
+          "id": 7000087,
+          "page": 623,
+          "en": "Lengfelder E, Lo-Coco F, Adès L, et al. Arsenic trioxide-based therapy of relapsed acute promyelocytic leukemia: registry results from the European LeukemiaNet. Leukemia. 2015;29:1084–91.",
+          "zh": "Lengfelder E, Lo-Coco F, Adès L, et al. Arsenic trioxide-based therapy of relapsed acute promyelocytic leukemia: registry results from the European LeukemiaNet. Leukemia. 2015;29:1084–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lengfelder%20E%2C%20Lo-Coco%20F%2C%20Ad%C3%A8s%20L%2C%20et%20al.%20Arsenic%20trioxide-based%20therapy%20of%20relapsed%20acute%20promyelocytic%20leukemia%3A%20registry%20results%20from%20the%20European%20LeukemiaNet.%20Leukemia.%202015%3B29%3A1084%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lengfelder%20E%2C%20Lo-Coco%20F%2C%20Ad%C3%A8s%20L%2C%20et%20al.%20Arsenic%20trioxide-based%20therapy%20of%20relapsed%20acute%20promyelocytic%20leukemia%3A%20registry%20results%20from%20the%20European%20LeukemiaNet.%20Leukemia.%202015%3B29%3A1084%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 7000088,
+          "page": 623,
+          "en": "Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013;369:111–21.",
+          "zh": "Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013;369:111–21.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lo-Coco%20F%2C%20Avvisati%20G%2C%20Vignetti%20M%2C%20et%20al.%20Retinoic%20acid%20and%20arsenic%20trioxide%20for%20acute%20promyelocytic%20leukemia.%20N%20Engl%20J%20Med.%202013%3B369%3A111%E2%80%9321."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lo-Coco%20F%2C%20Avvisati%20G%2C%20Vignetti%20M%2C%20et%20al.%20Retinoic%20acid%20and%20arsenic%20trioxide%20for%20acute%20promyelocytic%20leukemia.%20N%20Engl%20J%20Med.%202013%3B369%3A111%E2%80%9321."
+            }
+          ]
+        },
+        {
+          "id": 7000089,
+          "page": 623,
+          "en": "Loke J, Malladi R, Moss P, Craddock C. The role of allogeneic stem cell transplantation in the management of acute myeloid leukaemia: a triumph of hope and experience. Br J Haematol. 2020;188(1):129–46.",
+          "zh": "Loke J, Malladi R, Moss P, Craddock C. The role of allogeneic stem cell transplantation in the management of acute myeloid leukaemia: a triumph of hope and experience. Br J Haematol. 2020;188(1):129–46.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loke%20J%2C%20Malladi%20R%2C%20Moss%20P%2C%20Craddock%20C.%20The%20role%20of%20allogeneic%20stem%20cell%20transplantation%20in%20the%20management%20of%20acute%20myeloid%20leukaemia%3A%20a%20triumph%20of%20hope%20and%20experience.%20Br%20J%20Haematol.%202020%3B188(1)%3A129%E2%80%9346."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loke%20J%2C%20Malladi%20R%2C%20Moss%20P%2C%20Craddock%20C.%20The%20role%20of%20allogeneic%20stem%20cell%20transplantation%20in%20the%20management%20of%20acute%20myeloid%20leukaemia%3A%20a%20triumph%20of%20hope%20and%20experience.%20Br%20J%20Haematol.%202020%3B188(1)%3A129%E2%80%9346."
+            }
+          ]
+        },
+        {
+          "id": 7000090,
+          "page": 623,
+          "en": "Loke J, Labopin M, Craddock C, Cornelissen JJ, Labussiere-Wallet H, Wagner-Drouet EM, et al. Additional cytogenetic features determine outcome in patients allografted for TP53 mutant acute myeloid leukemia. Cancer. 2022;128(15):2922–31.",
+          "zh": "Loke J, Labopin M, Craddock C, Cornelissen JJ, Labussiere-Wallet H, Wagner-Drouet EM, et al. Additional cytogenetic features determine outcome in patients allografted for TP53 mutant acute myeloid leukemia. Cancer. 2022;128(15):2922–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loke%20J%2C%20Labopin%20M%2C%20Craddock%20C%2C%20Cornelissen%20JJ%2C%20Labussiere-Wallet%20H%2C%20Wagner-Drouet%20EM%2C%20et%20al.%20Additional%20cytogenetic%20features%20determine%20outcome%20in%20patients%20allografted%20for%20TP53%20mutant%20acute%20myeloid%20leukemia.%20Cancer.%202022%3B128(15)%3A2922%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loke%20J%2C%20Labopin%20M%2C%20Craddock%20C%2C%20Cornelissen%20JJ%2C%20Labussiere-Wallet%20H%2C%20Wagner-Drouet%20EM%2C%20et%20al.%20Additional%20cytogenetic%20features%20determine%20outcome%20in%20patients%20allografted%20for%20TP53%20mutant%20acute%20myeloid%20leukemia.%20Cancer.%202022%3B128(15)%3A2922%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 7000091,
+          "page": 623,
+          "en": "Loke J, McCarthy N, Jackson AE, Siddique S, Hodgkinson A, Mason J, et al. Posttransplant MRD and T-cell chimerism status predict outcomes in patients allografted with AML/MDS. Blood Adv. 2023;8(14):3666–76.",
+          "zh": "Loke J, McCarthy N, Jackson AE, Siddique S, Hodgkinson A, Mason J, et al. Posttransplant MRD and T-cell chimerism status predict outcomes in patients allografted with AML/MDS. Blood Adv. 2023;8(14):3666–76.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loke%20J%2C%20McCarthy%20N%2C%20Jackson%20AE%2C%20Siddique%20S%2C%20Hodgkinson%20A%2C%20Mason%20J%2C%20et%20al.%20Posttransplant%20MRD%20and%20T-cell%20chimerism%20status%20predict%20outcomes%20in%20patients%20allografted%20with%20AML%2FMDS.%20Blood%20Adv.%202023%3B8(14)%3A3666%E2%80%9376."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loke%20J%2C%20McCarthy%20N%2C%20Jackson%20AE%2C%20Siddique%20S%2C%20Hodgkinson%20A%2C%20Mason%20J%2C%20et%20al.%20Posttransplant%20MRD%20and%20T-cell%20chimerism%20status%20predict%20outcomes%20in%20patients%20allografted%20with%20AML%2FMDS.%20Blood%20Adv.%202023%3B8(14)%3A3666%E2%80%9376."
+            }
+          ]
+        },
+        {
+          "id": 7000092,
+          "page": 623,
+          "en": "Luft T, Benner A, Jodele S, Dandoy CE, Storb R, Gooley T, Sandmaier BM, et al. EASIX in patients with acute graft-versus-host disease: a retrospective cohort analysis. Lancet Haematol. 2017;4(9):e414–23.",
+          "zh": "Luft T, Benner A, Jodele S, Dandoy CE, Storb R, Gooley T, Sandmaier BM, et al. EASIX in patients with acute graft-versus-host disease: a retrospective cohort analysis. Lancet Haematol. 2017;4(9):e414–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Luft%20T%2C%20Benner%20A%2C%20Jodele%20S%2C%20Dandoy%20CE%2C%20Storb%20R%2C%20Gooley%20T%2C%20Sandmaier%20BM%2C%20et%20al.%20EASIX%20in%20patients%20with%20acute%20graft-versus-host%20disease%3A%20a%20retrospective%20cohort%20analysis.%20Lancet%20Haematol.%202017%3B4(9)%3Ae414%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Luft%20T%2C%20Benner%20A%2C%20Jodele%20S%2C%20Dandoy%20CE%2C%20Storb%20R%2C%20Gooley%20T%2C%20Sandmaier%20BM%2C%20et%20al.%20EASIX%20in%20patients%20with%20acute%20graft-versus-host%20disease%3A%20a%20retrospective%20cohort%20analysis.%20Lancet%20Haematol.%202017%3B4(9)%3Ae414%E2%80%9323."
+            }
+          ]
+        },
+        {
+          "id": 7000093,
+          "page": 623,
+          "en": "Montesinos P, Recher C, Vives S, Zarzycka E, Wang J, Bertani G, Heuser M, et al. Ivosidenib and Azacitidine in -mutated acute myeloid leukemia. N Engl J Med. 2022;386(16):1519–31.",
+          "zh": "Montesinos P, Recher C, Vives S, Zarzycka E, Wang J, Bertani G, Heuser M, et al. Ivosidenib and Azacitidine in -mutated acute myeloid leukemia. N Engl J Med. 2022;386(16):1519–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Montesinos%20P%2C%20Recher%20C%2C%20Vives%20S%2C%20Zarzycka%20E%2C%20Wang%20J%2C%20Bertani%20G%2C%20Heuser%20M%2C%20et%20al.%20Ivosidenib%20and%20Azacitidine%20in%20-mutated%20acute%20myeloid%20leukemia.%20N%20Engl%20J%20Med.%202022%3B386(16)%3A1519%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Montesinos%20P%2C%20Recher%20C%2C%20Vives%20S%2C%20Zarzycka%20E%2C%20Wang%20J%2C%20Bertani%20G%2C%20Heuser%20M%2C%20et%20al.%20Ivosidenib%20and%20Azacitidine%20in%20-mutated%20acute%20myeloid%20leukemia.%20N%20Engl%20J%20Med.%202022%3B386(16)%3A1519%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 7000094,
+          "page": 623,
+          "en": "Nagler A, Mohty M. In 2022, which is preferred: haploidentical or cord transplant?Hematology am Soc Hematol Educ. Program. 2022;2022(1):64–73.",
+          "zh": "Nagler A, Mohty M. In 2022, which is preferred: haploidentical or cord transplant?Hematology am Soc Hematol Educ. Program. 2022;2022(1):64–73.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nagler%20A%2C%20Mohty%20M.%20In%202022%2C%20which%20is%20preferred%3A%20haploidentical%20or%20cord%20transplant%3FHematology%20am%20Soc%20Hematol%20Educ.%20Program.%202022%3B2022(1)%3A64%E2%80%9373."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nagler%20A%2C%20Mohty%20M.%20In%202022%2C%20which%20is%20preferred%3A%20haploidentical%20or%20cord%20transplant%3FHematology%20am%20Soc%20Hematol%20Educ.%20Program.%202022%3B2022(1)%3A64%E2%80%9373."
+            }
+          ]
+        },
+        {
+          "id": 7000095,
+          "page": 623,
+          "en": "Parimon T, Au DH, Martin PJ, Chien JW. A risk score for mortality after allogeneic hematopoietic cell transplantation. Ann Intern Med. 2006;144:407–14.",
+          "zh": "Parimon T, Au DH, Martin PJ, Chien JW. A risk score for mortality after allogeneic hematopoietic cell transplantation. Ann Intern Med. 2006;144:407–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Parimon%20T%2C%20Au%20DH%2C%20Martin%20PJ%2C%20Chien%20JW.%20A%20risk%20score%20for%20mortality%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Ann%20Intern%20Med.%202006%3B144%3A407%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Parimon%20T%2C%20Au%20DH%2C%20Martin%20PJ%2C%20Chien%20JW.%20A%20risk%20score%20for%20mortality%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Ann%20Intern%20Med.%202006%3B144%3A407%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 7000096,
+          "page": 623,
+          "en": "Pemmaraju N, Tanaka MF, Ravandi F, et al. Outcomes in patients with relapsed or refractory acute Promyelocytic leukemia treated with or without autologous or allogeneic hematopoietic stem cell transplantation. Clin Lymphoma Myeloma Leukemia. 2013;13:485–92.",
+          "zh": "Pemmaraju N, Tanaka MF, Ravandi F, et al. Outcomes in patients with relapsed or refractory acute Promyelocytic leukemia treated with or without autologous or allogeneic hematopoietic stem cell transplantation. Clin Lymphoma Myeloma Leukemia. 2013;13:485–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pemmaraju%20N%2C%20Tanaka%20MF%2C%20Ravandi%20F%2C%20et%20al.%20Outcomes%20in%20patients%20with%20relapsed%20or%20refractory%20acute%20Promyelocytic%20leukemia%20treated%20with%20or%20without%20autologous%20or%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Clin%20Lymphoma%20Myeloma%20Leukemia.%202013%3B13%3A485%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pemmaraju%20N%2C%20Tanaka%20MF%2C%20Ravandi%20F%2C%20et%20al.%20Outcomes%20in%20patients%20with%20relapsed%20or%20refractory%20acute%20Promyelocytic%20leukemia%20treated%20with%20or%20without%20autologous%20or%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Clin%20Lymphoma%20Myeloma%20Leukemia.%202013%3B13%3A485%E2%80%9392."
+            }
+          ]
+        },
+        {
+          "id": 7000097,
+          "page": 623,
+          "en": "Penack O, Peczynski C, Mohty M, et al. How much has allogeneic stem cell transplant–related mortality improved since the 1980s? A retrospective analysis from the EBMT. Blood Adv. 2020;4:6283–90.",
+          "zh": "Penack O, Peczynski C, Mohty M, et al. How much has allogeneic stem cell transplant–related mortality improved since the 1980s? A retrospective analysis from the EBMT. Blood Adv. 2020;4:6283–90.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Penack%20O%2C%20Peczynski%20C%2C%20Mohty%20M%2C%20et%20al.%20How%20much%20has%20allogeneic%20stem%20cell%20transplant%E2%80%93related%20mortality%20improved%20since%20the%201980s%3F%20A%20retrospective%20analysis%20from%20the%20EBMT.%20Blood%20Adv.%202020%3B4%3A6283%E2%80%9390."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Penack%20O%2C%20Peczynski%20C%2C%20Mohty%20M%2C%20et%20al.%20How%20much%20has%20allogeneic%20stem%20cell%20transplant%E2%80%93related%20mortality%20improved%20since%20the%201980s%3F%20A%20retrospective%20analysis%20from%20the%20EBMT.%20Blood%20Adv.%202020%3B4%3A6283%E2%80%9390."
+            }
+          ]
+        },
+        {
+          "id": 7000098,
+          "page": 623,
+          "en": "Raghunandan S. Abatacept for the prevention of Gvhd in pediatric and adult patients receiving 7/8 HLA-mismatched unrelated Tran splant for hematologic malignancies: a real-world analysis. Blood. 2022;140(Supplement 1):7653–5.",
+          "zh": "Raghunandan S. Abatacept for the prevention of Gvhd in pediatric and adult patients receiving 7/8 HLA-mismatched unrelated Tran splant for hematologic malignancies: a real-world analysis. Blood. 2022;140(Supplement 1):7653–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Raghunandan%20S.%20Abatacept%20for%20the%20prevention%20of%20Gvhd%20in%20pediatric%20and%20adult%20patients%20receiving%207%2F8%20HLA-mismatched%20unrelated%20Tran%20splant%20for%20hematologic%20malignancies%3A%20a%20real-world%20analysis.%20Blood.%202022%3B140(Supplement%201)%3A7653%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Raghunandan%20S.%20Abatacept%20for%20the%20prevention%20of%20Gvhd%20in%20pediatric%20and%20adult%20patients%20receiving%207%2F8%20HLA-mismatched%20unrelated%20Tran%20splant%20for%20hematologic%20malignancies%3A%20a%20real-world%20analysis.%20Blood.%202022%3B140(Supplement%201)%3A7653%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 7000099,
+          "page": 623,
+          "en": "Sanz MA, Labopin M, Gorin NC, et al. Hematopoietic stem cell transplantation for adults with acute promyelocytic leukemia in the ATRA era: a survey of the European cooperative Group for Blood and Marrow Transplantation. Bone Marrow Transplant. 2007;39:461–9.",
+          "zh": "Sanz MA, Labopin M, Gorin NC, et al. Hematopoietic stem cell transplantation for adults with acute promyelocytic leukemia in the ATRA era: a survey of the European cooperative Group for Blood and Marrow Transplantation. Bone Marrow Transplant. 2007;39:461–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20MA%2C%20Labopin%20M%2C%20Gorin%20NC%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20adults%20with%20acute%20promyelocytic%20leukemia%20in%20the%20ATRA%20era%3A%20a%20survey%20of%20the%20European%20cooperative%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20Bone%20Marrow%20Transplant.%202007%3B39%3A461%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20MA%2C%20Labopin%20M%2C%20Gorin%20NC%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20adults%20with%20acute%20promyelocytic%20leukemia%20in%20the%20ATRA%20era%3A%20a%20survey%20of%20the%20European%20cooperative%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20Bone%20Marrow%20Transplant.%202007%3B39%3A461%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7000100,
+          "page": 623,
+          "en": "Sanz MA, Grimwade D, Tallman MS, et al. Management of acute promyelocytic leukemia: recommendations from an expert panel on behalf of the European LeukemiaNet. Blood. 2009;113:1875–91.",
+          "zh": "Sanz MA, Grimwade D, Tallman MS, et al. Management of acute promyelocytic leukemia: recommendations from an expert panel on behalf of the European LeukemiaNet. Blood. 2009;113:1875–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20MA%2C%20Grimwade%20D%2C%20Tallman%20MS%2C%20et%20al.%20Management%20of%20acute%20promyelocytic%20leukemia%3A%20recommendations%20from%20an%20expert%20panel%20on%20behalf%20of%20the%20European%20LeukemiaNet.%20Blood.%202009%3B113%3A1875%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20MA%2C%20Grimwade%20D%2C%20Tallman%20MS%2C%20et%20al.%20Management%20of%20acute%20promyelocytic%20leukemia%3A%20recommendations%20from%20an%20expert%20panel%20on%20behalf%20of%20the%20European%20LeukemiaNet.%20Blood.%202009%3B113%3A1875%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 7000101,
+          "page": 623,
+          "en": "Sanz MA, Fenaux P, Tallman MS, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019;133:1630–43.",
+          "zh": "Sanz MA, Fenaux P, Tallman MS, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. Blood. 2019;133:1630–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20MA%2C%20Fenaux%20P%2C%20Tallman%20MS%2C%20et%20al.%20Management%20of%20acute%20promyelocytic%20leukemia%3A%20updated%20recommendations%20from%20an%20expert%20panel%20of%20the%20European%20LeukemiaNet.%20Blood.%202019%3B133%3A1630%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20MA%2C%20Fenaux%20P%2C%20Tallman%20MS%2C%20et%20al.%20Management%20of%20acute%20promyelocytic%20leukemia%3A%20updated%20recommendations%20from%20an%20expert%20panel%20of%20the%20European%20LeukemiaNet.%20Blood.%202019%3B133%3A1630%E2%80%9343."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 624,
+      "blocks": [
+        {
+          "id": 7000102,
+          "page": 624,
+          "en": "Sanz J, Labopin M, Sanz MA, Aljurf M, Sousa AB, Craddock C, et al. Hematopoietic stem cell transplantation for adults with relapsed acute promyelocytic leukemia in second complete remission. Bone Marrow Transplant. 2021;56(6):1272–80.",
+          "zh": "Sanz J, Labopin M, Sanz MA, Aljurf M, Sousa AB, Craddock C, et al. Hematopoietic stem cell transplantation for adults with relapsed acute promyelocytic leukemia in second complete remission. Bone Marrow Transplant. 2021;56(6):1272–80.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20J%2C%20Labopin%20M%2C%20Sanz%20MA%2C%20Aljurf%20M%2C%20Sousa%20AB%2C%20Craddock%20C%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20adults%20with%20relapsed%20acute%20promyelocytic%20leukemia%20in%20second%20complete%20remission.%20Bone%20Marrow%20Transplant.%202021%3B56(6)%3A1272%E2%80%9380."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20J%2C%20Labopin%20M%2C%20Sanz%20MA%2C%20Aljurf%20M%2C%20Sousa%20AB%2C%20Craddock%20C%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20for%20adults%20with%20relapsed%20acute%20promyelocytic%20leukemia%20in%20second%20complete%20remission.%20Bone%20Marrow%20Transplant.%202021%3B56(6)%3A1272%E2%80%9380."
+            }
+          ]
+        },
+        {
+          "id": 7000103,
+          "page": 624,
+          "en": "Schlenk RF, Dohner K, Krauter J, et al. Mutations and treatment outcome in cytogenetically normal acute myeloid leukemia. N Engl J Med. 2008;358:1909–18.",
+          "zh": "Schlenk RF, Dohner K, Krauter J, et al. Mutations and treatment outcome in cytogenetically normal acute myeloid leukemia. N Engl J Med. 2008;358:1909–18.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schlenk%20RF%2C%20Dohner%20K%2C%20Krauter%20J%2C%20et%20al.%20Mutations%20and%20treatment%20outcome%20in%20cytogenetically%20normal%20acute%20myeloid%20leukemia.%20N%20Engl%20J%20Med.%202008%3B358%3A1909%E2%80%9318."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schlenk%20RF%2C%20Dohner%20K%2C%20Krauter%20J%2C%20et%20al.%20Mutations%20and%20treatment%20outcome%20in%20cytogenetically%20normal%20acute%20myeloid%20leukemia.%20N%20Engl%20J%20Med.%202008%3B358%3A1909%E2%80%9318."
+            }
+          ]
+        },
+        {
+          "id": 7000104,
+          "page": 624,
+          "en": "Shimoni A, Kröger N, Zabelina T, Ayuk F, Hardan I, Yeshurun M, Shem-Tov N, Avigdor A, Ben-Bassat I, Zander AR, Nagler A. Hematopoietic stem-cell transplantation from unrelated donors in elderly patients (age >55 years) with hematologic malignancies: older age is no longer a contraindication when using reduced intensity conditioning. Leukemia. 2005;19(1):7–12.",
+          "zh": "Shimoni A, Kröger N, Zabelina T, Ayuk F, Hardan I, Yeshurun M, Shem-Tov N, Avigdor A, Ben-Bassat I, Zander AR, Nagler A. Hematopoietic stem-cell transplantation from unrelated donors in elderly patients (age >55 years) with hematologic malignancies: older age is no longer a contraindication when using reduced intensity conditioning. Leukemia. 2005;19(1):7–12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shimoni%20A%2C%20Kr%C3%B6ger%20N%2C%20Zabelina%20T%2C%20Ayuk%20F%2C%20Hardan%20I%2C%20Yeshurun%20M%2C%20Shem-Tov%20N%2C%20Avigdor%20A%2C%20Ben-Bassat%20I%2C%20Zander%20AR%2C%20Nagler%20A.%20Hematopoietic%20stem-cell%20transplantation%20from%20unrelated%20donors%20in%20elderly%20patients%20(age%20%3E55%20years)%20with%20hematologic%20malignancies%3A%20older%20age%20is%20no%20longer%20a%20contraindication%20when%20using%20reduced%20intensity%20conditioning.%20Leukemia.%202005%3B19(1)%3A7%E2%80%9312."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shimoni%20A%2C%20Kr%C3%B6ger%20N%2C%20Zabelina%20T%2C%20Ayuk%20F%2C%20Hardan%20I%2C%20Yeshurun%20M%2C%20Shem-Tov%20N%2C%20Avigdor%20A%2C%20Ben-Bassat%20I%2C%20Zander%20AR%2C%20Nagler%20A.%20Hematopoietic%20stem-cell%20transplantation%20from%20unrelated%20donors%20in%20elderly%20patients%20(age%20%3E55%20years)%20with%20hematologic%20malignancies%3A%20older%20age%20is%20no%20longer%20a%20contraindication%20when%20using%20reduced%20intensity%20conditioning.%20Leukemia.%202005%3B19(1)%3A7%E2%80%9312."
+            }
+          ]
+        },
+        {
+          "id": 7000105,
+          "page": 624,
+          "en": "Shouval R, Labopin M, Bondi O, et al. Prediction of allogeneic hematopoietic stem-cell transplantation mortality 100 days after transplantation using a machine learning algorithm: a European Group for Blood and Marrow Transplantation Acute Leukemia Working Party Retrospective Data Mining Study. J Clin Oncol. 2015;33:3144–51.",
+          "zh": "Shouval R, Labopin M, Bondi O, et al. Prediction of allogeneic hematopoietic stem-cell transplantation mortality 100 days after transplantation using a machine learning algorithm: a European Group for Blood and Marrow Transplantation Acute Leukemia Working Party Retrospective Data Mining Study. J Clin Oncol. 2015;33:3144–51.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shouval%20R%2C%20Labopin%20M%2C%20Bondi%20O%2C%20et%20al.%20Prediction%20of%20allogeneic%20hematopoietic%20stem-cell%20transplantation%20mortality%20100%20days%20after%20transplantation%20using%20a%20machine%20learning%20algorithm%3A%20a%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20Acute%20Leukemia%20Working%20Party%20Retrospective%20Data%20Mining%20Study.%20J%20Clin%20Oncol.%202015%3B33%3A3144%E2%80%9351."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shouval%20R%2C%20Labopin%20M%2C%20Bondi%20O%2C%20et%20al.%20Prediction%20of%20allogeneic%20hematopoietic%20stem-cell%20transplantation%20mortality%20100%20days%20after%20transplantation%20using%20a%20machine%20learning%20algorithm%3A%20a%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20Acute%20Leukemia%20Working%20Party%20Retrospective%20Data%20Mining%20Study.%20J%20Clin%20Oncol.%202015%3B33%3A3144%E2%80%9351."
+            }
+          ]
+        },
+        {
+          "id": 7000106,
+          "page": 624,
+          "en": "Slavin S, Nagler A, Naparstek E, Kapelushnik Y, Aker M, Cividalli G, Varadi G, Kirschbaum M, Ackerstein A, Samuel S, Amar A, Brautbar C, Ben-Tal O, Eldor A, Or R. Nonmyeloablative stem cell transplantation and cell therapy as an alternative to conventional bone marrow transplantation with lethal cytoreduction for the treatment of malignant and nonmalignant hematologic diseases. Blood. 1998;91(3):756–63.",
+          "zh": "Slavin S, Nagler A, Naparstek E, Kapelushnik Y, Aker M, Cividalli G, Varadi G, Kirschbaum M, Ackerstein A, Samuel S, Amar A, Brautbar C, Ben-Tal O, Eldor A, Or R. Nonmyeloablative stem cell transplantation and cell therapy as an alternative to conventional bone marrow transplantation with lethal cytoreduction for the treatment of malignant and nonmalignant hematologic diseases. Blood. 1998;91(3):756–63.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Slavin%20S%2C%20Nagler%20A%2C%20Naparstek%20E%2C%20Kapelushnik%20Y%2C%20Aker%20M%2C%20Cividalli%20G%2C%20Varadi%20G%2C%20Kirschbaum%20M%2C%20Ackerstein%20A%2C%20Samuel%20S%2C%20Amar%20A%2C%20Brautbar%20C%2C%20Ben-Tal%20O%2C%20Eldor%20A%2C%20Or%20R.%20Nonmyeloablative%20stem%20cell%20transplantation%20and%20cell%20therapy%20as%20an%20alternative%20to%20conventional%20bone%20marrow%20transplantation%20with%20lethal%20cytoreduction%20for%20the%20treatment%20of%20malignant%20and%20nonmalignant%20hematologic%20diseases.%20Blood.%201998%3B91(3)%3A756%E2%80%9363."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Slavin%20S%2C%20Nagler%20A%2C%20Naparstek%20E%2C%20Kapelushnik%20Y%2C%20Aker%20M%2C%20Cividalli%20G%2C%20Varadi%20G%2C%20Kirschbaum%20M%2C%20Ackerstein%20A%2C%20Samuel%20S%2C%20Amar%20A%2C%20Brautbar%20C%2C%20Ben-Tal%20O%2C%20Eldor%20A%2C%20Or%20R.%20Nonmyeloablative%20stem%20cell%20transplantation%20and%20cell%20therapy%20as%20an%20alternative%20to%20conventional%20bone%20marrow%20transplantation%20with%20lethal%20cytoreduction%20for%20the%20treatment%20of%20malignant%20and%20nonmalignant%20hematologic%20diseases.%20Blood.%201998%3B91(3)%3A756%E2%80%9363."
+            }
+          ]
+        },
+        {
+          "id": 7000107,
+          "page": 624,
+          "en": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, Basak GW, Chabannon C, de la Camara R, Dolstra H, et al. Indications for Haematopoietic cell transplantation for Haematological diseases, solid Tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57(8):1217–39.",
+          "zh": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, Basak GW, Chabannon C, de la Camara R, Dolstra H, et al. Indications for Haematopoietic cell transplantation for Haematological diseases, solid Tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57(8):1217–39.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Snowden%20JA%2C%20S%C3%A1nchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20Basak%20GW%2C%20Chabannon%20C%2C%20de%20la%20Camara%20R%2C%20Dolstra%20H%2C%20et%20al.%20Indications%20for%20Haematopoietic%20cell%20transplantation%20for%20Haematological%20diseases%2C%20solid%20Tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57(8)%3A1217%E2%80%9339."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Snowden%20JA%2C%20S%C3%A1nchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20Basak%20GW%2C%20Chabannon%20C%2C%20de%20la%20Camara%20R%2C%20Dolstra%20H%2C%20et%20al.%20Indications%20for%20Haematopoietic%20cell%20transplantation%20for%20Haematological%20diseases%2C%20solid%20Tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57(8)%3A1217%E2%80%9339."
+            }
+          ]
+        },
+        {
+          "id": 7000108,
+          "page": 624,
+          "en": "Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT. Blood. 2005;106:2912–9.",
+          "zh": "Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT. Blood. 2005;106:2912–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sorror%20ML%2C%20Maris%20MB%2C%20Storb%20R%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20(HCT)-specific%20comorbidity%20index%3A%20a%20new%20tool%20for%20risk%20assessment%20before%20allogeneic%20HCT.%20Blood.%202005%3B106%3A2912%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sorror%20ML%2C%20Maris%20MB%2C%20Storb%20R%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20(HCT)-specific%20comorbidity%20index%3A%20a%20new%20tool%20for%20risk%20assessment%20before%20allogeneic%20HCT.%20Blood.%202005%3B106%3A2912%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 7000109,
+          "page": 624,
+          "en": "Sorror ML, Sandmaier BM, Storer BE, et al. Comorbidity and disease status based risk stratification of outcomes among patients with acute myeloid leukemia or myelodysplasia receiving allogeneic hematopoietic cell transplantation. J Clin Oncol. 2007;25:4246–54.",
+          "zh": "Sorror ML, Sandmaier BM, Storer BE, et al. Comorbidity and disease status based risk stratification of outcomes among patients with acute myeloid leukemia or myelodysplasia receiving allogeneic hematopoietic cell transplantation. J Clin Oncol. 2007;25:4246–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sorror%20ML%2C%20Sandmaier%20BM%2C%20Storer%20BE%2C%20et%20al.%20Comorbidity%20and%20disease%20status%20based%20risk%20stratification%20of%20outcomes%20among%20patients%20with%20acute%20myeloid%20leukemia%20or%20myelodysplasia%20receiving%20allogeneic%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202007%3B25%3A4246%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sorror%20ML%2C%20Sandmaier%20BM%2C%20Storer%20BE%2C%20et%20al.%20Comorbidity%20and%20disease%20status%20based%20risk%20stratification%20of%20outcomes%20among%20patients%20with%20acute%20myeloid%20leukemia%20or%20myelodysplasia%20receiving%20allogeneic%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202007%3B25%3A4246%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 7000110,
+          "page": 624,
+          "en": "Sorror ML, Storb RF, Sandmaier BM, et al. Comorbidity-age index: a clinical measure of biologic age before allogeneic hematopoietic cell transplantation. J Clin Oncol. 2014;32:3249–56.",
+          "zh": "Sorror ML, Storb RF, Sandmaier BM, et al. Comorbidity-age index: a clinical measure of biologic age before allogeneic hematopoietic cell transplantation. J Clin Oncol. 2014;32:3249–56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sorror%20ML%2C%20Storb%20RF%2C%20Sandmaier%20BM%2C%20et%20al.%20Comorbidity-age%20index%3A%20a%20clinical%20measure%20of%20biologic%20age%20before%20allogeneic%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202014%3B32%3A3249%E2%80%9356."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sorror%20ML%2C%20Storb%20RF%2C%20Sandmaier%20BM%2C%20et%20al.%20Comorbidity-age%20index%3A%20a%20clinical%20measure%20of%20biologic%20age%20before%20allogeneic%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202014%3B32%3A3249%E2%80%9356."
+            }
+          ]
+        },
+        {
+          "id": 7000111,
+          "page": 624,
+          "en": "Stelljes M, Krug U, Beelen DW, et al. Allogeneic transplantation versus chemotherapy as postremission therapy for acute myeloid leukemia: a prospective matched pairs analysis. J Clin Oncol. 2014;32:288–96.",
+          "zh": "Stelljes M, Krug U, Beelen DW, et al. Allogeneic transplantation versus chemotherapy as postremission therapy for acute myeloid leukemia: a prospective matched pairs analysis. J Clin Oncol. 2014;32:288–96.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Stelljes%20M%2C%20Krug%20U%2C%20Beelen%20DW%2C%20et%20al.%20Allogeneic%20transplantation%20versus%20chemotherapy%20as%20postremission%20therapy%20for%20acute%20myeloid%20leukemia%3A%20a%20prospective%20matched%20pairs%20analysis.%20J%20Clin%20Oncol.%202014%3B32%3A288%E2%80%9396."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Stelljes%20M%2C%20Krug%20U%2C%20Beelen%20DW%2C%20et%20al.%20Allogeneic%20transplantation%20versus%20chemotherapy%20as%20postremission%20therapy%20for%20acute%20myeloid%20leukemia%3A%20a%20prospective%20matched%20pairs%20analysis.%20J%20Clin%20Oncol.%202014%3B32%3A288%E2%80%9396."
+            }
+          ]
+        },
+        {
+          "id": 7000112,
+          "page": 624,
+          "en": "Stone RM, Mandrekar SJ, Sanford BL, et al. Midostaurin plus chemotherapy for acute myeloid leukemia with a FLT3 mutation. N Engl J Med. 2017;377:454–64.",
+          "zh": "Stone RM, Mandrekar SJ, Sanford BL, et al. Midostaurin plus chemotherapy for acute myeloid leukemia with a FLT3 mutation. N Engl J Med. 2017;377:454–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Stone%20RM%2C%20Mandrekar%20SJ%2C%20Sanford%20BL%2C%20et%20al.%20Midostaurin%20plus%20chemotherapy%20for%20acute%20myeloid%20leukemia%20with%20a%20FLT3%20mutation.%20N%20Engl%20J%20Med.%202017%3B377%3A454%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Stone%20RM%2C%20Mandrekar%20SJ%2C%20Sanford%20BL%2C%20et%20al.%20Midostaurin%20plus%20chemotherapy%20for%20acute%20myeloid%20leukemia%20with%20a%20FLT3%20mutation.%20N%20Engl%20J%20Med.%202017%3B377%3A454%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 7000113,
+          "page": 624,
+          "en": "Todisco E, Ciceri F, Boschini C, et al. Factors predicting outcome after allogeneic transplant in refractory acute myeloid leukemia: a retrospective analysis of Gruppo Italiano Trapianto di Midollo Osseo (GITMO). Bone Marrow Transplant. 2017a;52:955–61.",
+          "zh": "Todisco E, Ciceri F, Boschini C, et al. Factors predicting outcome after allogeneic transplant in refractory acute myeloid leukemia: a retrospective analysis of Gruppo Italiano Trapianto di Midollo Osseo (GITMO). Bone Marrow Transplant. 2017a;52:955–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Todisco%20E%2C%20Ciceri%20F%2C%20Boschini%20C%2C%20et%20al.%20Factors%20predicting%20outcome%20after%20allogeneic%20transplant%20in%20refractory%20acute%20myeloid%20leukemia%3A%20a%20retrospective%20analysis%20of%20Gruppo%20Italiano%20Trapianto%20di%20Midollo%20Osseo%20(GITMO).%20Bone%20Marrow%20Transplant.%202017a%3B52%3A955%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Todisco%20E%2C%20Ciceri%20F%2C%20Boschini%20C%2C%20et%20al.%20Factors%20predicting%20outcome%20after%20allogeneic%20transplant%20in%20refractory%20acute%20myeloid%20leukemia%3A%20a%20retrospective%20analysis%20of%20Gruppo%20Italiano%20Trapianto%20di%20Midollo%20Osseo%20(GITMO).%20Bone%20Marrow%20Transplant.%202017a%3B52%3A955%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 7000114,
+          "page": 624,
+          "en": "Venditti A, Piciocchi A, Candoni A, Melillo L, Calafiore V, Cairoli R, de Fabritiis P, et al. GIMEMA AML1310 trial of risk-adapted, MRD-directed therapy for young adults with newly diagnosed acute myeloid leukemia. Blood. 2019;134(12):935–45.",
+          "zh": "Venditti A, Piciocchi A, Candoni A, Melillo L, Calafiore V, Cairoli R, de Fabritiis P, et al. GIMEMA AML1310 trial of risk-adapted, MRD-directed therapy for young adults with newly diagnosed acute myeloid leukemia. Blood. 2019;134(12):935–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Venditti%20A%2C%20Piciocchi%20A%2C%20Candoni%20A%2C%20Melillo%20L%2C%20Calafiore%20V%2C%20Cairoli%20R%2C%20de%20Fabritiis%20P%2C%20et%20al.%20GIMEMA%20AML1310%20trial%20of%20risk-adapted%2C%20MRD-directed%20therapy%20for%20young%20adults%20with%20newly%20diagnosed%20acute%20myeloid%20leukemia.%20Blood.%202019%3B134(12)%3A935%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Venditti%20A%2C%20Piciocchi%20A%2C%20Candoni%20A%2C%20Melillo%20L%2C%20Calafiore%20V%2C%20Cairoli%20R%2C%20de%20Fabritiis%20P%2C%20et%20al.%20GIMEMA%20AML1310%20trial%20of%20risk-adapted%2C%20MRD-directed%20therapy%20for%20young%20adults%20with%20newly%20diagnosed%20acute%20myeloid%20leukemia.%20Blood.%202019%3B134(12)%3A935%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 7000115,
+          "page": 624,
+          "en": "Versluis J, Labopin M, Niederwieser D, et al. Prediction of non-relapse mortality in recipients of reduced intensity conditioning allogeneic stem cell transplantation with AML in first complete remission. Leukemia. 2015;29:51–7.",
+          "zh": "Versluis J, Labopin M, Niederwieser D, et al. Prediction of non-relapse mortality in recipients of reduced intensity conditioning allogeneic stem cell transplantation with AML in first complete remission. Leukemia. 2015;29:51–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Versluis%20J%2C%20Labopin%20M%2C%20Niederwieser%20D%2C%20et%20al.%20Prediction%20of%20non-relapse%20mortality%20in%20recipients%20of%20reduced%20intensity%20conditioning%20allogeneic%20stem%20cell%20transplantation%20with%20AML%20in%20first%20complete%20remission.%20Leukemia.%202015%3B29%3A51%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Versluis%20J%2C%20Labopin%20M%2C%20Niederwieser%20D%2C%20et%20al.%20Prediction%20of%20non-relapse%20mortality%20in%20recipients%20of%20reduced%20intensity%20conditioning%20allogeneic%20stem%20cell%20transplantation%20with%20AML%20in%20first%20complete%20remission.%20Leukemia.%202015%3B29%3A51%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 7000116,
+          "page": 624,
+          "en": "Versluis J, Kalin B, Zeijlemaker W, Passweg J, Graux C, Manz MG, Vekemans M-C, et al. Graft-versus-leukemia effect of allogeneic stem-cell transplantation and minimal residual disease in patients with acute myeloid leukemia in first complete remission. JCO Precis Oncol. 2017a;1(November):1–13.",
+          "zh": "Versluis J, Kalin B, Zeijlemaker W, Passweg J, Graux C, Manz MG, Vekemans M-C, et al. Graft-versus-leukemia effect of allogeneic stem-cell transplantation and minimal residual disease in patients with acute myeloid leukemia in first complete remission. JCO Precis Oncol. 2017a;1(November):1–13.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Versluis%20J%2C%20Kalin%20B%2C%20Zeijlemaker%20W%2C%20Passweg%20J%2C%20Graux%20C%2C%20Manz%20MG%2C%20Vekemans%20M-C%2C%20et%20al.%20Graft-versus-leukemia%20effect%20of%20allogeneic%20stem-cell%20transplantation%20and%20minimal%20residual%20disease%20in%20patients%20with%20acute%20myeloid%20leukemia%20in%20first%20complete%20remission.%20JCO%20Precis%20Oncol.%202017a%3B1(November)%3A1%E2%80%9313."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Versluis%20J%2C%20Kalin%20B%2C%20Zeijlemaker%20W%2C%20Passweg%20J%2C%20Graux%20C%2C%20Manz%20MG%2C%20Vekemans%20M-C%2C%20et%20al.%20Graft-versus-leukemia%20effect%20of%20allogeneic%20stem-cell%20transplantation%20and%20minimal%20residual%20disease%20in%20patients%20with%20acute%20myeloid%20leukemia%20in%20first%20complete%20remission.%20JCO%20Precis%20Oncol.%202017a%3B1(November)%3A1%E2%80%9313."
+            }
+          ]
+        },
+        {
+          "id": 7000117,
+          "page": 624,
+          "en": "Versluis J, In’t Hout FE, Devillier R, et al. Comparative value of post-remission treatment in cytogenetically normal AML subclassified by NPM1 and FLT3-ITD allelic ratio. Leukemia. 2017b;31:26–33.",
+          "zh": "Versluis J, In’t Hout FE, Devillier R, et al. Comparative value of post-remission treatment in cytogenetically normal AML subclassified by NPM1 and FLT3-ITD allelic ratio. Leukemia. 2017b;31:26–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Versluis%20J%2C%20In%E2%80%99t%20Hout%20FE%2C%20Devillier%20R%2C%20et%20al.%20Comparative%20value%20of%20post-remission%20treatment%20in%20cytogenetically%20normal%20AML%20subclassified%20by%20NPM1%20and%20FLT3-ITD%20allelic%20ratio.%20Leukemia.%202017b%3B31%3A26%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Versluis%20J%2C%20In%E2%80%99t%20Hout%20FE%2C%20Devillier%20R%2C%20et%20al.%20Comparative%20value%20of%20post-remission%20treatment%20in%20cytogenetically%20normal%20AML%20subclassified%20by%20NPM1%20and%20FLT3-ITD%20allelic%20ratio.%20Leukemia.%202017b%3B31%3A26%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 7000118,
+          "page": 624,
+          "en": "Yanada M, Tsuzuki M, Fujita H, et al. Phase 2 study of arsenic trioxide followed by autologous hematopoietic cell transplantation for relapsed acute promyelocytic leukemia. Blood. 2013;121:3095–102.",
+          "zh": "Yanada M, Tsuzuki M, Fujita H, et al. Phase 2 study of arsenic trioxide followed by autologous hematopoietic cell transplantation for relapsed acute promyelocytic leukemia. Blood. 2013;121:3095–102.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yanada%20M%2C%20Tsuzuki%20M%2C%20Fujita%20H%2C%20et%20al.%20Phase%202%20study%20of%20arsenic%20trioxide%20followed%20by%20autologous%20hematopoietic%20cell%20transplantation%20for%20relapsed%20acute%20promyelocytic%20leukemia.%20Blood.%202013%3B121%3A3095%E2%80%93102."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yanada%20M%2C%20Tsuzuki%20M%2C%20Fujita%20H%2C%20et%20al.%20Phase%202%20study%20of%20arsenic%20trioxide%20followed%20by%20autologous%20hematopoietic%20cell%20transplantation%20for%20relapsed%20acute%20promyelocytic%20leukemia.%20Blood.%202013%3B121%3A3095%E2%80%93102."
+            }
+          ]
+        },
+        {
+          "id": 7000119,
+          "page": 624,
+          "en": "Yanada M, Yano S, Kanamori H, et al. Autologous hematopoietic cell transplantation for acute promyelocytic leukemia in second complete remission: outcomes before and after the introduction of arsenic trioxide. Leukemia Lymphoma. 2017;58:1061–7.",
+          "zh": "Yanada M, Yano S, Kanamori H, et al. Autologous hematopoietic cell transplantation for acute promyelocytic leukemia in second complete remission: outcomes before and after the introduction of arsenic trioxide. Leukemia Lymphoma. 2017;58:1061–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yanada%20M%2C%20Yano%20S%2C%20Kanamori%20H%2C%20et%20al.%20Autologous%20hematopoietic%20cell%20transplantation%20for%20acute%20promyelocytic%20leukemia%20in%20second%20complete%20remission%3A%20outcomes%20before%20and%20after%20the%20introduction%20of%20arsenic%20trioxide.%20Leukemia%20Lymphoma.%202017%3B58%3A1061%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yanada%20M%2C%20Yano%20S%2C%20Kanamori%20H%2C%20et%20al.%20Autologous%20hematopoietic%20cell%20transplantation%20for%20acute%20promyelocytic%20leukemia%20in%20second%20complete%20remission%3A%20outcomes%20before%20and%20after%20the%20introduction%20of%20arsenic%20trioxide.%20Leukemia%20Lymphoma.%202017%3B58%3A1061%E2%80%937."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 625,
+      "blocks": [
+        {
+          "id": 7000120,
+          "page": 625,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）授權。只要適當註明原作者與來源、提供 Creative Commons 授權連結，並指出是否有修改，即可於任何媒體或格式使用、分享、改作、散布及重製。\n除素材來源註記另有說明外，本章內之圖片或其他第三方素材均納入本章之 Creative Commons 授權範圍。若素材未包含於本章之 Creative Commons 授權內，且您的預期使用方式不為法規所許可或超過允許之使用範圍，您必須直接向著作權人取得授權許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

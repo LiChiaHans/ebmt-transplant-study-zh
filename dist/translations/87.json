@@ -1,0 +1,486 @@
+{
+  "id": 87,
+  "title": "Mantle Cell Lymphoma",
+  "engine": "Google 翻譯輔助之 AI 逐段翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 65,
+  "scope": "正文、小節、表格、圖說與原有章末重點依PDF閱讀順序逐段翻譯；藥物、縮寫及書目專名可保留英文，原圖版面請回查PDF。AI翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 767,
+      "blocks": [
+        {
+          "id": 8700001,
+          "page": 767,
+          "en": "87 Mantle Cell Lymphoma — Ben-Niklas Baermann and Sascha Dietrich",
+          "zh": "87 套細胞淋巴瘤 — Ben-Niklas Baermann 和 Sascha Dietrich",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700002,
+          "page": 767,
+          "en": "Author affiliations: Department of Hematology, University Hospital of Düsseldorf, Düsseldorf, Germany. Correspondence: sascha.dietrich@med.uni-duesseldorf.de.",
+          "zh": "作者單位：德國杜塞爾多夫杜塞爾多夫大學醫院血液科。通訊地址：sascha.dietrich@med.uni-duesseldorf.de。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700003,
+          "page": 767,
+          "en": "87.1 Introduction Mantle cell lymphoma (MCL) is an aggressive B-cell lymphoma, which is characterized by the chromosomal translocation t(11;14)(q13;q32) and overexpression of cyclin D1 in the vast majority of cases. Most patients present with advanced stage disease often with extra-nodal dissemination. High Ki67 proliferation index (Hoster et al. 2016), blastoid histologic variant (Bernard et al. 2001), and TP53 mutations represent high-risk features at diagnosis (Eskelund et al. 2017).",
+          "zh": "87.1 簡介 套細胞淋巴瘤 (MCL) 是一種侵襲性 B 細胞淋巴瘤，其特徵是絕大多數病例中染色體易位 t(11;14)(q13;q32) 和細胞週期蛋白 D1 過度表達。大多數患者出現晚期疾病，通常伴隨結外播散。高 Ki67 增殖指數 (Hoster et al. 2016)、母細胞組織學變異 (Bernard et al. 2001) 和 TP53 突變代表診斷時的高風險特徵 (Eskelund et al. 2017)。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700004,
+          "page": 767,
+          "en": "Front-line treatment of MCL has improved considerably, but success with chemotherapybased treatments of relapsed and refractory (R/R)",
+          "zh": "MCL 的第一線治療已有顯著進步，但以化療為基礎的治療對復發／難治性（R/R）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700005,
+          "page": 767,
+          "en": "MCL has been limited (Dreyling et al. 2017). A paradigm shift from chemoimmunotherapy to targeted- and cellular therapies, such as chimeric antigen receptor (CAR) T-cell treatment, is currently changing the dismal prognosis of R/R MCL.",
+          "zh": "MCL 的成效有限（Dreyling et al. 2017）。目前正從化學免疫治療轉向標靶與細胞治療，例如嵌合抗原受體（CAR）T 細胞治療，因而改變 R/R MCL 原本不佳的預後。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700006,
+          "page": 767,
+          "en": "87.2 Autologous HCT During recent years, the prognosis of patients with MCL has improved considerably, and the refinement of dose-intensified approaches such as auto- HCT has contributed significantly to this development. A prospective randomized trial by the European Mantle Cell Lymphoma Network (EMCLN) has demonstrated the superiority of auto-HCT consolidation over interferon maintenance (Dreyling et al. 2005) in the pre-RTX era.",
+          "zh": "87.2 自體 HCT 近年 MCL 患者的預後大幅改善，自體 HCT 等劑量強化策略的精進對此貢獻良多。歐洲套細胞淋巴瘤網絡（EMCLN）的前瞻性隨機試驗顯示，在 RTX 問世前，自體 HCT 鞏固治療優於 interferon 維持治療（Dreyling et al. 2005）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700007,
+          "page": 767,
+          "en": "The introduction of RTX and the addition of highdose cytarabine (HD-ARAC) to the induction treatment before auto-HCT have further improved PFS and OS of MCL patients (Cheah et al. 2016; Geisler et al. 2008). The benefit of HD-ARAC before auto- HCT could be confirmed in prospective clinical trial (Hermine et al. 2016). The French study group conducted a prospective randomized phase III trial (LyMa trial) that investigated RTX maintenance versus observation after auto-HCT in previously untreated MCL patients. Final results of the LyMa trial confirmed the superiority of RTX maintenance with regard to PFS and OS (Le Gouill et al. 2017).",
+          "zh": "RTX 的引入，以及在自體 HCT 前的誘導治療中加入高劑量 cytarabine（HD-ARAC），進一步改善 MCL 患者的 PFS 與 OS（Cheah et al. 2016；Geisler et al. 2008）。前瞻性臨床試驗亦證實自體 HCT 前使用 HD-ARAC 的效益（Hermine et al. 2016）。法國研究團隊進行 LyMa III 期前瞻性隨機試驗，比較先前未治療 MCL 患者於自體 HCT 後接受 RTX 維持治療或觀察；最終結果證實 RTX 維持治療在 PFS 與 OS 方面均較佳（Le Gouill et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700008,
+          "page": 767,
+          "en": "The beneficial effect of RTX maintenance was observed in both PETpositive and PET-negative patients after induction treatment prior to auto- HCT (Mei et al. 2017). This finding implies that the benefit of RTX maintenance after auto-HCT is present for low- and high-risk MCL patients (Dietrich et al. 2014b, Graf et al. 2015).",
+          "zh": "在自體 HCT 之前的誘導治療後，在 PET 陽性和 PET 陰性患者中觀察到 RTX 維持的有益效果 (Mei et al. 2017)。這項發現表明，自體 HCT 後進行 RTX 維持治療對於低風險和高風險 MCL 患者均具有益處（Dietrich 等人，2014b；Graf 等人，2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700009,
+          "page": 767,
+          "en": "Very recently, first results of the TRIANGLE study revealed that the addition of Ibrutinib to HD-ARAC induction followed by RTX and ibrutinib maintenance further improved first-line treatment of MCL (Dreyling et al. 2022). Ibrutinib with RTX- and HD-ARAC-based induction treatment can therefore be considered as the new",
+          "zh": "近期 TRIANGLE 研究的初步結果顯示，在 HD-ARAC 誘導治療加入 ibrutinib，之後再以 RTX 與 ibrutinib 維持，可進一步改善 MCL 第一線治療（Dreyling et al. 2022）。因此，ibrutinib 合併以 RTX 與 HD-ARAC 為基礎的誘導治療，可視為年輕且體能良好 MCL 患者的新",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 768,
+      "blocks": [
+        {
+          "id": 8700010,
+          "page": 768,
+          "en": "firstline standard treatment for young and fit MCL patients. A second experimental arm of the TRIANGLE study investigated ibrutinib and HD-ARAC induction treatment without auto- HCT consolidation. So far, it can be concluded that ibrutinib and HD-ARAC without auto-HCT is significantly better than HD-ARAC followed by auto-HCT. If the auto-HCT after ibrutinib and HD-ARAC induction can be omitted needs to be shown with longer follow-up of the TRIANLE study. In MIPI low-risk patients, however, it seems very unlikely that a consolidating auto- HCT further improves outcome. It seems also unlikely that TP53-mutated MCLs benefit from high-dose chemotherapy and auto-HCT. Auto- HCT in these two selected groups of MCL patients should therefore be critically discussed.",
+          "zh": "第一線標準治療。TRIANGLE 的第二個實驗組評估 ibrutinib 與 HD-ARAC 誘導而不接受自體 HCT 鞏固；目前可知，此方案優於 HD-ARAC 後接自體 HCT。ibrutinib 與 HD-ARAC 誘導後能否省略自體 HCT，仍須更長期追蹤。對 MIPI 低風險患者，自體 HCT 鞏固似乎不太可能再改善結果；TP53 突變 MCL 亦不太可能從高劑量化療與自體 HCT 獲益。因此，這兩類患者是否接受自體 HCT 應審慎討論。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700011,
+          "page": 768,
+          "en": "87.3 Chimeric Antigen Receptor T-Cell Therapy Although a significant proportion of patients with MCL enjoy long-term disease control after intensive first-line therapies, relapse remains the main cause of treatment failure. The prognosis of patients with MCL recurrence after auto-HCT appears to be extremely poor, especially if occurring early after transplant (Dietrich et al. 2011, 2014a). A proportion of almost 40% of MCL patients relapsing after auto-HCT were reported to suffer from chemotherapy-refractory disease (Dietrich et al. 2014a) with a high prevalence of clonal TP53 mutations (Halldorsdottir et al.",
+          "zh": "87.3 嵌合抗原受體 T 細胞治療 雖然相當比例的 MCL 患者在強化第一線治療後可長期控制疾病，復發仍是治療失敗的主因。自體 HCT 後復發的預後極差，尤其是移植後早期復發者（Dietrich et al. 2011, 2014a）。近 40% 自體 HCT 後復發患者為化療難治性疾病（Dietrich et al. 2014a），且克隆性 TP53 突變盛行率很高（Halldorsdottir et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700012,
+          "page": 768,
+          "en": "2011).",
+          "zh": "2011）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700013,
+          "page": 768,
+          "en": "The advance of autologous, CD19-directed CART-cell therapies marked a significant improvement for the treatment of R/R MCL. In patients with prior BTKi exposure, single infusion of Brexucabtagene autoleucel (brexu-cel) resulted in 91% response rate (68% CR) and median PFS of 28.2 month after three years of follow-up (Wang et al. 2023a). Real-world data from the Europe and United states confirmed the excellent outcome with significant proportion of long-term remissions (Iacoboni et al. 2022; Wang et al. 2023b).",
+          "zh": "自體、CD19 導向的 CAR T 細胞療法的進步標誌著 R/R MCL 治療的顯著改善。在先前接受 BTKi 治療的患者中，單次輸注 Brexucabtagene autoleucel (brexu-cel) 的緩解率達 91% (68% CR)，三年追蹤後中位 PFS 為 28.2 個月 (Wang et al. 2023a)。來自歐洲和美國的真實世界數據證實了良好的結果，並且長期緩解的比例很高（Iacoboni 等人，2022 年；Wang 等人，2023b）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700014,
+          "page": 768,
+          "en": "Grade 3 or higher cytokine release syndromes (CRS) and neurologic events occurred in 15% and 31% of patients, respectively. Patients below and above the age of 65 years had similar outcomes after treatment with brexu-cel (Wang et al.",
+          "zh": "3 級以上 cytokine release syndrome（CRS）與神經事件的發生率分別為 15% 與 31%。65 歲以下與以上患者接受 brexu-cel 後的結果相近（Wang et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700015,
+          "page": 768,
+          "en": "2023a), suggesting that CAR T-cell treatment can be applied in MCL patients who are not eligible for autologous or allogeneic HCT. Frail patients (ECOG ≥2), however, are more frequently affected by higher grade neurologic toxicities (ICANS) (Wang et al. 2023b). Although much better tolerable than allogeneic HCT cumulative 1-year nonrelapse mortality Brexucabtagene can reach 9.1% in patients with MCL.",
+          "zh": "2023a)，顯示CAR T細胞治療可應用於不適合自體或同種異體HCT的MCL患者。然而，體弱的患者 (ECOG ≥2) 更容易受到高階神經毒性 (ICANS) 的影響（Wang 等人，2023b）。儘管 Brexucabtagene 的耐受性比異體 HCT 好得多，但 MCL 患者的 1 年累計非復發死亡率可達 9.1%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700016,
+          "page": 768,
+          "en": "Due to its better safety profile, CAR T-cell therapy can be considered as the new standard for MCL relapse after ibrutibib treatment. As a consequence, most MCL patients receive CAR T-cell therapy in third line or later, but there is interest in using CAR T-cell therapy in earlier lines. The CARMAN study conducted the European Mantle Cell Lymphoma Network (EMCLN) will investigate the efficacy of CAR T-cells in first line for high-risk patients.",
+          "zh": "由於其更好的安全性，CAR T細胞療法可以被認為是ibrutinib治療後MCL復發的新標準。因此，大多數 MCL 患者在三線或更晚的時間接受 CAR T 細胞治療，但人們對在早期線使用 CAR T 細胞治療感興趣。歐洲套細胞淋巴瘤網絡 (EMCLN) 進行的 CARMAN 研究將調查 CAR T 細胞一線治療高風險患者的療效。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700017,
+          "page": 768,
+          "en": "87.4 Allogeneic HCT In a large EBMT registry study, which investigated the outcome of MCL patients after first-line auto-HCT failure, 24% of all MCL patients received a rescue consolidation HCT. Only a minority of 2% received a second auto-HCT of whom only one patient experienced a long-term survival. These limited results do not justify a rescue auto-HCT as reasonable salvage strategy in this situation. In contrast, the majority of patients who received a second HCT underwent allo-HCT, and a significant proportion of them achieved a durable remission, translating into a 3-year OS of 43% (Dietrich et al. 2014a). Other registry studies and single-center experiences report similar results (Cook et al. 2010; Tam et al.",
+          "zh": "87.4 異體 HCT 一項大型 EBMT 登錄研究評估 MCL 患者第一線自體 HCT 失敗後的結果：24% 接受挽救性鞏固 HCT；僅 2% 接受第二次自體 HCT，且只有一人長期存活，因此不足以支持此策略。相較之下，多數接受第二次 HCT 者採異體 HCT，且相當比例獲得持久緩解，3 年 OS 為 43%（Dietrich et al. 2014a）。其他登錄研究與單中心經驗亦有相似結果（Cook et al. 2010；Tam et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700018,
+          "page": 768,
+          "en": "2009; Le Gouill et al. 2012).",
+          "zh": "2009；Le Gouill et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700019,
+          "page": 768,
+          "en": "Long-term efficacy of RIC allo-HCT was recently demonstrated in a large cohort of MCL patients (Robinson et al. 2018). The cumulative incidence of relapse was 40% at 5 years, and OS was 40% at 5 years. Patients who developed a chronic GVHD and/or patients who did not receive an in vivo TCD with CAMPATH had a",
+          "zh": "RIC 異體 HCT 的長期療效最近在一大群 MCL 患者中得到證實（Robinson 等人，2018）。 5 年累積復發率為 40%，5 年總存活率為 40%。發生慢性 GVHD 的患者和/或未接受 CAMPATH 體內 TCD 治療的患者",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 769,
+      "blocks": [
+        {
+          "id": 8700020,
+          "page": 769,
+          "en": "significantly lower relapse rate, suggesting the existence of a graft versus MCL effect. Despite long-term remissions after allo-HCT, chemorefractory disease (Robinson et al. 2018) or early relapse after first-line auto-HCT (Dietrich et al.",
+          "zh": "復發率顯著較低，顯示存在移植物抗 MCL 效應。儘管異體 HCT 可帶來長期緩解，化療難治性疾病（Robinson et al. 2018）或第一線自體 HCT 後早期復發（Dietrich et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700021,
+          "page": 769,
+          "en": "2014a) significantly reduced the long-term survival of MCL patients after allo-HCT. CAR-Tcell therapy seems to provide better outcome in this setting, although direct comparison is pending (Iacoboni et al. 2022; Wang et al. 2023a). It is important to note that there is a small group of relapsed MCL patients who survived longer than 5 years even without allo-HCT, suggesting a rather indolent disease course in a subset of patients (Dietrich et al. 2014a). Such patients with a low percentage of Ki67-positive tumor cells might not benefit from an allo-HCT.",
+          "zh": "2014a) 顯著降低了異體 HCT 後 MCL 患者的長期存活率。儘管直接比較仍在進行中，但 CAR-T 細胞療法似乎在這種情況下提供了更好的結果（Iacoboni 等人，2022 年；Wang 等人，2023a）。值得注意的是，有一小部分復發性 MCL 患者即使沒有進行異基因 HCT 也能存活超過 5 年，這表明一部分患者的病程相當惰性（Dietrich 等，2014a）。這些 Ki67 陽性腫瘤細胞比例較低的患者可能無法從異體 HCT 中受益。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700022,
+          "page": 769,
+          "en": "References Bernard M, Gressin R, Lefrere F, Drenou B, Branger B, Caulet-Maugendre S, Lamy T. Blastic variant of mantle cell lymphoma: a rare but highly aggressive subtype. Leukemia. 2001;15(11):1785–91. https://doi. org/10.1038/sj.leu.2402272.",
+          "zh": "References Bernard M, Gressin R, Lefrere F, Drenou B, Branger B, Caulet-Maugendre S, Lamy T. Blastic variant of mantle cell lymphoma: a rare but highly aggressive subtype. Leukemia. 2001;15(11):1785–91. https://doi. org/10.1038/sj.leu.2402272.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700023,
+          "page": 769,
+          "en": "Cheah CY, Seymour JF, Wang ML. Mantle cell lymphoma. J Clin Oncol. 2016;34:1256–69.",
+          "zh": "Cheah CY, Seymour JF, Wang ML. Mantle cell lymphoma. J Clin Oncol. 2016;34:1256–69.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700024,
+          "page": 769,
+          "en": "Cook G, Smith GM, Kirkland K, et al. Outcome following reduced-intensity allogeneic stem cell transplantation (RIC AlloSCT) for relapsed and refractory mantle cell lymphoma (MCL): a study of the British Society for Blood and Marrow Transplantation. Biol Blood Marrow Transplant. 2010;16:1419–27.",
+          "zh": "Cook G, Smith GM, Kirkland K, et al. Outcome following reduced-intensity allogeneic stem cell transplantation (RIC AlloSCT) for relapsed and refractory mantle cell lymphoma (MCL): a study of the British Society for Blood and Marrow Transplantation. Biol Blood Marrow Transplant. 2010;16:1419–27.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700025,
+          "page": 769,
+          "en": "Dietrich S, Tielesch B, Rieger M, et al. Patterns and outcome of relapse after autologous stem cell transplantation for mantle cell lymphoma. Cancer.",
+          "zh": "Dietrich S, Tielesch B, Rieger M, et al. Patterns and outcome of relapse after autologous stem cell transplantation for mantle cell lymphoma. Cancer.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700026,
+          "page": 769,
+          "en": "2011;117:1901–10.",
+          "zh": "2011;117:1901–10.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700027,
+          "page": 769,
+          "en": "Dietrich S, Boumendil A, Finel H, et al. Outcome and prognostic factors in patients with mantle-cell lymphoma relapsing after autologous stem-cell transplantation: a retrospective study of the European Group for Blood and Marrow Transplantation (EBMT). Ann Oncol. 2014a;25:1053–8.",
+          "zh": "Dietrich S, Boumendil A, Finel H, et al. Outcome and prognostic factors in patients with mantle-cell lymphoma relapsing after autologous stem-cell transplantation: a retrospective study of the European Group for Blood and Marrow Transplantation (EBMT). Ann Oncol. 2014a;25:1053–8.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700028,
+          "page": 769,
+          "en": "Dietrich S, Weidle J, Rieger M, et al. Rituximab maintenance therapy after autologous stem cell transplantation prolongs progression-free survival in patients with mantle cell lymphoma. Leukemia. 2014b;28:708–9.",
+          "zh": "Dietrich S, Weidle J, Rieger M, et al. Rituximab maintenance therapy after autologous stem cell transplantation prolongs progression-free survival in patients with mantle cell lymphoma. Leukemia. 2014b;28:708–9.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700029,
+          "page": 769,
+          "en": "Dreyling M, Lenz G, Hoster E, et al. Early consolidation by myeloablative radiochemotherapy followed by autologous stem cell transplantation in first remission significantly prolongs progression-free survival in mantle-cell lymphoma: results of a prospective randomized trial of the European MCL Network. Blood.",
+          "zh": "Dreyling M, Lenz G, Hoster E, et al. Early consolidation by myeloablative radiochemotherapy followed by autologous stem cell transplantation in first remission significantly prolongs progression-free survival in mantle-cell lymphoma: results of a prospective randomized trial of the European MCL Network. Blood.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700030,
+          "page": 769,
+          "en": "2005;105:2677–84.",
+          "zh": "2005;105:2677–84.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700031,
+          "page": 769,
+          "en": "Dreyling M, Campo E, Hermine O, et al. Newly diagnosed and relapsed mantle cell lymphoma: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2017;28:iv62–71.",
+          "zh": "Dreyling M, Campo E, Hermine O, et al. Newly diagnosed and relapsed mantle cell lymphoma: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2017;28:iv62–71.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700032,
+          "page": 769,
+          "en": "Dreyling M, Doorduijn JK, Gine E, Jerkeman M,Walewski J, Hutchings M, Hoster E. Efficacy and safety of ibrutinib combined with standard first-line treatment or as substitute for autologous stem cell transplantation in younger patients with mantle cell lymphoma: results from the randomized triangle trial by the European MCL Network. Blood. 2022;140(Supplement 1):1–3. https://doi.org/10.1182/blood-2022-163018.",
+          "zh": "Dreyling M, Doorduijn JK, Gine E, Jerkeman M,Walewski J, Hutchings M, Hoster E. Efficacy and safety of ibrutinib combined with standard first-line treatment or as substitute for autologous stem cell transplantation in younger patients with mantle cell lymphoma: results from the randomized triangle trial by the European MCL Network. Blood. 2022;140(Supplement 1):1–3. https://doi.org/10.1182/blood-2022-163018.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700033,
+          "page": 769,
+          "en": "Eskelund CW, Dahl C, Hansen JW, Westman M, Kolstad A, Pedersen LB, Gronbaek K. TP53 mutations identify younger mantle cell lymphoma patients who do not benefit from intensive chemoimmunotherapy. Blood.",
+          "zh": "Eskelund CW, Dahl C, Hansen JW, Westman M, Kolstad A, Pedersen LB, Gronbaek K. TP53 mutations identify younger mantle cell lymphoma patients who do not benefit from intensive chemoimmunotherapy. Blood.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700034,
+          "page": 769,
+          "en": "2017;130(17):1903–10. https://doi.org/10.1182/ blood-2017-04-779736.",
+          "zh": "2017;130(17):1903–10. https://doi.org/10.1182/ blood-2017-04-779736.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700035,
+          "page": 769,
+          "en": "Geisler CH, Kolstad A, Laurell A, et al. Long-term progression-free survival of mantle cell lymphoma after intensive front-line immunochemotherapy with in vivo-purged stem cell rescue: a nonrandomized phase 2 multicenter study by the Nordic Lymphoma Group. Blood. 2008;112:2687–93.",
+          "zh": "Geisler CH, Kolstad A, Laurell A, et al. Long-term progression-free survival of mantle cell lymphoma after intensive front-line immunochemotherapy with in vivo-purged stem cell rescue: a nonrandomized phase 2 multicenter study by the Nordic Lymphoma Group. Blood. 2008;112:2687–93.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700036,
+          "page": 769,
+          "en": "Graf SA, Stevenson PA, Holmberg LA, et al. Maintenance rituximab after autologous stem cell transplantation in patients with mantle cell lymphoma. Ann Oncol.",
+          "zh": "Graf SA, Stevenson PA, Holmberg LA, et al. Maintenance rituximab after autologous stem cell transplantation in patients with mantle cell lymphoma. Ann Oncol.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700037,
+          "page": 769,
+          "en": "2015;26:2323–8.",
+          "zh": "2015;26:2323–8.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700038,
+          "page": 769,
+          "en": "Halldorsdottir AM, Lundin A, Murray F, et al. Impact of TP53 mutation and 17p deletion in mantle cell lymphoma. Leukemia. 2011;25:1904–8.",
+          "zh": "Halldorsdottir AM, Lundin A, Murray F, et al. Impact of TP53 mutation and 17p deletion in mantle cell lymphoma. Leukemia. 2011;25:1904–8.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700039,
+          "page": 769,
+          "en": "Key Points",
+          "zh": "要點",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700040,
+          "page": 769,
+          "en": "• Ibrutinib improves disease-free survival in addition to intensive induction- and RTX maintenance therapy.",
+          "zh": "• 在強化誘導與 RTX 維持治療之外加入 ibrutinib，可改善無疾病存活。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700041,
+          "page": 769,
+          "en": "• Auto-HCT in first remission should be questioned in low-risk patients and patients with TP53 mutations not responding to chemotherapy.",
+          "zh": "• 低風險患者，以及 TP53 突變且對化療無反應者，首次緩解時是否接受自體 HCT 應審慎評估。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700042,
+          "page": 769,
+          "en": "• CD19-directed CAR T-cell therapy achieves high remission rates in relapsed and R/R MCL.",
+          "zh": "• CD19 定向 CAR T 細胞療法在復發性和 R/R MCL 中實現了高緩解率。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700043,
+          "page": 769,
+          "en": "• Early treatment with CAR T-cells is currently evaluated by EMCLN in the CARMAN trial.",
+          "zh": "• 目前，EMCLN 在 CARMAN 試驗中評估了 CAR T 細胞的早期治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700044,
+          "page": 769,
+          "en": "• While curative potential of CART-cell therapy in MCL remains unclear, allo- HCT should be evaluated for MCL patients relapsing after CAR T-cell therapy.",
+          "zh": "• CAR T 細胞治療對 MCL 是否具有治癒潛力仍不明；CAR T 細胞治療後復發者應評估異體 HCT。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 770,
+      "blocks": [
+        {
+          "id": 8700045,
+          "page": 770,
+          "en": "Hermine O, Hoster E, Walewski J, et al. Addition of high-dose cytarabine to immunochemotherapy before autologous stem-cell transplantation in patients aged 65 years or younger with mantle cell lymphoma (MCL Younger): a randomised, open-label, phase 3 trial of the European Mantle Cell Lymphoma Network.",
+          "zh": "Hermine O, Hoster E, Walewski J, et al. Addition of high-dose cytarabine to immunochemotherapy before autologous stem-cell transplantation in patients aged 65 years or younger with mantle cell lymphoma (MCL Younger): a randomised, open-label, phase 3 trial of the European Mantle Cell Lymphoma Network.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700046,
+          "page": 770,
+          "en": "Lancet. 2016;388:565–75.",
+          "zh": "Lancet. 2016;388:565–75.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700047,
+          "page": 770,
+          "en": "Hoster E, Rosenwald A, Berger F, Bernd HW, Hartmann S, Loddenkemper C, Klapper W. Prognostic value of Ki-67 index, cytology, and growth pattern in mantlecell lymphoma: results from randomized trials of the European Mantle Cell Lymphoma Network. J Clin Oncol. 2016;34(12):1386–94. https://doi.org/10.1200/ JCO.2015.63.8387.",
+          "zh": "Hoster E, Rosenwald A, Berger F, Bernd HW, Hartmann S, Loddenkemper C, Klapper W. Prognostic value of Ki-67 index, cytology, and growth pattern in mantlecell lymphoma: results from randomized trials of the European Mantle Cell Lymphoma Network. J Clin Oncol. 2016;34(12):1386–94. https://doi.org/10.1200/ JCO.2015.63.8387.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700048,
+          "page": 770,
+          "en": "Iacoboni G, Rejeski K, Villacampa G, van Doesum JA, Chiappella A, Bonifazi F, Barba P. Real-world evidence of brexucabtagene autoleucel for the treatment of relapsed or refractory mantle cell lymphoma. Blood Adv. 2022;6(12):3606–10. https://doi.org/10.1182/ bloodadvances.2021006922.",
+          "zh": "Iacoboni G, Rejeski K, Villacampa G, van Doesum JA, Chiappella A, Bonifazi F, Barba P. Real-world evidence of brexucabtagene autoleucel for the treatment of relapsed or refractory mantle cell lymphoma. Blood Adv. 2022;6(12):3606–10. https://doi.org/10.1182/ bloodadvances.2021006922.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700049,
+          "page": 770,
+          "en": "Le Gouill S, Kroger N, Dhedin N, et al. Reducedintensity conditioning allogeneic stem cell transplantation for relapsed/refractory mantle cell lymphoma: a multicenter experience. Ann Oncol.",
+          "zh": "Le Gouill S, Kroger N, Dhedin N, et al. Reducedintensity conditioning allogeneic stem cell transplantation for relapsed/refractory mantle cell lymphoma: a multicenter experience. Ann Oncol.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700050,
+          "page": 770,
+          "en": "2012;23:2695–703.",
+          "zh": "2012;23:2695–703.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700051,
+          "page": 770,
+          "en": "Le Gouill S, Thieblemont C, Oberic L, et al.",
+          "zh": "Le Gouill S, Thieblemont C, Oberic L, et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700052,
+          "page": 770,
+          "en": "Rituximab after autologous stem-cell transplantation in mantlecell lymphoma. N Engl J Med.",
+          "zh": "Rituximab after autologous stem-cell transplantation in mantlecell lymphoma. N Engl J Med.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700053,
+          "page": 770,
+          "en": "2017;377:1250–60.",
+          "zh": "2017;377:1250–60.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700054,
+          "page": 770,
+          "en": "Mei MG, Cao TM, Chen L, et al. Long-term results of high-dose therapy and autologous stem cell transplantation for mantle cell lymphoma: effectiveness of maintenance rituximab. Biol Blood Marrow Transplant. 2017;23:1861–9.",
+          "zh": "Mei MG, Cao TM, Chen L, et al. Long-term results of high-dose therapy and autologous stem cell transplantation for mantle cell lymphoma: effectiveness of maintenance rituximab. Biol Blood Marrow Transplant. 2017;23:1861–9.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700055,
+          "page": 770,
+          "en": "Robinson SP, Boumendil A, Finel H, et al. Long-term outcome analysis of reduced-intensity allogeneic stem cell transplantation in patients with mantle cell lymphoma: a retrospective study from the EBMT Lymphoma Working Party. Bone Marrow Transplant.",
+          "zh": "Robinson SP, Boumendil A, Finel H, et al. Long-term outcome analysis of reduced-intensity allogeneic stem cell transplantation in patients with mantle cell lymphoma: a retrospective study from the EBMT Lymphoma Working Party. Bone Marrow Transplant.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700056,
+          "page": 770,
+          "en": "2018;53:617–24.",
+          "zh": "2018;53:617–24.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700057,
+          "page": 770,
+          "en": "Tam CS, Bassett R, Ledesma C, et al. Mature results of the M. D. Anderson Cancer Center risk-adapted transplantation strategy in mantle cell lymphoma. Blood.",
+          "zh": "Tam CS, Bassett R, Ledesma C, et al. Mature results of the M. D. Anderson Cancer Center risk-adapted transplantation strategy in mantle cell lymphoma. Blood.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700058,
+          "page": 770,
+          "en": "2009;113:4144–52.",
+          "zh": "2009;113:4144–52.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700059,
+          "page": 770,
+          "en": "Wang Y, Jain P, Locke FL, Maurer MJ, Frank MJ, Munoz JL, Jain MD. Brexucabtagene autoleucel for relapsed or refractory mantle cell lymphoma in standard-ofcare practice: results from the US Lymphoma CAR T Consortium. J Clin Oncol. 2023a;41:2594–606. https://doi.org/10.1200/JCO.22.01797.",
+          "zh": "Wang Y, Jain P, Locke FL, Maurer MJ, Frank MJ, Munoz JL, Jain MD. Brexucabtagene autoleucel for relapsed or refractory mantle cell lymphoma in standard-ofcare practice: results from the US Lymphoma CAR T Consortium. J Clin Oncol. 2023a;41:2594–606. https://doi.org/10.1200/JCO.22.01797.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700060,
+          "page": 770,
+          "en": "Wang M, Munoz J, Goy A, Locke FL, Jacobson CA, Hill BT, Reagan PM. Three-year follow-up of KTE- X19 in patients with relapsed/refractory mantle cell lymphoma, including high-risk subgroups, in the ZUMA-2 study. J Clin Oncol. 2023b;41(3):555–67. https://doi.org/10.1200/JCO.21.02370.",
+          "zh": "Wang M, Munoz J, Goy A, Locke FL, Jacobson CA, Hill BT, Reagan PM. Three-year follow-up of KTE- X19 in patients with relapsed/refractory mantle cell lymphoma, including high-risk subgroups, in the ZUMA-2 study. J Clin Oncol. 2023b;41(3):555–67. https://doi.org/10.1200/JCO.21.02370.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700061,
+          "page": 770,
+          "en": "Further Reading Dreger P, Michelet M, Bosman P, et al. Ibrutinib for bridging to allogeneic stem cell transplantation (alloHCT) in chronic lymphocytic leukemia (CLL) and mantle cell lymphoma (MCL) is safe and effective update results of a study by the EBMT chronic malignancy and the lymphoma working parties, the French Cooperative Group for CLL and the Société Française de Greffe de Moelle et de Therapie Cellulaire (SFGM-TC).",
+          "zh": "Further Reading Dreger P, Michelet M, Bosman P, et al. Ibrutinib for bridging to allogeneic stem cell transplantation (異體 HCT) in chronic lymphocytic leukemia (CLL) and mantle cell lymphoma (MCL) is safe and effective update results of a study by the EBMT chronic malignancy and the lymphoma working parties, the French Cooperative Group for CLL and the Société Française de Greffe de Moelle et de Therapie Cellulaire (SFGM-TC).",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700062,
+          "page": 770,
+          "en": "Bone Marrow Transplant. 2018;54:44. https://doi. org/10.1038/s41409-018-0207-4.",
+          "zh": "Bone Marrow Transplant. 2018;54:44. https://doi. org/10.1038/s41409-018-0207-4.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700063,
+          "page": 770,
+          "en": "Zucca E, Roggero E, Pinotti G, et al. Patterns of survival in mantle cell lymphoma. Ann Oncol. 1995;6:257–62.",
+          "zh": "Zucca E, Roggero E, Pinotti G, et al. Patterns of survival in mantle cell lymphoma. Ann Oncol. 1995;6:257–62.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700064,
+          "page": 770,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+          "zh": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8700065,
+          "page": 770,
+          "en": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

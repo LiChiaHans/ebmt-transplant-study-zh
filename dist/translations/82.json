@@ -1,0 +1,510 @@
+{
+  "id": 82,
+  "title": "Systemic Light Chain Amyloidosis",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 39,
+  "scope": "依原 PDF 視覺閱讀順序直接逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 736,
+      "blocks": [
+        {
+          "id": 8200001,
+          "page": 736,
+          "en": "82 Systemic Light Chain Amyloidosis Monique Minnema and Stefan Schönland",
+          "zh": "82 全身性輕鏈類澱粉沉積症 — Monique Minnema、Stefan Schönland",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 翻譯改作，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_82"
+            }
+          ]
+        },
+        {
+          "id": 8200002,
+          "page": 736,
+          "en": "82.1 Definition and Epidemiology Systemic light chain (AL) amyloidosis is a protein misfolding and deposition disorder with an incidence of 5–10 persons per million per year. Clonal plasma cells or rarely B cells produce immunoglobulin light chains with the potential to misfold. These light chains are deposited as extracellular amyloid fibrils in peripheral tissues and cause morbidity and mortality. Organs most frequently involved are the heart, kidney, liver, autonomic and peripheral nervous system, gastrointestinal tract, and soft tissue.",
+          "zh": "82.1 定義與流行病學\n全身性輕鏈（AL）類澱粉沉積症是蛋白質錯誤摺疊與沉積疾病，每年發生率約每百萬人 5–10 例。克隆性漿細胞，或少數情況下的 B 細胞，產生可能錯誤摺疊的免疫球蛋白輕鏈。這些輕鏈以細胞外類澱粉纖維沉積於周邊組織，造成疾病與死亡。最常受累器官為心臟、腎臟、肝臟、自律與周邊神經系統、胃腸道及軟組織。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200003,
+          "page": 736,
+          "en": "82.2 Diagnosis AL amyloidosis should be suspected in any patient with a monoclonal gammopathy and a compatible clinical syndrome such as heart failure with a preserved ejection fraction, nephrotic range proteinuria, unexplained weight loss, peripheral neuropathy, a bleeding diathesis, or carpal tunnel syndrome. Gammopathy work-up should include a serum-free light chain (FLC) assay, immunofixation of serum and urine, bone marrow cytology, flow cytometry, histology and iFISH, and a full-body scan to exclude bone lesions due to symptomatic multiple myeloma (MM). Amyloidosis is diagnosed by histopathology with Congo red staining and the typical apple-green birefringence under polarized light. Screening biopsies such as abdominal fat, salivary gland, upper GI tract, or bone marrow as well as symptomatically involved organs can be utilized (Palladini et al. 2020). The amyloid subtype (i.e., AL, ATTR, AA, or another even more rare subtype) has to be further confirmed by immunohistochemistry, immune electron microscopy, or laser microdissection and mass spectrometry. Besides the more common systemic AL amyloidosis, this type of amyloidosis can also occur as a local presentation with a very good prognosis, for example, in the pharynx or bladder, and requires another treatment approach which will not be discussed in this chapter.",
+          "zh": "82.2 診斷\n單株免疫球蛋白病患者若出現相符臨床症候，如射出分率保留的心衰竭、腎病範圍蛋白尿、不明原因體重減輕、周邊神經病變、出血傾向或腕隧道症候群，應懷疑 AL 類澱粉沉積症。檢查應包括血清游離輕鏈（FLC）、血清與尿液免疫固定、骨髓細胞學、流式細胞儀、組織學與 iFISH，以及全身影像，以排除症狀性多發性骨髓瘤（MM）造成的骨病灶。\n診斷依組織病理 Congo red 染色及偏光下典型蘋果綠雙折射。可採腹部脂肪、唾液腺、上消化道、骨髓等篩檢性切片，或對有症狀受累器官取樣（Palladini et al. 2020）。類澱粉亞型（AL、ATTR、AA 或其他更罕見型）須進一步以免疫組織化學、免疫電子顯微鏡，或雷射微切割與質譜確認。\n除較常見的全身性 AL 外，也可能局限表現於咽部或膀胱等處，預後很好；此類需要不同治療，本文不討論。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200004,
+          "page": 736,
+          "en": "82.3 Classification AL amyloidosis can be classified by the origin of the underlying bone marrow disease: a clonal plasma cell or more rarely lymphoid dyscrasia, which is often an IgM related AL amyloidosis. Plasma cell dyscrasias can further be divided into monoclonal gammopathy, smoldering MM, and symptomatic MM among other things depending",
+          "zh": "82.3 分類\nAL 可依潛在骨髓疾病來源分類：克隆性漿細胞異常，或較罕見且常與 IgM 相關的淋巴細胞異常。漿細胞異常可依克隆大小等因素，再分為單株免疫球蛋白病、緩進型 MM 及症狀性 MM，分類取決於",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200005,
+          "page": 736,
+          "en": "M. Minnema (*) Department of Hematology, UMC Utrecht, University Utrecht, Utrecht, The Netherlands e-mail: m.c.minnema@umcutrecht.nl S. Schönland Hematology, Oncology and Rheumatology, Medical Department V, University Hospital of Heidelberg, Heidelberg, Germany e-mail: stefan.schoenland@med.uni-heidelberg.de",
+          "zh": "作者單位：Monique Minnema — 荷蘭烏特勒支大學 UMC Utrecht 血液科；m.c.minnema@umcutrecht.nl。Stefan Schönland — 德國海德堡大學醫院第五內科（血液、腫瘤與風濕科）；stefan.schoenland@med.uni-heidelberg.de。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 737,
+      "blocks": [
+        {
+          "id": 8200006,
+          "page": 737,
+          "en": "on the size of the clone. Each of those can lead to AL amyloidosis, but the clone is usually small (Palladini et al. 2020).",
+          "zh": "克隆大小等條件。上述各類皆可能導致 AL，但克隆通常很小（Palladini et al. 2020）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200007,
+          "page": 737,
+          "en": "82.4 Risk Factors and Prognostic Scores The underlying bone marrow disease as well as organ damage-related biomarkers can be utilized to stratify patients into risk groups. A bone marrow plasma cell infiltration above 10% and a high difference between involved and uninvolved serum-free light chain (dFLC) are negative prognostic factors for overall survival. Comparable to MM genetic aberrations can be detected on iFISH in plasma cell dyscrasias and be utilized to predict response to specific treatments (e.g., in patients with translocation (11;14) HDM/HCT is more effective) (Palladini et al. 2020). Commonly used is the cardiac biomarker based classification from the Mayo clinic with the European modification. This staging system uses the biomarkers NT-ProBNP and cardiac troponins (cTnI, cTnT) measured at diagnosis. This classification system with stages I, II, IIIa, and IIIb is strongly related with survival and also provides guidance for the intensity of treatment that patients can tolerate. For patients with renal involvement, total proteinuria/24 h and estimated glomerular filtration rate (eGFR) can anticipate the risk for terminal renal failure. The depth of response is also a significant prognostic factor as patients achieving an amyloidosis VGPR (dFLC below 40 mg/L) or CR after treatment have a significantly better outcome (Palladini et al. 2020).",
+          "zh": "82.4 危險因子與預後評分\n潛在骨髓疾病與器官損傷相關生物標記，可用於風險分層。骨髓漿細胞浸潤 >10%，以及受累與未受累血清游離輕鏈差值（dFLC）高，均為 OS 不良因子。與 MM 類似，iFISH 可檢出遺傳異常並預測特定治療反應；例如 t(11;14) 患者的高劑量 melphalan／HCT 較有效（Palladini et al. 2020）。\n常用分期為 Mayo Clinic 心臟生物標記分類的歐洲修訂版，以診斷時 NT-proBNP 與心肌 troponin（cTnI、cTnT）分為 I、II、IIIa、IIIb，與存活高度相關，也可指引患者能耐受的治療強度。\n腎臟受累者可依 24 小時總蛋白尿與估算腎絲球過濾率（eGFR）預測末期腎衰竭風險。反應深度亦為重要預後因子：達到類澱粉沉積症 VGPR（dFLC <40 mg/L）或 CR 者，結果顯著較佳（Palladini et al. 2020）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200008,
+          "page": 737,
+          "en": "82.5 First-Line Treatment Risk-adapted treatment is strongly preferred and many patients are fragile and do not tolerate standard used dosing regimens (see Table 82.1). Three categories are defined with low-risk patients, transplant eligible, being a minority (≤20%). High-risk patients are defined by Stage IIIb and/or having NYHA class III or IV heart disease. Other factors to consider are age, performance status, eGFR, neuropathy and systolic blood pressure. Frequent assessments of hematological response during treatment are needed, and the goal is to achieve a CR or VGPR as a deep hematologic response is closely related to survival. Patients having a hematologic response may gradually achieve an organ response.",
+          "zh": "82.5 第一線治療\n強烈建議依風險調整治療；許多患者脆弱，無法耐受標準劑量（見表 82.1）。風險分三類，低風險且符合移植條件者僅占少數（≤20%）。高風險定義為 IIIb 期及／或 NYHA III、IV 級心臟病；另應考量年齡、體能狀態、eGFR、神經病變及收縮壓。治療期間須頻繁評估血液學反應，目標為 CR 或 VGPR，因深度血液學反應與存活密切相關。取得血液學反應後，器官反應可能逐漸出現。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200009,
+          "page": 737,
+          "en": "In 2021, the EMA approved the first-line treatment of Daratumumab-Cyclosphosphamide- Bortezomib-Dexamethason with Daratumumab maintenance for patients with cardiac stages I, II, IIIa after the publication of the Andromeda study (Kastritis et al. 2021). This study demonstrated a better deep hematological response as well as better major organ detoriation and hematologic progression free survival in the daratumumabtreated patients. At 6 months, more cardiac and renal responses occurred in the daratumumab group than in the control group (41.5% vs. 22.2% and 53.0% vs. 23.9%, respectively). This regimen is the current preferred treatment regimen for most patients, but excludes cardiac IIIb patients (Wechalekar et al. 2023). Transplant eligible patients can still receive AutoHCT, especially when the hematological response is less than a VGPR, because the long-term data of transplant are excellent with a low relapse rate in patients in CR (Sanchorawala et al. 2022).",
+          "zh": "2021 年，Andromeda 研究發表後（Kastritis et al. 2021），EMA 核准 daratumumab＋cyclophosphamide＋bortezomib＋dexamethasone，後接 daratumumab 維持，作為心臟 I、II、IIIa 期患者的第一線治療。研究顯示 daratumumab 組有更好的深度血液學反應，以及較佳的重大器官惡化及血液學無進展存活。6 個月時，其心臟與腎臟反應均較對照組多，分別為 41.5% 對 22.2%，以及 53.0% 對 23.9%。此為目前多數患者的首選方案，但不包括心臟 IIIb 期（Wechalekar et al. 2023）。符合移植條件者仍可接受自體 HCT，尤其血液學反應未達 VGPR 者；移植長期資料極佳，CR 患者復發率低（Sanchorawala et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200010,
+          "page": 737,
+          "en": "Table 82.1 First-line treatment options according to risk status Risk status Treatment Low risk Stage I • (± induction treatment) Mel (200 mg/m² ) + autoHCT • Daratumumab CyBorD or CyBorD Intermediate risk Stages II–IIIa • Daratumumab CyBorD or CyBorD • Bortezomib-Mel-dex Signficant neuropathy: Mel-dex or Lenalidomide-dex High risk Stage IIIb • Dose reduced therapies like Daratumumab monotherapy or • modified CyBorD CyBorD cyclophosphamide, bortezomib, dexamathasoone. Mel melphalan",
+          "zh": "表 82.1 依風險選擇第一線治療\n低風險／I 期：可先誘導或不誘導，再以 melphalan 200 mg/m²＋自體 HCT；或 daratumumab–CyBorD／CyBorD。\n中風險／II–IIIa 期：daratumumab–CyBorD／CyBorD；或 bortezomib–melphalan–dexamethasone。有明顯神經病變者，可採 melphalan–dexamethasone 或 lenalidomide–dexamethasone。\n高風險／IIIb 期：減量治療，如 daratumumab 單藥，或修改版 CyBorD。\nCyBorD＝cyclophosphamide、bortezomib、dexamethasone；Mel＝melphalan。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 738,
+      "blocks": [
+        {
+          "id": 8200011,
+          "page": 738,
+          "en": "82.6 Second-Line Treatment There is no positive randomized trial data to guide treatment at relapse. Patients with a good duration of response who tolerate initial treatment well may be retreated with the same initial regimen. Patients with a short response are best treated with an alternative agent combination using agents to which the patient has not been exposed, autoHCT or in a clinical trial tailored to the individual patient in terms of their age, comorbidities, extent of organ involvement, and the patient’s wishes. Lenalidomide and pomalidomide can be considered in relapsed disease although data on durability of response are limited (Basset et al. 2021). Toxicity with lenalidomide is a significant issue, and it is recommended to start at a dose of 15 mg daily, with further dose reduction based on glomerular filtration rate (GFR) (Basset et al. 2021). Patients with t(11;14) have a very high chance for reaching a VGPR or CR with venetoclax (Premkumar et al. 2021) with a reasonable toxicity making this treatment very appealing.",
+          "zh": "82.6 第二線治療\n復發治療尚無陽性隨機試驗資料可供指引。初治耐受良好且反應持續較久者，可再用原方案；反應短者宜改用未曾使用藥物的組合、自體 HCT 或臨床試驗，並依年齡、共病、器官受累與意願個別調整。\n復發時可考慮 lenalidomide 或 pomalidomide，但反應持續性的資料有限（Basset et al. 2021）。Lenalidomide 毒性是重要問題，建議由每日 15 mg 起始，再依 GFR 減量（Basset et al. 2021）。t(11;14) 患者使用 venetoclax 達 VGPR／CR 的機率很高，且毒性可接受，因此具吸引力（Premkumar et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200012,
+          "page": 738,
+          "en": "82.7 Autologous HCT 82.7.1 Indication Eligibility criteria for autoHCT are variable depending on the transplanting center. However, the usual eligibility criteria include age ≤ 70 years, performance status 0–2, NYHA class I or II, absence of significant clinical cardiac involvement (NT pro BNP <5000 ng/L, left ejection fraction ≥45 to 50%), absence of severe orthostatic hypotension (i.e., systolic blood pressure ≥ 90 mm Hg), and eGFR >40 mL/min. Induction therapy before stem cell mobilization can be given, especially in patients who fulfill (smoldering) myeloma definition criteria, i.e., ≥10% bone marrow plasma cell infiltration.",
+          "zh": "82.7 自體 HCT\n82.7.1 適應症\n各中心資格標準不盡相同。通常包括年齡 ≤70 歲、體能狀態 0–2、NYHA I／II 級、無明顯臨床心臟受累（NT-proBNP <5000 ng/L，左心室射出分率 ≥45–50%）、無嚴重姿勢性低血壓（收縮壓 ≥90 mmHg），以及 eGFR >40 mL/min。動員前可先誘導，尤其符合（緩進型）骨髓瘤定義、即骨髓漿細胞 ≥10% 者。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200013,
+          "page": 738,
+          "en": "The correct selection of patients is extremely important since the mortality associated with autoHCT in AL amyloidosis can be unacceptable high if not done properly. Since the selection criteria also include the cardiac biomarkers, treatmentrelated mortality has dropped from around 20 to 2%; also see Table 82.2.",
+          "zh": "正確選擇患者極其重要，否則 AL 自體 HCT 死亡率可能高至無法接受。納入心臟生物標記篩選後，治療相關死亡率已由約 20% 降至 2%；另見表 82.2。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200014,
+          "page": 738,
+          "en": "82.7.2 Recommended Stem cell mobilization and leucapheresis can be associated with unusual morbidity, and a syndrome of hypoxia and hypotension has been described both during mobilization with G-CSF and during the leucapheresis procedure itself, probably as a result of a capillary leak syndrome triggered by G-CSF. Therefore, use of reduced doses of G-CSF (such as 10 μg/kg per day for 4–5 days) is recommended. In low-burden disease (i.e., plasma cells <10%), the use of CY mobilization chemotherapy does not seem to be necessary.",
+          "zh": "82.7.2 建議\n幹細胞動員與白血球分離術可能出現特殊併發症。G-CSF 動員與採集期間皆曾出現低血氧及低血壓，可能是 G-CSF 引起微血管滲漏症候群所致。因此建議較低劑量 G-CSF，如每日 10 μg/kg、連續 4–5 天。低負荷疾病（漿細胞 <10%）似乎無須用 CY 化療動員。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200015,
+          "page": 738,
+          "en": "Conditioning regimens are based on highdose MEL. The usual MEL dose is 200 mg/m² , since lower dose melphalan is associated with decreased hematological response and PFS and therefore other treatment non-transplant options may be more suitable (Cibeira et al. 2011).",
+          "zh": "預處理以高劑量 MEL 為基礎，通常為 200 mg/m²；較低劑量與較差血液學反應及 PFS 相關，因此其他非移植治療可能更合適（Cibeira et al. 2011）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200016,
+          "page": 738,
+          "en": "Table 82.2 Summary of the outcome of patients with systemic AL amyloidosis undergoing autologous stem cell transplantation, according to the more recent publications Source Type No. of patients Overall response rate (CR) (%) TRM (%) Overall survival (%) Landau et al. (2017) Retrospective 143 CR 43% at 12 months (83 pts. only) 5% Median 10.4 years D’Souza et al. (2015) Retrospective 1536 ORR 71% CR 37% (2007–2012 cohort) 5% (2007– 2012 cohort) 5 years 77% (2007–2012 cohort) Minnema et al. (2019) Prospective 50 ORR 86% CR 46% 0% 5 years 86% Abdallah et al. (2020) Retrospective 651 13 vs. 11.4 years, early vs. deferred ASCT",
+          "zh": "表 82.2 近期文獻中的全身性 AL 自體幹細胞移植結果\n欄位依序為來源、研究型態、人數、反應率（CR）、TRM、OS。\nLandau et al.（2017）：回顧性，143 人；12 個月 CR 43%（僅評估 83 人）；TRM 5%；中位 OS 10.4 年。\nD’Souza et al.（2015）：回顧性，1536 人；2007–2012 世代 ORR 71%、CR 37%、TRM 5%、5 年 OS 77%。\nMinnema et al.（2019）：前瞻性，50 人；ORR 86%、CR 46%、TRM 0%、5 年 OS 86%。\nAbdallah et al.（2020）：回顧性，651 人；早期與延後 ASCT 的 OS 分別 13 年與 11.4 年；其餘反應與 TRM 欄位原表未列。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 739,
+      "blocks": [
+        {
+          "id": 8200017,
+          "page": 739,
+          "en": "0 0.00 0.25 0.50 0.75 1.00 5 10 Years since first autologous transplant Overall Survival Survival probability 15 20 25 2903 1140 402 140 29 1 Fig. 82.1 AutoHCT EBMT data (patients treated from 1993 until 2021), with a median follow-up of 46 months for patients alive",
+          "zh": "圖 82.1 自體 HCT 的 EBMT 資料：患者於 1993–2021 年間治療；存活患者中位追蹤 46 個月。\n縱軸：總存活／存活機率，刻度 0.00、0.25、0.50、0.75、1.00。橫軸：首次自體移植後年數，0、5、10、15、20、25 年。各時間點風險人數依序為 2903、1140、402、140、29、1。",
+          "review": "ai-draft",
+          "note": "存活曲線保留於原 PDF；此處翻譯圖說、軸標及風險人數。"
+        },
+        {
+          "id": 8200018,
+          "page": 739,
+          "en": "82.7.3 Results Figure 82.1 shows OS of patients included in the EBMT database treated with autoHCT with a median survival longer than 10 years. In Table 82.2, the results from other publications are summarized. The use of induction therapy before HCT has been more frequently applied and seems to demonstrate better hematologic responses than HCT alone (Gustine et al. 2022).",
+          "zh": "82.7.3 結果\n圖 82.1 為 EBMT 資料庫自體 HCT 患者的 OS，中位存活超過 10 年；其他文獻結果見表 82.2。移植前誘導使用日益增加，相較單獨 HCT，似乎有較佳血液學反應（Gustine et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200019,
+          "page": 739,
+          "en": "82.8 Cellular Therapies The largest retrospective analysis on allo-HCT for AL amyloidosis was performed by the EBMT in 2006 (Schönland et al. 2006). Nineteen patients were analyzed. Seven patients received MAC, and eight RIC. 40% of patients died of TRM. Long-term survival and sustained CR were achieved in seven patients and were associated with chronic GVHD in the majority of them. DLI has been successfully performed in a few patients with AL amyloidosis, thereby demonstrating a potent “graft-versus-plasma cell-dyscrasia” effect. The EBMT initiated a noninterventional prospective study (NIS) for patients with AL amyloidosis undergoing allo-HCT. Preliminary results have been presented at the EBMT meeting in 2016 with improved overall survival of more than 70% after 5 years. Allo-HCT after RIC can be discussed as a treatment option for relapse after auto-HCT in patients <60 years with preserved organ functions and a HLA-identical donor. It might be a curative treatment for highly selected patients.",
+          "zh": "82.8 細胞治療\nEBMT 於 2006 年進行 AL 異體 HCT 最大回顧性分析（Schönland et al. 2006），納入 19 人，其中 7 人接受 MAC、8 人接受 RIC；40% 死於治療相關原因。7 人長期存活並持續 CR，多數伴慢性 GVHD。少數 AL 患者成功接受 DLI，顯示強大的「移植物抗漿細胞異常」效應。\nEBMT 另啟動異體 HCT 的非介入前瞻性研究（NIS），2016 年年會初步結果顯示 5 年 OS 已改善至 >70%。自體 HCT 後復發、年齡 <60 歲、器官功能保留且具 HLA 相合供者者，可討論 RIC 異體 HCT；對高度篩選患者可能具有治癒性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200020,
+          "page": 739,
+          "en": "To date, there are only 9 cases published (some only as abstract) by centers in Spain and Israel who have been treated with academic BCMA CAR T-cells. Efficacy and tolerability have been very good. All patients achieved CR of the underlying clonal bone marrow disorder and organ responses could be observed (Oliver- Caldes et al. 2021; Kfir-Erenfeld et al. 2022). Clinical trials are on the way to apply this treatment to a larger cohort of AL amyloidosis patients.",
+          "zh": "截至本章撰寫時，西班牙與以色列中心僅發表 9 例接受學術型 BCMA CAR T 細胞治療的 AL 病例，部分僅有摘要。療效與耐受性均佳，所有患者的潛在骨髓克隆疾病均達 CR，亦觀察到器官反應（Oliver-Caldes et al. 2021；Kfir-Erenfeld et al. 2022）。臨床試驗正展開，以將此治療用於更大的 AL 患者群。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8200021,
+          "page": 739,
+          "en": "Major Key Points • AL amyloidosis therapy is directed against the underlying plasma cell or B cell clone. • Deep hematological response is the goal of therapy and improves survival. • Intensity of chemotherapy has to be risk adapted.",
+          "zh": "主要重點\n• AL 治療針對潛在漿細胞或 B 細胞克隆。\n• 目標為深度血液學反應，並可改善存活。\n• 化療強度必須依風險調整。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 740,
+      "blocks": [
+        {
+          "id": 8200022,
+          "page": 740,
+          "en": "• High-dose chemotherapy with auto- HCT is still a good choice for low-risk patients treated in experienced centers. • Results from cellular therapies are encouraging and will play an important role in the future.",
+          "zh": "• 低風險患者在有經驗中心接受高劑量化療合併自體 HCT，仍是良好選擇。\n• 細胞治療結果令人鼓舞，未來將扮演重要角色。",
+          "review": "ai-draft",
+          "note": "本段為前頁主要重點框的續文，原 PDF 文字抽取將其置於授權文字之後。"
+        },
+        {
+          "id": 8200023,
+          "page": 740,
+          "en": "References",
+          "zh": "References",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=References"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=References"
+            }
+          ]
+        },
+        {
+          "id": 8200024,
+          "page": 740,
+          "en": "Abdallah N, Sidana S, Dispenzieri A, et al. Outcomes with early vs. deferred stem cell transplantation in light chain amyloidosis. Bone Marrow Transplant. 2020;55(7):1297–304.",
+          "zh": "Abdallah N, Sidana S, Dispenzieri A, et al. Outcomes with early vs. deferred stem cell transplantation in light chain amyloidosis. Bone Marrow Transplant. 2020;55(7):1297–304.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abdallah%20N%2C%20Sidana%20S%2C%20Dispenzieri%20A%2C%20et%20al.%20Outcomes%20with%20early%20vs.%20deferred%20stem%20cell%20transplantation%20in%20light%20chain%20amyloidosis.%20Bone%20Marrow%20Transplant.%202020%3B55(7)%3A1297%E2%80%93304."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abdallah%20N%2C%20Sidana%20S%2C%20Dispenzieri%20A%2C%20et%20al.%20Outcomes%20with%20early%20vs.%20deferred%20stem%20cell%20transplantation%20in%20light%20chain%20amyloidosis.%20Bone%20Marrow%20Transplant.%202020%3B55(7)%3A1297%E2%80%93304."
+            }
+          ]
+        },
+        {
+          "id": 8200025,
+          "page": 740,
+          "en": "Basset M, Kimmich CR, Schreck N, et al. Lenalidomide and dexamethasone in relapsed/refractory immunoglobulin light chain (AL) amyloidosis: results from a large cohort of patients with long follow-up. Br J Haematol. 2021;195(2):230–43.",
+          "zh": "Basset M, Kimmich CR, Schreck N, et al. Lenalidomide and dexamethasone in relapsed/refractory immunoglobulin light chain (AL) amyloidosis: results from a large cohort of patients with long follow-up. Br J Haematol. 2021;195(2):230–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Basset%20M%2C%20Kimmich%20CR%2C%20Schreck%20N%2C%20et%20al.%20Lenalidomide%20and%20dexamethasone%20in%20relapsed%2Frefractory%20immunoglobulin%20light%20chain%20(AL)%20amyloidosis%3A%20results%20from%20a%20large%20cohort%20of%20patients%20with%20long%20follow-up.%20Br%20J%20Haematol.%202021%3B195(2)%3A230%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Basset%20M%2C%20Kimmich%20CR%2C%20Schreck%20N%2C%20et%20al.%20Lenalidomide%20and%20dexamethasone%20in%20relapsed%2Frefractory%20immunoglobulin%20light%20chain%20(AL)%20amyloidosis%3A%20results%20from%20a%20large%20cohort%20of%20patients%20with%20long%20follow-up.%20Br%20J%20Haematol.%202021%3B195(2)%3A230%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 8200026,
+          "page": 740,
+          "en": "Cibeira MT,",
+          "zh": "Cibeira MT,",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cibeira%20MT%2C"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cibeira%20MT%2C"
+            }
+          ]
+        },
+        {
+          "id": 8200027,
+          "page": 740,
+          "en": "Sanchorawala V, Seldin DC, et al. Outcome of AL amyloidosis after high-dose melphalan and autologous stem cell transplantation: long-term results in a series of 421 patients. Blood. 2011;118:4346–52.",
+          "zh": "Sanchorawala V, Seldin DC, et al. Outcome of AL amyloidosis after high-dose melphalan and autologous stem cell transplantation: long-term results in a series of 421 patients. Blood. 2011;118:4346–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanchorawala%20V%2C%20Seldin%20DC%2C%20et%20al.%20Outcome%20of%20AL%20amyloidosis%20after%20high-dose%20melphalan%20and%20autologous%20stem%20cell%20transplantation%3A%20long-term%20results%20in%20a%20series%20of%20421%20patients.%20Blood.%202011%3B118%3A4346%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanchorawala%20V%2C%20Seldin%20DC%2C%20et%20al.%20Outcome%20of%20AL%20amyloidosis%20after%20high-dose%20melphalan%20and%20autologous%20stem%20cell%20transplantation%3A%20long-term%20results%20in%20a%20series%20of%20421%20patients.%20Blood.%202011%3B118%3A4346%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 8200028,
+          "page": 740,
+          "en": "D’Souza A, Dispenzieri A, Wirk B, et al. Improved outcomes after autologous hematopoietic cell transplantation for light chain amyloidosis: a Center for International Blood and Marrow Transplant Research Study. J Clin Oncol. 2015;33:3741–9.",
+          "zh": "D’Souza A, Dispenzieri A, Wirk B, et al. Improved outcomes after autologous hematopoietic cell transplantation for light chain amyloidosis: a Center for International Blood and Marrow Transplant Research Study. J Clin Oncol. 2015;33:3741–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=D%E2%80%99Souza%20A%2C%20Dispenzieri%20A%2C%20Wirk%20B%2C%20et%20al.%20Improved%20outcomes%20after%20autologous%20hematopoietic%20cell%20transplantation%20for%20light%20chain%20amyloidosis%3A%20a%20Center%20for%20International%20Blood%20and%20Marrow%20Transplant%20Research%20Study.%20J%20Clin%20Oncol.%202015%3B33%3A3741%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=D%E2%80%99Souza%20A%2C%20Dispenzieri%20A%2C%20Wirk%20B%2C%20et%20al.%20Improved%20outcomes%20after%20autologous%20hematopoietic%20cell%20transplantation%20for%20light%20chain%20amyloidosis%3A%20a%20Center%20for%20International%20Blood%20and%20Marrow%20Transplant%20Research%20Study.%20J%20Clin%20Oncol.%202015%3B33%3A3741%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 8200029,
+          "page": 740,
+          "en": "Gustine JN, StaronA, Szalat RE, et al. Predictors of hematologic response and survival with stem cell transplantation in AL amyloidosis: a 25-year longitudinal study. Am J Hematol. 2022;97(9):1189–99.",
+          "zh": "Gustine JN, StaronA, Szalat RE, et al. Predictors of hematologic response and survival with stem cell transplantation in AL amyloidosis: a 25-year longitudinal study. Am J Hematol. 2022;97(9):1189–99.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gustine%20JN%2C%20StaronA%2C%20Szalat%20RE%2C%20et%20al.%20Predictors%20of%20hematologic%20response%20and%20survival%20with%20stem%20cell%20transplantation%20in%20AL%20amyloidosis%3A%20a%2025-year%20longitudinal%20study.%20Am%20J%20Hematol.%202022%3B97(9)%3A1189%E2%80%9399."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gustine%20JN%2C%20StaronA%2C%20Szalat%20RE%2C%20et%20al.%20Predictors%20of%20hematologic%20response%20and%20survival%20with%20stem%20cell%20transplantation%20in%20AL%20amyloidosis%3A%20a%2025-year%20longitudinal%20study.%20Am%20J%20Hematol.%202022%3B97(9)%3A1189%E2%80%9399."
+            }
+          ]
+        },
+        {
+          "id": 8200030,
+          "page": 740,
+          "en": "Kastritis E,",
+          "zh": "Kastritis E,",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kastritis%20E%2C"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kastritis%20E%2C"
+            }
+          ]
+        },
+        {
+          "id": 8200031,
+          "page": 740,
+          "en": "Palladini G,",
+          "zh": "Palladini G,",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Palladini%20G%2C"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Palladini%20G%2C"
+            }
+          ]
+        },
+        {
+          "id": 8200032,
+          "page": 740,
+          "en": "Minnema MC, et al. Daratumumabbased treatment for immunoglobulin light-chain amyloidosis. N Engl J Med. 2021;385(1):46–58.",
+          "zh": "Minnema MC, et al. Daratumumabbased treatment for immunoglobulin light-chain amyloidosis. N Engl J Med. 2021;385(1):46–58.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Minnema%20MC%2C%20et%20al.%20Daratumumabbased%20treatment%20for%20immunoglobulin%20light-chain%20amyloidosis.%20N%20Engl%20J%20Med.%202021%3B385(1)%3A46%E2%80%9358."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Minnema%20MC%2C%20et%20al.%20Daratumumabbased%20treatment%20for%20immunoglobulin%20light-chain%20amyloidosis.%20N%20Engl%20J%20Med.%202021%3B385(1)%3A46%E2%80%9358."
+            }
+          ]
+        },
+        {
+          "id": 8200033,
+          "page": 740,
+          "en": "Kfir-Erenfeld S, Asherie N, Grisariu S, et al. Feasibility of a novel academic BCMA-CART (HBI0101) for the treatment of relapsed and refractory AL amyloidosis. Clin Cancer Res. 2022;28(23):5156–66.",
+          "zh": "Kfir-Erenfeld S, Asherie N, Grisariu S, et al. Feasibility of a novel academic BCMA-CART (HBI0101) for the treatment of relapsed and refractory AL amyloidosis. Clin Cancer Res. 2022;28(23):5156–66.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kfir-Erenfeld%20S%2C%20Asherie%20N%2C%20Grisariu%20S%2C%20et%20al.%20Feasibility%20of%20a%20novel%20academic%20BCMA-CART%20(HBI0101)%20for%20the%20treatment%20of%20relapsed%20and%20refractory%20AL%20amyloidosis.%20Clin%20Cancer%20Res.%202022%3B28(23)%3A5156%E2%80%9366."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kfir-Erenfeld%20S%2C%20Asherie%20N%2C%20Grisariu%20S%2C%20et%20al.%20Feasibility%20of%20a%20novel%20academic%20BCMA-CART%20(HBI0101)%20for%20the%20treatment%20of%20relapsed%20and%20refractory%20AL%20amyloidosis.%20Clin%20Cancer%20Res.%202022%3B28(23)%3A5156%E2%80%9366."
+            }
+          ]
+        },
+        {
+          "id": 8200034,
+          "page": 740,
+          "en": "Landau H, Smith M, Landry C, et al. Long-term event-free and overall survival after risk-adapted melphalan and SCT for systemic light chain amyloidosis. Leukemia. 2017;31:136–42. Minnema MC, Nasserinejad K, Hazenberg B, et al. Bortezomib-based induction followed by stem cell transplantation in light chain amyloidosis: results of the multicenter HOVON 104 trial. Haematologica. 2019;104(11):2274–82.",
+          "zh": "Landau H, Smith M, Landry C, et al. Long-term event-free and overall survival after risk-adapted melphalan and SCT for systemic light chain amyloidosis. Leukemia. 2017;31:136–42. Minnema MC, Nasserinejad K, Hazenberg B, et al. Bortezomib-based induction followed by stem cell transplantation in light chain amyloidosis: results of the multicenter HOVON 104 trial. Haematologica. 2019;104(11):2274–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Landau%20H%2C%20Smith%20M%2C%20Landry%20C%2C%20et%20al.%20Long-term%20event-free%20and%20overall%20survival%20after%20risk-adapted%20melphalan%20and%20SCT%20for%20systemic%20light%20chain%20amyloidosis.%20Leukemia.%202017%3B31%3A136%E2%80%9342.%20Minnema%20MC%2C%20Nasserinejad%20K%2C%20Hazenberg%20B%2C%20et%20al.%20Bortezomib-based%20induction%20followed%20by%20stem%20cell%20transplantation%20in%20light%20chain%20amyloidosis%3A%20results%20of%20the%20multicenter%20HOVON%20104%20trial.%20Haematologica.%202019%3B104(11)%3A2274%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Landau%20H%2C%20Smith%20M%2C%20Landry%20C%2C%20et%20al.%20Long-term%20event-free%20and%20overall%20survival%20after%20risk-adapted%20melphalan%20and%20SCT%20for%20systemic%20light%20chain%20amyloidosis.%20Leukemia.%202017%3B31%3A136%E2%80%9342.%20Minnema%20MC%2C%20Nasserinejad%20K%2C%20Hazenberg%20B%2C%20et%20al.%20Bortezomib-based%20induction%20followed%20by%20stem%20cell%20transplantation%20in%20light%20chain%20amyloidosis%3A%20results%20of%20the%20multicenter%20HOVON%20104%20trial.%20Haematologica.%202019%3B104(11)%3A2274%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 8200035,
+          "page": 740,
+          "en": "Oliver-Caldes A, Jimenez R, Espanol-Rego M, et al. First report of CART treatment in AL amyloidosis and relapsed/refractory multiple myeloma. J Immunother Cancer. 2021;9(12) Palladini G, Milani P, Merlini G. Management of AL amyloidosis in 2020. Blood. 2020;136(23):2620–7.",
+          "zh": "Oliver-Caldes A, Jimenez R, Espanol-Rego M, et al. First report of CART treatment in AL amyloidosis and relapsed/refractory multiple myeloma. J Immunother Cancer. 2021;9(12) Palladini G, Milani P, Merlini G. Management of AL amyloidosis in 2020. Blood. 2020;136(23):2620–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Oliver-Caldes%20A%2C%20Jimenez%20R%2C%20Espanol-Rego%20M%2C%20et%20al.%20First%20report%20of%20CART%20treatment%20in%20AL%20amyloidosis%20and%20relapsed%2Frefractory%20multiple%20myeloma.%20J%20Immunother%20Cancer.%202021%3B9(12)%20Palladini%20G%2C%20Milani%20P%2C%20Merlini%20G.%20Management%20of%20AL%20amyloidosis%20in%202020.%20Blood.%202020%3B136(23)%3A2620%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Oliver-Caldes%20A%2C%20Jimenez%20R%2C%20Espanol-Rego%20M%2C%20et%20al.%20First%20report%20of%20CART%20treatment%20in%20AL%20amyloidosis%20and%20relapsed%2Frefractory%20multiple%20myeloma.%20J%20Immunother%20Cancer.%202021%3B9(12)%20Palladini%20G%2C%20Milani%20P%2C%20Merlini%20G.%20Management%20of%20AL%20amyloidosis%20in%202020.%20Blood.%202020%3B136(23)%3A2620%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 8200036,
+          "page": 740,
+          "en": "Premkumar VJ, Lentzsch S, Pan S, et al. Venetoclax induces deep hematologic remissions in t(11;14) relapsed/refractory AL amyloidosis. Blood Cancer J. 2021;11(1):10. Sanchorawala V, Boccadoro M, Gertz M, et al. Guidelines for high dose chemotherapy and stem cell transplantation for systemic AL amyloidosis: EHA-ISA Working Group Guidelines. Amyloid. 2022;29(1):1–7.",
+          "zh": "Premkumar VJ, Lentzsch S, Pan S, et al. Venetoclax induces deep hematologic remissions in t(11;14) relapsed/refractory AL amyloidosis. Blood Cancer J. 2021;11(1):10. Sanchorawala V, Boccadoro M, Gertz M, et al. Guidelines for high dose chemotherapy and stem cell transplantation for systemic AL amyloidosis: EHA-ISA Working Group Guidelines. Amyloid. 2022;29(1):1–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Premkumar%20VJ%2C%20Lentzsch%20S%2C%20Pan%20S%2C%20et%20al.%20Venetoclax%20induces%20deep%20hematologic%20remissions%20in%20t(11%3B14)%20relapsed%2Frefractory%20AL%20amyloidosis.%20Blood%20Cancer%20J.%202021%3B11(1)%3A10.%20Sanchorawala%20V%2C%20Boccadoro%20M%2C%20Gertz%20M%2C%20et%20al.%20Guidelines%20for%20high%20dose%20chemotherapy%20and%20stem%20cell%20transplantation%20for%20systemic%20AL%20amyloidosis%3A%20EHA-ISA%20Working%20Group%20Guidelines.%20Amyloid.%202022%3B29(1)%3A1%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Premkumar%20VJ%2C%20Lentzsch%20S%2C%20Pan%20S%2C%20et%20al.%20Venetoclax%20induces%20deep%20hematologic%20remissions%20in%20t(11%3B14)%20relapsed%2Frefractory%20AL%20amyloidosis.%20Blood%20Cancer%20J.%202021%3B11(1)%3A10.%20Sanchorawala%20V%2C%20Boccadoro%20M%2C%20Gertz%20M%2C%20et%20al.%20Guidelines%20for%20high%20dose%20chemotherapy%20and%20stem%20cell%20transplantation%20for%20systemic%20AL%20amyloidosis%3A%20EHA-ISA%20Working%20Group%20Guidelines.%20Amyloid.%202022%3B29(1)%3A1%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 8200037,
+          "page": 740,
+          "en": "Schönland SO, Lokhorst H, Buzyn A, et al. Allogeneic and syngeneic hematopoietic cell transplantation in patients with amyloid light-chain amyloidosis: a report from the European Group for Blood and Marrow Transplantation. Blood. 2006;107(6):2578–84.",
+          "zh": "Schönland SO, Lokhorst H, Buzyn A, et al. Allogeneic and syngeneic hematopoietic cell transplantation in patients with amyloid light-chain amyloidosis: a report from the European Group for Blood and Marrow Transplantation. Blood. 2006;107(6):2578–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sch%C3%B6nland%20SO%2C%20Lokhorst%20H%2C%20Buzyn%20A%2C%20et%20al.%20Allogeneic%20and%20syngeneic%20hematopoietic%20cell%20transplantation%20in%20patients%20with%20amyloid%20light-chain%20amyloidosis%3A%20a%20report%20from%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20Blood.%202006%3B107(6)%3A2578%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sch%C3%B6nland%20SO%2C%20Lokhorst%20H%2C%20Buzyn%20A%2C%20et%20al.%20Allogeneic%20and%20syngeneic%20hematopoietic%20cell%20transplantation%20in%20patients%20with%20amyloid%20light-chain%20amyloidosis%3A%20a%20report%20from%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20Blood.%202006%3B107(6)%3A2578%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 8200038,
+          "page": 740,
+          "en": "Wechalekar AD, Cibeira MT, Gibbs SD, et al. Guidelines for non-transplant chemotherapy for treatment of systemic AL amyloidosis: EHA-ISA working group. Amyloid. 2023;30(1):3–17.",
+          "zh": "Wechalekar AD, Cibeira MT, Gibbs SD, et al. Guidelines for non-transplant chemotherapy for treatment of systemic AL amyloidosis: EHA-ISA working group. Amyloid. 2023;30(1):3–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wechalekar%20AD%2C%20Cibeira%20MT%2C%20Gibbs%20SD%2C%20et%20al.%20Guidelines%20for%20non-transplant%20chemotherapy%20for%20treatment%20of%20systemic%20AL%20amyloidosis%3A%20EHA-ISA%20working%20group.%20Amyloid.%202023%3B30(1)%3A3%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wechalekar%20AD%2C%20Cibeira%20MT%2C%20Gibbs%20SD%2C%20et%20al.%20Guidelines%20for%20non-transplant%20chemotherapy%20for%20treatment%20of%20systemic%20AL%20amyloidosis%3A%20EHA-ISA%20working%20group.%20Amyloid.%202023%3B30(1)%3A3%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 8200039,
+          "page": 740,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "本章依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）授權。只要適當註明原作者與來源、提供授權連結，並指出是否有修改，即可於任何媒體或格式使用、分享、改作、散布及重製。\n除素材註記另有說明外，本章圖片或其他第三方素材亦納入此 Creative Commons 授權。若素材未包含於授權內，且你的使用不為法規許可或超過法定範圍，須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

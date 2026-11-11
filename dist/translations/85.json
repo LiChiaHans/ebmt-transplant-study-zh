@@ -1,0 +1,435 @@
+{
+  "id": 85,
+  "title": "Chronic Lymphocytic Leukemia",
+  "engine": "Google 翻譯輔助之 AI 逐段翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 57,
+  "scope": "正文、小節、表格、圖說與原有章末重點依PDF閱讀順序逐段翻譯；藥物、縮寫及書目專名可保留英文，原圖版面請回查PDF。AI翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 753,
+      "blocks": [
+        {
+          "id": 8500001,
+          "page": 753,
+          "en": "85 Chronic Lymphocytic Leukemia — Johannes Schetelig and Peter Dreger",
+          "zh": "85 慢性淋巴球白血病 — Johannes Schetelig 和 Peter Dreger",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500002,
+          "page": 753,
+          "en": "Author affiliations: Johannes Schetelig — Medical Department 1, University Hospital Dresden, TU Dresden, Dresden, Germany (johannes.schetelig@uniklinikum-dresden.de). Peter Dreger — Department of Medicine V, Universitätsklinikum Heidelberg, Heidelberg, Germany (peter.dreger@med.uni-heidelberg.de).",
+          "zh": "作者單位：Johannes Schetelig — 德國德累斯頓德勒斯登工業大學德勒斯登大學醫院醫學部 1 (johannes.schetelig@uniklinikum-dresden.de)。 Peter Dreger — 德國海德堡海德堡大學醫學第五系 (peter.dreger@med.uni-heidelberg.de)。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500003,
+          "page": 753,
+          "en": "85.1 Introduction CLL is a rare indication for HCT since it usually follows an indolent course which does not require treatment in the majority of patients. In case of treatment indication, numerous pathway inhibitor therapy regimens are available, essentially based on Bruton’s-Tyrosine-Kinase inhibitors (BTKi) or the BCL2 inhibitor venetoclax with or without CD20 antibodies. The high efficacy and the non-cross-resistance of the available chemotherapyfree treatment options offers chances for long-term survival although they cannot provide cure. Only a small minority of patients will follow an unfavorable course on pharmacological treatment and may benefit from cellular immunotherapy.",
+          "zh": "85.1 簡介 CLL 很少需要 HCT，因其病程通常惰性，多數患者無須治療。需治療時可選用多種路徑抑制劑方案，主要以 Bruton tyrosine kinase inhibitor（BTKi）或 BCL2 inhibitor venetoclax 為基礎，可合併或不合併 CD20 抗體。現有無化療方案療效高且彼此無交叉抗藥性，雖無法治癒，仍提供長期存活機會。僅少數患者在藥物治療下病程不佳，可能從細胞免疫治療獲益。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500004,
+          "page": 753,
+          "en": "85.2 Principles of Treatment for CLL Since CLL is not curable with standard therapy, the diagnosis of CLL does not justify immediate start of treatment. Criteria that trigger treatment are symptomatic disease, progressive anemia or thrombocytopenia, a lymphocyte doubling time of less than 6 months, constitutional symptoms, massive splenomegaly or lymphadenopathy, and Richter transformation. Labeled first-line regimens comprise (1) covalent BTKi (Acalabrutiib, Zanubrutinib, Ibrutinib) with or without CD20 antibody loading phase; (2) Venetoclax with the CD20 antibody obinutuzumab; and (3) the combination of ibrutinib and venetoclax. Whereas (2) and (3) are administered for a fixed duration (12– 15 months), (1) is given permanently until intolerability or CLL resistance. With all of these options, high response rates (>80%) and longlasting responses (median duration of response beyond 5 years) can be achieved (Sharman et al.",
+          "zh": "85.2 CLL 的治療原則 標準治療無法治癒 CLL，因此診斷本身不構成立即治療的理由。治療指標包括症狀性疾病、進行性貧血或血小板低下、淋巴球倍增時間少於 6 個月、全身性症狀、大量脾腫大或淋巴結腫大，以及 Richter 轉化。核准的第一線方案包括：（1）共價 BTKi（acalabrutinib、zanubrutinib、ibrutinib），可含或不含 CD20 抗體起始期；（2）venetoclax 合併 CD20 抗體 obinutuzumab；（3）ibrutinib 合併 venetoclax。（2）與（3）為固定療程 12–15 個月，（1）則持續使用至無法耐受或 CLL 產生抗藥性。各方案均可達高反應率（>80%）與長期反應（中位反應持續時間超過 5 年）（Sharman et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500005,
+          "page": 753,
+          "en": "2022; Al-Sawaf et al. 2023). Patients with CLL harboring a cytogenetic deletion 17p or with a TP53 mutation detected by DNA-sequencing (combined in this manuscript as TP53 abnormalities) as well as those with a complex karyotype may follow a less favorable course (Al-Sawaf et al. 2023; Huber et al. 2023; Furstenau et al.",
+          "zh": "2022；Al-Sawaf et al. 2023）。具有 17p 缺失或 DNA 定序檢出 TP53 突變（本文合稱 TP53 異常），以及複雜核型的 CLL 患者，病程可能較不利（Al-Sawaf et al. 2023；Huber et al. 2023；Furstenau et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500006,
+          "page": 753,
+          "en": "2023).",
+          "zh": "2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500007,
+          "page": 753,
+          "en": "If first-line therapy fails and a secondary treatment indication emerges, the general therapeutic principle is a class switch (i.e., 1 L BTKi - > 2 L",
+          "zh": "若第一線治療失敗並出現二級治療指徵，一般治療原則是類別轉換（即 1 L BTKi -> 2 L",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 754,
+      "blocks": [
+        {
+          "id": 8500008,
+          "page": 754,
+          "en": "Venetoclax and vice versa; 1 L fixed duration with 2 L permanent covalent BTKi). Patients failing on both classes of pathway inhibitors have a poor outlook (Mato et al. 2020). It is unclear if the recent advent of noncovalent BTKi can improve the adverse prognosis of these “double refractory” patients (Mato et al. 2023).",
+          "zh": "Venetoclax，反之亦然； 1 L 固定持續時間，2 L 永久共價 BTKi)。兩類途徑抑制劑均失敗的患者前景不佳（Mato et al. 2020）。目前尚不清楚最近出現的非共價 BTKi 是否可以改善這些「雙難治」患者的不良預後（Mato et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500009,
+          "page": 754,
+          "en": "85.3 Allogeneic HCT for CLL Accordingly, double refractory patients as well as those having failed one pathway inhibitor class in the presence of TP53 abnormalities and/or complex karyotype should be considered for alloHCT (Dreger 2021). Patients having received a BTKI/ Venetoclax fixed-duration combination as firstline therapy must not be considered as double refractory if treatment failure occurs after discontinuation of the BTKi. Regardless of pathway inhibitor exposure transplant-eligible patients with a history of Richter’s transformation have an indication of alloHCT.",
+          "zh": "85.3 CLL 的異體 HCT 雙重難治患者，以及具有 TP53 異常和／或複雜核型且已對一類路徑抑制劑治療失敗者，應考慮異體 HCT（Dreger 2021）。第一線曾接受固定療程 BTKi／venetoclax 組合者，若停用 BTKi 後才治療失敗，不應視為雙重難治。無論曾使用何種路徑抑制劑，具 Richter 轉化病史且符合移植條件者皆有異體 HCT 適應症。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500010,
+          "page": 754,
+          "en": "Available evidence strongly suggests that allo- HCT is currently the only therapy with curative potential in CLL (van Gelder et al. 2017; Krämer et al. 2017). AlloHCT can provide long-term disease control even in patients with an unfavorable biological and clinical risk profile, and those having failed pathway inhibitors (Schetelig et al.",
+          "zh": "現有證據強烈顯示，異體 HCT 是目前唯一對 CLL 具有治癒潛力的療法（van Gelder et al. 2017；Krämer et al. 2017）。即使生物與臨床風險不佳，或路徑抑制劑治療失敗，異體 HCT 仍可提供長期疾病控制（Schetelig et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500011,
+          "page": 754,
+          "en": "2008, 2021; Roeker et al. 2020). The timing of alloHCT should be individually discussed with the patients by taking into consideration the risk of complications after alloHCT and the chances of pharmacological treatment options remaining.",
+          "zh": "2008, 2021；Roeker et al. 2020）。異體 HCT 的時機應與患者個別討論，兼顧移植後併發症風險與剩餘藥物治療機會。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500012,
+          "page": 754,
+          "en": "Standard risk scores like the HCT-CI or the EBMT-risk score can be used to assess the risk of nonrelapse mortality of an individual patient.",
+          "zh": "HCT-CI 或 EBMT 風險評分等標準風險評分可用於評估個別患者非復發死亡的風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500013,
+          "page": 754,
+          "en": "85.4 Remission Induction Prior to Start of the Conditioning Regimen Large prospective and retrospective studies uniformly show that the results of alloHCT deteriorate if the disease is not controlled at the time of transplant. Thus, alloHCT should be performed in remission of CLL. Apart from experimental approaches, different options exist for remission induction and bridging to alloHCT, basically relying on covalent BTKi, venetoclax, CD20 antibodies, and combinations of these compounds. Non-covalent BTKi may add to the bridging armamentarium as soon as they are labeled (Mato et al. 2023). In addition, the PI3 kinase inhibitor idelalisib can be helpful for bridging albeit its efficacy in double refractory patients is limited (Schetelig et al. 2021)",
+          "zh": "85.4 預處理前的緩解誘導 大型前瞻性與回顧性研究一致顯示，移植時疾病未受控制會使異體 HCT 結果惡化，因此應在 CLL 緩解期執行。除實驗性方法外，可用於緩解誘導及橋接異體 HCT 的選項主要為共價 BTKi、venetoclax、CD20 抗體及其組合；非共價 BTKi 獲准後亦可能加入橋接工具。PI3 kinase inhibitor idelalisib 也可用於橋接，但對雙重難治患者的療效有限（Schetelig et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500014,
+          "page": 754,
+          "en": "85.5 Conditioning Regimens The crucial therapeutic principle of alloHCT in CLL is graft-versus-leukaemia (GVL) activity.",
+          "zh": "85.5 調理方案 CLL 中 異體 HCT 的關鍵治療原理是移植物抗白血病 (GVL) 活性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500015,
+          "page": 754,
+          "en": "Evidence for this comes from the observation that even some patients with refractory disease benefit from alloHCT, a reduced relapse risk in the presence of cGVHD, and the efficacy of immune modulation for the eradication of minimal residual disease (Krämer et al. 2017).",
+          "zh": "這方面的證據來自以下觀察：即使是一些難治性疾病患者也能從 異體 HCT 中獲益，降低 cGVHD 存在下的複發風險，以及免疫調節對於根除微小殘留疾病的功效（Krämer 等，2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500016,
+          "page": 754,
+          "en": "Accordingly, long-term disease control can be achieved with a broad range of conditioning regimens. Current evidence does not allow the definition of one standard conditioning regimen for CLL. The most convincing data supporting allo- HCT in CLL come from studies of reducedintensity conditioning (Krämer et al. 2017; Roeker et al. 2020; Schetelig et al. 2017). The choice of conditioning intensity may vary according to the individual situation. In the presence of comorbidity and chemosensitive disease RIC appear to be more appropriate, whereas highintensity regimens might be preferable in younger patients with good performance status but poorly controlled disease.",
+          "zh": "因此，可以透過廣泛的調理方案來實現長期疾病控制。目前的證據不允許為 CLL 定義一種標準預處理方案。支持 CLL 中異基因 HCT 的最令人信服的數據來自於降低強度調節的研究（Krämer 等人，2017 年；Roeker 等人，2020 年；Schetelig 等人，2017 年）。調理強度的選擇可依個人情況而有所不同。在有合併症和化療敏感性疾病的情況下，RIC 似乎更合適，而對於體能狀態良好但疾病控制不佳的年輕患者，高強度治療方案可能更可取。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500017,
+          "page": 754,
+          "en": "85.6 Outcome After Allogeneic Transplantation for CLL In a large registry cohort from the pre-pathway inhibitor era, estimated event-free survival, overall survival, and non-relapse mortality",
+          "zh": "85.6 CLL 異體移植後結果 在路徑抑制劑問世前的大型登錄世代中，異體 HCT 後 10 年的無事件存活、總存活與非復發死亡率",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 755,
+      "blocks": [
+        {
+          "id": 8500018,
+          "page": 755,
+          "en": "(NRM) 10 years after alloHCT were 28% (95% confidence interval (CI), 25–31), 35% (95% CI, 32–38), and 40% (95% CI, 37–42), respectively (van Gelder et al. 2017). Patients who passed the 5-year landmark event-free (N = 394) had a 79% probability (95% CI, 73–85) of surviving the subsequent 5 years without an event.",
+          "zh": "（NRM）分別為 28%（95% CI 25–31）、35%（95% CI 32–38）及 40%（95% CI 37–42）（van Gelder et al. 2017）。達到 5 年無事件里程碑的患者（N = 394），其後 5 年持續無事件存活的機率為 79%（95% CI 73–85）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500019,
+          "page": 755,
+          "en": "Relapse and NRM contributed equally to late treatment failure. Higher age, lower performance status, unrelated donor type, and unfavorable sex-mismatch have an adverse impact on 2-year NRM. Despite the risks of NRM and relapse/progression the prospect of long-term disease-free survival on average in almost one out of three patients remains an argument to consider allo-HCT especially for younger patients with high-risk CLL. Moreover, NRM appears to be decreased in CLL transplants performed in the pathway inhibitor era (Roeker et al. 2020; Kim et al. 2020; Tournilhac et al.",
+          "zh": "復發與 NRM 對晚期治療失敗的貢獻相當。高齡、較差體能狀態、無關供者及不利的供受者性別組合，均會增加 2 年 NRM。儘管有 NRM 與復發／進展風險，平均近三分之一患者可長期無病存活，仍支持在年輕高風險 CLL 考慮異體 HCT。路徑抑制劑時代的 CLL 移植 NRM 似乎已降低（Roeker et al. 2020；Kim et al. 2020；Tournilhac et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500020,
+          "page": 755,
+          "en": "2021).",
+          "zh": "2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500021,
+          "page": 755,
+          "en": "85.7 Post-Transplant Minimal Residual Disease Monitoring and Immune Intervention in CLL In CLL, sensitive MRD quantification (i.e., 1 cell in 104 or less) can be obtained by PCR- or flow cytometry-based assays. The decline of the MRD level is often delayed and is closely related to immuno-reconstitution after transplantation. GVL-induced MRD negativity after alloHCT is sustained in the majority of patients and is highly predictive of freedom from relapse. MRD monitoring is a valid instrument for the guidance of pre-emptive immune interventions directed at disease eradication after allo-HCT, such as the tapering of immunosuppression and the use of DLI. The published evidence suggests that CLL is sensitive to timely preemptive immune intervention by modulation of systemic immunosuppression (Krämer et al.",
+          "zh": "85.7 移植後微量殘存病監測與免疫介入 CLL 可用 PCR 或流式細胞儀進行靈敏的 MRD 定量（即 10⁴ 個細胞中 1 個或更少）。MRD 下降常延遲，且與移植後免疫重建密切相關。異體 HCT 後由 GVL 誘導的 MRD 陰性在多數患者可持續，並高度預測不復發。MRD 監測可用來指引移植後以疾病根除為目標的先發免疫介入，例如逐步減少免疫抑制與使用 DLI。證據顯示 CLL 對及時調整全身免疫抑制的先發免疫介入敏感（Krämer et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500022,
+          "page": 755,
+          "en": "2017).",
+          "zh": "2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500023,
+          "page": 755,
+          "en": "85.8 Autologous HCT and CAR-T Cell Therapy Whereas autoHCT does not play a role in current CLL management algorithms except for selected patients with Richter transformation, there is accumulating evidence that CD19-directed CAR-T cells can provide sustained disease control at least in a minority of patients with advanced CLL (Siddiqi et al. 2023). However, as long as there is no labelled CAR-T product available, CAR-T treatment of patients with CLL should be performed only in clinical trials.",
+          "zh": "85.8 自體 HCT 和 CAR T 細胞治療 雖然除特定的 Richter 轉化患者外，自體 HCT 在目前的 CLL 管理演算法中不起作用，但越來越多的證據表明 CD19 定向 CAR T 細胞至少可以在少數晚期 CLL 患者中提供持續的疾病控制（Siddiqi 等人，2023）。然而，只要沒有標記的CAR T產品可用，對CLL患者的CAR T治療只能在臨床試驗中進行。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500024,
+          "page": 755,
+          "en": "85.9 Summary and Perspectives AlloHCT from related or unrelated donors can induce long-term disease-free survival in patients with high-risk CLL. It is a standard treatment option for patients with high-risk CLL who have failed two pathway inhibitor classes, or who are refractory to one class in the presence of TP53 aberrationsand/oracomplexkaryotype.Generally, alloHCT should be considered before the disease has advanced to a status of complete refractoriness.At the same time, alloHCT should not be recommended for patients who face a higher short-term risk of mortality after transplantation compared to conventional therapy. In the absence of randomized controlled comparisons of these treatment strategies, the outcome of an individual patient has to be predicted based on published data. This requires careful individual assessment of the risk of alloHCT versus continuation of conventional treatment. Patients should be referred to a transplant center once their disease proved refractory to at least one pathway inhibitor in order to get consultation with an expert in the field.",
+          "zh": "85.9 總結與展望 相關或無關供者異體 HCT 可使高風險 CLL 患者長期無病存活。兩類路徑抑制劑治療失敗，或具有 TP53 異常和／或複雜核型且對一類抑制劑難治者，皆屬標準適應症。一般應在疾病進展至完全難治前考慮異體 HCT；若移植後短期死亡風險高於傳統治療，則不應建議。因缺乏隨機對照比較，個別患者結果須依已發表資料預測，審慎權衡異體 HCT 與繼續傳統治療的風險。疾病對至少一類路徑抑制劑難治時，即應轉介移植中心接受專家諮詢。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500025,
+          "page": 755,
+          "en": "Finally, all approved drugs for CLL can also be used for the treatment of posttransplant relapse and further improvements of donor selection, patient care and prevention of complications can be expected, thus, overall outcome after transplantation will continue to improve.",
+          "zh": "最後，所有核准的 CLL 藥物也可以用於治療移植後復發，並且可以預期供體選擇、患者護理和併發症預防方面的進一步改進，因此移植後的整體結果將持續改善。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 756,
+      "blocks": [
+        {
+          "id": 8500026,
+          "page": 756,
+          "en": "Key Points: AlloHCT in CLL Indications for alloHCT",
+          "zh": "重點：異體 HCT 在 CLL 中的適應症",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500027,
+          "page": 756,
+          "en": "• CLL after failure of 2 pathway inhibitor classes",
+          "zh": "• 2 類途徑抑制劑失敗後的 CLL",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500028,
+          "page": 756,
+          "en": "• CLL with TP53 aberration and/or complex karyotype after failure of one pathway inhibitor",
+          "zh": "• 一種途徑抑制劑失敗後出現 TP53 畸變和/或複雜核型的 CLL",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500029,
+          "page": 756,
+          "en": "• History of Richter’s transformation Remission induction prior to start of conditioning Patient who receive alloHCT in remission have a lower risk of relapse. The most promising option for remission induction should be choosen Donor selection and graft source and GVHDprophylaxis No disease-specific criteria have to be considered for the selection of the donor, graft source, or GVHD-prophylaxis Conditioning There is no advantage of using a myeloablative regimen over reduced-intensity conditioning MRD monitoring MRD-driven immune modulation after alloHCT may improve the likelihood of sustained CLL eradication Risk factors for non-relapse mortality",
+          "zh": "• Richter 轉化病史。預處理前緩解誘導：在緩解期接受異體 HCT 者復發風險較低，應選擇最可能達成緩解的方案。供者、移植物來源與 GVHD 預防：無須依疾病特異條件選擇。預處理：清髓性方案相較 RIC 並無優勢。MRD 監測：異體 HCT 後依 MRD 調整免疫治療，可能提高持續根除 CLL 的機率。非復發死亡危險因子：",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500030,
+          "page": 756,
+          "en": "• Advanced age",
+          "zh": "• 高齡",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500031,
+          "page": 756,
+          "en": "• Poor performance status and/or high HCT-CI score",
+          "zh": "• 表現狀態較差和/或 HCT-CI 分數較高",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500032,
+          "page": 756,
+          "en": "• Partially matched as compared to matched donor HCT",
+          "zh": "• 部分相合供者 HCT（相較完全相合供者）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500033,
+          "page": 756,
+          "en": "• Unfavourable donor patients sex constellation Relapse after alloHCT Relapse after alloHCT may be treated successfully. To current knowledge, the history of alloHCT does not restrict pharmacological treatment options for patients with relapsed CLL",
+          "zh": "• 不利的供者／患者性別組合。異體 HCT 後復發可能仍可成功治療；就目前所知，異體 HCT 病史不會限制復發 CLL 患者的藥物治療選項。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500034,
+          "page": 756,
+          "en": "References Al-Sawaf O, Zhang C, Jin HY, et al. Transcriptomic profiles and 5-year results from the randomized CLL14 study of venetoclax plus obinutuzumab versus chlorambucil plus obinutuzumab in chronic lymphocytic leukemia. Nat Commun. 2023;14:2147.",
+          "zh": "References Al-Sawaf O, Zhang C, Jin HY, et al. Transcriptomic profiles and 5-year results from the randomized CLL14 study of venetoclax plus obinutuzumab versus chlorambucil plus obinutuzumab in chronic lymphocytic leukemia. Nat Commun. 2023;14:2147.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500035,
+          "page": 756,
+          "en": "Dreger P. Is there a role for cellular therapy in chronic lymphocytic leukemia? Cancer J. 2021;27:297–305.",
+          "zh": "Dreger P. Is there a role for cellular therapy in chronic lymphocytic leukemia? Cancer J. 2021;27:297–305.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500036,
+          "page": 756,
+          "en": "Furstenau M, Thus YJ, Robrecht S, et al. High karyotypic complexity is an independent prognostic factor in patients with CLL treated with venetoclax combinations. Blood. 2023;142(5):446–59.",
+          "zh": "Furstenau M, Thus YJ, Robrecht S, et al. High karyotypic complexity is an independent prognostic factor in patients with CLL treated with venetoclax combinations. Blood. 2023;142(5):446–59.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500037,
+          "page": 756,
+          "en": "Huber H, Tausch E, Schneider C, et al. Final analysis of the CLL2-GIVe trial (obinutuzumab, ibrutinib, and venetoclax) in untreated CLL with del(17p)/TP53mut.",
+          "zh": "Huber H, Tausch E, Schneider C, et al. Final analysis of the CLL2-GIVe trial (obinutuzumab, ibrutinib, and venetoclax) in untreated CLL with del(17p)/TP53mut.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500038,
+          "page": 756,
+          "en": "Blood. 2023;142(11):961–72.",
+          "zh": "Blood. 2023;142(11):961–72.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500039,
+          "page": 756,
+          "en": "Kim HT, Shaughnessy CJ, Rai SC, et al. Allogeneic hematopoietic cell transplantation after prior targeted therapy for high-risk chronic lymphocytic leukemia.",
+          "zh": "Kim HT, Shaughnessy CJ, Rai SC, et al. Allogeneic hematopoietic cell transplantation after prior targeted therapy for high-risk chronic lymphocytic leukemia.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500040,
+          "page": 756,
+          "en": "Blood Adv. 2020;4:4113–23.",
+          "zh": "Blood Adv. 2020;4:4113–23.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500041,
+          "page": 756,
+          "en": "Krämer I, Stilgenbauer S, Dietrich S, et al. Allogeneic hematopoietic stem cell transplantation for chronic lymphocytic leukemia: 10-year follow-up of the GCLLSG CLL3X trial. Blood. 2017;130:1477–80.",
+          "zh": "Krämer I, Stilgenbauer S, Dietrich S, et al. Allogeneic hematopoietic stem cell transplantation for chronic lymphocytic leukemia: 10-year follow-up of the GCLLSG CLL3X trial. Blood. 2017;130:1477–80.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500042,
+          "page": 756,
+          "en": "Mato AR, Roeker LE, Jacobs R, et al. Assessment of the efficacy of therapies following venetoclax discontinuation in CLL reveals BTK inhibition as an effective strategy. Clin Cancer Res. 2020;26:3589–96.",
+          "zh": "Mato AR, Roeker LE, Jacobs R, et al. Assessment of the efficacy of therapies following venetoclax discontinuation in CLL reveals BTK inhibition as an effective strategy. Clin Cancer Res. 2020;26:3589–96.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500043,
+          "page": 756,
+          "en": "Mato AR, Woyach JA, Brown JR, et al. Pirtobrutinib after a covalent BTK inhibitor in chronic lymphocytic leukemia. N Engl J Med. 2023;389:33–44.",
+          "zh": "Mato AR, Woyach JA, Brown JR, et al. Pirtobrutinib after a covalent BTK inhibitor in chronic lymphocytic leukemia. N Engl J Med. 2023;389:33–44.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500044,
+          "page": 756,
+          "en": "Roeker LE, Dreger P, Brown JR, et al. Allogeneic stem cell transplantation for chronic lymphocytic leukemia in the era of novel agents. BloodAdv. 2020;4:3977–89.",
+          "zh": "Roeker LE, Dreger P, Brown JR, et al. Allogeneic stem cell transplantation for chronic lymphocytic leukemia in the era of novel agents. BloodAdv. 2020;4:3977–89.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500045,
+          "page": 756,
+          "en": "Schetelig J, van Biezen A, Brand R, et al. Allogeneic hematopoietic cell transplantation for chronic lymphocytic leukemia with 17p deletion: a retrospective EBMT analysis. J Clin Oncol. 2008;26:5094–100.",
+          "zh": "Schetelig J, van Biezen A, Brand R, et al. Allogeneic hematopoietic cell transplantation for chronic lymphocytic leukemia with 17p deletion: a retrospective EBMT analysis. J Clin Oncol. 2008;26:5094–100.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500046,
+          "page": 756,
+          "en": "Schetelig J, de Wreede LC, Andersen NS, et al. Centre characteristics and procedure-related factors have an impact on outcomes of allogeneic transplantation for patients with CLL: a retrospective analysis from the European Society for Blood and Marrow Transplantation (EBMT). Br J Haematol.",
+          "zh": "Schetelig J, de Wreede LC, Andersen NS, et al. Centre characteristics and procedure-related factors have an impact on outcomes of allogeneic transplantation for patients with CLL: a retrospective analysis from the European Society for Blood and Marrow Transplantation (EBMT). Br J Haematol.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500047,
+          "page": 756,
+          "en": "2017;178:521–33.",
+          "zh": "2017;178:521–33.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500048,
+          "page": 756,
+          "en": "Schetelig J, Chevallier P, van Gelder M, et al. Idelalisib treatment prior to allogeneic stem cell transplantation for patients with chronic lymphocytic leukemia: a report from the EBMT chronic malignancies working party. Bone Marrow Transplant. 2021;56:605–13.",
+          "zh": "Schetelig J, Chevallier P, van Gelder M, et al. Idelalisib treatment prior to allogeneic stem cell transplantation for patients with chronic lymphocytic leukemia: a report from the EBMT chronic malignancies working party. Bone Marrow Transplant. 2021;56:605–13.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500049,
+          "page": 756,
+          "en": "Sharman JP, Egyed M, Jurczak W, et al. Efficacy and safety in a 4-year follow-up of the ELEVATE-TN study comparing acalabrutinib with or without obinutuzumab versus obinutuzumab plus chlorambucil in treatment-naive chronic lymphocytic leukemia.",
+          "zh": "Sharman JP, Egyed M, Jurczak W, et al. Efficacy and safety in a 4-year follow-up of the ELEVATE-TN study comparing acalabrutinib with or without obinutuzumab versus obinutuzumab plus chlorambucil in treatment-naive chronic lymphocytic leukemia.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500050,
+          "page": 756,
+          "en": "Leukemia. 2022;36:1171–5.",
+          "zh": "Leukemia. 2022;36:1171–5.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500051,
+          "page": 756,
+          "en": "SiddiqiT,MaloneyDG,KenderianSS,etal.Lisocabtagene maraleucel in chronic lymphocytic leukaemia and small lymphocytic lymphoma (TRANSCEND CLL",
+          "zh": "SiddiqiT,MaloneyDG,KenderianSS,etal.Lisocabtagene maraleucel in chronic lymphocytic leukaemia and small lymphocytic lymphoma (TRANSCEND CLL",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 757,
+      "blocks": [
+        {
+          "id": 8500052,
+          "page": 757,
+          "en": "004): a multicentre, open-label, single-arm, phase 1-2 study. Lancet. 2023;402(10402):641–54.",
+          "zh": "004): a multicentre, open-label, single-arm, phase 1-2 study. Lancet. 2023;402(10402):641–54.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500053,
+          "page": 757,
+          "en": "Tournilhac O, Le Garff-Tavernier M, Nguyen QS, et al.",
+          "zh": "Tournilhac O, Le Garff-Tavernier M, Nguyen QS, et al.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500054,
+          "page": 757,
+          "en": "Efficacy of minimal residual disease driven immuneintervention after allogeneic hematopoietic stem cell transplantation for high-risk chronic lymphocytic leukemia: results of a prospective multicentric trial.",
+          "zh": "Efficacy of minimal residual disease driven immuneintervention after allogeneic hematopoietic stem cell transplantation for high-risk chronic lymphocytic leukemia: results of a prospective multicentric trial.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500055,
+          "page": 757,
+          "en": "Haematologica. 2021;106:1867–75. van Gelder M, de Wreede LC, Bornhauser M, et al. Longterm survival of patients with CLL after allogeneic transplantation: a report from the European Society for Blood and Marrow Transplantation. Bone Marrow Transplant. 2017;52:372–80.",
+          "zh": "Haematologica. 2021;106:1867–75. van Gelder M, de Wreede LC, Bornhauser M, et al. Longterm survival of patients with CLL after allogeneic transplantation: a report from the European Society for Blood and Marrow Transplantation. Bone Marrow Transplant. 2017;52:372–80.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500056,
+          "page": 757,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+          "zh": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.",
+          "review": "ai-draft"
+        },
+        {
+          "id": 8500057,
+          "page": 757,
+          "en": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
