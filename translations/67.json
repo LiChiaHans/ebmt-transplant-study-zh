@@ -1,0 +1,609 @@
+{
+  "id": 67,
+  "title": "Overweight and Obese Patients",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 47,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 590,
+      "blocks": [
+        {
+          "id": 6700001,
+          "page": 590,
+          "en": "67 Overweight and Obese Patients\nClaudia Langebrake",
+          "zh": "67 過重與肥胖患者 — Claudia Langebrake",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_67"
+            }
+          ]
+        },
+        {
+          "id": 6700002,
+          "page": 590,
+          "en": "67.1 Introduction\n“More obese people in the world than underweight” was the headline on BBC News on 1 April 2016. This statement is based on a study comparing the prevalence of body mass index (BMI) categories of more than 19.2 million adult participants in 186 of 200 countries. Comparing the age-standardized mean BMI by country in 1975 and 2014, there is a significant increase in both men (21.7 vs. 24.2 kg/m²) and women (22.1 vs. 24.4 kg/m²). According to the World Obesity Atlas, one billion people globally are estimated to be living with obesity by 2030.",
+          "zh": "67.1 前言\n「全球肥胖人口多於體重過輕人口」是 2016 年 4 月 1 日 BBC 新聞的頭條標題。這項陳述是基於一項比較 200 個國家中 186 個國家、超過 1,920 萬名成人參與者之身體質量指數（BMI）分類盛行率的研究。比較 1975 年與 2014 年各國經年齡標準化的平均 BMI，男性（21.7 對 24.2 kg/m²）與女性（22.1 對 24.4 kg/m²）均有顯著增加。根據《世界肥胖地圖集》（World Obesity Atlas），估計到 2030 年全球將有 10 億人患有肥胖症。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700003,
+          "page": 590,
+          "en": "Compared with people of healthy weight, those who are overweight or obese are at greater risk for many diseases, including diabetes, high blood pressure, cardiovascular disease, stroke, and at least 13 types of cancer, as well as having an elevated risk of death from all causes. Furthermore, obesity seems to be associated with a worse outcome after hematopoietic cell transplantation (HCT).",
+          "zh": "與健康體重的人相比，過重或肥胖者罹患許多疾病的風險較高，包括糖尿病、高血壓、心血管疾病、中風以及至少 13 種癌症，且全因死亡風險亦升高。此外，肥胖似乎與造血細胞移植（HCT）後較差的預後相關。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700004,
+          "page": 590,
+          "en": "67.1.1 Definitions and Size Describers of Obesity\nClassification of excess weight and obesity is usually based on BMI which is calculated using height and weight of an individual. According to the World Health Organization (WHO), adults are defined to be normal weight with a BMI of 18.5–24.9 kg/m², overweight with 25–29.9 kg/m², and obese with ≥30 kg/m². However, one has to keep in mind that although BMI has been shown to correlate with subcutaneous fat (but not with percentage body fat), in individuals with greater muscle mass, women or the elderly, BMI might not be the best describer, as muscle mass is more dense than fat mass. In those people, percent body fat would better describe body composition, but the direct measurement is usually not readily available as it requires advanced technical equipment (e.g. hydrodensitometry, skin-fold measurement, bioelectrical impedance analysis, or dual-energy X-ray absorptiometry) (Hanley et al. 2010). As a consequence, indirect measures of body composition, such as BMI or ideal body weight (IBW), remain the standard, as they are easy to calculate.",
+          "zh": "67.1.1 肥胖的定義與體型描述指標\n體重過重與肥胖的分類通常是基於以個人身高與體重計算出的 BMI。根據世界衛生組織（WHO）的定義，成人 BMI 18.5–24.9 kg/m² 為正常體重、25–29.9 kg/m² 為過重，而 ≥30 kg/m² 則為肥胖。然而必須謹記，儘管 BMI 已證實與皮下脂肪相關（但與體脂肪百分比無關），對於肌肉量較多的人、女性或年長者而言，由於肌肉組織的密度高於脂肪組織，BMI 可能不是最佳的描述指標。在這些族群中，體脂肪百分比能更準確地描述身體組成，但直接測量通常不易取得，因為需要先進的技術設備（例如水下秤重密度測定法〔hydrodensitometry〕、皮褶厚度測量、生物電阻抗分析〔bioelectrical impedance analysis〕或雙能量 X 光吸收儀〔dual-energy X-ray absorptiometry〕）（Hanley et al. 2010）。因此，由於身體組成的間接測量指標（如 BMI 或理想體重〔IBW〕）易於計算，目前仍是標準方法。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700005,
+          "page": 590,
+          "en": "C. Langebrake (*)\nDepartment of Stem Cell Transplantation and Hospital Pharmacy, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany\ne-mail: c.langebrake@uke.de\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_67",
+          "zh": "作者單位與聯絡資訊：\nC. Langebrake（通訊作者）：德國漢堡漢堡-埃彭多夫大學醫學中心（University Medical Centre Hamburg-Eppendorf）幹細胞移植科暨醫院藥劑部；電子郵件：c.langebrake@uke.de。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_67。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 591,
+      "blocks": [
+        {
+          "id": 6700006,
+          "page": 591,
+          "en": "67.2 Influence of Excess Weight and Obesity on the Pharmacokinetics of Drugs\nObesity is associated with physiological changes that can alter the pharmacokinetic (PK) parameters of many drugs. Observed physiological changes in obese patients influencing the pharmacokinetic behavior of drugs and resulting consequences for drug dosing are summarized in Table 67.1.",
+          "zh": "67.2 體重過重與肥胖對藥物動力學的影響\n肥胖伴隨著可能改變許多藥物之藥物動力學（PK）參數的生理變化。在肥胖患者中觀察到會影響藥物動力學行為的生理變化，以及其對藥物劑量調整所造成的影響，總結於表 67.1。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700007,
+          "page": 591,
+          "en": "Nevertheless, it has to be kept in mind that the effects of physiologic changes are usually drug-specific and that for the majority of drugs, both pharmacokinetic and clinical data in obese patients are sparse. Due to unusual distribution processes, the kinetics of drugs is difficult to predict in obese patients.",
+          "zh": "儘管如此，必須謹記生理變化的影響通常具有藥物特異性，且對大多數藥物而言，在肥胖患者中的藥物動力學與臨床數據均相當匱乏。由於不尋常的分布過程，藥物在肥胖患者體內的動力學難以預測。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700008,
+          "page": 591,
+          "en": "The impact of obesity on glomerular filtration rate (GFR) as well as on tubular secretion is not completely understood. Discrepant results regarding GFR in obese as compared with normal-weight individuals might be explained by estimating GFR using serum creatinine, as no instrument has been validated for obesity. Especially, if using weight-based formulas like the widespread Cockroft–Gault formula, estimated GFR (eGFR) will be overestimated if total body weight (TBW) is used but underestimated if ideal body weight is used. Therefore, it is reasonable to use adjusted ideal body weight (AIBW) for estimation in overweight or obese patients. However, the use of weight-independent formulas, such as MDRD (Modification of Diet in Renal Disease) or CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration), that has been shown to result in more reliable estimates (Bouquegneau et al. 2015), has limitations: as the eGFR is provided in mL/min/1.73 m², the possibly incorrect calculation of body surface area (BSA) in the obese might negatively influence the results.",
+          "zh": "肥胖對腎絲球過濾率（GFR）以及腎小管分泌的影響尚未完全明瞭。肥胖者與正常體重者在 GFR 方面的不一致結果，可能源於使用血清肌酸酐估算 GFR，因為目前尚無針對肥胖驗證過的估算工具。特別是若使用基於體重的公式（如廣泛使用的 Cockroft–Gault 公式），採用總體重（TBW）會高估估算腎絲球過濾率（eGFR），而採用理想體重則會低估 eGFR。因此，在過重或肥胖患者中使用校正理想體重（AIBW）進行估算較為合理。然而，使用不依賴體重的公式——例如已證實能得出更可靠估算值的 MDRD（Modification of Diet in Renal Disease，腎臟病飲食調整公式）或 CKD-EPI（Chronic Kidney Disease Epidemiology Collaboration，慢性腎臟病流行病學合作研究公式）（Bouquegneau et al. 2015）——仍有其限制：由於 eGFR 是以 mL/min/1.73 m² 表示，在肥胖者中可能不準確的體表面積（BSA）計算會對結果產生負面影響。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700009,
+          "page": 591,
+          "en": "Table 67.1 Overview of physiologic changes in obese individuals influencing pharmacokinetics of drugs\n\n[Columns: Parameter | Changes in obese patients | Consequences of drug dosing]\n\n• Absorption\n  – Changes in obese patients:\n    • Increased gastrointestinal blood flow\n    • Accelerated gastric emptying\n    • Changes in the composition and thickness of the subcutaneous fat tissue\n  – Consequences of drug dosing:\n    • Only little data on oral bioavailability\n    • For a couple of drugs including cyclosporine A, midazolam, or propranolol, no differences in oral bioavailability have been observed\n    • Unsuccessful intramuscular injections\n    • Accidental intramuscular administration intended for subcutaneous injection\n    • Paucity of information on the rate of absorption and bioavilability administered subcutanously\n\n• Distribution\n  – Changes in obese patients:\n    • Hydrophilic drugs: Vd is similar in normal-weight and obese patients\n    • Moderate or high lipophilic drugs: significant differences in Vd\n    • Tissue blood flow may be reduced\n    • Obesity does not appear to have an impact on plasma protein binding\n  – Consequences of drug dosing:\n    • Vd is important for the determination of a loading dose in order to achieve a rapid and adequate exposition\n    • Vd changes are drug-specific (attributable to the physicochemical properties of the drug)\n\n• Clearance (renal and hepatic)\n  – Changes in obese patients:\n    • Altered hepatic blood flow\n    • TBW-proportional increase in phase II metabolism\n    • GFR and renal perfusion are similar, but imprecision in GFR estimation (see text below)\n    • Obese individuals exhibit higher absolute drug clearance\n    • Clearance does not increase linearly with TBW\n    • Clearance and lean body weight are linearly correlated\n  – Consequences of drug dosing:\n    • Elimination of hydrophilic and extensively renally cleared drugs mainly depends on renal function\n    • No apparent relationship between lipophilicity and clearance mechanism\n    • Essential parameter to determine maintenance dose\n    • Physicochemical attributes of drugs have little impact on clearance\n\nAbbreviations: GFR glomerular filtration rate, TBW total body weight, Vd volume of distribution",
+          "zh": "表 67.1 肥胖個體中影響藥物動力學的生理變化概覽\n\n【欄位：參數｜肥胖患者的生理變化（Changes in obese patients）｜對藥物劑量調整的影響（Consequences of drug dosing）】\n\n• 吸收（Absorption）\n  – 肥胖患者的生理變化：\n    • 胃腸道血流量增加\n    • 胃排空加速\n    • 皮下脂肪組織的組成與厚度改變\n  – 對藥物劑量調整的影響：\n    • 關於口服生體可用率（oral bioavailability）的數據極少\n    • 對於包括 cyclosporine A、midazolam 或 propranolol 在內的少數藥物，未觀察到口服生體可用率有所差異\n    • 肌肉注射失敗\n    • 原定進行皮下注射卻意外變成肌肉內給藥\n    • 缺乏皮下給藥時吸收速率與生體可用率的相關資訊\n\n• 分布（Distribution）\n  – 肥胖患者的生理變化：\n    • 親水性藥物：正常體重與肥胖患者的 Vd 相似\n    • 中度或高度親脂性藥物：Vd 存在顯著差異\n    • 組織血流量可能減少\n    • 肥胖似乎不會影響血漿蛋白結合率\n  – 對藥物劑量調整的影響：\n    • Vd 對於決定速效劑量（loading dose）以迅速達到足夠暴露量相當重要\n    • Vd 的變化具藥物特異性（取決於藥物的理化性質）\n\n• 清除率（腎臟與肝臟）［Clearance (renal and hepatic)］\n  – 肥胖患者的生理變化：\n    • 肝臟血流量改變\n    • 第二相代謝（phase II metabolism）隨 TBW 成比例增加\n    • GFR 與腎臟灌流相似，但 GFR 的估算不夠精確（見正文說明）\n    • 肥胖個體表現出較高的絕對藥物清除率\n    • 清除率並非隨 TBW 呈線性增加\n    • 清除率與除脂體重（lean body weight）呈線性相關\n  – 對藥物劑量調整的影響：\n    • 親水性及主要經由腎臟清除之藥物的排除，主要取決於腎功能\n    • 親脂性與清除機轉之間無明顯關聯\n    • 為決定維持劑量（maintenance dose）的關鍵參數\n    • 藥物的理化特性對清除率影響甚微\n\n縮寫說明：GFR：腎絲球過濾率（glomerular filtration rate）；TBW：總體重（total body weight）；Vd：分布體積（volume of distribution）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 592,
+      "blocks": [
+        {
+          "id": 6700010,
+          "page": 592,
+          "en": "Taken together, there is only limited evidence-based information about drug clearance in obese patients due to restrictions of clinical trials and the lack of pharmacokinetic (PK) analyses. It is important to remember that there is no single-size descriptor for all drugs.",
+          "zh": "綜上所述，由於臨床試驗的限制以及缺乏藥物動力學（PK）分析，關於肥胖患者藥物清除率的實證資訊相當有限。必須謹記，並沒有單一體型描述指標可適用於所有藥物。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700011,
+          "page": 592,
+          "en": "67.3 Recommendations for Drug Dosing\nBesides the above-described physicochemical attributes and PK properties, recommendations from the literature and plasma concentration monitoring are important to determine drug dosing in morbidly obese patients (Green and Duffull 2004; Han et al. 2007; Hanley et al. 2010).",
+          "zh": "67.3 藥物劑量調整建議\n除了上述理化特性與 PK 性質外，文獻中的建議與血漿濃度監測對於決定病態肥胖患者的藥物劑量亦相當重要（Green and Duffull 2004; Han et al. 2007; Hanley et al. 2010）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700012,
+          "page": 592,
+          "en": "67.3.1 Which Weight to Use for Calculation?\nFor some drugs, the use of adjusted ideal body weight (AIBW) resulted in similar drug exposure in obese as compared to normal-weight patients: This is, for example, true for aminoglycosides, acyclovir (Turner et al. 2016), or liposomal Amphotericin B. AIBW is calculated by adding 25–40% of the difference between total body weight (TBW) and IBW to the IBW. This method is also well examined using population PK models for busulfan (Nguyen et al. 2006). On the other hand, initial vancomycin dosing should be based on TBW with subsequent therapeutic drug monitoring. However, for many drugs, the optimal basis for dose calculation has still to be determined.",
+          "zh": "67.3.1 應使用何種體重進行計算？\n對於某些藥物，使用校正理想體重（AIBW）可使肥胖患者達到與正常體重患者相似的藥物暴露量：例如氨基糖苷類（aminoglycosides）、acyclovir（Turner et al. 2016）或微脂體兩性黴素 B（liposomal Amphotericin B）皆是如此。AIBW 的計算方式為將理想體重（IBW）加上總體重（TBW）與 IBW 差值的 25–40%。此方法在 busulfan 的群體 PK 模型中也已獲得充分驗證（Nguyen et al. 2006）。另一方面，vancomycin 的初始劑量應基於 TBW 計算，並於後續進行治療藥物監測（TDM）。然而，對於許多藥物而言，劑量計算的最佳體重基準仍有待確立。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700013,
+          "page": 592,
+          "en": "67.3.2 Antibiotics, Chemotherapy, and Other Drugs\nThe majority of dosing recommendations in obese patients exist for antimicrobial drugs. A comprehensive overview of current literature of antibiotic dosing was first published in 2017 and updated in 2022 (Meng et al. 2023).",
+          "zh": "67.3.2 抗生素、化學治療及其他藥物\n針對肥胖患者的劑量建議大多集中於抗微生物藥物。關於抗生素劑量調整的現有文獻綜合回顧於 2017 年首次發表，並於 2022 年更新（Meng et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700014,
+          "page": 592,
+          "en": "For the dosing of chemotherapy—except high-dose regimens—the American Society of Clinical Oncology (ASCO) published the following main statements in 2012 that were updated in 2021 (Griggs et al. 2021):\n• Dose should be selected according to body surface area (BSA) using actual body weight.\n• Dose reductions of systemic antineoplastic therapies should be based on toxicity and comorbidities independent of the obesity status—there is no evidence that obese patients experience increased toxicity when actual weight is used for the calculation of chemotherapy.\n• Full, approved doses of immunotherapy and targeted therapies should be offered to obese adults with cancer.",
+          "zh": "在化學治療的劑量計算方面（高劑量方案除外），美國臨床腫瘤學會（ASCO）於 2012 年發表了以下主要聲明，並於 2021 年更新（Griggs et al. 2021）：\n• 應使用實際體重計算體表面積（BSA）來選擇劑量。\n• 全身性抗腫瘤治療的劑量調降應基於毒性與共病症，而與肥胖狀態無關——目前並無證據顯示使用實際體重計算化療劑量會使肥胖患者承受較高的毒性。\n• 應為患有癌症的肥胖成人提供完整、核准劑量的免疫治療與標靶治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700015,
+          "page": 592,
+          "en": "However, some limitations have to be kept in mind, as (1) there are no RCTs comparing actual body weight with other adjusted dosing approaches in obese patients, (2) recommendations are based on subgroup analyses of obese patients from RCTs or observational studies using actual versus adjusted weight calculation, and (3) there are no recommendations for HCT conditioning.",
+          "zh": "然而，必須留意幾項限制，因為：（1）目前尚無在肥胖患者中比較實際體重與其他校正劑量計算方法的隨機對照試驗（RCT）；（2）現有建議是基於使用實際體重對比校正體重計算的 RCT 或觀察性研究中之肥胖患者亞群分析；以及（3）目前尚無針對 HCT 調理方案（conditioning）的相關建議。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700016,
+          "page": 592,
+          "en": "Some recommendations have also been published for the dosage of low-molecular-weight heparins. In the context of prophylaxis, for example, fixed-dose enoxaparin shows an inverse linear correlation between the AUC or anti-Xa activity and body weight between 50 and 150 kg, with the lowest levels in moderate-to-severe obese patients (Rocca et al. 2018). Therefore, an increased dose has been suggested for venous thromboembolism prophylaxis and weight-based dosing (without dose capping, but with anti-Xa monitoring in severe obesity) for antithrombotic therapy.",
+          "zh": "針對低分子量肝素（low-molecular-weight heparins）的劑量，目前也已發表一些建議。例如在預防性給藥的情境下，固定劑量的 enoxaparin 在體重 50 至 150 kg 之間，其曲線下面積（AUC）或抗第 Xa 因子（anti-Xa）活性與體重呈反向線性相關，且在中度至重度肥胖患者中濃度最低（Rocca et al. 2018）。因此，建議在靜脈血栓栓塞預防時提高劑量，而在抗血栓治療時則採基於體重的劑量計算（不設劑量上限，但在重度肥胖患者中需進行 anti-Xa 監測）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700017,
+          "page": 592,
+          "endPage": 593,
+          "en": "One case report described experiences of drug dosing in a morbidly obese patient undergoing allogeneic HCT (Langebrake et al. 2011). Here, it was observed that for hydrophilic and extensively renally cleared drugs, standard dosages for adult patients or dosing based on ideal body weight can be used. For more lipophilic drugs like cyclosporine A or digitoxin, it could be shown that after achieving sufficient plasma levels using high initial doses, maintenance doses similar to those used in normal-weight patients are sufficient. Monitoring of plasma concentrations is highly recommended for drugs with a narrow therapeutic index.",
+          "zh": "曾有一篇病例報告描述一名接受異體 HCT 的病態肥胖患者之藥物劑量調整經驗（Langebrake et al. 2011）。該報告觀察到，對於親水性且主要經由腎臟清除的藥物，可使用成人患者的標準劑量或基於理想體重（IBW）計算的劑量。對於親脂性較高的藥物（如 cyclosporine A 或 digitoxin），結果顯示在使用高初始劑量達到足夠的血漿濃度後，採用與正常體重患者相似的維持劑量即已足夠。對於治療指數狹窄（narrow therapeutic index）的藥物，強烈建議進行血漿濃度監測。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 593,
+      "blocks": [
+        {
+          "id": 6700018,
+          "page": 593,
+          "en": "67.3.3 Preparative Regimens Prior to HCT\nIn patients undergoing autologous or allogeneic HCT, specific features and purposes have to be taken into account. In autologous HCT, high-dose chemotherapy aims to reduce tumor burden, while in allogeneic HCT therapeutic effect is based on donor immune cells and myeloablation.",
+          "zh": "67.3.3 HCT 前的調理方案\n在進行自體或異體 HCT 的患者中，必須考量特定的臨床特徵與治療目的。在自體 HCT 中，高劑量化學治療旨在降低腫瘤負荷；而在異體 HCT 中，治療效果則是基於供者免疫細胞與骨髓清除（myeloablation）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700019,
+          "page": 593,
+          "en": "There is uncertainty as to appropriate practice in relation to dose adjustments of both conditioning chemotherapy and graft-versus-host disease (GvHD) prophylaxis in obese patients undergoing HCT, as there are insufficient data to determine optimal drug dosing in obese patients undergoing HCT. In Europe, the vast majority of transplant centers consider dose adjustments in conditioning chemotherapy, although with significant variation in the methods used to categorize obesity and the degree of modification (Smith et al. 2023). Most centers refer to the ASBMT recommendations published in 2014, although it had been concluded that “dose adjustments for obesity have been based empirically or extrapolated from published data in the nontransplantation patient population” and that “clear standards or dosing guidelines are unable to be made for the obese population because Level I and II evidence are unavailable at this time.” (Bubalo et al. 2014).",
+          "zh": "對於接受 HCT 的肥胖患者，調理化療與移植物抗宿主疾病（GvHD）預防藥物的劑量調整何者為適當實務仍存在不確定性，因為目前的數據不足以決定肥胖患者接受 HCT 時的最佳藥物劑量。在歐洲，絕大多數移植中心會考慮調整調理化療的劑量，但用於分類肥胖的方法與劑量調整幅度存在顯著差異（Smith et al. 2023）。大多數中心參考美國血液與骨髓移植學會（ASBMT）於 2014 年發表的建議，儘管該文獻結論指出：「針對肥胖的劑量調整一直是以經驗法則為基礎，或由非移植患者族群的已發表數據外推而來」，且「由於目前缺乏第一級與第二級（Level I and II）證據，尚無法為肥胖族群制定明確的標準或劑量指引」（Bubalo et al. 2014）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700020,
+          "page": 593,
+          "en": "For conditioning agents with intermediate (e.g. busulfan, cyclophosphamide, etoposide, melphalan, thiotepa, and treosulfan) or high volume of distribution (e.g. carmustine, clofarabine, cytarabine, and fludarabine), pharmacokinetic considerations suggest that exposure is increased in overweight or obese patients compared to normal-weight patients when the TBW is used for dose calculation.",
+          "zh": "對於具有中度分布體積（例如 busulfan、cyclophosphamide、etoposide、melphalan、thiotepa 及 treosulfan）或高分布體積（例如 carmustine、clofarabine、cytarabine 及 fludarabine）的調理藥物，從藥物動力學角度考量，當使用總體重（TBW）計算劑量時，過重或肥胖患者的藥物暴露量會比正常體重患者增加。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700021,
+          "page": 593,
+          "en": "In particular, for busulfan, there is good evidence from pharmacokinetic and clinical studies supporting the use of AIBW for dosing busulfan. Especially for children and myeloablative regimens, the implementation of therapeutic drug monitoring is recommended (Palmer et al. 2016).",
+          "zh": "特別是針對 busulfan，來自藥物動力學與臨床研究的良好證據支持使用校正理想體重（AIBW）來計算 busulfan 劑量。尤其對於兒童與骨髓清除性方案，建議實施治療藥物監測（TDM）（Palmer et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700022,
+          "page": 593,
+          "en": "For high-dose cyclophosphamide, data from both pharmacokinetic (Takahashi et al. 2022) and clinical studies (Bachanova et al. 2016) are available that support dosing based on AIBW.",
+          "zh": "至於高劑量 cyclophosphamide，目前已有來自藥物動力學（Takahashi et al. 2022）與臨床研究（Bachanova et al. 2016）的數據支持基於 AIBW 計算劑量。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700023,
+          "page": 593,
+          "en": "The approach to use AIBW-based BSA for dose calculation of melphalan prior to autologous HCT in multiple myeloma patients has been shown to be non-inferior as compared to the non-obese population in terms of 3-year event-free survival (Shultes et al. 2017). On the other hand, for lymphoma patients receiving high-dose BEAM prior to autologous HCT, no requirement for weight-based dose adjustment has been proposed based on tolerability and outcome (Fair et al. 2017).",
+          "zh": "在多發性骨髓瘤患者進行自體 HCT 前，使用基於 AIBW 的 BSA 來計算 melphalan 劑量的做法，在 3 年無事件存活率（EFS）方面已證實不劣於非肥胖族群（Shultes et al. 2017）。另一方面，對於在自體 HCT 前接受高劑量 BEAM 方案的淋巴瘤患者，基於耐受性與治療結果，已提出無需根據體重調整劑量的建議（Fair et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700024,
+          "page": 593,
+          "en": "Even for antithymocyte globulin (ATG) that is characterized by a very low volume of distribution, TBW for dose calculation is recommended by ASBMT. However, from a pharmacokinetic point of view, it would be more reasonable to use ideal body weight, as ATG (like other protein-based drugs) has a volume distribution that is almost equal to the whole blood volume. Furthermore, it has been proposed, to rather base ATG dosing on absolute lymphocyte count, as this is the target of ATG (Kennedy et al. 2018).",
+          "zh": "即使是具有極低分布體積特徵的抗胸腺細胞球蛋白（ATG），ASBMT 仍建議使用 TBW 計算劑量。然而，從藥物動力學的觀點來看，使用理想體重（IBW）會更為合理，因為 ATG（如同其他蛋白質類藥物）的分布體積幾乎等同於全血體積。此外，亦有研究建議改根據絕對淋巴球計數（ALC）來計算 ATG 劑量，因為淋巴球正是 ATG 的作用標的（Kennedy et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700025,
+          "page": 593,
+          "endPage": 594,
+          "en": "Reports of obese patients undergoing HCT are challenging to interpret because of the heterogeneity of obesity definitions, underlying diseases, graft sources, and chemotherapy regimens employed. Compared with normal-weight patients, it appears that obese patients undergoing allogeneic HCT have a higher risk of non-relapse mortality and inferior survival, whereas those receiving autologous HCT appear to have equivalent outcomes. Another important limitation for the interpretation of published data is that there is no consistent standard for calculating chemotherapy dose in this group. Therefore, it is recommended that future studies utilize more consistent and biologically relevant definitions of obesity and that the pharmacokinetics and pharmacodynamics of specific conditioning regimens should be studied (Weiss et al. 2013).",
+          "zh": "針對接受 HCT 的肥胖患者之相關報告往往難以解讀，因為肥胖定義、潛在疾病、移植物來源以及所採用的化療方案皆具有異質性。與正常體重患者相比，接受異體 HCT 的肥胖患者似乎具有較高的非復發死亡率（NRM）與較差的存活率，而接受自體 HCT 者則似乎具有相當的治療結果。解讀已發表數據的另一項重要限制，在於此族群的化療劑量計算尚無一致的標準。因此，建議未來的研究應採用更一致且具生物學相關性的肥胖定義，並應針對特定調理方案的藥物動力學與藥效學進行研究（Weiss et al. 2013）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 594,
+      "blocks": [
+        {
+          "id": 6700026,
+          "page": 594,
+          "en": "Key Points\n• Obesity is associated with a significant increase in morbidity (including metabolic diseases and cancer) and mortality.\n• Indirect measures of body composition, like BMI or ideal body weight, remain the standard as they are easy to calculate.\n• There is only limited evidence-based information about drug clearance in obese patients due to restrictions of clinical trials and the lack of pharmacokinetic analyses.\n• Evidence for clear standards or dosing guidelines is currently not available as there are insufficient data to determine optimal drug dosing in obese patients undergoing HCT.\n• Despite that, in clinical practice, about 80% of HCT centers routinely perform dose adjustment for obesity. However, the methods used for determining the weight for chemotherapy calculation are different among the transplant centers.",
+          "zh": "重點摘要（Key Points）\n• 肥胖與罹病率（包括代謝疾病與癌症）及死亡率的顯著增加相關。\n• 身體組成的間接測量指標（如 BMI 或理想體重）因易於計算，目前仍是標準方法。\n• 由於臨床試驗的限制以及缺乏藥物動力學分析，關於肥胖患者藥物清除率的實證資訊相當有限。\n• 由於目前的數據不足以決定肥胖患者接受 HCT 時的最佳藥物劑量，尚無制定明確標準或劑量指引的實證。\n• 儘管如此，在臨床實務中，約有 80% 的 HCT 中心會常規針對肥胖進行劑量調整。然而，各移植中心用於決定化療劑量計算體重的方法互不相同。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6700027,
+          "page": 594,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft",
+          "retained": true
+        },
+        {
+          "id": 6700028,
+          "page": 594,
+          "en": "Bachanova V, Rogosheske J, Shanley R, Burns LJ, Smith SM, Weisdorf DJ, Brunstein CG. Adjusting cyclophosphamide dose in obese patients with lymphoma is safe and yields favorable outcomes after autologous hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22(3):571–4.",
+          "zh": "Bachanova V, Rogosheske J, Shanley R, Burns LJ, Smith SM, Weisdorf DJ, Brunstein CG. Adjusting cyclophosphamide dose in obese patients with lymphoma is safe and yields favorable outcomes after autologous hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22(3):571–4.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bachanova%20V%2C%20Rogosheske%20J%2C%20Shanley%20R%2C%20Burns%20LJ%2C%20Smith%20SM%2C%20Weisdorf%20DJ%2C%20Brunstein%20CG.%20Adjusting%20cyclophosphamide%20dose%20in%20obese%20patients%20with%20lymphoma%20is%20safe%20and%20yields%20favorable%20outcomes%20after%20autologous%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22(3)%3A571%E2%80%934."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bachanova%20V%2C%20Rogosheske%20J%2C%20Shanley%20R%2C%20Burns%20LJ%2C%20Smith%20SM%2C%20Weisdorf%20DJ%2C%20Brunstein%20CG.%20Adjusting%20cyclophosphamide%20dose%20in%20obese%20patients%20with%20lymphoma%20is%20safe%20and%20yields%20favorable%20outcomes%20after%20autologous%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22(3)%3A571%E2%80%934."
+            }
+          ]
+        },
+        {
+          "id": 6700029,
+          "page": 594,
+          "en": "Bouquegneau A, Vidal-Petiot E, Moranne O, Mariat C, Boffa JJ, Vrtovsnik F, Scheen AJ, Krzesinski JM, Flamant M, Delanaye P. Creatinine-based equations for the adjustment of drug dosage in an obese population. Br J Clin Pharmacol. 2015;81(2):349–61.",
+          "zh": "Bouquegneau A, Vidal-Petiot E, Moranne O, Mariat C, Boffa JJ, Vrtovsnik F, Scheen AJ, Krzesinski JM, Flamant M, Delanaye P. Creatinine-based equations for the adjustment of drug dosage in an obese population. Br J Clin Pharmacol. 2015;81(2):349–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bouquegneau%20A%2C%20Vidal-Petiot%20E%2C%20Moranne%20O%2C%20Mariat%20C%2C%20Boffa%20JJ%2C%20Vrtovsnik%20F%2C%20Scheen%20AJ%2C%20Krzesinski%20JM%2C%20Flamant%20M%2C%20Delanaye%20P.%20Creatinine-based%20equations%20for%20the%20adjustment%20of%20drug%20dosage%20in%20an%20obese%20population.%20Br%20J%20Clin%20Pharmacol.%202015%3B81(2)%3A349%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bouquegneau%20A%2C%20Vidal-Petiot%20E%2C%20Moranne%20O%2C%20Mariat%20C%2C%20Boffa%20JJ%2C%20Vrtovsnik%20F%2C%20Scheen%20AJ%2C%20Krzesinski%20JM%2C%20Flamant%20M%2C%20Delanaye%20P.%20Creatinine-based%20equations%20for%20the%20adjustment%20of%20drug%20dosage%20in%20an%20obese%20population.%20Br%20J%20Clin%20Pharmacol.%202015%3B81(2)%3A349%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 6700030,
+          "page": 594,
+          "en": "Bubalo J, Carpenter PA, Majhail N, Perales MA, Marks DI, Shaughnessy P, Pidala J, Leather HL, Wingard J, Savani BN, American Society for Blood and Marrow Transplantation practice guideline. Conditioning chemotherapy dose adjustment in obese patients: a review and position statement by the American Society for Blood and Marrow Transplantation practice guideline committee. Biol Blood Marrow Transplant. 2014;20(5):600–16.",
+          "zh": "Bubalo J, Carpenter PA, Majhail N, Perales MA, Marks DI, Shaughnessy P, Pidala J, Leather HL, Wingard J, Savani BN, American Society for Blood and Marrow Transplantation practice guideline. Conditioning chemotherapy dose adjustment in obese patients: a review and position statement by the American Society for Blood and Marrow Transplantation practice guideline committee. Biol Blood Marrow Transplant. 2014;20(5):600–16.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bubalo%20J%2C%20Carpenter%20PA%2C%20Majhail%20N%2C%20Perales%20MA%2C%20Marks%20DI%2C%20Shaughnessy%20P%2C%20Pidala%20J%2C%20Leather%20HL%2C%20Wingard%20J%2C%20Savani%20BN%2C%20American%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20practice%20guideline.%20Conditioning%20chemotherapy%20dose%20adjustment%20in%20obese%20patients%3A%20a%20review%20and%20position%20statement%20by%20the%20American%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20practice%20guideline%20committee.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20(5)%3A600%E2%80%9316."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bubalo%20J%2C%20Carpenter%20PA%2C%20Majhail%20N%2C%20Perales%20MA%2C%20Marks%20DI%2C%20Shaughnessy%20P%2C%20Pidala%20J%2C%20Leather%20HL%2C%20Wingard%20J%2C%20Savani%20BN%2C%20American%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20practice%20guideline.%20Conditioning%20chemotherapy%20dose%20adjustment%20in%20obese%20patients%3A%20a%20review%20and%20position%20statement%20by%20the%20American%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20practice%20guideline%20committee.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20(5)%3A600%E2%80%9316."
+            }
+          ]
+        },
+        {
+          "id": 6700031,
+          "page": 594,
+          "en": "Fair C, Shanley R, Rogosheske J, Lazaryan A, McClune B, Brunstein CG, Bachanova V. BEAM conditioning is well-tolerated and yields similar survival in obese and non-obese patients with lymphoma: no requirement for weight-based dose modifications. Bone Marrow Transplant. 2017;52(3):491–3.",
+          "zh": "Fair C, Shanley R, Rogosheske J, Lazaryan A, McClune B, Brunstein CG, Bachanova V. BEAM conditioning is well-tolerated and yields similar survival in obese and non-obese patients with lymphoma: no requirement for weight-based dose modifications. Bone Marrow Transplant. 2017;52(3):491–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fair%20C%2C%20Shanley%20R%2C%20Rogosheske%20J%2C%20Lazaryan%20A%2C%20McClune%20B%2C%20Brunstein%20CG%2C%20Bachanova%20V.%20BEAM%20conditioning%20is%20well-tolerated%20and%20yields%20similar%20survival%20in%20obese%20and%20non-obese%20patients%20with%20lymphoma%3A%20no%20requirement%20for%20weight-based%20dose%20modifications.%20Bone%20Marrow%20Transplant.%202017%3B52(3)%3A491%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fair%20C%2C%20Shanley%20R%2C%20Rogosheske%20J%2C%20Lazaryan%20A%2C%20McClune%20B%2C%20Brunstein%20CG%2C%20Bachanova%20V.%20BEAM%20conditioning%20is%20well-tolerated%20and%20yields%20similar%20survival%20in%20obese%20and%20non-obese%20patients%20with%20lymphoma%3A%20no%20requirement%20for%20weight-based%20dose%20modifications.%20Bone%20Marrow%20Transplant.%202017%3B52(3)%3A491%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 6700032,
+          "page": 594,
+          "en": "Green B, Duffull SB. What is the best size descriptor to use for pharmacokinetic studies in the obese? Br J Clin Pharmacol. 2004;58(2):119–33.",
+          "zh": "Green B, Duffull SB. What is the best size descriptor to use for pharmacokinetic studies in the obese? Br J Clin Pharmacol. 2004;58(2):119–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Green%20B%2C%20Duffull%20SB.%20What%20is%20the%20best%20size%20descriptor%20to%20use%20for%20pharmacokinetic%20studies%20in%20the%20obese%3F%20Br%20J%20Clin%20Pharmacol.%202004%3B58(2)%3A119%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Green%20B%2C%20Duffull%20SB.%20What%20is%20the%20best%20size%20descriptor%20to%20use%20for%20pharmacokinetic%20studies%20in%20the%20obese%3F%20Br%20J%20Clin%20Pharmacol.%202004%3B58(2)%3A119%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 6700033,
+          "page": 594,
+          "en": "Griggs JJ, Bohlke K, Balaban EP, Dignam JJ, Hall ET, Harvey RD, Hecht DP, Klute KA, Morrison VA, Pini TM, Rosner GL, Runowicz CD, Shayne M, Sparreboom A, Turner S, Zarwan C, Lyman GH. Appropriate systemic therapy dosing for obese adult patients with cancer: ASCO guideline update. J Clin Oncol. 2021;39(18):2037–48.",
+          "zh": "Griggs JJ, Bohlke K, Balaban EP, Dignam JJ, Hall ET, Harvey RD, Hecht DP, Klute KA, Morrison VA, Pini TM, Rosner GL, Runowicz CD, Shayne M, Sparreboom A, Turner S, Zarwan C, Lyman GH. Appropriate systemic therapy dosing for obese adult patients with cancer: ASCO guideline update. J Clin Oncol. 2021;39(18):2037–48.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Griggs%20JJ%2C%20Bohlke%20K%2C%20Balaban%20EP%2C%20Dignam%20JJ%2C%20Hall%20ET%2C%20Harvey%20RD%2C%20Hecht%20DP%2C%20Klute%20KA%2C%20Morrison%20VA%2C%20Pini%20TM%2C%20Rosner%20GL%2C%20Runowicz%20CD%2C%20Shayne%20M%2C%20Sparreboom%20A%2C%20Turner%20S%2C%20Zarwan%20C%2C%20Lyman%20GH.%20Appropriate%20systemic%20therapy%20dosing%20for%20obese%20adult%20patients%20with%20cancer%3A%20ASCO%20guideline%20update.%20J%20Clin%20Oncol.%202021%3B39(18)%3A2037%E2%80%9348."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Griggs%20JJ%2C%20Bohlke%20K%2C%20Balaban%20EP%2C%20Dignam%20JJ%2C%20Hall%20ET%2C%20Harvey%20RD%2C%20Hecht%20DP%2C%20Klute%20KA%2C%20Morrison%20VA%2C%20Pini%20TM%2C%20Rosner%20GL%2C%20Runowicz%20CD%2C%20Shayne%20M%2C%20Sparreboom%20A%2C%20Turner%20S%2C%20Zarwan%20C%2C%20Lyman%20GH.%20Appropriate%20systemic%20therapy%20dosing%20for%20obese%20adult%20patients%20with%20cancer%3A%20ASCO%20guideline%20update.%20J%20Clin%20Oncol.%202021%3B39(18)%3A2037%E2%80%9348."
+            }
+          ]
+        },
+        {
+          "id": 6700034,
+          "page": 594,
+          "en": "Han PY, Duffull SB, Kirkpatrick CM, Green B. Dosing in obesity: a simple solution to a big problem. Clin Pharmacol Ther. 2007;82(5):505–8.",
+          "zh": "Han PY, Duffull SB, Kirkpatrick CM, Green B. Dosing in obesity: a simple solution to a big problem. Clin Pharmacol Ther. 2007;82(5):505–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Han%20PY%2C%20Duffull%20SB%2C%20Kirkpatrick%20CM%2C%20Green%20B.%20Dosing%20in%20obesity%3A%20a%20simple%20solution%20to%20a%20big%20problem.%20Clin%20Pharmacol%20Ther.%202007%3B82(5)%3A505%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Han%20PY%2C%20Duffull%20SB%2C%20Kirkpatrick%20CM%2C%20Green%20B.%20Dosing%20in%20obesity%3A%20a%20simple%20solution%20to%20a%20big%20problem.%20Clin%20Pharmacol%20Ther.%202007%3B82(5)%3A505%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6700035,
+          "page": 594,
+          "en": "Hanley MJ, Abernethy DR, Greenblatt DJ. Effect of obesity on the pharmacokinetics of drugs in humans. Clin Pharmacokinet. 2010;49(2):71–87.",
+          "zh": "Hanley MJ, Abernethy DR, Greenblatt DJ. Effect of obesity on the pharmacokinetics of drugs in humans. Clin Pharmacokinet. 2010;49(2):71–87.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hanley%20MJ%2C%20Abernethy%20DR%2C%20Greenblatt%20DJ.%20Effect%20of%20obesity%20on%20the%20pharmacokinetics%20of%20drugs%20in%20humans.%20Clin%20Pharmacokinet.%202010%3B49(2)%3A71%E2%80%9387."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hanley%20MJ%2C%20Abernethy%20DR%2C%20Greenblatt%20DJ.%20Effect%20of%20obesity%20on%20the%20pharmacokinetics%20of%20drugs%20in%20humans.%20Clin%20Pharmacokinet.%202010%3B49(2)%3A71%E2%80%9387."
+            }
+          ]
+        },
+        {
+          "id": 6700036,
+          "page": 594,
+          "en": "Kennedy VE, Chen H, Savani BN, Greer J, Kassim AA, Engelhardt BG, Goodman S, Sengsayadeth S, Chinratanalab W, Jagasia M. Optimizing antithymocyte globulin dosing for unrelated donor allogeneic hematopoietic cell transplantation based on recipient absolute lymphocyte count. Biol Blood Marrow Transplant. 2018;24(1):150–5.",
+          "zh": "Kennedy VE, Chen H, Savani BN, Greer J, Kassim AA, Engelhardt BG, Goodman S, Sengsayadeth S, Chinratanalab W, Jagasia M. Optimizing antithymocyte globulin dosing for unrelated donor allogeneic hematopoietic cell transplantation based on recipient absolute lymphocyte count. Biol Blood Marrow Transplant. 2018;24(1):150–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kennedy%20VE%2C%20Chen%20H%2C%20Savani%20BN%2C%20Greer%20J%2C%20Kassim%20AA%2C%20Engelhardt%20BG%2C%20Goodman%20S%2C%20Sengsayadeth%20S%2C%20Chinratanalab%20W%2C%20Jagasia%20M.%20Optimizing%20antithymocyte%20globulin%20dosing%20for%20unrelated%20donor%20allogeneic%20hematopoietic%20cell%20transplantation%20based%20on%20recipient%20absolute%20lymphocyte%20count.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24(1)%3A150%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kennedy%20VE%2C%20Chen%20H%2C%20Savani%20BN%2C%20Greer%20J%2C%20Kassim%20AA%2C%20Engelhardt%20BG%2C%20Goodman%20S%2C%20Sengsayadeth%20S%2C%20Chinratanalab%20W%2C%20Jagasia%20M.%20Optimizing%20antithymocyte%20globulin%20dosing%20for%20unrelated%20donor%20allogeneic%20hematopoietic%20cell%20transplantation%20based%20on%20recipient%20absolute%20lymphocyte%20count.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24(1)%3A150%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 6700037,
+          "page": 594,
+          "en": "Langebrake C, Bernhardt F, Baehr M, Kroger N, Zander AR. Drug dosing and monitoring in obese patients undergoing allogenic stem cell transplantation. Int J Clin Pharm. 2011;33(6):918–24.",
+          "zh": "Langebrake C, Bernhardt F, Baehr M, Kroger N, Zander AR. Drug dosing and monitoring in obese patients undergoing allogenic stem cell transplantation. Int J Clin Pharm. 2011;33(6):918–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Langebrake%20C%2C%20Bernhardt%20F%2C%20Baehr%20M%2C%20Kroger%20N%2C%20Zander%20AR.%20Drug%20dosing%20and%20monitoring%20in%20obese%20patients%20undergoing%20allogenic%20stem%20cell%20transplantation.%20Int%20J%20Clin%20Pharm.%202011%3B33(6)%3A918%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Langebrake%20C%2C%20Bernhardt%20F%2C%20Baehr%20M%2C%20Kroger%20N%2C%20Zander%20AR.%20Drug%20dosing%20and%20monitoring%20in%20obese%20patients%20undergoing%20allogenic%20stem%20cell%20transplantation.%20Int%20J%20Clin%20Pharm.%202011%3B33(6)%3A918%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 6700038,
+          "page": 594,
+          "en": "Meng L, Mui E, Ha DR, Stave C, Deresinski SC, Holubar M. Comprehensive guidance for antibiotic dosing in obese adults: 2022 update. Pharmacotherapy. 2023;43(3):226–46.",
+          "zh": "Meng L, Mui E, Ha DR, Stave C, Deresinski SC, Holubar M. Comprehensive guidance for antibiotic dosing in obese adults: 2022 update. Pharmacotherapy. 2023;43(3):226–46.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meng%20L%2C%20Mui%20E%2C%20Ha%20DR%2C%20Stave%20C%2C%20Deresinski%20SC%2C%20Holubar%20M.%20Comprehensive%20guidance%20for%20antibiotic%20dosing%20in%20obese%20adults%3A%202022%20update.%20Pharmacotherapy.%202023%3B43(3)%3A226%E2%80%9346."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meng%20L%2C%20Mui%20E%2C%20Ha%20DR%2C%20Stave%20C%2C%20Deresinski%20SC%2C%20Holubar%20M.%20Comprehensive%20guidance%20for%20antibiotic%20dosing%20in%20obese%20adults%3A%202022%20update.%20Pharmacotherapy.%202023%3B43(3)%3A226%E2%80%9346."
+            }
+          ]
+        },
+        {
+          "id": 6700039,
+          "page": 594,
+          "en": "Nguyen L, Leger F, Lennon S, Puozzo C. Intravenous busulfan in adults prior to haematopoietic stem cell transplantation: a population pharmacokinetic study. Cancer Chemother Pharmacol. 2006;57(2):191–8.",
+          "zh": "Nguyen L, Leger F, Lennon S, Puozzo C. Intravenous busulfan in adults prior to haematopoietic stem cell transplantation: a population pharmacokinetic study. Cancer Chemother Pharmacol. 2006;57(2):191–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nguyen%20L%2C%20Leger%20F%2C%20Lennon%20S%2C%20Puozzo%20C.%20Intravenous%20busulfan%20in%20adults%20prior%20to%20haematopoietic%20stem%20cell%20transplantation%3A%20a%20population%20pharmacokinetic%20study.%20Cancer%20Chemother%20Pharmacol.%202006%3B57(2)%3A191%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nguyen%20L%2C%20Leger%20F%2C%20Lennon%20S%2C%20Puozzo%20C.%20Intravenous%20busulfan%20in%20adults%20prior%20to%20haematopoietic%20stem%20cell%20transplantation%3A%20a%20population%20pharmacokinetic%20study.%20Cancer%20Chemother%20Pharmacol.%202006%3B57(2)%3A191%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6700040,
+          "page": 594,
+          "en": "Palmer J, McCune JS, Perales MA, Marks D, Bubalo J, Mohty M, Wingard J, Paci A, Hassan M, Bredeson C, Pidales J, Shah N, Shaughnessy P, Majhail N, Schriber J, Savani BN, Carpenter PA. Personalizing Busulfan-based conditioning: considerations from the American Society for Blood and Marrow Transplantation Practice Guidelines Committee. Biol Blood Marrow Transplant. 2016;22:1915.",
+          "zh": "Palmer J, McCune JS, Perales MA, Marks D, Bubalo J, Mohty M, Wingard J, Paci A, Hassan M, Bredeson C, Pidales J, Shah N, Shaughnessy P, Majhail N, Schriber J, Savani BN, Carpenter PA. Personalizing Busulfan-based conditioning: considerations from the American Society for Blood and Marrow Transplantation Practice Guidelines Committee. Biol Blood Marrow Transplant. 2016;22:1915.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Palmer%20J%2C%20McCune%20JS%2C%20Perales%20MA%2C%20Marks%20D%2C%20Bubalo%20J%2C%20Mohty%20M%2C%20Wingard%20J%2C%20Paci%20A%2C%20Hassan%20M%2C%20Bredeson%20C%2C%20Pidales%20J%2C%20Shah%20N%2C%20Shaughnessy%20P%2C%20Majhail%20N%2C%20Schriber%20J%2C%20Savani%20BN%2C%20Carpenter%20PA.%20Personalizing%20Busulfan-based%20conditioning%3A%20considerations%20from%20the%20American%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20Practice%20Guidelines%20Committee.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A1915."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Palmer%20J%2C%20McCune%20JS%2C%20Perales%20MA%2C%20Marks%20D%2C%20Bubalo%20J%2C%20Mohty%20M%2C%20Wingard%20J%2C%20Paci%20A%2C%20Hassan%20M%2C%20Bredeson%20C%2C%20Pidales%20J%2C%20Shah%20N%2C%20Shaughnessy%20P%2C%20Majhail%20N%2C%20Schriber%20J%2C%20Savani%20BN%2C%20Carpenter%20PA.%20Personalizing%20Busulfan-based%20conditioning%3A%20considerations%20from%20the%20American%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20Practice%20Guidelines%20Committee.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A1915."
+            }
+          ]
+        },
+        {
+          "id": 6700041,
+          "page": 594,
+          "endPage": 595,
+          "en": "Rocca B, Fox KAA, Ajjan RA, Andreotti F, Baigent C, Collet JP, Grove EL, Halvorsen S, Huber K, Morais J, Patrono C, Rubboli A, Seljeflot I, Sibbing D, Siegbahn A, Ten Berg J, Vilahur G, Verheugt FWA, Wallentin L, Weiss TW, Wojta J, Storey RF. Antithrombotic therapy and body mass: an expert position paper of the ESC working group on thrombosis. Eur Heart J. 2018;39(19):1672–1686f.",
+          "zh": "Rocca B, Fox KAA, Ajjan RA, Andreotti F, Baigent C, Collet JP, Grove EL, Halvorsen S, Huber K, Morais J, Patrono C, Rubboli A, Seljeflot I, Sibbing D, Siegbahn A, Ten Berg J, Vilahur G, Verheugt FWA, Wallentin L, Weiss TW, Wojta J, Storey RF. Antithrombotic therapy and body mass: an expert position paper of the ESC working group on thrombosis. Eur Heart J. 2018;39(19):1672–1686f.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rocca%20B%2C%20Fox%20KAA%2C%20Ajjan%20RA%2C%20Andreotti%20F%2C%20Baigent%20C%2C%20Collet%20JP%2C%20Grove%20EL%2C%20Halvorsen%20S%2C%20Huber%20K%2C%20Morais%20J%2C%20Patrono%20C%2C%20Rubboli%20A%2C%20Seljeflot%20I%2C%20Sibbing%20D%2C%20Siegbahn%20A%2C%20Ten%20Berg%20J%2C%20Vilahur%20G%2C%20Verheugt%20FWA%2C%20Wallentin%20L%2C%20Weiss%20TW%2C%20Wojta%20J%2C%20Storey%20RF.%20Antithrombotic%20therapy%20and%20body%20mass%3A%20an%20expert%20position%20paper%20of%20the%20ESC%20working%20group%20on%20thrombosis.%20Eur%20Heart%20J.%202018%3B39(19)%3A1672%E2%80%931686f."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rocca%20B%2C%20Fox%20KAA%2C%20Ajjan%20RA%2C%20Andreotti%20F%2C%20Baigent%20C%2C%20Collet%20JP%2C%20Grove%20EL%2C%20Halvorsen%20S%2C%20Huber%20K%2C%20Morais%20J%2C%20Patrono%20C%2C%20Rubboli%20A%2C%20Seljeflot%20I%2C%20Sibbing%20D%2C%20Siegbahn%20A%2C%20Ten%20Berg%20J%2C%20Vilahur%20G%2C%20Verheugt%20FWA%2C%20Wallentin%20L%2C%20Weiss%20TW%2C%20Wojta%20J%2C%20Storey%20RF.%20Antithrombotic%20therapy%20and%20body%20mass%3A%20an%20expert%20position%20paper%20of%20the%20ESC%20working%20group%20on%20thrombosis.%20Eur%20Heart%20J.%202018%3B39(19)%3A1672%E2%80%931686f."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 595,
+      "blocks": [
+        {
+          "id": 6700042,
+          "page": 595,
+          "en": "Shultes KC, Arp C, Stockerl-Goldstein K, Trinkaus K, DeFrates S. Impact of dose-adjusted Melphalan in obese patients undergoing autologous stem cell transplantation. Biol Blood Marrow Transplant. 2017;23:S165.",
+          "zh": "Shultes KC, Arp C, Stockerl-Goldstein K, Trinkaus K, DeFrates S. Impact of dose-adjusted Melphalan in obese patients undergoing autologous stem cell transplantation. Biol Blood Marrow Transplant. 2017;23:S165.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shultes%20KC%2C%20Arp%20C%2C%20Stockerl-Goldstein%20K%2C%20Trinkaus%20K%2C%20DeFrates%20S.%20Impact%20of%20dose-adjusted%20Melphalan%20in%20obese%20patients%20undergoing%20autologous%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3AS165."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shultes%20KC%2C%20Arp%20C%2C%20Stockerl-Goldstein%20K%2C%20Trinkaus%20K%2C%20DeFrates%20S.%20Impact%20of%20dose-adjusted%20Melphalan%20in%20obese%20patients%20undergoing%20autologous%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3AS165."
+            }
+          ]
+        },
+        {
+          "id": 6700043,
+          "page": 595,
+          "en": "Smith S, H Scarfe, N Duncan, R Shah, E Davies and N Maouche. Dosing of conditioning chemotherapy and GvHD prophylaxis in obesity – a survey of practice. 2023.",
+          "zh": "Smith S, H Scarfe, N Duncan, R Shah, E Davies and N Maouche. Dosing of conditioning chemotherapy and GvHD prophylaxis in obesity – a survey of practice. 2023.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Smith%20S%2C%20H%20Scarfe%2C%20N%20Duncan%2C%20R%20Shah%2C%20E%20Davies%20and%20N%20Maouche.%20Dosing%20of%20conditioning%20chemotherapy%20and%20GvHD%20prophylaxis%20in%20obesity%20%E2%80%93%20a%20survey%20of%20practice.%202023."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Smith%20S%2C%20H%20Scarfe%2C%20N%20Duncan%2C%20R%20Shah%2C%20E%20Davies%20and%20N%20Maouche.%20Dosing%20of%20conditioning%20chemotherapy%20and%20GvHD%20prophylaxis%20in%20obesity%20%E2%80%93%20a%20survey%20of%20practice.%202023."
+            }
+          ]
+        },
+        {
+          "id": 6700044,
+          "page": 595,
+          "en": "Takahashi T, Jaber MM, Al-Kofahi M, Weisdorf D, Brunstein C, Bachanova V, Brundage RC, Jacobson PA, Kirstein MN. Comparison of dose adjustment strategies for obesity in high-dose cyclophosphamide among adult hematopoietic cell transplantation recipients: pharmacokinetic analysis. Transplant Cell Ther. 2022;28(12):845 e841–8.",
+          "zh": "Takahashi T, Jaber MM, Al-Kofahi M, Weisdorf D, Brunstein C, Bachanova V, Brundage RC, Jacobson PA, Kirstein MN. Comparison of dose adjustment strategies for obesity in high-dose cyclophosphamide among adult hematopoietic cell transplantation recipients: pharmacokinetic analysis. Transplant Cell Ther. 2022;28(12):845 e841–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Takahashi%20T%2C%20Jaber%20MM%2C%20Al-Kofahi%20M%2C%20Weisdorf%20D%2C%20Brunstein%20C%2C%20Bachanova%20V%2C%20Brundage%20RC%2C%20Jacobson%20PA%2C%20Kirstein%20MN.%20Comparison%20of%20dose%20adjustment%20strategies%20for%20obesity%20in%20high-dose%20cyclophosphamide%20among%20adult%20hematopoietic%20cell%20transplantation%20recipients%3A%20pharmacokinetic%20analysis.%20Transplant%20Cell%20Ther.%202022%3B28(12)%3A845%20e841%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Takahashi%20T%2C%20Jaber%20MM%2C%20Al-Kofahi%20M%2C%20Weisdorf%20D%2C%20Brunstein%20C%2C%20Bachanova%20V%2C%20Brundage%20RC%2C%20Jacobson%20PA%2C%20Kirstein%20MN.%20Comparison%20of%20dose%20adjustment%20strategies%20for%20obesity%20in%20high-dose%20cyclophosphamide%20among%20adult%20hematopoietic%20cell%20transplantation%20recipients%3A%20pharmacokinetic%20analysis.%20Transplant%20Cell%20Ther.%202022%3B28(12)%3A845%20e841%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6700045,
+          "page": 595,
+          "en": "Turner RB, Cumpston A, Sweet M, Briggs F, Slain D, Wen S, Craig M, Hamadani M, Petros W. Prospective, controlled study of acyclovir pharmacokinetics in obese patients. Antimicrob Agents Chemother. 2016;60(3):1830–3.",
+          "zh": "Turner RB, Cumpston A, Sweet M, Briggs F, Slain D, Wen S, Craig M, Hamadani M, Petros W. Prospective, controlled study of acyclovir pharmacokinetics in obese patients. Antimicrob Agents Chemother. 2016;60(3):1830–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Turner%20RB%2C%20Cumpston%20A%2C%20Sweet%20M%2C%20Briggs%20F%2C%20Slain%20D%2C%20Wen%20S%2C%20Craig%20M%2C%20Hamadani%20M%2C%20Petros%20W.%20Prospective%2C%20controlled%20study%20of%20acyclovir%20pharmacokinetics%20in%20obese%20patients.%20Antimicrob%20Agents%20Chemother.%202016%3B60(3)%3A1830%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Turner%20RB%2C%20Cumpston%20A%2C%20Sweet%20M%2C%20Briggs%20F%2C%20Slain%20D%2C%20Wen%20S%2C%20Craig%20M%2C%20Hamadani%20M%2C%20Petros%20W.%20Prospective%2C%20controlled%20study%20of%20acyclovir%20pharmacokinetics%20in%20obese%20patients.%20Antimicrob%20Agents%20Chemother.%202016%3B60(3)%3A1830%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 6700046,
+          "page": 595,
+          "en": "Weiss BM, Vogl DT, Berger NA, Stadtmauer EA, Lazarus HM. Trimming the fat: obesity and hematopoietic cell transplantation. Bone Marrow Transplant. 2013;48(9):1152–60.",
+          "zh": "Weiss BM, Vogl DT, Berger NA, Stadtmauer EA, Lazarus HM. Trimming the fat: obesity and hematopoietic cell transplantation. Bone Marrow Transplant. 2013;48(9):1152–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Weiss%20BM%2C%20Vogl%20DT%2C%20Berger%20NA%2C%20Stadtmauer%20EA%2C%20Lazarus%20HM.%20Trimming%20the%20fat%3A%20obesity%20and%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202013%3B48(9)%3A1152%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Weiss%20BM%2C%20Vogl%20DT%2C%20Berger%20NA%2C%20Stadtmauer%20EA%2C%20Lazarus%20HM.%20Trimming%20the%20fat%3A%20obesity%20and%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202013%3B48(9)%3A1152%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 6700047,
+          "page": 595,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

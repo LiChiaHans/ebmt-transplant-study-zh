@@ -1,0 +1,814 @@
+{
+  "id": 68,
+  "title": "HCT in Elderly Patients",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 54,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 596,
+      "blocks": [
+        {
+          "id": 6800001,
+          "page": 596,
+          "en": "68 HCT in Elderly Patients\nRafael F. Duarte and Isabel Sánchez-Ortega",
+          "zh": "68 高齡患者的造血細胞移植（HCT） — Rafael F. Duarte、Isabel Sánchez-Ortega",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_68"
+            }
+          ]
+        },
+        {
+          "id": 6800002,
+          "page": 596,
+          "en": "68.1 Introduction\nThe hematological malignancies, which are the most common indications for auto- and allo-HCT (e.g., AML/MDS, NHL, MM, and others), are diagnosed at a median age greater than 65 years. Thus, if classical chronological age exclusion criteria were followed, a majority of patients with these malignancies would not be offered a HCT, despite it being their treatment of choice and in many cases their only curative option (Snowden et al. 2022). While elderly patients are more likely to face toxic effects from HCT, this risk must be considered and balanced against the poor outcome of transplant candidates with these malignancies who do not proceed to HCT (Dohner et al. 2022).",
+          "zh": "68.1 前言\n作為自體與異體造血細胞移植（auto- 與 allo-HCT）最常見適應症的血液惡性腫瘤（例如急性骨髓性白血病／骨髓化生不良症候群〔AML/MDS〕、非何杰金氏淋巴瘤〔NHL〕、多發性骨髓瘤〔MM〕及其他疾病），其診斷中位年齡超過 65 歲。因此，若遵循傳統的實足年齡（chronological age）排除標準，大多數罹患這些惡性腫瘤的患者將不會獲提供 HCT，儘管這是他們的首選治療，且在許多情況下是唯一的治癒性選擇（Snowden et al. 2022）。雖然高齡患者較可能面臨來自 HCT 的毒性作用，但必須考量此風險，並與未接受 HCT 之此類惡性腫瘤移植候選患者的不良預後進行權衡（Dohner et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800003,
+          "page": 596,
+          "en": "68.2 HCT Activity in Elderly Patients\nAuto- and allo-HCT annual activity continues to steadily increase in Europe and worldwide with no signs of saturation (Gratwohl et al. 2015; Passweg et al. 2023). Specifically, in elderly patients, HCT activity at EBMT centers has increased markedly in the past two decades. Auto-HCT activity in patients ≥65 years old increased from 3.4% (443 out of 13,163 autologous HCT) in 2000 to 9.8% (2444 out of 23,883 auto-HCT) in 2014 (Sánchez-Ortega et al. 2016). Allo-HCT activity in patients ≥65 years old increased from <1% (37 out of 6413 allo-HCT) in 2000 to 6.7% (1057 out of 16,765 allogeneic HCT) in 2014 (Basak et al. 2016). Additional recent data demonstrated also the consistent increase in the use of auto-HCT in patients with MM, with the proportion of patients aged >65 years increasing dramatically, from 7% in the 90 s and first twenty-first century decade to 30% in the 2010s (Swan et al. 2022). This applies also for allo-HCT for NHL as per the EBMT registry, and the proportion of recipients aged 51–70 years increased from 8% in 1991–1995 to 58% in 2011–2015 (Kyriakou et al. 2019). For myelofibrosis, prior to 2006 only 8.7% of myelofibrosis patients undergoing allo-HCT were > 60 years, whereas it increased to 47% for recipients in the 2015–2018 cohort (McLornan et al. 2021).",
+          "zh": "68.2 高齡患者的 HCT 執行現況\n在歐洲及全球，自體與異體 HCT 的每年執行量持續穩定增加，且無飽和跡象（Gratwohl et al. 2015; Passweg et al. 2023）。特別是在高齡患者中，歐洲血液與骨髓移植學會（EBMT）各中心的 HCT 執行量在過去二十年間顯著上升。≥65 歲患者的自體 HCT（auto-HCT）比例從 2000 年的 3.4%（13,163 例自體 HCT 中的 443 例）增加至 2014 年的 9.8%（23,883 例 auto-HCT 中的 2444 例）（Sánchez-Ortega et al. 2016）。≥65 歲患者的異體 HCT（allo-HCT）比例則從 2000 年的 <1%（6413 例 allo-HCT 中的 37 例）增加至 2014 年的 6.7%（16,765 例異體 HCT 中的 1057 例）（Basak et al. 2016）。近期的其他數據亦顯示 MM 患者使用 auto-HCT 的比例持續增加，其中 >65 歲患者的比例大幅上升，從 1990 年代及二十一世紀第一個十年的 7% 增加至 2010 年代的 30%（Swan et al. 2022）。根據 EBMT 登錄資料庫，這點同樣適用於 NHL 的 allo-HCT，51–70 歲受植者的比例從 1991–1995 年的 8% 增加至 2011–2015 年的 58%（Kyriakou et al. 2019）。在骨髓纖維化（myelofibrosis）方面，2006 年以前接受 allo-HCT 的骨髓纖維化患者中僅有 8.7% 為 >60 歲，而在 2015–2018 年世代的受植者中則增加至 47%（McLornan et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800004,
+          "page": 596,
+          "endPage": 597,
+          "en": "In the USA, the number of auto-HCT and allo-HCT for the treatment of malignant diseases in patients aged ≥65 years continues to increase (D'Souza et al. 2020). In 2020, 27% of allo-HCT recipients were aged 65 years and older and 37% of auto-HCT recipients for lymphomas and MM were aged 65 years or older as compared to 4% for allo-HCT and 18% for auto-HCT in 2005. Moreover, trends in allo-HCT for AML in the last two decades show an increase in use in recipients aged 65 years and older (Auletta et al. 2021).",
+          "zh": "在美國，用於治療 ≥65 歲患者惡性疾病的 auto-HCT 與 allo-HCT 數量持續增加（D'Souza et al. 2020）。2020 年，有 27% 的 allo-HCT 受植者年齡為 65 歲及以上，且因淋巴瘤與 MM 接受 auto-HCT 的受植者中有 37% 年齡為 65 歲或以上；相較之下，2005 年在 allo-HCT 與 auto-HCT 中此比例分別僅為 4% 與 18%。此外，過去二十年間 AML 的 allo-HCT 趨勢亦顯示，在 65 歲及以上受植者中的使用有所增加（Auletta et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800005,
+          "page": 596,
+          "en": "R. F. Duarte (*)\nHospital Universitario Puerta de Hierro Majadahonda, Madrid, Spain\n\nI. Sánchez-Ortega\nMedical Officer, EBMT, Executive Office, Barcelona, Spain\ne-mail: isabel.sanchez-ortega@ebmt.org\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_68",
+          "zh": "作者單位與聯絡資訊：\nR. F. Duarte（通訊作者）：西班牙馬德里馬哈達翁達鐵門大學醫院（Hospital Universitario Puerta de Hierro Majadahonda）。\nI. Sánchez-Ortega：西班牙巴塞隆納 EBMT 執行辦公室醫務官（Medical Officer）；電子郵件：isabel.sanchez-ortega@ebmt.org。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_68。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 597,
+      "blocks": [
+        {
+          "id": 6800006,
+          "page": 597,
+          "en": "Improvements in supportive care, HSC mobilization, the use of RTC and RIC regimens, wider donor availability, including haploidentical for most patients, and the increase of newer therapeutic options improving remission status prior to HCT have contributed to the increase in HCT activity overall and, in particular, to the increase of HCT activity rates in elderly patients. With sustained improvement in these areas, and as the population ages, these numbers will only continue to increase.",
+          "zh": "支持性照護的進步、造血幹細胞（HSC）動員技術的提升、降低毒性調理（RTC）與減低強度調理（RIC）方案的使用、更廣泛的供者來源（包括大多數患者皆可獲得的半相合供者），以及能改善 HCT 前緩解狀態之新型治療選擇的增加，皆促成了整體 HCT 執行量的成長，特別是高齡患者 HCT 執行率的提升。隨著這些領域的持續改善以及人口高齡化，這些數字只會繼續增加。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800007,
+          "page": 597,
+          "en": "68.3 HCT Outcomes in Elderly Patients\nCompared to younger adults, elderly patients may have higher overall rates of transplant failure. Potential comorbidities, impaired health, and performance status could lead to higher transplant-related morbidity and mortality. In addition, malignancies in elderly patients often have more adverse disease features (e.g., higher-risk cytogenetics and molecular patterns in AML/MDS patients) and may have been treated less aggressively prior to HCT, which may potentially also increase the risk of disease relapse.",
+          "zh": "68.3 高齡患者的 HCT 治療結果\n與年輕成人相比，高齡患者可能有較高的整體移植失敗率。潛在的共病症、健康狀況受損及體能狀態（performance status）不佳，皆可能導致較高的移植相關罹病率與死亡率。此外，高齡患者的惡性腫瘤往往具有更多不良疾病特徵（例如 AML/MDS 患者具有較高風險的細胞遺傳學與分子型態），且在 HCT 前可能接受較不密集的治療，這也可能潛在增加疾病復發的風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800008,
+          "page": 597,
+          "en": "Historically, HCT outcome analysis in elderly patients has been limited by the fact that these patients are underrepresented in clinical trials and the majority of data come from relatively small series and subgroup analyses of small subsets of elderly patients in larger disease-specific studies including adults of all ages. More recently, HCT outcomes of elderly patients are being analyzed specifically and have reported feasibility and safety of autologous HCT in MM patients aged >65 years (Winn et al. 2015; Auner et al. 2015), in selected populations of elderly patients with R/R DLBCL (Chihara et al. 2014) and in R/R HL in patients aged ≥60 years (Martínez et al. 2017).",
+          "zh": "過去，高齡患者的 HCT 結果分析一直受到限制，因為這類患者在臨床試驗中的代表性不足，且大多數數據來自規模相對較小的病例系列，以及在涵蓋各年齡層成人的大型疾病專屬研究中針對少數高齡患者子集所做的次族群分析。近期，研究人員開始專門分析高齡患者的 HCT 結果，並已報告自體 HCT 在 >65 歲 MM 患者（Winn et al. 2015; Auner et al. 2015）、特定復發／難治性瀰漫性大型 B 細胞淋巴瘤（R/R DLBCL）高齡患者族群（Chihara et al. 2014），以及 ≥60 歲復發／難治性何杰金氏淋巴瘤（R/R HL）患者（Martínez et al. 2017）中的可行性與安全性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800009,
+          "page": 597,
+          "en": "Prospective studies addressing the value of allogeneic HCT compared to non-transplant approaches are limited and generally restricted to patients aged <65 years. Interestingly, a recent study in a large series of AML patients aged 60 years and older suggests that age alone is not a barrier to successful HCT (Maakaron et al. 2022), and several large series in AML/MDS patients reported that NRM and OS were negatively affected by KPS <80–90% but not by chronological age (Heidenreich et al. 2017; McClune et al. 2010; Ringdén et al. 2019). Despite significantly poorer outcomes in older patients, additional trials have also not shown a significant impact of advanced age on major outcomes including NRM (Sorror et al. 2011; Chevallier et al. 2012).",
+          "zh": "探討異體 HCT 相較於非移植療法價值的前瞻性研究相當有限，且通常僅限於 <65 歲的患者。值得注意的是，近期一項針對 60 歲及以上大型 AML 患者系列的研究顯示，單憑年齡並非成功進行 HCT 的障礙（Maakaron et al. 2022），且數項針對 AML/MDS 患者的大型病例系列報告指出，非復發死亡率（NRM）與總存活率（OS）受到 Karnofsky 體能狀態評分（KPS）<80–90% 的負面影響，但不受實足年齡影響（Heidenreich et al. 2017; McClune et al. 2010; Ringdén et al. 2019）。儘管年長患者的整體結果顯著較差，其他試驗亦未顯示高齡對包括 NRM 在內的主要結果有顯著影響（Sorror et al. 2011; Chevallier et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800010,
+          "page": 597,
+          "en": "The largest experience reported to date on auto- and allo-HCT outcomes in elderly patients comes from two EBMT studies including a total of 21,390 auto-HCT and 6046 allo-HCT in patients aged ≥65 years between 2000 and 2014 (Basak et al. 2016; Sánchez-Ortega et al. 2016). Patient numbers and key HCT outcomes overall and by age group are presented in Table 68.1.",
+          "zh": "迄今為止，關於高齡患者 auto- 與 allo-HCT 結果的最大規模經驗報告來自兩項 EBMT 研究，共納入 2000 年至 2014 年間 ≥65 歲患者的 21,390 例 auto-HCT 與 6046 例 allo-HCT（Basak et al. 2016; Sánchez-Ortega et al. 2016）。整體及依年齡組劃分的患者人數與主要 HCT 結果列於表 68.1。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800011,
+          "page": 597,
+          "endPage": 598,
+          "en": "These studies confirm the feasibility of auto- and allo-HCT in elderly patients, with acceptable NRM and OS at 1 and 3 years, respectively. Multivariate analyses in both studies showed that performance status (i.e., Karnofsky score) had a more significant independent impact on patient outcomes than chronological age. Thus, these data in a large cohort of elderly patients strongly suggest that age per se should not be an exclusion criterion to consider HCT in this population. Undoubtedly, this is presumably a highly selected fraction of elderly patients considered for auto- and allo-HCT. Nevertheless, this further endorses the need to assess comorbidity and frailty beyond the age in older HCT candidates to improve outcomes further.",
+          "zh": "這些研究證實了在高齡患者中進行 auto- 與 allo-HCT 的可行性，其第 1 年與第 3 年的 NRM 與 OS 均在可接受範圍內。兩項研究的多變項分析皆顯示，體能狀態（即 Karnofsky 評分）對患者預後的獨立影響比實足年齡更為顯著。因此，這些來自大型高齡患者世代的數據強烈顯示，年齡本身不應作為此族群考慮進行 HCT 的排除標準。毫無疑問，這推測是一群經高度篩選而納入考慮進行 auto- 與 allo-HCT 的高齡患者。儘管如此，這進一步支持了在年長 HCT 候選患者中除了年齡之外還需評估共病症與衰弱（frailty）的必要性，以進一步改善治療結果。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800012,
+          "page": 597,
+          "en": "Table 68.1 HCT outcomes in elderly patients: EBMT experienceᵃ\n\nColumns: Type of HCT | All cases ≥65 years | Group I 65–69 years | Group II ≥70 years\n• Autologous, n: 21,390 | 17,531 | 3859\n  – NRM year 1: 4.9% | 4.6% | 5.9%\n  – OS year 1: 87% | 88% | 83%\n  – OS year 3: 67% | 69% | 61%\n• Allogeneic, n: 6046 | 4914 | 1132\n  – NRM year 1: 27% | 26% | 29%\n  – OS year 1: 57% | 57% | 53%\n  – OS year 3: 39% | 40% | 35%\n\nn, number of cases.\nᵃBasak et al. (2016) and Sánchez-Ortega et al. (2016)",
+          "zh": "表 68.1 高齡患者的 HCT 結果：EBMT 經驗ᵃ\n\n欄位：HCT 類型（Type of HCT）｜所有病例 ≥65 歲（All cases ≥65 years）｜第 I 組 65–69 歲（Group I 65–69 years）｜第 II 組 ≥70 歲（Group II ≥70 years）\n• 自體移植（Autologous），n：21,390｜17,531｜3859\n  – 第 1 年 NRM（NRM year 1）：4.9%｜4.6%｜5.9%\n  – 第 1 年 OS（OS year 1）：87%｜88%｜83%\n  – 第 3 年 OS（OS year 3）：67%｜69%｜61%\n• 異體移植（Allogeneic），n：6046｜4914｜1132\n  – 第 1 年 NRM（NRM year 1）：27%｜26%｜29%\n  – 第 1 年 OS（OS year 1）：57%｜57%｜53%\n  – 第 3 年 OS（OS year 3）：39%｜40%｜35%\n\nn：病例數。\nᵃBasak et al. (2016) 與 Sánchez-Ortega et al. (2016)",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 598,
+      "blocks": [
+        {
+          "id": 6800013,
+          "page": 598,
+          "en": "68.4 Assessment of Elderly Candidates for HCT\nIn addition to the elements already discussed in Chap. 11 for younger patients, the evaluation and counseling of elderly patients as candidates for auto- and allo-HCT require the evaluation of additional health domains of interest in patients of advanced age. The following tables address general principles and considerations for the evaluation and counseling of these patients, discuss the issue of patient frailty beyond age and comorbidities, and describe the key elements of a multidimensional geriatric assessment in this population.",
+          "zh": "68.4 高齡 HCT 候選患者的評估\n除了第 11 章已針對較年輕患者討論過的要素外，針對高齡患者作為 auto- 與 allo-HCT 候選者的評估與諮詢，還需要評估高齡患者所涉及的其他健康面向。以下各節列出評估與諮詢這些患者的一般原則與考量事項、探討在年齡與共病症之外的患者衰弱（frailty）議題，並說明在此族群中進行多面向高齡醫學評估（multidimensional geriatric assessment）的關鍵要素。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800014,
+          "page": 598,
+          "en": "68.4.1 General Principles and Considerations for Elderly HCT Candidates\n– HCT decision should not be driven by chronological age but by a broader multidimensional assessment, including fitness, comorbidities, physiologic reserve, and frailty.\n– Elderly patients require information and counseling in plain language regarding the HCT process, donor sources, specific protocol, timeline, risks, benefits, and outcomes.\n– They also need information regarding patients’ quality of life outcomes, caregivers, and psychosocial needs, for which social workers and other support staff will be needed.\n– A multidisciplinary individualized assessment is required to appropriately address the multidimensional nature of the evaluation of elderly patients.\n– Fit older transplant candidates should follow the same indications for auto- and allo-HCT as younger adults.\n– In the case of allo-HCT, particular consideration of RIC and NMA regimens is essential, and donor selection must take into account the age of the donor, as donor older age may associate with impaired outcomes.\n– Outcome analysis in elderly patients may require the use of clinically relevant composite endpoints that, beyond survival, incorporate quality of life, good overall mental and physical condition, and freedom from severe complications.",
+          "zh": "68.4.1 高齡 HCT 候選患者的一般原則與考量事項\n– HCT 的決策不應由實足年齡主導，而應基於更廣泛的多面向評估，包括體適能（fitness）、共病症、生理儲備（physiologic reserve）及衰弱程度。\n– 高齡患者需要以淺顯易懂的語言獲得關於 HCT 流程、供者來源、具體治療方案、時程、風險、效益及結果的資訊與諮詢。\n– 他們也需要關於患者生活品質結果、照護者及心理社會需求的資訊，為此將需要社工人員及其他支持團隊的協助。\n– 需要進行跨領域團隊的個別化評估，以妥善處理高齡患者評估的多面向特質。\n– 體能狀況良好（fit）的年長移植候選患者，應遵循與年輕成人相同的 auto- 與 allo-HCT 適應症。\n– 在 allo-HCT 的情況下，特別考量減低強度調理（RIC）與非骨髓清除性（NMA）調理方案至關重要，且供者選擇必須將供者年齡納入考量，因為供者年齡較長可能與較差的結果相關。\n– 高齡患者的結果分析可能需要使用具臨床相關性的複合指標（composite endpoints），在存活率之外，一併納入生活品質、良好的整體身心狀態，以及無嚴重併發症。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800015,
+          "page": 598,
+          "en": "68.4.2 Frailty in Elderly HCT Candidates\n– Frailty is a term used to describe a multidimensional syndrome of loss of physiologic reserves (energy, physical ability, cognition, and health) that leads to vulnerability.\n– The ability to measure frailty in elderly patients is useful clinically.\n– Although it appears to be a valid construct to assess elderly patients, how exactly to define it remains unclear. There is a large abundance of possible scales to measure frailty, which likely reflects uncertainty about the term and its components.\n– A. Hedge et al. have recently reported on frailty as the missing piece of pre-HCT assessment (Hegde and Murthy 2018). Data show that the prevalence of frailty prior to HCT in patients aged ≥50 years is higher than in the general geriatric population at around 25%. Importantly, age has no effect on the prevalence of frailty.\n– Frailty is associated with poorer OS even after adjusting for age and HCT-CI and may be associated as well with an increased incidence of disease relapse (Muffly et al. 2014; Hegde and Murthy 2018).",
+          "zh": "68.4.2 高齡 HCT 候選患者的衰弱（Frailty）\n– 衰弱（frailty）是用於描述生理儲備（精力、身體能力、認知及健康）流失而導致脆弱性（vulnerability）之多面向症候群的術語。\n– 在高齡患者中測量衰弱程度的能力在臨床上相當有用。\n– 儘管它看似是評估高齡患者的有效構念，但究竟應如何確切定義仍不明確。目前有大量可用於測量衰弱的量表，這可能反映了對該術語及其組成要素的不確定性。\n– A. Hegde 等人近期報告指出，衰弱是 HCT 前評估所缺少的一塊拼圖（Hegde and Murthy 2018）。數據顯示，在 ≥50 歲患者中，HCT 前的衰弱盛行率約為 25%，高於一般高齡族群。重要的是，年齡對衰弱的盛行率沒有影響。\n– 即使在校正年齡與造血細胞移植共病指數（HCT-CI）後，衰弱仍與較差的 OS 相關，且亦可能與較高的疾病復發發生率相關（Muffly et al. 2014; Hegde and Murthy 2018）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 599,
+      "blocks": [
+        {
+          "id": 6800016,
+          "page": 599,
+          "en": "68.4.3 Geriatric Assessment for Elderly HCT Candidates\n68.4.3.1 General Concept\n– The geriatric assessment is a multidimensional, multidisciplinary assessment designed to evaluate an older person’s functional ability, physical health, cognition, mental health, and socio-environmental circumstances (Artz 2016).\n– The goal of geriatric assessment in this context would be to capture vulnerability pre-HCT to help deciding on patient suitability for the procedure as well as to individualize post-HCT support strategies to prevent complications and reduce transplant-associated morbidity and mortality (Artz 2016; Jayani et al. 2020).",
+          "zh": "68.4.3 高齡 HCT 候選患者的高齡醫學評估（Geriatric Assessment）\n68.4.3.1 基本概念\n– 高齡醫學評估是一項多面向、跨領域的評估，旨在評估年長者的功能能力、身體健康、認知、心理健康及社會環境狀況（Artz 2016）。\n– 在此脈絡下，高齡醫學評估的目標是在 HCT 前掌握患者的脆弱性，以協助決定患者是否適合接受該處置，並個別化制定 HCT 後的支持策略，以預防併發症並降低移植相關罹病率與死亡率（Artz 2016; Jayani et al. 2020）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800017,
+          "page": 599,
+          "en": "68.4.3.2 Elements Involved in Elderly HCT Candidates\n– Ensure appropriate performance status (Karnofsky score ≥ 80).\n– Rule out significant comorbidities by the HCT-CI (Sorror et al. 2005), as their prevalence increases with age.\n– Assess the modified EBMT (Armand et al. 2014) and the revised PAM scores (Au et al. 2015), as global prognostic models that incorporate both NRM and disease factors.\n– Measure functional status by self-reported function and performance-based testing (ability to perform tasks necessary to live independently in the community [i.e., shopping, food preparation, housekeeping, telephone, laundry, transportation and driving, manage finances and medication, number of times a patient can rise from the chair (i.e., timed up and go), gait speed, 6-min walk test, hand grip strength, or provocative cardiopulmonary testing], polypharmacy requirements).\n– Cognitive function: if necessary, perform neuropsychological testing and/or consult geriatrics (Oli et al. 2020).\n– Psychosocial evaluation (assessment of social support, availability of a caregiver, financial matters, psychological disturbances, etc.).\n– Nutritional status and weight loss.\n– Biomarkers to characterize physiologic age (serum C-reactive protein, ferritin, serum albumin, or protein biomarkers panels in development).",
+          "zh": "68.4.3.2 高齡 HCT 候選患者所涵蓋的評估要素\n– 確保具備適當的體能狀態（Karnofsky 評分 ≥ 80）。\n– 透過 HCT-CI（Sorror et al. 2005）排除重大共病症，因為其盛行率隨年齡增長而上升。\n– 評估改良版 EBMT 評分（Armand et al. 2014）與修訂版移植前死亡率評估（PAM）評分（Au et al. 2015），作為同時納入 NRM 與疾病因子的整體預後模型。\n– 透過患者自評功能與實作表現測試來測量功能狀態（執行在社區獨立生活所需任務的能力［亦即購物、備餐、家務、使用電話、洗衣、交通與駕駛、管理財務與藥物、患者從椅子站起的次數（亦即計時起走測試，timed up and go）、步速、6 分鐘步行測試、握力或激發性心肺功能測試］、多重用藥需求）。\n– 認知功能：如有必要，進行神經心理學測試及／或照會高齡醫學科（Oli et al. 2020）。\n– 心理社會評估（評估社會支持、是否有照護者、財務問題、心理困擾等）。\n– 營養狀態與體重減輕。\n– 用於表徵生理年齡的生物標記（血清 C 反應蛋白、鐵蛋白、血清白蛋白，或開發中的蛋白質生物標記組合）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800018,
+          "page": 599,
+          "en": "68.4.3.3 Scales\n– No standard geriatric assessment scales have been validated for HCT.\n– Most scales available for geriatric assessment in cancer patients are complex and time-consuming, which limits its use in daily practice.\n– The Geriatric Assessment in Hematology (GAH) scale is a brief, comprehensive geriatric assessment scale designed and validated for older patients diagnosed with hematological malignancies (MDS, AML, MM, and CLL) (Bonanad et al. 2015).\n– The GAH scale has been shown to be responsive to clinical changes in patient’s health status (Cruz-Jentoft et al. 2017) and may also help discriminate patients who will benefit most from intensive treatments from those requiring an adapted approach (de la Rubia et al. 2023).\n– The GAH scale includes 30 items grouped into 8 predefined dimensions (number of drugs, gait speed, mood, activities of daily living, subjective health status, nutrition, mental status, and comorbidities) and requires a relatively short period of time to be administered in routine clinical practice (10–12 min).\n– Thus, the GAH scale could be an interesting tool to assess elderly patients with hematological malignancies who are being considered for transplantation. However, it still needs to be validated in the setting of HCT.",
+          "zh": "68.4.3.3 評估量表\n– 目前尚無針對 HCT 完成驗證的標準高齡醫學評估量表。\n– 大多數可用於癌症患者高齡醫學評估的量表皆相當複雜且耗時，這限制了其在日常臨床實務中的使用。\n– 血液學高齡醫學評估（Geriatric Assessment in Hematology, GAH）量表是一項簡短、全面的高齡醫學評估量表，專為診斷出血液惡性腫瘤（MDS、AML、MM 及慢性淋巴性白血病〔CLL〕）的年長患者所設計並完成驗證（Bonanad et al. 2015）。\n– GAH 量表已證實對患者健康狀態的臨床變化具反應性（Cruz-Jentoft et al. 2017），且可能有助於區分哪些患者最能從密集治療中獲益，哪些患者則需要調整型治療策略（de la Rubia et al. 2023）。\n– GAH 量表包含 30 個項目，分為 8 個預先定義的向度（用藥數量、步速、情緒、日常生活活動、主觀健康狀態、營養、心智狀態及共病症），且在常規臨床實務中施測所需的時間相對較短（10–12 分鐘）。\n– 因此，GAH 量表可能是評估正在考慮接受移植之高齡血液惡性腫瘤患者的一項有價值的工具。然而，它仍需在 HCT 的臨床情境中進行驗證。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800019,
+          "page": 599,
+          "endPage": 600,
+          "en": "Key Points\n• HCT activity in elderly patients has increased markedly in the past two decades and is predicted to continue to increase as the population ages, with a sustained improvement in HCT methodology and care.",
+          "zh": "重點摘要（Key Points）\n• 高齡患者的 HCT 執行量在過去二十年間顯著增加，且隨著人口高齡化以及 HCT 技術與照護的持續改善，預計將繼續增加。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 600,
+      "blocks": [
+        {
+          "id": 6800020,
+          "page": 600,
+          "en": "• Auto- and allo-HCT in elderly patients is feasible and has acceptable outcomes.\n• Age should not be an exclusion criterion per se to consider elderly patients for HCT.\n• Assessing comorbidity is essential in older HCT candidates, but adjusting only for comorbidity may not identify frail patients vulnerable to adverse outcomes.\n• Frailty is a multidimensional syndrome of loss of physiologic reserves (energy, physical ability, cognition, and health) that leads to vulnerability, is higher in HCT recipients than the general geriatric population, and associates with poorer HCT outcome.\n• Geriatric assessment is a multidimensional, multidisciplinary assessment designed to evaluate an older person’s functional ability, physical health, cognition, mental health, and socio-environmental circumstances.\n• The goal of geriatric assessment in HCT would be to capture vulnerability pre-HCT to help deciding on patient suitability for the procedure and to adapt post-HCT support strategies to improve outcomes.\n• Currently, there are no standard geriatric assessment scales validated for HCT. The GAH scale has been described and validated in elderly patients with hematological malignancies, is relatively simple to apply in clinical practice, and may be a candidate scale for elderly HCT candidates, validation pending.",
+          "zh": "• 高齡患者進行 auto- 與 allo-HCT 具可行性，且具有可接受的治療結果。\n• 年齡本身不應作為考慮高齡患者進行 HCT 的排除標準。\n• 在年長 HCT 候選患者中評估共病症至關重要，但僅針對共病症進行校正可能無法辨識出易發生不良結果的衰弱患者。\n• 衰弱是生理儲備（精力、身體能力、認知及健康）流失而導致脆弱性的多面向症候群，其在 HCT 受植者中的盛行率高於一般高齡族群，且與較差的 HCT 結果相關。\n• 高齡醫學評估是一項多面向、跨領域的評估，旨在評估年長者的功能能力、身體健康、認知、心理健康及社會環境狀況。\n• 在 HCT 中進行高齡醫學評估的目標，是在 HCT 前掌握脆弱性，以協助決定患者是否適合接受該處置，並調整 HCT 後的支持策略以改善結果。\n• 目前尚無針對 HCT 完成驗證的標準高齡醫學評估量表。GAH 量表已在患有血液惡性腫瘤的高齡患者中完成描述與驗證，在臨床實務中應用相對簡便，可能作為高齡 HCT 候選患者的候選評估量表，惟仍有待進一步驗證。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6800021,
+          "page": 600,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft",
+          "retained": true
+        },
+        {
+          "id": 6800022,
+          "page": 600,
+          "en": "Armand P, Kim HT, Logan BR, et al. Validation and refinement of the disease risk index for allogeneic stem cell transplantation. Blood. 2014;123:3664–71.",
+          "zh": "Armand P, Kim HT, Logan BR, et al. Validation and refinement of the disease risk index for allogeneic stem cell transplantation. Blood. 2014;123:3664–71.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Armand%20P%2C%20Kim%20HT%2C%20Logan%20BR%2C%20et%20al.%20Validation%20and%20refinement%20of%20the%20disease%20risk%20index%20for%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202014%3B123%3A3664%E2%80%9371."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Armand%20P%2C%20Kim%20HT%2C%20Logan%20BR%2C%20et%20al.%20Validation%20and%20refinement%20of%20the%20disease%20risk%20index%20for%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202014%3B123%3A3664%E2%80%9371."
+            }
+          ]
+        },
+        {
+          "id": 6800023,
+          "page": 600,
+          "en": "Artz AS. Biologic vs physiologic age in the transplant candidate. Hematology Am Soc Hematol Educ Program. 2016;2016:99–105.",
+          "zh": "Artz AS. Biologic vs physiologic age in the transplant candidate. Hematology Am Soc Hematol Educ Program. 2016;2016:99–105.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Artz%20AS.%20Biologic%20vs%20physiologic%20age%20in%20the%20transplant%20candidate.%20Hematology%20Am%20Soc%20Hematol%20Educ%20Program.%202016%3B2016%3A99%E2%80%93105."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Artz%20AS.%20Biologic%20vs%20physiologic%20age%20in%20the%20transplant%20candidate.%20Hematology%20Am%20Soc%20Hematol%20Educ%20Program.%202016%3B2016%3A99%E2%80%93105."
+            }
+          ]
+        },
+        {
+          "id": 6800024,
+          "page": 600,
+          "en": "Au BK, Gooley TA, Armand P, et al. Reevaluation of the pretransplant assessment of mortality score after allogeneic hematopoietic transplantation. Biol Blood Marrow Transplant. 2015;21:848–54.",
+          "zh": "Au BK, Gooley TA, Armand P, et al. Reevaluation of the pretransplant assessment of mortality score after allogeneic hematopoietic transplantation. Biol Blood Marrow Transplant. 2015;21:848–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Au%20BK%2C%20Gooley%20TA%2C%20Armand%20P%2C%20et%20al.%20Reevaluation%20of%20the%20pretransplant%20assessment%20of%20mortality%20score%20after%20allogeneic%20hematopoietic%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A848%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Au%20BK%2C%20Gooley%20TA%2C%20Armand%20P%2C%20et%20al.%20Reevaluation%20of%20the%20pretransplant%20assessment%20of%20mortality%20score%20after%20allogeneic%20hematopoietic%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A848%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 6800025,
+          "page": 600,
+          "en": "Auletta JJ, Kou J, Chen M, Shaw BE. Current use and outcome of hematopoietic stem cell transplantation: CIBMTR summary slides, 2021.http://www.cibmtr.org.",
+          "zh": "Auletta JJ, Kou J, Chen M, Shaw BE. Current use and outcome of hematopoietic stem cell transplantation: CIBMTR summary slides, 2021.http://www.cibmtr.org.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Auletta%20JJ%2C%20Kou%20J%2C%20Chen%20M%2C%20Shaw%20BE.%20Current%20use%20and%20outcome%20of%20hematopoietic%20stem%20cell%20transplantation%3A%20CIBMTR%20summary%20slides%2C%202021.http%3A%2F%2Fwww.cibmtr.org."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Auletta%20JJ%2C%20Kou%20J%2C%20Chen%20M%2C%20Shaw%20BE.%20Current%20use%20and%20outcome%20of%20hematopoietic%20stem%20cell%20transplantation%3A%20CIBMTR%20summary%20slides%2C%202021.http%3A%2F%2Fwww.cibmtr.org."
+            }
+          ]
+        },
+        {
+          "id": 6800026,
+          "page": 600,
+          "en": "Auner HW, Szydlo R, Hoek J, Goldschmidt H, Stoppa AM, Morgan GJ, et al. Trends in autologous hematopoietic cell transplantation for multiple myeloma in Europe: increased use and improved out-comes in elderly patients in recent years. Bone Marrow Transplant. 2015;50:209–15.",
+          "zh": "Auner HW, Szydlo R, Hoek J, Goldschmidt H, Stoppa AM, Morgan GJ, et al. Trends in autologous hematopoietic cell transplantation for multiple myeloma in Europe: increased use and improved out-comes in elderly patients in recent years. Bone Marrow Transplant. 2015;50:209–15.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Auner%20HW%2C%20Szydlo%20R%2C%20Hoek%20J%2C%20Goldschmidt%20H%2C%20Stoppa%20AM%2C%20Morgan%20GJ%2C%20et%20al.%20Trends%20in%20autologous%20hematopoietic%20cell%20transplantation%20for%20multiple%20myeloma%20in%20Europe%3A%20increased%20use%20and%20improved%20out-comes%20in%20elderly%20patients%20in%20recent%20years.%20Bone%20Marrow%20Transplant.%202015%3B50%3A209%E2%80%9315."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Auner%20HW%2C%20Szydlo%20R%2C%20Hoek%20J%2C%20Goldschmidt%20H%2C%20Stoppa%20AM%2C%20Morgan%20GJ%2C%20et%20al.%20Trends%20in%20autologous%20hematopoietic%20cell%20transplantation%20for%20multiple%20myeloma%20in%20Europe%3A%20increased%20use%20and%20improved%20out-comes%20in%20elderly%20patients%20in%20recent%20years.%20Bone%20Marrow%20Transplant.%202015%3B50%3A209%E2%80%9315."
+            }
+          ]
+        },
+        {
+          "id": 6800027,
+          "page": 600,
+          "en": "Basak GW, Sánchez-Ortega I, Beohou E, et al. Allogeneic hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128:681.",
+          "zh": "Basak GW, Sánchez-Ortega I, Beohou E, et al. Allogeneic hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128:681.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Basak%20GW%2C%20S%C3%A1nchez-Ortega%20I%2C%20Beohou%20E%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20in%20elderly%20patients%20aged%2065%20and%20older%3A%20a%20retrospective%20analysis%20by%20the%20complications%20and%20quality%20of%20life%20working%20party%20of%20the%20EBMT.%20Blood.%202016%3B128%3A681."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Basak%20GW%2C%20S%C3%A1nchez-Ortega%20I%2C%20Beohou%20E%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20in%20elderly%20patients%20aged%2065%20and%20older%3A%20a%20retrospective%20analysis%20by%20the%20complications%20and%20quality%20of%20life%20working%20party%20of%20the%20EBMT.%20Blood.%202016%3B128%3A681."
+            }
+          ]
+        },
+        {
+          "id": 6800028,
+          "page": 600,
+          "en": "Bonanad S, De la Rubia J, Gironella M, et al. Development and psychometric validation of a brief comprehensive health status assessment scale in older patients with hematological malignancies: the GAH scale. J Geriatr Oncol. 2015;6:353–61.",
+          "zh": "Bonanad S, De la Rubia J, Gironella M, et al. Development and psychometric validation of a brief comprehensive health status assessment scale in older patients with hematological malignancies: the GAH scale. J Geriatr Oncol. 2015;6:353–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bonanad%20S%2C%20De%20la%20Rubia%20J%2C%20Gironella%20M%2C%20et%20al.%20Development%20and%20psychometric%20validation%20of%20a%20brief%20comprehensive%20health%20status%20assessment%20scale%20in%20older%20patients%20with%20hematological%20malignancies%3A%20the%20GAH%20scale.%20J%20Geriatr%20Oncol.%202015%3B6%3A353%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bonanad%20S%2C%20De%20la%20Rubia%20J%2C%20Gironella%20M%2C%20et%20al.%20Development%20and%20psychometric%20validation%20of%20a%20brief%20comprehensive%20health%20status%20assessment%20scale%20in%20older%20patients%20with%20hematological%20malignancies%3A%20the%20GAH%20scale.%20J%20Geriatr%20Oncol.%202015%3B6%3A353%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 6800029,
+          "page": 600,
+          "en": "Chevallier P, Szydlo RM, Blaise D, et al. Reduced-intensity conditioning before allogeneic hematopoietic stem cell transplantation in patients over 60 years: a report from the SFGM-TC. Biol Blood Marrow Transplant. 2012;18:289–94.",
+          "zh": "Chevallier P, Szydlo RM, Blaise D, et al. Reduced-intensity conditioning before allogeneic hematopoietic stem cell transplantation in patients over 60 years: a report from the SFGM-TC. Biol Blood Marrow Transplant. 2012;18:289–94.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chevallier%20P%2C%20Szydlo%20RM%2C%20Blaise%20D%2C%20et%20al.%20Reduced-intensity%20conditioning%20before%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20patients%20over%2060%20years%3A%20a%20report%20from%20the%20SFGM-TC.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A289%E2%80%9394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chevallier%20P%2C%20Szydlo%20RM%2C%20Blaise%20D%2C%20et%20al.%20Reduced-intensity%20conditioning%20before%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20patients%20over%2060%20years%3A%20a%20report%20from%20the%20SFGM-TC.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A289%E2%80%9394."
+            }
+          ]
+        },
+        {
+          "id": 6800030,
+          "page": 600,
+          "en": "Chihara D, Izutsu K, Kondo E, et al. High-dose chemotherapy with autologous stem cell transplantation for elderly patients with relapsed/refractory diffuse large B cell lymphoma: a nationwide retrospective study. Biol Blood Marrow Transplant. 2014;20:684–9.",
+          "zh": "Chihara D, Izutsu K, Kondo E, et al. High-dose chemotherapy with autologous stem cell transplantation for elderly patients with relapsed/refractory diffuse large B cell lymphoma: a nationwide retrospective study. Biol Blood Marrow Transplant. 2014;20:684–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chihara%20D%2C%20Izutsu%20K%2C%20Kondo%20E%2C%20et%20al.%20High-dose%20chemotherapy%20with%20autologous%20stem%20cell%20transplantation%20for%20elderly%20patients%20with%20relapsed%2Frefractory%20diffuse%20large%20B%20cell%20lymphoma%3A%20a%20nationwide%20retrospective%20study.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A684%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chihara%20D%2C%20Izutsu%20K%2C%20Kondo%20E%2C%20et%20al.%20High-dose%20chemotherapy%20with%20autologous%20stem%20cell%20transplantation%20for%20elderly%20patients%20with%20relapsed%2Frefractory%20diffuse%20large%20B%20cell%20lymphoma%3A%20a%20nationwide%20retrospective%20study.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A684%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6800031,
+          "page": 600,
+          "en": "Cruz-Jentoft AJ, González B, de la Rubia J, et al. Further psychometric validation of the GAH scale: responsiveness and effect size. J Geriatr Oncol. 2017;8:211–5.",
+          "zh": "Cruz-Jentoft AJ, González B, de la Rubia J, et al. Further psychometric validation of the GAH scale: responsiveness and effect size. J Geriatr Oncol. 2017;8:211–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cruz-Jentoft%20AJ%2C%20Gonz%C3%A1lez%20B%2C%20de%20la%20Rubia%20J%2C%20et%20al.%20Further%20psychometric%20validation%20of%20the%20GAH%20scale%3A%20responsiveness%20and%20effect%20size.%20J%20Geriatr%20Oncol.%202017%3B8%3A211%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cruz-Jentoft%20AJ%2C%20Gonz%C3%A1lez%20B%2C%20de%20la%20Rubia%20J%2C%20et%20al.%20Further%20psychometric%20validation%20of%20the%20GAH%20scale%3A%20responsiveness%20and%20effect%20size.%20J%20Geriatr%20Oncol.%202017%3B8%3A211%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 6800032,
+          "page": 600,
+          "en": "de la Rubia J, González B, Cruz-Jentoft AJ, et al. Geriatric assessment in hematology scale predicts treatment tolerability in older patients diagnosed with hematological malignancies: the RETROGAH study. J Geriatr Oncol. 2023;14:101401.",
+          "zh": "de la Rubia J, González B, Cruz-Jentoft AJ, et al. Geriatric assessment in hematology scale predicts treatment tolerability in older patients diagnosed with hematological malignancies: the RETROGAH study. J Geriatr Oncol. 2023;14:101401.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20la%20Rubia%20J%2C%20Gonz%C3%A1lez%20B%2C%20Cruz-Jentoft%20AJ%2C%20et%20al.%20Geriatric%20assessment%20in%20hematology%20scale%20predicts%20treatment%20tolerability%20in%20older%20patients%20diagnosed%20with%20hematological%20malignancies%3A%20the%20RETROGAH%20study.%20J%20Geriatr%20Oncol.%202023%3B14%3A101401."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20la%20Rubia%20J%2C%20Gonz%C3%A1lez%20B%2C%20Cruz-Jentoft%20AJ%2C%20et%20al.%20Geriatric%20assessment%20in%20hematology%20scale%20predicts%20treatment%20tolerability%20in%20older%20patients%20diagnosed%20with%20hematological%20malignancies%3A%20the%20RETROGAH%20study.%20J%20Geriatr%20Oncol.%202023%3B14%3A101401."
+            }
+          ]
+        },
+        {
+          "id": 6800033,
+          "page": 600,
+          "en": "Dohner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140:1345–77.",
+          "zh": "Dohner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140:1345–77.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dohner%20H%2C%20Wei%20AH%2C%20Appelbaum%20FR%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202022%20recommendations%20from%20an%20international%20expert%20panel%20on%20behalf%20of%20the%20ELN.%20Blood.%202022%3B140%3A1345%E2%80%9377."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dohner%20H%2C%20Wei%20AH%2C%20Appelbaum%20FR%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202022%20recommendations%20from%20an%20international%20expert%20panel%20on%20behalf%20of%20the%20ELN.%20Blood.%202022%3B140%3A1345%E2%80%9377."
+            }
+          ]
+        },
+        {
+          "id": 6800034,
+          "page": 600,
+          "en": "D'Souza A, Fretham C, Lee SJ, et al. Current use of and trends in hematopoietic cell transplantation in the United States. Biol Blood Marrow Transplant. 2020;26:e177–82.",
+          "zh": "D'Souza A, Fretham C, Lee SJ, et al. Current use of and trends in hematopoietic cell transplantation in the United States. Biol Blood Marrow Transplant. 2020;26:e177–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=D%27Souza%20A%2C%20Fretham%20C%2C%20Lee%20SJ%2C%20et%20al.%20Current%20use%20of%20and%20trends%20in%20hematopoietic%20cell%20transplantation%20in%20the%20United%20States.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3Ae177%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=D%27Souza%20A%2C%20Fretham%20C%2C%20Lee%20SJ%2C%20et%20al.%20Current%20use%20of%20and%20trends%20in%20hematopoietic%20cell%20transplantation%20in%20the%20United%20States.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3Ae177%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 6800035,
+          "page": 600,
+          "en": "Gratwohl A, Pasquini MC, Aljurf M, et al. One million haematopoietic stem-cell transplants: a retrospective observational study. Lancet Haematol. 2015;2:e91–100.",
+          "zh": "Gratwohl A, Pasquini MC, Aljurf M, et al. One million haematopoietic stem-cell transplants: a retrospective observational study. Lancet Haematol. 2015;2:e91–100.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gratwohl%20A%2C%20Pasquini%20MC%2C%20Aljurf%20M%2C%20et%20al.%20One%20million%20haematopoietic%20stem-cell%20transplants%3A%20a%20retrospective%20observational%20study.%20Lancet%20Haematol.%202015%3B2%3Ae91%E2%80%93100."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gratwohl%20A%2C%20Pasquini%20MC%2C%20Aljurf%20M%2C%20et%20al.%20One%20million%20haematopoietic%20stem-cell%20transplants%3A%20a%20retrospective%20observational%20study.%20Lancet%20Haematol.%202015%3B2%3Ae91%E2%80%93100."
+            }
+          ]
+        },
+        {
+          "id": 6800036,
+          "page": 600,
+          "en": "Hegde A, Murthy HS. Frailty: the missing piece of the pre-hematopoietic cell transplantation assessment? Bone Marrow Transplant. 2018;53:3–10.",
+          "zh": "Hegde A, Murthy HS. Frailty: the missing piece of the pre-hematopoietic cell transplantation assessment? Bone Marrow Transplant. 2018;53:3–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hegde%20A%2C%20Murthy%20HS.%20Frailty%3A%20the%20missing%20piece%20of%20the%20pre-hematopoietic%20cell%20transplantation%20assessment%3F%20Bone%20Marrow%20Transplant.%202018%3B53%3A3%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hegde%20A%2C%20Murthy%20HS.%20Frailty%3A%20the%20missing%20piece%20of%20the%20pre-hematopoietic%20cell%20transplantation%20assessment%3F%20Bone%20Marrow%20Transplant.%202018%3B53%3A3%E2%80%9310."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 601,
+      "blocks": [
+        {
+          "id": 6800037,
+          "page": 601,
+          "en": "Heidenreich S, Ziagkos D, de Wreede LC, et al. Allogeneic stem cell transplantation for patients age >/= 70 years with myelodysplastic syndrome: a retrospective study of the MDS Subcommittee of the chronic malignancies working party of the EBMT. Biol Blood Marrow Transplant. 2017;23:44–52.",
+          "zh": "Heidenreich S, Ziagkos D, de Wreede LC, et al. Allogeneic stem cell transplantation for patients age >/= 70 years with myelodysplastic syndrome: a retrospective study of the MDS Subcommittee of the chronic malignancies working party of the EBMT. Biol Blood Marrow Transplant. 2017;23:44–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Heidenreich%20S%2C%20Ziagkos%20D%2C%20de%20Wreede%20LC%2C%20et%20al.%20Allogeneic%20stem%20cell%20transplantation%20for%20patients%20age%20%3E%2F%3D%2070%20years%20with%20myelodysplastic%20syndrome%3A%20a%20retrospective%20study%20of%20the%20MDS%20Subcommittee%20of%20the%20chronic%20malignancies%20working%20party%20of%20the%20EBMT.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A44%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Heidenreich%20S%2C%20Ziagkos%20D%2C%20de%20Wreede%20LC%2C%20et%20al.%20Allogeneic%20stem%20cell%20transplantation%20for%20patients%20age%20%3E%2F%3D%2070%20years%20with%20myelodysplastic%20syndrome%3A%20a%20retrospective%20study%20of%20the%20MDS%20Subcommittee%20of%20the%20chronic%20malignancies%20working%20party%20of%20the%20EBMT.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A44%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 6800038,
+          "page": 601,
+          "en": "Jayani R, Rosko A, Olin R, et al. Use of geriatric assessment in hematopoietic cell transplant. J Geriatr Oncol. 2020;11:225–36.",
+          "zh": "Jayani R, Rosko A, Olin R, et al. Use of geriatric assessment in hematopoietic cell transplant. J Geriatr Oncol. 2020;11:225–36.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jayani%20R%2C%20Rosko%20A%2C%20Olin%20R%2C%20et%20al.%20Use%20of%20geriatric%20assessment%20in%20hematopoietic%20cell%20transplant.%20J%20Geriatr%20Oncol.%202020%3B11%3A225%E2%80%9336."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jayani%20R%2C%20Rosko%20A%2C%20Olin%20R%2C%20et%20al.%20Use%20of%20geriatric%20assessment%20in%20hematopoietic%20cell%20transplant.%20J%20Geriatr%20Oncol.%202020%3B11%3A225%E2%80%9336."
+            }
+          ]
+        },
+        {
+          "id": 6800039,
+          "page": 601,
+          "en": "Kyriakou C, Boumendil A, Finel H, et al. EBMT Lymphoma Working Party. The Impact of Advanced Patient Age on Mortality after Allogeneic Hematopoietic Cell Transplantation for Non-Hodgkin Lymphoma: a Retrospective Study by the European Society for Blood and Marrow Transplantation Lymphoma Working Party. Biol Blood Marrow Transplant. 2019;25:86–93.",
+          "zh": "Kyriakou C, Boumendil A, Finel H, et al. EBMT Lymphoma Working Party. The Impact of Advanced Patient Age on Mortality after Allogeneic Hematopoietic Cell Transplantation for Non-Hodgkin Lymphoma: a Retrospective Study by the European Society for Blood and Marrow Transplantation Lymphoma Working Party. Biol Blood Marrow Transplant. 2019;25:86–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kyriakou%20C%2C%20Boumendil%20A%2C%20Finel%20H%2C%20et%20al.%20EBMT%20Lymphoma%20Working%20Party.%20The%20Impact%20of%20Advanced%20Patient%20Age%20on%20Mortality%20after%20Allogeneic%20Hematopoietic%20Cell%20Transplantation%20for%20Non-Hodgkin%20Lymphoma%3A%20a%20Retrospective%20Study%20by%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20Lymphoma%20Working%20Party.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A86%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kyriakou%20C%2C%20Boumendil%20A%2C%20Finel%20H%2C%20et%20al.%20EBMT%20Lymphoma%20Working%20Party.%20The%20Impact%20of%20Advanced%20Patient%20Age%20on%20Mortality%20after%20Allogeneic%20Hematopoietic%20Cell%20Transplantation%20for%20Non-Hodgkin%20Lymphoma%3A%20a%20Retrospective%20Study%20by%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20Lymphoma%20Working%20Party.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A86%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6800040,
+          "page": 601,
+          "en": "Maakaron JE, Zhang MJ, Chen K, et al. Age is no barrier for adults undergoing HCT for AML in CR1: contemporary CIBMTR analysis. Bone Marrow Transplant. 2022;57:911–7.",
+          "zh": "Maakaron JE, Zhang MJ, Chen K, et al. Age is no barrier for adults undergoing HCT for AML in CR1: contemporary CIBMTR analysis. Bone Marrow Transplant. 2022;57:911–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maakaron%20JE%2C%20Zhang%20MJ%2C%20Chen%20K%2C%20et%20al.%20Age%20is%20no%20barrier%20for%20adults%20undergoing%20HCT%20for%20AML%20in%20CR1%3A%20contemporary%20CIBMTR%20analysis.%20Bone%20Marrow%20Transplant.%202022%3B57%3A911%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maakaron%20JE%2C%20Zhang%20MJ%2C%20Chen%20K%2C%20et%20al.%20Age%20is%20no%20barrier%20for%20adults%20undergoing%20HCT%20for%20AML%20in%20CR1%3A%20contemporary%20CIBMTR%20analysis.%20Bone%20Marrow%20Transplant.%202022%3B57%3A911%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6800041,
+          "page": 601,
+          "en": "Martínez C, Jorge AS, Pereira A. Hodgkin lymphoma Subcommittee of Spanish Group of lymphoma and bone marrow transplantation (GELTAMO), et al. comorbidities, not age, are predictive of survival after autologous hematopoietic cell transplantation for relapsed/refractory Hodgkin’s lymphoma in patients older than 50 years. Ann Hematol. 2017;96:9–16.",
+          "zh": "Martínez C, Jorge AS, Pereira A. Hodgkin lymphoma Subcommittee of Spanish Group of lymphoma and bone marrow transplantation (GELTAMO), et al. comorbidities, not age, are predictive of survival after autologous hematopoietic cell transplantation for relapsed/refractory Hodgkin’s lymphoma in patients older than 50 years. Ann Hematol. 2017;96:9–16.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mart%C3%ADnez%20C%2C%20Jorge%20AS%2C%20Pereira%20A.%20Hodgkin%20lymphoma%20Subcommittee%20of%20Spanish%20Group%20of%20lymphoma%20and%20bone%20marrow%20transplantation%20%28GELTAMO%29%2C%20et%20al.%20comorbidities%2C%20not%20age%2C%20are%20predictive%20of%20survival%20after%20autologous%20hematopoietic%20cell%20transplantation%20for%20relapsed%2Frefractory%20Hodgkin%E2%80%99s%20lymphoma%20in%20patients%20older%20than%2050%20years.%20Ann%20Hematol.%202017%3B96%3A9%E2%80%9316."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mart%C3%ADnez%20C%2C%20Jorge%20AS%2C%20Pereira%20A.%20Hodgkin%20lymphoma%20Subcommittee%20of%20Spanish%20Group%20of%20lymphoma%20and%20bone%20marrow%20transplantation%20%28GELTAMO%29%2C%20et%20al.%20comorbidities%2C%20not%20age%2C%20are%20predictive%20of%20survival%20after%20autologous%20hematopoietic%20cell%20transplantation%20for%20relapsed%2Frefractory%20Hodgkin%E2%80%99s%20lymphoma%20in%20patients%20older%20than%2050%20years.%20Ann%20Hematol.%202017%3B96%3A9%E2%80%9316."
+            }
+          ]
+        },
+        {
+          "id": 6800042,
+          "page": 601,
+          "en": "McClune BL, Weisdorf DJ, Pedersen TL, et al. Effect of age on outcome of reduced-intensity hematopoietic cell transplantation for older patients with acute myeloid leukemia in first complete remission or with myelodysplastic syndrome. J Clin Oncol. 2010;28:1878–87.",
+          "zh": "McClune BL, Weisdorf DJ, Pedersen TL, et al. Effect of age on outcome of reduced-intensity hematopoietic cell transplantation for older patients with acute myeloid leukemia in first complete remission or with myelodysplastic syndrome. J Clin Oncol. 2010;28:1878–87.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=McClune%20BL%2C%20Weisdorf%20DJ%2C%20Pedersen%20TL%2C%20et%20al.%20Effect%20of%20age%20on%20outcome%20of%20reduced-intensity%20hematopoietic%20cell%20transplantation%20for%20older%20patients%20with%20acute%20myeloid%20leukemia%20in%20first%20complete%20remission%20or%20with%20myelodysplastic%20syndrome.%20J%20Clin%20Oncol.%202010%3B28%3A1878%E2%80%9387."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=McClune%20BL%2C%20Weisdorf%20DJ%2C%20Pedersen%20TL%2C%20et%20al.%20Effect%20of%20age%20on%20outcome%20of%20reduced-intensity%20hematopoietic%20cell%20transplantation%20for%20older%20patients%20with%20acute%20myeloid%20leukemia%20in%20first%20complete%20remission%20or%20with%20myelodysplastic%20syndrome.%20J%20Clin%20Oncol.%202010%3B28%3A1878%E2%80%9387."
+            }
+          ]
+        },
+        {
+          "id": 6800043,
+          "page": 601,
+          "en": "McLornan D, Eikema DJ, Czerw T, et al. Trends in allogeneic haematopoietic cell transplantation for myelofibrosis in Europe between 1995 and 2018: a CMWP of EBMT retrospective analysis. Bone Marrow Transplant. 2021;56:2160–72.",
+          "zh": "McLornan D, Eikema DJ, Czerw T, et al. Trends in allogeneic haematopoietic cell transplantation for myelofibrosis in Europe between 1995 and 2018: a CMWP of EBMT retrospective analysis. Bone Marrow Transplant. 2021;56:2160–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=McLornan%20D%2C%20Eikema%20DJ%2C%20Czerw%20T%2C%20et%20al.%20Trends%20in%20allogeneic%20haematopoietic%20cell%20transplantation%20for%20myelofibrosis%20in%20Europe%20between%201995%20and%202018%3A%20a%20CMWP%20of%20EBMT%20retrospective%20analysis.%20Bone%20Marrow%20Transplant.%202021%3B56%3A2160%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=McLornan%20D%2C%20Eikema%20DJ%2C%20Czerw%20T%2C%20et%20al.%20Trends%20in%20allogeneic%20haematopoietic%20cell%20transplantation%20for%20myelofibrosis%20in%20Europe%20between%201995%20and%202018%3A%20a%20CMWP%20of%20EBMT%20retrospective%20analysis.%20Bone%20Marrow%20Transplant.%202021%3B56%3A2160%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 6800044,
+          "page": 601,
+          "en": "Muffly LS, Kocherginsky M, Stock W, et al. geriatric assessment to predict survival in older allogeneic hematopoietic cell transplantation recipients. Haematologica. 2014;99:1373–9.",
+          "zh": "Muffly LS, Kocherginsky M, Stock W, et al. geriatric assessment to predict survival in older allogeneic hematopoietic cell transplantation recipients. Haematologica. 2014;99:1373–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Muffly%20LS%2C%20Kocherginsky%20M%2C%20Stock%20W%2C%20et%20al.%20geriatric%20assessment%20to%20predict%20survival%20in%20older%20allogeneic%20hematopoietic%20cell%20transplantation%20recipients.%20Haematologica.%202014%3B99%3A1373%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Muffly%20LS%2C%20Kocherginsky%20M%2C%20Stock%20W%2C%20et%20al.%20geriatric%20assessment%20to%20predict%20survival%20in%20older%20allogeneic%20hematopoietic%20cell%20transplantation%20recipients.%20Haematologica.%202014%3B99%3A1373%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6800045,
+          "page": 601,
+          "en": "Oli RL, Fretham C, Pasquini MC, et al. Geriatric assessment in older alloHCT recipients: association of functional and cognitive impairment with outcomes. Blood Adv. 2020;4(12):2810–20.",
+          "zh": "Oli RL, Fretham C, Pasquini MC, et al. Geriatric assessment in older alloHCT recipients: association of functional and cognitive impairment with outcomes. Blood Adv. 2020;4(12):2810–20.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Oli%20RL%2C%20Fretham%20C%2C%20Pasquini%20MC%2C%20et%20al.%20Geriatric%20assessment%20in%20older%20alloHCT%20recipients%3A%20association%20of%20functional%20and%20cognitive%20impairment%20with%20outcomes.%20Blood%20Adv.%202020%3B4%2812%29%3A2810%E2%80%9320."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Oli%20RL%2C%20Fretham%20C%2C%20Pasquini%20MC%2C%20et%20al.%20Geriatric%20assessment%20in%20older%20alloHCT%20recipients%3A%20association%20of%20functional%20and%20cognitive%20impairment%20with%20outcomes.%20Blood%20Adv.%202020%3B4%2812%29%3A2810%E2%80%9320."
+            }
+          ]
+        },
+        {
+          "id": 6800046,
+          "page": 601,
+          "en": "Passweg JR, Baldomero H, Ciceri F, et al. Hematopoietic cell transplantation and cellular therapies in Europe 2021. The second year of the SARS-CoV-2 pandemic. A report from the EBMT activity survey. Bone Marrow Transplant. 2023;6:1–12.",
+          "zh": "Passweg JR, Baldomero H, Ciceri F, et al. Hematopoietic cell transplantation and cellular therapies in Europe 2021. The second year of the SARS-CoV-2 pandemic. A report from the EBMT activity survey. Bone Marrow Transplant. 2023;6:1–12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Ciceri%20F%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapies%20in%20Europe%202021.%20The%20second%20year%20of%20the%20SARS-CoV-2%20pandemic.%20A%20report%20from%20the%20EBMT%20activity%20survey.%20Bone%20Marrow%20Transplant.%202023%3B6%3A1%E2%80%9312."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Ciceri%20F%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapies%20in%20Europe%202021.%20The%20second%20year%20of%20the%20SARS-CoV-2%20pandemic.%20A%20report%20from%20the%20EBMT%20activity%20survey.%20Bone%20Marrow%20Transplant.%202023%3B6%3A1%E2%80%9312."
+            }
+          ]
+        },
+        {
+          "id": 6800047,
+          "page": 601,
+          "en": "Ringdén O, Boumendil A, Labopin M, et al. Outcome of allogeneic hematopoietic stem cell transplantation in patients age >69 years with acute myelogenous leukemia: on behalf of the acute leukemia working Party of the European Society for blood and marrow transplantation. Biol Blood Marrow Transplant. 2019;25:1975–83.",
+          "zh": "Ringdén O, Boumendil A, Labopin M, et al. Outcome of allogeneic hematopoietic stem cell transplantation in patients age >69 years with acute myelogenous leukemia: on behalf of the acute leukemia working Party of the European Society for blood and marrow transplantation. Biol Blood Marrow Transplant. 2019;25:1975–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ringd%C3%A9n%20O%2C%20Boumendil%20A%2C%20Labopin%20M%2C%20et%20al.%20Outcome%20of%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20patients%20age%20%3E69%20years%20with%20acute%20myelogenous%20leukemia%3A%20on%20behalf%20of%20the%20acute%20leukemia%20working%20Party%20of%20the%20European%20Society%20for%20blood%20and%20marrow%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A1975%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ringd%C3%A9n%20O%2C%20Boumendil%20A%2C%20Labopin%20M%2C%20et%20al.%20Outcome%20of%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20patients%20age%20%3E69%20years%20with%20acute%20myelogenous%20leukemia%3A%20on%20behalf%20of%20the%20acute%20leukemia%20working%20Party%20of%20the%20European%20Society%20for%20blood%20and%20marrow%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A1975%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 6800048,
+          "page": 601,
+          "en": "Sánchez-Ortega I, Basak G, Beohou E, et al. Performance status drives the impact of age on the outcomes of autologous hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128:678.",
+          "zh": "Sánchez-Ortega I, Basak G, Beohou E, et al. Performance status drives the impact of age on the outcomes of autologous hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128:678.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=S%C3%A1nchez-Ortega%20I%2C%20Basak%20G%2C%20Beohou%20E%2C%20et%20al.%20Performance%20status%20drives%20the%20impact%20of%20age%20on%20the%20outcomes%20of%20autologous%20hematopoietic%20cell%20transplantation%20in%20elderly%20patients%20aged%2065%20and%20older%3A%20a%20retrospective%20analysis%20by%20the%20complications%20and%20quality%20of%20life%20working%20party%20of%20the%20EBMT.%20Blood.%202016%3B128%3A678."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=S%C3%A1nchez-Ortega%20I%2C%20Basak%20G%2C%20Beohou%20E%2C%20et%20al.%20Performance%20status%20drives%20the%20impact%20of%20age%20on%20the%20outcomes%20of%20autologous%20hematopoietic%20cell%20transplantation%20in%20elderly%20patients%20aged%2065%20and%20older%3A%20a%20retrospective%20analysis%20by%20the%20complications%20and%20quality%20of%20life%20working%20party%20of%20the%20EBMT.%20Blood.%202016%3B128%3A678."
+            }
+          ]
+        },
+        {
+          "id": 6800049,
+          "page": 601,
+          "en": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, et al. Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57:1217–39.",
+          "zh": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, et al. Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57:1217–39.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Snowden%20JA%2C%20S%C3%A1nchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20et%20al.%20Indications%20for%20haematopoietic%20cell%20transplantation%20for%20haematological%20diseases%2C%20solid%20tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57%3A1217%E2%80%9339."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Snowden%20JA%2C%20S%C3%A1nchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20et%20al.%20Indications%20for%20haematopoietic%20cell%20transplantation%20for%20haematological%20diseases%2C%20solid%20tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57%3A1217%E2%80%9339."
+            }
+          ]
+        },
+        {
+          "id": 6800050,
+          "page": 601,
+          "en": "Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT. Blood. 2005;106:2912–9.",
+          "zh": "Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT. Blood. 2005;106:2912–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sorror%20ML%2C%20Maris%20MB%2C%20Storb%20R%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20%28HCT%29-specific%20comorbidity%20index%3A%20a%20new%20tool%20for%20risk%20assessment%20before%20allogeneic%20HCT.%20Blood.%202005%3B106%3A2912%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sorror%20ML%2C%20Maris%20MB%2C%20Storb%20R%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20%28HCT%29-specific%20comorbidity%20index%3A%20a%20new%20tool%20for%20risk%20assessment%20before%20allogeneic%20HCT.%20Blood.%202005%3B106%3A2912%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6800051,
+          "page": 601,
+          "en": "Sorror ML, Sandmaier BM, Storer BE, et al. Long-term outcomes among older patients following nonmyeloablative conditioning and allogeneic hematopoietic cell transplantation for advanced hematologic malignancies. JAMA. 2011;306:1874–83.",
+          "zh": "Sorror ML, Sandmaier BM, Storer BE, et al. Long-term outcomes among older patients following nonmyeloablative conditioning and allogeneic hematopoietic cell transplantation for advanced hematologic malignancies. JAMA. 2011;306:1874–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sorror%20ML%2C%20Sandmaier%20BM%2C%20Storer%20BE%2C%20et%20al.%20Long-term%20outcomes%20among%20older%20patients%20following%20nonmyeloablative%20conditioning%20and%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20advanced%20hematologic%20malignancies.%20JAMA.%202011%3B306%3A1874%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sorror%20ML%2C%20Sandmaier%20BM%2C%20Storer%20BE%2C%20et%20al.%20Long-term%20outcomes%20among%20older%20patients%20following%20nonmyeloablative%20conditioning%20and%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20advanced%20hematologic%20malignancies.%20JAMA.%202011%3B306%3A1874%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 6800052,
+          "page": 601,
+          "en": "Swan D, Hayden PJ, Eikema DJ, et al. Trends in autologous stem cell transplantation for newly diagnosed multiple myeloma: Changing demographics and outcomes in European Society for Blood and Marrow Transplantation centres from 1995 to 2019. Br J Haematol. 2022;197:82–96.",
+          "zh": "Swan D, Hayden PJ, Eikema DJ, et al. Trends in autologous stem cell transplantation for newly diagnosed multiple myeloma: Changing demographics and outcomes in European Society for Blood and Marrow Transplantation centres from 1995 to 2019. Br J Haematol. 2022;197:82–96.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Swan%20D%2C%20Hayden%20PJ%2C%20Eikema%20DJ%2C%20et%20al.%20Trends%20in%20autologous%20stem%20cell%20transplantation%20for%20newly%20diagnosed%20multiple%20myeloma%3A%20Changing%20demographics%20and%20outcomes%20in%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20centres%20from%201995%20to%202019.%20Br%20J%20Haematol.%202022%3B197%3A82%E2%80%9396."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Swan%20D%2C%20Hayden%20PJ%2C%20Eikema%20DJ%2C%20et%20al.%20Trends%20in%20autologous%20stem%20cell%20transplantation%20for%20newly%20diagnosed%20multiple%20myeloma%3A%20Changing%20demographics%20and%20outcomes%20in%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20centres%20from%201995%20to%202019.%20Br%20J%20Haematol.%202022%3B197%3A82%E2%80%9396."
+            }
+          ]
+        },
+        {
+          "id": 6800053,
+          "page": 601,
+          "en": "Winn AN, Shah GL, Cohen JT, et al. The real world effectiveness of hematopoietic transplant among elderly individuals with multiple myeloma. J Natl Cancer Inst. 2015;107:1–6.",
+          "zh": "Winn AN, Shah GL, Cohen JT, et al. The real world effectiveness of hematopoietic transplant among elderly individuals with multiple myeloma. J Natl Cancer Inst. 2015;107:1–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Winn%20AN%2C%20Shah%20GL%2C%20Cohen%20JT%2C%20et%20al.%20The%20real%20world%20effectiveness%20of%20hematopoietic%20transplant%20among%20elderly%20individuals%20with%20multiple%20myeloma.%20J%20Natl%20Cancer%20Inst.%202015%3B107%3A1%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Winn%20AN%2C%20Shah%20GL%2C%20Cohen%20JT%2C%20et%20al.%20The%20real%20world%20effectiveness%20of%20hematopoietic%20transplant%20among%20elderly%20individuals%20with%20multiple%20myeloma.%20J%20Natl%20Cancer%20Inst.%202015%3B107%3A1%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6800054,
+          "page": 601,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
