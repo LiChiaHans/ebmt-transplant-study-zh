@@ -1,6 +1,6 @@
 # 第 65 章半相合造血細胞移植：逐段翻譯檢查點
 
-狀態：未完成；目前完成草稿 65.1–65.1.5。65.2、65.3、圖 65.1–65.3、縮寫、作者資料、參考文獻與授權尚待整理。本檔不是正式網站譯文，不應據此將第 65 章標為完成。
+狀態：未完成；目前完成草稿 65.1–65.1.5、65.2、65.2.1 與 65.2.2 前三段。65.2.2 後續劑量與時序、65.2.3、65.3、圖 65.1–65.3、縮寫、作者資料、參考文獻與授權尚待整理。本檔不是正式網站譯文，不應據此將第 65 章標為完成。
 AI 直接翻譯，未經人工專科校訂。依 2024 版原文翻譯；原文當時的藥品核准與研究狀態均按歷史語境保留，不代表目前狀態。
 
 原作者：Andrea Bacigalupo、Arjan Lankester、Fabio Ciceri、Alice Bertaina。
@@ -84,6 +84,70 @@ Mouse models have demonstrated the capacity of naïve T cells (CD45RA+) to cause
 **繁體中文**
 
 小鼠模型已顯示，初始型 T 細胞（naïve T cells，CD45RA+）能引起嚴重 GvHD，而記憶型 T 細胞（CD45RA−RO+）僅引起輕度 GvHD 或不引起 GvHD（Anderson et al. 2003）。過去十年間，少數團隊開始採用針對初始型 T 細胞的 CD45RA+ 去除，以降低不相合造血幹細胞移植的 GvHD 風險（Triplett et al. 2018；Gasior Kabat et al. 2021；Maschan et al. 2017）。
+
+
+## 65.2 Unmanipulated Haploidentical HCT／未經處理的半相合 HCT
+來源座標 576（章內 PDF 第 3 頁）
+
+**English**
+
+The number of unmanipulated HLA haploidentical transplants has been rapidly increasing over the past 15 years (Passweg et al. 2012), due to the successful prevention of two major problems: lethal GvHD and graft rejection. There are currently three main platforms to perform unmanipulated haplo-HCT:
+ATG based → together with CSA, MMF, and MTX (Lu et al. 2006),
+PTCy based → together with FK/CSA, MMF (Luznik et al. 2008), and
+ATG + PTCy → together with other in vivo immunosuppressants (DeZern et al. 2017; Duléry et al. 2018).
+
+**繁體中文**
+
+由於已能成功預防致命性 GvHD 及移植物排斥這兩大問題，未經處理的 HLA 半相合移植在過去 15 年間迅速增加（Passweg et al. 2012）。目前主要有三種平台：
+- 以 ATG 為基礎，合併 CSA、MMF 與 MTX（Lu et al. 2006）。
+- 以 PTCy 為基礎，合併 FK／CSA 與 MMF（Luznik et al. 2008）。
+- ATG＋PTCy，合併其他體內免疫抑制藥物（DeZern et al. 2017；Duléry et al. 2018）。
+
+## 65.2.1 Anti-Thymocyte Globulin (ATG) Based／以抗胸腺細胞球蛋白為基礎
+來源座標 576（章內 PDF 第 3 頁）
+
+**English**
+
+Following the pioneering work of Dao Pei Lu (Lu et al. 2006), the ATG-based prophylaxis has been shown to allow significant engraftment and control of GvHD, in recipients of haplo-HCT, such that the outcome is comparable with recipients of HLA-matched grafts (Wang et al. 2013).
+
+**繁體中文**
+
+繼陸道培的先驅性研究（Lu et al. 2006）之後，以 ATG 為基礎的預防療法已顯示可讓半相合 HCT 受者獲得良好的植入並控制 GvHD，使結果可與接受 HLA 相合移植物者相比（Wang et al. 2013）。
+
+**English**
+
+The Beijing protocol consists of a myeloablative conditioning regimen (ARA-C, BU 4 days and CY 2 days), together with rabbit ATG 2.5 mg/kg/day (Fig. 65.1). GvHD prophylaxis is based on 4 drugs (ATG, CSA, MTX, MMF) (Fig. 65.1). The stem cell source is a combination of G-CSF (G)-mobilized bone marrow (G-BM) and G-mobilized PB. A modification of the Beijing protocol has used unmanipulated G-BM alone (Ji et al. 2005) and included intensive GvHD prophylaxis with ATG, CSA, MTX, and MMF with the addition of basiliximab, an anti-CD25 antibody. The same GvHD prophylaxis has been reported by an Italian consortium (Di Bartolomeo et al. 2010), with a different conditioning regimen (thiotepa, busulfan, fludarabine) (TBF), originally described by Sanz and coworkers for cord blood transplants (Sanz et al. 2012).
+
+**繁體中文**
+
+北京方案採骨髓消除性調理，包括 ARA-C、4 天 BU 及 2 天 CY，並合併每日 rabbit ATG 2.5 mg/kg（圖 65.1）。GvHD 預防使用 ATG、CSA、MTX、MMF 四種藥物（圖 65.1）。幹細胞來源結合 G-CSF 動員骨髓（G-BM）與 G-CSF 動員周邊血。北京方案的一項變化僅使用未經處理的 G-BM（Ji et al. 2005），並在 ATG、CSA、MTX、MMF 的密集 GvHD 預防之外，加入抗 CD25 抗體 basiliximab。義大利聯盟也報告使用相同的 GvHD 預防（Di Bartolomeo et al. 2010），但調理不同，採 thiotepa、busulfan、fludarabine（TBF）；這項調理最初由 Sanz 及同事用於臍帶血移植（Sanz et al. 2012）。
+
+## 65.2.2 Post-transplant Cyclophosphamide (PT-Cy) Based／以移植後 cyclophosphamide 為基礎
+來源座標 576–578（章內 PDF 第 3–5 頁）；本小節仍有後續劑量與時序段落待譯。
+
+**English**
+
+The use of PT-Cy on day +3 and +4 after an unmanipulated haplo-HCT has been pioneered by the Baltimore group (Fig. 65.2). It is based on the combination of FLU Cy and low dose TBI (2 Gy), followed by unmanipulated haplo BM; GvHD prophylaxis consists of high-dose CY on day +3 +4 (50 mg/kg) combined with a CNI and MMF (Fig. 65.2).
+
+**繁體中文**
+
+Baltimore 團隊率先於未經處理的半相合 HCT 後第 +3、+4 天使用 PT-Cy（圖 65.2）。其方法以 FLU、CY 與低劑量 TBI（2 Gy）組合，接著輸注未經處理的半相合骨髓；GvHD 預防則於第 +3、+4 天給予高劑量 CY（50 mg/kg），合併 CNI 與 MMF（圖 65.2）。
+
+**English**
+
+It is based on the idea that high-dose Cy (50 mg/kg) will kill alloreactive T cells proliferating on day +3 and +4 after the transplant, whereas stem cells would be protected because they are not proliferating and with a high concentration of aldehyde dehydrogenase. In 2008, the Baltimore group published their first clinical study and showed that PT-Cy was able to protect patients from GvHD after haplo-HCT (Luznik et al. 2008). Not only GvHD could be prevented, but GvL seemed superior, at least in patients with HL.
+
+**繁體中文**
+
+其概念是：高劑量 CY（50 mg/kg）可殺死移植後第 +3、+4 天正在增殖的同種反應性 T 細胞；幹細胞則因未在增殖且含高濃度 aldehyde dehydrogenase 而受到保護。Baltimore 團隊於 2008 年發表首次臨床研究，顯示 PT-Cy 能預防半相合 HCT 後 GvHD（Luznik et al. 2008）。不僅能預防 GvHD，至少在 Hodgkin lymphoma（HL）患者中，GvL 效應似乎也更佳。
+
+**English**
+
+There have been numerous variations of the Baltimore protocol, with use of G-PB instead of BM (Bashey et al. 2017), rapamycin, instead of a CNI (Cieri et al. 2015), the use of a MAC regimen instead of the NMA regimen of Baltimore (Raiola et al. 2013; Bashey et al. 2017), suggesting a certain degree of flexibility of PTCy-based platforms. Engraftment is achieved in over 95% of patients, and there is good control of acute and chronic GvHD.
+
+**繁體中文**
+
+Baltimore 方案已有許多變化，包括以 G-CSF 動員周邊血取代骨髓（Bashey et al. 2017）、以 rapamycin 取代 CNI（Cieri et al. 2015），以及以骨髓消除性調理（MAC）取代 Baltimore 的非骨髓消除性調理（NMA）（Raiola et al. 2013；Bashey et al. 2017）。這顯示以 PTCy 為基礎的平台具有一定彈性。超過 95% 患者可成功植入，急性與慢性 GvHD 亦能獲得良好控制。
 
 ## 後續檢查清單
 
