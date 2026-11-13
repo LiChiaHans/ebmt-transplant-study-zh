@@ -44,6 +44,7 @@
 'use strict';
 const KEY='ebmt-oral-personal-v1', state={editing:false,active:null,range:null}, originals=new Map();
 const toolbar=document.getElementById('personal-tools'), status=document.getElementById('personal-status');
+const firstHeading=document.querySelector('body > h1');if(firstHeading)firstHeading.after(toolbar);
 const custom=document.createElement('section');custom.id='personal-custom';toolbar.after(custom);
 function say(t){status.textContent=t}
 function clean(input){const doc=new DOMParser().parseFromString(input,'text/html');const allowed=new Set('P DIV SPAN BR B STRONG I EM U S MARK H2 H3 H4 UL OL LI TABLE CAPTION THEAD TBODY TR TH TD DETAILS SUMMARY A IMG SMALL BLOCKQUOTE FIGURE FIGCAPTION'.split(' '));
