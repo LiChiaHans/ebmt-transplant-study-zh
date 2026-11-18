@@ -1,0 +1,1072 @@
+{
+  "id": 59,
+  "title": "Delayed Transfer of Immune Cells or the Art of Donor Lymphocyte Infusion (DLI) 2.0",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 63,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 532,
+      "blocks": [
+        {
+          "id": 5900001,
+          "page": 532,
+          "en": "59 Delayed Transfer of Immune Cells or the Art of Donor Lymphocyte Infusion (DLI) 2.0\nJ. H. Frederik Falkenburg, Christoph Schmid, Hans Joachim Kolb, and Jürgen Kuball",
+          "zh": "59 延遲性免疫細胞轉移或供者淋巴球輸注（DLI）2.0 的藝術（Delayed Transfer of Immune Cells or the Art of Donor Lymphocyte Infusion (DLI) 2.0） — J. H. Frederik Falkenburg、Christoph Schmid、Hans Joachim Kolb、Jürgen Kuball",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_59"
+            }
+          ]
+        },
+        {
+          "id": 5900002,
+          "page": 532,
+          "en": "59.1 Biology of Donor Lymphocyte Infusion (DLI)\n59.1.1 Diversity of Lymphocyte Subsets Used for DLI\nIn the context of an allogeneic hematopoietic cell transplantation (HCT), the interplay between host and donor immune cells is considered to be the primary mechanism responsible for graft-versus-leukemia (GVL) reactivity and also able to mediate graft-versus-host disease (GVHD) (Schmid et al. 2021). The tissue specificity of the immune response determines the balance between GVL and GVHD, as well as tropism of GVHD. The main population for success and failure of HCT and DLIs originates from αβT cells. Other subsets are also key modulators of efficacy. For example, NK cells most likely provide acute control of leukemia and of infections like CMV. However, NK cells become rapidly educated over time (Orr and Lanier 2010) and lose their antileukemia activity. Thus, donor transfer of NK cells is obsolete and needs additional, for example, genetic modification to engineer long-term efficacy (Laskowski et al. 2022; Liu et al. 2020). Other subsets, like γδT cells, appear to have a more prolonged antileukemia effect (Handgretinger and Schilbach 2018; Sebestyen et al. 2020) and are also helpful in controlling CMV reactivation (Scheper et al. 2013; de Witte et al. 2018). However, also, donor γδT cells can lose activity over time, and sustainable activity requires, outside the context of an HCT, most likely further modifications (Sebestyen et al. 2020; Li et al. 2023). NKT cells, like regulatory T cells, have been mainly reported to influence GVHD. While an increase in NKT cells in the graft associates with a reduced GVHD incidence (Malard et al. 2016), depletion of regulatory T cells in donor lymphocyte infusions (DLI) improves GVL effects, although it augments the risk of GVHD (Maury et al. 2010). Thus, lymphocyte infusions as part of the graft at the time of transplantation, or delayed as DLI, have multiple effector cells that need to be considered in terms of different alloreactive effects (for review see also (Schmid et al. 2021)).",
+          "zh": "59.1 供者淋巴球輸注（DLI）之生物學\n59.1.1 用於 DLI 之淋巴球亞群的多樣性\n在異體造血細胞移植（HCT）的脈絡下，宿主與供者免疫細胞之間的交互作用被認為是負責移植物抗白血病（GVL）反應的主要機制，同時也能介導移植物抗宿主疾病（GVHD）（Schmid et al. 2021）。免疫反應的組織特異性決定了 GVL 與 GVHD 之間的平衡，以及 GVHD 的組織趨向性（tropism）。決定 HCT 與 DLI 成敗的主要細胞族群源自 αβT 細胞，而其他細胞亞群亦是療效的關鍵調節者。舉例而言，自然殺手（NK）細胞極可能對白血病與如 CMV 等感染提供急性期的控制；然而，NK 細胞會隨時間推移迅速受到宿主的耐受教育（educated）（Orr and Lanier 2010）並失去其抗白血病活性。因此，單純輸注供者 NK 細胞已過時，需要額外的改造（例如基因修飾）才能設計出具備長期療效的細胞（Laskowski et al. 2022; Liu et al. 2020）。其他亞群（如 γδT 細胞）則似乎具有較持久的抗白血病效應（Handgretinger and Schilbach 2018; Sebestyen et al. 2020），且亦有助於控制 CMV 再活化（Scheper et al. 2013; de Witte et al. 2018）；然而，供者 γδT 細胞同樣可能隨時間失去活性，若在 HCT 以外的情境要維持持久活性，極可能也需要進一步修飾（Sebestyen et al. 2020; Li et al. 2023）。自然殺手 T（NKT）細胞與調節性 T 細胞（Tregs）一樣，主要被報導會影響 GVHD：移植物中 NKT 細胞的增加與較低的 GVHD 發生率相關（Malard et al. 2016），而在供者淋巴球輸注（DLI）中去除調節性 T 細胞雖會增加 GVHD 風險，但可改善 GVL 效應（Maury et al. 2010）。因此，無論是在移植當時作為移植物一部分輸注的淋巴球，或是延遲作為 DLI 輸注的淋巴球，都包含多種效應細胞，必須考量其各自不同的異體反應效應（詳細回顧亦請參閱 Schmid et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900003,
+          "page": 532,
+          "en": "J. H. F. Falkenburg\nDepartment of Hematology, Leiden University Medical Center, Leiden, The Netherlands\ne-mail: falkenburg.hematology@lumc.nl\nC. Schmid\nKlinikum Augsburg, University of Munich, Munich, Germany\ne-mail: christoph.schmid@klinikum-augsburg.de\nH. J. Kolb\nDepartment of Hematology-Oncology Immunology Infectious Diseases, Klinikum München-Schwabing, Munich, Germany\ne-mail: h-j-kolb@web.de\nJ. Kuball (*)\nDepartment of Hematology, UMC Utrecht, The Netherlands\nDepartment of Hematology and Center for Translational Immunology, UMC, Utrecht, The Netherlands\ne-mail: J.H.E.Kuball@umcutrecht.nl\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_59",
+          "zh": "作者單位與聯絡資訊：\nJ. H. F. Falkenburg：荷蘭萊頓大學醫學中心（LUMC）血液科；電子郵件：falkenburg.hematology@lumc.nl。\nC. Schmid：德國慕尼黑大學奧格斯堡醫院（Klinikum Augsburg）；電子郵件：christoph.schmid@klinikum-augsburg.de。\nH. J. Kolb：德國慕尼黑 München-Schwabing 醫院血液腫瘤、免疫暨感染科；電子郵件：h-j-kolb@web.de。\nJ. Kuball（通訊作者）：荷蘭烏特勒支大學醫學中心（UMC Utrecht）血液科暨轉譯免疫學中心；電子郵件：J.H.E.Kuball@umcutrecht.nl。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_59。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 533,
+      "blocks": [
+        {
+          "id": 5900004,
+          "page": 533,
+          "en": "59.1.2 Naïve αβT Cell-Host Dendritic Cell (DC) Interaction as a Key Driver of Immune Responses\nSince in the context of HLA-matched transplantation most alloreactive αβT cells are present within the naïve repertoire of the donor, recipient-derived dendritic cells (DC) play an essential role in provoking the αβT-cell immune response (Stenger et al. 2012). DCs are key players in provoking appropriate T-cell activation, and because DCs are derived from the hematopoietic system, an immune response of donor origin targeting DC from the recipient will likely result in an immune response against recipient hematopoietic cells, including the malignant population, and therefore give rise to GVL. The level of cross-reactivity against antigens broadly expressed on non-hematopoietic cells will determine the likelihood and severity of GVHD. DCs are present in the lymphohematopoietic system but also with relatively high frequencies in the target tissues of GVHD. At the time of transplant, all DCs are of recipient origin. When activated by danger signals provoked by tissue damage and pathogens, DCs will present endogenous antigens, as well as cross-present antigens derived from the non-hematopoietic tissues and pathogens. Therefore, in T-cell-replete HCT, it is difficult to dissect the GVL and GVHD effects (Boelens et al. 2018; Admiraal et al. 2017). Consequently, many current transplantation techniques deplete immune cells from the graft and administer DLIs at later time points as standard part of the transplantation regimen. Several T-cell depletion strategies are being used including a complete immune depletion by selection of CD34-positive stem cells or the use of specific antibodies including antithymocyte immunoglobulins (ATG) or alemtuzumab (Pasquini et al. 2012). Since after transplantation the recipient DC is gradually replaced by the donor DC, the magnitude of the immune response by infused donor T cells will gradually decrease allowing early DLIs for the majority of patients (e.g., from 100 days after transplantation) and an improved segregation of GVL and GVHD effects. Partial depletion of alloreactive T cells through posttransplantation cyclophosphamide (PTCY) (Mielcarek et al. 2016) gives rise to a special situation. Since in this strategy an actively ongoing alloimmune response is abrogated, not only activated alloreactive donor T cells are being abrogated, but recipient DC may already have been attacked since these DCs are likely to have been involved in the initiation of this T-cell response. As a result, it is likely that many recipient DCs will be depleted at this phase. This DC depletion may allow earlier DLIs without causing severe GVHD, but vice versa may require higher doses to provoke an effective GVL reactivity. Similarly, following resolved GVHD which is associated with elimination of recipient DC, higher doses of DLI may also be required to induce an effective GVL response. In the case of haploidentical or partially mismatched transplantation, DLI may more readily provoke a profound immune response since in these cases the alloreactive T cells will also be present in the memory repertoire with a lower threshold of alloimmune activation not requiring professional recipient DC to be present, though little consensus in daily practice was reported (Santoro et al. 2023). Other more recent transplantation strategies consider the variety of immune cells. These novel strategies utilize either a selective depletion of αβT cell (Locatelli et al. 2017; de Witte et al. 2023; Nijssen et al. 2023) or naïve subsets (Bleakley et al. 2015) to abrogate GVHD while maintaining early immune surveillance directed against infections as well as leukemia. Such strategies might require lower dosages for DLIs as compared PTCY depletion (de Witte et al. 2021a), as DCs of patients are not harmed during or after conditioning.",
+          "zh": "59.1.2 初始 αβT 細胞與宿主樹突細胞（DC）之交互作用是免疫反應的關鍵驅動因素\n由於在 HLA 相合移植的情境下，大多數異體反應性（alloreactive）αβT 細胞都存在於供者的初始（naïve）受體庫中，因此受者來源的樹突細胞（DC）在啟動 αβT 細胞免疫反應中扮演著不可或缺的角色（Stenger et al. 2012）。DCs 是引發適當 T 細胞活化的關鍵角色，而且因為 DCs 源自造血系統，針對受者 DC 的供者免疫反應極可能會同時對受者的造血細胞（包含惡性腫瘤族群）產生免疫反應，從而產生 GVL 效應。至於針對非造血細胞上廣泛表現之抗原的交叉反應程度，則會決定 GVHD 發生的可能性與嚴重度。DCs 除了存在於淋巴造血系統中，在 GVHD 的目標組織裡也以相對較高的頻率存在。在移植當時，所有的 DCs 均為受者來源；當被組織損傷與病原體引發的危險訊號（danger signals）活化時，DCs 會呈獻內源性抗原，並交叉呈獻（cross-present）來自非造血組織與病原體的抗原。因此，在未去除 T 細胞（T-cell-replete）的 HCT 中，很難將 GVL 與 GVHD 效應切割開來（Boelens et al. 2018; Admiraal et al. 2017）。職是之故，目前的許多移植技術會先將免疫細胞從移植物中去除，並將「在較晚時間點施予 DLI」作為移植方案的標準組成部分。臨床上使用了多種 T 細胞去除策略，包括透過篩選 CD34 陽性幹細胞進行完全免疫去除，或是使用如抗胸腺細胞免疫球蛋白（ATG）或 alemtuzumab 等特異性抗體（Pasquini et al. 2012）。由於在移植後，受者的 DC 會逐漸被供者的 DC 所取代，輸注供者 T 細胞所引起的免疫反應強度將會逐漸減弱，這使得大多數患者能在相對早期（例如移植後第 100 天起）接受 DLI，並能更好地將 GVL 與 GVHD 效應分離開來。透過移植後環磷醯胺（PTCY）部分去除異體反應性 T 細胞（Mielcarek et al. 2016）則創造出一種特殊情況：由於在此策略中，一個正在積極進行中的異體免疫反應被中途阻斷，不僅已活化的異體反應性供者 T 細胞被清除，受者的 DC 也可能早已被攻擊（因為這些 DCs 極可能參與了此 T 細胞反應的啟動）。結果，許多受者 DCs 很可能在此階段就已被耗竭。這種受者 DC 的耗竭或許允許在更早期給予 DLI 而不致引發嚴重 GVHD，但反過來說，也可能需要較高劑量的 DLI 才能激發出有效的 GVL 反應。同樣地，在已緩解的 GVHD 之後（此時受者 DC 已遭清除），也可能需要較高劑量的 DLI 才能誘導出有效的 GVL 反應。在半相合或部分不相合移植的情境下，DLI 則更容易引發強烈的免疫反應，因為在這些情況中，異體反應性 T 細胞亦存在於記憶（memory）T 細胞庫裡，其異體免疫活化的閾值較低，不需要專職的受者 DC 存在即可活化，不過目前日常實務上對此尚缺乏共識（Santoro et al. 2023）。其他較近期的移植策略則考量了各種免疫細胞的多樣性。這些新穎策略利用選擇性去除 αβT 細胞（Locatelli et al. 2017; de Witte et al. 2023; Nijssen et al. 2023）或去除初始（naïve）T 細胞亞群（Bleakley et al. 2015）來消除 GVHD，同時保留針對感染與白血病的早期免疫監控。由於患者的 DCs 在調理期間或之後並未受到直接免疫攻擊與破壞，這類策略所需的 DLI 劑量可能會比 PTCY 去除平台更低（de Witte et al. 2021a）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900005,
+          "page": 533,
+          "en": "59.1.3 Diversity of Immune Repertoires and Potential Impact on Interventions\nAfter HCT, the αβ and γδTCR repertoire is reconstituted out of the graft of the donor, which contains in T-cell replete transplantations, between 5 × 10⁷ and 1 × 10⁹ T cells/kg (de Witte et al. 2021b). Of the T cells, the γδT cells are the first to reach normal numbers, followed by the CD8+ αβT cells and finally the CD4+ αβT cells which do not reach normal levels within the first year after HCT (de Koning et al. 2021). It is important to note that numerical reconstitution of the T cells does not mean that the diversity of the repertoire is already normalized, reflected by the clinical observations that patients are highly vulnerable to many infections for years after HCT. Repertoires for both αβ (van Heijst et al. 2013) and γδT cells (Ravens et al. 2017) are stable over time in healthy individuals. Factors that influence the T-cell repertoire reconstitution after HCT include the source of the graft, occurrence of infectious challenges such as CMV and EBV, GVHD, and cellular interventions such as DLI. The repertoire of αβT cells after HCT has been studied extensively in different HCT settings. Six months after HCT, the αβTCR repertoire is still very restricted when compared to that of healthy individuals. A cord blood graft leads to a greater diversity of the αβTCR repertoire at 6 and 12 months, compared to other graft sources (van Heijst et al. 2013). Even 2–5 years after HCT, the repertoire is still not as diverse as in healthy individuals (van Heijst et al. 2013; Kanakry et al. 2016). CMV reactivation shapes the repertoire in such way that a marked contraction of the diversity is observed (van Heijst et al. 2013; Kanakry et al. 2016; Suessmuth et al. 2015). GVHD has been associated with both an increased (van Heijst et al. 2013) and a decreased diversity (Yew et al. 2015).",
+          "zh": "59.1.3 免疫受體庫（Immune Repertoires）的多樣性及其對介入治療的潛在影響\n在 HCT 後，αβ 與 γδTCR 受體庫是由供者移植物重建而來；在未去除 T 細胞的移植中，移植物含有每公斤體重 5 × 10⁷ 至 1 × 10⁹ 個 T 細胞（de Witte et al. 2021b）。在 T 細胞之中，γδT 細胞會最先達到正常數量，接著是 CD8+ αβT 細胞，最後則是 CD4+ αβT 細胞——後者在 HCT 後的第一年內通常無法達到正常數值（de Koning et al. 2021）。必須特別注意的是，T 細胞在「數量」上的重建，並不代表其受體庫的「多樣性（diversity）」已經恢復正常，這反映在患者於 HCT 後數年內仍極易受到多種感染的臨床觀察上。在健康個體中，αβT 細胞（van Heijst et al. 2013）與 γδT 細胞（Ravens et al. 2017）的受體庫隨時間推移皆保持穩定。影響 HCT 後 T 細胞受體庫重建的因素包括移植物來源、是否發生如 CMV 與 EBV 等感染挑戰、GVHD，以及如 DLI 等細胞介入治療。HCT 後 αβT 細胞的受體庫已在不同移植情境下受到廣泛研究。在 HCT 後 6 個月時，與健康個體相比，αβTCR 受體庫仍然非常受限（restricted）。與其他移植物來源相比，臍帶血移植物在移植後 6 個月與 12 個月時能產生較高多樣性的 αβTCR 受體庫（van Heijst et al. 2013）。即使在 HCT 後 2–5 年，其受體庫的多樣性仍不及健康個體（van Heijst et al. 2013; Kanakry et al. 2016）。CMV 再活化會塑造受體庫，導致觀察到受體庫多樣性顯著縮減（contraction）（van Heijst et al. 2013; Kanakry et al. 2016; Suessmuth et al. 2015）。而 GVHD 則曾分別被報導與受體庫多樣性增加（van Heijst et al. 2013）及減少（Yew et al. 2015）相關。",
+          "review": "ai-draft",
+          "endPage": 534
+        }
+      ]
+    },
+    {
+      "page": 534,
+      "blocks": [
+        {
+          "id": 5900006,
+          "page": 534,
+          "en": "However, we favor the hypothesis that selective GVL reactivity is associated with lower diversity, lower magnitude, and relatively tissue-specific recognition of hematopoiesis by alloreactive αβT cells (van Bergen et al. 2017). Less is known about the diversity of the γδTCR repertoire after HCT. The repertoire of the γδT cells seems to be established quite early, at 30–60 days after HCT. CMV reactivation promotes a massive expansion of a few γδT cells (Ravens et al. 2017). However, whether CMV reactivation is needed for repertoire focusing in γδT cells is still under debate. Within this context, it is reasonable to argue that the administration of a DLI might in the future depend not only on the type of the disease or timing but also on the size of the αβ and γδT-cell repertoire observed at a given time point as well as the existing pool of antigen-presenting cells such as DC, which depends again on the type of transplantation regimen (de Witte et al. 2021b).",
+          "zh": "然而，我們傾向支持以下假說：具選擇性的 GVL 反應，與異體反應性 αβT 細胞對造血組織具較低多樣性、較低反應幅度以及相對組織特異性的辨識有關（van Bergen et al. 2017）。目前對於 HCT 後 γδTCR 受體庫多樣性的了解則較少。γδT 細胞的受體庫似乎在相當早期（HCT 後 30–60 天）即已建立。CMV 再活化會促進少數幾個 γδT 細胞選殖株的大量擴增（Ravens et al. 2017）；然而，γδT 細胞受體庫的聚焦（repertoire focusing）是否必然需要 CMV 再活化，目前仍有爭論。在此脈絡下，我們有理由認為：未來的 DLI 施予策略可能不僅取決於疾病類型或移植後時間點，還取決於在特定時間點所觀察到的 αβ 與 γδT 細胞受體庫大小，以及現存的抗原呈獻細胞（如 DC）池——而後者又取決於所採用的移植方案類型（de Witte et al. 2021b）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900007,
+          "page": 534,
+          "en": "59.2 Recommendations for Prophylactic and Preemptive DLI as well as DLI After Relapse\n59.2.1 General Considerations\nCurrently, neither the diversity of the TCR repertoire nor the infusion of subsets of lymphocytes is used to guide or fine-tune the intervention DLI in daily practice. To prevent relapse of the underlying disease, timing and dosing of non-manipulated DLI after HCT can be used to relatively skew the immune response toward GVL reactivity, as tissue damage after transplantation is gradually repaired and the donors’ DCs steadily replace the recipients’ DCs within the first 6 months after HCT. Therefore, the magnitude and diversity of the interplay between host and donor immune subsets will progressively diminish. This is evidenced by the clinical observation that when the interval between HCT and the infusion of DLI increases, the total number of αβT cells that can be administered without induction of severe GVHD will increase from less than 10⁵/kg after 3 months to more than 10⁶/kg at 6 months (Table 59.1) (Yun and Waller 2013; van der Zouwen et al. 2023). Main prerequisite at the time of DLI is therefore also the absence of tissue damage and inflammatory circumstances, thus a lack of GVHD and uncontrolled infections.",
+          "zh": "59.2 預防性、先發性（搶先性）與復發後 DLI 之臨床建議\n59.2.1 一般考量\n目前在日常臨床實務中，尚未將 TCR 受體庫的多樣性或特定淋巴球亞群的輸注用來指引或微調 DLI 介入治療。為了預防原發疾病復發，可利用 HCT 後未經處理之 DLI 的給藥時機與劑量，將免疫反應相對導向 GVL 反應——因為在 HCT 後的前 6 個月內，移植後的組織損傷會逐漸修復，且供者的 DCs 會穩定地取代受者的 DCs。因此，宿主與供者免疫細胞亞群之間交互作用的強度與多樣性將會逐步減弱。這一點可由以下臨床觀察得到證實：隨著 HCT 與 DLI 輸注之間的間隔時間拉長，在不引發嚴重 GVHD 的前提下所能施予的 αβT 細胞總數，會從移植後 3 個月的低於 10⁵/kg，增加至 6 個月時的超過 10⁶/kg（表 59.1）（Yun and Waller 2013; van der Zouwen et al. 2023）。因此，施予 DLI 時的主要先決條件是沒有組織損傷與發炎環境，亦即沒有活動性 GVHD 與未受控制的感染。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900008,
+          "page": 534,
+          "en": "59.2.2 Timing, Dosing, and Frequency of DLI\nThe following recommendations refer to the infusion of non-manipulated donor cells after no or in vivo T-cell-depleted transplantation from matched sibling or unrelated donors in patients with acute leukemia or MDS, which is the most frequently studied scenario. Further aspects, which may modify these recommendations, are discussed below. With respect to the indication of DLI for prevention of overt hematological relapse, two situations are distinguished. Furthermore, DLIs can be given within the context for overt relapses:",
+          "zh": "59.2.2 DLI 的時機、劑量與頻率\n以下建議適用於最常被研究的臨床情境：罹患急性白血病或骨髓增生不良症候群（MDS）的患者，在接受來自相合同胞或非親屬供者、未去除 T 細胞或僅行體內 T 細胞去除之移植後，輸注未經體外處理的供者細胞。可能修改這些建議的其他考量因素將於下文討論。針對使用 DLI 以預防顯性血液學復發的適應症，可區分為兩種情境；此外，DLI 亦可用於顯性復發的情境：",
+          "review": "ai-draft",
+          "endPage": 535
+        }
+      ]
+    },
+    {
+      "page": 535,
+      "blocks": [
+        {
+          "id": 5900009,
+          "page": 535,
+          "en": "Table 59.1 Timing and dosing of prophylactic and preemptive DLI. Level C evidence. A DLI can be repeated at one log higher 6–8 weeks after the first DLI, when, for example, MRD is still present and no GVHD is observed. GVHD as endpoint of repetitive DLIs for preemptive DLIs is in the era of MRD monitoring no longer recommended\nIndication | Timing of first dose | MRD (Matched Related Donor) | MUD | MMUD/Haplo | Number of DLI | References\n• Prophylactic | 3 months (ex vivo TCD: any risk; no ex vivo TCD: high-risk disease) | 1 × 10⁵/kg | 1 × 10⁵/kg | 1 × 10⁵/kg | 1–3ᵇ | Schmid et al. (2012)\n• Prophylactic | 6 monthsᵃ (high-risk disease) | 1 × 10⁶/kg | 1 × 10⁶/kg | 5 × 10⁵/kg | 1–3ᵇ | Tsirigotis et al. (2016)\n• Pre-emptive | 3 months | 1–5 × 10⁵/kg | 1 × 10⁵/kg | 1 × 10⁵/kg | 1–4ᶜ | de Witte et al. (2021a, b)\n• Pre-emptive | 6 monthsᵃ | 1–3 × 10⁶/kg | 1 × 10⁶/kg | 5 × 10⁵/kg | 1–4ᶜ | de Witte et al. (2021a, b)\n• Relapse | After chemotherapy | 1 × 10⁷/kg | 1 × 10⁷/kg | 1 × 10⁶/kg | 1–4ᵈ | Santoro et al. (2023), van der Zouwen et al. (2023)\nFootnotes:\nInterval between DLI: at least 4–6 weeks\nᵃ Starting at 4 months, higher doses in the range employed at 6 months can be discussed\nᵇ Second and third dose: increase each DLI dose 0.5–1 log\nᶜ Number of DLI: MRD/chimerism guided, consider continuation when MRDneg/full chimerism; in absence of MRD marker: GvHD guided\nᵈ Second to fourth dose: increase each DLI dose 1 log, to a maximum dose of 1 × 10⁸/kg",
+          "zh": "表 59.1 預防性、先發性（搶先性）與復發後 DLI 之時機與劑量（證據等級 C）。當例如 MRD 仍持續存在且未觀察到 GVHD 時，可在第一次 DLI 的 6–8 週後，以調高 1 個對數級（1 log）的劑量重複施予 DLI。在具備 MRD 監測的時代，已不再建議將「直到誘發 GVHD」作為先發性重複 DLI 的治療終點。\n適應症｜首劑時機｜相合親屬供者（MRD）｜相合非親屬供者（MUD）｜不相合非親屬／半相合（MMUD/Haplo）｜DLI 次數｜參考文獻\n• 預防性（Prophylactic）｜3 個月（體外 TCD：任何風險；無體外 TCD：高風險疾病）｜1 × 10⁵/kg｜1 × 10⁵/kg｜1 × 10⁵/kg｜1–3 次ᵇ｜Schmid et al. (2012)\n• 預防性（Prophylactic）｜6 個月ᵃ（高風險疾病）｜1 × 10⁶/kg｜1 × 10⁶/kg｜5 × 10⁵/kg｜1–3 次ᵇ｜Tsirigotis et al. (2016)\n• 先發性（Pre-emptive）｜3 個月｜1–5 × 10⁵/kg｜1 × 10⁵/kg｜1 × 10⁵/kg｜1–4 次ᶜ｜de Witte et al. (2021a, b)\n• 先發性（Pre-emptive）｜6 個月ᵃ｜1–3 × 10⁶/kg｜1 × 10⁶/kg｜5 × 10⁵/kg｜1–4 次ᶜ｜de Witte et al. (2021a, b)\n• 顯性復發（Relapse）｜化療之後（After chemotherapy）｜1 × 10⁷/kg｜1 × 10⁷/kg｜1 × 10⁶/kg｜1–4 次ᵈ｜Santoro et al. (2023), van der Zouwen et al. (2023)\n註腳：\n每次 DLI 之間的間隔：至少 4–6 週。\nᵃ 自第 4 個月起，即可討論採用第 6 個月所使用之較高劑量範圍。\nᵇ 第二與第三劑：每次 DLI 劑量調升 0.5–1 個對數級（0.5–1 log）。\nᶜ DLI 次數：由 MRD／嵌合率（chimerism）導引，當達成 MRD 轉陰／完全供者嵌合時考慮是否維持或停止；在缺乏 MRD 標記時，才以 GvHD 導引。\nᵈ 第二至第四劑：每次 DLI 劑量調升 1 log，最高劑量上限為 1 × 10⁸/kg。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900010,
+          "page": 535,
+          "en": "1. A prophylactic DLI is applied in patients with a high risk of relapse but at a stage when there is no evidence of the underlying disease. Usually, prophylactic DLI are given starting from day+90 or +100 after transplantation, provided that the patient is off immunosuppression and free of GVHD for about 1 month. CD3+ doses used for the first infusion depend on donor type and timing and vary between 1 × 10⁵/kg patient and 1 × 10⁶/kg (Table 59.1). In the absence of GvHD, most groups have given prophylactic DLIs as single-shot intervention, but also repetitive DLIs are reported (Table 59.1 (Tsirigotis et al. 2016; Jedlickova et al. 2016)). As with any maintenance therapy, the balance between relapse prevention and toxicity (i.e., GvHD) of prophylactic DLI needs to be acknowledged. Hence, treatment success after DLI has been defined as being alive without relapse and immunosuppression for GVHD by some investigators (Eefting et al. 2016). The optimal number of DLIs and timing between DLIs needed still needs to be defined and might depend on the initial transplantation regimen as discussed.",
+          "zh": "1. 預防性 DLI（Prophylactic DLI）：應用於復發風險高、但目前尚無任何原發疾病殘存證據階段的患者。通常，只要患者已停用免疫抑制劑且無 GVHD 約達 1 個月，預防性 DLI 會從移植後第 +90 天或第 +100 天開始給予。首次輸注所使用的 CD3+ 劑量取決於供者類型與時機，介於每公斤患者體重 1 × 10⁵ 至 1 × 10⁶ 之間（表 59.1）。在未發生 GvHD 的情況下，大多數團隊將預防性 DLI 作為單次輸注（single-shot）介入，但亦有重複施予 DLI 的報導（表 59.1；Tsirigotis et al. 2016; Jedlickova et al. 2016）。如同任何維持治療，必須正視預防性 DLI 在預防復發與毒性（即 GvHD）之間的平衡。因此，部分研究人員將 DLI 後的治療成功定義為「存活、無復發且不需為 GVHD 使用免疫抑制治療」（Eefting et al. 2016）。所需的最佳 DLI 次數與各次 DLI 之間的間隔時機仍有待進一步界定，且如前所述，可能取決於最初的移植方案。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900011,
+          "page": 535,
+          "en": "2. DLIs are administered preemptively, i.e., in case of persistent minimal residual disease (MRD) or when the first signs of relapse are observed, like MRD positivity or a decreasing donor chimerism. For persisting MRD, either the same initial cell dosages as for prophylactic DLI is used, followed by repetitive DLIs in 4–12 weeks’ intervals, using an escalated dose schedule and increasing the cell dosages by fivefold to tenfold at each infusion. Alternatively, fivefold to tenfold higher initial cell doses are used in the preemptive situation as compared to prophylaxis. A total of three to four DLIs may be administered, and subsequent infusions are mostly taken from the same apheresis as the first but are frozen in the previously planned dosages. Occurrence of GVHD after DLI will result in no further DLI administration. For reappearance of MRD or mixed chimerism, obviously timing of DLI depends on the occurrence of these circumstances.",
+          "zh": "2. 先發性／搶先性 DLI（Preemptive DLI）：在微量殘存疾病（MRD）持續存在，或觀察到復發的最初徵兆（例如 MRD 轉為陽性或供者嵌合率下降）時施予。針對持續存在的 MRD，可使用與預防性 DLI 相同的起始細胞劑量，隨後以 4–12 週的間隔重複施予 DLI，採劑量遞增排程（escalated dose schedule），每次輸注將細胞劑量調高 5 倍至 10 倍；或者，在先發治療情境下，也可直接使用比預防性 DLI 高出 5 倍至 10 倍的起始細胞劑量。總共可施予 3 至 4 次 DLI，後續輸注的細胞大多取自與第一次相同的白血球分離術產物，並事先依規劃好的遞增劑量分裝冷凍保存。若在 DLI 後發生 GVHD，則不再施予後續的 DLI。針對再度出現 MRD 或混合嵌合（mixed chimerism）的患者，DLI 的給藥時機顯然取決於這些狀況發生的時間點。",
+          "review": "ai-draft",
+          "endPage": 536
+        }
+      ]
+    },
+    {
+      "page": 536,
+      "blocks": [
+        {
+          "id": 5900012,
+          "page": 536,
+          "en": "3. For overt relapses, a combination of DLI with chemotherapy is mandatory (Schmid et al. 2012), and cell doses used in that situation are usually one order of magnitude higher than in the prophylactic or preemptive situation (1 × 10⁷/kg). In particular, in acute leukemia, DLI alone may not be the preferred strategy for treatment of relapse. Repetitive DLIs can be considered after overt relapses based, for example, on MRD positivity 6–8 weeks after DLI.",
+          "zh": "3. 顯性復發（Overt relapses）：針對顯性復發，將 DLI 與化療併用是必要的（Schmid et al. 2012），且在此情境下所使用的細胞劑量通常比預防性或先發性情境高出一個數量級（1 × 10⁷/kg）。特別是在急性白血病中，單獨使用 DLI 並非治療顯性復發的首選策略。在顯性復發接受治療後，若例如在 DLI 後 6–8 週時 MRD 仍為陽性，可考慮重複施予 DLI。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900013,
+          "page": 536,
+          "en": "59.2.3 Factors that May Influence Timing, Dosing, and Frequency of DLI\nDue to the great variabilities among different approaches and indications for DLI, a discussion of clinical outcome is beyond the scope of this summary. A comprehensive review has been performed recently (Schmid et al. 2021). Key factors with impact on clinical outcome are as follows:\n1. MRD: Six weekly scheduled DLI with escalating doses until the first signs of GVHD as described above might no longer be necessary in the era of molecular disease monitoring, as increased numbers of DLI associate with an increased incidence of GVHD (Yan et al. 2017). An MRD-driven strategy with more time between DLIs (8–12 weeks) might still allow for control of the hematological malignancy while avoiding long-term side effects like acute or chronic GVHD (Schmid et al. 2022).\n2. Underlying disease: The different underlying diseases might require different doses, considering their sensitivity to a DLI-mediated GVL effect. The relapse workshop of the National Cancer Institute has proposed an estimate of the sensitivity of different diseases to DLI (Alyea et al. 2010). Accordingly, sensitivity is regarded as high for CML, myelofibrosis, and low-grade NHL; as intermediate for AML, MDS, multiple myeloma, and Hodgkin’s disease, and as low for ALL and DLBCL.\n3. Donor origin: Dosage of DLI can under certain circumstances relate to the origin of the donor (Table 59.1). There is no consensus as to whether the dose between an unrelated and a related donor needs to differ. Similarly, cell doses in the haploidentical setting are unclear. More importantly and not well understood, but of greater impact, is most likely the processing of the DLI product with higher potency of freshly infused DLI when compared to frozen DLIs or DLIs used from the mobilized stem cell product due to different viabilities and compositions (Lemieux et al. 2016). However, a most recent meta-analysis showed no difference between a conventional and G-CSF-mobilized DLIs in the risk of all-cause mortality, though causes of mortality differed (Kirkham et al. 2022).\n4. Mechanism of immune escape: Beyond, the increasing understanding of mechanisms behind escape from the allogeneic immune surveillance in patients with increasing or fully developed post-transplant relapse might be relevant. Among others, the loss of mismatched HLA after haploidentical HCT (Vago et al. 2009) and the downregulation of the HLA machinery by other mechanisms in the HLA identical setting (Toffalori et al. 2019) are thought to influence both indication for and dosing of DLI.\n5. Balance of host antigen-presenting cells and immune and graft-versus-host status: As discussed in 59.1.3, different transplantation regimens can have different impact on the presence of host antigen-presenting cells, and additional immune repertoires present at the time point of DLI (de Witte et al. 2021b). Therefore, dosage and number of repetitions of DLI need to be placed within the context of a defined transplantation regimen. This includes type of T-cell depletion and conditioning (e.g., ATG or PTCY) as both can act on the presence of host dendritic cells and therefore impact efficacy and toxicity.\n6. Combination with other drugs: DLIs are used in many diseases in combination with specific drugs targeting molecular aberrations of the underlying malignancy and/or acting via immune-modulating activities. However, the early administration of lenalidomide after transplantation has been associated with a high incidence of GVHD (Kneppers et al. 2011), indicating that doses of DLI can also critically depend on the co-administration of drugs. Combinations with interferon-α and GM-CSF have also been reported as successful intervention to enhance the GVL effect (Dickinson et al. 2017). Other drugs currently explored are 5-azacytidine, HDAC inhibitors (Bug et al. 2017), and Flt3-inhibiting TKI (Mathew et al. 2018), and dosage as well as timing of combined DLIs might be guided by the experience from prophylactic and preemptive DLIs but need to be carefully monitored.",
+          "zh": "59.2.3 可能影響 DLI 時機、劑量與頻率的因素\n由於不同 DLI 方法與適應症之間存在極大變異，對臨床預後的詳細討論超出本摘要的範疇；近期已有一篇全面性的文獻回顧發表（Schmid et al. 2021）。影響臨床預後的關鍵因素如下：\n1. 微量殘存疾病（MRD）：在分子疾病監測的時代，如前所述「每 6 週排程遞增劑量施予 DLI 直到出現第一個 GVHD 徵兆為止」的做法可能已不再必要，因為增加 DLI 的輸注次數與較高的 GVHD 發生率相關（Yan et al. 2017）。採用以 MRD 導引、且拉長各次 DLI 間隔時間（8–12 週）的策略，仍能有效控制血液惡性疾病，同時避免如急性或慢性 GVHD 等長期副作用（Schmid et al. 2022）。\n2. 原發疾病（Underlying disease）：考量不同原發疾病對 DLI 介導之 GVL 效應的敏感度不同，所需的劑量也可能不同。美國國家癌症研究所（NCI）復發研討會曾提出不同疾病對 DLI 敏感度的評估分級（Alyea et al. 2010）：慢性骨髓性白血病（CML）、骨髓纖維化（myelofibrosis）與低惡性度非何杰金氏淋巴瘤（low-grade NHL）被視為對 DLI 具「高度敏感性」；AML、MDS、多發性骨髓瘤與何杰金氏病（Hodgkin’s disease）具「中度敏感性」；而 ALL 與瀰漫性大型 B 細胞淋巴瘤（DLBCL）則為「低度敏感性」。\n3. 供者來源與產品處理（Donor origin）：在某些情況下，DLI 的劑量與供者來源有關（表 59.1）。目前對於非親屬供者與親屬供者之間的劑量是否需要不同尚無絕對共識；同樣地，半相合情境下的最佳細胞劑量亦未完全明朗。更重要、雖尚未被完全了解但影響可能更大的，很可能是 DLI 產品的處理方式：由於細胞活性與組成的差異，新鮮輸注的 DLI 相較於冷凍解凍的 DLI 或取自經 G-CSF 動員之幹細胞產品的 DLI，可能具有更高的效力（Lemieux et al. 2016）。然而，最新的一項統合分析顯示，傳統穩態採集與經 G-CSF 動員的 DLI 在全因死亡風險上並無差異，儘管兩者的死因分布有所不同（Kirkham et al. 2022）。\n4. 免疫逃脫機制（Mechanism of immune escape）：此外，對於移植後疾病復發惡化或完全復發之患者，深入理解其逃避異體免疫監控的機制至關重要。其中，半相合 HCT 後發生的不相合 HLA 缺失（Vago et al. 2009），以及在 HLA 相合情境下透過其他機制造成的 HLA 呈獻機器下調（Toffalori et al. 2019），皆被認為會影響 DLI 的適應症選擇與劑量設定。\n5. 宿主抗原呈獻細胞、免疫狀態與移植物抗宿主狀態的平衡：如第 59.1.3 節所討論，不同的移植方案對施予 DLI 時間點時宿主抗原呈獻細胞的留存量以及額外存在的免疫受體庫會有不同的影響（de Witte et al. 2021b）。因此，DLI 的劑量與重複次數必須放在特定移植方案的脈絡下考量，這包括 T 細胞去除的類型與調理方案（例如使用 ATG 或 PTCY），因為兩者都會作用於宿主的樹突細胞，進而影響 DLI 的療效與毒性。\n6. 與其他藥物的併用：在許多疾病中，DLI 會與靶向原發惡性疾病分子異常及／或透過免疫調節活性發揮作用的特定藥物併用。然而，在移植後早期施予 lenalidomide 已證實與高發生率的 GVHD 相關（Kneppers et al. 2011），顯示 DLI 的安全劑量也會關鍵性地取決於所共同施予的藥物。與干擾素-α（interferon-α）及 GM-CSF 的併用亦曾被報導為能成功增強 GVL 效應的介入方式（Dickinson et al. 2017）。目前正在探索的其他併用藥物包括 5-azacytidine、組蛋白去乙醯酶（HDAC）抑制劑（Bug et al. 2017）以及抑制 FLT3 的酪胺酸激酶抑制劑（TKI）（Mathew et al. 2018）；併用 DLI 的劑量與時機可參考預防性與先發性 DLI 的經驗，但必須進行嚴密監測。",
+          "review": "ai-draft",
+          "endPage": 537
+        }
+      ]
+    },
+    {
+      "page": 537,
+      "blocks": [
+        {
+          "id": 5900014,
+          "page": 537,
+          "en": "59.3 Conclusion\nBased on these considerations, it is challenging to provide specific guidelines for dosing and timing of DLIs. A lack of consensus on how to precisely administer DLIs might generate, if carefully monitored, a unique opportunity to gain new insights into how DLIs need to be given. Strict institutional guidelines and rigorous reporting on details of DLI like processing, timing, dosing, intervals, and combination with immune-modulating drugs are therefore needed, and the new cellular therapy registry of EBMT is designed to allow for analysis of daily practice and its impact on clinical outcome in years to come.",
+          "zh": "59.3 結論\n基於上述考量，要為 DLI 的劑量與時機提供單一死板的具體指引極具挑戰性。目前對於如何精準施予 DLI 雖缺乏統一共識，但若能進行嚴密監測，反而可能創造出獨特的契機，讓我們對應該如何施予 DLI 獲得全新的見解。因此，建立嚴格的機構內部指引，並詳實記錄與通報 DLI 的各項細節（如產品處理方式、時機、劑量、間隔時間，以及與免疫調節藥物的併用情況）是必須的；而 EBMT 新建立的細胞治療登錄庫，正是為了在未來數年內能對這些日常臨床實務及其對臨床預後的影響進行深入分析而設計。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900015,
+          "page": 537,
+          "en": "Key Points\n• Naïve αβT-cell-host dendritic cell (DC) interaction is a key driver of immune responses.\n• The balance of naïve αβT cell and DC differs between different transplantation techniques after HCT and thus impacts most likely the dose of DLI that can be given at a certain time point after transplantation.\n• Dosage of DLI depends also on timing after HCT as over time host DCs are replaced by donor DC.\n• The underlying disease can determine efficacy as well as toxicity of a certain dose of DLI.",
+          "zh": "章末重點（Key Points）\n• 初始（naïve）αβT 細胞與宿主樹突細胞（DC）之間的交互作用，是驅動免疫反應的關鍵。\n• 不同的移植技術在 HCT 後所留下的初始 αβT 細胞與宿主 DC 平衡狀態各不相同，因此極可能會影響在移植後特定時間點所能安全施予的 DLI 劑量。\n• DLI 的劑量亦取決於距離 HCT 的時間長短，因為隨著時間推移，宿主的 DCs 會逐漸被供者的 DCs 所取代。\n• 原發疾病的種類會決定特定 DLI 劑量的療效以及毒性反應。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5900016,
+          "page": 537,
+          "en": "Admiraal R, Nierkens S, de Witte MA, Petersen EJ, Fleurke GJ, Verrest L, Belitser SV, Bredius RGM, Raymakers RAP, Knibbe CAJ, Minnema MC, van Kesteren C, Kuball J, Boelens JJ. Association between anti-thymocyte globulin exposure and survival outcomes in adult unrelated haemopoietic cell transplantation: a multicentre, retrospective, pharmacodynamic cohort analysis. Lancet Haematol. 2017;4:e183–91.",
+          "zh": "Admiraal R, Nierkens S, de Witte MA, Petersen EJ, Fleurke GJ, Verrest L, Belitser SV, Bredius RGM, Raymakers RAP, Knibbe CAJ, Minnema MC, van Kesteren C, Kuball J, Boelens JJ. Association between anti-thymocyte globulin exposure and survival outcomes in adult unrelated haemopoietic cell transplantation: a multicentre, retrospective, pharmacodynamic cohort analysis. Lancet Haematol. 2017;4:e183–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Admiraal%20R%2C%20Nierkens%20S%2C%20de%20Witte%20MA%2C%20Petersen%20EJ%2C%20Fleurke%20GJ%2C%20Verrest%20L%2C%20Belitser%20SV%2C%20Bredius%20RGM%2C%20Raymakers%20RAP%2C%20Knibbe%20CAJ%2C%20Minnema%20MC%2C%20van%20Kesteren%20C%2C%20Kuball%20J%2C%20Boelens%20JJ.%20Association%20between%20anti-thymocyte%20globulin%20exposure%20and%20survival%20outcomes%20in%20adult%20unrelated%20haemopoietic%20cell%20transplantation%3A%20a%20multicentre%2C%20retrospective%2C%20pharmacodynamic%20cohort%20analysis.%20Lancet%20Haematol.%202017%3B4%3Ae183%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Admiraal%20R%2C%20Nierkens%20S%2C%20de%20Witte%20MA%2C%20Petersen%20EJ%2C%20Fleurke%20GJ%2C%20Verrest%20L%2C%20Belitser%20SV%2C%20Bredius%20RGM%2C%20Raymakers%20RAP%2C%20Knibbe%20CAJ%2C%20Minnema%20MC%2C%20van%20Kesteren%20C%2C%20Kuball%20J%2C%20Boelens%20JJ.%20Association%20between%20anti-thymocyte%20globulin%20exposure%20and%20survival%20outcomes%20in%20adult%20unrelated%20haemopoietic%20cell%20transplantation%3A%20a%20multicentre%2C%20retrospective%2C%20pharmacodynamic%20cohort%20analysis.%20Lancet%20Haematol.%202017%3B4%3Ae183%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 5900017,
+          "page": 537,
+          "en": "Alyea EP, DeAngelo DJ, Moldrem J, Pagel JM, Przepiorka D, Sadelin M, Young JW, Giralt S, Bishop M, Riddell S. NCI first international workshop on the biology, prevention and treatment of relapse after allogeneic hematopoietic cell transplantation: report from the committee on prevention of relapse following allogeneic cell transplantation for hematologic malignancies. Biol Blood Marrow Transplant. 2010;16:1037–69.",
+          "zh": "Alyea EP, DeAngelo DJ, Moldrem J, Pagel JM, Przepiorka D, Sadelin M, Young JW, Giralt S, Bishop M, Riddell S. NCI first international workshop on the biology, prevention and treatment of relapse after allogeneic hematopoietic cell transplantation: report from the committee on prevention of relapse following allogeneic cell transplantation for hematologic malignancies. Biol Blood Marrow Transplant. 2010;16:1037–69.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Alyea%20EP%2C%20DeAngelo%20DJ%2C%20Moldrem%20J%2C%20Pagel%20JM%2C%20Przepiorka%20D%2C%20Sadelin%20M%2C%20Young%20JW%2C%20Giralt%20S%2C%20Bishop%20M%2C%20Riddell%20S.%20NCI%20first%20international%20workshop%20on%20the%20biology%2C%20prevention%20and%20treatment%20of%20relapse%20after%20allogeneic%20hematopoietic%20cell%20transplantation%3A%20report%20from%20the%20committee%20on%20prevention%20of%20relapse%20following%20allogeneic%20cell%20transplantation%20for%20hematologic%20malignancies.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%3A1037%E2%80%9369."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Alyea%20EP%2C%20DeAngelo%20DJ%2C%20Moldrem%20J%2C%20Pagel%20JM%2C%20Przepiorka%20D%2C%20Sadelin%20M%2C%20Young%20JW%2C%20Giralt%20S%2C%20Bishop%20M%2C%20Riddell%20S.%20NCI%20first%20international%20workshop%20on%20the%20biology%2C%20prevention%20and%20treatment%20of%20relapse%20after%20allogeneic%20hematopoietic%20cell%20transplantation%3A%20report%20from%20the%20committee%20on%20prevention%20of%20relapse%20following%20allogeneic%20cell%20transplantation%20for%20hematologic%20malignancies.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%3A1037%E2%80%9369."
+            }
+          ]
+        },
+        {
+          "id": 5900018,
+          "page": 537,
+          "en": "Bleakley M, Heimfeld S, Loeb KR, Jones LA, Chaney C, Seropian S, Gooley TA, Sommermeyer F, Riddell SR, Shlomchik WD. Outcomes of acute leukemia patients transplanted with naive T cell-depleted stem cell grafts. J Clin Invest. 2015;125:2677–89.",
+          "zh": "Bleakley M, Heimfeld S, Loeb KR, Jones LA, Chaney C, Seropian S, Gooley TA, Sommermeyer F, Riddell SR, Shlomchik WD. Outcomes of acute leukemia patients transplanted with naive T cell-depleted stem cell grafts. J Clin Invest. 2015;125:2677–89.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bleakley%20M%2C%20Heimfeld%20S%2C%20Loeb%20KR%2C%20Jones%20LA%2C%20Chaney%20C%2C%20Seropian%20S%2C%20Gooley%20TA%2C%20Sommermeyer%20F%2C%20Riddell%20SR%2C%20Shlomchik%20WD.%20Outcomes%20of%20acute%20leukemia%20patients%20transplanted%20with%20naive%20T%20cell-depleted%20stem%20cell%20grafts.%20J%20Clin%20Invest.%202015%3B125%3A2677%E2%80%9389."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bleakley%20M%2C%20Heimfeld%20S%2C%20Loeb%20KR%2C%20Jones%20LA%2C%20Chaney%20C%2C%20Seropian%20S%2C%20Gooley%20TA%2C%20Sommermeyer%20F%2C%20Riddell%20SR%2C%20Shlomchik%20WD.%20Outcomes%20of%20acute%20leukemia%20patients%20transplanted%20with%20naive%20T%20cell-depleted%20stem%20cell%20grafts.%20J%20Clin%20Invest.%202015%3B125%3A2677%E2%80%9389."
+            }
+          ]
+        },
+        {
+          "id": 5900019,
+          "page": 537,
+          "en": "Boelens JJ, Admiraal R, Kuball J, Nierkens S. Fine-tuning antithymocyte globulin dosing and harmonizing clinical trial design. J Clin Oncol. 2018;36:1175–6.",
+          "zh": "Boelens JJ, Admiraal R, Kuball J, Nierkens S. Fine-tuning antithymocyte globulin dosing and harmonizing clinical trial design. J Clin Oncol. 2018;36:1175–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Boelens%20JJ%2C%20Admiraal%20R%2C%20Kuball%20J%2C%20Nierkens%20S.%20Fine-tuning%20antithymocyte%20globulin%20dosing%20and%20harmonizing%20clinical%20trial%20design.%20J%20Clin%20Oncol.%202018%3B36%3A1175%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Boelens%20JJ%2C%20Admiraal%20R%2C%20Kuball%20J%2C%20Nierkens%20S.%20Fine-tuning%20antithymocyte%20globulin%20dosing%20and%20harmonizing%20clinical%20trial%20design.%20J%20Clin%20Oncol.%202018%3B36%3A1175%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5900020,
+          "page": 537,
+          "en": "Bug G, Burchert A, Wagner EM, Kroger N, Berg T, Guller S, Metzelder SK, Wolf A, Hunecke S, Bader P, Schetelig J, Serve H, Ottmann OG. Phase I/II study of the deacetylase inhibitor panobinostat after allogeneic stem cell transplantation in patients with high-risk MDS or AML (PANOBEST trial). Leukemia. 2017;31:2523–5.",
+          "zh": "Bug G, Burchert A, Wagner EM, Kroger N, Berg T, Guller S, Metzelder SK, Wolf A, Hunecke S, Bader P, Schetelig J, Serve H, Ottmann OG. Phase I/II study of the deacetylase inhibitor panobinostat after allogeneic stem cell transplantation in patients with high-risk MDS or AML (PANOBEST trial). Leukemia. 2017;31:2523–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bug%20G%2C%20Burchert%20A%2C%20Wagner%20EM%2C%20Kroger%20N%2C%20Berg%20T%2C%20Guller%20S%2C%20Metzelder%20SK%2C%20Wolf%20A%2C%20Hunecke%20S%2C%20Bader%20P%2C%20Schetelig%20J%2C%20Serve%20H%2C%20Ottmann%20OG.%20Phase%20I/II%20study%20of%20the%20deacetylase%20inhibitor%20panobinostat%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20high-risk%20MDS%20or%20AML%20%28PANOBEST%20trial%29.%20Leukemia.%202017%3B31%3A2523%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bug%20G%2C%20Burchert%20A%2C%20Wagner%20EM%2C%20Kroger%20N%2C%20Berg%20T%2C%20Guller%20S%2C%20Metzelder%20SK%2C%20Wolf%20A%2C%20Hunecke%20S%2C%20Bader%20P%2C%20Schetelig%20J%2C%20Serve%20H%2C%20Ottmann%20OG.%20Phase%20I/II%20study%20of%20the%20deacetylase%20inhibitor%20panobinostat%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20high-risk%20MDS%20or%20AML%20%28PANOBEST%20trial%29.%20Leukemia.%202017%3B31%3A2523%E2%80%935."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 538,
+      "blocks": [
+        {
+          "id": 5900021,
+          "page": 538,
+          "en": "de Koning C, Prockop S, van Roessel I, Kernan N, Klein E, Langenhorst J, Szanto C, Belderbos M, Bierings M, Boulad F, Bresters D, Cancio M, Curran K, Kollen W, O’Reilly R, Scaradavou A, Spitzer B, Versluijs B, Huitema A, Lindemans C, Nierkens S, Boelens JJ. CD4+ T-cell reconstitution predicts survival outcomes after acute graft-versus-host-disease: a dual-center validation. Blood. 2021;137:848–55.",
+          "zh": "de Koning C, Prockop S, van Roessel I, Kernan N, Klein E, Langenhorst J, Szanto C, Belderbos M, Bierings M, Boulad F, Bresters D, Cancio M, Curran K, Kollen W, O’Reilly R, Scaradavou A, Spitzer B, Versluijs B, Huitema A, Lindemans C, Nierkens S, Boelens JJ. CD4+ T-cell reconstitution predicts survival outcomes after acute graft-versus-host-disease: a dual-center validation. Blood. 2021;137:848–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Koning%20C%2C%20Prockop%20S%2C%20van%20Roessel%20I%2C%20Kernan%20N%2C%20Klein%20E%2C%20Langenhorst%20J%2C%20Szanto%20C%2C%20Belderbos%20M%2C%20Bierings%20M%2C%20Boulad%20F%2C%20Bresters%20D%2C%20Cancio%20M%2C%20Curran%20K%2C%20Kollen%20W%2C%20O%E2%80%99Reilly%20R%2C%20Scaradavou%20A%2C%20Spitzer%20B%2C%20Versluijs%20B%2C%20Huitema%20A%2C%20Lindemans%20C%2C%20Nierkens%20S%2C%20Boelens%20JJ.%20CD4%2B%20T-cell%20reconstitution%20predicts%20survival%20outcomes%20after%20acute%20graft-versus-host-disease%3A%20a%20dual-center%20validation.%20Blood.%202021%3B137%3A848%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Koning%20C%2C%20Prockop%20S%2C%20van%20Roessel%20I%2C%20Kernan%20N%2C%20Klein%20E%2C%20Langenhorst%20J%2C%20Szanto%20C%2C%20Belderbos%20M%2C%20Bierings%20M%2C%20Boulad%20F%2C%20Bresters%20D%2C%20Cancio%20M%2C%20Curran%20K%2C%20Kollen%20W%2C%20O%E2%80%99Reilly%20R%2C%20Scaradavou%20A%2C%20Spitzer%20B%2C%20Versluijs%20B%2C%20Huitema%20A%2C%20Lindemans%20C%2C%20Nierkens%20S%2C%20Boelens%20JJ.%20CD4%2B%20T-cell%20reconstitution%20predicts%20survival%20outcomes%20after%20acute%20graft-versus-host-disease%3A%20a%20dual-center%20validation.%20Blood.%202021%3B137%3A848%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 5900022,
+          "page": 538,
+          "en": "de Witte MA, Sarhan D, Davis Z, Felices M, Vallera DA, Hinderlie P, Curtsinger J, Cooley S, Wagner J, Kuball J, Miller JS. Early reconstitution of NK and gammadelta T cells and its implication for the design of post-transplant immunotherapy. Biol Blood Marrow Transplant. 2018;24:1152.",
+          "zh": "de Witte MA, Sarhan D, Davis Z, Felices M, Vallera DA, Hinderlie P, Curtsinger J, Cooley S, Wagner J, Kuball J, Miller JS. Early reconstitution of NK and gammadelta T cells and its implication for the design of post-transplant immunotherapy. Biol Blood Marrow Transplant. 2018;24:1152.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Witte%20MA%2C%20Sarhan%20D%2C%20Davis%20Z%2C%20Felices%20M%2C%20Vallera%20DA%2C%20Hinderlie%20P%2C%20Curtsinger%20J%2C%20Cooley%20S%2C%20Wagner%20J%2C%20Kuball%20J%2C%20Miller%20JS.%20Early%20reconstitution%20of%20NK%20and%20gammadelta%20T%20cells%20and%20its%20implication%20for%20the%20design%20of%20post-transplant%20immunotherapy.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A1152."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Witte%20MA%2C%20Sarhan%20D%2C%20Davis%20Z%2C%20Felices%20M%2C%20Vallera%20DA%2C%20Hinderlie%20P%2C%20Curtsinger%20J%2C%20Cooley%20S%2C%20Wagner%20J%2C%20Kuball%20J%2C%20Miller%20JS.%20Early%20reconstitution%20of%20NK%20and%20gammadelta%20T%20cells%20and%20its%20implication%20for%20the%20design%20of%20post-transplant%20immunotherapy.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A1152."
+            }
+          ]
+        },
+        {
+          "id": 5900023,
+          "page": 538,
+          "en": "de Witte MA, Janssen A, Nijssen K, Karaiskaki F, Swanenberg L, van Rhenen A, Admiraal R, van der Wagen L, Minnema MC, Petersen E, Raymakers RAP, Westinga K, Straetemans T, Halkes CJM, Boelens JJ, Kuball J. Alphabeta T-cell graft depletion for allogeneic HSCT in adults with hematological malignancies. Blood Adv. 2021a;5:240–9.",
+          "zh": "de Witte MA, Janssen A, Nijssen K, Karaiskaki F, Swanenberg L, van Rhenen A, Admiraal R, van der Wagen L, Minnema MC, Petersen E, Raymakers RAP, Westinga K, Straetemans T, Halkes CJM, Boelens JJ, Kuball J. Alphabeta T-cell graft depletion for allogeneic HSCT in adults with hematological malignancies. Blood Adv. 2021a;5:240–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Witte%20MA%2C%20Janssen%20A%2C%20Nijssen%20K%2C%20Karaiskaki%20F%2C%20Swanenberg%20L%2C%20van%20Rhenen%20A%2C%20Admiraal%20R%2C%20van%20der%20Wagen%20L%2C%20Minnema%20MC%2C%20Petersen%20E%2C%20Raymakers%20RAP%2C%20Westinga%20K%2C%20Straetemans%20T%2C%20Halkes%20CJM%2C%20Boelens%20JJ%2C%20Kuball%20J.%20Alphabeta%20T-cell%20graft%20depletion%20for%20allogeneic%20HSCT%20in%20adults%20with%20hematological%20malignancies.%20Blood%20Adv.%202021a%3B5%3A240%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Witte%20MA%2C%20Janssen%20A%2C%20Nijssen%20K%2C%20Karaiskaki%20F%2C%20Swanenberg%20L%2C%20van%20Rhenen%20A%2C%20Admiraal%20R%2C%20van%20der%20Wagen%20L%2C%20Minnema%20MC%2C%20Petersen%20E%2C%20Raymakers%20RAP%2C%20Westinga%20K%2C%20Straetemans%20T%2C%20Halkes%20CJM%2C%20Boelens%20JJ%2C%20Kuball%20J.%20Alphabeta%20T-cell%20graft%20depletion%20for%20allogeneic%20HSCT%20in%20adults%20with%20hematological%20malignancies.%20Blood%20Adv.%202021a%3B5%3A240%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5900024,
+          "page": 538,
+          "en": "de Witte M, Daenen LGM, van der Wagen L, van Rhenen A, Raymakers R, Westinga K, Kuball J. Allogeneic stem cell transplantation platforms with ex vivo and in vivo immune manipulations: count and adjust. Hemasphere. 2021b;5:e580.",
+          "zh": "de Witte M, Daenen LGM, van der Wagen L, van Rhenen A, Raymakers R, Westinga K, Kuball J. Allogeneic stem cell transplantation platforms with ex vivo and in vivo immune manipulations: count and adjust. Hemasphere. 2021b;5:e580.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Witte%20M%2C%20Daenen%20LGM%2C%20van%20der%20Wagen%20L%2C%20van%20Rhenen%20A%2C%20Raymakers%20R%2C%20Westinga%20K%2C%20Kuball%20J.%20Allogeneic%20stem%20cell%20transplantation%20platforms%20with%20ex%20vivo%20and%20in%20vivo%20immune%20manipulations%3A%20count%20and%20adjust.%20Hemasphere.%202021b%3B5%3Ae580."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Witte%20M%2C%20Daenen%20LGM%2C%20van%20der%20Wagen%20L%2C%20van%20Rhenen%20A%2C%20Raymakers%20R%2C%20Westinga%20K%2C%20Kuball%20J.%20Allogeneic%20stem%20cell%20transplantation%20platforms%20with%20ex%20vivo%20and%20in%20vivo%20immune%20manipulations%3A%20count%20and%20adjust.%20Hemasphere.%202021b%3B5%3Ae580."
+            }
+          ]
+        },
+        {
+          "id": 5900025,
+          "page": 538,
+          "en": "de Witte MA, Mooyaart LE, Hoogeboom JD, Chabannon C, Malard F, Ruggeri A, Kuball J. Activity of ex vivo graft and DLI engineering within the last decade increases, a survey from the EBMT cellular therapy & immunobiology working party. Bone Marrow Transplant. 2023;58:719–22.",
+          "zh": "de Witte MA, Mooyaart LE, Hoogeboom JD, Chabannon C, Malard F, Ruggeri A, Kuball J. Activity of ex vivo graft and DLI engineering within the last decade increases, a survey from the EBMT cellular therapy & immunobiology working party. Bone Marrow Transplant. 2023;58:719–22.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Witte%20MA%2C%20Mooyaart%20LE%2C%20Hoogeboom%20JD%2C%20Chabannon%20C%2C%20Malard%20F%2C%20Ruggeri%20A%2C%20Kuball%20J.%20Activity%20of%20ex%20vivo%20graft%20and%20DLI%20engineering%20within%20the%20last%20decade%20increases%2C%20a%20survey%20from%20the%20EBMT%20cellular%20therapy%20%26%20immunobiology%20working%20party.%20Bone%20Marrow%20Transplant.%202023%3B58%3A719%E2%80%9322."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Witte%20MA%2C%20Mooyaart%20LE%2C%20Hoogeboom%20JD%2C%20Chabannon%20C%2C%20Malard%20F%2C%20Ruggeri%20A%2C%20Kuball%20J.%20Activity%20of%20ex%20vivo%20graft%20and%20DLI%20engineering%20within%20the%20last%20decade%20increases%2C%20a%20survey%20from%20the%20EBMT%20cellular%20therapy%20%26%20immunobiology%20working%20party.%20Bone%20Marrow%20Transplant.%202023%3B58%3A719%E2%80%9322."
+            }
+          ]
+        },
+        {
+          "id": 5900026,
+          "page": 538,
+          "en": "Dickinson AM, Norden J, Li S, Hromadnikova I, Schmid C, Schmetzer H, Jochem-Kolb H. Graft-versus-leukemia effect following hematopoietic stem cell transplantation for leukemia. Front Immunol. 2017;8:496.",
+          "zh": "Dickinson AM, Norden J, Li S, Hromadnikova I, Schmid C, Schmetzer H, Jochem-Kolb H. Graft-versus-leukemia effect following hematopoietic stem cell transplantation for leukemia. Front Immunol. 2017;8:496.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dickinson%20AM%2C%20Norden%20J%2C%20Li%20S%2C%20Hromadnikova%20I%2C%20Schmid%20C%2C%20Schmetzer%20H%2C%20Jochem-Kolb%20H.%20Graft-versus-leukemia%20effect%20following%20hematopoietic%20stem%20cell%20transplantation%20for%20leukemia.%20Front%20Immunol.%202017%3B8%3A496."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dickinson%20AM%2C%20Norden%20J%2C%20Li%20S%2C%20Hromadnikova%20I%2C%20Schmid%20C%2C%20Schmetzer%20H%2C%20Jochem-Kolb%20H.%20Graft-versus-leukemia%20effect%20following%20hematopoietic%20stem%20cell%20transplantation%20for%20leukemia.%20Front%20Immunol.%202017%3B8%3A496."
+            }
+          ]
+        },
+        {
+          "id": 5900027,
+          "page": 538,
+          "en": "Eefting M, de Wreede LC, Halkes CJ, von dem Borne PA, Kersting S, Marijt EW, Veelken H, Putter H, Schetelig J, Falkenburg JH. Multi-state analysis illustrates treatment success after stem cell transplantation for acute myeloid leukemia followed by donor lymphocyte infusion. Haematologica. 2016;101:506–14.",
+          "zh": "Eefting M, de Wreede LC, Halkes CJ, von dem Borne PA, Kersting S, Marijt EW, Veelken H, Putter H, Schetelig J, Falkenburg JH. Multi-state analysis illustrates treatment success after stem cell transplantation for acute myeloid leukemia followed by donor lymphocyte infusion. Haematologica. 2016;101:506–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eefting%20M%2C%20de%20Wreede%20LC%2C%20Halkes%20CJ%2C%20von%20dem%20Borne%20PA%2C%20Kersting%20S%2C%20Marijt%20EW%2C%20Veelken%20H%2C%20Putter%20H%2C%20Schetelig%20J%2C%20Falkenburg%20JH.%20Multi-state%20analysis%20illustrates%20treatment%20success%20after%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20followed%20by%20donor%20lymphocyte%20infusion.%20Haematologica.%202016%3B101%3A506%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eefting%20M%2C%20de%20Wreede%20LC%2C%20Halkes%20CJ%2C%20von%20dem%20Borne%20PA%2C%20Kersting%20S%2C%20Marijt%20EW%2C%20Veelken%20H%2C%20Putter%20H%2C%20Schetelig%20J%2C%20Falkenburg%20JH.%20Multi-state%20analysis%20illustrates%20treatment%20success%20after%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20followed%20by%20donor%20lymphocyte%20infusion.%20Haematologica.%202016%3B101%3A506%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 5900028,
+          "page": 538,
+          "en": "Handgretinger R, Schilbach K. The potential role of gammadelta T cells after allogeneic HCT for leukemia. Blood. 2018;131:1063.",
+          "zh": "Handgretinger R, Schilbach K. The potential role of gammadelta T cells after allogeneic HCT for leukemia. Blood. 2018;131:1063.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Handgretinger%20R%2C%20Schilbach%20K.%20The%20potential%20role%20of%20gammadelta%20T%20cells%20after%20allogeneic%20HCT%20for%20leukemia.%20Blood.%202018%3B131%3A1063."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Handgretinger%20R%2C%20Schilbach%20K.%20The%20potential%20role%20of%20gammadelta%20T%20cells%20after%20allogeneic%20HCT%20for%20leukemia.%20Blood.%202018%3B131%3A1063."
+            }
+          ]
+        },
+        {
+          "id": 5900029,
+          "page": 538,
+          "en": "Jedlickova Z, Schmid C, Koenecke C, Hertenstein B, Baurmann H, Schwerdtfeger R, Tischer J, Kolb HJ, Schleuning M. Long-term results of adjuvant donor lymphocyte transfusion in AML after allogeneic stem cell transplantation. Bone Marrow Transplant. 2016;51:663–7.",
+          "zh": "Jedlickova Z, Schmid C, Koenecke C, Hertenstein B, Baurmann H, Schwerdtfeger R, Tischer J, Kolb HJ, Schleuning M. Long-term results of adjuvant donor lymphocyte transfusion in AML after allogeneic stem cell transplantation. Bone Marrow Transplant. 2016;51:663–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jedlickova%20Z%2C%20Schmid%20C%2C%20Koenecke%20C%2C%20Hertenstein%20B%2C%20Baurmann%20H%2C%20Schwerdtfeger%20R%2C%20Tischer%20J%2C%20Kolb%20HJ%2C%20Schleuning%20M.%20Long-term%20results%20of%20adjuvant%20donor%20lymphocyte%20transfusion%20in%20AML%20after%20allogeneic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202016%3B51%3A663%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jedlickova%20Z%2C%20Schmid%20C%2C%20Koenecke%20C%2C%20Hertenstein%20B%2C%20Baurmann%20H%2C%20Schwerdtfeger%20R%2C%20Tischer%20J%2C%20Kolb%20HJ%2C%20Schleuning%20M.%20Long-term%20results%20of%20adjuvant%20donor%20lymphocyte%20transfusion%20in%20AML%20after%20allogeneic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202016%3B51%3A663%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5900030,
+          "page": 538,
+          "en": "Kanakry CG, Coffey DG, Towlerton AM, Vulic A, Storer BE, Chou J, Yeung CC, Gocke CD, Robins HS, O’Donnell PV, Luznik L, Warren EH. Origin and evolution of the T cell repertoire after posttransplantation cyclophosphamide. JCI Insight. 2016;1:e86252.",
+          "zh": "Kanakry CG, Coffey DG, Towlerton AM, Vulic A, Storer BE, Chou J, Yeung CC, Gocke CD, Robins HS, O’Donnell PV, Luznik L, Warren EH. Origin and evolution of the T cell repertoire after posttransplantation cyclophosphamide. JCI Insight. 2016;1:e86252.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kanakry%20CG%2C%20Coffey%20DG%2C%20Towlerton%20AM%2C%20Vulic%20A%2C%20Storer%20BE%2C%20Chou%20J%2C%20Yeung%20CC%2C%20Gocke%20CD%2C%20Robins%20HS%2C%20O%E2%80%99Donnell%20PV%2C%20Luznik%20L%2C%20Warren%20EH.%20Origin%20and%20evolution%20of%20the%20T%20cell%20repertoire%20after%20posttransplantation%20cyclophosphamide.%20JCI%20Insight.%202016%3B1%3Ae86252."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kanakry%20CG%2C%20Coffey%20DG%2C%20Towlerton%20AM%2C%20Vulic%20A%2C%20Storer%20BE%2C%20Chou%20J%2C%20Yeung%20CC%2C%20Gocke%20CD%2C%20Robins%20HS%2C%20O%E2%80%99Donnell%20PV%2C%20Luznik%20L%2C%20Warren%20EH.%20Origin%20and%20evolution%20of%20the%20T%20cell%20repertoire%20after%20posttransplantation%20cyclophosphamide.%20JCI%20Insight.%202016%3B1%3Ae86252."
+            }
+          ]
+        },
+        {
+          "id": 5900031,
+          "page": 538,
+          "en": "Kirkham AM, Bailey AJM, Masurekar A, Shorr R, Bredeson C, Sabloff M, Allan DS. Can GCSF-stimulated donor lymphocyte infusions improve outcomes for relapsed disease following allogeneic hematopoietic cell transplantation? A systematic review and meta-analysis. Leuk Lymphoma. 2022;63:3276–87.",
+          "zh": "Kirkham AM, Bailey AJM, Masurekar A, Shorr R, Bredeson C, Sabloff M, Allan DS. Can GCSF-stimulated donor lymphocyte infusions improve outcomes for relapsed disease following allogeneic hematopoietic cell transplantation? A systematic review and meta-analysis. Leuk Lymphoma. 2022;63:3276–87.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kirkham%20AM%2C%20Bailey%20AJM%2C%20Masurekar%20A%2C%20Shorr%20R%2C%20Bredeson%20C%2C%20Sabloff%20M%2C%20Allan%20DS.%20Can%20GCSF-stimulated%20donor%20lymphocyte%20infusions%20improve%20outcomes%20for%20relapsed%20disease%20following%20allogeneic%20hematopoietic%20cell%20transplantation%3F%20A%20systematic%20review%20and%20meta-analysis.%20Leuk%20Lymphoma.%202022%3B63%3A3276%E2%80%9387."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kirkham%20AM%2C%20Bailey%20AJM%2C%20Masurekar%20A%2C%20Shorr%20R%2C%20Bredeson%20C%2C%20Sabloff%20M%2C%20Allan%20DS.%20Can%20GCSF-stimulated%20donor%20lymphocyte%20infusions%20improve%20outcomes%20for%20relapsed%20disease%20following%20allogeneic%20hematopoietic%20cell%20transplantation%3F%20A%20systematic%20review%20and%20meta-analysis.%20Leuk%20Lymphoma.%202022%3B63%3A3276%E2%80%9387."
+            }
+          ]
+        },
+        {
+          "id": 5900032,
+          "page": 538,
+          "en": "Kneppers E, van der Holt B, Kersten MJ, Zweegman S, Meijer E, Huls G, Cornelissen JJ, Janssen JJ, Huisman C, Cornelisse PB, Bruijnen CP, Emmelot M, Sonneveld P, Lokhorst HM, Mutis T, Minnema MC. Lenalidomide maintenance after nonmyeloablative allogeneic stem cell transplantation in multiple myeloma is not feasible: results of the HOVON 76 trial. Blood. 2011;118:2413–9.",
+          "zh": "Kneppers E, van der Holt B, Kersten MJ, Zweegman S, Meijer E, Huls G, Cornelissen JJ, Janssen JJ, Huisman C, Cornelisse PB, Bruijnen CP, Emmelot M, Sonneveld P, Lokhorst HM, Mutis T, Minnema MC. Lenalidomide maintenance after nonmyeloablative allogeneic stem cell transplantation in multiple myeloma is not feasible: results of the HOVON 76 trial. Blood. 2011;118:2413–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kneppers%20E%2C%20van%20der%20Holt%20B%2C%20Kersten%20MJ%2C%20Zweegman%20S%2C%20Meijer%20E%2C%20Huls%20G%2C%20Cornelissen%20JJ%2C%20Janssen%20JJ%2C%20Huisman%20C%2C%20Cornelisse%20PB%2C%20Bruijnen%20CP%2C%20Emmelot%20M%2C%20Sonneveld%20P%2C%20Lokhorst%20HM%2C%20Mutis%20T%2C%20Minnema%20MC.%20Lenalidomide%20maintenance%20after%20nonmyeloablative%20allogeneic%20stem%20cell%20transplantation%20in%20multiple%20myeloma%20is%20not%20feasible%3A%20results%20of%20the%20HOVON%2076%20trial.%20Blood.%202011%3B118%3A2413%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kneppers%20E%2C%20van%20der%20Holt%20B%2C%20Kersten%20MJ%2C%20Zweegman%20S%2C%20Meijer%20E%2C%20Huls%20G%2C%20Cornelissen%20JJ%2C%20Janssen%20JJ%2C%20Huisman%20C%2C%20Cornelisse%20PB%2C%20Bruijnen%20CP%2C%20Emmelot%20M%2C%20Sonneveld%20P%2C%20Lokhorst%20HM%2C%20Mutis%20T%2C%20Minnema%20MC.%20Lenalidomide%20maintenance%20after%20nonmyeloablative%20allogeneic%20stem%20cell%20transplantation%20in%20multiple%20myeloma%20is%20not%20feasible%3A%20results%20of%20the%20HOVON%2076%20trial.%20Blood.%202011%3B118%3A2413%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5900033,
+          "page": 538,
+          "en": "Laskowski TJ, Biederstadt A, Rezvani K. Natural killer cells in antitumour adoptive cell immunotherapy. Nat Rev Cancer. 2022;22:557–75.",
+          "zh": "Laskowski TJ, Biederstadt A, Rezvani K. Natural killer cells in antitumour adoptive cell immunotherapy. Nat Rev Cancer. 2022;22:557–75.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Laskowski%20TJ%2C%20Biederstadt%20A%2C%20Rezvani%20K.%20Natural%20killer%20cells%20in%20antitumour%20adoptive%20cell%20immunotherapy.%20Nat%20Rev%20Cancer.%202022%3B22%3A557%E2%80%9375."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Laskowski%20TJ%2C%20Biederstadt%20A%2C%20Rezvani%20K.%20Natural%20killer%20cells%20in%20antitumour%20adoptive%20cell%20immunotherapy.%20Nat%20Rev%20Cancer.%202022%3B22%3A557%E2%80%9375."
+            }
+          ]
+        },
+        {
+          "id": 5900034,
+          "page": 538,
+          "en": "Lemieux J, Jobin C, Simard C, Neron S. A global look into human T cell subsets before and after cryopreservation using multiparametric flow cytometry and two-dimensional visualization analysis. J Immunol Methods. 2016;434:73–82.",
+          "zh": "Lemieux J, Jobin C, Simard C, Neron S. A global look into human T cell subsets before and after cryopreservation using multiparametric flow cytometry and two-dimensional visualization analysis. J Immunol Methods. 2016;434:73–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lemieux%20J%2C%20Jobin%20C%2C%20Simard%20C%2C%20Neron%20S.%20A%20global%20look%20into%20human%20T%20cell%20subsets%20before%20and%20after%20cryopreservation%20using%20multiparametric%20flow%20cytometry%20and%20two-dimensional%20visualization%20analysis.%20J%20Immunol%20Methods.%202016%3B434%3A73%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lemieux%20J%2C%20Jobin%20C%2C%20Simard%20C%2C%20Neron%20S.%20A%20global%20look%20into%20human%20T%20cell%20subsets%20before%20and%20after%20cryopreservation%20using%20multiparametric%20flow%20cytometry%20and%20two-dimensional%20visualization%20analysis.%20J%20Immunol%20Methods.%202016%3B434%3A73%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 5900035,
+          "page": 538,
+          "en": "Li C, Zhou F, Wang J, Chang Q, Du M, Luo W, Zhang Y, Xu J, Tang L, Jiang H, Liu L, Kou H, Lu C, Liao D, Wu J, Wei Q, Ke S, Deng J, Liu C, Mei H, Hu Y. Novel CD19-specific gamma/delta TCR-T cells in relapsed or refractory diffuse large B-cell lymphoma. J Hematol Oncol. 2023;16:5.",
+          "zh": "Li C, Zhou F, Wang J, Chang Q, Du M, Luo W, Zhang Y, Xu J, Tang L, Jiang H, Liu L, Kou H, Lu C, Liao D, Wu J, Wei Q, Ke S, Deng J, Liu C, Mei H, Hu Y. Novel CD19-specific gamma/delta TCR-T cells in relapsed or refractory diffuse large B-cell lymphoma. J Hematol Oncol. 2023;16:5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Li%20C%2C%20Zhou%20F%2C%20Wang%20J%2C%20Chang%20Q%2C%20Du%20M%2C%20Luo%20W%2C%20Zhang%20Y%2C%20Xu%20J%2C%20Tang%20L%2C%20Jiang%20H%2C%20Liu%20L%2C%20Kou%20H%2C%20Lu%20C%2C%20Liao%20D%2C%20Wu%20J%2C%20Wei%20Q%2C%20Ke%20S%2C%20Deng%20J%2C%20Liu%20C%2C%20Mei%20H%2C%20Hu%20Y.%20Novel%20CD19-specific%20gamma/delta%20TCR-T%20cells%20in%20relapsed%20or%20refractory%20diffuse%20large%20B-cell%20lymphoma.%20J%20Hematol%20Oncol.%202023%3B16%3A5."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Li%20C%2C%20Zhou%20F%2C%20Wang%20J%2C%20Chang%20Q%2C%20Du%20M%2C%20Luo%20W%2C%20Zhang%20Y%2C%20Xu%20J%2C%20Tang%20L%2C%20Jiang%20H%2C%20Liu%20L%2C%20Kou%20H%2C%20Lu%20C%2C%20Liao%20D%2C%20Wu%20J%2C%20Wei%20Q%2C%20Ke%20S%2C%20Deng%20J%2C%20Liu%20C%2C%20Mei%20H%2C%20Hu%20Y.%20Novel%20CD19-specific%20gamma/delta%20TCR-T%20cells%20in%20relapsed%20or%20refractory%20diffuse%20large%20B-cell%20lymphoma.%20J%20Hematol%20Oncol.%202023%3B16%3A5."
+            }
+          ]
+        },
+        {
+          "id": 5900036,
+          "page": 538,
+          "en": "Liu E, Marin D, Banerjee P, Macapinlac HA, Thompson P, Basar R, Nassif Kerbauy L, Overman B, Thall P, Kaplan M, Nandivada V, Kaur I, Nunez Cortes A, Cao K, Daher M, Hosing C, Cohen EN, Kebriaei P, Mehta R, Neelapu S, Nieto Y, Wang M, Wierda W, Keating M, Champlin R, Shpall EJ, Rezvani K. Use of CAR-transduced natural killer cells in CD19-positive lymphoid tumors. N Engl J Med. 2020;382:545–53.",
+          "zh": "Liu E, Marin D, Banerjee P, Macapinlac HA, Thompson P, Basar R, Nassif Kerbauy L, Overman B, Thall P, Kaplan M, Nandivada V, Kaur I, Nunez Cortes A, Cao K, Daher M, Hosing C, Cohen EN, Kebriaei P, Mehta R, Neelapu S, Nieto Y, Wang M, Wierda W, Keating M, Champlin R, Shpall EJ, Rezvani K. Use of CAR-transduced natural killer cells in CD19-positive lymphoid tumors. N Engl J Med. 2020;382:545–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Liu%20E%2C%20Marin%20D%2C%20Banerjee%20P%2C%20Macapinlac%20HA%2C%20Thompson%20P%2C%20Basar%20R%2C%20Nassif%20Kerbauy%20L%2C%20Overman%20B%2C%20Thall%20P%2C%20Kaplan%20M%2C%20Nandivada%20V%2C%20Kaur%20I%2C%20Nunez%20Cortes%20A%2C%20Cao%20K%2C%20Daher%20M%2C%20Hosing%20C%2C%20Cohen%20EN%2C%20Kebriaei%20P%2C%20Mehta%20R%2C%20Neelapu%20S%2C%20Nieto%20Y%2C%20Wang%20M%2C%20Wierda%20W%2C%20Keating%20M%2C%20Champlin%20R%2C%20Shpall%20EJ%2C%20Rezvani%20K.%20Use%20of%20CAR-transduced%20natural%20killer%20cells%20in%20CD19-positive%20lymphoid%20tumors.%20N%20Engl%20J%20Med.%202020%3B382%3A545%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Liu%20E%2C%20Marin%20D%2C%20Banerjee%20P%2C%20Macapinlac%20HA%2C%20Thompson%20P%2C%20Basar%20R%2C%20Nassif%20Kerbauy%20L%2C%20Overman%20B%2C%20Thall%20P%2C%20Kaplan%20M%2C%20Nandivada%20V%2C%20Kaur%20I%2C%20Nunez%20Cortes%20A%2C%20Cao%20K%2C%20Daher%20M%2C%20Hosing%20C%2C%20Cohen%20EN%2C%20Kebriaei%20P%2C%20Mehta%20R%2C%20Neelapu%20S%2C%20Nieto%20Y%2C%20Wang%20M%2C%20Wierda%20W%2C%20Keating%20M%2C%20Champlin%20R%2C%20Shpall%20EJ%2C%20Rezvani%20K.%20Use%20of%20CAR-transduced%20natural%20killer%20cells%20in%20CD19-positive%20lymphoid%20tumors.%20N%20Engl%20J%20Med.%202020%3B382%3A545%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 5900037,
+          "page": 538,
+          "en": "Locatelli F, Merli P, Pagliara D, Li Pira G, Falco M, Pende D, Rondelli R, Lucarelli B, Brescia LP, Masetti R, Milano GM, Bertaina V, Algeri M, Pinto RM, Strocchio L, Meazza R, Grapulin L, Handgretinger R, Moretta A, Bertaina A, Moretta L. Outcome of children with acute leukemia given HLA-haploidentical HSCT after alphabeta T-cell and B-cell depletion. Blood. 2017;130:677–85.",
+          "zh": "Locatelli F, Merli P, Pagliara D, Li Pira G, Falco M, Pende D, Rondelli R, Lucarelli B, Brescia LP, Masetti R, Milano GM, Bertaina V, Algeri M, Pinto RM, Strocchio L, Meazza R, Grapulin L, Handgretinger R, Moretta A, Bertaina A, Moretta L. Outcome of children with acute leukemia given HLA-haploidentical HSCT after alphabeta T-cell and B-cell depletion. Blood. 2017;130:677–85.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Merli%20P%2C%20Pagliara%20D%2C%20Li%20Pira%20G%2C%20Falco%20M%2C%20Pende%20D%2C%20Rondelli%20R%2C%20Lucarelli%20B%2C%20Brescia%20LP%2C%20Masetti%20R%2C%20Milano%20GM%2C%20Bertaina%20V%2C%20Algeri%20M%2C%20Pinto%20RM%2C%20Strocchio%20L%2C%20Meazza%20R%2C%20Grapulin%20L%2C%20Handgretinger%20R%2C%20Moretta%20A%2C%20Bertaina%20A%2C%20Moretta%20L.%20Outcome%20of%20children%20with%20acute%20leukemia%20given%20HLA-haploidentical%20HSCT%20after%20alphabeta%20T-cell%20and%20B-cell%20depletion.%20Blood.%202017%3B130%3A677%E2%80%9385."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Merli%20P%2C%20Pagliara%20D%2C%20Li%20Pira%20G%2C%20Falco%20M%2C%20Pende%20D%2C%20Rondelli%20R%2C%20Lucarelli%20B%2C%20Brescia%20LP%2C%20Masetti%20R%2C%20Milano%20GM%2C%20Bertaina%20V%2C%20Algeri%20M%2C%20Pinto%20RM%2C%20Strocchio%20L%2C%20Meazza%20R%2C%20Grapulin%20L%2C%20Handgretinger%20R%2C%20Moretta%20A%2C%20Bertaina%20A%2C%20Moretta%20L.%20Outcome%20of%20children%20with%20acute%20leukemia%20given%20HLA-haploidentical%20HSCT%20after%20alphabeta%20T-cell%20and%20B-cell%20depletion.%20Blood.%202017%3B130%3A677%E2%80%9385."
+            }
+          ]
+        },
+        {
+          "id": 5900038,
+          "page": 538,
+          "en": "Malard F, Labopin M, Chevallier P, Guillaume T, Duquesne A, Rialland F, Derenne S, Peterlin P, Leaute AG, Brissot E, Gregoire M, Moreau P, Saas P, Gaugler B, Mohty M. Larger number of invariant natural killer T cells in PBSC allografts correlates with improved GVHD-free and progression-free survival. Blood. 2016;127:1828–35.",
+          "zh": "Malard F, Labopin M, Chevallier P, Guillaume T, Duquesne A, Rialland F, Derenne S, Peterlin P, Leaute AG, Brissot E, Gregoire M, Moreau P, Saas P, Gaugler B, Mohty M. Larger number of invariant natural killer T cells in PBSC allografts correlates with improved GVHD-free and progression-free survival. Blood. 2016;127:1828–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Malard%20F%2C%20Labopin%20M%2C%20Chevallier%20P%2C%20Guillaume%20T%2C%20Duquesne%20A%2C%20Rialland%20F%2C%20Derenne%20S%2C%20Peterlin%20P%2C%20Leaute%20AG%2C%20Brissot%20E%2C%20Gregoire%20M%2C%20Moreau%20P%2C%20Saas%20P%2C%20Gaugler%20B%2C%20Mohty%20M.%20Larger%20number%20of%20invariant%20natural%20killer%20T%20cells%20in%20PBSC%20allografts%20correlates%20with%20improved%20GVHD-free%20and%20progression-free%20survival.%20Blood.%202016%3B127%3A1828%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Malard%20F%2C%20Labopin%20M%2C%20Chevallier%20P%2C%20Guillaume%20T%2C%20Duquesne%20A%2C%20Rialland%20F%2C%20Derenne%20S%2C%20Peterlin%20P%2C%20Leaute%20AG%2C%20Brissot%20E%2C%20Gregoire%20M%2C%20Moreau%20P%2C%20Saas%20P%2C%20Gaugler%20B%2C%20Mohty%20M.%20Larger%20number%20of%20invariant%20natural%20killer%20T%20cells%20in%20PBSC%20allografts%20correlates%20with%20improved%20GVHD-free%20and%20progression-free%20survival.%20Blood.%202016%3B127%3A1828%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 5900039,
+          "page": 538,
+          "en": "Mathew NR, Baumgartner F, Braun L, O’Sullivan D, Thomas S, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018;24:282–91.",
+          "zh": "Mathew NR, Baumgartner F, Braun L, O’Sullivan D, Thomas S, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018;24:282–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20O%E2%80%99Sullivan%20D%2C%20Thomas%20S%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018%3B24%3A282%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20O%E2%80%99Sullivan%20D%2C%20Thomas%20S%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018%3B24%3A282%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 5900040,
+          "page": 538,
+          "en": "Maury S, Lemoine FM, Hicheri Y, Rosenzwajg M, Badoual C, Cherai M, Beaumont JL, Azar N, Dhedin N, Sirvent A, Buzyn A, Rubio MT, Vigouroux S, Montagne O, Bories D, Roudot-Thoraval F, Vernant JP, Cordonnier C, Klatzmann D, Cohen JL. CD4+CD25+ regulatory T cell depletion improves the graft-versus-tumor effect of donor lymphocytes after allogeneic hematopoietic stem cell transplantation. Sci Transl Med. 2010;2:41ra52.",
+          "zh": "Maury S, Lemoine FM, Hicheri Y, Rosenzwajg M, Badoual C, Cherai M, Beaumont JL, Azar N, Dhedin N, Sirvent A, Buzyn A, Rubio MT, Vigouroux S, Montagne O, Bories D, Roudot-Thoraval F, Vernant JP, Cordonnier C, Klatzmann D, Cohen JL. CD4+CD25+ regulatory T cell depletion improves the graft-versus-tumor effect of donor lymphocytes after allogeneic hematopoietic stem cell transplantation. Sci Transl Med. 2010;2:41ra52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maury%20S%2C%20Lemoine%20FM%2C%20Hicheri%20Y%2C%20Rosenzwajg%20M%2C%20Badoual%20C%2C%20Cherai%20M%2C%20Beaumont%20JL%2C%20Azar%20N%2C%20Dhedin%20N%2C%20Sirvent%20A%2C%20Buzyn%20A%2C%20Rubio%20MT%2C%20Vigouroux%20S%2C%20Montagne%20O%2C%20Bories%20D%2C%20Roudot-Thoraval%20F%2C%20Vernant%20JP%2C%20Cordonnier%20C%2C%20Klatzmann%20D%2C%20Cohen%20JL.%20CD4%2BCD25%2B%20regulatory%20T%20cell%20depletion%20improves%20the%20graft-versus-tumor%20effect%20of%20donor%20lymphocytes%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Sci%20Transl%20Med.%202010%3B2%3A41ra52."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maury%20S%2C%20Lemoine%20FM%2C%20Hicheri%20Y%2C%20Rosenzwajg%20M%2C%20Badoual%20C%2C%20Cherai%20M%2C%20Beaumont%20JL%2C%20Azar%20N%2C%20Dhedin%20N%2C%20Sirvent%20A%2C%20Buzyn%20A%2C%20Rubio%20MT%2C%20Vigouroux%20S%2C%20Montagne%20O%2C%20Bories%20D%2C%20Roudot-Thoraval%20F%2C%20Vernant%20JP%2C%20Cordonnier%20C%2C%20Klatzmann%20D%2C%20Cohen%20JL.%20CD4%2BCD25%2B%20regulatory%20T%20cell%20depletion%20improves%20the%20graft-versus-tumor%20effect%20of%20donor%20lymphocytes%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Sci%20Transl%20Med.%202010%3B2%3A41ra52."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 539,
+      "blocks": [
+        {
+          "id": 5900041,
+          "page": 539,
+          "en": "Mielcarek M, Furlong T, O’Donnell PV, Storer BE, McCune JS, Storb R, Carpenter PA, Flowers ME, Appelbaum FR, Martin PJ. Posttransplantation cyclophosphamide for prevention of graft-versus-host disease after HLA-matched mobilized blood cell transplantation. Blood. 2016;127:1502–8.",
+          "zh": "Mielcarek M, Furlong T, O’Donnell PV, Storer BE, McCune JS, Storb R, Carpenter PA, Flowers ME, Appelbaum FR, Martin PJ. Posttransplantation cyclophosphamide for prevention of graft-versus-host disease after HLA-matched mobilized blood cell transplantation. Blood. 2016;127:1502–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mielcarek%20M%2C%20Furlong%20T%2C%20O%E2%80%99Donnell%20PV%2C%20Storer%20BE%2C%20McCune%20JS%2C%20Storb%20R%2C%20Carpenter%20PA%2C%20Flowers%20ME%2C%20Appelbaum%20FR%2C%20Martin%20PJ.%20Posttransplantation%20cyclophosphamide%20for%20prevention%20of%20graft-versus-host%20disease%20after%20HLA-matched%20mobilized%20blood%20cell%20transplantation.%20Blood.%202016%3B127%3A1502%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mielcarek%20M%2C%20Furlong%20T%2C%20O%E2%80%99Donnell%20PV%2C%20Storer%20BE%2C%20McCune%20JS%2C%20Storb%20R%2C%20Carpenter%20PA%2C%20Flowers%20ME%2C%20Appelbaum%20FR%2C%20Martin%20PJ.%20Posttransplantation%20cyclophosphamide%20for%20prevention%20of%20graft-versus-host%20disease%20after%20HLA-matched%20mobilized%20blood%20cell%20transplantation.%20Blood.%202016%3B127%3A1502%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5900042,
+          "page": 539,
+          "en": "Nijssen K, Westinga K, Stuut A, Janssen A, van Rhenen A, van der Wagen L, Daenen LGM, Oostvogels R, de Witte MA, Kuball J. Graft engineering: how long can you wait, how low can you go, and pandemic readiness. Bone Marrow Transplant. 2023;58:820–2.",
+          "zh": "Nijssen K, Westinga K, Stuut A, Janssen A, van Rhenen A, van der Wagen L, Daenen LGM, Oostvogels R, de Witte MA, Kuball J. Graft engineering: how long can you wait, how low can you go, and pandemic readiness. Bone Marrow Transplant. 2023;58:820–2.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nijssen%20K%2C%20Westinga%20K%2C%20Stuut%20A%2C%20Janssen%20A%2C%20van%20Rhenen%20A%2C%20van%20der%20Wagen%20L%2C%20Daenen%20LGM%2C%20Oostvogels%20R%2C%20de%20Witte%20MA%2C%20Kuball%20J.%20Graft%20engineering%3A%20how%20long%20can%20you%20wait%2C%20how%20low%20can%20you%20go%2C%20and%20pandemic%20readiness.%20Bone%20Marrow%20Transplant.%202023%3B58%3A820%E2%80%932."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nijssen%20K%2C%20Westinga%20K%2C%20Stuut%20A%2C%20Janssen%20A%2C%20van%20Rhenen%20A%2C%20van%20der%20Wagen%20L%2C%20Daenen%20LGM%2C%20Oostvogels%20R%2C%20de%20Witte%20MA%2C%20Kuball%20J.%20Graft%20engineering%3A%20how%20long%20can%20you%20wait%2C%20how%20low%20can%20you%20go%2C%20and%20pandemic%20readiness.%20Bone%20Marrow%20Transplant.%202023%3B58%3A820%E2%80%932."
+            }
+          ]
+        },
+        {
+          "id": 5900043,
+          "page": 539,
+          "en": "Orr MT, Lanier LL. Natural killer cell education and tolerance. Cell. 2010;142:847–56.",
+          "zh": "Orr MT, Lanier LL. Natural killer cell education and tolerance. Cell. 2010;142:847–56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Orr%20MT%2C%20Lanier%20LL.%20Natural%20killer%20cell%20education%20and%20tolerance.%20Cell.%202010%3B142%3A847%E2%80%9356."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Orr%20MT%2C%20Lanier%20LL.%20Natural%20killer%20cell%20education%20and%20tolerance.%20Cell.%202010%3B142%3A847%E2%80%9356."
+            }
+          ]
+        },
+        {
+          "id": 5900044,
+          "page": 539,
+          "en": "Pasquini MC, Devine S, Mendizabal A, Baden LR, Wingard JR, Lazarus HM, Appelbaum FR, Keever-Taylor CA, Horowitz MM, Carter S, O’Reilly RJ, Soiffer RJ. Comparative outcomes of donor graft CD34+ selection and immune suppressive therapy as graft-versus-host disease prophylaxis for patients with acute myeloid leukemia in complete remission undergoing HLA-matched sibling allogeneic hematopoietic cell transplantation. J Clin Oncol. 2012;30:3194–201.",
+          "zh": "Pasquini MC, Devine S, Mendizabal A, Baden LR, Wingard JR, Lazarus HM, Appelbaum FR, Keever-Taylor CA, Horowitz MM, Carter S, O’Reilly RJ, Soiffer RJ. Comparative outcomes of donor graft CD34+ selection and immune suppressive therapy as graft-versus-host disease prophylaxis for patients with acute myeloid leukemia in complete remission undergoing HLA-matched sibling allogeneic hematopoietic cell transplantation. J Clin Oncol. 2012;30:3194–201.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pasquini%20MC%2C%20Devine%20S%2C%20Mendizabal%20A%2C%20Baden%20LR%2C%20Wingard%20JR%2C%20Lazarus%20HM%2C%20Appelbaum%20FR%2C%20Keever-Taylor%20CA%2C%20Horowitz%20MM%2C%20Carter%20S%2C%20O%E2%80%99Reilly%20RJ%2C%20Soiffer%20RJ.%20Comparative%20outcomes%20of%20donor%20graft%20CD34%2B%20selection%20and%20immune%20suppressive%20therapy%20as%20graft-versus-host%20disease%20prophylaxis%20for%20patients%20with%20acute%20myeloid%20leukemia%20in%20complete%20remission%20undergoing%20HLA-matched%20sibling%20allogeneic%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202012%3B30%3A3194%E2%80%93201."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pasquini%20MC%2C%20Devine%20S%2C%20Mendizabal%20A%2C%20Baden%20LR%2C%20Wingard%20JR%2C%20Lazarus%20HM%2C%20Appelbaum%20FR%2C%20Keever-Taylor%20CA%2C%20Horowitz%20MM%2C%20Carter%20S%2C%20O%E2%80%99Reilly%20RJ%2C%20Soiffer%20RJ.%20Comparative%20outcomes%20of%20donor%20graft%20CD34%2B%20selection%20and%20immune%20suppressive%20therapy%20as%20graft-versus-host%20disease%20prophylaxis%20for%20patients%20with%20acute%20myeloid%20leukemia%20in%20complete%20remission%20undergoing%20HLA-matched%20sibling%20allogeneic%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202012%3B30%3A3194%E2%80%93201."
+            }
+          ]
+        },
+        {
+          "id": 5900045,
+          "page": 539,
+          "en": "Ravens S, Schultze-Florey C, Raha S, Sandrock I, Drenker M, Oberdorfer L, Reinhardt A, Ravens I, Beck M, Geffers R, von Kaisenberg C, Heuser M, Thol F, Ganser A, Forster R, Koenecke C, Prinz I. Human gammadelta T cells are quickly reconstituted after stem-cell transplantation and show adaptive clonal expansion in response to viral infection. Nat Immunol. 2017;18:393–401.",
+          "zh": "Ravens S, Schultze-Florey C, Raha S, Sandrock I, Drenker M, Oberdorfer L, Reinhardt A, Ravens I, Beck M, Geffers R, von Kaisenberg C, Heuser M, Thol F, Ganser A, Forster R, Koenecke C, Prinz I. Human gammadelta T cells are quickly reconstituted after stem-cell transplantation and show adaptive clonal expansion in response to viral infection. Nat Immunol. 2017;18:393–401.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ravens%20S%2C%20Schultze-Florey%20C%2C%20Raha%20S%2C%20Sandrock%20I%2C%20Drenker%20M%2C%20Oberdorfer%20L%2C%20Reinhardt%20A%2C%20Ravens%20I%2C%20Beck%20M%2C%20Geffers%20R%2C%20von%20Kaisenberg%20C%2C%20Heuser%20M%2C%20Thol%20F%2C%20Ganser%20A%2C%20Forster%20R%2C%20Koenecke%20C%2C%20Prinz%20I.%20Human%20gammadelta%20T%20cells%20are%20quickly%20reconstituted%20after%20stem-cell%20transplantation%20and%20show%20adaptive%20clonal%20expansion%20in%20response%20to%20viral%20infection.%20Nat%20Immunol.%202017%3B18%3A393%E2%80%93401."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ravens%20S%2C%20Schultze-Florey%20C%2C%20Raha%20S%2C%20Sandrock%20I%2C%20Drenker%20M%2C%20Oberdorfer%20L%2C%20Reinhardt%20A%2C%20Ravens%20I%2C%20Beck%20M%2C%20Geffers%20R%2C%20von%20Kaisenberg%20C%2C%20Heuser%20M%2C%20Thol%20F%2C%20Ganser%20A%2C%20Forster%20R%2C%20Koenecke%20C%2C%20Prinz%20I.%20Human%20gammadelta%20T%20cells%20are%20quickly%20reconstituted%20after%20stem-cell%20transplantation%20and%20show%20adaptive%20clonal%20expansion%20in%20response%20to%20viral%20infection.%20Nat%20Immunol.%202017%3B18%3A393%E2%80%93401."
+            }
+          ]
+        },
+        {
+          "id": 5900046,
+          "page": 539,
+          "en": "Santoro N, Mooyaart JE, Devillier R, Koc Y, Vydra J, Castagna L, Gulbas Z, Martin JD, Araujo MC, Kulagin A, Arat M, Arroyo CH, Martelli MP, Di Ianni M, Hoogenboom JD, de Wreede LC, Ruggeri A, Chabannon C. Donor lymphocyte infusions after haploidentical stem cell transplantation with PTCY: a study on behalf of the EBMT cellular therapy & immunobiology working party. Bone Marrow Transplant. 2023;58:54–60.",
+          "zh": "Santoro N, Mooyaart JE, Devillier R, Koc Y, Vydra J, Castagna L, Gulbas Z, Martin JD, Araujo MC, Kulagin A, Arat M, Arroyo CH, Martelli MP, Di Ianni M, Hoogenboom JD, de Wreede LC, Ruggeri A, Chabannon C. Donor lymphocyte infusions after haploidentical stem cell transplantation with PTCY: a study on behalf of the EBMT cellular therapy & immunobiology working party. Bone Marrow Transplant. 2023;58:54–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Santoro%20N%2C%20Mooyaart%20JE%2C%20Devillier%20R%2C%20Koc%20Y%2C%20Vydra%20J%2C%20Castagna%20L%2C%20Gulbas%20Z%2C%20Martin%20JD%2C%20Araujo%20MC%2C%20Kulagin%20A%2C%20Arat%20M%2C%20Arroyo%20CH%2C%20Martelli%20MP%2C%20Di%20Ianni%20M%2C%20Hoogenboom%20JD%2C%20de%20Wreede%20LC%2C%20Ruggeri%20A%2C%20Chabannon%20C.%20Donor%20lymphocyte%20infusions%20after%20haploidentical%20stem%20cell%20transplantation%20with%20PTCY%3A%20a%20study%20on%20behalf%20of%20the%20EBMT%20cellular%20therapy%20%26%20immunobiology%20working%20party.%20Bone%20Marrow%20Transplant.%202023%3B58%3A54%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Santoro%20N%2C%20Mooyaart%20JE%2C%20Devillier%20R%2C%20Koc%20Y%2C%20Vydra%20J%2C%20Castagna%20L%2C%20Gulbas%20Z%2C%20Martin%20JD%2C%20Araujo%20MC%2C%20Kulagin%20A%2C%20Arat%20M%2C%20Arroyo%20CH%2C%20Martelli%20MP%2C%20Di%20Ianni%20M%2C%20Hoogenboom%20JD%2C%20de%20Wreede%20LC%2C%20Ruggeri%20A%2C%20Chabannon%20C.%20Donor%20lymphocyte%20infusions%20after%20haploidentical%20stem%20cell%20transplantation%20with%20PTCY%3A%20a%20study%20on%20behalf%20of%20the%20EBMT%20cellular%20therapy%20%26%20immunobiology%20working%20party.%20Bone%20Marrow%20Transplant.%202023%3B58%3A54%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 5900047,
+          "page": 539,
+          "en": "Scheper W, van Dorp S, Kersting S, Pietersma F, Lindemans C, Hol S, Heijhuurs S, Sebestyen Z, Grunder C, Marcu-Malina V, Marchant A, Donner C, Plachter B, Vermijlen D, van Baarle D, Kuball J. GammadeltaT cells elicited by CMV reactivation after allo-SCT cross-recognize CMV and leukemia. Leukemia. 2013;27:1328–38.",
+          "zh": "Scheper W, van Dorp S, Kersting S, Pietersma F, Lindemans C, Hol S, Heijhuurs S, Sebestyen Z, Grunder C, Marcu-Malina V, Marchant A, Donner C, Plachter B, Vermijlen D, van Baarle D, Kuball J. GammadeltaT cells elicited by CMV reactivation after allo-SCT cross-recognize CMV and leukemia. Leukemia. 2013;27:1328–38.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Scheper%20W%2C%20van%20Dorp%20S%2C%20Kersting%20S%2C%20Pietersma%20F%2C%20Lindemans%20C%2C%20Hol%20S%2C%20Heijhuurs%20S%2C%20Sebestyen%20Z%2C%20Grunder%20C%2C%20Marcu-Malina%20V%2C%20Marchant%20A%2C%20Donner%20C%2C%20Plachter%20B%2C%20Vermijlen%20D%2C%20van%20Baarle%20D%2C%20Kuball%20J.%20GammadeltaT%20cells%20elicited%20by%20CMV%20reactivation%20after%20allo-SCT%20cross-recognize%20CMV%20and%20leukemia.%20Leukemia.%202013%3B27%3A1328%E2%80%9338."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Scheper%20W%2C%20van%20Dorp%20S%2C%20Kersting%20S%2C%20Pietersma%20F%2C%20Lindemans%20C%2C%20Hol%20S%2C%20Heijhuurs%20S%2C%20Sebestyen%20Z%2C%20Grunder%20C%2C%20Marcu-Malina%20V%2C%20Marchant%20A%2C%20Donner%20C%2C%20Plachter%20B%2C%20Vermijlen%20D%2C%20van%20Baarle%20D%2C%20Kuball%20J.%20GammadeltaT%20cells%20elicited%20by%20CMV%20reactivation%20after%20allo-SCT%20cross-recognize%20CMV%20and%20leukemia.%20Leukemia.%202013%3B27%3A1328%E2%80%9338."
+            }
+          ]
+        },
+        {
+          "id": 5900048,
+          "page": 539,
+          "en": "Schmid C, Labopin M, Nagler A, Niederwieser D, Castagna L, Tabrizi R, Stadler M, Kuball J, Cornelissen J, Vorlicek J, Socie G, Falda M, Vindelov L, Ljungman P, Jackson G, Kroger N, Rank A, Polge E, Rocha V, Mohty M, Acute Leukaemia Working Party of the European Group for Bone and Marrow Transplantation. Treatment, risk factors, and outcome of adults with relapsed AML after reduced intensity conditioning for allogeneic stem cell transplantation. Blood. 2012;119:1599–606.",
+          "zh": "Schmid C, Labopin M, Nagler A, Niederwieser D, Castagna L, Tabrizi R, Stadler M, Kuball J, Cornelissen J, Vorlicek J, Socie G, Falda M, Vindelov L, Ljungman P, Jackson G, Kroger N, Rank A, Polge E, Rocha V, Mohty M, Acute Leukaemia Working Party of the European Group for Bone and Marrow Transplantation. Treatment, risk factors, and outcome of adults with relapsed AML after reduced intensity conditioning for allogeneic stem cell transplantation. Blood. 2012;119:1599–606.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmid%20C%2C%20Labopin%20M%2C%20Nagler%20A%2C%20Niederwieser%20D%2C%20Castagna%20L%2C%20Tabrizi%20R%2C%20Stadler%20M%2C%20Kuball%20J%2C%20Cornelissen%20J%2C%20Vorlicek%20J%2C%20Socie%20G%2C%20Falda%20M%2C%20Vindelov%20L%2C%20Ljungman%20P%2C%20Jackson%20G%2C%20Kroger%20N%2C%20Rank%20A%2C%20Polge%20E%2C%20Rocha%20V%2C%20Mohty%20M%2C%20Acute%20Leukaemia%20Working%20Party%20of%20the%20European%20Group%20for%20Bone%20and%20Marrow%20Transplantation.%20Treatment%2C%20risk%20factors%2C%20and%20outcome%20of%20adults%20with%20relapsed%20AML%20after%20reduced%20intensity%20conditioning%20for%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202012%3B119%3A1599%E2%80%93606."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmid%20C%2C%20Labopin%20M%2C%20Nagler%20A%2C%20Niederwieser%20D%2C%20Castagna%20L%2C%20Tabrizi%20R%2C%20Stadler%20M%2C%20Kuball%20J%2C%20Cornelissen%20J%2C%20Vorlicek%20J%2C%20Socie%20G%2C%20Falda%20M%2C%20Vindelov%20L%2C%20Ljungman%20P%2C%20Jackson%20G%2C%20Kroger%20N%2C%20Rank%20A%2C%20Polge%20E%2C%20Rocha%20V%2C%20Mohty%20M%2C%20Acute%20Leukaemia%20Working%20Party%20of%20the%20European%20Group%20for%20Bone%20and%20Marrow%20Transplantation.%20Treatment%2C%20risk%20factors%2C%20and%20outcome%20of%20adults%20with%20relapsed%20AML%20after%20reduced%20intensity%20conditioning%20for%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202012%3B119%3A1599%E2%80%93606."
+            }
+          ]
+        },
+        {
+          "id": 5900049,
+          "page": 539,
+          "en": "Schmid C, Kuball J, Bug G. Defining the role of donor lymphocyte infusion in high-risk hematologic malignancies. J Clin Oncol. 2021;39:397–418.",
+          "zh": "Schmid C, Kuball J, Bug G. Defining the role of donor lymphocyte infusion in high-risk hematologic malignancies. J Clin Oncol. 2021;39:397–418.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmid%20C%2C%20Kuball%20J%2C%20Bug%20G.%20Defining%20the%20role%20of%20donor%20lymphocyte%20infusion%20in%20high-risk%20hematologic%20malignancies.%20J%20Clin%20Oncol.%202021%3B39%3A397%E2%80%93418."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmid%20C%2C%20Kuball%20J%2C%20Bug%20G.%20Defining%20the%20role%20of%20donor%20lymphocyte%20infusion%20in%20high-risk%20hematologic%20malignancies.%20J%20Clin%20Oncol.%202021%3B39%3A397%E2%80%93418."
+            }
+          ]
+        },
+        {
+          "id": 5900050,
+          "page": 539,
+          "en": "Schmid C, Labopin M, Schaap N, Veelken H, Brecht A, Stadler M, Finke J, Baron F, Collin M, Bug G, Ljungman P, Blaise D, Tischer J, Bloor A, Kulagin A, Giebel S, Gorin NC, Esteve J, Ciceri F, Savani B, Nagler A, Mohty M. Long-term results and GvHD after prophylactic and preemptive donor lymphocyte infusion after allogeneic stem cell transplantation for acute leukemia. Bone Marrow Transplant. 2022;57:215–23.",
+          "zh": "Schmid C, Labopin M, Schaap N, Veelken H, Brecht A, Stadler M, Finke J, Baron F, Collin M, Bug G, Ljungman P, Blaise D, Tischer J, Bloor A, Kulagin A, Giebel S, Gorin NC, Esteve J, Ciceri F, Savani B, Nagler A, Mohty M. Long-term results and GvHD after prophylactic and preemptive donor lymphocyte infusion after allogeneic stem cell transplantation for acute leukemia. Bone Marrow Transplant. 2022;57:215–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmid%20C%2C%20Labopin%20M%2C%20Schaap%20N%2C%20Veelken%20H%2C%20Brecht%20A%2C%20Stadler%20M%2C%20Finke%20J%2C%20Baron%20F%2C%20Collin%20M%2C%20Bug%20G%2C%20Ljungman%20P%2C%20Blaise%20D%2C%20Tischer%20J%2C%20Bloor%20A%2C%20Kulagin%20A%2C%20Giebel%20S%2C%20Gorin%20NC%2C%20Esteve%20J%2C%20Ciceri%20F%2C%20Savani%20B%2C%20Nagler%20A%2C%20Mohty%20M.%20Long-term%20results%20and%20GvHD%20after%20prophylactic%20and%20preemptive%20donor%20lymphocyte%20infusion%20after%20allogeneic%20stem%20cell%20transplantation%20for%20acute%20leukemia.%20Bone%20Marrow%20Transplant.%202022%3B57%3A215%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmid%20C%2C%20Labopin%20M%2C%20Schaap%20N%2C%20Veelken%20H%2C%20Brecht%20A%2C%20Stadler%20M%2C%20Finke%20J%2C%20Baron%20F%2C%20Collin%20M%2C%20Bug%20G%2C%20Ljungman%20P%2C%20Blaise%20D%2C%20Tischer%20J%2C%20Bloor%20A%2C%20Kulagin%20A%2C%20Giebel%20S%2C%20Gorin%20NC%2C%20Esteve%20J%2C%20Ciceri%20F%2C%20Savani%20B%2C%20Nagler%20A%2C%20Mohty%20M.%20Long-term%20results%20and%20GvHD%20after%20prophylactic%20and%20preemptive%20donor%20lymphocyte%20infusion%20after%20allogeneic%20stem%20cell%20transplantation%20for%20acute%20leukemia.%20Bone%20Marrow%20Transplant.%202022%3B57%3A215%E2%80%9323."
+            }
+          ]
+        },
+        {
+          "id": 5900051,
+          "page": 539,
+          "en": "Sebestyen Z, Prinz I, Dechanet-Merville J, Silva-Santos B, Kuball J. Translating gammadelta (gammadelta) T cells and their receptors into cancer cell therapies. Nat Rev Drug Discov. 2020;19:169–84.",
+          "zh": "Sebestyen Z, Prinz I, Dechanet-Merville J, Silva-Santos B, Kuball J. Translating gammadelta (gammadelta) T cells and their receptors into cancer cell therapies. Nat Rev Drug Discov. 2020;19:169–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sebestyen%20Z%2C%20Prinz%20I%2C%20Dechanet-Merville%20J%2C%20Silva-Santos%20B%2C%20Kuball%20J.%20Translating%20gammadelta%20%28gammadelta%29%20T%20cells%20and%20their%20receptors%20into%20cancer%20cell%20therapies.%20Nat%20Rev%20Drug%20Discov.%202020%3B19%3A169%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sebestyen%20Z%2C%20Prinz%20I%2C%20Dechanet-Merville%20J%2C%20Silva-Santos%20B%2C%20Kuball%20J.%20Translating%20gammadelta%20%28gammadelta%29%20T%20cells%20and%20their%20receptors%20into%20cancer%20cell%20therapies.%20Nat%20Rev%20Drug%20Discov.%202020%3B19%3A169%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 5900052,
+          "page": 539,
+          "en": "Stenger EO, Turnquist HR, Mapara MY, Thomson AW. Dendritic cells and regulation of graft-versus-host disease and graft-versus-leukemia activity. Blood. 2012;119:5088–103.",
+          "zh": "Stenger EO, Turnquist HR, Mapara MY, Thomson AW. Dendritic cells and regulation of graft-versus-host disease and graft-versus-leukemia activity. Blood. 2012;119:5088–103.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Stenger%20EO%2C%20Turnquist%20HR%2C%20Mapara%20MY%2C%20Thomson%20AW.%20Dendritic%20cells%20and%20regulation%20of%20graft-versus-host%20disease%20and%20graft-versus-leukemia%20activity.%20Blood.%202012%3B119%3A5088%E2%80%93103."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Stenger%20EO%2C%20Turnquist%20HR%2C%20Mapara%20MY%2C%20Thomson%20AW.%20Dendritic%20cells%20and%20regulation%20of%20graft-versus-host%20disease%20and%20graft-versus-leukemia%20activity.%20Blood.%202012%3B119%3A5088%E2%80%93103."
+            }
+          ]
+        },
+        {
+          "id": 5900053,
+          "page": 539,
+          "en": "Suessmuth Y, Mukherjee R, Watkins B, Koura DT, Finstermeier K, Desmarais C, Stempora L, Horan JT, Langston A, Qayed M, Khoury HJ, Grizzle A, Cheeseman JA, Conger JA, Robertson J, Garrett A, Kirk AD, Waller EK, Blazar BR, Mehta AK, Robins HS, Kean LS. CMV reactivation drives posttransplant T-cell reconstitution and results in defects in the underlying TCRbeta repertoire. Blood. 2015;125:3835–50.",
+          "zh": "Suessmuth Y, Mukherjee R, Watkins B, Koura DT, Finstermeier K, Desmarais C, Stempora L, Horan JT, Langston A, Qayed M, Khoury HJ, Grizzle A, Cheeseman JA, Conger JA, Robertson J, Garrett A, Kirk AD, Waller EK, Blazar BR, Mehta AK, Robins HS, Kean LS. CMV reactivation drives posttransplant T-cell reconstitution and results in defects in the underlying TCRbeta repertoire. Blood. 2015;125:3835–50.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Suessmuth%20Y%2C%20Mukherjee%20R%2C%20Watkins%20B%2C%20Koura%20DT%2C%20Finstermeier%20K%2C%20Desmarais%20C%2C%20Stempora%20L%2C%20Horan%20JT%2C%20Langston%20A%2C%20Qayed%20M%2C%20Khoury%20HJ%2C%20Grizzle%20A%2C%20Cheeseman%20JA%2C%20Conger%20JA%2C%20Robertson%20J%2C%20Garrett%20A%2C%20Kirk%20AD%2C%20Waller%20EK%2C%20Blazar%20BR%2C%20Mehta%20AK%2C%20Robins%20HS%2C%20Kean%20LS.%20CMV%20reactivation%20drives%20posttransplant%20T-cell%20reconstitution%20and%20results%20in%20defects%20in%20the%20underlying%20TCRbeta%20repertoire.%20Blood.%202015%3B125%3A3835%E2%80%9350."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Suessmuth%20Y%2C%20Mukherjee%20R%2C%20Watkins%20B%2C%20Koura%20DT%2C%20Finstermeier%20K%2C%20Desmarais%20C%2C%20Stempora%20L%2C%20Horan%20JT%2C%20Langston%20A%2C%20Qayed%20M%2C%20Khoury%20HJ%2C%20Grizzle%20A%2C%20Cheeseman%20JA%2C%20Conger%20JA%2C%20Robertson%20J%2C%20Garrett%20A%2C%20Kirk%20AD%2C%20Waller%20EK%2C%20Blazar%20BR%2C%20Mehta%20AK%2C%20Robins%20HS%2C%20Kean%20LS.%20CMV%20reactivation%20drives%20posttransplant%20T-cell%20reconstitution%20and%20results%20in%20defects%20in%20the%20underlying%20TCRbeta%20repertoire.%20Blood.%202015%3B125%3A3835%E2%80%9350."
+            }
+          ]
+        },
+        {
+          "id": 5900054,
+          "page": 539,
+          "en": "Toffalori C, Zito L, Gambacorta V, Riba M, Oliveira G, Bucci G, Barcella M, Spinelli O, Greco R, Crucitti L, Cieri N, Noviello M, Manfredi F, Montaldo E, Ostuni R, Naldini MM, Gentner B, Waterhouse M, Zeiser R, Finke J, Hanoun M, Beelen DW, Gojo I, Luznik L, Onozawa M, Teshima T, Devillier R, Blaise D, Halkes CJM, Griffioen M, Carrabba MG, Bernardi M, Peccatori J, Barlassina C, Stupka E, Lazarevic D, Tonon G, Rambaldi A, Cittaro D, Bonini C, Fleischhauer K, Ciceri F, Vago L. Immune signature drives leukemia escape and relapse after hematopoietic cell transplantation. Nat Med. 2019;25:603–11.",
+          "zh": "Toffalori C, Zito L, Gambacorta V, Riba M, Oliveira G, Bucci G, Barcella M, Spinelli O, Greco R, Crucitti L, Cieri N, Noviello M, Manfredi F, Montaldo E, Ostuni R, Naldini MM, Gentner B, Waterhouse M, Zeiser R, Finke J, Hanoun M, Beelen DW, Gojo I, Luznik L, Onozawa M, Teshima T, Devillier R, Blaise D, Halkes CJM, Griffioen M, Carrabba MG, Bernardi M, Peccatori J, Barlassina C, Stupka E, Lazarevic D, Tonon G, Rambaldi A, Cittaro D, Bonini C, Fleischhauer K, Ciceri F, Vago L. Immune signature drives leukemia escape and relapse after hematopoietic cell transplantation. Nat Med. 2019;25:603–11.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Toffalori%20C%2C%20Zito%20L%2C%20Gambacorta%20V%2C%20Riba%20M%2C%20Oliveira%20G%2C%20Bucci%20G%2C%20Barcella%20M%2C%20Spinelli%20O%2C%20Greco%20R%2C%20Crucitti%20L%2C%20Cieri%20N%2C%20Noviello%20M%2C%20Manfredi%20F%2C%20Montaldo%20E%2C%20Ostuni%20R%2C%20Naldini%20MM%2C%20Gentner%20B%2C%20Waterhouse%20M%2C%20Zeiser%20R%2C%20Finke%20J%2C%20Hanoun%20M%2C%20Beelen%20DW%2C%20Gojo%20I%2C%20Luznik%20L%2C%20Onozawa%20M%2C%20Teshima%20T%2C%20Devillier%20R%2C%20Blaise%20D%2C%20Halkes%20CJM%2C%20Griffioen%20M%2C%20Carrabba%20MG%2C%20Bernardi%20M%2C%20Peccatori%20J%2C%20Barlassina%20C%2C%20Stupka%20E%2C%20Lazarevic%20D%2C%20Tonon%20G%2C%20Rambaldi%20A%2C%20Cittaro%20D%2C%20Bonini%20C%2C%20Fleischhauer%20K%2C%20Ciceri%20F%2C%20Vago%20L.%20Immune%20signature%20drives%20leukemia%20escape%20and%20relapse%20after%20hematopoietic%20cell%20transplantation.%20Nat%20Med.%202019%3B25%3A603%E2%80%9311."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Toffalori%20C%2C%20Zito%20L%2C%20Gambacorta%20V%2C%20Riba%20M%2C%20Oliveira%20G%2C%20Bucci%20G%2C%20Barcella%20M%2C%20Spinelli%20O%2C%20Greco%20R%2C%20Crucitti%20L%2C%20Cieri%20N%2C%20Noviello%20M%2C%20Manfredi%20F%2C%20Montaldo%20E%2C%20Ostuni%20R%2C%20Naldini%20MM%2C%20Gentner%20B%2C%20Waterhouse%20M%2C%20Zeiser%20R%2C%20Finke%20J%2C%20Hanoun%20M%2C%20Beelen%20DW%2C%20Gojo%20I%2C%20Luznik%20L%2C%20Onozawa%20M%2C%20Teshima%20T%2C%20Devillier%20R%2C%20Blaise%20D%2C%20Halkes%20CJM%2C%20Griffioen%20M%2C%20Carrabba%20MG%2C%20Bernardi%20M%2C%20Peccatori%20J%2C%20Barlassina%20C%2C%20Stupka%20E%2C%20Lazarevic%20D%2C%20Tonon%20G%2C%20Rambaldi%20A%2C%20Cittaro%20D%2C%20Bonini%20C%2C%20Fleischhauer%20K%2C%20Ciceri%20F%2C%20Vago%20L.%20Immune%20signature%20drives%20leukemia%20escape%20and%20relapse%20after%20hematopoietic%20cell%20transplantation.%20Nat%20Med.%202019%3B25%3A603%E2%80%9311."
+            }
+          ]
+        },
+        {
+          "id": 5900055,
+          "page": 539,
+          "en": "Tsirigotis P, Byrne M, Schmid C, Baron F, Ciceri F, Esteve J, Gorin NC, Giebel S, Mohty M, Savani BN, Nagler A. Relapse of AML after hematopoietic stem cell transplantation: methods of monitoring and preventive strategies. A review from the ALWP of the EBMT. Bone Marrow Transplant. 2016;51:1431–8.",
+          "zh": "Tsirigotis P, Byrne M, Schmid C, Baron F, Ciceri F, Esteve J, Gorin NC, Giebel S, Mohty M, Savani BN, Nagler A. Relapse of AML after hematopoietic stem cell transplantation: methods of monitoring and preventive strategies. A review from the ALWP of the EBMT. Bone Marrow Transplant. 2016;51:1431–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tsirigotis%20P%2C%20Byrne%20M%2C%20Schmid%20C%2C%20Baron%20F%2C%20Ciceri%20F%2C%20Esteve%20J%2C%20Gorin%20NC%2C%20Giebel%20S%2C%20Mohty%20M%2C%20Savani%20BN%2C%20Nagler%20A.%20Relapse%20of%20AML%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20methods%20of%20monitoring%20and%20preventive%20strategies.%20A%20review%20from%20the%20ALWP%20of%20the%20EBMT.%20Bone%20Marrow%20Transplant.%202016%3B51%3A1431%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tsirigotis%20P%2C%20Byrne%20M%2C%20Schmid%20C%2C%20Baron%20F%2C%20Ciceri%20F%2C%20Esteve%20J%2C%20Gorin%20NC%2C%20Giebel%20S%2C%20Mohty%20M%2C%20Savani%20BN%2C%20Nagler%20A.%20Relapse%20of%20AML%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20methods%20of%20monitoring%20and%20preventive%20strategies.%20A%20review%20from%20the%20ALWP%20of%20the%20EBMT.%20Bone%20Marrow%20Transplant.%202016%3B51%3A1431%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5900056,
+          "page": 539,
+          "en": "Vago L, Perna SK, Zanussi M, Mazzi B, Barlassina C, Stanghellini MT, Perrelli NF, Cosentino C, Torri F, Angius A, Forno B, Casucci M, Bernardi M, Peccatori J, Corti C, Bondanza A, Ferrari M, Rossini S, Roncarolo MG, Bordignon C, Bonini C, Ciceri F, Fleischhauer K. Loss of mismatched HLA in leukemia after stem-cell transplantation. N Engl J Med. 2009;361:478–88.",
+          "zh": "Vago L, Perna SK, Zanussi M, Mazzi B, Barlassina C, Stanghellini MT, Perrelli NF, Cosentino C, Torri F, Angius A, Forno B, Casucci M, Bernardi M, Peccatori J, Corti C, Bondanza A, Ferrari M, Rossini S, Roncarolo MG, Bordignon C, Bonini C, Ciceri F, Fleischhauer K. Loss of mismatched HLA in leukemia after stem-cell transplantation. N Engl J Med. 2009;361:478–88.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vago%20L%2C%20Perna%20SK%2C%20Zanussi%20M%2C%20Mazzi%20B%2C%20Barlassina%20C%2C%20Stanghellini%20MT%2C%20Perrelli%20NF%2C%20Cosentino%20C%2C%20Torri%20F%2C%20Angius%20A%2C%20Forno%20B%2C%20Casucci%20M%2C%20Bernardi%20M%2C%20Peccatori%20J%2C%20Corti%20C%2C%20Bondanza%20A%2C%20Ferrari%20M%2C%20Rossini%20S%2C%20Roncarolo%20MG%2C%20Bordignon%20C%2C%20Bonini%20C%2C%20Ciceri%20F%2C%20Fleischhauer%20K.%20Loss%20of%20mismatched%20HLA%20in%20leukemia%20after%20stem-cell%20transplantation.%20N%20Engl%20J%20Med.%202009%3B361%3A478%E2%80%9388."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vago%20L%2C%20Perna%20SK%2C%20Zanussi%20M%2C%20Mazzi%20B%2C%20Barlassina%20C%2C%20Stanghellini%20MT%2C%20Perrelli%20NF%2C%20Cosentino%20C%2C%20Torri%20F%2C%20Angius%20A%2C%20Forno%20B%2C%20Casucci%20M%2C%20Bernardi%20M%2C%20Peccatori%20J%2C%20Corti%20C%2C%20Bondanza%20A%2C%20Ferrari%20M%2C%20Rossini%20S%2C%20Roncarolo%20MG%2C%20Bordignon%20C%2C%20Bonini%20C%2C%20Ciceri%20F%2C%20Fleischhauer%20K.%20Loss%20of%20mismatched%20HLA%20in%20leukemia%20after%20stem-cell%20transplantation.%20N%20Engl%20J%20Med.%202009%3B361%3A478%E2%80%9388."
+            }
+          ]
+        },
+        {
+          "id": 5900057,
+          "page": 539,
+          "en": "van Bergen CA, van Luxemburg-Heijs SA, de Wreede LC, Eefting M, von dem Borne PA, van Balen P, Heemskerk MH, Mulder A, Claas FH, Navarrete MA, Honders WM, Rutten CE, Veelken H, Jedema I, Halkes CJ, Griffioen M, Falkenburg JH. Selective graft-versus-leukemia depends on magnitude and diversity of the alloreactive T cell response. J Clin Invest. 2017;127:517–29.",
+          "zh": "van Bergen CA, van Luxemburg-Heijs SA, de Wreede LC, Eefting M, von dem Borne PA, van Balen P, Heemskerk MH, Mulder A, Claas FH, Navarrete MA, Honders WM, Rutten CE, Veelken H, Jedema I, Halkes CJ, Griffioen M, Falkenburg JH. Selective graft-versus-leukemia depends on magnitude and diversity of the alloreactive T cell response. J Clin Invest. 2017;127:517–29.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=van%20Bergen%20CA%2C%20van%20Luxemburg-Heijs%20SA%2C%20de%20Wreede%20LC%2C%20Eefting%20M%2C%20von%20dem%20Borne%20PA%2C%20van%20Balen%20P%2C%20Heemskerk%20MH%2C%20Mulder%20A%2C%20Claas%20FH%2C%20Navarrete%20MA%2C%20Honders%20WM%2C%20Rutten%20CE%2C%20Veelken%20H%2C%20Jedema%20I%2C%20Halkes%20CJ%2C%20Griffioen%20M%2C%20Falkenburg%20JH.%20Selective%20graft-versus-leukemia%20depends%20on%20magnitude%20and%20diversity%20of%20the%20alloreactive%20T%20cell%20response.%20J%20Clin%20Invest.%202017%3B127%3A517%E2%80%9329."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=van%20Bergen%20CA%2C%20van%20Luxemburg-Heijs%20SA%2C%20de%20Wreede%20LC%2C%20Eefting%20M%2C%20von%20dem%20Borne%20PA%2C%20van%20Balen%20P%2C%20Heemskerk%20MH%2C%20Mulder%20A%2C%20Claas%20FH%2C%20Navarrete%20MA%2C%20Honders%20WM%2C%20Rutten%20CE%2C%20Veelken%20H%2C%20Jedema%20I%2C%20Halkes%20CJ%2C%20Griffioen%20M%2C%20Falkenburg%20JH.%20Selective%20graft-versus-leukemia%20depends%20on%20magnitude%20and%20diversity%20of%20the%20alloreactive%20T%20cell%20response.%20J%20Clin%20Invest.%202017%3B127%3A517%E2%80%9329."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 540,
+      "blocks": [
+        {
+          "id": 5900058,
+          "page": 540,
+          "en": "van der Zouwen B, Koster EAS, von dem Borne PA, Oosten LEM, Roza-Scholten MWI, Snijders TJF, van Lammeren D, van Balen P, Marijt WAF, Veelken H, Falkenburg JHF, de Wreede LC, Halkes CJM. Feasibility, safety, and efficacy of early prophylactic donor lymphocyte infusion after T cell-depleted allogeneic stem cell transplantation in acute leukemia patients. Ann Hematol. 2023;102:1203–13.",
+          "zh": "van der Zouwen B, Koster EAS, von dem Borne PA, Oosten LEM, Roza-Scholten MWI, Snijders TJF, van Lammeren D, van Balen P, Marijt WAF, Veelken H, Falkenburg JHF, de Wreede LC, Halkes CJM. Feasibility, safety, and efficacy of early prophylactic donor lymphocyte infusion after T cell-depleted allogeneic stem cell transplantation in acute leukemia patients. Ann Hematol. 2023;102:1203–13.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=van%20der%20Zouwen%20B%2C%20Koster%20EAS%2C%20von%20dem%20Borne%20PA%2C%20Oosten%20LEM%2C%20Roza-Scholten%20MWI%2C%20Snijders%20TJF%2C%20van%20Lammeren%20D%2C%20van%20Balen%20P%2C%20Marijt%20WAF%2C%20Veelken%20H%2C%20Falkenburg%20JHF%2C%20de%20Wreede%20LC%2C%20Halkes%20CJM.%20Feasibility%2C%20safety%2C%20and%20efficacy%20of%20early%20prophylactic%20donor%20lymphocyte%20infusion%20after%20T%20cell-depleted%20allogeneic%20stem%20cell%20transplantation%20in%20acute%20leukemia%20patients.%20Ann%20Hematol.%202023%3B102%3A1203%E2%80%9313."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=van%20der%20Zouwen%20B%2C%20Koster%20EAS%2C%20von%20dem%20Borne%20PA%2C%20Oosten%20LEM%2C%20Roza-Scholten%20MWI%2C%20Snijders%20TJF%2C%20van%20Lammeren%20D%2C%20van%20Balen%20P%2C%20Marijt%20WAF%2C%20Veelken%20H%2C%20Falkenburg%20JHF%2C%20de%20Wreede%20LC%2C%20Halkes%20CJM.%20Feasibility%2C%20safety%2C%20and%20efficacy%20of%20early%20prophylactic%20donor%20lymphocyte%20infusion%20after%20T%20cell-depleted%20allogeneic%20stem%20cell%20transplantation%20in%20acute%20leukemia%20patients.%20Ann%20Hematol.%202023%3B102%3A1203%E2%80%9313."
+            }
+          ]
+        },
+        {
+          "id": 5900059,
+          "page": 540,
+          "en": "van Heijst JW, Ceberio I, Lipuma LB, Samilo DW, Wasilewski GD, Gonzales AM, Nieves JL, van den Brink MR, Perales MA, Pamer EG. Quantitative assessment of T cell repertoire recovery after hematopoietic stem cell transplantation. Nat Med. 2013;19:372–7.",
+          "zh": "van Heijst JW, Ceberio I, Lipuma LB, Samilo DW, Wasilewski GD, Gonzales AM, Nieves JL, van den Brink MR, Perales MA, Pamer EG. Quantitative assessment of T cell repertoire recovery after hematopoietic stem cell transplantation. Nat Med. 2013;19:372–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=van%20Heijst%20JW%2C%20Ceberio%20I%2C%20Lipuma%20LB%2C%20Samilo%20DW%2C%20Wasilewski%20GD%2C%20Gonzales%20AM%2C%20Nieves%20JL%2C%20van%20den%20Brink%20MR%2C%20Perales%20MA%2C%20Pamer%20EG.%20Quantitative%20assessment%20of%20T%20cell%20repertoire%20recovery%20after%20hematopoietic%20stem%20cell%20transplantation.%20Nat%20Med.%202013%3B19%3A372%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=van%20Heijst%20JW%2C%20Ceberio%20I%2C%20Lipuma%20LB%2C%20Samilo%20DW%2C%20Wasilewski%20GD%2C%20Gonzales%20AM%2C%20Nieves%20JL%2C%20van%20den%20Brink%20MR%2C%20Perales%20MA%2C%20Pamer%20EG.%20Quantitative%20assessment%20of%20T%20cell%20repertoire%20recovery%20after%20hematopoietic%20stem%20cell%20transplantation.%20Nat%20Med.%202013%3B19%3A372%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5900060,
+          "page": 540,
+          "en": "Yan CH, Liu QF, Wu DP, Zhang X, Xu LP, Zhang XH, Wang Y, Huang H, Bai H, Huang F, Ma X, Huang XJ. Prophylactic donor lymphocyte infusion (DLI) followed by minimal residual disease and graft-versus-host disease-guided multiple DLIs could improve outcomes after allogeneic hematopoietic stem cell transplantation in patients with refractory/relapsed acute leukemia. Biol Blood Marrow Transplant. 2017;23:1311–9.",
+          "zh": "Yan CH, Liu QF, Wu DP, Zhang X, Xu LP, Zhang XH, Wang Y, Huang H, Bai H, Huang F, Ma X, Huang XJ. Prophylactic donor lymphocyte infusion (DLI) followed by minimal residual disease and graft-versus-host disease-guided multiple DLIs could improve outcomes after allogeneic hematopoietic stem cell transplantation in patients with refractory/relapsed acute leukemia. Biol Blood Marrow Transplant. 2017;23:1311–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yan%20CH%2C%20Liu%20QF%2C%20Wu%20DP%2C%20Zhang%20X%2C%20Xu%20LP%2C%20Zhang%20XH%2C%20Wang%20Y%2C%20Huang%20H%2C%20Bai%20H%2C%20Huang%20F%2C%20Ma%20X%2C%20Huang%20XJ.%20Prophylactic%20donor%20lymphocyte%20infusion%20%28DLI%29%20followed%20by%20minimal%20residual%20disease%20and%20graft-versus-host%20disease-guided%20multiple%20DLIs%20could%20improve%20outcomes%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20patients%20with%20refractory/relapsed%20acute%20leukemia.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A1311%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yan%20CH%2C%20Liu%20QF%2C%20Wu%20DP%2C%20Zhang%20X%2C%20Xu%20LP%2C%20Zhang%20XH%2C%20Wang%20Y%2C%20Huang%20H%2C%20Bai%20H%2C%20Huang%20F%2C%20Ma%20X%2C%20Huang%20XJ.%20Prophylactic%20donor%20lymphocyte%20infusion%20%28DLI%29%20followed%20by%20minimal%20residual%20disease%20and%20graft-versus-host%20disease-guided%20multiple%20DLIs%20could%20improve%20outcomes%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20patients%20with%20refractory/relapsed%20acute%20leukemia.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A1311%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5900061,
+          "page": 540,
+          "en": "Yew PY, Alachkar H, Yamaguchi R, Kiyotani K, Fang H, Yap KL, Liu HT, Wickrema A, Artz A, van Besien K, Imoto S, Miyano S, Bishop MR, Stock W, Nakamura Y. Quantitative characterization of T-cell repertoire in allogeneic hematopoietic stem cell transplant recipients. Bone Marrow Transplant. 2015;50:1227–34.",
+          "zh": "Yew PY, Alachkar H, Yamaguchi R, Kiyotani K, Fang H, Yap KL, Liu HT, Wickrema A, Artz A, van Besien K, Imoto S, Miyano S, Bishop MR, Stock W, Nakamura Y. Quantitative characterization of T-cell repertoire in allogeneic hematopoietic stem cell transplant recipients. Bone Marrow Transplant. 2015;50:1227–34.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yew%20PY%2C%20Alachkar%20H%2C%20Yamaguchi%20R%2C%20Kiyotani%20K%2C%20Fang%20H%2C%20Yap%20KL%2C%20Liu%20HT%2C%20Wickrema%20A%2C%20Artz%20A%2C%20van%20Besien%20K%2C%20Imoto%20S%2C%20Miyano%20S%2C%20Bishop%20MR%2C%20Stock%20W%2C%20Nakamura%20Y.%20Quantitative%20characterization%20of%20T-cell%20repertoire%20in%20allogeneic%20hematopoietic%20stem%20cell%20transplant%20recipients.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1227%E2%80%9334."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yew%20PY%2C%20Alachkar%20H%2C%20Yamaguchi%20R%2C%20Kiyotani%20K%2C%20Fang%20H%2C%20Yap%20KL%2C%20Liu%20HT%2C%20Wickrema%20A%2C%20Artz%20A%2C%20van%20Besien%20K%2C%20Imoto%20S%2C%20Miyano%20S%2C%20Bishop%20MR%2C%20Stock%20W%2C%20Nakamura%20Y.%20Quantitative%20characterization%20of%20T-cell%20repertoire%20in%20allogeneic%20hematopoietic%20stem%20cell%20transplant%20recipients.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1227%E2%80%9334."
+            }
+          ]
+        },
+        {
+          "id": 5900062,
+          "page": 540,
+          "en": "Yun HD, Waller EK. Finding the sweet spot for donor lymphocyte infusions. Biol Blood Marrow Transplant. 2013;19:507–8.",
+          "zh": "Yun HD, Waller EK. Finding the sweet spot for donor lymphocyte infusions. Biol Blood Marrow Transplant. 2013;19:507–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yun%20HD%2C%20Waller%20EK.%20Finding%20the%20sweet%20spot%20for%20donor%20lymphocyte%20infusions.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%3A507%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yun%20HD%2C%20Waller%20EK.%20Finding%20the%20sweet%20spot%20for%20donor%20lymphocyte%20infusions.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%3A507%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5900063,
+          "page": 540,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
