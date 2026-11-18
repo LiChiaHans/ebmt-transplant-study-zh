@@ -1,0 +1,1189 @@
+{
+  "id": 60,
+  "title": "Cellular Therapy with Engineered T Cells, Efficacy, and Side Effects: Gene Editing/Gene Therapy",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 68,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 541,
+      "blocks": [
+        {
+          "id": 6000001,
+          "page": 541,
+          "en": "60 Cellular Therapy with Engineered T Cells, Efficacy, and Side Effects: Gene Editing/Gene Therapy\nChiara Bonini, Marina Cavazzana, Fabio Ciceri, Boris Fehse, and Michael Hudecek",
+          "zh": "60 工程化 T 細胞之細胞治療、療效與副作用：基因編輯／基因治療（Cellular Therapy with Engineered T Cells, Efficacy, and Side Effects: Gene Editing/Gene Therapy） — Chiara Bonini、Marina Cavazzana、Fabio Ciceri、Boris Fehse、Michael Hudecek",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_60"
+            }
+          ]
+        },
+        {
+          "id": 6000002,
+          "page": 541,
+          "en": "60.1 Introduction\nThe cellular basis of cancer immune surveillance, already hypothesized in ancient times, was only proven with the advent of HCT. Indeed, the discovery of the nature of GVHD and its antileukemic effects (Weiden et al. 1979) was followed by the first successful attempts of adoptive immunotherapy using donor leukocytes (Kolb et al. 1990). To address the significant GVHD risk associated with allogeneic T cells, several approaches of T-cell manipulation were developed and tested (Table 60.1). Some of these strategies rely on the genetic manipulation of T cells. First, suicide gene therapy approaches were established to promote GVL and immune reconstitution while controlling GVHD. More recently, strategies based on the genetic transfer of tumor-specific T-cell receptors (TCRs) or chimeric antigen receptors (CARs) were developed to improve antitumor efficiency of T cells. This chapter provides an overview of this vastly evolving area.",
+          "zh": "60.1 前言\n癌症免疫監控（cancer immune surveillance）的細胞基礎早在古代即已提出假說，但直到造血細胞移植（HCT）問世後才獲得證實。事實上，在發現移植物抗宿主疾病（GVHD）的本質及其抗白血病效應（Weiden et al. 1979）之後，隨即出現了使用供者白血球進行過繼性免疫治療（adoptive immunotherapy）的首次成功嘗試（Kolb et al. 1990）。為了解決與異體 T 細胞相關的顯著 GVHD 風險，學界開發並測試了多種 T 細胞處理方法（表 60.1）。其中部分策略仰賴對 T 細胞進行基因改造。首先，自殺基因治療（suicide gene therapy）策略被建立，以在控制 GVHD 的同時促進移植物抗白血病效應（GVL）與免疫重建。較近期，以基因轉殖腫瘤特異性 T 細胞受體（TCRs）或嵌合抗原受體（CARs）為基礎的策略被開發出來，以提升 T 細胞的抗腫瘤效率。本章對此快速演進的領域提供全面性的概述。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6000003,
+          "page": 541,
+          "en": "Chiara Bonini, Marina Cavazzana, Fabio Ciceri, Boris Fehse and Michael Hudecek contributed equally with all other contributors.\nC. Bonini (*)\nExperimental Hematology Unit, Division of Immunology, Transplantation and Infectious Diseases, University Vita-Salute San Raffaele and IRCCS Ospedale San Raffaele Scientific Institute, Milan, Italy\ne-mail: bonini.chiara@hsr.it\nM. Cavazzana\nBiotherapy Department Necker -Enfants Malades AP-HP, Groupe Hospitalier Universitaire Paris Centre, Université Paris Cité, Clinical Investigational Center 1419, INSERM Paris, Imagine Institute Paris, AP-HP, Paris, France\nBiotherapy Clinical Investigation Center, Groupe Hospitalier Universitaire Paris Cité, Assistance Publique-Hopitaux de Paris, INSERM CIC 1416, Paris, France\nImagine Institute, Université Paris Cité, Paris, France\ne-mail: m.cavazzana@aphp.fr\nF. Ciceri\nDepartment of Hematology, University Vita-Salute San Raffaele and IRCCS Ospedale San Raffaele Scientific Institute, Milan, Italy\ne-mail: ciceri.fabio@hsr.it\nB. Fehse\nResearch Department Cell and Gene Therapy, Department of Stem Cell Transplantation, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany\ne-mail: fehse@uke.de\nM. Hudecek\nChair of Cellular Immunotherapie, Department of Internal Medicine II, University Hospital Würzburg, Würzburg, Germany\ne-mail: Hudecek_M@ukw.de\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_60",
+          "zh": "作者貢獻與單位聯絡資訊（Chiara Bonini、Marina Cavazzana、Fabio Ciceri、Boris Fehse 與 Michael Hudecek 與所有其他貢獻者貢獻均等）：\nC. Bonini（通訊作者）：義大利米蘭 Vita-Salute San Raffaele 大學暨 IRCCS San Raffaele 醫院科學研究所，免疫、移植與感染疾病部實驗血液學單位；電子郵件：bonini.chiara@hsr.it。\nM. Cavazzana：法國巴黎西岱大學（Université Paris Cité）巴黎中心大學醫院集團 AP-HP Necker-Enfants Malades 兒童醫院生物治療部、INSERM 臨床研究中心 1419／1416、巴黎 Imagine 研究所；電子郵件：m.cavazzana@aphp.fr。\nF. Ciceri：義大利米蘭 Vita-Salute San Raffaele 大學暨 IRCCS San Raffaele 醫院科學研究所血液部；電子郵件：ciceri.fabio@hsr.it。\nB. Fehse：德國漢堡-埃彭多夫大學醫學中心（UKE）幹細胞移植部細胞與基因治療研究部門；電子郵件：fehse@uke.de。\nM. Hudecek：德國維爾茨堡大學醫院（University Hospital Würzburg）第二內科細胞免疫治療講座；電子郵件：Hudecek_M@ukw.de。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_60。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 542,
+      "blocks": [
+        {
+          "id": 6000004,
+          "page": 542,
+          "en": "Table 60.1 T-cell-based cellular therapy approaches to increase GVL/GVI while taming GVHD\nStrategy | Mechanism of action | References\nInfusions of pathogen (i.e., CMV, EBV)-specific T cells | Isolation and infusion of T cells specific for opportunistic pathogens to control posttransplant infectious morbidity and mortality | Riddell et al. (1992), Rooney et al. (1995), Koehne et al. (2003)\nInfusions of T cells depleted of alloreactive specificities | In vitro activation of host-reactive T cells followed by their depletion, infusion of remaining cells with the aim of promoting immune reconstitution with a reduced GVHD risk | André-Schmutz et al. (2002), Hartwig et al. (2008), Mielke et al. (2008)\nInfusions of regulatory T cells | Isolation and/or expansion T-cell subsets with regulatory properties to promote immune reconstitution with a reduced GVHD risk | Groux et al. (1997), Chen et al. (2003), Trenado et al. (2004), Brunstein et al. (2011), Di Ianni et al. (2011), Bacchetta et al. (2014)\nInfusion of T cells depleted of regulatory T cells | Infusion of T cells depleted of regulatory T cells to increase the antileukemic activity of DLI | Maury et al. (2010)\nInfusions of leukemia-specific T cells | Isolation and infusion of T cells specific for leukemia-associated antigens to boost the GVL potency of DLI | Warren et al. (2010), Bornhäuser et al. (2011), Chapuis et al. (2013), Comoli et al. (2017)\nInfusion of alpha-/beta-depleted T cells | Infusion of a graft in vitro depleted of conventional alpha/beta T cells, thus enriched of gamma-delta T cells, endowed with antitumor activity and a low GVHD potential | Lang et al. (2015), Airoldi et al. (2015), Maschan et al. (2016)\nInfusion naïve-depleted T cells | Infusion of donor T-cell subsets in vitro depleted of naïve cells, with the aim of promoting immune reconstitution with a reduced GVHD risk | Bleakley (2015)\nInfusions of CIK | Infusions of in vitro activated donor CIK cells to promote GVL and reduce the risk of GVHD | Introna (2007), Introna et al. (2010)\nSuicide gene therapy | Donor lymphocytes are genetically engineered to express a suicide gene and then infused after HCT to promote GVT and immune reconstitution while selectively controlling GVHD with the prodrug-mediated activation of the suicide gene | Bonini et al. (1997), Ciceri et al. (2009), Fehse et al. (2004), Di Stasi et al. (2011), Zhan et al. (2013), Oliveira et al. (2015)\nCAR/TCR T cells | Lymphocytes are genetically engineered to express a chimeric antigen receptor (CAR) or a T-cell receptor (TCR) that confers to T cells specificity for an antigen expressed by cancer cells | Kochenderfer et al. (2010), Porter et al. (2011), Brentjens et al. (2013), Morgan et al. (2006), Robbins et al. (2011)\nAbbreviation: CIK cytokine-induced killer",
+          "zh": "表 60.1 在控制 GVHD 的同時增強移植物抗白血病／抗感染效應（GVL/GVI）之 T 細胞治療策略\n策略（Strategy）｜作用機轉（Mechanism of action）｜參考文獻（References）\n• 輸注病原體（如 CMV、EBV）特異性 T 細胞｜分離並輸注針對伺機性病原體具特異性的 T 細胞，以控制移植後感染相關之罹病率與死亡率｜Riddell et al. (1992), Rooney et al. (1995), Koehne et al. (2003)\n• 輸注去除異體反應特異性（alloreactive specificities）之 T 細胞｜在體外活化對宿主有反應的 T 細胞後將其去除，輸注剩餘細胞，旨在以較低的 GVHD 風險促進免疫重建｜André-Schmutz et al. (2002), Hartwig et al. (2008), Mielke et al. (2008)\n• 輸注調節性 T 細胞（Tregs）｜分離及／或擴增具調節特性的 T 細胞亞群，以在降低 GVHD 風險下促進免疫重建｜Groux et al. (1997), Chen et al. (2003), Trenado et al. (2004), Brunstein et al. (2011), Di Ianni et al. (2011), Bacchetta et al. (2014)\n• 輸注去除調節性 T 細胞之 T 細胞｜輸注去除調節性 T 細胞後的 T 細胞，以增強供者淋巴球輸注（DLI）的抗白血病活性｜Maury et al. (2010)\n• 輸注白血病特異性 T 細胞｜分離並輸注對白血病相關抗原具特異性的 T 細胞，以強化 DLI 的 GVL 效力｜Warren et al. (2010), Bornhäuser et al. (2011), Chapuis et al. (2013), Comoli et al. (2017)\n• 輸注去除 α/β T 細胞之移植物｜輸注在體外去除傳統 α/β T 細胞的移植物，從而富集具有抗腫瘤活性且低 GVHD 潛力的 γδ（gamma-delta）T 細胞｜Lang et al. (2015), Airoldi et al. (2015), Maschan et al. (2016)\n• 輸注去除初始（naïve）細胞之 T 細胞｜輸注在體外去除初始 T 細胞後的供者 T 細胞亞群，旨在以較低的 GVHD 風險促進免疫重建｜Bleakley (2015)\n• 輸注細胞激素誘導殺手細胞（CIK）｜輸注在體外活化的供者 CIK 細胞，以促進 GVL 並降低 GVHD 風險｜Introna (2007), Introna et al. (2010)\n• 自殺基因治療（Suicide gene therapy）｜將供者淋巴球經基因工程改造以表現自殺基因，隨後於 HCT 後輸注以促進 GVT 與免疫重建，同時在發生 GVHD 時透過前驅藥物（prodrug）介導之自殺基因活化來選擇性控制 GVHD｜Bonini et al. (1997), Ciceri et al. (2009), Fehse et al. (2004), Di Stasi et al. (2011), Zhan et al. (2013), Oliveira et al. (2015)\n• CAR/TCR T 細胞｜將淋巴球經基因工程改造以表現嵌合抗原受體（CAR）或 T 細胞受體（TCR），賦予 T 細胞辨識癌細胞所表現之抗原的特異性｜Kochenderfer et al. (2010), Porter et al. (2011), Brentjens et al. (2013), Morgan et al. (2006), Robbins et al. (2011)\n縮寫：CIK：細胞激素誘導殺手細胞（cytokine-induced killer）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6000005,
+          "page": 542,
+          "en": "60.2 Suicide Gene Therapy\nThe transfer of a suicide gene into donor lymphocytes was designed and tested at preclinical and clinical level in the 1990s, with the aim of transferring the entire donor T-cell repertoire, inclusive of cancer and infectious specificities, to transplanted patients while enabling the selective elimination of the transferred lymphocytes in case of GVHD (Bonini et al. 1997). The first suicide gene, and to date the most extensively tested in clinical trials, is thymidine kinase of herpes simplex virus (HSV-TK). In dividing cells, HSV-TK expression confers selective sensitivity to the antiviral drug ganciclovir. Upon retroviral gene transfer, HSV-TK is stably expressed by donor T lymphocytes not interfering with their functionality. However, when exposed to ganciclovir, highly proliferating HSV-TK-expressing T cells (TK cells) will die in a dose-dependent manner. Thus, if ganciclovir is administered during GVHD to patients treated with TK cells, activated and thus proliferating alloreactive TK cells will be eliminated. The HSV-TK/ganciclovir suicide system proved highly effective in controlling GVHD in several transplant settings, including haploidentical HCT (haplo-HCT). After T-cell-depleted haplo-HCT, the infusion of TK cells promoted broad and rapid immune reconstitution, which, being associated with GVHD control, led to abrogation of late transplant-related mortality (Ciceri et al. 2009). Overall, clinical results obtained with TK cells led to their conditional approval by EMA in 2016, thus representing the first genetically engineered medicinal product approved for cancer patients in Europe. Although when infused after haplo-HCT TK cells could be detected for more than 14 years (Oliveira et al. 2015), their persistence might be limited when cells are infused to immunocompetent patients, due to the viral origin of HSV-TK and to its subsequent immunogenicity in humans. Alternative suicide genes were designed and tested in clinical trials. iCasp9, in particular, is an innovative suicide gene based on human components and thus with a reduced risk of immunogenicity, which was recently proposed and successfully tested in clinical trials (Di Stasi et al. 2011; Zhou et al. 2014). Overall, more than half of the patients who had received suicide gene-expressing donor T cells experienced a clinical benefit in terms of immune reconstitution and GVL. Of notice, all cases of GVHD were completely controlled by the suicide gene/prodrug systems.",
+          "zh": "60.2 自殺基因治療（Suicide Gene Therapy）\n將自殺基因轉殖入供者淋巴球的技術於 1990 年代完成設計，並在臨床前與臨床層級進行了測試，其目的是將完整的供者 T 細胞受體庫（包含抗癌與抗感染特異性）轉移給移植患者，同時在發生 GVHD 時能夠選擇性地清除所輸注的淋巴球（Bonini et al. 1997）。第一個自殺基因（也是迄今在臨床試驗中測試最廣泛的基因）是單純疱疹病毒的胸苷激酶（HSV-TK）。在分裂中的細胞裡，表現 HSV-TK 會賦予細胞對抗病毒藥物 ganciclovir 的選擇性敏感度。透過反轉錄病毒基因轉殖，供者 T 淋巴球可穩定表現 HSV-TK 且不干擾其正常功能；然而，當暴露於 ganciclovir 時，高度增殖且表現 HSV-TK 的 T 細胞（TK 細胞）會以劑量依賴的方式死亡。因此，若在接受 TK 細胞治療的患者發生 GVHD 期間施予 ganciclovir，活化且正在增殖的異體反應性 TK 細胞就會被清除。HSV-TK/ganciclovir 自殺系統在包括半相合 HCT（haplo-HCT）的多種移植情境中，已證實能極為有效地控制 GVHD。在去除 T 細胞之半相合 HCT 後，輸注 TK 細胞促進了廣泛且快速的免疫重建，並因同時能有效控制 GVHD，從而消除了晚期移植相關死亡率（Ciceri et al. 2009）。整體而言，使用 TK 細胞所獲得的臨床結果促成了 EMA 於 2016 年給予有條件核准，使其成為歐洲首個獲准用於癌症患者的基因工程藥品。雖然在半相合 HCT 後輸注的 TK 細胞可被偵測到持續存在超過 14 年（Oliveira et al. 2015），但由於 HSV-TK 源自病毒且隨後在人體內具免疫原性，當將此類細胞輸注給免疫功能正常的患者時，其持久性可能會受到限制。因此，學界設計了替代的自殺基因並在臨床試驗中進行測試。特別是誘導型凋亡蛋白酶 9（inducible caspase 9, iCasp9），這是一種以人類蛋白組成為基礎的創新自殺基因，因此免疫原性風險較低，近期已被提出並在臨床試驗中成功測試（Di Stasi et al. 2011; Zhou et al. 2014）。總體而言，接受表現自殺基因之供者 T 細胞的患者中，有超過半數在免疫重建與 GVL 方面獲得了臨床益處。值得注意的是，所有發生的 GVHD 個案皆能被自殺基因／前驅藥物系統完全控制。",
+          "review": "ai-draft",
+          "endPage": 543
+        }
+      ]
+    },
+    {
+      "page": 543,
+      "blocks": [
+        {
+          "id": 6000006,
+          "page": 543,
+          "en": "60.3 CAR-T Cells\n60.3.1 CAR-T-Cell Clinical Efficacy\nCARs are designer molecules comprised of several components: an extracellular antigen-binding domain, usually the variable light and heavy chains of a monoclonal antibody (scFv), a spacer and transmembrane region that anchors the receptor on the T-cell surface and provides the reach and flexibility necessary to bind to the target epitope, and an intracellular signaling module, most commonly CD3 zeta and one or more costimulatory domains that mediate T-cell activation after antigen binding, resulting in their profound proliferation and eventually selective tumor cell killing.\nThe first clinical development was the use of CARs specific for the B-lineage marker CD19. Several groups demonstrated that CD19 CAR-T cells are able to induce durable complete remissions in patients with chemotherapy- and radiotherapy-refractory B-cell ALL, NHL, and CLL (Maude et al. 2014; Park et al. 2018; Turtle et al. 2017).",
+          "zh": "60.3 CAR-T 細胞\n60.3.1 CAR-T 細胞之臨床療效\n嵌合抗原受體（CARs）是由數個組件構成的人工設計分子：一個細胞外抗原結合區（通常為單株抗體的輕鏈與重鏈可變區，即單鏈可變片段〔scFv〕）、一個將受體錨定於 T 細胞表面並提供結合目標抗原決定位（epitope）所需距離與彈性的間隔區（spacer）及跨膜區（transmembrane region），以及一個細胞內訊號傳遞模組（最常見為 CD3ζ〔CD3 zeta〕加上一或多個共同刺激結構域〔costimulatory domains〕），後者可在抗原結合後介導 T 細胞活化，促使其大量增殖並最終選擇性地毒殺腫瘤細胞。\n第一個臨床開發項目是使用針對 B 細胞譜系標記 CD19 具特異性的 CARs。多個研究團隊證實，CD19 CAR-T 細胞能在對化療與放療難治的 B 細胞急性淋巴性白血病（B-ALL）、非何杰金氏淋巴瘤（NHL）與慢性淋巴性白血病（CLL）患者中誘導出持久的完全緩解（Maude et al. 2014; Park et al. 2018; Turtle et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6000007,
+          "page": 543,
+          "en": "However, in a fraction of patients, resistance mechanisms to CD19 CAR-T-cell therapy have become apparent, including the development of leukemia cell variants that lost their CD19 antigen expression, particularly in ALL. Several mechanisms may contribute to the development of this phenotype including lymphoid-to-myeloid transdifferentiation, selection of preexisting CD19-low/CD19-negative leukemia clones, and emergence of clones that lost the specific epitope targeted by the CD19 CAR due to alternative splicing (Gardner et al. 2016; Sotillo et al. 2015; Ruella and June 2016). In ALL, CD19-low/CD19-negative leukemia cells may still express CD20, CD22, and/or CD123 that are being pursued as rescue antigens. A recent study highlighted the potential to re-induce remissions in patients that had relapsed with CD19-low/CD19-negative leukemia and subsequently received CD22 CAR-T cells (Fry et al. 2018). Unfortunately, CD22 itself is prone to internalization and downregulation, and indeed a significant proportion of patients experienced successive CD22-low/CD22-negative leukemia relapse. At present, combinatorial targeting of CD19 with either CD20, CD22, or CD123 is being explored, either through bi-specific CAR constructs with two scFvs in cis or through co-expression of two CAR constructs in the same T cells (Zah et al. 2016).",
+          "zh": "然而，在部分患者中，對 CD19 CAR-T 細胞治療的抗性機制已逐漸顯現，包括出現喪失 CD19 抗原表現的白血病細胞變異株（特別是在 ALL）。有多種機制可能促成此表型的產生，包括淋巴系向骨髓系的轉分化（lymphoid-to-myeloid transdifferentiation）、篩選出原本即已存在的 CD19 低表現／CD19 陰性白血病選殖株，以及因選擇性剪接（alternative splicing）而出現失去 CD19 CAR 所靶向之特定抗原決定位的選殖株（Gardner et al. 2016; Sotillo et al. 2015; Ruella and June 2016）。在 ALL 中，CD19 低表現／CD19 陰性的白血病細胞可能仍表現 CD20、CD22 及／或 CD123，這些靶點正被作為救援抗原進行研究。近期一項研究突顯了在以 CD19 低表現／CD19 陰性白血病復發並隨後接受 CD22 CAR-T 細胞治療的患者中，重新誘導緩解的潛力（Fry et al. 2018）。不幸的是，CD22 本身容易發生內吞（internalization）與下調，且確實有相當比例的患者隨後經歷了連續的 CD22 低表現／CD22 陰性白血病復發。目前，學界正探索將 CD19 與 CD20、CD22 或 CD123 進行組合靶向（combinatorial targeting），方法包括透過順式（in cis）帶有兩個 scFv 的雙特異性 CAR 構建體，或是在同一個 T 細胞中共同表現兩個不同的 CAR 構建體（Zah et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6000008,
+          "page": 543,
+          "en": "Since 2017, outcomes of CAR-T-cell clinical trials (Table 60.2) led to the approval by FDA and EMA of six CAR-T-cell therapeutic products, including four specific for CD19, approved for B-cell lymphoma and acute lymphoblastic leukemia (https://doi.org/10.1056/NEJMoa1707447, https://doi.org/10.1056/NEJMoa1804980, https://doi.org/10.1016/S0140-6736(20)31366-0, https://doi.org/10.1056/NEJMoa1914347), and two directed to BCMA and used for multiple myeloma (https://doi.org/10.1016/s0140-6736(21)00933-8, https://doi.org/10.1056/NEJMoa2024850). All approved products are manufactured by retroviral (γ-retroviral or lentiviral) gene transfer and made headlines due to their considerable market price and the complex logistics behind this treatment. This involves harvesting the patient’s T cells at a leukapheresis center, shipping to a centralized manufacturing facility to perform CAR gene transfer and T-cell expansion, and return shipment of the cryopreserved cell product. There is a recent increase in the use of exportable, GMP-certified manufacturing devices that are anticipated to provide on-site, point-of-care CAR-T-cell manufacture to reduce costs and wait time. Currently, approved cellular products are tested as earlier lines of treatment, and an intense effort is ongoing toward the identification of new CAR targets for further hematological malignancies, e.g., SLAMF7 (Gogishvili et al. 2017), CD44v6 (Casucci et al. 2013), CD38 (Mihara et al. 2009), CD33, CD70, CD123, CLL-1, and FLT3 (https://doi.org/10.1111/ejh.14047). Clinical progress of CAR-T cells for solid tumors has been lacking behind, since it meets—besides identification of suitable target antigens—several additional challenges, including but not limited to difficult accessibility, immunosuppressive tumor microenvironment, and high degrees of heterogeneity. Novel CAR constructs and treatment concepts are underway to address these difficulties (https://doi.org/10.1038/s41586-023-05707-3).",
+          "zh": "自 2017 年以來，CAR-T 細胞臨床試驗的結果（表 60.2）促成了美國 FDA 與歐洲 EMA 核准六款 CAR-T 細胞治療產品，包括四款針對 CD19 具特異性、核准用於 B 細胞淋巴瘤與急性淋巴性白血病的產品（https://doi.org/10.1056/NEJMoa1707447、https://doi.org/10.1056/NEJMoa1804980、https://doi.org/10.1016/S0140-6736(20)31366-0、https://doi.org/10.1056/NEJMoa1914347），以及兩款靶向 BCMA、用於多發性骨髓瘤的產品（https://doi.org/10.1016/s0140-6736(21)00933-8、https://doi.org/10.1056/NEJMoa2024850）。所有已核准的產品均係透過反轉錄病毒（γ-反轉錄病毒或慢病毒〔lentiviral〕）基因轉殖所製造，並因其高昂的市場價格以及此療法背後複雜的物流程序而成為新聞焦點。其流程涉及在白血球分離中心採集患者的 T 細胞、運送至中央製造廠執行 CAR 基因轉殖與 T 細胞擴增，再將冷凍保存的細胞產品運回醫院。近期，使用可輸出式、獲 GMP 認證之自動化製造設備的趨勢正在增加，預期可提供院內現場（on-site）、照護點（point-of-care）的 CAR-T 細胞製造，以降低成本與等待時間。目前，已核准的細胞產品正被測試用於更前線的治療，且學界正積極致力於為其他血液惡性疾病尋找新的 CAR 靶點，例如 SLAMF7（Gogishvili et al. 2017）、CD44v6（Casucci et al. 2013）、CD38（Mihara et al. 2009）、CD33、CD70、CD123、CLL-1 與 FLT3（https://doi.org/10.1111/ejh.14047）。CAR-T 細胞在實體腫瘤的臨床進展則相對落後，因為除了尋找合適的目標抗原外，它還面臨多項額外挑戰，包括但不限於難以進入腫瘤部位、具免疫抑制性的腫瘤微環境，以及高度的腫瘤異質性。新型 CAR 構建體與治療概念正持續開發中，以克服這些困難（https://doi.org/10.1038/s41586-023-05707-3）。",
+          "review": "ai-draft",
+          "endPage": 545
+        }
+      ]
+    },
+    {
+      "page": 544,
+      "blocks": [
+        {
+          "id": 6000009,
+          "page": 544,
+          "en": "Table 60.2 First clinical trials with CAR-T cells\nClinical application | Antigen | No. of patients | Clinical response | Toxicity | No. of T cells infused/kg | CAR design | Gene transfer vector | Safety technology | References\nALL | CD19 | 30 | 90% CR, 79% MRD | B-cell aplasia, CRS, Neurotoxicity | 0.76–20 × 10⁶/kg BW | FMC63 scFv, CD8 alpha spacer, 4-1BB costim | Lentivirus | None | Maude et al. (2014)\nALL | CD19 | 16 | 88% CR, 75% MRD | B-cell aplasia, CRS, Neurotoxicity | 3 × 10⁶/kg BW | SJ25C1 scFv, CD28 ECD spacer, CD28 costim | γ-Retrovirus | None | Davila et al. (2014)\nALL | CD19 | 29 | 93% CR, 86% MRD | B-cell aplasia, CRS, Neurotoxicity | 2 × 10⁵–2 × 10⁷/kg BW | FMC63 scFv, IgG4 Hinge spacer, 4-1BB costim | Lentivirus | EGFRt depletion marker | Turtle et al. (2016)\nNHL/CLL | CD19 | 15 | 53% CR, 26% PR | B-cell aplasia, CRS, Neurotoxicity | 1–5 × 10⁶/kg BW | FMC63 scFv, CD28 ECD spacer, CD28 costim | γ-Retrovirus | None | Kochenderfer et al. (2015)\nNHL/CLL | CD19 | 32 | 50% CR, 72% ORR | B-cell aplasia, CRS, Neurotoxicity | 2 × 10⁵–2 × 10⁷/kg BW | FMC63 scFv, IgG4 Hinge spacer, 4-1BB costim | Lentivirus | EGFRt depletion marker | Turtle et al. (2016)\nCLL | CD19 | 20 | 21% CR, 53% PR | B-cell aplasia, CRS, Neurotoxicity | 2 × 10⁵–2 × 10⁷/kg BW | FMC63 scFv, IgG4 Hinge spacer, 4-1BB costim | Lentivirus | EGFRt depletion marker | Turtle et al. (2017)\nMM | CD19 | 10 | 1 CR, 2 PR | B-cell aplasia, CRS (mild) | 1–5 × 10⁷ (total) | FMC63 scFv, CD8 alpha spacer, 4-1BB costim | Lentivirus | None | Garfall et al. (2015)\nMM | BCMA | 12 | 1 CR, 1 PR, 2 VGPR | Hematologic (cytopenia), CRS, Neurotoxicity | 0.3–3 × 10⁶/kg BW | C11D5.3 scFv, CD28 ECD spacer, CD28 costim | γ-Retrovirus | None | Ali et al. (2016)\nAbbreviations: ALL acute lymphoblastic leukemia, NHL non-Hodgkin lymphoma, CLL chronic lymphocytic leukemia, MM multiple myeloma, BCMA B-cell maturation antigen, CR complete remission, MRD minimal residual disease, PR partial remission, VGPR very good partial remission, CRS cytokine release syndrome, kg kilogram, BW body weight, scFv single-chain variable fragment, costim costimulatory domain, IgG immunoglobulin G, ECD extracellular domain, EGFRt epidermal growth factor receptor",
+          "zh": "表 60.2 CAR-T 細胞之首批臨床試驗\n臨床應用｜抗原｜患者人數｜臨床反應｜毒性｜每公斤輸注 T 細胞數｜CAR 設計｜基因轉殖載體｜安全技術｜參考文獻\n• ALL｜CD19｜30｜90% CR, 79% MRD（陰性）｜B 細胞發育不全、CRS、神經毒性｜0.76–20 × 10⁶/kg BW｜FMC63 scFv, CD8α spacer, 4-1BB costim｜慢病毒（Lentivirus）｜無｜Maude et al. (2014)\n• ALL｜CD19｜16｜88% CR, 75% MRD｜B 細胞發育不全、CRS、神經毒性｜3 × 10⁶/kg BW｜SJ25C1 scFv, CD28 ECD spacer, CD28 costim｜γ-反轉錄病毒（γ-Retrovirus）｜無｜Davila et al. (2014)\n• ALL｜CD19｜29｜93% CR, 86% MRD｜B 細胞發育不全、CRS、神經毒性｜2 × 10⁵–2 × 10⁷/kg BW｜FMC63 scFv, IgG4 Hinge spacer, 4-1BB costim｜慢病毒｜EGFRt 去除標記｜Turtle et al. (2016)\n• NHL/CLL｜CD19｜15｜53% CR, 26% PR｜B 細胞發育不全、CRS、神經毒性｜1–5 × 10⁶/kg BW｜FMC63 scFv, CD28 ECD spacer, CD28 costim｜γ-反轉錄病毒｜無｜Kochenderfer et al. (2015)\n• NHL/CLL｜CD19｜32｜50% CR, 72% ORR｜B 細胞發育不全、CRS、神經毒性｜2 × 10⁵–2 × 10⁷/kg BW｜FMC63 scFv, IgG4 Hinge spacer, 4-1BB costim｜慢病毒｜EGFRt 去除標記｜Turtle et al. (2016)\n• CLL｜CD19｜20｜21% CR, 53% PR｜B 細胞發育不全、CRS、神經毒性｜2 × 10⁵–2 × 10⁷/kg BW｜FMC63 scFv, IgG4 Hinge spacer, 4-1BB costim｜慢病毒｜EGFRt 去除標記｜Turtle et al. (2017)\n• MM｜CD19｜10｜1 CR, 2 PR｜B 細胞發育不全、CRS（輕微）｜1–5 × 10⁷（總量）｜FMC63 scFv, CD8α spacer, 4-1BB costim｜慢病毒｜無｜Garfall et al. (2015)\n• MM｜BCMA｜12｜1 CR, 1 PR, 2 VGPR｜血液學毒性（血球低下）、CRS、神經毒性｜0.3–3 × 10⁶/kg BW｜C11D5.3 scFv, CD28 ECD spacer, CD28 costim｜γ-反轉錄病毒｜無｜Ali et al. (2016)\n縮寫：ALL：急性淋巴性白血病；NHL：非何杰金氏淋巴瘤；CLL：慢性淋巴性白血病；MM：多發性骨髓瘤；BCMA：B 細胞成熟抗原；CR：完全緩解；MRD：微量殘存疾病；PR：部分緩解；VGPR：非常好的部分緩解；CRS：細胞激素釋放症候群；kg：公斤；BW：體重；scFv：單鏈可變片段；costim：共同刺激結構域；IgG：免疫球蛋白 G；ECD：細胞外結構域；EGFRt：截短型表皮生長因子受體。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 545,
+      "blocks": [
+        {
+          "id": 6000010,
+          "page": 545,
+          "en": "60.3.2 Side Effects and Their Management\nResults from pioneering clinical studies investigating CAR-T cells in patients with hematological cancers highlight the frequent occurrence of severe adverse reactions, which in some cases were fatal. The most obvious toxicity by CAR-T cells is the elimination of lineage cells expressing the target antigen of choice. For example, profound and, in some cases, long-lasting B-cell aplasia was observed after the infusion of CD19 CAR-T cells in patients with ALL, NHL, and CLL (Maude et al. 2014; Park et al. 2018; Turtle et al. 2017). By analogy, BCMA CAR-T cells are expected to induce plasma cell ablation in MM patients. The depletion of antibody-producing cells, or their precursors, in turn causes hypogammaglobulinemia, requiring constant supplementation with immunoglobulins.\nBesides these expected on-target/off-tumor effects, a new class of on-target/on-tumor adverse reactions is represented by the cytokine release syndrome (CRS) and by neurotoxicity. CRS is initiated by CAR-T-cell recognition of tumor cells, igniting the release of massive amounts of inflammatory cytokines, possibly by recruiting cells of the innate immunity. A master cytokine of the CRS is IL-6, as demonstrated by prompt and often complete response to the anti-IL-6 receptor monoclonal antibody tocilizumab. CRS symptoms range from high fever, headache, and myalgia to life-threatening cardiocirculatory and renal insufficiency. Clinical data reported so far utilize three slightly different systems for severity grading, which makes it difficult to draw meaningful comparisons in CRS liability between CAR-T-cell trials (Table 60.3). Nonetheless, there is a generalized consensus on the fact that severe CRS is more frequent in ALL compared to NHL and that high tumor burden is an important risk factor.\nDifferent from CRS, the pathophysiology of neurotoxicity by CAR-T cells remains an uncharted territory and decisively worthy of further research, given its highly dismal prognosis, as demonstrated by several cases of lethal cerebral edema (Berger et al. 2023). Initially thought to be caused by tumor recognition by CAR-T cells within the brain, neurotoxicity is now recognized to be independent from leukemic localization to the CNS. Moreover, unresponsiveness to tocilizumab suggests that excessive IL-6 signaling may not be sufficient to explain neurotoxicity and that additional pharmacological measures should be investigated. Finally, in a substantial proportion of patient, profound and in some cases very long-lasting leukopenia associated with high rates of infectious complications was reported after CD19 CAR-T therapy and referred to as CAR-HEMATOTOX (Rejeski et al. 2021).",
+          "zh": "60.3.2 副作用及其處置管理\n在血液癌症患者中探討 CAR-T 細胞的開創性臨床研究結果，突顯了嚴重不良反應頻繁發生，且在部分個案中甚至造成致命後果。CAR-T 細胞最顯而易見的毒性，是清除了表現所選目標抗原的正常譜系細胞。舉例而言，在 ALL、NHL 與 CLL 患者輸注 CD19 CAR-T 細胞後，觀察到了深度且在部分案例中極為持久的 B 細胞發育不全（B-cell aplasia）（Maude et al. 2014; Park et al. 2018; Turtle et al. 2017）。同理，BCMA CAR-T 細胞預期會在 MM 患者中誘導漿細胞清除（plasma cell ablation）。製造抗體之細胞或其前驅細胞的耗竭，進而會導致低丙種球蛋白血症（hypogammaglobulinemia），需要持續補充免疫球蛋白。\n除了這些可預期的「中靶／脫瘤」（on-target/off-tumor）效應外，另一類新型的「中靶／中瘤」（on-target/on-tumor）不良反應則以細胞激素釋放症候群（CRS）與神經毒性為代表。CRS 是由 CAR-T 細胞辨識出腫瘤細胞所啟動，並可能透過招募先天免疫細胞，引爆大量發炎性細胞激素的釋放。CRS 的核心主導細胞激素是 IL-6，這點可由患者對抗 IL-6 受體單株抗體 tocilizumab 迅速且往往完全的治療反應得到印證。CRS 的症狀範圍從高燒、頭痛、肌肉痠痛，到危及生命的心血管循環與腎功能不全。迄今報導的臨床數據採用了三種略有差異的嚴重度分級系統，這使得要在不同 CAR-T 細胞試驗之間對 CRS 發生風險進行有意義的比較變得相當困難（表 60.3）。儘管如此，學界普遍共識認為：嚴重 CRS 在 ALL 中比在 NHL 中更為常見，且高腫瘤負荷（high tumor burden）是一項重要的危險因子。\n與 CRS 不同的是，CAR-T 細胞引起神經毒性的病理生理學機轉目前仍屬未知領域，且鑑於其預後極差（如數起致死性腦水腫案例所示，Berger et al. 2023），絕對值得深入研究。最初學界以為神經毒性是由腦內的 CAR-T 細胞辨識出腫瘤所致，如今則已知其與白血病是否侵犯中樞神經系統（CNS）無關。此外，神經毒性對 tocilizumab 無反應的現象顯示，單憑過度的 IL-6 訊號傳遞可能不足以解釋神經毒性，必須研究其他的藥理治療措施。最後，在相當高比例的患者中，於接受 CD19 CAR-T 治療後報導了深度且在部分個案中極為持久的白血球低下、並伴隨高發生率的感染併發症，此現象被稱為 CAR-HEMATOTOX（CAR 血液毒性）（Rejeski et al. 2021）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 546,
+      "blocks": [
+        {
+          "id": 6000011,
+          "page": 546,
+          "en": "Table 60.3 CRS severity scoring systems\nGrade | Penn scale | CTCAE | Lee et al. (2014)\nGrade 1 | Mild reaction treated with antipyretics and/or antiemetics | Mild reaction, no treatment needed | Non-life-threatening reaction responsive to symptomatic treatment\nGrade 2 | Moderate reaction requiring hospitalization and i.v. therapy (no fluid resuscitation) | Moderate reaction responsive to symptomatic treatment within 24 h | Moderate reaction requiring oxygen <40%, fluid resuscitation or low-dose pressors. Any G2 organ toxicity\nGrade 3 | Severe reaction requiring high-flow oxygen or noninvasive lung ventilation, fluid resuscitation, or low-dose pressors | Prolonged reaction nonresponsive to symptomatic treatment | Severe reaction requiring oxygen >40%, high-dose pressors. Any G3 organ toxicity\nGrade 4 | Life-threatening reaction requiring high-dose pressors and/or mechanical ventilation | Life-threatening reaction, pressor, or ventilator requirement | Life-threatening reaction requiring mechanical ventilation. Any G4 organ toxicity",
+          "zh": "表 60.3 CRS 嚴重度評分系統比較\n分級｜賓州大學量表（Penn scale）｜CTCAE 標準｜Lee et al. (2014) 標準\n• 第 1 級（Grade 1）｜以退燒藥及／或止吐藥處置之輕微反應｜輕微反應，不需治療｜對症狀治療有反應之非危及生命反應\n• 第 2 級（Grade 2）｜需住院及靜脈注射治療（不含輸液復甦〔no fluid resuscitation〕）之中度反應｜於 24 小時內對症狀治療有反應之中度反應｜需氧氣濃度（FiO₂）<40%、輸液復甦或低劑量升壓劑之中度反應；或任何第 2 級器官毒性\n• 第 3 級（Grade 3）｜需高流量氧氣或非侵入性肺部通氣、輸液復甦或低劑量升壓劑之嚴重反應｜對症狀治療無反應之遷延性反應｜需氧氣濃度 >40%、高劑量升壓劑之嚴重反應；或任何第 3 級器官毒性\n• 第 4 級（Grade 4）｜需高劑量升壓劑及／或機械通氣（插管呼吸器）之危及生命反應｜危及生命之反應，需使用升壓劑或呼吸器支持｜需機械通氣之危及生命反應；或任何第 4 級器官毒性\n【譯註：口試時請注意區分此表三套早期系統與現行臨床標準 ASTCT 共識分級（Lee et al. 2019）：在現行 ASTCT 分級中，只要需要任何升壓劑（即使是單一低劑量升壓劑）即至少為 CRS Grade 3！】",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6000012,
+          "page": 546,
+          "en": "60.4 TCR Gene Transfer, TCR Gene Editing, and Future Perspectives\nIn contrast to CARs that only bind surface molecules, TCRs recognize small pieces (peptides) derived from any cellular protein and presented by MHC molecules. Since the vast majority of tumor-specific/tumor-associated antigens are expressed intracellularly, they will only be addressable by TCRs, but not CARs. Moreover, therapeutically relevant cancer driver mutations in most cases happen in intracellular proteins (e.g., signal transducers).\nAt the same time, the advantage of TCRs represents a major hurdle for broad clinical application: Any transgenic TCR only functions in the context of one specific HLA complex. Thus, in order to offer TCR-T-cell therapy to virtually all candidate patients, for each antigen, a whole set of active TCRs will have to be established for different HLA molecules.\nThe first TCR gene therapies were applied to melanoma patients (MART-1 antigen), but meanwhile many cancers have been addressed. Based on their almost complete absence in adult tissues, cancer/testis antigens (e.g., NY-ESO1) represent particularly promising targets. Many studies showed significant antitumor activity, but on-target and off-target activities were associated with severe side effects, including mortality (Morris and Stauss 2016).",
+          "zh": "60.4 TCR 基因轉殖、TCR 基因編輯與未來展望\n與僅能結合細胞表面分子的 CARs 相反，T 細胞受體（TCRs）可辨識源自任何細胞蛋白質、並由主要組織相容性複合體（MHC）分子所呈獻的小片段（胜肽，peptides）。由於絕大多數的腫瘤特異性／腫瘤相關抗原都表現在細胞內部，因此它們只能被 TCRs 所靶向，而無法被 CARs 辨識。此外，與治療相關的癌症驅動突變（cancer driver mutations）在大多數情況下也都發生於細胞內蛋白質（例如訊號傳遞蛋白）。\n然而與此同時，TCRs 的這項優勢也構成了其廣泛臨床應用的主要障礙：任何轉殖基因 TCR 都只能在特定的單一 HLA 複合體背景下發揮功能（即受 HLA 限制性，HLA restriction）。因此，為了能向幾乎所有候選患者提供 TCR-T 細胞治療，針對每一種目標抗原，都必須為不同的 HLA 分子建立一整套具活性的 TCRs。\n最早的 TCR 基因治療是應用於黑色素瘤患者（靶向 MART-1 抗原），但在此同時也已針對許多癌症展開研究。基於癌／睪丸抗原（cancer/testis antigens，例如 NY-ESO1）在正常成人組織中幾乎完全不表現的特性，它們成為特別具前景的靶點。許多研究顯示出顯著的抗腫瘤活性，但其「中靶」與「脫靶」（on-target and off-target）交叉反應活性也曾伴隨嚴重的副作用，甚至包括死亡（Morris and Stauss 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6000013,
+          "page": 546,
+          "en": "Genome editing has been proposed to improve efficacy and decrease side effects of TCR gene therapy. Editing might be used to knock out the endogenous TCR to increasing expression of the transgenic one and decreasing the mispairing risk between endogenous and transgenic TCR chains (potentially leading to autoreactive T cells) (Provasi et al. 2012), and is required for the development of allogeneic T-cell products (https://doi.org/10.1126/scitranslmed.aaj2013). The recent development of CRISPR/Cas9 and its application to T cells have significantly increased the efficiency of gene disruption and of homology-directed repair (HDR) while also permitting simultaneous multiple gene editing (https://doi.org/10.1126/scitranslmed.abg8027). TCR-edited T cells were proven safe in a pilot study on cancer patients (https://doi.org/10.1126/science.aba7365). Moreover, targeted integration in the TCR locus can improve long-term expression of transgenic TCRs (https://doi.org/10.1038/s41551-019-0409-0) or CARs (Eyquem et al. 2017). Finally, replacing nuclease activity with alternative enzymes, such as deaminases for nucleotide conversion, is further improving our toolbox for T-cell engineering (https://doi.org/10.1056/NEJMoa2300709).\nIn conclusion, T-cell therapies have become a promising novel anticancer weapon. Their broad application will require (1) identification of additional targets, (2) availability of TCRs against established targets for many HLA molecules, (3) implementation of innovative gene transfer and genome-editing biotechnological tools, and (4) improved methods for large-scale GMP production.",
+          "zh": "學界已提出利用基因組編輯（genome editing）來提升 TCR 基因治療的療效並減少副作用。基因編輯可用於剔除（knock out）內源性 TCR，藉此提高轉殖基因 TCR 的表現量，並降低內源性與轉殖基因 TCR α/β 鏈之間發生錯誤配對（mispairing，可能產生自體反應性 T 細胞）的風險（Provasi et al. 2012），同時這也是開發通用型異體 T 細胞產品的必要步驟（https://doi.org/10.1126/scitranslmed.aaj2013）。近期 CRISPR/Cas9 的發展及其在 T 細胞上的應用，已顯著提升了基因破壞與同源導向修復（homology-directed repair, HDR）的效率，同時也允許同步進行多重基因編輯（https://doi.org/10.1126/scitranslmed.abg8027）。在一項針對癌症患者的前導研究中，經 TCR 編輯的 T 細胞已被證實安全可行（https://doi.org/10.1126/science.aba7365）。此外，將基因定點整合（targeted integration）至內源性 TCR 基因座（如 TRAC）中，可改善轉殖基因 TCRs（https://doi.org/10.1038/s41551-019-0409-0）或 CARs（Eyquem et al. 2017）的長期穩定表現與功能。最後，以其他替代酵素（例如用於單核苷酸轉換的脫氨酶〔deaminases〕，即鹼基編輯 base editing）取代核酸酶切割活性，正進一步豐富我們進行 T 細胞工程改造的工具箱（https://doi.org/10.1056/NEJMoa2300709）。\n總結而言，T 細胞療法已成為極具前景的新型抗癌武器。其廣泛應用將需要：（1）鑑定出更多的新靶點；（2）針對已確立的靶點，建立適用於多種不同 HLA 分子的 TCRs 庫；（3）導入創新的基因轉殖與基因組編輯生物技術工具；以及（4）改良適用於大規模 GMP 生產的製造方法。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 547,
+      "blocks": [
+        {
+          "id": 6000014,
+          "page": 547,
+          "en": "Airoldi I, Bertaina A, Prigione I, Zorzoli A, Pagliara D, Cocco C, Meazza R, Loiacono F, Lucarelli B, Bernardo ME, Barbarito G, Pende D, Moretta A, Pistoia V, Moretta L, Locatelli F. γδ T-cell reconstitution after HLA-haploidentical hematopoietic transplantation depleted of TCR-αβ+/CD19+ lymphocytes. Blood. 2015;125(15):2349–58. https://doi.org/10.1182/blood-2014-09-599423. Epub 2015 Jan 22",
+          "zh": "Airoldi I, Bertaina A, Prigione I, Zorzoli A, Pagliara D, Cocco C, Meazza R, Loiacono F, Lucarelli B, Bernardo ME, Barbarito G, Pende D, Moretta A, Pistoia V, Moretta L, Locatelli F. γδ T-cell reconstitution after HLA-haploidentical hematopoietic transplantation depleted of TCR-αβ+/CD19+ lymphocytes. Blood. 2015;125(15):2349–58. https://doi.org/10.1182/blood-2014-09-599423. Epub 2015 Jan 22",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Airoldi%20I%2C%20Bertaina%20A%2C%20Prigione%20I%2C%20Zorzoli%20A%2C%20Pagliara%20D%2C%20Cocco%20C%2C%20Meazza%20R%2C%20Loiacono%20F%2C%20Lucarelli%20B%2C%20Bernardo%20ME%2C%20Barbarito%20G%2C%20Pende%20D%2C%20Moretta%20A%2C%20Pistoia%20V%2C%20Moretta%20L%2C%20Locatelli%20F.%20%CE%B3%CE%B4%20T-cell%20reconstitution%20after%20HLA-haploidentical%20hematopoietic%20transplantation%20depleted%20of%20TCR-%CE%B1%CE%B2%2B/CD19%2B%20lymphocytes.%20Blood.%202015%3B125%2815%29%3A2349%E2%80%9358.%20https%3A//doi.org/10.1182/blood-2014-09-599423.%20Epub%202015%20Jan%2022"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Airoldi%20I%2C%20Bertaina%20A%2C%20Prigione%20I%2C%20Zorzoli%20A%2C%20Pagliara%20D%2C%20Cocco%20C%2C%20Meazza%20R%2C%20Loiacono%20F%2C%20Lucarelli%20B%2C%20Bernardo%20ME%2C%20Barbarito%20G%2C%20Pende%20D%2C%20Moretta%20A%2C%20Pistoia%20V%2C%20Moretta%20L%2C%20Locatelli%20F.%20%CE%B3%CE%B4%20T-cell%20reconstitution%20after%20HLA-haploidentical%20hematopoietic%20transplantation%20depleted%20of%20TCR-%CE%B1%CE%B2%2B/CD19%2B%20lymphocytes.%20Blood.%202015%3B125%2815%29%3A2349%E2%80%9358.%20https%3A//doi.org/10.1182/blood-2014-09-599423.%20Epub%202015%20Jan%2022"
+            }
+          ]
+        },
+        {
+          "id": 6000015,
+          "page": 547,
+          "en": "Ali SA, et al. T cells expressing an anti-B-cell maturation antigen chimeric antigen receptor cause remissions of multiple myeloma. Blood. 2016;128:1688–700.",
+          "zh": "Ali SA, et al. T cells expressing an anti-B-cell maturation antigen chimeric antigen receptor cause remissions of multiple myeloma. Blood. 2016;128:1688–700.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ali%20SA%2C%20et%20al.%20T%20cells%20expressing%20an%20anti-B-cell%20maturation%20antigen%20chimeric%20antigen%20receptor%20cause%20remissions%20of%20multiple%20myeloma.%20Blood.%202016%3B128%3A1688%E2%80%93700."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ali%20SA%2C%20et%20al.%20T%20cells%20expressing%20an%20anti-B-cell%20maturation%20antigen%20chimeric%20antigen%20receptor%20cause%20remissions%20of%20multiple%20myeloma.%20Blood.%202016%3B128%3A1688%E2%80%93700."
+            }
+          ]
+        },
+        {
+          "id": 6000016,
+          "page": 547,
+          "en": "André-Schmutz I, Le Deist F, Hacein-Bey-Abina S, Vitetta E, Schindler J, Chedeville G, Vilmer E, Fischer A, Cavazzana-Calvo M. Immune reconstitution without graft-versus-host disease after haemopoietic stem-cell transplantation: a phase 1/2 study. Lancet. 2002;360(9327):130–7. https://doi.org/10.1016/S0140-6736(02)09413-8.",
+          "zh": "André-Schmutz I, Le Deist F, Hacein-Bey-Abina S, Vitetta E, Schindler J, Chedeville G, Vilmer E, Fischer A, Cavazzana-Calvo M. Immune reconstitution without graft-versus-host disease after haemopoietic stem-cell transplantation: a phase 1/2 study. Lancet. 2002;360(9327):130–7. https://doi.org/10.1016/S0140-6736(02)09413-8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Andr%C3%A9-Schmutz%20I%2C%20Le%20Deist%20F%2C%20Hacein-Bey-Abina%20S%2C%20Vitetta%20E%2C%20Schindler%20J%2C%20Chedeville%20G%2C%20Vilmer%20E%2C%20Fischer%20A%2C%20Cavazzana-Calvo%20M.%20Immune%20reconstitution%20without%20graft-versus-host%20disease%20after%20haemopoietic%20stem-cell%20transplantation%3A%20a%20phase%201/2%20study.%20Lancet.%202002%3B360%289327%29%3A130%E2%80%937.%20https%3A//doi.org/10.1016/S0140-6736%2802%2909413-8."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Andr%C3%A9-Schmutz%20I%2C%20Le%20Deist%20F%2C%20Hacein-Bey-Abina%20S%2C%20Vitetta%20E%2C%20Schindler%20J%2C%20Chedeville%20G%2C%20Vilmer%20E%2C%20Fischer%20A%2C%20Cavazzana-Calvo%20M.%20Immune%20reconstitution%20without%20graft-versus-host%20disease%20after%20haemopoietic%20stem-cell%20transplantation%3A%20a%20phase%201/2%20study.%20Lancet.%202002%3B360%289327%29%3A130%E2%80%937.%20https%3A//doi.org/10.1016/S0140-6736%2802%2909413-8."
+            }
+          ]
+        },
+        {
+          "id": 6000017,
+          "page": 547,
+          "en": "Bacchetta R, Lucarelli B, Sartirana C, Gregori S, Lupo Stanghellini MT, Miqueu P, Tomiuk S, Hernandez-Fuentes M, Gianolini ME, Greco R, Bernardi M, Zappone E, Rossini S, Janssen U, Ambrosi A, Salomoni M, Peccatori J, Ciceri F, Roncarolo MG. Immunological Outcome in Haploidentical-HSC Transplanted Patients Treated with IL-10-Anergized Donor T Cells. Front Immunol. 2014;5:16. https://doi.org/10.3389/fimmu.2014.00016. eCollection 2014",
+          "zh": "Bacchetta R, Lucarelli B, Sartirana C, Gregori S, Lupo Stanghellini MT, Miqueu P, Tomiuk S, Hernandez-Fuentes M, Gianolini ME, Greco R, Bernardi M, Zappone E, Rossini S, Janssen U, Ambrosi A, Salomoni M, Peccatori J, Ciceri F, Roncarolo MG. Immunological Outcome in Haploidentical-HSC Transplanted Patients Treated with IL-10-Anergized Donor T Cells. Front Immunol. 2014;5:16. https://doi.org/10.3389/fimmu.2014.00016. eCollection 2014",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bacchetta%20R%2C%20Lucarelli%20B%2C%20Sartirana%20C%2C%20Gregori%20S%2C%20Lupo%20Stanghellini%20MT%2C%20Miqueu%20P%2C%20Tomiuk%20S%2C%20Hernandez-Fuentes%20M%2C%20Gianolini%20ME%2C%20Greco%20R%2C%20Bernardi%20M%2C%20Zappone%20E%2C%20Rossini%20S%2C%20Janssen%20U%2C%20Ambrosi%20A%2C%20Salomoni%20M%2C%20Peccatori%20J%2C%20Ciceri%20F%2C%20Roncarolo%20MG.%20Immunological%20Outcome%20in%20Haploidentical-HSC%20Transplanted%20Patients%20Treated%20with%20IL-10-Anergized%20Donor%20T%20Cells.%20Front%20Immunol.%202014%3B5%3A16.%20https%3A//doi.org/10.3389/fimmu.2014.00016.%20eCollection%202014"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bacchetta%20R%2C%20Lucarelli%20B%2C%20Sartirana%20C%2C%20Gregori%20S%2C%20Lupo%20Stanghellini%20MT%2C%20Miqueu%20P%2C%20Tomiuk%20S%2C%20Hernandez-Fuentes%20M%2C%20Gianolini%20ME%2C%20Greco%20R%2C%20Bernardi%20M%2C%20Zappone%20E%2C%20Rossini%20S%2C%20Janssen%20U%2C%20Ambrosi%20A%2C%20Salomoni%20M%2C%20Peccatori%20J%2C%20Ciceri%20F%2C%20Roncarolo%20MG.%20Immunological%20Outcome%20in%20Haploidentical-HSC%20Transplanted%20Patients%20Treated%20with%20IL-10-Anergized%20Donor%20T%20Cells.%20Front%20Immunol.%202014%3B5%3A16.%20https%3A//doi.org/10.3389/fimmu.2014.00016.%20eCollection%202014"
+            }
+          ]
+        },
+        {
+          "id": 6000018,
+          "page": 547,
+          "en": "Berger et al. Molecular monitoring of T-cell kinetics and migration in severe neurotoxicity after real-world CD19-specific chimeric antigen receptor-T cell therapy. Haematologica 2023;108:444−56.",
+          "zh": "Berger et al. Molecular monitoring of T-cell kinetics and migration in severe neurotoxicity after real-world CD19-specific chimeric antigen receptor-T cell therapy. Haematologica 2023;108:444−56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Berger%20et%20al.%20Molecular%20monitoring%20of%20T-cell%20kinetics%20and%20migration%20in%20severe%20neurotoxicity%20after%20real-world%20CD19-specific%20chimeric%20antigen%20receptor-T%20cell%20therapy.%20Haematologica%202023%3B108%3A444%E2%88%9256."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Berger%20et%20al.%20Molecular%20monitoring%20of%20T-cell%20kinetics%20and%20migration%20in%20severe%20neurotoxicity%20after%20real-world%20CD19-specific%20chimeric%20antigen%20receptor-T%20cell%20therapy.%20Haematologica%202023%3B108%3A444%E2%88%9256."
+            }
+          ]
+        },
+        {
+          "id": 6000019,
+          "page": 547,
+          "en": "Bleakley M, Heimfeld S, Loeb KR, Jones LA, Chaney C, Seropian S, Gooley TA, Sommermeyer F, Riddell SR, Shlomchik WD. Outcomes of acute leukemia patients transplanted with naive T cell-depleted stem cell grafts. Clin Invest. 2015;125(7):2677–89. https://doi.org/10.1172/JCI81229. 2015 Jun 8",
+          "zh": "Bleakley M, Heimfeld S, Loeb KR, Jones LA, Chaney C, Seropian S, Gooley TA, Sommermeyer F, Riddell SR, Shlomchik WD. Outcomes of acute leukemia patients transplanted with naive T cell-depleted stem cell grafts. Clin Invest. 2015;125(7):2677–89. https://doi.org/10.1172/JCI81229. 2015 Jun 8",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bleakley%20M%2C%20Heimfeld%20S%2C%20Loeb%20KR%2C%20Jones%20LA%2C%20Chaney%20C%2C%20Seropian%20S%2C%20Gooley%20TA%2C%20Sommermeyer%20F%2C%20Riddell%20SR%2C%20Shlomchik%20WD.%20Outcomes%20of%20acute%20leukemia%20patients%20transplanted%20with%20naive%20T%20cell-depleted%20stem%20cell%20grafts.%20Clin%20Invest.%202015%3B125%287%29%3A2677%E2%80%9389.%20https%3A//doi.org/10.1172/JCI81229.%202015%20Jun%208"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bleakley%20M%2C%20Heimfeld%20S%2C%20Loeb%20KR%2C%20Jones%20LA%2C%20Chaney%20C%2C%20Seropian%20S%2C%20Gooley%20TA%2C%20Sommermeyer%20F%2C%20Riddell%20SR%2C%20Shlomchik%20WD.%20Outcomes%20of%20acute%20leukemia%20patients%20transplanted%20with%20naive%20T%20cell-depleted%20stem%20cell%20grafts.%20Clin%20Invest.%202015%3B125%287%29%3A2677%E2%80%9389.%20https%3A//doi.org/10.1172/JCI81229.%202015%20Jun%208"
+            }
+          ]
+        },
+        {
+          "id": 6000020,
+          "page": 547,
+          "en": "Bonini C, et al. HSV-TK gene transfer into donor lymphocytes for control of allogeneic graft-versus-leukemia. Science. 1997;276:1719–24.",
+          "zh": "Bonini C, et al. HSV-TK gene transfer into donor lymphocytes for control of allogeneic graft-versus-leukemia. Science. 1997;276:1719–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bonini%20C%2C%20et%20al.%20HSV-TK%20gene%20transfer%20into%20donor%20lymphocytes%20for%20control%20of%20allogeneic%20graft-versus-leukemia.%20Science.%201997%3B276%3A1719%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bonini%20C%2C%20et%20al.%20HSV-TK%20gene%20transfer%20into%20donor%20lymphocytes%20for%20control%20of%20allogeneic%20graft-versus-leukemia.%20Science.%201997%3B276%3A1719%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 6000021,
+          "page": 547,
+          "en": "Bornhäuser M, Thiede C, Platzbecker U, Kiani A, Oelschlaegel U, Babatz J, Lehmann D, Hölig K, Radke J, Tuve S, Wermke M, Wehner R, Jähnisch H, Bachmann MP, Rieber EP, Schetelig J, Ehninger G, Schmitz M. Prophylactic transfer of BCR-ABL-, PR1-, and WT1-reactive donor T cells after T cell-depleted allogeneic hematopoietic cell transplantation in patients with chronic myeloid leukemia. Blood. 2011;117(26):7174–84. https://doi.org/10.1182/blood-2010-09-308569. Epub 2011 May 3",
+          "zh": "Bornhäuser M, Thiede C, Platzbecker U, Kiani A, Oelschlaegel U, Babatz J, Lehmann D, Hölig K, Radke J, Tuve S, Wermke M, Wehner R, Jähnisch H, Bachmann MP, Rieber EP, Schetelig J, Ehninger G, Schmitz M. Prophylactic transfer of BCR-ABL-, PR1-, and WT1-reactive donor T cells after T cell-depleted allogeneic hematopoietic cell transplantation in patients with chronic myeloid leukemia. Blood. 2011;117(26):7174–84. https://doi.org/10.1182/blood-2010-09-308569. Epub 2011 May 3",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bornh%C3%A4user%20M%2C%20Thiede%20C%2C%20Platzbecker%20U%2C%20Kiani%20A%2C%20Oelschlaegel%20U%2C%20Babatz%20J%2C%20Lehmann%20D%2C%20H%C3%B6lig%20K%2C%20Radke%20J%2C%20Tuve%20S%2C%20Wermke%20M%2C%20Wehner%20R%2C%20J%C3%A4hnisch%20H%2C%20Bachmann%20MP%2C%20Rieber%20EP%2C%20Schetelig%20J%2C%20Ehninger%20G%2C%20Schmitz%20M.%20Prophylactic%20transfer%20of%20BCR-ABL-%2C%20PR1-%2C%20and%20WT1-reactive%20donor%20T%20cells%20after%20T%20cell-depleted%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20patients%20with%20chronic%20myeloid%20leukemia.%20Blood.%202011%3B117%2826%29%3A7174%E2%80%9384.%20https%3A//doi.org/10.1182/blood-2010-09-308569.%20Epub%202011%20May%203"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bornh%C3%A4user%20M%2C%20Thiede%20C%2C%20Platzbecker%20U%2C%20Kiani%20A%2C%20Oelschlaegel%20U%2C%20Babatz%20J%2C%20Lehmann%20D%2C%20H%C3%B6lig%20K%2C%20Radke%20J%2C%20Tuve%20S%2C%20Wermke%20M%2C%20Wehner%20R%2C%20J%C3%A4hnisch%20H%2C%20Bachmann%20MP%2C%20Rieber%20EP%2C%20Schetelig%20J%2C%20Ehninger%20G%2C%20Schmitz%20M.%20Prophylactic%20transfer%20of%20BCR-ABL-%2C%20PR1-%2C%20and%20WT1-reactive%20donor%20T%20cells%20after%20T%20cell-depleted%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20patients%20with%20chronic%20myeloid%20leukemia.%20Blood.%202011%3B117%2826%29%3A7174%E2%80%9384.%20https%3A//doi.org/10.1182/blood-2010-09-308569.%20Epub%202011%20May%203"
+            }
+          ]
+        },
+        {
+          "id": 6000022,
+          "page": 547,
+          "en": "Brentjens RJ, Davila ML, Riviere I, Park J, Wang X, Cowell LG, Bartido S, Stefanski J, Taylor C, Olszewska M, Borquez-Ojeda O, Qu J, Wasielewska T, He Q, Bernal Y, Rijo IV, Hedvat C, Kobos R, Curran K, Steinherz P, Jurcic J, Rosenblat T, Maslak P, Frattini M, Sadelain M. CD19-targeted T cells rapidly induce molecular remissions in adults with chemotherapy-refractory acute lymphoblastic leukemia. Sci Transl Med. 2013;5(177):177ra38. https://doi.org/10.1126/scitranslmed.3005930.",
+          "zh": "Brentjens RJ, Davila ML, Riviere I, Park J, Wang X, Cowell LG, Bartido S, Stefanski J, Taylor C, Olszewska M, Borquez-Ojeda O, Qu J, Wasielewska T, He Q, Bernal Y, Rijo IV, Hedvat C, Kobos R, Curran K, Steinherz P, Jurcic J, Rosenblat T, Maslak P, Frattini M, Sadelain M. CD19-targeted T cells rapidly induce molecular remissions in adults with chemotherapy-refractory acute lymphoblastic leukemia. Sci Transl Med. 2013;5(177):177ra38. https://doi.org/10.1126/scitranslmed.3005930.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Brentjens%20RJ%2C%20Davila%20ML%2C%20Riviere%20I%2C%20Park%20J%2C%20Wang%20X%2C%20Cowell%20LG%2C%20Bartido%20S%2C%20Stefanski%20J%2C%20Taylor%20C%2C%20Olszewska%20M%2C%20Borquez-Ojeda%20O%2C%20Qu%20J%2C%20Wasielewska%20T%2C%20He%20Q%2C%20Bernal%20Y%2C%20Rijo%20IV%2C%20Hedvat%20C%2C%20Kobos%20R%2C%20Curran%20K%2C%20Steinherz%20P%2C%20Jurcic%20J%2C%20Rosenblat%20T%2C%20Maslak%20P%2C%20Frattini%20M%2C%20Sadelain%20M.%20CD19-targeted%20T%20cells%20rapidly%20induce%20molecular%20remissions%20in%20adults%20with%20chemotherapy-refractory%20acute%20lymphoblastic%20leukemia.%20Sci%20Transl%20Med.%202013%3B5%28177%29%3A177ra38.%20https%3A//doi.org/10.1126/scitranslmed.3005930."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Brentjens%20RJ%2C%20Davila%20ML%2C%20Riviere%20I%2C%20Park%20J%2C%20Wang%20X%2C%20Cowell%20LG%2C%20Bartido%20S%2C%20Stefanski%20J%2C%20Taylor%20C%2C%20Olszewska%20M%2C%20Borquez-Ojeda%20O%2C%20Qu%20J%2C%20Wasielewska%20T%2C%20He%20Q%2C%20Bernal%20Y%2C%20Rijo%20IV%2C%20Hedvat%20C%2C%20Kobos%20R%2C%20Curran%20K%2C%20Steinherz%20P%2C%20Jurcic%20J%2C%20Rosenblat%20T%2C%20Maslak%20P%2C%20Frattini%20M%2C%20Sadelain%20M.%20CD19-targeted%20T%20cells%20rapidly%20induce%20molecular%20remissions%20in%20adults%20with%20chemotherapy-refractory%20acute%20lymphoblastic%20leukemia.%20Sci%20Transl%20Med.%202013%3B5%28177%29%3A177ra38.%20https%3A//doi.org/10.1126/scitranslmed.3005930."
+            }
+          ]
+        },
+        {
+          "id": 6000023,
+          "page": 547,
+          "en": "Brunstein CG, Miller JS, Cao Q, McKenna DH, Hippen KL, Curtsinger J, Defor T, Levine BL, June CH, Rubinstein P, McGlave PB, Blazar BR, Wagner JE. Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics. Blood. 2011;117(3):1061–70. https://doi.org/10.1182/blood-2010-07-293795. Epub 2010 Oct 15",
+          "zh": "Brunstein CG, Miller JS, Cao Q, McKenna DH, Hippen KL, Curtsinger J, Defor T, Levine BL, June CH, Rubinstein P, McGlave PB, Blazar BR, Wagner JE. Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics. Blood. 2011;117(3):1061–70. https://doi.org/10.1182/blood-2010-07-293795. Epub 2010 Oct 15",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Brunstein%20CG%2C%20Miller%20JS%2C%20Cao%20Q%2C%20McKenna%20DH%2C%20Hippen%20KL%2C%20Curtsinger%20J%2C%20Defor%20T%2C%20Levine%20BL%2C%20June%20CH%2C%20Rubinstein%20P%2C%20McGlave%20PB%2C%20Blazar%20BR%2C%20Wagner%20JE.%20Infusion%20of%20ex%20vivo%20expanded%20T%20regulatory%20cells%20in%20adults%20transplanted%20with%20umbilical%20cord%20blood%3A%20safety%20profile%20and%20detection%20kinetics.%20Blood.%202011%3B117%283%29%3A1061%E2%80%9370.%20https%3A//doi.org/10.1182/blood-2010-07-293795.%20Epub%202010%20Oct%2015"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Brunstein%20CG%2C%20Miller%20JS%2C%20Cao%20Q%2C%20McKenna%20DH%2C%20Hippen%20KL%2C%20Curtsinger%20J%2C%20Defor%20T%2C%20Levine%20BL%2C%20June%20CH%2C%20Rubinstein%20P%2C%20McGlave%20PB%2C%20Blazar%20BR%2C%20Wagner%20JE.%20Infusion%20of%20ex%20vivo%20expanded%20T%20regulatory%20cells%20in%20adults%20transplanted%20with%20umbilical%20cord%20blood%3A%20safety%20profile%20and%20detection%20kinetics.%20Blood.%202011%3B117%283%29%3A1061%E2%80%9370.%20https%3A//doi.org/10.1182/blood-2010-07-293795.%20Epub%202010%20Oct%2015"
+            }
+          ]
+        },
+        {
+          "id": 6000024,
+          "page": 547,
+          "en": "Casucci M, et al. CD44v6-targeted T cells mediate potent antitumor effects against acute myeloid leukemia and multiple myeloma. Blood. 2013;122:3461–72.",
+          "zh": "Casucci M, et al. CD44v6-targeted T cells mediate potent antitumor effects against acute myeloid leukemia and multiple myeloma. Blood. 2013;122:3461–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Casucci%20M%2C%20et%20al.%20CD44v6-targeted%20T%20cells%20mediate%20potent%20antitumor%20effects%20against%20acute%20myeloid%20leukemia%20and%20multiple%20myeloma.%20Blood.%202013%3B122%3A3461%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Casucci%20M%2C%20et%20al.%20CD44v6-targeted%20T%20cells%20mediate%20potent%20antitumor%20effects%20against%20acute%20myeloid%20leukemia%20and%20multiple%20myeloma.%20Blood.%202013%3B122%3A3461%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 6000025,
+          "page": 547,
+          "en": "Chapuis AG, Ragnarsson GB, Nguyen HN, Chaney CN, Pufnock JS, Schmitt TM, Duerkopp N, Roberts IM, Pogosov GL, Ho WY, Ochsenreither S, Wölfl M, Bar M, Radich JP, Yee C, Greenberg PD. Transferred WT1-reactive CD8+ T cells can mediate antileukemic activity and persist in post-transplant patients. Sci Transl Med. 2013;5(174):174ra27. https://doi.org/10.1126/scitranslmed.3004916.",
+          "zh": "Chapuis AG, Ragnarsson GB, Nguyen HN, Chaney CN, Pufnock JS, Schmitt TM, Duerkopp N, Roberts IM, Pogosov GL, Ho WY, Ochsenreither S, Wölfl M, Bar M, Radich JP, Yee C, Greenberg PD. Transferred WT1-reactive CD8+ T cells can mediate antileukemic activity and persist in post-transplant patients. Sci Transl Med. 2013;5(174):174ra27. https://doi.org/10.1126/scitranslmed.3004916.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chapuis%20AG%2C%20Ragnarsson%20GB%2C%20Nguyen%20HN%2C%20Chaney%20CN%2C%20Pufnock%20JS%2C%20Schmitt%20TM%2C%20Duerkopp%20N%2C%20Roberts%20IM%2C%20Pogosov%20GL%2C%20Ho%20WY%2C%20Ochsenreither%20S%2C%20W%C3%B6lfl%20M%2C%20Bar%20M%2C%20Radich%20JP%2C%20Yee%20C%2C%20Greenberg%20PD.%20Transferred%20WT1-reactive%20CD8%2B%20T%20cells%20can%20mediate%20antileukemic%20activity%20and%20persist%20in%20post-transplant%20patients.%20Sci%20Transl%20Med.%202013%3B5%28174%29%3A174ra27.%20https%3A//doi.org/10.1126/scitranslmed.3004916."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chapuis%20AG%2C%20Ragnarsson%20GB%2C%20Nguyen%20HN%2C%20Chaney%20CN%2C%20Pufnock%20JS%2C%20Schmitt%20TM%2C%20Duerkopp%20N%2C%20Roberts%20IM%2C%20Pogosov%20GL%2C%20Ho%20WY%2C%20Ochsenreither%20S%2C%20W%C3%B6lfl%20M%2C%20Bar%20M%2C%20Radich%20JP%2C%20Yee%20C%2C%20Greenberg%20PD.%20Transferred%20WT1-reactive%20CD8%2B%20T%20cells%20can%20mediate%20antileukemic%20activity%20and%20persist%20in%20post-transplant%20patients.%20Sci%20Transl%20Med.%202013%3B5%28174%29%3A174ra27.%20https%3A//doi.org/10.1126/scitranslmed.3004916."
+            }
+          ]
+        },
+        {
+          "id": 6000026,
+          "page": 547,
+          "en": "Chen ZM, O’Shaughnessy MJ, Gramaglia I, Panoskaltsis-Mortari A, Murphy WJ, Narula S, Roncarolo MG, Blazar BR. IL-10 and TGF-beta induce alloreactive CD4+CD25- T cells to acquire regulatory cell function. Blood. 2003;101(12):5076–83. https://doi.org/10.1182/blood-2002-09-2798. Epub 2003 Feb 27.PMID: 12609834",
+          "zh": "Chen ZM, O’Shaughnessy MJ, Gramaglia I, Panoskaltsis-Mortari A, Murphy WJ, Narula S, Roncarolo MG, Blazar BR. IL-10 and TGF-beta induce alloreactive CD4+CD25- T cells to acquire regulatory cell function. Blood. 2003;101(12):5076–83. https://doi.org/10.1182/blood-2002-09-2798. Epub 2003 Feb 27.PMID: 12609834",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chen%20ZM%2C%20O%E2%80%99Shaughnessy%20MJ%2C%20Gramaglia%20I%2C%20Panoskaltsis-Mortari%20A%2C%20Murphy%20WJ%2C%20Narula%20S%2C%20Roncarolo%20MG%2C%20Blazar%20BR.%20IL-10%20and%20TGF-beta%20induce%20alloreactive%20CD4%2BCD25-%20T%20cells%20to%20acquire%20regulatory%20cell%20function.%20Blood.%202003%3B101%2812%29%3A5076%E2%80%9383.%20https%3A//doi.org/10.1182/blood-2002-09-2798.%20Epub%202003%20Feb%2027.PMID%3A%2012609834"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chen%20ZM%2C%20O%E2%80%99Shaughnessy%20MJ%2C%20Gramaglia%20I%2C%20Panoskaltsis-Mortari%20A%2C%20Murphy%20WJ%2C%20Narula%20S%2C%20Roncarolo%20MG%2C%20Blazar%20BR.%20IL-10%20and%20TGF-beta%20induce%20alloreactive%20CD4%2BCD25-%20T%20cells%20to%20acquire%20regulatory%20cell%20function.%20Blood.%202003%3B101%2812%29%3A5076%E2%80%9383.%20https%3A//doi.org/10.1182/blood-2002-09-2798.%20Epub%202003%20Feb%2027.PMID%3A%2012609834"
+            }
+          ]
+        },
+        {
+          "id": 6000027,
+          "page": 547,
+          "en": "Ciceri F, et al. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I–II study. Lancet Oncol. 2009;10:489–500.",
+          "zh": "Ciceri F, et al. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I–II study. Lancet Oncol. 2009;10:489–500.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ciceri%20F%2C%20et%20al.%20Infusion%20of%20suicide-gene-engineered%20donor%20lymphocytes%20after%20family%20haploidentical%20haemopoietic%20stem-cell%20transplantation%20for%20leukaemia%20%28the%20TK007%20trial%29%3A%20a%20non-randomised%20phase%20I%E2%80%93II%20study.%20Lancet%20Oncol.%202009%3B10%3A489%E2%80%93500."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ciceri%20F%2C%20et%20al.%20Infusion%20of%20suicide-gene-engineered%20donor%20lymphocytes%20after%20family%20haploidentical%20haemopoietic%20stem-cell%20transplantation%20for%20leukaemia%20%28the%20TK007%20trial%29%3A%20a%20non-randomised%20phase%20I%E2%80%93II%20study.%20Lancet%20Oncol.%202009%3B10%3A489%E2%80%93500."
+            }
+          ]
+        },
+        {
+          "id": 6000028,
+          "page": 547,
+          "en": "Comoli P, Basso S, Riva G, Barozzi P, Guido I, Gurrado A, Quartuccio G, Rubert L, Lagreca I, Vallerini D, Forghieri F, Morselli M, Bresciani P, Cuoghi A, Paolini A, Colaci E, Marasca R, Cuneo A, Iughetti L, Trenti T, Narni F, Foà R, Zecca M, Luppi M, Potenza L. BCR-ABL-specific T-cell therapy in Ph+ ALL patients on tyrosine-kinase inhibitors. Blood. 2017;129(5):582–6. https://doi.org/10.1182/blood-2016-07-731091. Epub 2016 Dec 7",
+          "zh": "Comoli P, Basso S, Riva G, Barozzi P, Guido I, Gurrado A, Quartuccio G, Rubert L, Lagreca I, Vallerini D, Forghieri F, Morselli M, Bresciani P, Cuoghi A, Paolini A, Colaci E, Marasca R, Cuneo A, Iughetti L, Trenti T, Narni F, Foà R, Zecca M, Luppi M, Potenza L. BCR-ABL-specific T-cell therapy in Ph+ ALL patients on tyrosine-kinase inhibitors. Blood. 2017;129(5):582–6. https://doi.org/10.1182/blood-2016-07-731091. Epub 2016 Dec 7",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Comoli%20P%2C%20Basso%20S%2C%20Riva%20G%2C%20Barozzi%20P%2C%20Guido%20I%2C%20Gurrado%20A%2C%20Quartuccio%20G%2C%20Rubert%20L%2C%20Lagreca%20I%2C%20Vallerini%20D%2C%20Forghieri%20F%2C%20Morselli%20M%2C%20Bresciani%20P%2C%20Cuoghi%20A%2C%20Paolini%20A%2C%20Colaci%20E%2C%20Marasca%20R%2C%20Cuneo%20A%2C%20Iughetti%20L%2C%20Trenti%20T%2C%20Narni%20F%2C%20Fo%C3%A0%20R%2C%20Zecca%20M%2C%20Luppi%20M%2C%20Potenza%20L.%20BCR-ABL-specific%20T-cell%20therapy%20in%20Ph%2B%20ALL%20patients%20on%20tyrosine-kinase%20inhibitors.%20Blood.%202017%3B129%285%29%3A582%E2%80%936.%20https%3A//doi.org/10.1182/blood-2016-07-731091.%20Epub%202016%20Dec%207"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Comoli%20P%2C%20Basso%20S%2C%20Riva%20G%2C%20Barozzi%20P%2C%20Guido%20I%2C%20Gurrado%20A%2C%20Quartuccio%20G%2C%20Rubert%20L%2C%20Lagreca%20I%2C%20Vallerini%20D%2C%20Forghieri%20F%2C%20Morselli%20M%2C%20Bresciani%20P%2C%20Cuoghi%20A%2C%20Paolini%20A%2C%20Colaci%20E%2C%20Marasca%20R%2C%20Cuneo%20A%2C%20Iughetti%20L%2C%20Trenti%20T%2C%20Narni%20F%2C%20Fo%C3%A0%20R%2C%20Zecca%20M%2C%20Luppi%20M%2C%20Potenza%20L.%20BCR-ABL-specific%20T-cell%20therapy%20in%20Ph%2B%20ALL%20patients%20on%20tyrosine-kinase%20inhibitors.%20Blood.%202017%3B129%285%29%3A582%E2%80%936.%20https%3A//doi.org/10.1182/blood-2016-07-731091.%20Epub%202016%20Dec%207"
+            }
+          ]
+        },
+        {
+          "id": 6000029,
+          "page": 547,
+          "en": "Di Ianni M, Falzetti F, Carotti A, Terenzi A, Castellino F, Bonifacio E, Del Papa B, Zei T, Ostini RI, Cecchini D, Aloisi T, Perruccio K, Ruggeri L, Balucani C, Pierini A, Sportoletti P, Aristei C, Falini B, Reisner Y, Velardi A, Aversa F, Martelli MF. Tregs prevent GVHD and promote immune reconstitution in HLA-haploidentical transplantation. Blood. 2011;117(14):3921–8. https://doi.org/10.1182/blood-2010-10-311894. Epub 2011 Feb 3",
+          "zh": "Di Ianni M, Falzetti F, Carotti A, Terenzi A, Castellino F, Bonifacio E, Del Papa B, Zei T, Ostini RI, Cecchini D, Aloisi T, Perruccio K, Ruggeri L, Balucani C, Pierini A, Sportoletti P, Aristei C, Falini B, Reisner Y, Velardi A, Aversa F, Martelli MF. Tregs prevent GVHD and promote immune reconstitution in HLA-haploidentical transplantation. Blood. 2011;117(14):3921–8. https://doi.org/10.1182/blood-2010-10-311894. Epub 2011 Feb 3",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Di%20Ianni%20M%2C%20Falzetti%20F%2C%20Carotti%20A%2C%20Terenzi%20A%2C%20Castellino%20F%2C%20Bonifacio%20E%2C%20Del%20Papa%20B%2C%20Zei%20T%2C%20Ostini%20RI%2C%20Cecchini%20D%2C%20Aloisi%20T%2C%20Perruccio%20K%2C%20Ruggeri%20L%2C%20Balucani%20C%2C%20Pierini%20A%2C%20Sportoletti%20P%2C%20Aristei%20C%2C%20Falini%20B%2C%20Reisner%20Y%2C%20Velardi%20A%2C%20Aversa%20F%2C%20Martelli%20MF.%20Tregs%20prevent%20GVHD%20and%20promote%20immune%20reconstitution%20in%20HLA-haploidentical%20transplantation.%20Blood.%202011%3B117%2814%29%3A3921%E2%80%938.%20https%3A//doi.org/10.1182/blood-2010-10-311894.%20Epub%202011%20Feb%203"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Di%20Ianni%20M%2C%20Falzetti%20F%2C%20Carotti%20A%2C%20Terenzi%20A%2C%20Castellino%20F%2C%20Bonifacio%20E%2C%20Del%20Papa%20B%2C%20Zei%20T%2C%20Ostini%20RI%2C%20Cecchini%20D%2C%20Aloisi%20T%2C%20Perruccio%20K%2C%20Ruggeri%20L%2C%20Balucani%20C%2C%20Pierini%20A%2C%20Sportoletti%20P%2C%20Aristei%20C%2C%20Falini%20B%2C%20Reisner%20Y%2C%20Velardi%20A%2C%20Aversa%20F%2C%20Martelli%20MF.%20Tregs%20prevent%20GVHD%20and%20promote%20immune%20reconstitution%20in%20HLA-haploidentical%20transplantation.%20Blood.%202011%3B117%2814%29%3A3921%E2%80%938.%20https%3A//doi.org/10.1182/blood-2010-10-311894.%20Epub%202011%20Feb%203"
+            }
+          ]
+        },
+        {
+          "id": 6000030,
+          "page": 547,
+          "en": "Di Stasi A, et al. Inducible apoptosis as a safety switch for adoptive cell therapy. N Engl J Med. 2011;365:1673–83.",
+          "zh": "Di Stasi A, et al. Inducible apoptosis as a safety switch for adoptive cell therapy. N Engl J Med. 2011;365:1673–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Di%20Stasi%20A%2C%20et%20al.%20Inducible%20apoptosis%20as%20a%20safety%20switch%20for%20adoptive%20cell%20therapy.%20N%20Engl%20J%20Med.%202011%3B365%3A1673%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Di%20Stasi%20A%2C%20et%20al.%20Inducible%20apoptosis%20as%20a%20safety%20switch%20for%20adoptive%20cell%20therapy.%20N%20Engl%20J%20Med.%202011%3B365%3A1673%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 6000031,
+          "page": 547,
+          "en": "Eyquem J, et al. Targeting a CAR to the TRAC locus with CRISPR/Cas9 enhances tumour rejection. Nature. 2017;543:113. https://doi.org/10.1038/nature21405.",
+          "zh": "Eyquem J, et al. Targeting a CAR to the TRAC locus with CRISPR/Cas9 enhances tumour rejection. Nature. 2017;543:113. https://doi.org/10.1038/nature21405.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eyquem%20J%2C%20et%20al.%20Targeting%20a%20CAR%20to%20the%20TRAC%20locus%20with%20CRISPR/Cas9%20enhances%20tumour%20rejection.%20Nature.%202017%3B543%3A113.%20https%3A//doi.org/10.1038/nature21405."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eyquem%20J%2C%20et%20al.%20Targeting%20a%20CAR%20to%20the%20TRAC%20locus%20with%20CRISPR/Cas9%20enhances%20tumour%20rejection.%20Nature.%202017%3B543%3A113.%20https%3A//doi.org/10.1038/nature21405."
+            }
+          ]
+        },
+        {
+          "id": 6000032,
+          "page": 547,
+          "en": "Fehse B, Ayuk FA, Kröger N, Fang L, Kühlcke K, Heinzelmann M, Zabelina T, Fauser AA, Zander AR. Evidence for increased risk of secondary graft failure after in vivo depletion of suicide gene-modified T lymphocytes transplanted in conjunction with CD34+-enriched blood stem cells. Blood. 2004;104(10):3408–9. https://doi.org/10.1182/blood-2004-07-2813.",
+          "zh": "Fehse B, Ayuk FA, Kröger N, Fang L, Kühlcke K, Heinzelmann M, Zabelina T, Fauser AA, Zander AR. Evidence for increased risk of secondary graft failure after in vivo depletion of suicide gene-modified T lymphocytes transplanted in conjunction with CD34+-enriched blood stem cells. Blood. 2004;104(10):3408–9. https://doi.org/10.1182/blood-2004-07-2813.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fehse%20B%2C%20Ayuk%20FA%2C%20Kr%C3%B6ger%20N%2C%20Fang%20L%2C%20K%C3%BChlcke%20K%2C%20Heinzelmann%20M%2C%20Zabelina%20T%2C%20Fauser%20AA%2C%20Zander%20AR.%20Evidence%20for%20increased%20risk%20of%20secondary%20graft%20failure%20after%20in%20vivo%20depletion%20of%20suicide%20gene-modified%20T%20lymphocytes%20transplanted%20in%20conjunction%20with%20CD34%2B-enriched%20blood%20stem%20cells.%20Blood.%202004%3B104%2810%29%3A3408%E2%80%939.%20https%3A//doi.org/10.1182/blood-2004-07-2813."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fehse%20B%2C%20Ayuk%20FA%2C%20Kr%C3%B6ger%20N%2C%20Fang%20L%2C%20K%C3%BChlcke%20K%2C%20Heinzelmann%20M%2C%20Zabelina%20T%2C%20Fauser%20AA%2C%20Zander%20AR.%20Evidence%20for%20increased%20risk%20of%20secondary%20graft%20failure%20after%20in%20vivo%20depletion%20of%20suicide%20gene-modified%20T%20lymphocytes%20transplanted%20in%20conjunction%20with%20CD34%2B-enriched%20blood%20stem%20cells.%20Blood.%202004%3B104%2810%29%3A3408%E2%80%939.%20https%3A//doi.org/10.1182/blood-2004-07-2813."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 548,
+      "blocks": [
+        {
+          "id": 6000033,
+          "page": 548,
+          "en": "Fry TJ, et al. CD22-targeted CAR T cells induce remission in B-ALL that is naive or resistant to CD19-targeted CAR immunotherapy. Nat Med. 2018;24:20–8.",
+          "zh": "Fry TJ, et al. CD22-targeted CAR T cells induce remission in B-ALL that is naive or resistant to CD19-targeted CAR immunotherapy. Nat Med. 2018;24:20–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fry%20TJ%2C%20et%20al.%20CD22-targeted%20CAR%20T%20cells%20induce%20remission%20in%20B-ALL%20that%20is%20naive%20or%20resistant%20to%20CD19-targeted%20CAR%20immunotherapy.%20Nat%20Med.%202018%3B24%3A20%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fry%20TJ%2C%20et%20al.%20CD22-targeted%20CAR%20T%20cells%20induce%20remission%20in%20B-ALL%20that%20is%20naive%20or%20resistant%20to%20CD19-targeted%20CAR%20immunotherapy.%20Nat%20Med.%202018%3B24%3A20%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6000034,
+          "page": 548,
+          "en": "Gardner R, et al. Acquisition of a CD19-negative myeloid phenotype allows immune escape of MLL-rearranged B-ALL from CD19 CAR-T-cell therapy. Blood. 2016;127:2406–10.",
+          "zh": "Gardner R, et al. Acquisition of a CD19-negative myeloid phenotype allows immune escape of MLL-rearranged B-ALL from CD19 CAR-T-cell therapy. Blood. 2016;127:2406–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gardner%20R%2C%20et%20al.%20Acquisition%20of%20a%20CD19-negative%20myeloid%20phenotype%20allows%20immune%20escape%20of%20MLL-rearranged%20B-ALL%20from%20CD19%20CAR-T-cell%20therapy.%20Blood.%202016%3B127%3A2406%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gardner%20R%2C%20et%20al.%20Acquisition%20of%20a%20CD19-negative%20myeloid%20phenotype%20allows%20immune%20escape%20of%20MLL-rearranged%20B-ALL%20from%20CD19%20CAR-T-cell%20therapy.%20Blood.%202016%3B127%3A2406%E2%80%9310."
+            }
+          ]
+        },
+        {
+          "id": 6000035,
+          "page": 548,
+          "en": "Gogishvili T, et al. SLAMF7-CAR T cells eliminate myeloma and confer selective fratricide of SLAMF7+normal lymphocytes. Blood. 2017;130:2838–47.",
+          "zh": "Gogishvili T, et al. SLAMF7-CAR T cells eliminate myeloma and confer selective fratricide of SLAMF7+normal lymphocytes. Blood. 2017;130:2838–47.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gogishvili%20T%2C%20et%20al.%20SLAMF7-CAR%20T%20cells%20eliminate%20myeloma%20and%20confer%20selective%20fratricide%20of%20SLAMF7%2Bnormal%20lymphocytes.%20Blood.%202017%3B130%3A2838%E2%80%9347."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gogishvili%20T%2C%20et%20al.%20SLAMF7-CAR%20T%20cells%20eliminate%20myeloma%20and%20confer%20selective%20fratricide%20of%20SLAMF7%2Bnormal%20lymphocytes.%20Blood.%202017%3B130%3A2838%E2%80%9347."
+            }
+          ]
+        },
+        {
+          "id": 6000036,
+          "page": 548,
+          "en": "Groux H, O’Garra A, Bigler M, Rouleau M, Antonenko S, de Vries JE, Roncarolo MG. A CD4+ T-cell subset inhibits antigen-specific T-cell responses and prevents colitis. Nature. 1997;389(6652):737–42. https://doi.org/10.1038/39614.",
+          "zh": "Groux H, O’Garra A, Bigler M, Rouleau M, Antonenko S, de Vries JE, Roncarolo MG. A CD4+ T-cell subset inhibits antigen-specific T-cell responses and prevents colitis. Nature. 1997;389(6652):737–42. https://doi.org/10.1038/39614.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Groux%20H%2C%20O%E2%80%99Garra%20A%2C%20Bigler%20M%2C%20Rouleau%20M%2C%20Antonenko%20S%2C%20de%20Vries%20JE%2C%20Roncarolo%20MG.%20A%20CD4%2B%20T-cell%20subset%20inhibits%20antigen-specific%20T-cell%20responses%20and%20prevents%20colitis.%20Nature.%201997%3B389%286652%29%3A737%E2%80%9342.%20https%3A//doi.org/10.1038/39614."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Groux%20H%2C%20O%E2%80%99Garra%20A%2C%20Bigler%20M%2C%20Rouleau%20M%2C%20Antonenko%20S%2C%20de%20Vries%20JE%2C%20Roncarolo%20MG.%20A%20CD4%2B%20T-cell%20subset%20inhibits%20antigen-specific%20T-cell%20responses%20and%20prevents%20colitis.%20Nature.%201997%3B389%286652%29%3A737%E2%80%9342.%20https%3A//doi.org/10.1038/39614."
+            }
+          ]
+        },
+        {
+          "id": 6000037,
+          "page": 548,
+          "en": "Introna M, Borleri G, Conti E, Franceschetti M, Barbui AM, Broady R, Dander E, Gaipa G, D’Amico G, Biagi E, Parma M, Pogliani EM, Spinelli O, Baronciani D, Grassi A, Golay J, Barbui T, Biondi A, Rambaldi A. Repeated infusions of donor-derived cytokine-induced killer cells in patients relapsing after allogeneic stem cell transplantation: a phase I study. Haematologica. 2007;92(7):952–9. https://doi.org/10.3324/haematol.11132.",
+          "zh": "Introna M, Borleri G, Conti E, Franceschetti M, Barbui AM, Broady R, Dander E, Gaipa G, D’Amico G, Biagi E, Parma M, Pogliani EM, Spinelli O, Baronciani D, Grassi A, Golay J, Barbui T, Biondi A, Rambaldi A. Repeated infusions of donor-derived cytokine-induced killer cells in patients relapsing after allogeneic stem cell transplantation: a phase I study. Haematologica. 2007;92(7):952–9. https://doi.org/10.3324/haematol.11132.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Introna%20M%2C%20Borleri%20G%2C%20Conti%20E%2C%20Franceschetti%20M%2C%20Barbui%20AM%2C%20Broady%20R%2C%20Dander%20E%2C%20Gaipa%20G%2C%20D%E2%80%99Amico%20G%2C%20Biagi%20E%2C%20Parma%20M%2C%20Pogliani%20EM%2C%20Spinelli%20O%2C%20Baronciani%20D%2C%20Grassi%20A%2C%20Golay%20J%2C%20Barbui%20T%2C%20Biondi%20A%2C%20Rambaldi%20A.%20Repeated%20infusions%20of%20donor-derived%20cytokine-induced%20killer%20cells%20in%20patients%20relapsing%20after%20allogeneic%20stem%20cell%20transplantation%3A%20a%20phase%20I%20study.%20Haematologica.%202007%3B92%287%29%3A952%E2%80%939.%20https%3A//doi.org/10.3324/haematol.11132."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Introna%20M%2C%20Borleri%20G%2C%20Conti%20E%2C%20Franceschetti%20M%2C%20Barbui%20AM%2C%20Broady%20R%2C%20Dander%20E%2C%20Gaipa%20G%2C%20D%E2%80%99Amico%20G%2C%20Biagi%20E%2C%20Parma%20M%2C%20Pogliani%20EM%2C%20Spinelli%20O%2C%20Baronciani%20D%2C%20Grassi%20A%2C%20Golay%20J%2C%20Barbui%20T%2C%20Biondi%20A%2C%20Rambaldi%20A.%20Repeated%20infusions%20of%20donor-derived%20cytokine-induced%20killer%20cells%20in%20patients%20relapsing%20after%20allogeneic%20stem%20cell%20transplantation%3A%20a%20phase%20I%20study.%20Haematologica.%202007%3B92%287%29%3A952%E2%80%939.%20https%3A//doi.org/10.3324/haematol.11132."
+            }
+          ]
+        },
+        {
+          "id": 6000038,
+          "page": 548,
+          "en": "Introna M, Pievani A, Borleri G, Capelli C, Algarotti A, Micò C, Grassi A, Oldani E, Golay J, Rambaldi A. Feasibility and safety of adoptive immunotherapy with CIK cells after cord blood transplantation. Biol Blood Marrow Transplant. 2010;16(11):1603–7. https://doi.org/10.1016/j.bbmt.2010.05.015. Epub 2010 Jun 1",
+          "zh": "Introna M, Pievani A, Borleri G, Capelli C, Algarotti A, Micò C, Grassi A, Oldani E, Golay J, Rambaldi A. Feasibility and safety of adoptive immunotherapy with CIK cells after cord blood transplantation. Biol Blood Marrow Transplant. 2010;16(11):1603–7. https://doi.org/10.1016/j.bbmt.2010.05.015. Epub 2010 Jun 1",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Introna%20M%2C%20Pievani%20A%2C%20Borleri%20G%2C%20Capelli%20C%2C%20Algarotti%20A%2C%20Mic%C3%B2%20C%2C%20Grassi%20A%2C%20Oldani%20E%2C%20Golay%20J%2C%20Rambaldi%20A.%20Feasibility%20and%20safety%20of%20adoptive%20immunotherapy%20with%20CIK%20cells%20after%20cord%20blood%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%2811%29%3A1603%E2%80%937.%20https%3A//doi.org/10.1016/j.bbmt.2010.05.015.%20Epub%202010%20Jun%201"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Introna%20M%2C%20Pievani%20A%2C%20Borleri%20G%2C%20Capelli%20C%2C%20Algarotti%20A%2C%20Mic%C3%B2%20C%2C%20Grassi%20A%2C%20Oldani%20E%2C%20Golay%20J%2C%20Rambaldi%20A.%20Feasibility%20and%20safety%20of%20adoptive%20immunotherapy%20with%20CIK%20cells%20after%20cord%20blood%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%2811%29%3A1603%E2%80%937.%20https%3A//doi.org/10.1016/j.bbmt.2010.05.015.%20Epub%202010%20Jun%201"
+            }
+          ]
+        },
+        {
+          "id": 6000039,
+          "page": 548,
+          "en": "Kochenderfer JN, Yu Z, Frasheri D, Restifo NP, Rosenberg SA. Adoptive transfer of syngeneic T cells transduced with a chimeric antigen receptor that recognizes murine CD19 can eradicate lymphoma and normal B cells. Blood. 2010;116(19):3875–86. https://doi.org/10.1182/blood-2010-01-265041. Epub 2010 Jul 14",
+          "zh": "Kochenderfer JN, Yu Z, Frasheri D, Restifo NP, Rosenberg SA. Adoptive transfer of syngeneic T cells transduced with a chimeric antigen receptor that recognizes murine CD19 can eradicate lymphoma and normal B cells. Blood. 2010;116(19):3875–86. https://doi.org/10.1182/blood-2010-01-265041. Epub 2010 Jul 14",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kochenderfer%20JN%2C%20Yu%20Z%2C%20Frasheri%20D%2C%20Restifo%20NP%2C%20Rosenberg%20SA.%20Adoptive%20transfer%20of%20syngeneic%20T%20cells%20transduced%20with%20a%20chimeric%20antigen%20receptor%20that%20recognizes%20murine%20CD19%20can%20eradicate%20lymphoma%20and%20normal%20B%20cells.%20Blood.%202010%3B116%2819%29%3A3875%E2%80%9386.%20https%3A//doi.org/10.1182/blood-2010-01-265041.%20Epub%202010%20Jul%2014"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kochenderfer%20JN%2C%20Yu%20Z%2C%20Frasheri%20D%2C%20Restifo%20NP%2C%20Rosenberg%20SA.%20Adoptive%20transfer%20of%20syngeneic%20T%20cells%20transduced%20with%20a%20chimeric%20antigen%20receptor%20that%20recognizes%20murine%20CD19%20can%20eradicate%20lymphoma%20and%20normal%20B%20cells.%20Blood.%202010%3B116%2819%29%3A3875%E2%80%9386.%20https%3A//doi.org/10.1182/blood-2010-01-265041.%20Epub%202010%20Jul%2014"
+            }
+          ]
+        },
+        {
+          "id": 6000040,
+          "page": 548,
+          "en": "Koehne G, Doubrovin M, Doubrovina E, Zanzonico P, Gallardo HF, Ivanova A, Balatoni J, Teruya-Feldstein J, Heller G, May C, Ponomarev V, Ruan S, Finn R, Blasberg RG, Bornmann W, Riviere I, Sadelain M, O’Reilly RJ, Larson SM, Tjuvajev JG. Serial in vivo imaging of the targeted migration of human HSV-TK-transduced antigen-specific lymphocytes. Nat Biotechnol. 2003;21(4):405–13. https://doi.org/10.1038/nbt805. Epub 2003 Mar 24",
+          "zh": "Koehne G, Doubrovin M, Doubrovina E, Zanzonico P, Gallardo HF, Ivanova A, Balatoni J, Teruya-Feldstein J, Heller G, May C, Ponomarev V, Ruan S, Finn R, Blasberg RG, Bornmann W, Riviere I, Sadelain M, O’Reilly RJ, Larson SM, Tjuvajev JG. Serial in vivo imaging of the targeted migration of human HSV-TK-transduced antigen-specific lymphocytes. Nat Biotechnol. 2003;21(4):405–13. https://doi.org/10.1038/nbt805. Epub 2003 Mar 24",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Koehne%20G%2C%20Doubrovin%20M%2C%20Doubrovina%20E%2C%20Zanzonico%20P%2C%20Gallardo%20HF%2C%20Ivanova%20A%2C%20Balatoni%20J%2C%20Teruya-Feldstein%20J%2C%20Heller%20G%2C%20May%20C%2C%20Ponomarev%20V%2C%20Ruan%20S%2C%20Finn%20R%2C%20Blasberg%20RG%2C%20Bornmann%20W%2C%20Riviere%20I%2C%20Sadelain%20M%2C%20O%E2%80%99Reilly%20RJ%2C%20Larson%20SM%2C%20Tjuvajev%20JG.%20Serial%20in%20vivo%20imaging%20of%20the%20targeted%20migration%20of%20human%20HSV-TK-transduced%20antigen-specific%20lymphocytes.%20Nat%20Biotechnol.%202003%3B21%284%29%3A405%E2%80%9313.%20https%3A//doi.org/10.1038/nbt805.%20Epub%202003%20Mar%2024"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Koehne%20G%2C%20Doubrovin%20M%2C%20Doubrovina%20E%2C%20Zanzonico%20P%2C%20Gallardo%20HF%2C%20Ivanova%20A%2C%20Balatoni%20J%2C%20Teruya-Feldstein%20J%2C%20Heller%20G%2C%20May%20C%2C%20Ponomarev%20V%2C%20Ruan%20S%2C%20Finn%20R%2C%20Blasberg%20RG%2C%20Bornmann%20W%2C%20Riviere%20I%2C%20Sadelain%20M%2C%20O%E2%80%99Reilly%20RJ%2C%20Larson%20SM%2C%20Tjuvajev%20JG.%20Serial%20in%20vivo%20imaging%20of%20the%20targeted%20migration%20of%20human%20HSV-TK-transduced%20antigen-specific%20lymphocytes.%20Nat%20Biotechnol.%202003%3B21%284%29%3A405%E2%80%9313.%20https%3A//doi.org/10.1038/nbt805.%20Epub%202003%20Mar%2024"
+            }
+          ]
+        },
+        {
+          "id": 6000041,
+          "page": 548,
+          "en": "Kolb HJ, et al. Donor leukocyte transfusions for treatment of recurrent chronic myelogenous leukemia in marrow transplant patients. Blood. 1990;76:2462–5.",
+          "zh": "Kolb HJ, et al. Donor leukocyte transfusions for treatment of recurrent chronic myelogenous leukemia in marrow transplant patients. Blood. 1990;76:2462–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kolb%20HJ%2C%20et%20al.%20Donor%20leukocyte%20transfusions%20for%20treatment%20of%20recurrent%20chronic%20myelogenous%20leukemia%20in%20marrow%20transplant%20patients.%20Blood.%201990%3B76%3A2462%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kolb%20HJ%2C%20et%20al.%20Donor%20leukocyte%20transfusions%20for%20treatment%20of%20recurrent%20chronic%20myelogenous%20leukemia%20in%20marrow%20transplant%20patients.%20Blood.%201990%3B76%3A2462%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 6000042,
+          "page": 548,
+          "en": "Lang P, Feuchtinger T, Teltschik HM, Schwinger W, Schlegel P, Pfeiffer M, Schumm M, Lang AM, Lang B, Schwarze CP, Ebinger M, Urban C, Handgretinger R. Improved immune recovery after transplantation of TCRαβ/CD19-depleted allografts from haploidentical donors in pediatric patients. Bone Marrow Transplant. 2015;50(Suppl 2):S6–10. https://doi.org/10.1038/bmt.2015.87.",
+          "zh": "Lang P, Feuchtinger T, Teltschik HM, Schwinger W, Schlegel P, Pfeiffer M, Schumm M, Lang AM, Lang B, Schwarze CP, Ebinger M, Urban C, Handgretinger R. Improved immune recovery after transplantation of TCRαβ/CD19-depleted allografts from haploidentical donors in pediatric patients. Bone Marrow Transplant. 2015;50(Suppl 2):S6–10. https://doi.org/10.1038/bmt.2015.87.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lang%20P%2C%20Feuchtinger%20T%2C%20Teltschik%20HM%2C%20Schwinger%20W%2C%20Schlegel%20P%2C%20Pfeiffer%20M%2C%20Schumm%20M%2C%20Lang%20AM%2C%20Lang%20B%2C%20Schwarze%20CP%2C%20Ebinger%20M%2C%20Urban%20C%2C%20Handgretinger%20R.%20Improved%20immune%20recovery%20after%20transplantation%20of%20TCR%CE%B1%CE%B2/CD19-depleted%20allografts%20from%20haploidentical%20donors%20in%20pediatric%20patients.%20Bone%20Marrow%20Transplant.%202015%3B50%28Suppl%202%29%3AS6%E2%80%9310.%20https%3A//doi.org/10.1038/bmt.2015.87."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lang%20P%2C%20Feuchtinger%20T%2C%20Teltschik%20HM%2C%20Schwinger%20W%2C%20Schlegel%20P%2C%20Pfeiffer%20M%2C%20Schumm%20M%2C%20Lang%20AM%2C%20Lang%20B%2C%20Schwarze%20CP%2C%20Ebinger%20M%2C%20Urban%20C%2C%20Handgretinger%20R.%20Improved%20immune%20recovery%20after%20transplantation%20of%20TCR%CE%B1%CE%B2/CD19-depleted%20allografts%20from%20haploidentical%20donors%20in%20pediatric%20patients.%20Bone%20Marrow%20Transplant.%202015%3B50%28Suppl%202%29%3AS6%E2%80%9310.%20https%3A//doi.org/10.1038/bmt.2015.87."
+            }
+          ]
+        },
+        {
+          "id": 6000043,
+          "page": 548,
+          "en": "Maschan M, Shelikhova L, Ilushina M, Kurnikova E, Boyakova E, Balashov D, Persiantseva M, Skvortsova Y, Laberko A, Muzalevskii Y, Kazachenok A, Glushkova S, Bobrynina V, Kalinina V, Olshanskaya Y, Baidildina D, Novichkova G, Maschan A. TCR-alpha/beta and CD19 depletion and treosulfan-based conditioning regimen in unrelated and haploidentical transplantation in children with acute myeloid leukemia. Bone Marrow Transplant. 2016;51(5):668–74. https://doi.org/10.1038/bmt.2015.343. Epub 2016 Jan 25.PMID: 26808573",
+          "zh": "Maschan M, Shelikhova L, Ilushina M, Kurnikova E, Boyakova E, Balashov D, Persiantseva M, Skvortsova Y, Laberko A, Muzalevskii Y, Kazachenok A, Glushkova S, Bobrynina V, Kalinina V, Olshanskaya Y, Baidildina D, Novichkova G, Maschan A. TCR-alpha/beta and CD19 depletion and treosulfan-based conditioning regimen in unrelated and haploidentical transplantation in children with acute myeloid leukemia. Bone Marrow Transplant. 2016;51(5):668–74. https://doi.org/10.1038/bmt.2015.343. Epub 2016 Jan 25.PMID: 26808573",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maschan%20M%2C%20Shelikhova%20L%2C%20Ilushina%20M%2C%20Kurnikova%20E%2C%20Boyakova%20E%2C%20Balashov%20D%2C%20Persiantseva%20M%2C%20Skvortsova%20Y%2C%20Laberko%20A%2C%20Muzalevskii%20Y%2C%20Kazachenok%20A%2C%20Glushkova%20S%2C%20Bobrynina%20V%2C%20Kalinina%20V%2C%20Olshanskaya%20Y%2C%20Baidildina%20D%2C%20Novichkova%20G%2C%20Maschan%20A.%20TCR-alpha/beta%20and%20CD19%20depletion%20and%20treosulfan-based%20conditioning%20regimen%20in%20unrelated%20and%20haploidentical%20transplantation%20in%20children%20with%20acute%20myeloid%20leukemia.%20Bone%20Marrow%20Transplant.%202016%3B51%285%29%3A668%E2%80%9374.%20https%3A//doi.org/10.1038/bmt.2015.343.%20Epub%202016%20Jan%2025.PMID%3A%2026808573"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maschan%20M%2C%20Shelikhova%20L%2C%20Ilushina%20M%2C%20Kurnikova%20E%2C%20Boyakova%20E%2C%20Balashov%20D%2C%20Persiantseva%20M%2C%20Skvortsova%20Y%2C%20Laberko%20A%2C%20Muzalevskii%20Y%2C%20Kazachenok%20A%2C%20Glushkova%20S%2C%20Bobrynina%20V%2C%20Kalinina%20V%2C%20Olshanskaya%20Y%2C%20Baidildina%20D%2C%20Novichkova%20G%2C%20Maschan%20A.%20TCR-alpha/beta%20and%20CD19%20depletion%20and%20treosulfan-based%20conditioning%20regimen%20in%20unrelated%20and%20haploidentical%20transplantation%20in%20children%20with%20acute%20myeloid%20leukemia.%20Bone%20Marrow%20Transplant.%202016%3B51%285%29%3A668%E2%80%9374.%20https%3A//doi.org/10.1038/bmt.2015.343.%20Epub%202016%20Jan%2025.PMID%3A%2026808573"
+            }
+          ]
+        },
+        {
+          "id": 6000044,
+          "page": 548,
+          "en": "Maude SL, et al. Chimeric antigen receptor T cells for sustained remissions in leukemia. N Engl J Med. 2014;371:1507–17.",
+          "zh": "Maude SL, et al. Chimeric antigen receptor T cells for sustained remissions in leukemia. N Engl J Med. 2014;371:1507–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maude%20SL%2C%20et%20al.%20Chimeric%20antigen%20receptor%20T%20cells%20for%20sustained%20remissions%20in%20leukemia.%20N%20Engl%20J%20Med.%202014%3B371%3A1507%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maude%20SL%2C%20et%20al.%20Chimeric%20antigen%20receptor%20T%20cells%20for%20sustained%20remissions%20in%20leukemia.%20N%20Engl%20J%20Med.%202014%3B371%3A1507%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 6000045,
+          "page": 548,
+          "en": "Maury S, Lemoine FM, Hicheri Y, Rosenzwajg M, Badoual C, Cheraï M, Beaumont J-L, Azar N, Dhedin N, Sirvent A, Buzyn A, Rubio M-T, Vigouroux S, Montagne O, Bories D, Roudot-Thoraval F, Vernant J-P, Cordonnier C, Klatzmann D, Cohen JL. CD4+CD25+ regulatory T cell depletion improves the graft-versus-tumor effect of donor lymphocytes after allogeneic hematopoietic stem cell transplantation. Sci Transl Med. 2010;2(41):41ra52. https://doi.org/10.1126/scitranslmed.3001302.",
+          "zh": "Maury S, Lemoine FM, Hicheri Y, Rosenzwajg M, Badoual C, Cheraï M, Beaumont J-L, Azar N, Dhedin N, Sirvent A, Buzyn A, Rubio M-T, Vigouroux S, Montagne O, Bories D, Roudot-Thoraval F, Vernant J-P, Cordonnier C, Klatzmann D, Cohen JL. CD4+CD25+ regulatory T cell depletion improves the graft-versus-tumor effect of donor lymphocytes after allogeneic hematopoietic stem cell transplantation. Sci Transl Med. 2010;2(41):41ra52. https://doi.org/10.1126/scitranslmed.3001302.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maury%20S%2C%20Lemoine%20FM%2C%20Hicheri%20Y%2C%20Rosenzwajg%20M%2C%20Badoual%20C%2C%20Chera%C3%AF%20M%2C%20Beaumont%20J-L%2C%20Azar%20N%2C%20Dhedin%20N%2C%20Sirvent%20A%2C%20Buzyn%20A%2C%20Rubio%20M-T%2C%20Vigouroux%20S%2C%20Montagne%20O%2C%20Bories%20D%2C%20Roudot-Thoraval%20F%2C%20Vernant%20J-P%2C%20Cordonnier%20C%2C%20Klatzmann%20D%2C%20Cohen%20JL.%20CD4%2BCD25%2B%20regulatory%20T%20cell%20depletion%20improves%20the%20graft-versus-tumor%20effect%20of%20donor%20lymphocytes%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Sci%20Transl%20Med.%202010%3B2%2841%29%3A41ra52.%20https%3A//doi.org/10.1126/scitranslmed.3001302."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maury%20S%2C%20Lemoine%20FM%2C%20Hicheri%20Y%2C%20Rosenzwajg%20M%2C%20Badoual%20C%2C%20Chera%C3%AF%20M%2C%20Beaumont%20J-L%2C%20Azar%20N%2C%20Dhedin%20N%2C%20Sirvent%20A%2C%20Buzyn%20A%2C%20Rubio%20M-T%2C%20Vigouroux%20S%2C%20Montagne%20O%2C%20Bories%20D%2C%20Roudot-Thoraval%20F%2C%20Vernant%20J-P%2C%20Cordonnier%20C%2C%20Klatzmann%20D%2C%20Cohen%20JL.%20CD4%2BCD25%2B%20regulatory%20T%20cell%20depletion%20improves%20the%20graft-versus-tumor%20effect%20of%20donor%20lymphocytes%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Sci%20Transl%20Med.%202010%3B2%2841%29%3A41ra52.%20https%3A//doi.org/10.1126/scitranslmed.3001302."
+            }
+          ]
+        },
+        {
+          "id": 6000046,
+          "page": 548,
+          "en": "Mielke S, Nunes R, Rezvani K, Fellowes VS, Venne A, Solomon SR, Fan Y, Gostick E, Price DA, Scotto C, Read EJ, Barrett AJ. A clinical-scale selective allodepletion approach for the treatment of HLA-mismatched and matched donor-recipient pairs using expanded T lymphocytes as antigen-presenting cells and a TH9402-based photodepletion technique. Blood. 2008;111(8):4392–402. https://doi.org/10.1182/blood-2007-08-104471. Epub 2007 Sep 18.PMID: 17878399",
+          "zh": "Mielke S, Nunes R, Rezvani K, Fellowes VS, Venne A, Solomon SR, Fan Y, Gostick E, Price DA, Scotto C, Read EJ, Barrett AJ. A clinical-scale selective allodepletion approach for the treatment of HLA-mismatched and matched donor-recipient pairs using expanded T lymphocytes as antigen-presenting cells and a TH9402-based photodepletion technique. Blood. 2008;111(8):4392–402. https://doi.org/10.1182/blood-2007-08-104471. Epub 2007 Sep 18.PMID: 17878399",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mielke%20S%2C%20Nunes%20R%2C%20Rezvani%20K%2C%20Fellowes%20VS%2C%20Venne%20A%2C%20Solomon%20SR%2C%20Fan%20Y%2C%20Gostick%20E%2C%20Price%20DA%2C%20Scotto%20C%2C%20Read%20EJ%2C%20Barrett%20AJ.%20A%20clinical-scale%20selective%20allodepletion%20approach%20for%20the%20treatment%20of%20HLA-mismatched%20and%20matched%20donor-recipient%20pairs%20using%20expanded%20T%20lymphocytes%20as%20antigen-presenting%20cells%20and%20a%20TH9402-based%20photodepletion%20technique.%20Blood.%202008%3B111%288%29%3A4392%E2%80%93402.%20https%3A//doi.org/10.1182/blood-2007-08-104471.%20Epub%202007%20Sep%2018.PMID%3A%2017878399"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mielke%20S%2C%20Nunes%20R%2C%20Rezvani%20K%2C%20Fellowes%20VS%2C%20Venne%20A%2C%20Solomon%20SR%2C%20Fan%20Y%2C%20Gostick%20E%2C%20Price%20DA%2C%20Scotto%20C%2C%20Read%20EJ%2C%20Barrett%20AJ.%20A%20clinical-scale%20selective%20allodepletion%20approach%20for%20the%20treatment%20of%20HLA-mismatched%20and%20matched%20donor-recipient%20pairs%20using%20expanded%20T%20lymphocytes%20as%20antigen-presenting%20cells%20and%20a%20TH9402-based%20photodepletion%20technique.%20Blood.%202008%3B111%288%29%3A4392%E2%80%93402.%20https%3A//doi.org/10.1182/blood-2007-08-104471.%20Epub%202007%20Sep%2018.PMID%3A%2017878399"
+            }
+          ]
+        },
+        {
+          "id": 6000047,
+          "page": 548,
+          "en": "Mihara K, et al. Activated T-cell-mediated immunotherapy with a chimeric receptor against CD38 in B-cell non-Hodgkin lymphoma. J Immunother. 2009;32:737–43.",
+          "zh": "Mihara K, et al. Activated T-cell-mediated immunotherapy with a chimeric receptor against CD38 in B-cell non-Hodgkin lymphoma. J Immunother. 2009;32:737–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mihara%20K%2C%20et%20al.%20Activated%20T-cell-mediated%20immunotherapy%20with%20a%20chimeric%20receptor%20against%20CD38%20in%20B-cell%20non-Hodgkin%20lymphoma.%20J%20Immunother.%202009%3B32%3A737%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mihara%20K%2C%20et%20al.%20Activated%20T-cell-mediated%20immunotherapy%20with%20a%20chimeric%20receptor%20against%20CD38%20in%20B-cell%20non-Hodgkin%20lymphoma.%20J%20Immunother.%202009%3B32%3A737%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 6000048,
+          "page": 548,
+          "en": "Morgan RA, Dudley ME, Wunderlich JR, Hughes MS, Yang JC, Sherry RM, Royal RE, Topalian SL, Kammula US, Restifo NP, Zheng Z, Nahvi A, de Vries CR, Rogers-Freezer LJ, Mavroukakis SA, Rosenberg SA. Cancer regression in patients after transfer of genetically engineered lymphocytes. Science. 2006;314(5796):126–9. https://doi.org/10.1126/science.1129003. Epub 2006 Aug 31",
+          "zh": "Morgan RA, Dudley ME, Wunderlich JR, Hughes MS, Yang JC, Sherry RM, Royal RE, Topalian SL, Kammula US, Restifo NP, Zheng Z, Nahvi A, de Vries CR, Rogers-Freezer LJ, Mavroukakis SA, Rosenberg SA. Cancer regression in patients after transfer of genetically engineered lymphocytes. Science. 2006;314(5796):126–9. https://doi.org/10.1126/science.1129003. Epub 2006 Aug 31",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Morgan%20RA%2C%20Dudley%20ME%2C%20Wunderlich%20JR%2C%20Hughes%20MS%2C%20Yang%20JC%2C%20Sherry%20RM%2C%20Royal%20RE%2C%20Topalian%20SL%2C%20Kammula%20US%2C%20Restifo%20NP%2C%20Zheng%20Z%2C%20Nahvi%20A%2C%20de%20Vries%20CR%2C%20Rogers-Freezer%20LJ%2C%20Mavroukakis%20SA%2C%20Rosenberg%20SA.%20Cancer%20regression%20in%20patients%20after%20transfer%20of%20genetically%20engineered%20lymphocytes.%20Science.%202006%3B314%285796%29%3A126%E2%80%939.%20https%3A//doi.org/10.1126/science.1129003.%20Epub%202006%20Aug%2031"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Morgan%20RA%2C%20Dudley%20ME%2C%20Wunderlich%20JR%2C%20Hughes%20MS%2C%20Yang%20JC%2C%20Sherry%20RM%2C%20Royal%20RE%2C%20Topalian%20SL%2C%20Kammula%20US%2C%20Restifo%20NP%2C%20Zheng%20Z%2C%20Nahvi%20A%2C%20de%20Vries%20CR%2C%20Rogers-Freezer%20LJ%2C%20Mavroukakis%20SA%2C%20Rosenberg%20SA.%20Cancer%20regression%20in%20patients%20after%20transfer%20of%20genetically%20engineered%20lymphocytes.%20Science.%202006%3B314%285796%29%3A126%E2%80%939.%20https%3A//doi.org/10.1126/science.1129003.%20Epub%202006%20Aug%2031"
+            }
+          ]
+        },
+        {
+          "id": 6000049,
+          "page": 548,
+          "en": "Morris EC, Stauss HJ. Optimizing T-cell receptor gene therapy for hematologic malignancies. Blood. 2016;127:3305–11.",
+          "zh": "Morris EC, Stauss HJ. Optimizing T-cell receptor gene therapy for hematologic malignancies. Blood. 2016;127:3305–11.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Morris%20EC%2C%20Stauss%20HJ.%20Optimizing%20T-cell%20receptor%20gene%20therapy%20for%20hematologic%20malignancies.%20Blood.%202016%3B127%3A3305%E2%80%9311."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Morris%20EC%2C%20Stauss%20HJ.%20Optimizing%20T-cell%20receptor%20gene%20therapy%20for%20hematologic%20malignancies.%20Blood.%202016%3B127%3A3305%E2%80%9311."
+            }
+          ]
+        },
+        {
+          "id": 6000050,
+          "page": 548,
+          "en": "Oliveira G, et al. Tracking genetically engineered lymphocytes long-term reveals the dynamics of T cell immunological memory. Sci Transl Med. 2015;7:317ra198.",
+          "zh": "Oliveira G, et al. Tracking genetically engineered lymphocytes long-term reveals the dynamics of T cell immunological memory. Sci Transl Med. 2015;7:317ra198.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Oliveira%20G%2C%20et%20al.%20Tracking%20genetically%20engineered%20lymphocytes%20long-term%20reveals%20the%20dynamics%20of%20T%20cell%20immunological%20memory.%20Sci%20Transl%20Med.%202015%3B7%3A317ra198."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Oliveira%20G%2C%20et%20al.%20Tracking%20genetically%20engineered%20lymphocytes%20long-term%20reveals%20the%20dynamics%20of%20T%20cell%20immunological%20memory.%20Sci%20Transl%20Med.%202015%3B7%3A317ra198."
+            }
+          ]
+        },
+        {
+          "id": 6000051,
+          "page": 548,
+          "en": "Park JH, et al. Long-term follow-up of CD19 CAR therapy in acute lymphoblastic leukemia. N Engl J Med. 2018;378:449–59.",
+          "zh": "Park JH, et al. Long-term follow-up of CD19 CAR therapy in acute lymphoblastic leukemia. N Engl J Med. 2018;378:449–59.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Park%20JH%2C%20et%20al.%20Long-term%20follow-up%20of%20CD19%20CAR%20therapy%20in%20acute%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202018%3B378%3A449%E2%80%9359."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Park%20JH%2C%20et%20al.%20Long-term%20follow-up%20of%20CD19%20CAR%20therapy%20in%20acute%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202018%3B378%3A449%E2%80%9359."
+            }
+          ]
+        },
+        {
+          "id": 6000052,
+          "page": 548,
+          "en": "Porter DL, Levine BL, Kalos M, Bagg A, June CH. Chimeric antigen receptor-modified T cells in chronic lymphoid leukemia. N Engl J Med. 2011;365(8):725–33. https://doi.org/10.1056/NEJMoa1103849. Epub 2011 Aug 10",
+          "zh": "Porter DL, Levine BL, Kalos M, Bagg A, June CH. Chimeric antigen receptor-modified T cells in chronic lymphoid leukemia. N Engl J Med. 2011;365(8):725–33. https://doi.org/10.1056/NEJMoa1103849. Epub 2011 Aug 10",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Porter%20DL%2C%20Levine%20BL%2C%20Kalos%20M%2C%20Bagg%20A%2C%20June%20CH.%20Chimeric%20antigen%20receptor-modified%20T%20cells%20in%20chronic%20lymphoid%20leukemia.%20N%20Engl%20J%20Med.%202011%3B365%288%29%3A725%E2%80%9333.%20https%3A//doi.org/10.1056/NEJMoa1103849.%20Epub%202011%20Aug%2010"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Porter%20DL%2C%20Levine%20BL%2C%20Kalos%20M%2C%20Bagg%20A%2C%20June%20CH.%20Chimeric%20antigen%20receptor-modified%20T%20cells%20in%20chronic%20lymphoid%20leukemia.%20N%20Engl%20J%20Med.%202011%3B365%288%29%3A725%E2%80%9333.%20https%3A//doi.org/10.1056/NEJMoa1103849.%20Epub%202011%20Aug%2010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 549,
+      "blocks": [
+        {
+          "id": 6000053,
+          "page": 549,
+          "en": "Provasi E, et al. Editing T cell specificity towards leukemia by zinc finger nucleases and lentiviral gene transfer. Nat Med. 2012;18:807–15.",
+          "zh": "Provasi E, et al. Editing T cell specificity towards leukemia by zinc finger nucleases and lentiviral gene transfer. Nat Med. 2012;18:807–15.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Provasi%20E%2C%20et%20al.%20Editing%20T%20cell%20specificity%20towards%20leukemia%20by%20zinc%20finger%20nucleases%20and%20lentiviral%20gene%20transfer.%20Nat%20Med.%202012%3B18%3A807%E2%80%9315."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Provasi%20E%2C%20et%20al.%20Editing%20T%20cell%20specificity%20towards%20leukemia%20by%20zinc%20finger%20nucleases%20and%20lentiviral%20gene%20transfer.%20Nat%20Med.%202012%3B18%3A807%E2%80%9315."
+            }
+          ]
+        },
+        {
+          "id": 6000054,
+          "page": 549,
+          "en": "Rejeski K, et al. CAR-HEMATOTOX: a model for CAR T-cell related hematological toxicity in relapsed/refractory large B-cell lymphoma. Blood. 2021;138:2499–513.",
+          "zh": "Rejeski K, et al. CAR-HEMATOTOX: a model for CAR T-cell related hematological toxicity in relapsed/refractory large B-cell lymphoma. Blood. 2021;138:2499–513.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rejeski%20K%2C%20et%20al.%20CAR-HEMATOTOX%3A%20a%20model%20for%20CAR%20T-cell%20related%20hematological%20toxicity%20in%20relapsed/refractory%20large%20B-cell%20lymphoma.%20Blood.%202021%3B138%3A2499%E2%80%93513."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rejeski%20K%2C%20et%20al.%20CAR-HEMATOTOX%3A%20a%20model%20for%20CAR%20T-cell%20related%20hematological%20toxicity%20in%20relapsed/refractory%20large%20B-cell%20lymphoma.%20Blood.%202021%3B138%3A2499%E2%80%93513."
+            }
+          ]
+        },
+        {
+          "id": 6000055,
+          "page": 549,
+          "en": "Riddell SR, Watanabe KS, Goodrich JM, Li CR, Agha ME, Greenberg PD. Restoration of viral immunity in immunodeficient humans by the adoptive transfer of T cell clones. Science. 1992;257(5067):238–41. https://doi.org/10.1126/science.1352912.",
+          "zh": "Riddell SR, Watanabe KS, Goodrich JM, Li CR, Agha ME, Greenberg PD. Restoration of viral immunity in immunodeficient humans by the adoptive transfer of T cell clones. Science. 1992;257(5067):238–41. https://doi.org/10.1126/science.1352912.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Riddell%20SR%2C%20Watanabe%20KS%2C%20Goodrich%20JM%2C%20Li%20CR%2C%20Agha%20ME%2C%20Greenberg%20PD.%20Restoration%20of%20viral%20immunity%20in%20immunodeficient%20humans%20by%20the%20adoptive%20transfer%20of%20T%20cell%20clones.%20Science.%201992%3B257%285067%29%3A238%E2%80%9341.%20https%3A//doi.org/10.1126/science.1352912."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Riddell%20SR%2C%20Watanabe%20KS%2C%20Goodrich%20JM%2C%20Li%20CR%2C%20Agha%20ME%2C%20Greenberg%20PD.%20Restoration%20of%20viral%20immunity%20in%20immunodeficient%20humans%20by%20the%20adoptive%20transfer%20of%20T%20cell%20clones.%20Science.%201992%3B257%285067%29%3A238%E2%80%9341.%20https%3A//doi.org/10.1126/science.1352912."
+            }
+          ]
+        },
+        {
+          "id": 6000056,
+          "page": 549,
+          "en": "Rooney CM, Smith CA, Ng CY, Loftin S, Li C, Krance RA, Brenner MK, Heslop HE. Use of gene-modified virus-specific T lymphocytes to control Epstein-Barr-virus-related lymphoproliferation. Lancet. 1995;345(8941):9–13. https://doi.org/10.1016/s0140-6736(95)91150-2.",
+          "zh": "Rooney CM, Smith CA, Ng CY, Loftin S, Li C, Krance RA, Brenner MK, Heslop HE. Use of gene-modified virus-specific T lymphocytes to control Epstein-Barr-virus-related lymphoproliferation. Lancet. 1995;345(8941):9–13. https://doi.org/10.1016/s0140-6736(95)91150-2.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rooney%20CM%2C%20Smith%20CA%2C%20Ng%20CY%2C%20Loftin%20S%2C%20Li%20C%2C%20Krance%20RA%2C%20Brenner%20MK%2C%20Heslop%20HE.%20Use%20of%20gene-modified%20virus-specific%20T%20lymphocytes%20to%20control%20Epstein-Barr-virus-related%20lymphoproliferation.%20Lancet.%201995%3B345%288941%29%3A9%E2%80%9313.%20https%3A//doi.org/10.1016/s0140-6736%2895%2991150-2."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rooney%20CM%2C%20Smith%20CA%2C%20Ng%20CY%2C%20Loftin%20S%2C%20Li%20C%2C%20Krance%20RA%2C%20Brenner%20MK%2C%20Heslop%20HE.%20Use%20of%20gene-modified%20virus-specific%20T%20lymphocytes%20to%20control%20Epstein-Barr-virus-related%20lymphoproliferation.%20Lancet.%201995%3B345%288941%29%3A9%E2%80%9313.%20https%3A//doi.org/10.1016/s0140-6736%2895%2991150-2."
+            }
+          ]
+        },
+        {
+          "id": 6000057,
+          "page": 549,
+          "en": "Ruella M, June CH. Chimeric antigen receptor T cells for B cell neoplasms: choose the right CAR for you. Curr Hematol Malig Rep. 2016;11:368–84.",
+          "zh": "Ruella M, June CH. Chimeric antigen receptor T cells for B cell neoplasms: choose the right CAR for you. Curr Hematol Malig Rep. 2016;11:368–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ruella%20M%2C%20June%20CH.%20Chimeric%20antigen%20receptor%20T%20cells%20for%20B%20cell%20neoplasms%3A%20choose%20the%20right%20CAR%20for%20you.%20Curr%20Hematol%20Malig%20Rep.%202016%3B11%3A368%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ruella%20M%2C%20June%20CH.%20Chimeric%20antigen%20receptor%20T%20cells%20for%20B%20cell%20neoplasms%3A%20choose%20the%20right%20CAR%20for%20you.%20Curr%20Hematol%20Malig%20Rep.%202016%3B11%3A368%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 6000058,
+          "page": 549,
+          "en": "Sotillo E, et al. Convergence of acquired mutations and alternative splicing of CD19 enables resistance to CART-19 immunotherapy. Cancer Discov. 2015;5:1282–95.",
+          "zh": "Sotillo E, et al. Convergence of acquired mutations and alternative splicing of CD19 enables resistance to CART-19 immunotherapy. Cancer Discov. 2015;5:1282–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sotillo%20E%2C%20et%20al.%20Convergence%20of%20acquired%20mutations%20and%20alternative%20splicing%20of%20CD19%20enables%20resistance%20to%20CART-19%20immunotherapy.%20Cancer%20Discov.%202015%3B5%3A1282%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sotillo%20E%2C%20et%20al.%20Convergence%20of%20acquired%20mutations%20and%20alternative%20splicing%20of%20CD19%20enables%20resistance%20to%20CART-19%20immunotherapy.%20Cancer%20Discov.%202015%3B5%3A1282%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 6000059,
+          "page": 549,
+          "en": "Tran E, Longo DL, Urba WJ. A milestone for CAR T cells. N Engl J Med. 2017;377:2593–6.",
+          "zh": "Tran E, Longo DL, Urba WJ. A milestone for CAR T cells. N Engl J Med. 2017;377:2593–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tran%20E%2C%20Longo%20DL%2C%20Urba%20WJ.%20A%20milestone%20for%20CAR%20T%20cells.%20N%20Engl%20J%20Med.%202017%3B377%3A2593%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tran%20E%2C%20Longo%20DL%2C%20Urba%20WJ.%20A%20milestone%20for%20CAR%20T%20cells.%20N%20Engl%20J%20Med.%202017%3B377%3A2593%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6000060,
+          "page": 549,
+          "en": "Trenado A, Fisson S, Braunberger E, Klatzmann D, Salomon BL, Cohen JL. Ex vivo selection of recipient-type alloantigen-specific CD4(+)CD25(+) immunoregulatory T cells for the control of graft-versus-host disease after allogeneic hematopoietic stem-cell transplantation. Transplantation. 2004;77(1 Suppl):S32–4. https://doi.org/10.1097/01.TP.0000106470.07410.CA.",
+          "zh": "Trenado A, Fisson S, Braunberger E, Klatzmann D, Salomon BL, Cohen JL. Ex vivo selection of recipient-type alloantigen-specific CD4(+)CD25(+) immunoregulatory T cells for the control of graft-versus-host disease after allogeneic hematopoietic stem-cell transplantation. Transplantation. 2004;77(1 Suppl):S32–4. https://doi.org/10.1097/01.TP.0000106470.07410.CA.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Trenado%20A%2C%20Fisson%20S%2C%20Braunberger%20E%2C%20Klatzmann%20D%2C%20Salomon%20BL%2C%20Cohen%20JL.%20Ex%20vivo%20selection%20of%20recipient-type%20alloantigen-specific%20CD4%28%2B%29CD25%28%2B%29%20immunoregulatory%20T%20cells%20for%20the%20control%20of%20graft-versus-host%20disease%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Transplantation.%202004%3B77%281%20Suppl%29%3AS32%E2%80%934.%20https%3A//doi.org/10.1097/01.TP.0000106470.07410.CA."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Trenado%20A%2C%20Fisson%20S%2C%20Braunberger%20E%2C%20Klatzmann%20D%2C%20Salomon%20BL%2C%20Cohen%20JL.%20Ex%20vivo%20selection%20of%20recipient-type%20alloantigen-specific%20CD4%28%2B%29CD25%28%2B%29%20immunoregulatory%20T%20cells%20for%20the%20control%20of%20graft-versus-host%20disease%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Transplantation.%202004%3B77%281%20Suppl%29%3AS32%E2%80%934.%20https%3A//doi.org/10.1097/01.TP.0000106470.07410.CA."
+            }
+          ]
+        },
+        {
+          "id": 6000061,
+          "page": 549,
+          "en": "Turtle CJ, et al. Durable molecular remissions in chronic lymphocytic leukemia treated with CD19-specific chimeric antigen receptor-modified T cells after failure of ibrutinib. J Clin Oncol. 2017;35:3010–20.",
+          "zh": "Turtle CJ, et al. Durable molecular remissions in chronic lymphocytic leukemia treated with CD19-specific chimeric antigen receptor-modified T cells after failure of ibrutinib. J Clin Oncol. 2017;35:3010–20.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Turtle%20CJ%2C%20et%20al.%20Durable%20molecular%20remissions%20in%20chronic%20lymphocytic%20leukemia%20treated%20with%20CD19-specific%20chimeric%20antigen%20receptor-modified%20T%20cells%20after%20failure%20of%20ibrutinib.%20J%20Clin%20Oncol.%202017%3B35%3A3010%E2%80%9320."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Turtle%20CJ%2C%20et%20al.%20Durable%20molecular%20remissions%20in%20chronic%20lymphocytic%20leukemia%20treated%20with%20CD19-specific%20chimeric%20antigen%20receptor-modified%20T%20cells%20after%20failure%20of%20ibrutinib.%20J%20Clin%20Oncol.%202017%3B35%3A3010%E2%80%9320."
+            }
+          ]
+        },
+        {
+          "id": 6000062,
+          "page": 549,
+          "en": "Hartwig UF, Nonn M, Khan S, Link I, Huber C, Herr W. Depletion of alloreactive donor T lymphocytes by CD95-mediated activation-induced cell death retains antileukemic, antiviral, and immunoregulatory T cell immunity. Biol Blood Marrow Transplant. 2008;14(1):99–109. https://doi.org/10.1016/j.bbmt.2007.10.002.",
+          "zh": "Hartwig UF, Nonn M, Khan S, Link I, Huber C, Herr W. Depletion of alloreactive donor T lymphocytes by CD95-mediated activation-induced cell death retains antileukemic, antiviral, and immunoregulatory T cell immunity. Biol Blood Marrow Transplant. 2008;14(1):99–109. https://doi.org/10.1016/j.bbmt.2007.10.002.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hartwig%20UF%2C%20Nonn%20M%2C%20Khan%20S%2C%20Link%20I%2C%20Huber%20C%2C%20Herr%20W.%20Depletion%20of%20alloreactive%20donor%20T%20lymphocytes%20by%20CD95-mediated%20activation-induced%20cell%20death%20retains%20antileukemic%2C%20antiviral%2C%20and%20immunoregulatory%20T%20cell%20immunity.%20Biol%20Blood%20Marrow%20Transplant.%202008%3B14%281%29%3A99%E2%80%93109.%20https%3A//doi.org/10.1016/j.bbmt.2007.10.002."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hartwig%20UF%2C%20Nonn%20M%2C%20Khan%20S%2C%20Link%20I%2C%20Huber%20C%2C%20Herr%20W.%20Depletion%20of%20alloreactive%20donor%20T%20lymphocytes%20by%20CD95-mediated%20activation-induced%20cell%20death%20retains%20antileukemic%2C%20antiviral%2C%20and%20immunoregulatory%20T%20cell%20immunity.%20Biol%20Blood%20Marrow%20Transplant.%202008%3B14%281%29%3A99%E2%80%93109.%20https%3A//doi.org/10.1016/j.bbmt.2007.10.002."
+            }
+          ]
+        },
+        {
+          "id": 6000063,
+          "page": 549,
+          "en": "Warren EH, Fujii N, Akatsuka Y, Chaney CN, Mito JK, Loeb KR, Gooley TA, Brown ML, Koo KK, Rosinski KV, Ogawa S, Matsubara A, Appelbaum FR, Riddell SR. Therapy of relapsed leukemia after allogeneic hematopoietic cell transplantation with T cells specific for minor histocompatibility antigens. Blood. 2010;115(19):3869–78. https://doi.org/10.1182/blood-2009-10-248997. Epub 2010 Jan 13",
+          "zh": "Warren EH, Fujii N, Akatsuka Y, Chaney CN, Mito JK, Loeb KR, Gooley TA, Brown ML, Koo KK, Rosinski KV, Ogawa S, Matsubara A, Appelbaum FR, Riddell SR. Therapy of relapsed leukemia after allogeneic hematopoietic cell transplantation with T cells specific for minor histocompatibility antigens. Blood. 2010;115(19):3869–78. https://doi.org/10.1182/blood-2009-10-248997. Epub 2010 Jan 13",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Warren%20EH%2C%20Fujii%20N%2C%20Akatsuka%20Y%2C%20Chaney%20CN%2C%20Mito%20JK%2C%20Loeb%20KR%2C%20Gooley%20TA%2C%20Brown%20ML%2C%20Koo%20KK%2C%20Rosinski%20KV%2C%20Ogawa%20S%2C%20Matsubara%20A%2C%20Appelbaum%20FR%2C%20Riddell%20SR.%20Therapy%20of%20relapsed%20leukemia%20after%20allogeneic%20hematopoietic%20cell%20transplantation%20with%20T%20cells%20specific%20for%20minor%20histocompatibility%20antigens.%20Blood.%202010%3B115%2819%29%3A3869%E2%80%9378.%20https%3A//doi.org/10.1182/blood-2009-10-248997.%20Epub%202010%20Jan%2013"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Warren%20EH%2C%20Fujii%20N%2C%20Akatsuka%20Y%2C%20Chaney%20CN%2C%20Mito%20JK%2C%20Loeb%20KR%2C%20Gooley%20TA%2C%20Brown%20ML%2C%20Koo%20KK%2C%20Rosinski%20KV%2C%20Ogawa%20S%2C%20Matsubara%20A%2C%20Appelbaum%20FR%2C%20Riddell%20SR.%20Therapy%20of%20relapsed%20leukemia%20after%20allogeneic%20hematopoietic%20cell%20transplantation%20with%20T%20cells%20specific%20for%20minor%20histocompatibility%20antigens.%20Blood.%202010%3B115%2819%29%3A3869%E2%80%9378.%20https%3A//doi.org/10.1182/blood-2009-10-248997.%20Epub%202010%20Jan%2013"
+            }
+          ]
+        },
+        {
+          "id": 6000064,
+          "page": 549,
+          "en": "Weiden PL, et al. Antileukemic effect of graft-versus-host disease in human recipients of allogeneic-marrow grafts. N Engl J Med. 1979;300:1068–73.",
+          "zh": "Weiden PL, et al. Antileukemic effect of graft-versus-host disease in human recipients of allogeneic-marrow grafts. N Engl J Med. 1979;300:1068–73.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Weiden%20PL%2C%20et%20al.%20Antileukemic%20effect%20of%20graft-versus-host%20disease%20in%20human%20recipients%20of%20allogeneic-marrow%20grafts.%20N%20Engl%20J%20Med.%201979%3B300%3A1068%E2%80%9373."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Weiden%20PL%2C%20et%20al.%20Antileukemic%20effect%20of%20graft-versus-host%20disease%20in%20human%20recipients%20of%20allogeneic-marrow%20grafts.%20N%20Engl%20J%20Med.%201979%3B300%3A1068%E2%80%9373."
+            }
+          ]
+        },
+        {
+          "id": 6000065,
+          "page": 549,
+          "en": "Zah E, Lin M-Y, Silva-Benedict A, Jensen MC, Chen YY. T cells expressing CD19/CD20 bispecific chimeric antigen receptors prevent antigen escape by malignant B cells. Cancer Immunol Res. 2016;4:498–508.",
+          "zh": "Zah E, Lin M-Y, Silva-Benedict A, Jensen MC, Chen YY. T cells expressing CD19/CD20 bispecific chimeric antigen receptors prevent antigen escape by malignant B cells. Cancer Immunol Res. 2016;4:498–508.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zah%20E%2C%20Lin%20M-Y%2C%20Silva-Benedict%20A%2C%20Jensen%20MC%2C%20Chen%20YY.%20T%20cells%20expressing%20CD19/CD20%20bispecific%20chimeric%20antigen%20receptors%20prevent%20antigen%20escape%20by%20malignant%20B%20cells.%20Cancer%20Immunol%20Res.%202016%3B4%3A498%E2%80%93508."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zah%20E%2C%20Lin%20M-Y%2C%20Silva-Benedict%20A%2C%20Jensen%20MC%2C%20Chen%20YY.%20T%20cells%20expressing%20CD19/CD20%20bispecific%20chimeric%20antigen%20receptors%20prevent%20antigen%20escape%20by%20malignant%20B%20cells.%20Cancer%20Immunol%20Res.%202016%3B4%3A498%E2%80%93508."
+            }
+          ]
+        },
+        {
+          "id": 6000066,
+          "page": 549,
+          "en": "Zhan H, Gilmour K, Chan L, Farzaneh F, McNicol AM, Xu JH, Adams S, Fehse B, Veys P, Thrasher A, Gaspar H, Qasim W. Production and first-in-man use of T cells engineered to express a HSVTK-CD34 sort-suicide gene. PLoS One. 2013;8(10):e77106. https://doi.org/10.1371/journal.pone.0077106. eCollection 2013",
+          "zh": "Zhan H, Gilmour K, Chan L, Farzaneh F, McNicol AM, Xu JH, Adams S, Fehse B, Veys P, Thrasher A, Gaspar H, Qasim W. Production and first-in-man use of T cells engineered to express a HSVTK-CD34 sort-suicide gene. PLoS One. 2013;8(10):e77106. https://doi.org/10.1371/journal.pone.0077106. eCollection 2013",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhan%20H%2C%20Gilmour%20K%2C%20Chan%20L%2C%20Farzaneh%20F%2C%20McNicol%20AM%2C%20Xu%20JH%2C%20Adams%20S%2C%20Fehse%20B%2C%20Veys%20P%2C%20Thrasher%20A%2C%20Gaspar%20H%2C%20Qasim%20W.%20Production%20and%20first-in-man%20use%20of%20T%20cells%20engineered%20to%20express%20a%20HSVTK-CD34%20sort-suicide%20gene.%20PLoS%20One.%202013%3B8%2810%29%3Ae77106.%20https%3A//doi.org/10.1371/journal.pone.0077106.%20eCollection%202013"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhan%20H%2C%20Gilmour%20K%2C%20Chan%20L%2C%20Farzaneh%20F%2C%20McNicol%20AM%2C%20Xu%20JH%2C%20Adams%20S%2C%20Fehse%20B%2C%20Veys%20P%2C%20Thrasher%20A%2C%20Gaspar%20H%2C%20Qasim%20W.%20Production%20and%20first-in-man%20use%20of%20T%20cells%20engineered%20to%20express%20a%20HSVTK-CD34%20sort-suicide%20gene.%20PLoS%20One.%202013%3B8%2810%29%3Ae77106.%20https%3A//doi.org/10.1371/journal.pone.0077106.%20eCollection%202013"
+            }
+          ]
+        },
+        {
+          "id": 6000067,
+          "page": 549,
+          "en": "Zhou X, et al. Long-term outcome after haploidentical stem cell transplant and infusion of T cells expressing the inducible caspase 9 safety transgene. Blood. 2014;123:3895–905.",
+          "zh": "Zhou X, et al. Long-term outcome after haploidentical stem cell transplant and infusion of T cells expressing the inducible caspase 9 safety transgene. Blood. 2014;123:3895–905.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhou%20X%2C%20et%20al.%20Long-term%20outcome%20after%20haploidentical%20stem%20cell%20transplant%20and%20infusion%20of%20T%20cells%20expressing%20the%20inducible%20caspase%209%20safety%20transgene.%20Blood.%202014%3B123%3A3895%E2%80%93905."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhou%20X%2C%20et%20al.%20Long-term%20outcome%20after%20haploidentical%20stem%20cell%20transplant%20and%20infusion%20of%20T%20cells%20expressing%20the%20inducible%20caspase%209%20safety%20transgene.%20Blood.%202014%3B123%3A3895%E2%80%93905."
+            }
+          ]
+        },
+        {
+          "id": 6000068,
+          "page": 549,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

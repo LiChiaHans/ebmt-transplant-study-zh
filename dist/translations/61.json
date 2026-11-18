@@ -1,0 +1,573 @@
+{
+  "id": 61,
+  "title": "Mechanisms of Immune Resistance",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 35,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 550,
+      "blocks": [
+        {
+          "id": 6100001,
+          "page": 550,
+          "en": "61 Mechanisms of Immune Resistance\nLuca Vago and Francesco Dazzi",
+          "zh": "61 免疫抗性與逃脫機制（Mechanisms of Immune Resistance） — Luca Vago、Francesco Dazzi",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_61"
+            }
+          ]
+        },
+        {
+          "id": 6100002,
+          "page": 550,
+          "en": "61.1 Introduction\nIt is widely accepted that the curative potential of allo-HCT for malignant diseases relies on the transfer of healthy donor immune cells capable of recognizing transplantation antigens on residual tumor cells (graft versus tumor (GvT)) and eliminating them. However, as extensively documented in solid cancers, if tumor eradication is incomplete, the prolonged immune pressure selectively allows immune-resistant subclones to survive (Schreiber et al. 2011). There is growing evidence that such an “immunoediting” also accounts for relapse after HCT. Malignant cells evade GvL either by reducing their immunogenicity and conveying inhibitory signals to the donor immune system (intrinsic evasion) or through the microenvironment (extrinsic evasion).",
+          "zh": "61.1 前言\n學界普遍公認，異體造血細胞移植（allo-HCT）對惡性疾病的治癒潛力，仰賴於輸注能夠辨識殘存腫瘤細胞上之移植抗原並將其清除的健康供者免疫細胞（即移植物抗腫瘤效應，graft versus tumor, GvT）。然而，正如在實體癌症中已廣泛記錄的現象，若腫瘤未能被完全根除，長期的免疫壓力會選擇性地讓具免疫抗性的次選殖株（subclones）存活下來（Schreiber et al. 2011）。越來越多的證據顯示，這種「免疫編輯」（immunoediting）現象同樣解釋了 HCT 後的疾病復發。惡性細胞可透過降低自身免疫原性（immunogenicity）並向供者免疫系統傳遞抑制訊號（內在逃脫，intrinsic evasion），或是藉由腫瘤微環境的作用（外在逃脫，extrinsic evasion），來逃避移植物抗白血病效應（GvL）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6100003,
+          "page": 550,
+          "en": "61.2 Mechanisms of Immune Evasion\n61.2.1 Mechanisms Intrinsic to the Malignant Clone\nA remarkable example of tumor-intrinsic mechanism of immune evasion is the genomic loss of the mismatched HLA haplotype frequently documented in leukemia relapses after HCT from HLA haploidentical family donors (Vago et al. 2009). In this setting, donor T cells mount a vigorous alloreactive response against the incompatible HLA molecules, and this reaction is not only responsible for a significant risk of severe GvHD but also a major contributor to the GvT effect. Yet, this strong and selective immune pressure is easily overturned by tumor cells which, by losing the allogeneic HLA haplotype, find a mean to avoid recognition and re-emerge. “HLA loss” variants account for up to one third of relapses after HLA-haplo-HCT (Crucitti et al. 2015) and have been described also in the setting of HCT from partially HLA-incompatible URD (Waterhouse et al. 2011). The documentation of HLA loss at relapse has an important clinical impact, because IS withdrawal or administration of DLI would be much less effective against these disease variants (Tsirigotis et al. 2016).",
+          "zh": "61.2 免疫逃脫機制\n61.2.1 惡性選殖株的內在機制（Mechanisms Intrinsic to the Malignant Clone）\n腫瘤內在免疫逃脫機制的一個顯著例子，是在接受 HLA 半相合家族供者 HCT 後復發的白血病中經常記錄到的「不相合 HLA 單倍型之基因組缺失」（genomic loss of the mismatched HLA haplotype）（Vago et al. 2009）。在此情境下，供者 T 細胞會針對不相容的 HLA 分子發動強烈的異體反應（alloreactive response）；這種反應不僅帶來嚴重 GvHD 的顯著風險，同時也是 GvT 效應的主要貢獻來源。然而，這股強大且具選擇性的免疫壓力卻很容易被腫瘤細胞瓦解——腫瘤細胞透過丟失受者特有的異體 HLA 單倍型，找到避開免疫辨識並捲土重來的方法。「HLA 缺失」（HLA loss）變異型占了 HLA 半相合 HCT 後復發病例的高達三分之一（Crucitti et al. 2015），且在部分 HLA 不相容之非親屬供者（URD）HCT 的情境中亦曾被描述（Waterhouse et al. 2011）。在復發時確認是否存在 HLA 缺失具有重大的臨床影響，因為針對這類疾病變異型，停用免疫抑制劑（IS withdrawal）或施予供者淋巴球輸注（DLI）的效果將會大打折扣（Tsirigotis et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6100004,
+          "page": 550,
+          "en": "More recent studies have documented alternative modalities through which leukemic cells can evade the GvT effect, including the epigenetic silencing of HLA class II molecules (Christopher et al. 2018; Toffalori et al. 2019), and the overexpression of molecules capable of dampening immune responses such as programmed death ligand (PD-L)1 (Toffalori et al. 2019). This observation provides a rationale for the use of “checkpoint blockade” to restore immune control at relapse. Initial experience in patients with relapsed lymphoma or extramedullary leukemia with anti-PD1 and anti-cytotoxic T-lymphocyte-associated antigen (CTLA)-4 MOAb is very promising (Davids et al. 2016; Herbaux et al. 2017). However, the risks of triggering life-threatening GvHD represent a concern.",
+          "zh": "較近期的研究記錄了白血病細胞逃避 GvT 效應的其他模式，包括 HLA 第二類（HLA class II）分子的表觀遺傳沉默（epigenetic silencing）（Christopher et al. 2018; Toffalori et al. 2019），以及過度表現能夠抑制免疫反應的分子，例如計畫性死亡配體 1（PD-L1）（Toffalori et al. 2019）。這項觀察為在復發時使用「免疫檢查點阻斷劑」（checkpoint blockade）以恢復免疫控制提供了理論基礎。在復發型淋巴瘤或髓外白血病患者中使用抗 PD-1 與抗細胞毒性 T 淋巴球相關抗原 4（CTLA-4）單株抗體（MOAb）的初步經驗相當具前景（Davids et al. 2016; Herbaux et al. 2017）。然而，誘發危及生命之 GvHD 的風險仍是一大隱憂。",
+          "review": "ai-draft",
+          "endPage": 551
+        },
+        {
+          "id": 6100005,
+          "page": 550,
+          "en": "L. Vago\nUnit of Immunogenetics, Leukemia Genomics and Immunobiology, Hematology and Bone Marrow Transplantation Unit, IRCCS San Raffaele Scientific Institute, Milan, Italy\ne-mail: vago.luca@hsr.it\nF. Dazzi (*)\nSchool of Cancer and Pharmacological Sciences, King’s College London, London, UK\ne-mail: francesco.dazzi@kcl.ac.uk\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_61",
+          "zh": "作者單位與聯絡資訊：\nL. Vago：義大利米蘭 IRCCS San Raffaele 科學研究所血液暨骨髓移植中心，免疫遺傳學、白血病基因組學暨免疫生物學研究室；電子郵件：vago.luca@hsr.it。\nF. Dazzi（通訊作者）：英國倫敦國王學院（King’s College London）癌症與藥理科學學院；電子郵件：francesco.dazzi@kcl.ac.uk。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_61。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 551,
+      "blocks": [
+        {
+          "id": 6100006,
+          "page": 551,
+          "en": "Another evidence that supports “leukemia immunoediting” is the occurrence of isolated extramedullary relapses after allo-HCT or even more frequently after DLI. These relapses may occur, but not necessarily, in immunological sanctuaries, including the CNS. Although to date the biological drivers of extramedullary relapses remain unknown, some studies have suggested a link with immune-related factors such as chronic GvHD (Solh et al. 2012; Harris et al. 2013).",
+          "zh": "支持「白血病免疫編輯」的另一項證據，是在 allo-HCT 後（或更常在 DLI 後）發生孤立性髓外復發（isolated extramedullary relapses）。這些復發可能（但不必然）發生於免疫特權／庇護部位（immunological sanctuaries），包括中樞神經系統（CNS）。儘管迄今髓外復發的生物學驅動因素仍未明朗，部分研究指出其與慢性 GvHD 等免疫相關因素有所關聯（Solh et al. 2012; Harris et al. 2013）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6100007,
+          "page": 551,
+          "en": "61.2.2 Mechanisms Extrinsic to the Leukemic Cells\nThe alternative, but not mutually exclusive, strategy by which malignant cells enact evasion from immune cell recognition relies on hijacking the stem cell niches in which normal HSC self-renew and differentiate. By doing this, malignant cells create a tumor microenvironment (TME) that has profound consequences on disease progression and relapse. The initial studies conducted on solid tumors have shown that the TME consists of two major cellular populations that alone or in combination drive resistance to conventional therapies and suppress antitumor immune responses. The first group comprises a diverse and heterogeneous group of myeloid-derived cells which, according to a yet unresolved debate on their nomenclature, can be generally classified as tumor-associated monocytes/macrophages (TAM) and myeloid-derived suppressor cells (MDSC) (Bronte et al. 2016). The IS activity of these cells is mediated by factors that include nitric oxide synthase-2 (NOS-2), arginase-1, heme oxygenase-1 (HO-1), interleukin (IL)-10, transforming growth factor (TGF)-β, and prostaglandin E2 (PGE2). All these molecules also favor the recruitment of regulatory T cell (Tregs) that eventually contributes to the inhibition of antitumor CD8+ T-cell and natural killer cell effector function (Ostuni et al. 2015). Although most of these mechanisms have been initially demonstrated in solid tumors, there is consistent evidence that they are also involved in hematological malignancies. High-risk AML can actually behave as MDSC by upregulating NOS and suppressing T-cell responses (Mussai et al. 2013). The presence of MDSC in AML has later been confirmed and also identified in multiple myeloma whereby they protect malignant cells through MUC1 oncoprotein (Bar-Natan et al. 2017; Pyzer et al. 2017).",
+          "zh": "61.2.2 白血病細胞的外在機制（Mechanisms Extrinsic to the Leukemic Cells）\n惡性細胞逃避免疫細胞辨識的另一種（但並非互斥的）策略，是仰賴劫持正常造血幹細胞（HSC）進行自我更新與分化的幹細胞微環境／壁龕（stem cell niches）。透過這種方式，惡性細胞創造出一個對疾病惡化與復發具有深遠影響的腫瘤微環境（tumor microenvironment, TME）。最初在實體腫瘤中進行的研究顯示，TME 主要由兩大細胞族群所組成，它們可單獨或共同驅動對傳統療法的抗性並抑制抗腫瘤免疫反應。第一群細胞包含多樣且異質的骨髓源性細胞群，根據目前尚未完全定論的命名討論，一般可歸類為腫瘤相關單核球／巨噬細胞（tumor-associated monocytes/macrophages, TAM）以及骨髓源性抑制細胞（myeloid-derived suppressor cells, MDSC）（Bronte et al. 2016）。這些細胞的免疫抑制（IS）活性是由多種因子所介導，包括一氧化氮合酶-2（NOS-2）、精胺酸酶-1（arginase-1）、血基質氧化酶-1（heme oxygenase-1, HO-1）、介白素-10（IL-10）、轉化生長因子-β（TGF-β）以及前列腺素 E2（PGE2）。所有這些分子亦有利於招募調節性 T 細胞（Tregs），最終共同導致抗腫瘤 CD8+ T 細胞與自然殺手（NK）細胞之效應功能受到抑制（Ostuni et al. 2015）。儘管這些機制大多最初是在實體腫瘤中獲證實，但已有一致的證據顯示它們同樣參與了血液惡性疾病。高風險 AML 實際上可以透過上調 NOS 並抑制 T 細胞反應，表現得如同 MDSC 一般（Mussai et al. 2013）。AML 中存在 MDSC 的現象隨後已獲確認，且在多發性骨髓瘤中也辨識出 MDSC 能透過 MUC1 致癌蛋白（oncoprotein）來保護惡性細胞（Bar-Natan et al. 2017; Pyzer et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6100008,
+          "page": 551,
+          "en": "The second cellular group consists of an equally heterogeneous population of mesenchymal origin, variously referred to as mesenchymal stromal cells (MSC) or cancer-associated fibroblasts (CAF) (Raffaghello and Dazzi 2015). Regardless of their developmental heterogeneity, they all play a similar role by protecting the malignant cells from cytotoxic agents and immune responses. In the bone marrow, MSC protect CML and AML cells from imatinib and Ara-C via the CXCR4-CXCL12 axis (Vianello et al. 2010). However, recent evidence suggests that arming chimeric antigen receptor (CAR) T cells with CXCR4, which results in significant improvement of chemotaxis toward the bone marrow niche, may enhance their therapeutic efficacy in acute myeloid leukemia (Biondi et al. 2023).\nMuch information has been provided about the IS activity of MSC that is exerted in a nonantigen-specific fashion (Jones et al. 2007). One of the primary direct mechanisms responsible for this involves the expression of indoleamine 2,3-dioxygenase-1 (IDO-1), which consumes the essential amino acid tryptophan. Additional IS mechanisms include the release of suppressive factors such as TGF-β1, hepatocyte growth factor, PGE2, soluble human leukocyte antigen G, and TNF-α-stimulated gene 6 protein (TSG-6). However, more recent data have demonstrated the susceptibility of MSC to undergo apoptosis and as a consequence to recruit tissue-resident monocytes/macrophages in delivering a more sustainable IS effect (Cheung and Dazzi 2018).",
+          "zh": "第二群細胞則由同樣具異質性的間質來源細胞族群所組成，分別被稱為間質基質細胞（mesenchymal stromal cells, MSC）或癌症相關纖維母細胞（cancer-associated fibroblasts, CAF）（Raffaghello and Dazzi 2015）。無論其發育上的異質性為何，它們都扮演著相似的角色，保護惡性細胞免受細胞毒性藥物與免疫反應的攻擊。在骨髓中，MSC 會透過 CXCR4-CXCL12 軸保護慢性骨髓性白血病（CML）與 AML 細胞免受 imatinib 與 Ara-C 的毒殺（Vianello et al. 2010）。然而，近期證據顯示，若讓嵌合抗原受體（CAR）T 細胞武裝表現 CXCR4，可顯著改善其向骨髓壁龕趨化（chemotaxis）的能力，進而可能增強其在急性骨髓性白血病中的治療療效（Biondi et al. 2023）。\n目前已有大量研究闡明 MSC 以非抗原特異性方式發揮免疫抑制（IS）活性的機轉（Jones et al. 2007）。負責此作用的主要直接機制之一，涉及表現吲哚胺 2,3-雙加氧酶-1（indoleamine 2,3-dioxygenase-1, IDO-1），該酵素會消耗必需胺基酸色胺酸（tryptophan）。其他的免疫抑制機制還包括釋放抑制性因子，例如 TGF-β1、肝細胞生長因子（HGF）、PGE2、可溶性人類白血球抗原 G（sHLA-G），以及腫瘤壞死因子-α 刺激基因 6 蛋白（TSG-6）。然而，較近期的數據證實 MSC 容易發生細胞凋亡（apoptosis），並因此招募組織常駐單核球／巨噬細胞來發揮更持久的免疫抑制效應（Cheung and Dazzi 2018）。",
+          "review": "ai-draft",
+          "endPage": 552
+        }
+      ]
+    },
+    {
+      "page": 552,
+      "blocks": [
+        {
+          "id": 6100009,
+          "page": 552,
+          "en": "Finally, the role of Tregs in generating immune resistance has been much discussed. While there is plenty of data indicating how these cells exert a very negative impact on the outcome of solid tumors, data in preclinical models of allogeneic HCT have suggested that Tregs may selectively inhibit GvHD without compromising GvL (Edinger et al. 2003). In contrast, clinical data suggest to consider Treg levels posttransplant with caution (Nadal et al. 2007). Most recent information from the analysis of Treg repertoire and transcriptome has shed light on their activity on GvHD (Lohmeyer et al. 2023).",
+          "zh": "最後，Tregs 在產生免疫抗性中所扮演的角色也受到廣泛討論。雖然有大量數據指出這些細胞對實體腫瘤的預後具有非常負面的影響，但在異體 HCT 的臨床前模型數據卻顯示，Tregs 或許能在不損及 GvL 的情況下選擇性地抑制 GvHD（Edinger et al. 2003）。相反地，臨床數據則提示在解讀移植後的 Treg 數量時應保持審慎（Nadal et al. 2007）。來自 Treg 受體庫（repertoire）與轉錄組（transcriptome）分析的最新資訊，已進一步釐清其對 GvHD 的調控活性（Lohmeyer et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6100010,
+          "page": 552,
+          "en": "Key Points\n• Leukemia can counteract the beneficial graft-versus-leukemia effects posttransplant.\n• This is effected either by changes in the tumor cells which make them evade immune recognition or by instructing different components of the microenvironment to deliver in situ immunosuppression.",
+          "zh": "章末重點（Key Points）\n• 白血病能在移植後抵消有益的移植物抗白血病（GvL）效應。\n• 此現象可透過腫瘤細胞自身的改變使其逃避免疫辨識（內在逃脫），或是透過指使微環境中的不同組成在局部原位發揮免疫抑制作用（外在逃脫）而達成。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6100011,
+          "page": 552,
+          "en": "Bar-Natan M, Stroopinsky D, Luptakova K, et al. Bone marrow stroma protects myeloma cells from cytotoxic damage via induction of the oncoprotein MUC1. Br J Haematol. 2017;176:929–38.",
+          "zh": "Bar-Natan M, Stroopinsky D, Luptakova K, et al. Bone marrow stroma protects myeloma cells from cytotoxic damage via induction of the oncoprotein MUC1. Br J Haematol. 2017;176:929–38.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bar-Natan%20M%2C%20Stroopinsky%20D%2C%20Luptakova%20K%2C%20et%20al.%20Bone%20marrow%20stroma%20protects%20myeloma%20cells%20from%20cytotoxic%20damage%20via%20induction%20of%20the%20oncoprotein%20MUC1.%20Br%20J%20Haematol.%202017%3B176%3A929%E2%80%9338."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bar-Natan%20M%2C%20Stroopinsky%20D%2C%20Luptakova%20K%2C%20et%20al.%20Bone%20marrow%20stroma%20protects%20myeloma%20cells%20from%20cytotoxic%20damage%20via%20induction%20of%20the%20oncoprotein%20MUC1.%20Br%20J%20Haematol.%202017%3B176%3A929%E2%80%9338."
+            }
+          ]
+        },
+        {
+          "id": 6100012,
+          "page": 552,
+          "en": "Biondi M, Tettamanti S, Galimberti S, Cerina B, Tomasoni C, Piazza R, Donsante S, Bido S, Perriello VM, Broccoli V, Doni A, Dazzi F, Mantovani A, Dotti G, Biondi A, Pievani A, Serafini M. Selective homing of CAR-CIK cells to the bone marrow niche enhances control of the acute myeloid leukemia burden. Blood. 2023;141:2587–98.",
+          "zh": "Biondi M, Tettamanti S, Galimberti S, Cerina B, Tomasoni C, Piazza R, Donsante S, Bido S, Perriello VM, Broccoli V, Doni A, Dazzi F, Mantovani A, Dotti G, Biondi A, Pievani A, Serafini M. Selective homing of CAR-CIK cells to the bone marrow niche enhances control of the acute myeloid leukemia burden. Blood. 2023;141:2587–98.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Biondi%20M%2C%20Tettamanti%20S%2C%20Galimberti%20S%2C%20Cerina%20B%2C%20Tomasoni%20C%2C%20Piazza%20R%2C%20Donsante%20S%2C%20Bido%20S%2C%20Perriello%20VM%2C%20Broccoli%20V%2C%20Doni%20A%2C%20Dazzi%20F%2C%20Mantovani%20A%2C%20Dotti%20G%2C%20Biondi%20A%2C%20Pievani%20A%2C%20Serafini%20M.%20Selective%20homing%20of%20CAR-CIK%20cells%20to%20the%20bone%20marrow%20niche%20enhances%20control%20of%20the%20acute%20myeloid%20leukemia%20burden.%20Blood.%202023%3B141%3A2587%E2%80%9398."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Biondi%20M%2C%20Tettamanti%20S%2C%20Galimberti%20S%2C%20Cerina%20B%2C%20Tomasoni%20C%2C%20Piazza%20R%2C%20Donsante%20S%2C%20Bido%20S%2C%20Perriello%20VM%2C%20Broccoli%20V%2C%20Doni%20A%2C%20Dazzi%20F%2C%20Mantovani%20A%2C%20Dotti%20G%2C%20Biondi%20A%2C%20Pievani%20A%2C%20Serafini%20M.%20Selective%20homing%20of%20CAR-CIK%20cells%20to%20the%20bone%20marrow%20niche%20enhances%20control%20of%20the%20acute%20myeloid%20leukemia%20burden.%20Blood.%202023%3B141%3A2587%E2%80%9398."
+            }
+          ]
+        },
+        {
+          "id": 6100013,
+          "page": 552,
+          "en": "Bronte V, Brandau S, Chen S-H, et al. Recommendations for myeloid-derived suppressor cell nomenclature and characterization standards. Nat Commun. 2016;7:12150.",
+          "zh": "Bronte V, Brandau S, Chen S-H, et al. Recommendations for myeloid-derived suppressor cell nomenclature and characterization standards. Nat Commun. 2016;7:12150.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bronte%20V%2C%20Brandau%20S%2C%20Chen%20S-H%2C%20et%20al.%20Recommendations%20for%20myeloid-derived%20suppressor%20cell%20nomenclature%20and%20characterization%20standards.%20Nat%20Commun.%202016%3B7%3A12150."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bronte%20V%2C%20Brandau%20S%2C%20Chen%20S-H%2C%20et%20al.%20Recommendations%20for%20myeloid-derived%20suppressor%20cell%20nomenclature%20and%20characterization%20standards.%20Nat%20Commun.%202016%3B7%3A12150."
+            }
+          ]
+        },
+        {
+          "id": 6100014,
+          "page": 552,
+          "en": "Cheung TS, Dazzi F. Mesenchymal-myeloid interaction in the regulation of immunity. Semin Immunol. 2018;35:59–68.",
+          "zh": "Cheung TS, Dazzi F. Mesenchymal-myeloid interaction in the regulation of immunity. Semin Immunol. 2018;35:59–68.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cheung%20TS%2C%20Dazzi%20F.%20Mesenchymal-myeloid%20interaction%20in%20the%20regulation%20of%20immunity.%20Semin%20Immunol.%202018%3B35%3A59%E2%80%9368."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cheung%20TS%2C%20Dazzi%20F.%20Mesenchymal-myeloid%20interaction%20in%20the%20regulation%20of%20immunity.%20Semin%20Immunol.%202018%3B35%3A59%E2%80%9368."
+            }
+          ]
+        },
+        {
+          "id": 6100015,
+          "page": 552,
+          "en": "Christopher MJ, Petti AA, Rettig MP, et al. Immune escape of relapsed AML cells after allogeneic transplantation. N Engl J Med. 2018;379(24):2330–41.",
+          "zh": "Christopher MJ, Petti AA, Rettig MP, et al. Immune escape of relapsed AML cells after allogeneic transplantation. N Engl J Med. 2018;379(24):2330–41.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Christopher%20MJ%2C%20Petti%20AA%2C%20Rettig%20MP%2C%20et%20al.%20Immune%20escape%20of%20relapsed%20AML%20cells%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202018%3B379%2824%29%3A2330%E2%80%9341."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Christopher%20MJ%2C%20Petti%20AA%2C%20Rettig%20MP%2C%20et%20al.%20Immune%20escape%20of%20relapsed%20AML%20cells%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202018%3B379%2824%29%3A2330%E2%80%9341."
+            }
+          ]
+        },
+        {
+          "id": 6100016,
+          "page": 552,
+          "en": "Crucitti L, Crocchiolo R, Toffalori C, et al. Incidence, risk factors and clinical outcome of leukemia relapses with loss of the mismatched HLA after partially incompatible hematopoietic stem cell transplantation. Leukemia. 2015;29:1143–52.",
+          "zh": "Crucitti L, Crocchiolo R, Toffalori C, et al. Incidence, risk factors and clinical outcome of leukemia relapses with loss of the mismatched HLA after partially incompatible hematopoietic stem cell transplantation. Leukemia. 2015;29:1143–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Crucitti%20L%2C%20Crocchiolo%20R%2C%20Toffalori%20C%2C%20et%20al.%20Incidence%2C%20risk%20factors%20and%20clinical%20outcome%20of%20leukemia%20relapses%20with%20loss%20of%20the%20mismatched%20HLA%20after%20partially%20incompatible%20hematopoietic%20stem%20cell%20transplantation.%20Leukemia.%202015%3B29%3A1143%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Crucitti%20L%2C%20Crocchiolo%20R%2C%20Toffalori%20C%2C%20et%20al.%20Incidence%2C%20risk%20factors%20and%20clinical%20outcome%20of%20leukemia%20relapses%20with%20loss%20of%20the%20mismatched%20HLA%20after%20partially%20incompatible%20hematopoietic%20stem%20cell%20transplantation.%20Leukemia.%202015%3B29%3A1143%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 6100017,
+          "page": 552,
+          "en": "Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+          "zh": "Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Davids%20MS%2C%20Kim%20HT%2C%20Bachireddy%20P%2C%20et%20al.%20Ipilimumab%20for%20patients%20with%20relapse%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202016%3B375%3A143%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Davids%20MS%2C%20Kim%20HT%2C%20Bachireddy%20P%2C%20et%20al.%20Ipilimumab%20for%20patients%20with%20relapse%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202016%3B375%3A143%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 6100018,
+          "page": 552,
+          "en": "Edinger M, Hoffmann P, Ermann J, et al. CD4+CD25+ regulatory T cells preserve graft-versus-tumor activity while inhibiting graft-versus-host disease after bone marrow transplantation. Nat Med. 2003;9:1144–50.",
+          "zh": "Edinger M, Hoffmann P, Ermann J, et al. CD4+CD25+ regulatory T cells preserve graft-versus-tumor activity while inhibiting graft-versus-host disease after bone marrow transplantation. Nat Med. 2003;9:1144–50.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Edinger%20M%2C%20Hoffmann%20P%2C%20Ermann%20J%2C%20et%20al.%20CD4%2BCD25%2B%20regulatory%20T%20cells%20preserve%20graft-versus-tumor%20activity%20while%20inhibiting%20graft-versus-host%20disease%20after%20bone%20marrow%20transplantation.%20Nat%20Med.%202003%3B9%3A1144%E2%80%9350."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Edinger%20M%2C%20Hoffmann%20P%2C%20Ermann%20J%2C%20et%20al.%20CD4%2BCD25%2B%20regulatory%20T%20cells%20preserve%20graft-versus-tumor%20activity%20while%20inhibiting%20graft-versus-host%20disease%20after%20bone%20marrow%20transplantation.%20Nat%20Med.%202003%3B9%3A1144%E2%80%9350."
+            }
+          ]
+        },
+        {
+          "id": 6100019,
+          "page": 552,
+          "en": "Harris AC, Kitko CL, Couriel DR, et al. Extramedullary relapse of acute myeloid leukemia following allogeneic hematopoietic stem cell transplantation: incidence, risk factors and outcomes. Haematologica. 2013;98:179–84.",
+          "zh": "Harris AC, Kitko CL, Couriel DR, et al. Extramedullary relapse of acute myeloid leukemia following allogeneic hematopoietic stem cell transplantation: incidence, risk factors and outcomes. Haematologica. 2013;98:179–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Harris%20AC%2C%20Kitko%20CL%2C%20Couriel%20DR%2C%20et%20al.%20Extramedullary%20relapse%20of%20acute%20myeloid%20leukemia%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20incidence%2C%20risk%20factors%20and%20outcomes.%20Haematologica.%202013%3B98%3A179%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Harris%20AC%2C%20Kitko%20CL%2C%20Couriel%20DR%2C%20et%20al.%20Extramedullary%20relapse%20of%20acute%20myeloid%20leukemia%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20incidence%2C%20risk%20factors%20and%20outcomes.%20Haematologica.%202013%3B98%3A179%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 6100020,
+          "page": 552,
+          "en": "Herbaux C, Gauthier J, Brice P, et al. Efficacy and tolerability of nivolumab after allogeneic transplantation for relapsed Hodgkin lymphoma. Blood. 2017;129:2471–8.",
+          "zh": "Herbaux C, Gauthier J, Brice P, et al. Efficacy and tolerability of nivolumab after allogeneic transplantation for relapsed Hodgkin lymphoma. Blood. 2017;129:2471–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Herbaux%20C%2C%20Gauthier%20J%2C%20Brice%20P%2C%20et%20al.%20Efficacy%20and%20tolerability%20of%20nivolumab%20after%20allogeneic%20transplantation%20for%20relapsed%20Hodgkin%20lymphoma.%20Blood.%202017%3B129%3A2471%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Herbaux%20C%2C%20Gauthier%20J%2C%20Brice%20P%2C%20et%20al.%20Efficacy%20and%20tolerability%20of%20nivolumab%20after%20allogeneic%20transplantation%20for%20relapsed%20Hodgkin%20lymphoma.%20Blood.%202017%3B129%3A2471%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6100021,
+          "page": 552,
+          "en": "Jones S, Horwood N, Cope A, Dazzi F. The antiproliferative effect of mesenchymal stem cells is a fundamental property shared by all stromal cells. J Immunol. 2007;179:2824–31.",
+          "zh": "Jones S, Horwood N, Cope A, Dazzi F. The antiproliferative effect of mesenchymal stem cells is a fundamental property shared by all stromal cells. J Immunol. 2007;179:2824–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jones%20S%2C%20Horwood%20N%2C%20Cope%20A%2C%20Dazzi%20F.%20The%20antiproliferative%20effect%20of%20mesenchymal%20stem%20cells%20is%20a%20fundamental%20property%20shared%20by%20all%20stromal%20cells.%20J%20Immunol.%202007%3B179%3A2824%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jones%20S%2C%20Horwood%20N%2C%20Cope%20A%2C%20Dazzi%20F.%20The%20antiproliferative%20effect%20of%20mesenchymal%20stem%20cells%20is%20a%20fundamental%20property%20shared%20by%20all%20stromal%20cells.%20J%20Immunol.%202007%3B179%3A2824%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 6100022,
+          "page": 552,
+          "en": "Lohmeyer JK, Hirai T, Turkoz M, Buhler S, Lopes Ramos T, Köhler N, Baker J, Melotti A, Wagner I, Pradier A, Wang S, Ji X, Becattini S, Villard J, Merkler D, Chalandon Y, Negrin RS, Simonetta F. Analysis of the T-cell repertoire and transcriptome identifies mechanisms of regulatory T-cell suppression of GVHD. Blood. 2023;141:1755–67.",
+          "zh": "Lohmeyer JK, Hirai T, Turkoz M, Buhler S, Lopes Ramos T, Köhler N, Baker J, Melotti A, Wagner I, Pradier A, Wang S, Ji X, Becattini S, Villard J, Merkler D, Chalandon Y, Negrin RS, Simonetta F. Analysis of the T-cell repertoire and transcriptome identifies mechanisms of regulatory T-cell suppression of GVHD. Blood. 2023;141:1755–67.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lohmeyer%20JK%2C%20Hirai%20T%2C%20Turkoz%20M%2C%20Buhler%20S%2C%20Lopes%20Ramos%20T%2C%20K%C3%B6hler%20N%2C%20Baker%20J%2C%20Melotti%20A%2C%20Wagner%20I%2C%20Pradier%20A%2C%20Wang%20S%2C%20Ji%20X%2C%20Becattini%20S%2C%20Villard%20J%2C%20Merkler%20D%2C%20Chalandon%20Y%2C%20Negrin%20RS%2C%20Simonetta%20F.%20Analysis%20of%20the%20T-cell%20repertoire%20and%20transcriptome%20identifies%20mechanisms%20of%20regulatory%20T-cell%20suppression%20of%20GVHD.%20Blood.%202023%3B141%3A1755%E2%80%9367."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lohmeyer%20JK%2C%20Hirai%20T%2C%20Turkoz%20M%2C%20Buhler%20S%2C%20Lopes%20Ramos%20T%2C%20K%C3%B6hler%20N%2C%20Baker%20J%2C%20Melotti%20A%2C%20Wagner%20I%2C%20Pradier%20A%2C%20Wang%20S%2C%20Ji%20X%2C%20Becattini%20S%2C%20Villard%20J%2C%20Merkler%20D%2C%20Chalandon%20Y%2C%20Negrin%20RS%2C%20Simonetta%20F.%20Analysis%20of%20the%20T-cell%20repertoire%20and%20transcriptome%20identifies%20mechanisms%20of%20regulatory%20T-cell%20suppression%20of%20GVHD.%20Blood.%202023%3B141%3A1755%E2%80%9367."
+            }
+          ]
+        },
+        {
+          "id": 6100023,
+          "page": 552,
+          "en": "Mussai F, De Santo C, Abu-Dayyeh I, et al. Acute myeloid leukemia creates an arginase-dependent immunosuppressive microenvironment. Blood. 2013;122:749–58.",
+          "zh": "Mussai F, De Santo C, Abu-Dayyeh I, et al. Acute myeloid leukemia creates an arginase-dependent immunosuppressive microenvironment. Blood. 2013;122:749–58.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mussai%20F%2C%20De%20Santo%20C%2C%20Abu-Dayyeh%20I%2C%20et%20al.%20Acute%20myeloid%20leukemia%20creates%20an%20arginase-dependent%20immunosuppressive%20microenvironment.%20Blood.%202013%3B122%3A749%E2%80%9358."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mussai%20F%2C%20De%20Santo%20C%2C%20Abu-Dayyeh%20I%2C%20et%20al.%20Acute%20myeloid%20leukemia%20creates%20an%20arginase-dependent%20immunosuppressive%20microenvironment.%20Blood.%202013%3B122%3A749%E2%80%9358."
+            }
+          ]
+        },
+        {
+          "id": 6100024,
+          "page": 552,
+          "en": "Nadal E, Garin M, Kaeda J, et al. Increased frequencies of CD4(+) CD25(high) T(regs) correlate with disease relapse after allogeneic stem cell transplantation for chronic myeloid leukemia. Leukemia. 2007;21:472–9.",
+          "zh": "Nadal E, Garin M, Kaeda J, et al. Increased frequencies of CD4(+) CD25(high) T(regs) correlate with disease relapse after allogeneic stem cell transplantation for chronic myeloid leukemia. Leukemia. 2007;21:472–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Nadal%20E%2C%20Garin%20M%2C%20Kaeda%20J%2C%20et%20al.%20Increased%20frequencies%20of%20CD4%28%2B%29%20CD25%28high%29%20T%28regs%29%20correlate%20with%20disease%20relapse%20after%20allogeneic%20stem%20cell%20transplantation%20for%20chronic%20myeloid%20leukemia.%20Leukemia.%202007%3B21%3A472%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Nadal%20E%2C%20Garin%20M%2C%20Kaeda%20J%2C%20et%20al.%20Increased%20frequencies%20of%20CD4%28%2B%29%20CD25%28high%29%20T%28regs%29%20correlate%20with%20disease%20relapse%20after%20allogeneic%20stem%20cell%20transplantation%20for%20chronic%20myeloid%20leukemia.%20Leukemia.%202007%3B21%3A472%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6100025,
+          "page": 552,
+          "en": "Ostuni R, Kratochvill F, Murray PJ, Natoli G. Macrophages and cancer: from mechanisms to therapeutic implications. Trends Immunol. 2015;36:229–39.",
+          "zh": "Ostuni R, Kratochvill F, Murray PJ, Natoli G. Macrophages and cancer: from mechanisms to therapeutic implications. Trends Immunol. 2015;36:229–39.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ostuni%20R%2C%20Kratochvill%20F%2C%20Murray%20PJ%2C%20Natoli%20G.%20Macrophages%20and%20cancer%3A%20from%20mechanisms%20to%20therapeutic%20implications.%20Trends%20Immunol.%202015%3B36%3A229%E2%80%9339."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ostuni%20R%2C%20Kratochvill%20F%2C%20Murray%20PJ%2C%20Natoli%20G.%20Macrophages%20and%20cancer%3A%20from%20mechanisms%20to%20therapeutic%20implications.%20Trends%20Immunol.%202015%3B36%3A229%E2%80%9339."
+            }
+          ]
+        },
+        {
+          "id": 6100026,
+          "page": 552,
+          "en": "Pyzer AR, Stroopinsky D, Rajabi H, et al. MUC1-mediated induction of myeloid-derived suppressor cells in patients with acute myeloid leukemia. Blood. 2017;129:1791–801.",
+          "zh": "Pyzer AR, Stroopinsky D, Rajabi H, et al. MUC1-mediated induction of myeloid-derived suppressor cells in patients with acute myeloid leukemia. Blood. 2017;129:1791–801.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pyzer%20AR%2C%20Stroopinsky%20D%2C%20Rajabi%20H%2C%20et%20al.%20MUC1-mediated%20induction%20of%20myeloid-derived%20suppressor%20cells%20in%20patients%20with%20acute%20myeloid%20leukemia.%20Blood.%202017%3B129%3A1791%E2%80%93801."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pyzer%20AR%2C%20Stroopinsky%20D%2C%20Rajabi%20H%2C%20et%20al.%20MUC1-mediated%20induction%20of%20myeloid-derived%20suppressor%20cells%20in%20patients%20with%20acute%20myeloid%20leukemia.%20Blood.%202017%3B129%3A1791%E2%80%93801."
+            }
+          ]
+        },
+        {
+          "id": 6100027,
+          "page": 552,
+          "en": "Raffaghello L, Dazzi F. Classification and biology of tumour associated stromal cells. Immunol Lett. 2015;168:175–82.",
+          "zh": "Raffaghello L, Dazzi F. Classification and biology of tumour associated stromal cells. Immunol Lett. 2015;168:175–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Raffaghello%20L%2C%20Dazzi%20F.%20Classification%20and%20biology%20of%20tumour%20associated%20stromal%20cells.%20Immunol%20Lett.%202015%3B168%3A175%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Raffaghello%20L%2C%20Dazzi%20F.%20Classification%20and%20biology%20of%20tumour%20associated%20stromal%20cells.%20Immunol%20Lett.%202015%3B168%3A175%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 6100028,
+          "page": 552,
+          "en": "Schreiber RD, Old LJ, Smyth MJ. Cancer immunoediting: integrating immunity’s roles in cancer suppression and promotion. Science. 2011;331:1565–70.",
+          "zh": "Schreiber RD, Old LJ, Smyth MJ. Cancer immunoediting: integrating immunity’s roles in cancer suppression and promotion. Science. 2011;331:1565–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schreiber%20RD%2C%20Old%20LJ%2C%20Smyth%20MJ.%20Cancer%20immunoediting%3A%20integrating%20immunity%E2%80%99s%20roles%20in%20cancer%20suppression%20and%20promotion.%20Science.%202011%3B331%3A1565%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schreiber%20RD%2C%20Old%20LJ%2C%20Smyth%20MJ.%20Cancer%20immunoediting%3A%20integrating%20immunity%E2%80%99s%20roles%20in%20cancer%20suppression%20and%20promotion.%20Science.%202011%3B331%3A1565%E2%80%9370."
+            }
+          ]
+        },
+        {
+          "id": 6100029,
+          "page": 552,
+          "en": "Solh M, DeFor TE, Weisdorf DJ, Kaufman DS. Extramedullary relapse of acute myelogenous leukemia after allogeneic hematopoietic stem cell transplantation: better prognosis than systemic relapse. Biol Blood Marrow Transplant. 2012;18:106–12.",
+          "zh": "Solh M, DeFor TE, Weisdorf DJ, Kaufman DS. Extramedullary relapse of acute myelogenous leukemia after allogeneic hematopoietic stem cell transplantation: better prognosis than systemic relapse. Biol Blood Marrow Transplant. 2012;18:106–12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Solh%20M%2C%20DeFor%20TE%2C%20Weisdorf%20DJ%2C%20Kaufman%20DS.%20Extramedullary%20relapse%20of%20acute%20myelogenous%20leukemia%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20better%20prognosis%20than%20systemic%20relapse.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A106%E2%80%9312."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Solh%20M%2C%20DeFor%20TE%2C%20Weisdorf%20DJ%2C%20Kaufman%20DS.%20Extramedullary%20relapse%20of%20acute%20myelogenous%20leukemia%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20better%20prognosis%20than%20systemic%20relapse.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A106%E2%80%9312."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 553,
+      "blocks": [
+        {
+          "id": 6100030,
+          "page": 553,
+          "en": "Toffalori C, Zito L, Gambacorta V, et al. Immune signature drives leukemia escape and relapse after hematopoietic cell transplantation. Nat Med. 2019;25(4):603–11.",
+          "zh": "Toffalori C, Zito L, Gambacorta V, et al. Immune signature drives leukemia escape and relapse after hematopoietic cell transplantation. Nat Med. 2019;25(4):603–11.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Toffalori%20C%2C%20Zito%20L%2C%20Gambacorta%20V%2C%20et%20al.%20Immune%20signature%20drives%20leukemia%20escape%20and%20relapse%20after%20hematopoietic%20cell%20transplantation.%20Nat%20Med.%202019%3B25%284%29%3A603%E2%80%9311."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Toffalori%20C%2C%20Zito%20L%2C%20Gambacorta%20V%2C%20et%20al.%20Immune%20signature%20drives%20leukemia%20escape%20and%20relapse%20after%20hematopoietic%20cell%20transplantation.%20Nat%20Med.%202019%3B25%284%29%3A603%E2%80%9311."
+            }
+          ]
+        },
+        {
+          "id": 6100031,
+          "page": 553,
+          "en": "Tsirigotis P, Byrne M, Schmid C, et al. Relapse of AML after hematopoietic stem cell transplantation: methods of monitoring and preventive strategies. A review from the ALWP of the EBMT. Bone Marrow Transplant. 2016;51:1431–8.",
+          "zh": "Tsirigotis P, Byrne M, Schmid C, et al. Relapse of AML after hematopoietic stem cell transplantation: methods of monitoring and preventive strategies. A review from the ALWP of the EBMT. Bone Marrow Transplant. 2016;51:1431–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tsirigotis%20P%2C%20Byrne%20M%2C%20Schmid%20C%2C%20et%20al.%20Relapse%20of%20AML%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20methods%20of%20monitoring%20and%20preventive%20strategies.%20A%20review%20from%20the%20ALWP%20of%20the%20EBMT.%20Bone%20Marrow%20Transplant.%202016%3B51%3A1431%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tsirigotis%20P%2C%20Byrne%20M%2C%20Schmid%20C%2C%20et%20al.%20Relapse%20of%20AML%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20methods%20of%20monitoring%20and%20preventive%20strategies.%20A%20review%20from%20the%20ALWP%20of%20the%20EBMT.%20Bone%20Marrow%20Transplant.%202016%3B51%3A1431%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6100032,
+          "page": 553,
+          "en": "Vago L, Perna SK, Zanussi M, et al. Loss of mismatched HLA in leukemia after stem-cell transplantation. N Engl J Med. 2009;361:478–88.",
+          "zh": "Vago L, Perna SK, Zanussi M, et al. Loss of mismatched HLA in leukemia after stem-cell transplantation. N Engl J Med. 2009;361:478–88.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vago%20L%2C%20Perna%20SK%2C%20Zanussi%20M%2C%20et%20al.%20Loss%20of%20mismatched%20HLA%20in%20leukemia%20after%20stem-cell%20transplantation.%20N%20Engl%20J%20Med.%202009%3B361%3A478%E2%80%9388."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vago%20L%2C%20Perna%20SK%2C%20Zanussi%20M%2C%20et%20al.%20Loss%20of%20mismatched%20HLA%20in%20leukemia%20after%20stem-cell%20transplantation.%20N%20Engl%20J%20Med.%202009%3B361%3A478%E2%80%9388."
+            }
+          ]
+        },
+        {
+          "id": 6100033,
+          "page": 553,
+          "en": "Vianello F, Villanova F, Tisato V, et al. Bone marrow mesenchymal stromal cells non-selectively protect chronic myeloid leukemia cells from imatinib-induced apoptosis via the CXCR4/CXCL12 axis. Haematologica. 2010;95:1081–9.",
+          "zh": "Vianello F, Villanova F, Tisato V, et al. Bone marrow mesenchymal stromal cells non-selectively protect chronic myeloid leukemia cells from imatinib-induced apoptosis via the CXCR4/CXCL12 axis. Haematologica. 2010;95:1081–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vianello%20F%2C%20Villanova%20F%2C%20Tisato%20V%2C%20et%20al.%20Bone%20marrow%20mesenchymal%20stromal%20cells%20non-selectively%20protect%20chronic%20myeloid%20leukemia%20cells%20from%20imatinib-induced%20apoptosis%20via%20the%20CXCR4/CXCL12%20axis.%20Haematologica.%202010%3B95%3A1081%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vianello%20F%2C%20Villanova%20F%2C%20Tisato%20V%2C%20et%20al.%20Bone%20marrow%20mesenchymal%20stromal%20cells%20non-selectively%20protect%20chronic%20myeloid%20leukemia%20cells%20from%20imatinib-induced%20apoptosis%20via%20the%20CXCR4/CXCL12%20axis.%20Haematologica.%202010%3B95%3A1081%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6100034,
+          "page": 553,
+          "en": "Waterhouse M, Pfeifer D, Pantic M, et al. Genome-wide profiling in AML patients relapsing after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011;17:1450–9.",
+          "zh": "Waterhouse M, Pfeifer D, Pantic M, et al. Genome-wide profiling in AML patients relapsing after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011;17:1450–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Waterhouse%20M%2C%20Pfeifer%20D%2C%20Pantic%20M%2C%20et%20al.%20Genome-wide%20profiling%20in%20AML%20patients%20relapsing%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1450%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Waterhouse%20M%2C%20Pfeifer%20D%2C%20Pantic%20M%2C%20et%20al.%20Genome-wide%20profiling%20in%20AML%20patients%20relapsing%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1450%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6100035,
+          "page": 553,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
