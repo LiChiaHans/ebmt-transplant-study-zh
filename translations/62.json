@@ -1,0 +1,932 @@
+{
+  "id": 62,
+  "title": "Regulatory Aspects of ATMP Versus Minimally Manipulated Immune Cells",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 55,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 554,
+      "blocks": [
+        {
+          "id": 6200001,
+          "page": 554,
+          "en": "62 Regulatory Aspects of ATMP Versus Minimally Manipulated Immune Cells\nChristian Chabannon and Harry Dolstra",
+          "zh": "62 先進治療藥品（ATMP）與低度處理免疫細胞之法規層面（Regulatory Aspects of ATMP Versus Minimally Manipulated Immune Cells） — Christian Chabannon、Harry Dolstra",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_62"
+            }
+          ]
+        },
+        {
+          "id": 6200002,
+          "page": 554,
+          "en": "In 2023, three categories of therapeutic products obtained through the collection and subsequent engineering of hematopoietic cells exist and are valuable to patients treated for neoplastic diseases as well as a variety of non-neoplastic disorders: blood cell transfusions, stem and immune cell transplants, and cellular therapy medicinal products. The procurement and nature of various blood products and transfusion practices are described elsewhere in this handbook. In this chapter, we focus on hematopoietic cellular therapies as currently defined and managed in the FACT-JACIE International Standards for Hematopoietic Cellular Therapies (nowadays in version 8). Over the last two decades, major changes have occurred in the EU regulatory framework (as well as in other parts of the world, notably in the USA) that result in the coexistence of two categories of hematopoietic cellular therapies. Innovative and industry-manufactured somatic cell therapy or gene therapy medicinal products have entered the field at an accelerating pace since the last edition of this handbook. Some of them are distributed worldwide on a large scale, and a few of these medicinal products already complete or compete with traditional hematopoietic cell transplantation practices. We here update the description of organizational consequences of this historical transition for academic facilities and the new opportunities as well as challenges these advances are bringing to patients and healthcare practitioners, including strong needs for educational initiatives.",
+          "zh": "在 2023 年，透過收集並隨後改造造血細胞所取得的治療產品共有三大類，且對於接受腫瘤性疾病以及多種非腫瘤性疾病治療的患者皆極具價值：血球輸血（blood cell transfusions）、幹細胞與免疫細胞移植（stem and immune cell transplants），以及細胞治療藥品（cellular therapy medicinal products）。各種血液製品的取得、性質與輸血實務已於本手冊其他章節描述。在本章中，我們聚焦於目前在 FACT-JACIE 造血細胞治療國際標準（FACT-JACIE International Standards for Hematopoietic Cellular Therapies，目前已更新至第 8 版）中所定義與管理的造血細胞治療。在過去二十年間，歐盟法規架構（以及世界其他地區，特別是美國）發生了重大變革，導致兩大類造血細胞治療並存的局面。自本手冊上一版發行以來，創新且由藥廠製造的體細胞治療或基因治療藥品已加速進入此領域。其中部分產品已在全球大規模分銷，且有少數這類藥品已經在臨床上與傳統造血細胞移植實務相輔相成或相互競爭。我們在此更新這一歷史性轉型對學術機構在組織層面的影響，以及這些進展為患者與醫療從業人員帶來的新契機與挑戰（包括對教育推廣計畫的迫切需求）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6200003,
+          "page": 554,
+          "en": "Under current European regulations, hematopoietic cellular therapies fall under two categories: stem cell transplants and advanced therapy medicinal products (ATMPs). Routinely administered autologous and allogeneic hematopoietic cell transplants (HCT)—including subsequent peripheral blood allogeneic mononuclear cells (DLI)—undergo non-substantial manipulations following cell procurement and before being administered to the recipient. These therapeutic products that are in use for now more than 60 years and have cured hundreds of thousands of patients worldwide (Passweg et al. 2021) never received marketing approvals nor were classified as medicinal products. Nevertheless, lessons learned from the practice of hematopoietic cell transplantation have inspired some of the developments of modern hematopoietic advanced cellular therapies (Chabannon et al. 2018). Cell processing is performed in facilities termed tissue establishments (TEs) under the EU Tissues and Cells Directive,¹ which are authorized by national and/or regional competent authorities (CA). TEs usually operate on a relatively small scale, in compliance with Good Cell and Tissue Practices (GCTP), serving the clinical program(s) in their immediate vicinity (“point-of-care” (POC) cell processing activities), although some national or regional services may support a more extensive network of clinical programs. The combination of a clinical department(s) with a collection and a processing facility represents the core structure for a transplant program that applies for the JACIE accreditation (see Chap. 5). Such an organization leaves room for significant procedural and organizational variations, many driven by local or national factors, despite all attempts from the various professional associations to harmonize practices through surveys, the publication of guidelines and regularly revised standards for these therapies, e.g., the already mentioned FACT-JACIE International Standards for Hematopoietic Cellular Therapies.² The EU Commission recently released a proposal for a new EU Regulation on Substances of Human Origin (SoHO) that—when adopted—will replace the aforementioned Tissues and Cells Directives, as well as the Blood Directive.³ This proposal is under review at the EU Parliament and should be voted and released in the upcoming months, after the review process is completed. One of the objectives of this new Regulation is to tackle some of the previously cited caveats of the current framework, including improved and equal access to cell and tissue transplantation while maintaining the principle of voluntary unpaid donation (VUD), decreasing dependency of European countries on other countries, harmonization of practices through the use of a set of standards published in the European Directorate for the Quality of Medicines & HealthCare (EDQM) Guide to the Quality and Safety of Tissues and Cells for Human Application ((CD-P-TO) EECPAoOT 2022), the creation and maintenance of a directory of TEs, and improved organization for donor follow-up.",
+          "zh": "在現行歐洲法規下，造血細胞治療分為兩大類：幹細胞移植（stem cell transplants）與先進治療藥品（advanced therapy medicinal products, ATMPs）。常規施行的自體與異體造血細胞移植（HCT）——包括後續的周邊血異體單核球輸注（即供者淋巴球輸注，DLI）——在細胞取得後至輸注予受者之前，僅經過非實質性操作（non-substantial manipulations）。這些已使用超過 60 年、並在全球治癒數十萬名患者（Passweg et al. 2021）的治療產品，從未取得上市許可（marketing approvals），亦未被歸類為藥品（medicinal products）。儘管如此，從造血細胞移植實務中汲取的經驗，啟發了現代造血先進細胞治療的部分發展（Chabannon et al. 2018）。細胞處理係於歐盟組織與細胞指令（EU Tissues and Cells Directive）¹ 所定義的「組織機構」（tissue establishments, TEs）設施中執行，該等機構由國家及／或區域主管機關（competent authorities, CA）授權。TEs 通常以相對較小的規模運作，遵循優良細胞與組織規範（Good Cell and Tissue Practices, GCTP），為緊鄰的臨床計畫提供服務（即「照護點」〔point-of-care, POC〕細胞處理作業），不過部分國家級或區域級服務機構亦可能支援更廣泛的臨床計畫網絡。臨床部門結合採集設施與處理設施，構成了申請 JACIE 認證之移植計畫的核心架構（見第 5 章）。儘管各專業學會竭力透過調查、發布指引以及定期修訂治療標準（例如前述的 FACT-JACIE 造血細胞治療國際標準²）來促進實務一致化，此種組織架構仍留下了顯著的程序與組織差異空間，其中許多差異是由地方或國家因素所驅動。歐盟執委會（EU Commission）近期發布了一項新《歐盟人體來源物質規章》（EU Regulation on Substances of Human Origin, SoHO）提案，一旦通過，將取代前述的組織與細胞指令以及血液指令（Blood Directive）³。該提案目前正由歐洲議會審查中，在審查程序完成後，應會在未來數月內進行表決並正式發布。此項新規章的目標之一，正是為了解決現行架構中先前被提及的部分缺失，包括：在維持自願無償捐贈（voluntary unpaid donation, VUD）原則的同時，改善並促進細胞與組織移植的平等可近性；降低歐洲國家對其他國家的依賴；透過採用歐洲藥品品質與衛生保健局（EDQM）出版之《供人體應用之組織與細胞品質與安全指引》（(CD-P-TO) EECPAoOT 2022）中的標準組合來統一實務作業；建立並維護 TEs 名錄；以及完善供者追蹤的組織管理。",
+          "review": "ai-draft",
+          "endPage": 555
+        },
+        {
+          "id": 6200004,
+          "page": 554,
+          "en": "C. Chabannon (*)\nInstitut Paoli-Calmettes, Centre de Lutte Contre le Cancer, Université d’Aix-Marseille, Inserm CBT 1409, Centre d’Investigations Cliniques en Biothérapie, Marseille, France\ne-mail: CHABANNONC@ipc.unicancer.fr\nH. Dolstra\nDepartment of Laboratory Medicine, Radboud University Medical Center, Nijmegen, The Netherlands\ne-mail: harry.dolstra@radboudumc.nl\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_62",
+          "zh": "作者單位與聯絡資訊：\nC. Chabannon（通訊作者）：法國馬賽艾克斯-馬賽大學 Paoli-Calmettes 研究所（癌症防治中心），Inserm CBT 1409 生物治療臨床研究中心；電子郵件：CHABANNONC@ipc.unicancer.fr。\nH. Dolstra：荷蘭奈梅亨拉德堡德大學醫學中心（Radboud University Medical Center）檢驗醫學部；電子郵件：harry.dolstra@radboudumc.nl。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_62。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 555,
+      "blocks": [
+        {
+          "id": 6200005,
+          "page": 555,
+          "en": "Additionally, the small size of the market for reagents and disposables used for cell collection and cell processing in an academic context and a POC organization makes it especially vulnerable to market withdrawal decisions. Manufacturers may decide against the necessary investments needed to upgrade industrial process and make them compliant with more stringent regulations. A recent example of such a situation is the current lack in Europe of medical devices approved for bone marrow collection, following the implementation of the (EU) 2017/745 Medical Devices Regulation and the restriction imposed by Regulation (EC) No. 1907/2006 REACH on the use of DEHP.⁴",
+          "zh": "此外，在學術環境與照護點（POC）組織中，用於細胞採集與細胞處理之試劑及一次性耗材的市場規模較小，使其特別容易受到廠商退出市場決策的衝擊。製造商可能會決定不投入升級工業製程並使其符合更嚴格法規所需的必要投資。近期此類情況的一個實例，是在歐盟實施（EU）2017/745 醫療器材法規（MDR）以及（EC）No. 1907/2006 REACH 法規對鄰苯二甲酸二（2-乙基己基）酯（DEHP）的使用施加限制後，歐洲目前缺乏獲核准用於骨髓採集之醫療器材的窘境⁴。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6200006,
+          "page": 555,
+          "en": "ATMPs represent a category of medicinal products defined in EU Regulation 1394/2007.⁵ ATMPs—known in the USA as human cells, tissues, and cellular and tissue-based products (HCT/Ps) regulated under Section 351 of the PHS Act and/or the FD&C Act⁶—are subdivided into four categories, of which two are relevant in the context of hematopoietic cellular therapies: somatic cell therapy medicinal products (SCTMP) and gene therapy medicinal products (GTMP). Examples of SCTMP include ex vivo expanded autologous or allogeneic stem cells (de Lima et al. 2012; Delaney et al. 2010), mesenchymal stem cells (Le Blanc et al. 2008), and allogeneic T lymphocytes depleted of alloreactive T cells (Andre-Schmutz et al. 2002). Examples of GTMP include autologous or allogeneic chimeric antigen receptor (CAR)-T cells (Schuster et al. 2017; Neelapu et al. 2017; Abramson et al. 2020; Berdeja et al. 2021; Munshi et al. 2021; Wang et al. 2020) and autologous CD34+ cells genetically engineered to express a miniglobin gene and designed to treat inherited β-globin disorders (Cavazzana-Calvo et al. 2010; Ribeil et al. 2017; Locatelli et al. 2022) or engineered to re-express fetal hemoglobin as a substitute to β-globin (Frangoul et al. 2021). The regulation was designed in part to foster the competitiveness of European pharmaceutical companies in this emerging field, but the number of ATMPs that have received a centralized marketing authorization has remained relatively low and with poor overall commercial success until the first two autologous CAR-T cells targeting CD19 were approved by EMA in the summer of 2018, approximately 1 year after these two products were approved by the FDA. In the HCT field, it was not until 2015 that an ATMP of interest reached the market with authorization given for Zalmoxis® (allogeneic T cells engineered to express a suicide gene) (Ciceri et al. 2009). Production, distribution, and administration of ATMPs imply a totally different organization than that used for HCT, with manufacturing at a central facility in compliance with good manufacturing practices (GMP) (Wang and Rivière 2016; Wang and Riviere 2017), a version of which was recently released by the European Medicines Agency (EMA) to specifically deal with manufacturing of ATMPs.⁷ Since a majority of the ATMPs that progress to authorization or at least to clinical trials are manufactured from autologous mononuclear cells, starting material is currently procured by hospital- or blood bank-operated apheresis facilities creating a peculiar situation in which a product starts under one regulation, Tissues and Cells Directive and likely the SoHO Regulation in the near future, before transitioning to another, ATMP and Pharma Regulations, and where a hospital acts as a service provider to industry, an interaction that requires further definition of the respective responsibilities and liabilities.",
+          "zh": "ATMPs 代表歐盟第 1394/2007 號規章（EU Regulation 1394/2007）⁵ 所定義的一類藥品。ATMPs——在美國對應於依據《公共衛生服務法》（PHS Act）第 351 條及／或《聯邦食品、藥品和化妝品法》（FD&C Act）⁶ 所管轄的「人類細胞、組織以及基於細胞與組織的產品」（HCT/Ps）——細分為四大類，其中兩類與造血細胞治療密切相關：體細胞治療藥品（somatic cell therapy medicinal products, SCTMP）與基因治療藥品（gene therapy medicinal products, GTMP）。SCTMP 的例子包括體外擴增的自體或異體幹細胞（de Lima et al. 2012; Delaney et al. 2010）、間質幹細胞（mesenchymal stem cells，Le Blanc et al. 2008），以及去除異體反應性 T 細胞後的異體 T 淋巴球（Andre-Schmutz et al. 2002）。GTMP 的例子則包括自體或異體嵌合抗原受體（CAR）-T 細胞（Schuster et al. 2017; Neelapu et al. 2017; Abramson et al. 2020; Berdeja et al. 2021; Munshi et al. 2021; Wang et al. 2020），以及經基因工程改造以表現微型球蛋白（miniglobin）基因、設計用於治療遺傳性 β-球蛋白疾病（Cavazzana-Calvo et al. 2010; Ribeil et al. 2017; Locatelli et al. 2022）或經改造以重新表現胎兒血紅素（HbF）作為 β-球蛋白替代物（Frangoul et al. 2021）的自體 CD34+ 細胞。該法規的設計目的之一是為了培育歐洲製藥公司在此新興領域的競爭力，但在前兩款靶向 CD19 的自體 CAR-T 細胞於 2018 年夏季獲 EMA 核准（約比美國 FDA 核准這兩項產品晚 1 年）之前，取得集中上市許可（centralized marketing authorization）的 ATMPs 數量一直相對偏低，整體的商業成功度也不佳。在 HCT 領域中，直到 2015 年才有受關注的 ATMP 進入市場，即獲核准的 Zalmoxis®（經基因工程改造以表現自殺基因的異體 T 細胞）（Ciceri et al. 2009）。ATMPs 的生產、配送與施予意味著與傳統 HCT 截然不同的組織運作模式，其製造須在符合優良製造規範（good manufacturing practices, GMP）的中央製造廠進行（Wang and Rivière 2016; Wang and Riviere 2017），EMA 近期亦專門發布了一版針對 ATMPs 製造的 GMP 指引⁷。由於絕大多數進入上市核准（或至少進入臨床試驗階段）的 ATMPs 都是由自體單核球製造而成，其起始原料（starting material）目前是由醫院或血庫營運的分離術（apheresis）設施所採集，這創造出一種特殊的狀況：同一項產品在起點時是受一套法規（組織與細胞指令，以及不久將來的 SoHO 規章）所管轄，隨後才轉換至另一套法規（ATMP 與藥事法規），且醫院在此過程中扮演向藥廠提供服務的供應者角色——這種互動關係需要進一步釐清雙方的權責與法律責任。",
+          "review": "ai-draft",
+          "endPage": 556
+        },
+        {
+          "id": 6200007,
+          "page": 555,
+          "en": "Footnotes (Page 556):\n1 https://ec.europa.eu/health/blood_tissues_organs/tissues_en. Accessed 10 July 2023.\n2 www.jacie.org. Accessed 10 July 2023.\n3 https://health.ec.europa.eu/blood-tissues-cells-and-organs/overview/proposal-regulation-substances-human-origin_en. Accessed 10 July 2023.\n4 https://www.europarl.europa.eu/doceo/document/E-9-2022-002133_EN.html. Accessed 10 July 2023.\n5 http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:324:0121:0137:en:PDF. Accessed 10 July 2023.\n6 https://www.fda.gov/biologicsbloodvaccines/tissuetissueproducts/regulationoftissues/ucm150485.htm. Accessed 10 July 2023.",
+          "zh": "第 556 頁註腳網址（擷取日期皆為 2023 年 7 月 10 日）：\n1 歐盟血液、組織與器官網站：https://ec.europa.eu/health/blood_tissues_organs/tissues_en。\n2 JACIE 官方網站：www.jacie.org。\n3 歐盟人體來源物質（SoHO）規章提案總覽：https://health.ec.europa.eu/blood-tissues-cells-and-organs/overview/proposal-regulation-substances-human-origin_en。\n4 歐洲議會關於骨髓採集醫材與法規之文件：https://www.europarl.europa.eu/doceo/document/E-9-2022-002133_EN.html。\n5 歐盟第 1394/2007 號 ATMP 規章公報：http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:324:0121:0137:en:PDF。\n6 美國 FDA 組織與細胞產品法規頁面：https://www.fda.gov/biologicsbloodvaccines/tissuetissueproducts/regulationoftissues/ucm150485.htm。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 556,
+      "blocks": [
+        {
+          "id": 6200008,
+          "page": 556,
+          "en": "Publication of Regulation 1394/2007 created a situation in which cell- or tissue-based therapeutic products that were previously prepared and delivered through a POC organization similar to that for cell transplants are now classified as ATMPs. This had a limited impact in the field of hematopoietic cellular therapies, although some cell-based products such as allogeneic T cells with specific anti-CMV activity engineered through the IFN-gamma-catch technology (Feuchtinger et al. 2010) were affected. In recognizing that many potential ATMPs were used for limited numbers of patients and with no commercial motivation, Regulation 1394/2007 created the so-called hospital exemption (HE) under Article 28 exempting from authorization requirements those ATMPs manufactured in hospitals, universities, or start-up companies where the medicine is prescribed for individual patients under the care of a medical practitioner. This manufacture should occur on a non-routine basis according to specific quality standards (GMP) (Vives et al. 2015), and the ATMP should be used in a hospital and only within the same member state. National authorities oversee the approval of HE products which has resulted in significant variations between member states in how it is applied and which has led to criticism from both industry and academia that it is unclear and inconsistent. Recently, Spanish investigators have developed several CAR-T cells that are structurally and functionally comparable to approved commercial products (Ortiz-Maldonado et al. 2021; Oliver-Caldes et al. 2023), one of which, ARI-0001, has been conditionally approved by EMA (Trias et al. 2022). The Pharma Regulation is also undergoing revision at the EU Commission, and the HE is one of the key aspects that is examined in the context of public consultations with all interested stakeholders.",
+          "zh": "第 1394/2007 號規章的頒布創造出一種局面：過去透過類似於細胞移植的照護點（POC）組織所製備與交付的細胞或組織治療產品，如今被歸類為 ATMPs。這對造血細胞治療領域的衝擊相對有限，不過部分以細胞為基礎的產品——例如透過干擾素-γ 捕捉技術（IFN-gamma-catch technology）製備、具特異性抗 CMV 活性的異體 T 細胞（Feuchtinger et al. 2010）——仍受到了影響。鑑於許多潛在的 ATMPs 僅用於少數患者且無商業動機，第 1394/2007 號規章在第 28 條下設立了所謂的「醫院豁免」（hospital exemption, HE）機制：凡是在醫院、大學或新創公司製造，且由執業醫師針對其照護之個別患者開立處方的 ATMPs，可豁免常規集中上市許可的要求。此類製造應依據特定的品質標準（GMP）以非常規（non-routine）方式進行（Vives et al. 2015），且該 ATMP 必須在醫院內使用，並僅限於同一歐盟成員國境內。各國主管機關負責監督 HE 產品的核准，這導致各成員國在實際執行方式上存在顯著差異，並招致產業界與學術界雙方批評其規範不明確且缺乏一致性。近期，西班牙研究人員已開發出數款在結構與功能上皆可與已核准商業產品相媲美的 CAR-T 細胞（Ortiz-Maldonado et al. 2021; Oliver-Caldes et al. 2023），其中一款名為 ARI-0001 的產品已獲得相應主管機關／EMA 的有條件核准（Trias et al. 2022）。歐盟執委會目前亦正對藥事法規（Pharma Regulation）進行修訂，而「醫院豁免（HE）」正是與所有利害關係人進行公開諮詢時所檢視的關鍵面向之一。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6200009,
+          "page": 556,
+          "en": "Access to ATMPs including cellular therapies is likely to be a particular challenge for patients, healthcare professionals, and national health systems due to the high costs of the medicinal products but also of apheresis sessions, inpatient and outpatient stays necessary to administer bridging chemotherapy when needed, lymphodepleting or conditioning regimen ahead of the infusion of SCTMP or GTMP, and preventing or treating the many side effects (Hayden et al. 2022). Even access to decades-old HCT remains strongly associated with higher-income countries (Gratwohl et al. 2015). One potential effect of limited access is the so-called stem cell tourism whereby patients with sufficient financial resource travel to centers outside their own districts or countries in order to get access to these treatments, whether with unproven efficacy or safety or while not being fully informed to make this important decision. The International Society for Cellular Therapy (ISCT) leads the publication of patient advice and other documentation on this phenomenon.⁸",
+          "zh": "對於患者、醫療專業人員與國家醫療保健體系而言，取得包括細胞治療在內的 ATMPs 很可能會是一項特殊挑戰，這不僅是因為藥品本身價格高昂，還包括白血球分離術（apheresis）療程、在需要時施予橋接化療（bridging chemotherapy）所需的住院與門診費用、輸注 SCTMP 或 GTMP 前的淋巴球清除（lymphodepleting）或調理方案費用，以及預防或治療諸多副作用的龐大開支（Hayden et al. 2022）。即便是已發展數十年的傳統 HCT，其可近性至今仍與高收入國家高度相關（Gratwohl et al. 2015）。可近性受限的一個潛在影響是所謂的「幹細胞旅遊」（stem cell tourism），即擁有足夠財力的患者前往自己所在地區或國家以外的醫療中心，以取得這些療效或安全性尚未獲證實的治療，或者在資訊未充分揭露的情況下做出此重大決定。國際細胞治療學會（ISCT）正主導發布針對此現象的患者建議與相關文件⁸。",
+          "review": "ai-draft",
+          "endPage": 557
+        },
+        {
+          "id": 6200010,
+          "page": 556,
+          "en": "Footnote (Page 557):\n7 https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/2017_11_22_guidelines_gmp_for_atmps.pdf. Accessed 10 July 2023.",
+          "zh": "第 557 頁註腳網址：\n7 歐盟 ATMP 優良製造規範（GMP）指引：https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/2017_11_22_guidelines_gmp_for_atmps.pdf（擷取於 2023 年 7 月 10 日）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 557,
+      "blocks": [
+        {
+          "id": 6200011,
+          "page": 557,
+          "en": "Academic facilities, including stem cell transplant practitioners at large, should strive to remain active players in the development of ATMPs. Academia remains very active in the early phases of clinical trials designed to evaluate innovative SCTMP and GTMP as potential complements, substitutes, or bridges to historical forms of hematopoietic cell transplants (Pearce et al. 2014). Many public institutions have invested significant resources to upgrade their processing facilities to GMP-compliant levels, thus allowing for small-scale POC manufacturing of investigational medicinal products to support phase I and possibly phase II studies, often with the potential that industry will take over in case that promising results warrant further development (de Wilde et al. 2016a). It is important to keep in mind that the development of a medicinal product goes well beyond compliance with GMP during the manufacturing step, but also involves the production of a broad array of preclinical data to support initiation of early clinical trials, and is thus strikingly different from process validation and optimization that are now routinely requested from TEs. Furthermore, academia has to become a proactive stakeholder in the regulatory area by engaging with the authorities, sharing their know-how, and voicing their opinion (de Wilde et al. 2016b). The GoCART Coalition that was recently co-founded by both the EBMT and the European Hematology Association (EHA) in part serves this purpose and aims at facilitating patients’ access to CAR-T cells and other cellular immunotherapies through the engagement of multiple stakeholders.⁹",
+          "zh": "學術機構（包括廣大的幹細胞移植臨床與研究人員）應努力在 ATMPs 的開發中保持積極參與者的角色。學術界在早期臨床試驗階段依然非常活躍，這些試驗旨在評估創新的 SCTMP 與 GTMP 作為傳統造血細胞移植之潛在輔助、替代方案或橋接治療（Pearce et al. 2014）。許多公立機構已投入可觀資源，將其細胞處理設施升級至符合 GMP 的水準，從而能夠在照護點（POC）進行小規模的研究用藥品（IMPs）製造，以支援第 I 期甚至第 II 期臨床研究，且一旦結果展現出良好前景值得進一步開發時，通常具有由產業界接手後續發展的潛力（de Wilde et al. 2016a）。必須銘記在心的是，開發一項藥品遠不止於在製造步驟符合 GMP，還涉及產出廣泛的臨床前數據以支持啟動早期臨床試驗，因此與目前常規要求組織機構（TEs）執行的製程確效（process validation）與最佳化有著顯著差異。此外，學術界必須在法規領域成為積極主動的利害關係人，與主管機關互動、分享其專業知識並表達立場（de Wilde et al. 2016b）。近期由 EBMT 與歐洲血液學會（EHA）共同創立的 GoCART 聯盟（GoCART Coalition）在某種程度上即服務於此目的，旨在透過多方利害關係人的共同參與，促進患者取得 CAR-T 細胞及其他細胞免疫治療的機會⁹。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6200012,
+          "page": 557,
+          "en": "The field is moving at a fast pace and is now well beyond the proof of concept that tissue-based or cell-based medicinal products can be manufactured by a “conventional” pharmaceutical company (Locke et al. 2017), although with continued reliance on critical contributions from academic facilities, e.g., basic science and provision of starting materials. Some of these innovative medicinal products have demonstrated remarkable clinical efficacy for severe or debilitating diseases although sometimes at the expense of equally remarkable toxicity. In 2022, barely 4 years after initial approvals supported with small single-arm international multicenter trials, positive results were published for two out of three large randomized international multicenter trials comparing autologous CAR-T cells targeting CD19 against the standard of care (SOC) including salvage chemotherapy completed with consolidation high-dose chemotherapy supported with autologous hematopoietic cell transplantation in chemo-sensitive patients (Bishop et al. 2022; Kamdar et al. 2022; Locke et al. 2022); superiority of CAR-T cells in the ZUMA-7 (Locke et al. 2022) and TRANSFORM (Kamdar et al. 2022) studies led to the approval of these treatments in second line for patients with refractory or early first relapse diffuse large B-cell lymphoma (DLBCL), heralding the end of a medical practice that arose approximately 30 years earlier (Philip et al. 1995). The rapid adoption of CAR-T cells in real-world practices (Passweg et al. 2020), with the first published reports from continental or national registries demonstrating comparable results with results from the original registration studies (Bachy et al. 2022; Pasquini et al. 2020), supports robust scientific and financial investments in the field, translating in a growing number of investigational cellular immunotherapies being evaluated (Saez-Ibanez et al. 2022). These developments still carry many regulatory and operational uncertainties, including the sustainability of multiple and parallel supply chains for different medicinal products, that create an increasing workload for academic facilities and place a growing financial burden on public and private healthcare payers. The availability of multiple types of hematopoietic cellular therapies at the same time when other categories of therapies also reach the market in large numbers contribute to the growing complexity in the evaluation of the medical value of these innovative and expensive therapies, in patients who have received and will receive multiple lines of treatments over many years of care (Chabannon et al. 2015). In this context, organization of long-term follow-up is challenging.¹⁰ Academia through continental registries such as EBMT¹¹ will continue to play a key role with data and know-how that will be very useful not just for researchers but also for industry, healthcare regulators, and payers.",
+          "zh": "此領域正以極快的速度發展，如今已遠遠超越了證明「以組織或細胞為基礎的藥品可由『傳統』製藥公司製造」的概念驗證階段（Locke et al. 2017），儘管其仍持續仰賴學術機構的關鍵貢獻（例如基礎科學研究以及提供起始細胞原料）。這些創新藥品中的一部分已在嚴重或使人衰弱的疾病中展現出卓越的臨床療效，儘管有時也伴隨著同樣顯著的毒性代價。在 2022 年，距離以小型單臂國際多中心試驗支持獲得初步核准僅約 4 年的時間，三項比較靶向 CD19 之自體 CAR-T 細胞與標準治療（SOC，包含救援化療後於化療敏感患者進行高劑量鞏固化療併用自體造血細胞移植）的大型隨機國際多中心試驗中，有兩項發表了陽性結果（Bishop et al. 2022; Kamdar et al. 2022; Locke et al. 2022）；CAR-T 細胞在 ZUMA-7（Locke et al. 2022）與 TRANSFORM（Kamdar et al. 2022）研究中的優越性，促成了這些療法獲核准作為難治型或早期第一次復發之瀰漫性大型 B 細胞淋巴瘤（DLBCL）患者的第二線治療，預示著一項約 30 年前確立之醫療實務（Philip et al. 1995）時代的終結。CAR-T 細胞在真實世界實務中的快速導入（Passweg et al. 2020），以及來自跨國或國家級登錄資料庫首批發表報告顯示出與原始註冊研究相當的治療結果（Bachy et al. 2022; Pasquini et al. 2020），皆支持對此領域進行強健的科學與資金投入，並轉化為越來越多正在接受評估的研究用細胞免疫療法（Saez-Ibanez et al. 2022）。然而，這些發展仍伴隨著許多法規與運作上的不確定性，包括針對不同藥品維持多重且平行之供應鏈的永續性，這為學術醫療機構帶來日益沉重的工作量，也對公私部門的醫療保險支付方造成不斷增加的財務負擔。當其他類別的新療法也大量進入市場的同時，多種造血細胞治療的並存，使得評估這些昂貴創新療法在多年照護中已接受且將繼續接受多線治療之患者身上的醫療價值變得日益複雜（Chabannon et al. 2015）。在此脈絡下，規劃並組織長期追蹤極具挑戰性¹⁰。學術界透過如 EBMT¹¹ 等跨國登錄庫，將憑藉其數據與專業知識繼續扮演關鍵角色，這不僅對研究人員極具價值，對產業界、醫療法規主管機關與保險支付方亦同。",
+          "review": "ai-draft",
+          "endPage": 558
+        },
+        {
+          "id": 6200013,
+          "page": 557,
+          "en": "Footnotes (Page 558 & 559):\n8 http://www.celltherapysociety.org/page/UCT. Accessed 21 Feb 2018.\n9 https://thegocartcoalition.com. Accessed 10 July 2023.\n10 http://www.ema.europa.eu/ema/index.jsp?curl=pages%2Fregulation%2Fgeneral%2Fgeneral_content_000658.jsp&mid=WC0b01ac0580961211.\n11 https://www.ebmt.org/registry/car-t-data-collection-initiative. Accessed 10 July 2023.",
+          "zh": "第 558 與 559 頁註腳網址：\n8 國際細胞治療學會（ISCT）未經證實細胞治療資訊頁：http://www.celltherapysociety.org/page/UCT（擷取於 2018 年 2 月 21 日）。\n9 GoCART 聯盟官方網站：https://thegocartcoalition.com（擷取於 2023 年 7 月 10 日）。\n10 EMA 藥品法規頁面：http://www.ema.europa.eu/ema/index.jsp?curl=pages%2Fregulation%2Fgeneral%2Fgeneral_content_000658.jsp&mid=WC0b01ac0580961211。\n11 EBMT CAR-T 資料收集倡議：https://www.ebmt.org/registry/car-t-data-collection-initiative（擷取於 2023 年 7 月 10 日）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 558,
+      "blocks": [
+        {
+          "id": 6200014,
+          "page": 558,
+          "en": "(CD-P-TO) EECPAoOT. Guide to the quality and safety of tissues and cells for human application. 2022.",
+          "zh": "(CD-P-TO) EECPAoOT. Guide to the quality and safety of tissues and cells for human application. 2022.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=%28CD-P-TO%29%20EECPAoOT.%20Guide%20to%20the%20quality%20and%20safety%20of%20tissues%20and%20cells%20for%20human%20application.%202022."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=%28CD-P-TO%29%20EECPAoOT.%20Guide%20to%20the%20quality%20and%20safety%20of%20tissues%20and%20cells%20for%20human%20application.%202022."
+            }
+          ]
+        },
+        {
+          "id": 6200015,
+          "page": 558,
+          "en": "Abramson JS, Palomba ML, Gordon LI, Lunning MA, Wang M, Arnason J, Mehta A, Purev E, Maloney DG, Andreadis C, Sehgal A, Solomon SR, Ghosh N, Albertson TM, Garcia J, Kostic A, Mallaney M, Ogasawara K, Newhall K, Kim Y, Li D, Siddiqi T. Lisocabtagene maraleucel for patients with relapsed or refractory large B-cell lymphomas (TRANSCEND NHL 001): a multicentre seamless design study. Lancet. 2020;396:839–52.",
+          "zh": "Abramson JS, Palomba ML, Gordon LI, Lunning MA, Wang M, Arnason J, Mehta A, Purev E, Maloney DG, Andreadis C, Sehgal A, Solomon SR, Ghosh N, Albertson TM, Garcia J, Kostic A, Mallaney M, Ogasawara K, Newhall K, Kim Y, Li D, Siddiqi T. Lisocabtagene maraleucel for patients with relapsed or refractory large B-cell lymphomas (TRANSCEND NHL 001): a multicentre seamless design study. Lancet. 2020;396:839–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abramson%20JS%2C%20Palomba%20ML%2C%20Gordon%20LI%2C%20Lunning%20MA%2C%20Wang%20M%2C%20Arnason%20J%2C%20Mehta%20A%2C%20Purev%20E%2C%20Maloney%20DG%2C%20Andreadis%20C%2C%20Sehgal%20A%2C%20Solomon%20SR%2C%20Ghosh%20N%2C%20Albertson%20TM%2C%20Garcia%20J%2C%20Kostic%20A%2C%20Mallaney%20M%2C%20Ogasawara%20K%2C%20Newhall%20K%2C%20Kim%20Y%2C%20Li%20D%2C%20Siddiqi%20T.%20Lisocabtagene%20maraleucel%20for%20patients%20with%20relapsed%20or%20refractory%20large%20B-cell%20lymphomas%20%28TRANSCEND%20NHL%20001%29%3A%20a%20multicentre%20seamless%20design%20study.%20Lancet.%202020%3B396%3A839%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abramson%20JS%2C%20Palomba%20ML%2C%20Gordon%20LI%2C%20Lunning%20MA%2C%20Wang%20M%2C%20Arnason%20J%2C%20Mehta%20A%2C%20Purev%20E%2C%20Maloney%20DG%2C%20Andreadis%20C%2C%20Sehgal%20A%2C%20Solomon%20SR%2C%20Ghosh%20N%2C%20Albertson%20TM%2C%20Garcia%20J%2C%20Kostic%20A%2C%20Mallaney%20M%2C%20Ogasawara%20K%2C%20Newhall%20K%2C%20Kim%20Y%2C%20Li%20D%2C%20Siddiqi%20T.%20Lisocabtagene%20maraleucel%20for%20patients%20with%20relapsed%20or%20refractory%20large%20B-cell%20lymphomas%20%28TRANSCEND%20NHL%20001%29%3A%20a%20multicentre%20seamless%20design%20study.%20Lancet.%202020%3B396%3A839%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 6200016,
+          "page": 558,
+          "en": "Andre-Schmutz I, Le Deist F, Hacein-Bey-Abina S, Vitetta E, Schindler J, Chedeville G, Vilmer E, Fischer A, Cavazzana-Calvo M. Immune reconstitution without graft-versus-host disease after haemopoietic stem-cell transplantation: a phase 1/2 study. Lancet. 2002;360:130–7.",
+          "zh": "Andre-Schmutz I, Le Deist F, Hacein-Bey-Abina S, Vitetta E, Schindler J, Chedeville G, Vilmer E, Fischer A, Cavazzana-Calvo M. Immune reconstitution without graft-versus-host disease after haemopoietic stem-cell transplantation: a phase 1/2 study. Lancet. 2002;360:130–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Andre-Schmutz%20I%2C%20Le%20Deist%20F%2C%20Hacein-Bey-Abina%20S%2C%20Vitetta%20E%2C%20Schindler%20J%2C%20Chedeville%20G%2C%20Vilmer%20E%2C%20Fischer%20A%2C%20Cavazzana-Calvo%20M.%20Immune%20reconstitution%20without%20graft-versus-host%20disease%20after%20haemopoietic%20stem-cell%20transplantation%3A%20a%20phase%201/2%20study.%20Lancet.%202002%3B360%3A130%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Andre-Schmutz%20I%2C%20Le%20Deist%20F%2C%20Hacein-Bey-Abina%20S%2C%20Vitetta%20E%2C%20Schindler%20J%2C%20Chedeville%20G%2C%20Vilmer%20E%2C%20Fischer%20A%2C%20Cavazzana-Calvo%20M.%20Immune%20reconstitution%20without%20graft-versus-host%20disease%20after%20haemopoietic%20stem-cell%20transplantation%3A%20a%20phase%201/2%20study.%20Lancet.%202002%3B360%3A130%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6200017,
+          "page": 558,
+          "en": "Bachy E, Le Gouill S, Di Blasi R, Sesques P, Manson G, Cartron G, Beauvais D, Roulin L, Gros FX, Rubio MT, Bories P, Bay JO, Llorente CC, Choquet S, Casasnovas RO, Mohty M, Guidez S, Joris M, Loschi M, Carras S, Abraham J, Chauchet A, Drieu La Rochelle L, Deau-Fischer B, Hermine O, Gastinne T, Tudesq JJ, Gat E, Broussais F, Thieblemont C, Houot R, Morschhauser F. A real-world comparison of tisagenlecleucel and axicabtagene ciloleucel CAR T cells in relapsed or refractory diffuse large B cell lymphoma. Nat Med. 2022;28:2145–54.",
+          "zh": "Bachy E, Le Gouill S, Di Blasi R, Sesques P, Manson G, Cartron G, Beauvais D, Roulin L, Gros FX, Rubio MT, Bories P, Bay JO, Llorente CC, Choquet S, Casasnovas RO, Mohty M, Guidez S, Joris M, Loschi M, Carras S, Abraham J, Chauchet A, Drieu La Rochelle L, Deau-Fischer B, Hermine O, Gastinne T, Tudesq JJ, Gat E, Broussais F, Thieblemont C, Houot R, Morschhauser F. A real-world comparison of tisagenlecleucel and axicabtagene ciloleucel CAR T cells in relapsed or refractory diffuse large B cell lymphoma. Nat Med. 2022;28:2145–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bachy%20E%2C%20Le%20Gouill%20S%2C%20Di%20Blasi%20R%2C%20Sesques%20P%2C%20Manson%20G%2C%20Cartron%20G%2C%20Beauvais%20D%2C%20Roulin%20L%2C%20Gros%20FX%2C%20Rubio%20MT%2C%20Bories%20P%2C%20Bay%20JO%2C%20Llorente%20CC%2C%20Choquet%20S%2C%20Casasnovas%20RO%2C%20Mohty%20M%2C%20Guidez%20S%2C%20Joris%20M%2C%20Loschi%20M%2C%20Carras%20S%2C%20Abraham%20J%2C%20Chauchet%20A%2C%20Drieu%20La%20Rochelle%20L%2C%20Deau-Fischer%20B%2C%20Hermine%20O%2C%20Gastinne%20T%2C%20Tudesq%20JJ%2C%20Gat%20E%2C%20Broussais%20F%2C%20Thieblemont%20C%2C%20Houot%20R%2C%20Morschhauser%20F.%20A%20real-world%20comparison%20of%20tisagenlecleucel%20and%20axicabtagene%20ciloleucel%20CAR%20T%20cells%20in%20relapsed%20or%20refractory%20diffuse%20large%20B%20cell%20lymphoma.%20Nat%20Med.%202022%3B28%3A2145%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bachy%20E%2C%20Le%20Gouill%20S%2C%20Di%20Blasi%20R%2C%20Sesques%20P%2C%20Manson%20G%2C%20Cartron%20G%2C%20Beauvais%20D%2C%20Roulin%20L%2C%20Gros%20FX%2C%20Rubio%20MT%2C%20Bories%20P%2C%20Bay%20JO%2C%20Llorente%20CC%2C%20Choquet%20S%2C%20Casasnovas%20RO%2C%20Mohty%20M%2C%20Guidez%20S%2C%20Joris%20M%2C%20Loschi%20M%2C%20Carras%20S%2C%20Abraham%20J%2C%20Chauchet%20A%2C%20Drieu%20La%20Rochelle%20L%2C%20Deau-Fischer%20B%2C%20Hermine%20O%2C%20Gastinne%20T%2C%20Tudesq%20JJ%2C%20Gat%20E%2C%20Broussais%20F%2C%20Thieblemont%20C%2C%20Houot%20R%2C%20Morschhauser%20F.%20A%20real-world%20comparison%20of%20tisagenlecleucel%20and%20axicabtagene%20ciloleucel%20CAR%20T%20cells%20in%20relapsed%20or%20refractory%20diffuse%20large%20B%20cell%20lymphoma.%20Nat%20Med.%202022%3B28%3A2145%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 6200018,
+          "page": 558,
+          "en": "Berdeja JG, Madduri D, Usmani SZ, Jakubowiak A, Agha M, Cohen AD, Stewart AK, Hari P, Htut M, Lesokhin A, Deol A, Munshi NC, O’Donnell E, Avigan D, Singh I, Zudaire E, Yeh TM, Allred AJ, Olyslager Y, Banerjee A, Jackson CC, Goldberg JD, Schecter JM, Deraedt W, Zhuang SH, Infante J, Geng D, Wu X, Carrasco-Alfonso MJ, Akram M, Hossain F, Rizvi S, Fan F, Lin Y, Martin T, Jagannath S. Ciltacabtagene autoleucel, a B-cell maturation antigen-directed chimeric antigen receptor T-cell therapy in patients with relapsed or refractory multiple myeloma (CARTITUDE-1): a phase 1b/2 open-label study. Lancet. 2021;398:314–24.",
+          "zh": "Berdeja JG, Madduri D, Usmani SZ, Jakubowiak A, Agha M, Cohen AD, Stewart AK, Hari P, Htut M, Lesokhin A, Deol A, Munshi NC, O’Donnell E, Avigan D, Singh I, Zudaire E, Yeh TM, Allred AJ, Olyslager Y, Banerjee A, Jackson CC, Goldberg JD, Schecter JM, Deraedt W, Zhuang SH, Infante J, Geng D, Wu X, Carrasco-Alfonso MJ, Akram M, Hossain F, Rizvi S, Fan F, Lin Y, Martin T, Jagannath S. Ciltacabtagene autoleucel, a B-cell maturation antigen-directed chimeric antigen receptor T-cell therapy in patients with relapsed or refractory multiple myeloma (CARTITUDE-1): a phase 1b/2 open-label study. Lancet. 2021;398:314–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Berdeja%20JG%2C%20Madduri%20D%2C%20Usmani%20SZ%2C%20Jakubowiak%20A%2C%20Agha%20M%2C%20Cohen%20AD%2C%20Stewart%20AK%2C%20Hari%20P%2C%20Htut%20M%2C%20Lesokhin%20A%2C%20Deol%20A%2C%20Munshi%20NC%2C%20O%E2%80%99Donnell%20E%2C%20Avigan%20D%2C%20Singh%20I%2C%20Zudaire%20E%2C%20Yeh%20TM%2C%20Allred%20AJ%2C%20Olyslager%20Y%2C%20Banerjee%20A%2C%20Jackson%20CC%2C%20Goldberg%20JD%2C%20Schecter%20JM%2C%20Deraedt%20W%2C%20Zhuang%20SH%2C%20Infante%20J%2C%20Geng%20D%2C%20Wu%20X%2C%20Carrasco-Alfonso%20MJ%2C%20Akram%20M%2C%20Hossain%20F%2C%20Rizvi%20S%2C%20Fan%20F%2C%20Lin%20Y%2C%20Martin%20T%2C%20Jagannath%20S.%20Ciltacabtagene%20autoleucel%2C%20a%20B-cell%20maturation%20antigen-directed%20chimeric%20antigen%20receptor%20T-cell%20therapy%20in%20patients%20with%20relapsed%20or%20refractory%20multiple%20myeloma%20%28CARTITUDE-1%29%3A%20a%20phase%201b/2%20open-label%20study.%20Lancet.%202021%3B398%3A314%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Berdeja%20JG%2C%20Madduri%20D%2C%20Usmani%20SZ%2C%20Jakubowiak%20A%2C%20Agha%20M%2C%20Cohen%20AD%2C%20Stewart%20AK%2C%20Hari%20P%2C%20Htut%20M%2C%20Lesokhin%20A%2C%20Deol%20A%2C%20Munshi%20NC%2C%20O%E2%80%99Donnell%20E%2C%20Avigan%20D%2C%20Singh%20I%2C%20Zudaire%20E%2C%20Yeh%20TM%2C%20Allred%20AJ%2C%20Olyslager%20Y%2C%20Banerjee%20A%2C%20Jackson%20CC%2C%20Goldberg%20JD%2C%20Schecter%20JM%2C%20Deraedt%20W%2C%20Zhuang%20SH%2C%20Infante%20J%2C%20Geng%20D%2C%20Wu%20X%2C%20Carrasco-Alfonso%20MJ%2C%20Akram%20M%2C%20Hossain%20F%2C%20Rizvi%20S%2C%20Fan%20F%2C%20Lin%20Y%2C%20Martin%20T%2C%20Jagannath%20S.%20Ciltacabtagene%20autoleucel%2C%20a%20B-cell%20maturation%20antigen-directed%20chimeric%20antigen%20receptor%20T-cell%20therapy%20in%20patients%20with%20relapsed%20or%20refractory%20multiple%20myeloma%20%28CARTITUDE-1%29%3A%20a%20phase%201b/2%20open-label%20study.%20Lancet.%202021%3B398%3A314%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 6200019,
+          "page": 558,
+          "en": "Bishop MR, Dickinson M, Purtill D, Barba P, Santoro A, Hamad N, Kato K, Sureda A, Greil R, Thieblemont C, Morschhauser F, Janz M, Flinn I, Rabitsch W, Kwong YL, Kersten MJ, Minnema MC, Holte H, Chan EHL, Martinez-Lopez J, Muller AMS, Maziarz RT, McGuirk JP, Bachy E, Le Gouill S, Dreyling M, Harigae H, Bond D, Andreadis C, McSweeney P, Kharfan-Dabaja M, Newsome S, Degtyarev E, Awasthi R, Del Corral C, Andreola G, Masood A, Schuster SJ, Jager U, Borchmann P, Westin JR. Second-line Tisagenlecleucel or standard care in aggressive B-cell lymphoma. N Engl J Med. 2022;386:629–39.",
+          "zh": "Bishop MR, Dickinson M, Purtill D, Barba P, Santoro A, Hamad N, Kato K, Sureda A, Greil R, Thieblemont C, Morschhauser F, Janz M, Flinn I, Rabitsch W, Kwong YL, Kersten MJ, Minnema MC, Holte H, Chan EHL, Martinez-Lopez J, Muller AMS, Maziarz RT, McGuirk JP, Bachy E, Le Gouill S, Dreyling M, Harigae H, Bond D, Andreadis C, McSweeney P, Kharfan-Dabaja M, Newsome S, Degtyarev E, Awasthi R, Del Corral C, Andreola G, Masood A, Schuster SJ, Jager U, Borchmann P, Westin JR. Second-line Tisagenlecleucel or standard care in aggressive B-cell lymphoma. N Engl J Med. 2022;386:629–39.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bishop%20MR%2C%20Dickinson%20M%2C%20Purtill%20D%2C%20Barba%20P%2C%20Santoro%20A%2C%20Hamad%20N%2C%20Kato%20K%2C%20Sureda%20A%2C%20Greil%20R%2C%20Thieblemont%20C%2C%20Morschhauser%20F%2C%20Janz%20M%2C%20Flinn%20I%2C%20Rabitsch%20W%2C%20Kwong%20YL%2C%20Kersten%20MJ%2C%20Minnema%20MC%2C%20Holte%20H%2C%20Chan%20EHL%2C%20Martinez-Lopez%20J%2C%20Muller%20AMS%2C%20Maziarz%20RT%2C%20McGuirk%20JP%2C%20Bachy%20E%2C%20Le%20Gouill%20S%2C%20Dreyling%20M%2C%20Harigae%20H%2C%20Bond%20D%2C%20Andreadis%20C%2C%20McSweeney%20P%2C%20Kharfan-Dabaja%20M%2C%20Newsome%20S%2C%20Degtyarev%20E%2C%20Awasthi%20R%2C%20Del%20Corral%20C%2C%20Andreola%20G%2C%20Masood%20A%2C%20Schuster%20SJ%2C%20Jager%20U%2C%20Borchmann%20P%2C%20Westin%20JR.%20Second-line%20Tisagenlecleucel%20or%20standard%20care%20in%20aggressive%20B-cell%20lymphoma.%20N%20Engl%20J%20Med.%202022%3B386%3A629%E2%80%9339."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bishop%20MR%2C%20Dickinson%20M%2C%20Purtill%20D%2C%20Barba%20P%2C%20Santoro%20A%2C%20Hamad%20N%2C%20Kato%20K%2C%20Sureda%20A%2C%20Greil%20R%2C%20Thieblemont%20C%2C%20Morschhauser%20F%2C%20Janz%20M%2C%20Flinn%20I%2C%20Rabitsch%20W%2C%20Kwong%20YL%2C%20Kersten%20MJ%2C%20Minnema%20MC%2C%20Holte%20H%2C%20Chan%20EHL%2C%20Martinez-Lopez%20J%2C%20Muller%20AMS%2C%20Maziarz%20RT%2C%20McGuirk%20JP%2C%20Bachy%20E%2C%20Le%20Gouill%20S%2C%20Dreyling%20M%2C%20Harigae%20H%2C%20Bond%20D%2C%20Andreadis%20C%2C%20McSweeney%20P%2C%20Kharfan-Dabaja%20M%2C%20Newsome%20S%2C%20Degtyarev%20E%2C%20Awasthi%20R%2C%20Del%20Corral%20C%2C%20Andreola%20G%2C%20Masood%20A%2C%20Schuster%20SJ%2C%20Jager%20U%2C%20Borchmann%20P%2C%20Westin%20JR.%20Second-line%20Tisagenlecleucel%20or%20standard%20care%20in%20aggressive%20B-cell%20lymphoma.%20N%20Engl%20J%20Med.%202022%3B386%3A629%E2%80%9339."
+            }
+          ]
+        },
+        {
+          "id": 6200020,
+          "page": 558,
+          "en": "Cavazzana-Calvo M, Payen E, Negre O, Wang G, Hehir K, Fusil F, Down J, Denaro M, Brady T, Westerman K, Cavallesco R, Gillet-Legrand B, Caccavelli L, Sgarra R, Maouche-Chretien L, Bernaudin F, Girot R, Dorazio R, Mulder GJ, Polack A, Bank A, Soulier J, Larghero J, Kabbara N, Dalle B, Gourmel B, Socie G, Chretien S, Cartier N, Aubourg P, Fischer A, Cornetta K, Galacteros F, Beuzard Y, Gluckman E, Bushman F, Hacein-Bey-Abina S, Leboulch P. Transfusion independence and HMGA2 activation after gene therapy of human beta-thalassaemia. Nature. 2010;467:318–22.",
+          "zh": "Cavazzana-Calvo M, Payen E, Negre O, Wang G, Hehir K, Fusil F, Down J, Denaro M, Brady T, Westerman K, Cavallesco R, Gillet-Legrand B, Caccavelli L, Sgarra R, Maouche-Chretien L, Bernaudin F, Girot R, Dorazio R, Mulder GJ, Polack A, Bank A, Soulier J, Larghero J, Kabbara N, Dalle B, Gourmel B, Socie G, Chretien S, Cartier N, Aubourg P, Fischer A, Cornetta K, Galacteros F, Beuzard Y, Gluckman E, Bushman F, Hacein-Bey-Abina S, Leboulch P. Transfusion independence and HMGA2 activation after gene therapy of human beta-thalassaemia. Nature. 2010;467:318–22.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cavazzana-Calvo%20M%2C%20Payen%20E%2C%20Negre%20O%2C%20Wang%20G%2C%20Hehir%20K%2C%20Fusil%20F%2C%20Down%20J%2C%20Denaro%20M%2C%20Brady%20T%2C%20Westerman%20K%2C%20Cavallesco%20R%2C%20Gillet-Legrand%20B%2C%20Caccavelli%20L%2C%20Sgarra%20R%2C%20Maouche-Chretien%20L%2C%20Bernaudin%20F%2C%20Girot%20R%2C%20Dorazio%20R%2C%20Mulder%20GJ%2C%20Polack%20A%2C%20Bank%20A%2C%20Soulier%20J%2C%20Larghero%20J%2C%20Kabbara%20N%2C%20Dalle%20B%2C%20Gourmel%20B%2C%20Socie%20G%2C%20Chretien%20S%2C%20Cartier%20N%2C%20Aubourg%20P%2C%20Fischer%20A%2C%20Cornetta%20K%2C%20Galacteros%20F%2C%20Beuzard%20Y%2C%20Gluckman%20E%2C%20Bushman%20F%2C%20Hacein-Bey-Abina%20S%2C%20Leboulch%20P.%20Transfusion%20independence%20and%20HMGA2%20activation%20after%20gene%20therapy%20of%20human%20beta-thalassaemia.%20Nature.%202010%3B467%3A318%E2%80%9322."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cavazzana-Calvo%20M%2C%20Payen%20E%2C%20Negre%20O%2C%20Wang%20G%2C%20Hehir%20K%2C%20Fusil%20F%2C%20Down%20J%2C%20Denaro%20M%2C%20Brady%20T%2C%20Westerman%20K%2C%20Cavallesco%20R%2C%20Gillet-Legrand%20B%2C%20Caccavelli%20L%2C%20Sgarra%20R%2C%20Maouche-Chretien%20L%2C%20Bernaudin%20F%2C%20Girot%20R%2C%20Dorazio%20R%2C%20Mulder%20GJ%2C%20Polack%20A%2C%20Bank%20A%2C%20Soulier%20J%2C%20Larghero%20J%2C%20Kabbara%20N%2C%20Dalle%20B%2C%20Gourmel%20B%2C%20Socie%20G%2C%20Chretien%20S%2C%20Cartier%20N%2C%20Aubourg%20P%2C%20Fischer%20A%2C%20Cornetta%20K%2C%20Galacteros%20F%2C%20Beuzard%20Y%2C%20Gluckman%20E%2C%20Bushman%20F%2C%20Hacein-Bey-Abina%20S%2C%20Leboulch%20P.%20Transfusion%20independence%20and%20HMGA2%20activation%20after%20gene%20therapy%20of%20human%20beta-thalassaemia.%20Nature.%202010%3B467%3A318%E2%80%9322."
+            }
+          ]
+        },
+        {
+          "id": 6200021,
+          "page": 558,
+          "en": "Chabannon C, Hildebrandt M, Scheding S, Humpe A, Lowdell M, Slaper-Cortenbach I. Regulation of advanced therapy medicinal products will affect the practice of haematopoietic SCT in the near future: a perspective from the EBMT cell-processing committee. Bone Marrow Transplant. 2015;50:321–3.",
+          "zh": "Chabannon C, Hildebrandt M, Scheding S, Humpe A, Lowdell M, Slaper-Cortenbach I. Regulation of advanced therapy medicinal products will affect the practice of haematopoietic SCT in the near future: a perspective from the EBMT cell-processing committee. Bone Marrow Transplant. 2015;50:321–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chabannon%20C%2C%20Hildebrandt%20M%2C%20Scheding%20S%2C%20Humpe%20A%2C%20Lowdell%20M%2C%20Slaper-Cortenbach%20I.%20Regulation%20of%20advanced%20therapy%20medicinal%20products%20will%20affect%20the%20practice%20of%20haematopoietic%20SCT%20in%20the%20near%20future%3A%20a%20perspective%20from%20the%20EBMT%20cell-processing%20committee.%20Bone%20Marrow%20Transplant.%202015%3B50%3A321%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chabannon%20C%2C%20Hildebrandt%20M%2C%20Scheding%20S%2C%20Humpe%20A%2C%20Lowdell%20M%2C%20Slaper-Cortenbach%20I.%20Regulation%20of%20advanced%20therapy%20medicinal%20products%20will%20affect%20the%20practice%20of%20haematopoietic%20SCT%20in%20the%20near%20future%3A%20a%20perspective%20from%20the%20EBMT%20cell-processing%20committee.%20Bone%20Marrow%20Transplant.%202015%3B50%3A321%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 6200022,
+          "page": 558,
+          "en": "Chabannon C, Kuball J, Bondanza A, Dazzi F, Pedrazzoli P, Toubert A, Ruggeri A, Fleischhauer K, Bonini C. Hematopoietic stem cell transplantation in its 60s: a platform for cellular therapies. Sci Transl Med. 2018;10:eaap9630.",
+          "zh": "Chabannon C, Kuball J, Bondanza A, Dazzi F, Pedrazzoli P, Toubert A, Ruggeri A, Fleischhauer K, Bonini C. Hematopoietic stem cell transplantation in its 60s: a platform for cellular therapies. Sci Transl Med. 2018;10:eaap9630.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chabannon%20C%2C%20Kuball%20J%2C%20Bondanza%20A%2C%20Dazzi%20F%2C%20Pedrazzoli%20P%2C%20Toubert%20A%2C%20Ruggeri%20A%2C%20Fleischhauer%20K%2C%20Bonini%20C.%20Hematopoietic%20stem%20cell%20transplantation%20in%20its%2060s%3A%20a%20platform%20for%20cellular%20therapies.%20Sci%20Transl%20Med.%202018%3B10%3Aeaap9630."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chabannon%20C%2C%20Kuball%20J%2C%20Bondanza%20A%2C%20Dazzi%20F%2C%20Pedrazzoli%20P%2C%20Toubert%20A%2C%20Ruggeri%20A%2C%20Fleischhauer%20K%2C%20Bonini%20C.%20Hematopoietic%20stem%20cell%20transplantation%20in%20its%2060s%3A%20a%20platform%20for%20cellular%20therapies.%20Sci%20Transl%20Med.%202018%3B10%3Aeaap9630."
+            }
+          ]
+        },
+        {
+          "id": 6200023,
+          "page": 558,
+          "en": "Ciceri F, Bonini C, Stanghellini MT, Bondanza A, Traversari C, Salomoni M, Turchetto L, Colombi S, Bernardi M, Peccatori J, Pescarollo A, Servida P, Magnani Z, Perna SK, Valtolina V, Crippa F, Callegaro L, Spoldi E, Crocchiolo R, Fleischhauer K, Ponzoni M, Vago L, Rossini S, Santoro A, Todisco E, Apperley J, Olavarria E, Slavin S, Weissinger EM, Ganser A, Stadler M, Yannaki E, Fassas A, Anagnostopoulos A, Bregni M, Stampino CG, Bruzzi P, Bordignon C. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I-II study. Lancet Oncol. 2009;10:489–500.",
+          "zh": "Ciceri F, Bonini C, Stanghellini MT, Bondanza A, Traversari C, Salomoni M, Turchetto L, Colombi S, Bernardi M, Peccatori J, Pescarollo A, Servida P, Magnani Z, Perna SK, Valtolina V, Crippa F, Callegaro L, Spoldi E, Crocchiolo R, Fleischhauer K, Ponzoni M, Vago L, Rossini S, Santoro A, Todisco E, Apperley J, Olavarria E, Slavin S, Weissinger EM, Ganser A, Stadler M, Yannaki E, Fassas A, Anagnostopoulos A, Bregni M, Stampino CG, Bruzzi P, Bordignon C. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I-II study. Lancet Oncol. 2009;10:489–500.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ciceri%20F%2C%20Bonini%20C%2C%20Stanghellini%20MT%2C%20Bondanza%20A%2C%20Traversari%20C%2C%20Salomoni%20M%2C%20Turchetto%20L%2C%20Colombi%20S%2C%20Bernardi%20M%2C%20Peccatori%20J%2C%20Pescarollo%20A%2C%20Servida%20P%2C%20Magnani%20Z%2C%20Perna%20SK%2C%20Valtolina%20V%2C%20Crippa%20F%2C%20Callegaro%20L%2C%20Spoldi%20E%2C%20Crocchiolo%20R%2C%20Fleischhauer%20K%2C%20Ponzoni%20M%2C%20Vago%20L%2C%20Rossini%20S%2C%20Santoro%20A%2C%20Todisco%20E%2C%20Apperley%20J%2C%20Olavarria%20E%2C%20Slavin%20S%2C%20Weissinger%20EM%2C%20Ganser%20A%2C%20Stadler%20M%2C%20Yannaki%20E%2C%20Fassas%20A%2C%20Anagnostopoulos%20A%2C%20Bregni%20M%2C%20Stampino%20CG%2C%20Bruzzi%20P%2C%20Bordignon%20C.%20Infusion%20of%20suicide-gene-engineered%20donor%20lymphocytes%20after%20family%20haploidentical%20haemopoietic%20stem-cell%20transplantation%20for%20leukaemia%20%28the%20TK007%20trial%29%3A%20a%20non-randomised%20phase%20I-II%20study.%20Lancet%20Oncol.%202009%3B10%3A489%E2%80%93500."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ciceri%20F%2C%20Bonini%20C%2C%20Stanghellini%20MT%2C%20Bondanza%20A%2C%20Traversari%20C%2C%20Salomoni%20M%2C%20Turchetto%20L%2C%20Colombi%20S%2C%20Bernardi%20M%2C%20Peccatori%20J%2C%20Pescarollo%20A%2C%20Servida%20P%2C%20Magnani%20Z%2C%20Perna%20SK%2C%20Valtolina%20V%2C%20Crippa%20F%2C%20Callegaro%20L%2C%20Spoldi%20E%2C%20Crocchiolo%20R%2C%20Fleischhauer%20K%2C%20Ponzoni%20M%2C%20Vago%20L%2C%20Rossini%20S%2C%20Santoro%20A%2C%20Todisco%20E%2C%20Apperley%20J%2C%20Olavarria%20E%2C%20Slavin%20S%2C%20Weissinger%20EM%2C%20Ganser%20A%2C%20Stadler%20M%2C%20Yannaki%20E%2C%20Fassas%20A%2C%20Anagnostopoulos%20A%2C%20Bregni%20M%2C%20Stampino%20CG%2C%20Bruzzi%20P%2C%20Bordignon%20C.%20Infusion%20of%20suicide-gene-engineered%20donor%20lymphocytes%20after%20family%20haploidentical%20haemopoietic%20stem-cell%20transplantation%20for%20leukaemia%20%28the%20TK007%20trial%29%3A%20a%20non-randomised%20phase%20I-II%20study.%20Lancet%20Oncol.%202009%3B10%3A489%E2%80%93500."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 559,
+      "blocks": [
+        {
+          "id": 6200024,
+          "page": 559,
+          "en": "de Lima M, McNiece I, Robinson SN, Munsell M, Eapen M, Horowitz M, Alousi A, Saliba R, McMannis JD, Kaur I, Kebriaei P, Parmar S, Popat U, Hosing C, Champlin R, Bollard C, Molldrem JJ, Jones RB, Nieto Y, Andersson BS, Shah N, Oran B, Cooper LJ, Worth L, Qazilbash MH, Korbling M, Rondon G, Ciurea S, Bosque D, Maewal I, Simmons PJ, Shpall EJ. Cord-blood engraftment with ex vivo mesenchymal-cell coculture. N Engl J Med. 2012;367:2305–15.",
+          "zh": "de Lima M, McNiece I, Robinson SN, Munsell M, Eapen M, Horowitz M, Alousi A, Saliba R, McMannis JD, Kaur I, Kebriaei P, Parmar S, Popat U, Hosing C, Champlin R, Bollard C, Molldrem JJ, Jones RB, Nieto Y, Andersson BS, Shah N, Oran B, Cooper LJ, Worth L, Qazilbash MH, Korbling M, Rondon G, Ciurea S, Bosque D, Maewal I, Simmons PJ, Shpall EJ. Cord-blood engraftment with ex vivo mesenchymal-cell coculture. N Engl J Med. 2012;367:2305–15.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Lima%20M%2C%20McNiece%20I%2C%20Robinson%20SN%2C%20Munsell%20M%2C%20Eapen%20M%2C%20Horowitz%20M%2C%20Alousi%20A%2C%20Saliba%20R%2C%20McMannis%20JD%2C%20Kaur%20I%2C%20Kebriaei%20P%2C%20Parmar%20S%2C%20Popat%20U%2C%20Hosing%20C%2C%20Champlin%20R%2C%20Bollard%20C%2C%20Molldrem%20JJ%2C%20Jones%20RB%2C%20Nieto%20Y%2C%20Andersson%20BS%2C%20Shah%20N%2C%20Oran%20B%2C%20Cooper%20LJ%2C%20Worth%20L%2C%20Qazilbash%20MH%2C%20Korbling%20M%2C%20Rondon%20G%2C%20Ciurea%20S%2C%20Bosque%20D%2C%20Maewal%20I%2C%20Simmons%20PJ%2C%20Shpall%20EJ.%20Cord-blood%20engraftment%20with%20ex%20vivo%20mesenchymal-cell%20coculture.%20N%20Engl%20J%20Med.%202012%3B367%3A2305%E2%80%9315."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Lima%20M%2C%20McNiece%20I%2C%20Robinson%20SN%2C%20Munsell%20M%2C%20Eapen%20M%2C%20Horowitz%20M%2C%20Alousi%20A%2C%20Saliba%20R%2C%20McMannis%20JD%2C%20Kaur%20I%2C%20Kebriaei%20P%2C%20Parmar%20S%2C%20Popat%20U%2C%20Hosing%20C%2C%20Champlin%20R%2C%20Bollard%20C%2C%20Molldrem%20JJ%2C%20Jones%20RB%2C%20Nieto%20Y%2C%20Andersson%20BS%2C%20Shah%20N%2C%20Oran%20B%2C%20Cooper%20LJ%2C%20Worth%20L%2C%20Qazilbash%20MH%2C%20Korbling%20M%2C%20Rondon%20G%2C%20Ciurea%20S%2C%20Bosque%20D%2C%20Maewal%20I%2C%20Simmons%20PJ%2C%20Shpall%20EJ.%20Cord-blood%20engraftment%20with%20ex%20vivo%20mesenchymal-cell%20coculture.%20N%20Engl%20J%20Med.%202012%3B367%3A2305%E2%80%9315."
+            }
+          ]
+        },
+        {
+          "id": 6200025,
+          "page": 559,
+          "en": "de Wilde S, Guchelaar HJ, Herberts C, Lowdell M, Hildebrandt M, Zandvliet M, Meij P. Development of cell therapy medicinal products by academic institutes. Drug Discov Today. 2016a;21:1206–12.",
+          "zh": "de Wilde S, Guchelaar HJ, Herberts C, Lowdell M, Hildebrandt M, Zandvliet M, Meij P. Development of cell therapy medicinal products by academic institutes. Drug Discov Today. 2016a;21:1206–12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Wilde%20S%2C%20Guchelaar%20HJ%2C%20Herberts%20C%2C%20Lowdell%20M%2C%20Hildebrandt%20M%2C%20Zandvliet%20M%2C%20Meij%20P.%20Development%20of%20cell%20therapy%20medicinal%20products%20by%20academic%20institutes.%20Drug%20Discov%20Today.%202016a%3B21%3A1206%E2%80%9312."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Wilde%20S%2C%20Guchelaar%20HJ%2C%20Herberts%20C%2C%20Lowdell%20M%2C%20Hildebrandt%20M%2C%20Zandvliet%20M%2C%20Meij%20P.%20Development%20of%20cell%20therapy%20medicinal%20products%20by%20academic%20institutes.%20Drug%20Discov%20Today.%202016a%3B21%3A1206%E2%80%9312."
+            }
+          ]
+        },
+        {
+          "id": 6200026,
+          "page": 559,
+          "en": "de Wilde S, Veltrop-Duits L, Hoozemans-Strik M, Ras T, Blom-Veenman J, Guchelaar HJ, Zandvliet M, Meij P. Hurdles in clinical implementation of academic advanced therapy medicinal products: a national evaluation. Cytotherapy. 2016b;18:797–805.",
+          "zh": "de Wilde S, Veltrop-Duits L, Hoozemans-Strik M, Ras T, Blom-Veenman J, Guchelaar HJ, Zandvliet M, Meij P. Hurdles in clinical implementation of academic advanced therapy medicinal products: a national evaluation. Cytotherapy. 2016b;18:797–805.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=de%20Wilde%20S%2C%20Veltrop-Duits%20L%2C%20Hoozemans-Strik%20M%2C%20Ras%20T%2C%20Blom-Veenman%20J%2C%20Guchelaar%20HJ%2C%20Zandvliet%20M%2C%20Meij%20P.%20Hurdles%20in%20clinical%20implementation%20of%20academic%20advanced%20therapy%20medicinal%20products%3A%20a%20national%20evaluation.%20Cytotherapy.%202016b%3B18%3A797%E2%80%93805."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=de%20Wilde%20S%2C%20Veltrop-Duits%20L%2C%20Hoozemans-Strik%20M%2C%20Ras%20T%2C%20Blom-Veenman%20J%2C%20Guchelaar%20HJ%2C%20Zandvliet%20M%2C%20Meij%20P.%20Hurdles%20in%20clinical%20implementation%20of%20academic%20advanced%20therapy%20medicinal%20products%3A%20a%20national%20evaluation.%20Cytotherapy.%202016b%3B18%3A797%E2%80%93805."
+            }
+          ]
+        },
+        {
+          "id": 6200027,
+          "page": 559,
+          "en": "Delaney C, Heimfeld S, Brashem-Stein C, Voorhies H, Manger RL, Bernstein ID. Notch-mediated expansion of human cord blood progenitor cells capable of rapid myeloid reconstitution. Nat Med. 2010;16:232–6.",
+          "zh": "Delaney C, Heimfeld S, Brashem-Stein C, Voorhies H, Manger RL, Bernstein ID. Notch-mediated expansion of human cord blood progenitor cells capable of rapid myeloid reconstitution. Nat Med. 2010;16:232–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Delaney%20C%2C%20Heimfeld%20S%2C%20Brashem-Stein%20C%2C%20Voorhies%20H%2C%20Manger%20RL%2C%20Bernstein%20ID.%20Notch-mediated%20expansion%20of%20human%20cord%20blood%20progenitor%20cells%20capable%20of%20rapid%20myeloid%20reconstitution.%20Nat%20Med.%202010%3B16%3A232%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Delaney%20C%2C%20Heimfeld%20S%2C%20Brashem-Stein%20C%2C%20Voorhies%20H%2C%20Manger%20RL%2C%20Bernstein%20ID.%20Notch-mediated%20expansion%20of%20human%20cord%20blood%20progenitor%20cells%20capable%20of%20rapid%20myeloid%20reconstitution.%20Nat%20Med.%202010%3B16%3A232%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6200028,
+          "page": 559,
+          "en": "Feuchtinger T, Opherk K, Bethge WA, Topp MS, Schuster FR, Weissinger EM, Mohty M, Or R, Maschan M, Schumm M, Hamprecht K, Handgretinger R, Lang P, Einsele H. Adoptive transfer of pp65-specific T cells for the treatment of chemorefractory cytomegalovirus disease or reactivation after haploidentical and matched unrelated stem cell transplantation. Blood. 2010;116:4360–7.",
+          "zh": "Feuchtinger T, Opherk K, Bethge WA, Topp MS, Schuster FR, Weissinger EM, Mohty M, Or R, Maschan M, Schumm M, Hamprecht K, Handgretinger R, Lang P, Einsele H. Adoptive transfer of pp65-specific T cells for the treatment of chemorefractory cytomegalovirus disease or reactivation after haploidentical and matched unrelated stem cell transplantation. Blood. 2010;116:4360–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Feuchtinger%20T%2C%20Opherk%20K%2C%20Bethge%20WA%2C%20Topp%20MS%2C%20Schuster%20FR%2C%20Weissinger%20EM%2C%20Mohty%20M%2C%20Or%20R%2C%20Maschan%20M%2C%20Schumm%20M%2C%20Hamprecht%20K%2C%20Handgretinger%20R%2C%20Lang%20P%2C%20Einsele%20H.%20Adoptive%20transfer%20of%20pp65-specific%20T%20cells%20for%20the%20treatment%20of%20chemorefractory%20cytomegalovirus%20disease%20or%20reactivation%20after%20haploidentical%20and%20matched%20unrelated%20stem%20cell%20transplantation.%20Blood.%202010%3B116%3A4360%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Feuchtinger%20T%2C%20Opherk%20K%2C%20Bethge%20WA%2C%20Topp%20MS%2C%20Schuster%20FR%2C%20Weissinger%20EM%2C%20Mohty%20M%2C%20Or%20R%2C%20Maschan%20M%2C%20Schumm%20M%2C%20Hamprecht%20K%2C%20Handgretinger%20R%2C%20Lang%20P%2C%20Einsele%20H.%20Adoptive%20transfer%20of%20pp65-specific%20T%20cells%20for%20the%20treatment%20of%20chemorefractory%20cytomegalovirus%20disease%20or%20reactivation%20after%20haploidentical%20and%20matched%20unrelated%20stem%20cell%20transplantation.%20Blood.%202010%3B116%3A4360%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6200029,
+          "page": 559,
+          "en": "Frangoul H, Altshuler D, Cappellini MD, Chen YS, Domm J, Eustace BK, Foell J, de la Fuente J, Grupp S, Handgretinger R, Ho TW, Kattamis A, Kernytsky A, Lekstrom-Himes J, Li AM, Locatelli F, Mapara MY, de Montalembert M, Rondelli D, Sharma A, Sheth S, Soni S, Steinberg MH, Wall D, Yen A, Corbacioglu S. CRISPR-Cas9 gene editing for sickle cell disease and beta-thalassemia. N Engl J Med. 2021;384:252–60.",
+          "zh": "Frangoul H, Altshuler D, Cappellini MD, Chen YS, Domm J, Eustace BK, Foell J, de la Fuente J, Grupp S, Handgretinger R, Ho TW, Kattamis A, Kernytsky A, Lekstrom-Himes J, Li AM, Locatelli F, Mapara MY, de Montalembert M, Rondelli D, Sharma A, Sheth S, Soni S, Steinberg MH, Wall D, Yen A, Corbacioglu S. CRISPR-Cas9 gene editing for sickle cell disease and beta-thalassemia. N Engl J Med. 2021;384:252–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Frangoul%20H%2C%20Altshuler%20D%2C%20Cappellini%20MD%2C%20Chen%20YS%2C%20Domm%20J%2C%20Eustace%20BK%2C%20Foell%20J%2C%20de%20la%20Fuente%20J%2C%20Grupp%20S%2C%20Handgretinger%20R%2C%20Ho%20TW%2C%20Kattamis%20A%2C%20Kernytsky%20A%2C%20Lekstrom-Himes%20J%2C%20Li%20AM%2C%20Locatelli%20F%2C%20Mapara%20MY%2C%20de%20Montalembert%20M%2C%20Rondelli%20D%2C%20Sharma%20A%2C%20Sheth%20S%2C%20Soni%20S%2C%20Steinberg%20MH%2C%20Wall%20D%2C%20Yen%20A%2C%20Corbacioglu%20S.%20CRISPR-Cas9%20gene%20editing%20for%20sickle%20cell%20disease%20and%20beta-thalassemia.%20N%20Engl%20J%20Med.%202021%3B384%3A252%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Frangoul%20H%2C%20Altshuler%20D%2C%20Cappellini%20MD%2C%20Chen%20YS%2C%20Domm%20J%2C%20Eustace%20BK%2C%20Foell%20J%2C%20de%20la%20Fuente%20J%2C%20Grupp%20S%2C%20Handgretinger%20R%2C%20Ho%20TW%2C%20Kattamis%20A%2C%20Kernytsky%20A%2C%20Lekstrom-Himes%20J%2C%20Li%20AM%2C%20Locatelli%20F%2C%20Mapara%20MY%2C%20de%20Montalembert%20M%2C%20Rondelli%20D%2C%20Sharma%20A%2C%20Sheth%20S%2C%20Soni%20S%2C%20Steinberg%20MH%2C%20Wall%20D%2C%20Yen%20A%2C%20Corbacioglu%20S.%20CRISPR-Cas9%20gene%20editing%20for%20sickle%20cell%20disease%20and%20beta-thalassemia.%20N%20Engl%20J%20Med.%202021%3B384%3A252%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 6200030,
+          "page": 559,
+          "en": "Gratwohl A, Pasquini MC, Aljurf M, Atsuta Y, Baldomero H, Foeken L, Gratwohl M, Bouzas LF, Confer D, Frauendorfer K, Gluckman E, Greinix H, Horowitz M, Iida M, Lipton J, Madrigal A, Mohty M, Noel L, Novitzky N, Nunez J, Oudshoorn M, Passweg J, van Rood J, Szer J, Blume K, Appelbaum FR, Kodera Y, Niederwieser D, Worldwide Network for Bone and Marrow Transplantation. One million haemopoietic stem-cell transplants: a retrospective observational study. Lancet Haematol. 2015;2:e91–e100.",
+          "zh": "Gratwohl A, Pasquini MC, Aljurf M, Atsuta Y, Baldomero H, Foeken L, Gratwohl M, Bouzas LF, Confer D, Frauendorfer K, Gluckman E, Greinix H, Horowitz M, Iida M, Lipton J, Madrigal A, Mohty M, Noel L, Novitzky N, Nunez J, Oudshoorn M, Passweg J, van Rood J, Szer J, Blume K, Appelbaum FR, Kodera Y, Niederwieser D, Worldwide Network for Bone and Marrow Transplantation. One million haemopoietic stem-cell transplants: a retrospective observational study. Lancet Haematol. 2015;2:e91–e100.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gratwohl%20A%2C%20Pasquini%20MC%2C%20Aljurf%20M%2C%20Atsuta%20Y%2C%20Baldomero%20H%2C%20Foeken%20L%2C%20Gratwohl%20M%2C%20Bouzas%20LF%2C%20Confer%20D%2C%20Frauendorfer%20K%2C%20Gluckman%20E%2C%20Greinix%20H%2C%20Horowitz%20M%2C%20Iida%20M%2C%20Lipton%20J%2C%20Madrigal%20A%2C%20Mohty%20M%2C%20Noel%20L%2C%20Novitzky%20N%2C%20Nunez%20J%2C%20Oudshoorn%20M%2C%20Passweg%20J%2C%20van%20Rood%20J%2C%20Szer%20J%2C%20Blume%20K%2C%20Appelbaum%20FR%2C%20Kodera%20Y%2C%20Niederwieser%20D%2C%20Worldwide%20Network%20for%20Bone%20and%20Marrow%20Transplantation.%20One%20million%20haemopoietic%20stem-cell%20transplants%3A%20a%20retrospective%20observational%20study.%20Lancet%20Haematol.%202015%3B2%3Ae91%E2%80%93e100."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gratwohl%20A%2C%20Pasquini%20MC%2C%20Aljurf%20M%2C%20Atsuta%20Y%2C%20Baldomero%20H%2C%20Foeken%20L%2C%20Gratwohl%20M%2C%20Bouzas%20LF%2C%20Confer%20D%2C%20Frauendorfer%20K%2C%20Gluckman%20E%2C%20Greinix%20H%2C%20Horowitz%20M%2C%20Iida%20M%2C%20Lipton%20J%2C%20Madrigal%20A%2C%20Mohty%20M%2C%20Noel%20L%2C%20Novitzky%20N%2C%20Nunez%20J%2C%20Oudshoorn%20M%2C%20Passweg%20J%2C%20van%20Rood%20J%2C%20Szer%20J%2C%20Blume%20K%2C%20Appelbaum%20FR%2C%20Kodera%20Y%2C%20Niederwieser%20D%2C%20Worldwide%20Network%20for%20Bone%20and%20Marrow%20Transplantation.%20One%20million%20haemopoietic%20stem-cell%20transplants%3A%20a%20retrospective%20observational%20study.%20Lancet%20Haematol.%202015%3B2%3Ae91%E2%80%93e100."
+            }
+          ]
+        },
+        {
+          "id": 6200031,
+          "page": 559,
+          "en": "Hayden PJ, Roddie C, Bader P, Basak GW, Bonig H, Bonini C, Chabannon C, Ciceri F, Corbacioglu S, Ellard R, Sanchez-Guijo F, Jager U, Hildebrandt M, Hudecek M, Kersten MJ, Kohl U, Kuball J, Mielke S, Mohty M, Murray J, Nagler A, Rees J, Rioufol C, Saccardi R, Snowden JA, Styczynski J, Subklewe M, Thieblemont C, Topp M, Ispizua AU, Chen D, Vrhovac R, Gribben JG, Kroger N, Einsele H, Yakoub-Agha I. Management of adults and children receiving CAR T-cell therapy: 2021 best practice recommendations of the European Society for Blood and Marrow Transplantation (EBMT) and the Joint Accreditation Committee of ISCT and EBMT (JACIE) and the European Haematology Association (EHA). Ann Oncol. 2022;33:259–75.",
+          "zh": "Hayden PJ, Roddie C, Bader P, Basak GW, Bonig H, Bonini C, Chabannon C, Ciceri F, Corbacioglu S, Ellard R, Sanchez-Guijo F, Jager U, Hildebrandt M, Hudecek M, Kersten MJ, Kohl U, Kuball J, Mielke S, Mohty M, Murray J, Nagler A, Rees J, Rioufol C, Saccardi R, Snowden JA, Styczynski J, Subklewe M, Thieblemont C, Topp M, Ispizua AU, Chen D, Vrhovac R, Gribben JG, Kroger N, Einsele H, Yakoub-Agha I. Management of adults and children receiving CAR T-cell therapy: 2021 best practice recommendations of the European Society for Blood and Marrow Transplantation (EBMT) and the Joint Accreditation Committee of ISCT and EBMT (JACIE) and the European Haematology Association (EHA). Ann Oncol. 2022;33:259–75.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hayden%20PJ%2C%20Roddie%20C%2C%20Bader%20P%2C%20Basak%20GW%2C%20Bonig%20H%2C%20Bonini%20C%2C%20Chabannon%20C%2C%20Ciceri%20F%2C%20Corbacioglu%20S%2C%20Ellard%20R%2C%20Sanchez-Guijo%20F%2C%20Jager%20U%2C%20Hildebrandt%20M%2C%20Hudecek%20M%2C%20Kersten%20MJ%2C%20Kohl%20U%2C%20Kuball%20J%2C%20Mielke%20S%2C%20Mohty%20M%2C%20Murray%20J%2C%20Nagler%20A%2C%20Rees%20J%2C%20Rioufol%20C%2C%20Saccardi%20R%2C%20Snowden%20JA%2C%20Styczynski%20J%2C%20Subklewe%20M%2C%20Thieblemont%20C%2C%20Topp%20M%2C%20Ispizua%20AU%2C%20Chen%20D%2C%20Vrhovac%20R%2C%20Gribben%20JG%2C%20Kroger%20N%2C%20Einsele%20H%2C%20Yakoub-Agha%20I.%20Management%20of%20adults%20and%20children%20receiving%20CAR%20T-cell%20therapy%3A%202021%20best%20practice%20recommendations%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29%20and%20the%20Joint%20Accreditation%20Committee%20of%20ISCT%20and%20EBMT%20%28JACIE%29%20and%20the%20European%20Haematology%20Association%20%28EHA%29.%20Ann%20Oncol.%202022%3B33%3A259%E2%80%9375."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hayden%20PJ%2C%20Roddie%20C%2C%20Bader%20P%2C%20Basak%20GW%2C%20Bonig%20H%2C%20Bonini%20C%2C%20Chabannon%20C%2C%20Ciceri%20F%2C%20Corbacioglu%20S%2C%20Ellard%20R%2C%20Sanchez-Guijo%20F%2C%20Jager%20U%2C%20Hildebrandt%20M%2C%20Hudecek%20M%2C%20Kersten%20MJ%2C%20Kohl%20U%2C%20Kuball%20J%2C%20Mielke%20S%2C%20Mohty%20M%2C%20Murray%20J%2C%20Nagler%20A%2C%20Rees%20J%2C%20Rioufol%20C%2C%20Saccardi%20R%2C%20Snowden%20JA%2C%20Styczynski%20J%2C%20Subklewe%20M%2C%20Thieblemont%20C%2C%20Topp%20M%2C%20Ispizua%20AU%2C%20Chen%20D%2C%20Vrhovac%20R%2C%20Gribben%20JG%2C%20Kroger%20N%2C%20Einsele%20H%2C%20Yakoub-Agha%20I.%20Management%20of%20adults%20and%20children%20receiving%20CAR%20T-cell%20therapy%3A%202021%20best%20practice%20recommendations%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29%20and%20the%20Joint%20Accreditation%20Committee%20of%20ISCT%20and%20EBMT%20%28JACIE%29%20and%20the%20European%20Haematology%20Association%20%28EHA%29.%20Ann%20Oncol.%202022%3B33%3A259%E2%80%9375."
+            }
+          ]
+        },
+        {
+          "id": 6200032,
+          "page": 559,
+          "en": "Kamdar M, Solomon SR, Arnason J, Johnston PB, Glass B, Bachanova V, Ibrahimi S, Mielke S, Mutsaers P, Hernandez-Ilizaliturri F, Izutsu K, Morschhauser F, Lunning M, Maloney DG, Crotta A, Montheard S, Previtali A, Stepan L, Ogasawara K, Mack T, Abramson JS, TRANSFORM Investigators. Lisocabtagene maraleucel versus standard of care with salvage chemotherapy followed by autologous stem cell transplantation as second-line treatment in patients with relapsed or refractory large B-cell lymphoma (TRANSFORM): results from an interim analysis of an open-label, randomised, phase 3 trial. Lancet. 2022;399:2294–308.",
+          "zh": "Kamdar M, Solomon SR, Arnason J, Johnston PB, Glass B, Bachanova V, Ibrahimi S, Mielke S, Mutsaers P, Hernandez-Ilizaliturri F, Izutsu K, Morschhauser F, Lunning M, Maloney DG, Crotta A, Montheard S, Previtali A, Stepan L, Ogasawara K, Mack T, Abramson JS, TRANSFORM Investigators. Lisocabtagene maraleucel versus standard of care with salvage chemotherapy followed by autologous stem cell transplantation as second-line treatment in patients with relapsed or refractory large B-cell lymphoma (TRANSFORM): results from an interim analysis of an open-label, randomised, phase 3 trial. Lancet. 2022;399:2294–308.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kamdar%20M%2C%20Solomon%20SR%2C%20Arnason%20J%2C%20Johnston%20PB%2C%20Glass%20B%2C%20Bachanova%20V%2C%20Ibrahimi%20S%2C%20Mielke%20S%2C%20Mutsaers%20P%2C%20Hernandez-Ilizaliturri%20F%2C%20Izutsu%20K%2C%20Morschhauser%20F%2C%20Lunning%20M%2C%20Maloney%20DG%2C%20Crotta%20A%2C%20Montheard%20S%2C%20Previtali%20A%2C%20Stepan%20L%2C%20Ogasawara%20K%2C%20Mack%20T%2C%20Abramson%20JS%2C%20TRANSFORM%20Investigators.%20Lisocabtagene%20maraleucel%20versus%20standard%20of%20care%20with%20salvage%20chemotherapy%20followed%20by%20autologous%20stem%20cell%20transplantation%20as%20second-line%20treatment%20in%20patients%20with%20relapsed%20or%20refractory%20large%20B-cell%20lymphoma%20%28TRANSFORM%29%3A%20results%20from%20an%20interim%20analysis%20of%20an%20open-label%2C%20randomised%2C%20phase%203%20trial.%20Lancet.%202022%3B399%3A2294%E2%80%93308."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kamdar%20M%2C%20Solomon%20SR%2C%20Arnason%20J%2C%20Johnston%20PB%2C%20Glass%20B%2C%20Bachanova%20V%2C%20Ibrahimi%20S%2C%20Mielke%20S%2C%20Mutsaers%20P%2C%20Hernandez-Ilizaliturri%20F%2C%20Izutsu%20K%2C%20Morschhauser%20F%2C%20Lunning%20M%2C%20Maloney%20DG%2C%20Crotta%20A%2C%20Montheard%20S%2C%20Previtali%20A%2C%20Stepan%20L%2C%20Ogasawara%20K%2C%20Mack%20T%2C%20Abramson%20JS%2C%20TRANSFORM%20Investigators.%20Lisocabtagene%20maraleucel%20versus%20standard%20of%20care%20with%20salvage%20chemotherapy%20followed%20by%20autologous%20stem%20cell%20transplantation%20as%20second-line%20treatment%20in%20patients%20with%20relapsed%20or%20refractory%20large%20B-cell%20lymphoma%20%28TRANSFORM%29%3A%20results%20from%20an%20interim%20analysis%20of%20an%20open-label%2C%20randomised%2C%20phase%203%20trial.%20Lancet.%202022%3B399%3A2294%E2%80%93308."
+            }
+          ]
+        },
+        {
+          "id": 6200033,
+          "page": 559,
+          "en": "Le Blanc K, Frassoni F, Ball L, Locatelli F, Roelofs H, Lewis I, Lanino E, Sundberg B, Bernardo ME, Remberger M, Dini G, Egeler RM, Bacigalupo A, Fibbe W, Ringden O, Developmental Committee of the European Group for Bone and Marrow Transplantation. Mesenchymal stem cells for treatment of steroid-resistant, severe, acute graft-versus-host disease: a phase II study. Lancet. 2008;371:1579–86.",
+          "zh": "Le Blanc K, Frassoni F, Ball L, Locatelli F, Roelofs H, Lewis I, Lanino E, Sundberg B, Bernardo ME, Remberger M, Dini G, Egeler RM, Bacigalupo A, Fibbe W, Ringden O, Developmental Committee of the European Group for Bone and Marrow Transplantation. Mesenchymal stem cells for treatment of steroid-resistant, severe, acute graft-versus-host disease: a phase II study. Lancet. 2008;371:1579–86.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Le%20Blanc%20K%2C%20Frassoni%20F%2C%20Ball%20L%2C%20Locatelli%20F%2C%20Roelofs%20H%2C%20Lewis%20I%2C%20Lanino%20E%2C%20Sundberg%20B%2C%20Bernardo%20ME%2C%20Remberger%20M%2C%20Dini%20G%2C%20Egeler%20RM%2C%20Bacigalupo%20A%2C%20Fibbe%20W%2C%20Ringden%20O%2C%20Developmental%20Committee%20of%20the%20European%20Group%20for%20Bone%20and%20Marrow%20Transplantation.%20Mesenchymal%20stem%20cells%20for%20treatment%20of%20steroid-resistant%2C%20severe%2C%20acute%20graft-versus-host%20disease%3A%20a%20phase%20II%20study.%20Lancet.%202008%3B371%3A1579%E2%80%9386."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Le%20Blanc%20K%2C%20Frassoni%20F%2C%20Ball%20L%2C%20Locatelli%20F%2C%20Roelofs%20H%2C%20Lewis%20I%2C%20Lanino%20E%2C%20Sundberg%20B%2C%20Bernardo%20ME%2C%20Remberger%20M%2C%20Dini%20G%2C%20Egeler%20RM%2C%20Bacigalupo%20A%2C%20Fibbe%20W%2C%20Ringden%20O%2C%20Developmental%20Committee%20of%20the%20European%20Group%20for%20Bone%20and%20Marrow%20Transplantation.%20Mesenchymal%20stem%20cells%20for%20treatment%20of%20steroid-resistant%2C%20severe%2C%20acute%20graft-versus-host%20disease%3A%20a%20phase%20II%20study.%20Lancet.%202008%3B371%3A1579%E2%80%9386."
+            }
+          ]
+        },
+        {
+          "id": 6200034,
+          "page": 559,
+          "en": "Locatelli F, Thompson AA, Kwiatkowski JL, Porter JB, Thrasher AJ, Hongeng S, Sauer MG, Thuret I, Lal A, Algeri M, Schneiderman J, Olson TS, Carpenter B, Amrolia PJ, Anurathapan U, Schambach A, Chabannon C, Schmidt M, Labik I, Elliot H, Guo R, Asmal M, Colvin RA, Walters MC. Betibeglogene Autotemcel gene therapy for non-beta(0)/beta(0) genotype beta-thalassemia. N Engl J Med. 2022;386:415–27.",
+          "zh": "Locatelli F, Thompson AA, Kwiatkowski JL, Porter JB, Thrasher AJ, Hongeng S, Sauer MG, Thuret I, Lal A, Algeri M, Schneiderman J, Olson TS, Carpenter B, Amrolia PJ, Anurathapan U, Schambach A, Chabannon C, Schmidt M, Labik I, Elliot H, Guo R, Asmal M, Colvin RA, Walters MC. Betibeglogene Autotemcel gene therapy for non-beta(0)/beta(0) genotype beta-thalassemia. N Engl J Med. 2022;386:415–27.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Thompson%20AA%2C%20Kwiatkowski%20JL%2C%20Porter%20JB%2C%20Thrasher%20AJ%2C%20Hongeng%20S%2C%20Sauer%20MG%2C%20Thuret%20I%2C%20Lal%20A%2C%20Algeri%20M%2C%20Schneiderman%20J%2C%20Olson%20TS%2C%20Carpenter%20B%2C%20Amrolia%20PJ%2C%20Anurathapan%20U%2C%20Schambach%20A%2C%20Chabannon%20C%2C%20Schmidt%20M%2C%20Labik%20I%2C%20Elliot%20H%2C%20Guo%20R%2C%20Asmal%20M%2C%20Colvin%20RA%2C%20Walters%20MC.%20Betibeglogene%20Autotemcel%20gene%20therapy%20for%20non-beta%280%29/beta%280%29%20genotype%20beta-thalassemia.%20N%20Engl%20J%20Med.%202022%3B386%3A415%E2%80%9327."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Thompson%20AA%2C%20Kwiatkowski%20JL%2C%20Porter%20JB%2C%20Thrasher%20AJ%2C%20Hongeng%20S%2C%20Sauer%20MG%2C%20Thuret%20I%2C%20Lal%20A%2C%20Algeri%20M%2C%20Schneiderman%20J%2C%20Olson%20TS%2C%20Carpenter%20B%2C%20Amrolia%20PJ%2C%20Anurathapan%20U%2C%20Schambach%20A%2C%20Chabannon%20C%2C%20Schmidt%20M%2C%20Labik%20I%2C%20Elliot%20H%2C%20Guo%20R%2C%20Asmal%20M%2C%20Colvin%20RA%2C%20Walters%20MC.%20Betibeglogene%20Autotemcel%20gene%20therapy%20for%20non-beta%280%29/beta%280%29%20genotype%20beta-thalassemia.%20N%20Engl%20J%20Med.%202022%3B386%3A415%E2%80%9327."
+            }
+          ]
+        },
+        {
+          "id": 6200035,
+          "page": 559,
+          "en": "Locke FL, Neelapu SS, Bartlett NL, Siddiqi T, Chavez JC, Hosing CM, Ghobadi A, Budde LE, Bot A, Rossi JM, Jiang Y, Xue AX, Elias M, Aycock J, Wiezorek J, Go WY. Phase 1 results of ZUMA-1: a multicenter study of KTE-C19 anti-CD19 CAR T cell therapy in refractory aggressive lymphoma. Mol Ther. 2017;25:285–95.",
+          "zh": "Locke FL, Neelapu SS, Bartlett NL, Siddiqi T, Chavez JC, Hosing CM, Ghobadi A, Budde LE, Bot A, Rossi JM, Jiang Y, Xue AX, Elias M, Aycock J, Wiezorek J, Go WY. Phase 1 results of ZUMA-1: a multicenter study of KTE-C19 anti-CD19 CAR T cell therapy in refractory aggressive lymphoma. Mol Ther. 2017;25:285–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locke%20FL%2C%20Neelapu%20SS%2C%20Bartlett%20NL%2C%20Siddiqi%20T%2C%20Chavez%20JC%2C%20Hosing%20CM%2C%20Ghobadi%20A%2C%20Budde%20LE%2C%20Bot%20A%2C%20Rossi%20JM%2C%20Jiang%20Y%2C%20Xue%20AX%2C%20Elias%20M%2C%20Aycock%20J%2C%20Wiezorek%20J%2C%20Go%20WY.%20Phase%201%20results%20of%20ZUMA-1%3A%20a%20multicenter%20study%20of%20KTE-C19%20anti-CD19%20CAR%20T%20cell%20therapy%20in%20refractory%20aggressive%20lymphoma.%20Mol%20Ther.%202017%3B25%3A285%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locke%20FL%2C%20Neelapu%20SS%2C%20Bartlett%20NL%2C%20Siddiqi%20T%2C%20Chavez%20JC%2C%20Hosing%20CM%2C%20Ghobadi%20A%2C%20Budde%20LE%2C%20Bot%20A%2C%20Rossi%20JM%2C%20Jiang%20Y%2C%20Xue%20AX%2C%20Elias%20M%2C%20Aycock%20J%2C%20Wiezorek%20J%2C%20Go%20WY.%20Phase%201%20results%20of%20ZUMA-1%3A%20a%20multicenter%20study%20of%20KTE-C19%20anti-CD19%20CAR%20T%20cell%20therapy%20in%20refractory%20aggressive%20lymphoma.%20Mol%20Ther.%202017%3B25%3A285%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 6200036,
+          "page": 559,
+          "en": "Locke FL, Miklos DB, Jacobson CA, Perales MA, Kersten MJ, Oluwole OO, Ghobadi A, Rapoport AP, McGuirk J, Pagel JM, Munoz J, Farooq U, van Meerten T, Reagan PM, Sureda A, Flinn IW, Vandenberghe P, Song KW, Dickinson M, Minnema MC, Riedell PA, Leslie LA, Chaganti S, Yang Y, Filosto S, Shah J, Schupp M, To C, Cheng P, Gordon LI, Westin JR, All ZUMA-7 Investigators and Contributing Kite Members. Axicabtagene Ciloleucel as second-line therapy for large B-cell lymphoma. N Engl J Med. 2022;386:640–54.",
+          "zh": "Locke FL, Miklos DB, Jacobson CA, Perales MA, Kersten MJ, Oluwole OO, Ghobadi A, Rapoport AP, McGuirk J, Pagel JM, Munoz J, Farooq U, van Meerten T, Reagan PM, Sureda A, Flinn IW, Vandenberghe P, Song KW, Dickinson M, Minnema MC, Riedell PA, Leslie LA, Chaganti S, Yang Y, Filosto S, Shah J, Schupp M, To C, Cheng P, Gordon LI, Westin JR, All ZUMA-7 Investigators and Contributing Kite Members. Axicabtagene Ciloleucel as second-line therapy for large B-cell lymphoma. N Engl J Med. 2022;386:640–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locke%20FL%2C%20Miklos%20DB%2C%20Jacobson%20CA%2C%20Perales%20MA%2C%20Kersten%20MJ%2C%20Oluwole%20OO%2C%20Ghobadi%20A%2C%20Rapoport%20AP%2C%20McGuirk%20J%2C%20Pagel%20JM%2C%20Munoz%20J%2C%20Farooq%20U%2C%20van%20Meerten%20T%2C%20Reagan%20PM%2C%20Sureda%20A%2C%20Flinn%20IW%2C%20Vandenberghe%20P%2C%20Song%20KW%2C%20Dickinson%20M%2C%20Minnema%20MC%2C%20Riedell%20PA%2C%20Leslie%20LA%2C%20Chaganti%20S%2C%20Yang%20Y%2C%20Filosto%20S%2C%20Shah%20J%2C%20Schupp%20M%2C%20To%20C%2C%20Cheng%20P%2C%20Gordon%20LI%2C%20Westin%20JR%2C%20All%20ZUMA-7%20Investigators%20and%20Contributing%20Kite%20Members.%20Axicabtagene%20Ciloleucel%20as%20second-line%20therapy%20for%20large%20B-cell%20lymphoma.%20N%20Engl%20J%20Med.%202022%3B386%3A640%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locke%20FL%2C%20Miklos%20DB%2C%20Jacobson%20CA%2C%20Perales%20MA%2C%20Kersten%20MJ%2C%20Oluwole%20OO%2C%20Ghobadi%20A%2C%20Rapoport%20AP%2C%20McGuirk%20J%2C%20Pagel%20JM%2C%20Munoz%20J%2C%20Farooq%20U%2C%20van%20Meerten%20T%2C%20Reagan%20PM%2C%20Sureda%20A%2C%20Flinn%20IW%2C%20Vandenberghe%20P%2C%20Song%20KW%2C%20Dickinson%20M%2C%20Minnema%20MC%2C%20Riedell%20PA%2C%20Leslie%20LA%2C%20Chaganti%20S%2C%20Yang%20Y%2C%20Filosto%20S%2C%20Shah%20J%2C%20Schupp%20M%2C%20To%20C%2C%20Cheng%20P%2C%20Gordon%20LI%2C%20Westin%20JR%2C%20All%20ZUMA-7%20Investigators%20and%20Contributing%20Kite%20Members.%20Axicabtagene%20Ciloleucel%20as%20second-line%20therapy%20for%20large%20B-cell%20lymphoma.%20N%20Engl%20J%20Med.%202022%3B386%3A640%E2%80%9354."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 560,
+      "blocks": [
+        {
+          "id": 6200037,
+          "page": 560,
+          "en": "Munshi NC, Hege K, San-Miguel J. Idecabtagene Vicleucel in relapsed myeloma. Reply. N Engl J Med. 2021;384:2357–8.",
+          "zh": "Munshi NC, Hege K, San-Miguel J. Idecabtagene Vicleucel in relapsed myeloma. Reply. N Engl J Med. 2021;384:2357–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Munshi%20NC%2C%20Hege%20K%2C%20San-Miguel%20J.%20Idecabtagene%20Vicleucel%20in%20relapsed%20myeloma.%20Reply.%20N%20Engl%20J%20Med.%202021%3B384%3A2357%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Munshi%20NC%2C%20Hege%20K%2C%20San-Miguel%20J.%20Idecabtagene%20Vicleucel%20in%20relapsed%20myeloma.%20Reply.%20N%20Engl%20J%20Med.%202021%3B384%3A2357%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6200038,
+          "page": 560,
+          "en": "Neelapu SS, Locke FL, Bartlett NL, Lekakis LJ, Miklos DB, Jacobson CA, Braunschweig I, Oluwole OO, Siddiqi T, Lin Y, Timmerman JM, Stiff PJ, Friedberg JW, Flinn IW, Goy A, Hill BT, Smith MR, Deol A, Farooq U, McSweeney P, Munoz J, Avivi I, Castro JE, Westin JR, Chavez JC, Ghobadi A, Komanduri KV, Levy R, Jacobsen ED, Witzig TE, Reagan P, Bot A, Rossi J, Navale L, Jiang Y, Aycock J, Elias M, Chang D, Wiezorek J, Go WY. Axicabtagene Ciloleucel CAR T-cell therapy in refractory large B-cell lymphoma. N Engl J Med. 2017;377:2531–44.",
+          "zh": "Neelapu SS, Locke FL, Bartlett NL, Lekakis LJ, Miklos DB, Jacobson CA, Braunschweig I, Oluwole OO, Siddiqi T, Lin Y, Timmerman JM, Stiff PJ, Friedberg JW, Flinn IW, Goy A, Hill BT, Smith MR, Deol A, Farooq U, McSweeney P, Munoz J, Avivi I, Castro JE, Westin JR, Chavez JC, Ghobadi A, Komanduri KV, Levy R, Jacobsen ED, Witzig TE, Reagan P, Bot A, Rossi J, Navale L, Jiang Y, Aycock J, Elias M, Chang D, Wiezorek J, Go WY. Axicabtagene Ciloleucel CAR T-cell therapy in refractory large B-cell lymphoma. N Engl J Med. 2017;377:2531–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Neelapu%20SS%2C%20Locke%20FL%2C%20Bartlett%20NL%2C%20Lekakis%20LJ%2C%20Miklos%20DB%2C%20Jacobson%20CA%2C%20Braunschweig%20I%2C%20Oluwole%20OO%2C%20Siddiqi%20T%2C%20Lin%20Y%2C%20Timmerman%20JM%2C%20Stiff%20PJ%2C%20Friedberg%20JW%2C%20Flinn%20IW%2C%20Goy%20A%2C%20Hill%20BT%2C%20Smith%20MR%2C%20Deol%20A%2C%20Farooq%20U%2C%20McSweeney%20P%2C%20Munoz%20J%2C%20Avivi%20I%2C%20Castro%20JE%2C%20Westin%20JR%2C%20Chavez%20JC%2C%20Ghobadi%20A%2C%20Komanduri%20KV%2C%20Levy%20R%2C%20Jacobsen%20ED%2C%20Witzig%20TE%2C%20Reagan%20P%2C%20Bot%20A%2C%20Rossi%20J%2C%20Navale%20L%2C%20Jiang%20Y%2C%20Aycock%20J%2C%20Elias%20M%2C%20Chang%20D%2C%20Wiezorek%20J%2C%20Go%20WY.%20Axicabtagene%20Ciloleucel%20CAR%20T-cell%20therapy%20in%20refractory%20large%20B-cell%20lymphoma.%20N%20Engl%20J%20Med.%202017%3B377%3A2531%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Neelapu%20SS%2C%20Locke%20FL%2C%20Bartlett%20NL%2C%20Lekakis%20LJ%2C%20Miklos%20DB%2C%20Jacobson%20CA%2C%20Braunschweig%20I%2C%20Oluwole%20OO%2C%20Siddiqi%20T%2C%20Lin%20Y%2C%20Timmerman%20JM%2C%20Stiff%20PJ%2C%20Friedberg%20JW%2C%20Flinn%20IW%2C%20Goy%20A%2C%20Hill%20BT%2C%20Smith%20MR%2C%20Deol%20A%2C%20Farooq%20U%2C%20McSweeney%20P%2C%20Munoz%20J%2C%20Avivi%20I%2C%20Castro%20JE%2C%20Westin%20JR%2C%20Chavez%20JC%2C%20Ghobadi%20A%2C%20Komanduri%20KV%2C%20Levy%20R%2C%20Jacobsen%20ED%2C%20Witzig%20TE%2C%20Reagan%20P%2C%20Bot%20A%2C%20Rossi%20J%2C%20Navale%20L%2C%20Jiang%20Y%2C%20Aycock%20J%2C%20Elias%20M%2C%20Chang%20D%2C%20Wiezorek%20J%2C%20Go%20WY.%20Axicabtagene%20Ciloleucel%20CAR%20T-cell%20therapy%20in%20refractory%20large%20B-cell%20lymphoma.%20N%20Engl%20J%20Med.%202017%3B377%3A2531%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 6200039,
+          "page": 560,
+          "en": "Oliver-Caldes A, Gonzalez-Calle V, Cabanas V, Espanol-Rego M, Rodriguez-Otero P, Reguera JL, Lopez-Corral L, Martin-Antonio B, Zabaleta A, Inoges S, Varea S, Rosinol L, Lopez-Diaz de Cerio A, Tovar N, Jimenez R, Lopez-Parra M, Rodriguez-Lobato LG, Sanchez-Salinas A, Olesti E, Calvo-Orteu M, Delgado J, Perez-Simon JA, Paiva B, Prosper F, Saez-Penataro J, Juan M, Moraleda JM, Mateos MV, Pascal M, Urbano-Ispizua A, Fernandez de Larrea C. Fractionated initial infusion and booster dose of ARI0002h, a humanised, BCMA-directed CAR T-cell therapy, for patients with relapsed or refractory multiple myeloma (CARTBCMA-HCB-01): a single-arm, multicentre, academic pilot study. Lancet Oncol. 2023;24:913.",
+          "zh": "Oliver-Caldes A, Gonzalez-Calle V, Cabanas V, Espanol-Rego M, Rodriguez-Otero P, Reguera JL, Lopez-Corral L, Martin-Antonio B, Zabaleta A, Inoges S, Varea S, Rosinol L, Lopez-Diaz de Cerio A, Tovar N, Jimenez R, Lopez-Parra M, Rodriguez-Lobato LG, Sanchez-Salinas A, Olesti E, Calvo-Orteu M, Delgado J, Perez-Simon JA, Paiva B, Prosper F, Saez-Penataro J, Juan M, Moraleda JM, Mateos MV, Pascal M, Urbano-Ispizua A, Fernandez de Larrea C. Fractionated initial infusion and booster dose of ARI0002h, a humanised, BCMA-directed CAR T-cell therapy, for patients with relapsed or refractory multiple myeloma (CARTBCMA-HCB-01): a single-arm, multicentre, academic pilot study. Lancet Oncol. 2023;24:913.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Oliver-Caldes%20A%2C%20Gonzalez-Calle%20V%2C%20Cabanas%20V%2C%20Espanol-Rego%20M%2C%20Rodriguez-Otero%20P%2C%20Reguera%20JL%2C%20Lopez-Corral%20L%2C%20Martin-Antonio%20B%2C%20Zabaleta%20A%2C%20Inoges%20S%2C%20Varea%20S%2C%20Rosinol%20L%2C%20Lopez-Diaz%20de%20Cerio%20A%2C%20Tovar%20N%2C%20Jimenez%20R%2C%20Lopez-Parra%20M%2C%20Rodriguez-Lobato%20LG%2C%20Sanchez-Salinas%20A%2C%20Olesti%20E%2C%20Calvo-Orteu%20M%2C%20Delgado%20J%2C%20Perez-Simon%20JA%2C%20Paiva%20B%2C%20Prosper%20F%2C%20Saez-Penataro%20J%2C%20Juan%20M%2C%20Moraleda%20JM%2C%20Mateos%20MV%2C%20Pascal%20M%2C%20Urbano-Ispizua%20A%2C%20Fernandez%20de%20Larrea%20C.%20Fractionated%20initial%20infusion%20and%20booster%20dose%20of%20ARI0002h%2C%20a%20humanised%2C%20BCMA-directed%20CAR%20T-cell%20therapy%2C%20for%20patients%20with%20relapsed%20or%20refractory%20multiple%20myeloma%20%28CARTBCMA-HCB-01%29%3A%20a%20single-arm%2C%20multicentre%2C%20academic%20pilot%20study.%20Lancet%20Oncol.%202023%3B24%3A913."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Oliver-Caldes%20A%2C%20Gonzalez-Calle%20V%2C%20Cabanas%20V%2C%20Espanol-Rego%20M%2C%20Rodriguez-Otero%20P%2C%20Reguera%20JL%2C%20Lopez-Corral%20L%2C%20Martin-Antonio%20B%2C%20Zabaleta%20A%2C%20Inoges%20S%2C%20Varea%20S%2C%20Rosinol%20L%2C%20Lopez-Diaz%20de%20Cerio%20A%2C%20Tovar%20N%2C%20Jimenez%20R%2C%20Lopez-Parra%20M%2C%20Rodriguez-Lobato%20LG%2C%20Sanchez-Salinas%20A%2C%20Olesti%20E%2C%20Calvo-Orteu%20M%2C%20Delgado%20J%2C%20Perez-Simon%20JA%2C%20Paiva%20B%2C%20Prosper%20F%2C%20Saez-Penataro%20J%2C%20Juan%20M%2C%20Moraleda%20JM%2C%20Mateos%20MV%2C%20Pascal%20M%2C%20Urbano-Ispizua%20A%2C%20Fernandez%20de%20Larrea%20C.%20Fractionated%20initial%20infusion%20and%20booster%20dose%20of%20ARI0002h%2C%20a%20humanised%2C%20BCMA-directed%20CAR%20T-cell%20therapy%2C%20for%20patients%20with%20relapsed%20or%20refractory%20multiple%20myeloma%20%28CARTBCMA-HCB-01%29%3A%20a%20single-arm%2C%20multicentre%2C%20academic%20pilot%20study.%20Lancet%20Oncol.%202023%3B24%3A913."
+            }
+          ]
+        },
+        {
+          "id": 6200040,
+          "page": 560,
+          "en": "Ortiz-Maldonado V, Rives S, Castella M, Alonso-Saladrigues A, Benitez-Ribas D, Caballero-Banos M, Baumann T, Cid J, Garcia-Rey E, Llanos C, Torrebadell M, Villamor N, Gine E, Diaz-Beya M, Guardia L, Montoro M, Catala A, Faura A, Gonzalez EA, Espanol-Rego M, Klein-Gonzalez N, Alsina L, Castro P, Jordan I, Fernandez S, Ramos F, Sune G, Perpina U, Canals JM, Lozano M, Trias E, Scalise A, Varea S, Saez-Penataro J, Torres F, Calvo G, Esteve J, Urbano-Ispizua A, Juan M, Delgado J. CART19-BE-01: a multicenter trial of ARI-0001 cell therapy in patients with CD19(+) relapsed/refractory malignancies. Mol Ther. 2021;29:636–44.",
+          "zh": "Ortiz-Maldonado V, Rives S, Castella M, Alonso-Saladrigues A, Benitez-Ribas D, Caballero-Banos M, Baumann T, Cid J, Garcia-Rey E, Llanos C, Torrebadell M, Villamor N, Gine E, Diaz-Beya M, Guardia L, Montoro M, Catala A, Faura A, Gonzalez EA, Espanol-Rego M, Klein-Gonzalez N, Alsina L, Castro P, Jordan I, Fernandez S, Ramos F, Sune G, Perpina U, Canals JM, Lozano M, Trias E, Scalise A, Varea S, Saez-Penataro J, Torres F, Calvo G, Esteve J, Urbano-Ispizua A, Juan M, Delgado J. CART19-BE-01: a multicenter trial of ARI-0001 cell therapy in patients with CD19(+) relapsed/refractory malignancies. Mol Ther. 2021;29:636–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ortiz-Maldonado%20V%2C%20Rives%20S%2C%20Castella%20M%2C%20Alonso-Saladrigues%20A%2C%20Benitez-Ribas%20D%2C%20Caballero-Banos%20M%2C%20Baumann%20T%2C%20Cid%20J%2C%20Garcia-Rey%20E%2C%20Llanos%20C%2C%20Torrebadell%20M%2C%20Villamor%20N%2C%20Gine%20E%2C%20Diaz-Beya%20M%2C%20Guardia%20L%2C%20Montoro%20M%2C%20Catala%20A%2C%20Faura%20A%2C%20Gonzalez%20EA%2C%20Espanol-Rego%20M%2C%20Klein-Gonzalez%20N%2C%20Alsina%20L%2C%20Castro%20P%2C%20Jordan%20I%2C%20Fernandez%20S%2C%20Ramos%20F%2C%20Sune%20G%2C%20Perpina%20U%2C%20Canals%20JM%2C%20Lozano%20M%2C%20Trias%20E%2C%20Scalise%20A%2C%20Varea%20S%2C%20Saez-Penataro%20J%2C%20Torres%20F%2C%20Calvo%20G%2C%20Esteve%20J%2C%20Urbano-Ispizua%20A%2C%20Juan%20M%2C%20Delgado%20J.%20CART19-BE-01%3A%20a%20multicenter%20trial%20of%20ARI-0001%20cell%20therapy%20in%20patients%20with%20CD19%28%2B%29%20relapsed/refractory%20malignancies.%20Mol%20Ther.%202021%3B29%3A636%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ortiz-Maldonado%20V%2C%20Rives%20S%2C%20Castella%20M%2C%20Alonso-Saladrigues%20A%2C%20Benitez-Ribas%20D%2C%20Caballero-Banos%20M%2C%20Baumann%20T%2C%20Cid%20J%2C%20Garcia-Rey%20E%2C%20Llanos%20C%2C%20Torrebadell%20M%2C%20Villamor%20N%2C%20Gine%20E%2C%20Diaz-Beya%20M%2C%20Guardia%20L%2C%20Montoro%20M%2C%20Catala%20A%2C%20Faura%20A%2C%20Gonzalez%20EA%2C%20Espanol-Rego%20M%2C%20Klein-Gonzalez%20N%2C%20Alsina%20L%2C%20Castro%20P%2C%20Jordan%20I%2C%20Fernandez%20S%2C%20Ramos%20F%2C%20Sune%20G%2C%20Perpina%20U%2C%20Canals%20JM%2C%20Lozano%20M%2C%20Trias%20E%2C%20Scalise%20A%2C%20Varea%20S%2C%20Saez-Penataro%20J%2C%20Torres%20F%2C%20Calvo%20G%2C%20Esteve%20J%2C%20Urbano-Ispizua%20A%2C%20Juan%20M%2C%20Delgado%20J.%20CART19-BE-01%3A%20a%20multicenter%20trial%20of%20ARI-0001%20cell%20therapy%20in%20patients%20with%20CD19%28%2B%29%20relapsed/refractory%20malignancies.%20Mol%20Ther.%202021%3B29%3A636%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 6200041,
+          "page": 560,
+          "en": "Pasquini MC, Hu ZH, Curran K, Laetsch T, Locke F, Rouce R, Pulsipher MA, Phillips CL, Keating A, Frigault MJ, Salzberg D, Jaglowski S, Sasine JP, Rosenthal J, Ghosh M, Landsburg D, Margossian S, Martin PL, Kamdar MK, Hematti P, Nikiforow S, Turtle C, Perales MA, Steinert P, Horowitz MM, Moskop A, Pacaud L, Yi L, Chawla R, Bleickardt E, Grupp S. Real-world evidence of tisagenlecleucel for pediatric acute lymphoblastic leukemia and non-Hodgkin lymphoma. Blood Adv. 2020;4:5414–24.",
+          "zh": "Pasquini MC, Hu ZH, Curran K, Laetsch T, Locke F, Rouce R, Pulsipher MA, Phillips CL, Keating A, Frigault MJ, Salzberg D, Jaglowski S, Sasine JP, Rosenthal J, Ghosh M, Landsburg D, Margossian S, Martin PL, Kamdar MK, Hematti P, Nikiforow S, Turtle C, Perales MA, Steinert P, Horowitz MM, Moskop A, Pacaud L, Yi L, Chawla R, Bleickardt E, Grupp S. Real-world evidence of tisagenlecleucel for pediatric acute lymphoblastic leukemia and non-Hodgkin lymphoma. Blood Adv. 2020;4:5414–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pasquini%20MC%2C%20Hu%20ZH%2C%20Curran%20K%2C%20Laetsch%20T%2C%20Locke%20F%2C%20Rouce%20R%2C%20Pulsipher%20MA%2C%20Phillips%20CL%2C%20Keating%20A%2C%20Frigault%20MJ%2C%20Salzberg%20D%2C%20Jaglowski%20S%2C%20Sasine%20JP%2C%20Rosenthal%20J%2C%20Ghosh%20M%2C%20Landsburg%20D%2C%20Margossian%20S%2C%20Martin%20PL%2C%20Kamdar%20MK%2C%20Hematti%20P%2C%20Nikiforow%20S%2C%20Turtle%20C%2C%20Perales%20MA%2C%20Steinert%20P%2C%20Horowitz%20MM%2C%20Moskop%20A%2C%20Pacaud%20L%2C%20Yi%20L%2C%20Chawla%20R%2C%20Bleickardt%20E%2C%20Grupp%20S.%20Real-world%20evidence%20of%20tisagenlecleucel%20for%20pediatric%20acute%20lymphoblastic%20leukemia%20and%20non-Hodgkin%20lymphoma.%20Blood%20Adv.%202020%3B4%3A5414%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pasquini%20MC%2C%20Hu%20ZH%2C%20Curran%20K%2C%20Laetsch%20T%2C%20Locke%20F%2C%20Rouce%20R%2C%20Pulsipher%20MA%2C%20Phillips%20CL%2C%20Keating%20A%2C%20Frigault%20MJ%2C%20Salzberg%20D%2C%20Jaglowski%20S%2C%20Sasine%20JP%2C%20Rosenthal%20J%2C%20Ghosh%20M%2C%20Landsburg%20D%2C%20Margossian%20S%2C%20Martin%20PL%2C%20Kamdar%20MK%2C%20Hematti%20P%2C%20Nikiforow%20S%2C%20Turtle%20C%2C%20Perales%20MA%2C%20Steinert%20P%2C%20Horowitz%20MM%2C%20Moskop%20A%2C%20Pacaud%20L%2C%20Yi%20L%2C%20Chawla%20R%2C%20Bleickardt%20E%2C%20Grupp%20S.%20Real-world%20evidence%20of%20tisagenlecleucel%20for%20pediatric%20acute%20lymphoblastic%20leukemia%20and%20non-Hodgkin%20lymphoma.%20Blood%20Adv.%202020%3B4%3A5414%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 6200042,
+          "page": 560,
+          "en": "Passweg JR, Baldomero H, Chabannon C, Basak GW, Corbacioglu S, Duarte R, Dolstra H, Lankester AC, Mohty M, Montoto S, Peffault de Latour R, Snowden JA, Styczynski J, Yakoub-Agha I, Kroger N, European Society for Bone and Marrow Transplantation. The EBMT activity survey on hematopoietic-cell transplantation and cellular therapy 2018: CAR-T’s come into focus. Bone Marrow Transplant. 2020;55:1604–13.",
+          "zh": "Passweg JR, Baldomero H, Chabannon C, Basak GW, Corbacioglu S, Duarte R, Dolstra H, Lankester AC, Mohty M, Montoto S, Peffault de Latour R, Snowden JA, Styczynski J, Yakoub-Agha I, Kroger N, European Society for Bone and Marrow Transplantation. The EBMT activity survey on hematopoietic-cell transplantation and cellular therapy 2018: CAR-T’s come into focus. Bone Marrow Transplant. 2020;55:1604–13.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20Basak%20GW%2C%20Corbacioglu%20S%2C%20Duarte%20R%2C%20Dolstra%20H%2C%20Lankester%20AC%2C%20Mohty%20M%2C%20Montoto%20S%2C%20Peffault%20de%20Latour%20R%2C%20Snowden%20JA%2C%20Styczynski%20J%2C%20Yakoub-Agha%20I%2C%20Kroger%20N%2C%20European%20Society%20for%20Bone%20and%20Marrow%20Transplantation.%20The%20EBMT%20activity%20survey%20on%20hematopoietic-cell%20transplantation%20and%20cellular%20therapy%202018%3A%20CAR-T%E2%80%99s%20come%20into%20focus.%20Bone%20Marrow%20Transplant.%202020%3B55%3A1604%E2%80%9313."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20Basak%20GW%2C%20Corbacioglu%20S%2C%20Duarte%20R%2C%20Dolstra%20H%2C%20Lankester%20AC%2C%20Mohty%20M%2C%20Montoto%20S%2C%20Peffault%20de%20Latour%20R%2C%20Snowden%20JA%2C%20Styczynski%20J%2C%20Yakoub-Agha%20I%2C%20Kroger%20N%2C%20European%20Society%20for%20Bone%20and%20Marrow%20Transplantation.%20The%20EBMT%20activity%20survey%20on%20hematopoietic-cell%20transplantation%20and%20cellular%20therapy%202018%3A%20CAR-T%E2%80%99s%20come%20into%20focus.%20Bone%20Marrow%20Transplant.%202020%3B55%3A1604%E2%80%9313."
+            }
+          ]
+        },
+        {
+          "id": 6200043,
+          "page": 560,
+          "en": "Passweg JR, Baldomero H, Chabannon C, Basak GW, de la Camara R, Corbacioglu S, Dolstra H, Duarte R, Glass B, Greco R, Lankester AC, Mohty M, Peffault de Latour R, Snowden JA, Yakoub-Agha I, Kroger N, European Society for Bone and Marrow Transplantation. Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+          "zh": "Passweg JR, Baldomero H, Chabannon C, Basak GW, de la Camara R, Corbacioglu S, Dolstra H, Duarte R, Glass B, Greco R, Lankester AC, Mohty M, Peffault de Latour R, Snowden JA, Yakoub-Agha I, Kroger N, European Society for Bone and Marrow Transplantation. Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20Basak%20GW%2C%20de%20la%20Camara%20R%2C%20Corbacioglu%20S%2C%20Dolstra%20H%2C%20Duarte%20R%2C%20Glass%20B%2C%20Greco%20R%2C%20Lankester%20AC%2C%20Mohty%20M%2C%20Peffault%20de%20Latour%20R%2C%20Snowden%20JA%2C%20Yakoub-Agha%20I%2C%20Kroger%20N%2C%20European%20Society%20for%20Bone%20and%20Marrow%20Transplantation.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20Basak%20GW%2C%20de%20la%20Camara%20R%2C%20Corbacioglu%20S%2C%20Dolstra%20H%2C%20Duarte%20R%2C%20Glass%20B%2C%20Greco%20R%2C%20Lankester%20AC%2C%20Mohty%20M%2C%20Peffault%20de%20Latour%20R%2C%20Snowden%20JA%2C%20Yakoub-Agha%20I%2C%20Kroger%20N%2C%20European%20Society%20for%20Bone%20and%20Marrow%20Transplantation.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 6200044,
+          "page": 560,
+          "en": "Pearce KF, Hildebrandt M, Greinix H, Scheding S, Koehl U, Worel N, Apperley J, Edinger M, Hauser A, Mischak-Weissinger E, Dickinson AM, Lowdell MW. Regulation of advanced therapy medicinal products in Europe and the role of academia. Cytotherapy. 2014;16:289–97.",
+          "zh": "Pearce KF, Hildebrandt M, Greinix H, Scheding S, Koehl U, Worel N, Apperley J, Edinger M, Hauser A, Mischak-Weissinger E, Dickinson AM, Lowdell MW. Regulation of advanced therapy medicinal products in Europe and the role of academia. Cytotherapy. 2014;16:289–97.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pearce%20KF%2C%20Hildebrandt%20M%2C%20Greinix%20H%2C%20Scheding%20S%2C%20Koehl%20U%2C%20Worel%20N%2C%20Apperley%20J%2C%20Edinger%20M%2C%20Hauser%20A%2C%20Mischak-Weissinger%20E%2C%20Dickinson%20AM%2C%20Lowdell%20MW.%20Regulation%20of%20advanced%20therapy%20medicinal%20products%20in%20Europe%20and%20the%20role%20of%20academia.%20Cytotherapy.%202014%3B16%3A289%E2%80%9397."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pearce%20KF%2C%20Hildebrandt%20M%2C%20Greinix%20H%2C%20Scheding%20S%2C%20Koehl%20U%2C%20Worel%20N%2C%20Apperley%20J%2C%20Edinger%20M%2C%20Hauser%20A%2C%20Mischak-Weissinger%20E%2C%20Dickinson%20AM%2C%20Lowdell%20MW.%20Regulation%20of%20advanced%20therapy%20medicinal%20products%20in%20Europe%20and%20the%20role%20of%20academia.%20Cytotherapy.%202014%3B16%3A289%E2%80%9397."
+            }
+          ]
+        },
+        {
+          "id": 6200045,
+          "page": 560,
+          "en": "Philip T, Guglielmi C, Hagenbeek A, Somers R, Van der Lelie H, Bron D, Sonneveld P, Gisselbrecht C, Cahn JY, Harousseau JL, et al. Autologous bone marrow transplantation as compared with salvage chemotherapy in relapses of chemotherapy-sensitive non-Hodgkin’s lymphoma. N Engl J Med. 1995;333:1540–5.",
+          "zh": "Philip T, Guglielmi C, Hagenbeek A, Somers R, Van der Lelie H, Bron D, Sonneveld P, Gisselbrecht C, Cahn JY, Harousseau JL, et al. Autologous bone marrow transplantation as compared with salvage chemotherapy in relapses of chemotherapy-sensitive non-Hodgkin’s lymphoma. N Engl J Med. 1995;333:1540–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Philip%20T%2C%20Guglielmi%20C%2C%20Hagenbeek%20A%2C%20Somers%20R%2C%20Van%20der%20Lelie%20H%2C%20Bron%20D%2C%20Sonneveld%20P%2C%20Gisselbrecht%20C%2C%20Cahn%20JY%2C%20Harousseau%20JL%2C%20et%20al.%20Autologous%20bone%20marrow%20transplantation%20as%20compared%20with%20salvage%20chemotherapy%20in%20relapses%20of%20chemotherapy-sensitive%20non-Hodgkin%E2%80%99s%20lymphoma.%20N%20Engl%20J%20Med.%201995%3B333%3A1540%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Philip%20T%2C%20Guglielmi%20C%2C%20Hagenbeek%20A%2C%20Somers%20R%2C%20Van%20der%20Lelie%20H%2C%20Bron%20D%2C%20Sonneveld%20P%2C%20Gisselbrecht%20C%2C%20Cahn%20JY%2C%20Harousseau%20JL%2C%20et%20al.%20Autologous%20bone%20marrow%20transplantation%20as%20compared%20with%20salvage%20chemotherapy%20in%20relapses%20of%20chemotherapy-sensitive%20non-Hodgkin%E2%80%99s%20lymphoma.%20N%20Engl%20J%20Med.%201995%3B333%3A1540%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 6200046,
+          "page": 560,
+          "en": "Ribeil JA, Hacein-Bey-Abina S, Payen E, Magnani A, Semeraro M, Magrin E, Caccavelli L, Neven B, Bourget P, El Nemer W, Bartolucci P, Weber L, Puy H, Meritet JF, Grevent D, Beuzard Y, Chretien S, Lefebvre T, Ross RW, Negre O, Veres G, Sandler L, Soni S, de Montalembert M, Blanche S, Leboulch P, Cavazzana M. Gene therapy in a patient with sickle cell disease. N Engl J Med. 2017;376:848–55.",
+          "zh": "Ribeil JA, Hacein-Bey-Abina S, Payen E, Magnani A, Semeraro M, Magrin E, Caccavelli L, Neven B, Bourget P, El Nemer W, Bartolucci P, Weber L, Puy H, Meritet JF, Grevent D, Beuzard Y, Chretien S, Lefebvre T, Ross RW, Negre O, Veres G, Sandler L, Soni S, de Montalembert M, Blanche S, Leboulch P, Cavazzana M. Gene therapy in a patient with sickle cell disease. N Engl J Med. 2017;376:848–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ribeil%20JA%2C%20Hacein-Bey-Abina%20S%2C%20Payen%20E%2C%20Magnani%20A%2C%20Semeraro%20M%2C%20Magrin%20E%2C%20Caccavelli%20L%2C%20Neven%20B%2C%20Bourget%20P%2C%20El%20Nemer%20W%2C%20Bartolucci%20P%2C%20Weber%20L%2C%20Puy%20H%2C%20Meritet%20JF%2C%20Grevent%20D%2C%20Beuzard%20Y%2C%20Chretien%20S%2C%20Lefebvre%20T%2C%20Ross%20RW%2C%20Negre%20O%2C%20Veres%20G%2C%20Sandler%20L%2C%20Soni%20S%2C%20de%20Montalembert%20M%2C%20Blanche%20S%2C%20Leboulch%20P%2C%20Cavazzana%20M.%20Gene%20therapy%20in%20a%20patient%20with%20sickle%20cell%20disease.%20N%20Engl%20J%20Med.%202017%3B376%3A848%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ribeil%20JA%2C%20Hacein-Bey-Abina%20S%2C%20Payen%20E%2C%20Magnani%20A%2C%20Semeraro%20M%2C%20Magrin%20E%2C%20Caccavelli%20L%2C%20Neven%20B%2C%20Bourget%20P%2C%20El%20Nemer%20W%2C%20Bartolucci%20P%2C%20Weber%20L%2C%20Puy%20H%2C%20Meritet%20JF%2C%20Grevent%20D%2C%20Beuzard%20Y%2C%20Chretien%20S%2C%20Lefebvre%20T%2C%20Ross%20RW%2C%20Negre%20O%2C%20Veres%20G%2C%20Sandler%20L%2C%20Soni%20S%2C%20de%20Montalembert%20M%2C%20Blanche%20S%2C%20Leboulch%20P%2C%20Cavazzana%20M.%20Gene%20therapy%20in%20a%20patient%20with%20sickle%20cell%20disease.%20N%20Engl%20J%20Med.%202017%3B376%3A848%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 6200047,
+          "page": 560,
+          "en": "Saez-Ibanez AR, Upadhaya S, Partridge T, Shah M, Correa D, Campbell J. Landscape of cancer cell therapies: trends and real-world data. Nat Rev Drug Discov. 2022;21:631–2.",
+          "zh": "Saez-Ibanez AR, Upadhaya S, Partridge T, Shah M, Correa D, Campbell J. Landscape of cancer cell therapies: trends and real-world data. Nat Rev Drug Discov. 2022;21:631–2.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Saez-Ibanez%20AR%2C%20Upadhaya%20S%2C%20Partridge%20T%2C%20Shah%20M%2C%20Correa%20D%2C%20Campbell%20J.%20Landscape%20of%20cancer%20cell%20therapies%3A%20trends%20and%20real-world%20data.%20Nat%20Rev%20Drug%20Discov.%202022%3B21%3A631%E2%80%932."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Saez-Ibanez%20AR%2C%20Upadhaya%20S%2C%20Partridge%20T%2C%20Shah%20M%2C%20Correa%20D%2C%20Campbell%20J.%20Landscape%20of%20cancer%20cell%20therapies%3A%20trends%20and%20real-world%20data.%20Nat%20Rev%20Drug%20Discov.%202022%3B21%3A631%E2%80%932."
+            }
+          ]
+        },
+        {
+          "id": 6200048,
+          "page": 560,
+          "en": "Schuster SJ, Svoboda J, Chong EA, Nasta SD, Mato AR, Anak O, Brogdon JL, Pruteanu-Malinici I, Bhoj V, Landsburg D, Wasik M, Levine BL, Lacey SF, Melenhorst JJ, Porter DL, June CH. Chimeric antigen receptor T cells in refractory B-cell lymphomas. N Engl J Med. 2017;377:2545–54.",
+          "zh": "Schuster SJ, Svoboda J, Chong EA, Nasta SD, Mato AR, Anak O, Brogdon JL, Pruteanu-Malinici I, Bhoj V, Landsburg D, Wasik M, Levine BL, Lacey SF, Melenhorst JJ, Porter DL, June CH. Chimeric antigen receptor T cells in refractory B-cell lymphomas. N Engl J Med. 2017;377:2545–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schuster%20SJ%2C%20Svoboda%20J%2C%20Chong%20EA%2C%20Nasta%20SD%2C%20Mato%20AR%2C%20Anak%20O%2C%20Brogdon%20JL%2C%20Pruteanu-Malinici%20I%2C%20Bhoj%20V%2C%20Landsburg%20D%2C%20Wasik%20M%2C%20Levine%20BL%2C%20Lacey%20SF%2C%20Melenhorst%20JJ%2C%20Porter%20DL%2C%20June%20CH.%20Chimeric%20antigen%20receptor%20T%20cells%20in%20refractory%20B-cell%20lymphomas.%20N%20Engl%20J%20Med.%202017%3B377%3A2545%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schuster%20SJ%2C%20Svoboda%20J%2C%20Chong%20EA%2C%20Nasta%20SD%2C%20Mato%20AR%2C%20Anak%20O%2C%20Brogdon%20JL%2C%20Pruteanu-Malinici%20I%2C%20Bhoj%20V%2C%20Landsburg%20D%2C%20Wasik%20M%2C%20Levine%20BL%2C%20Lacey%20SF%2C%20Melenhorst%20JJ%2C%20Porter%20DL%2C%20June%20CH.%20Chimeric%20antigen%20receptor%20T%20cells%20in%20refractory%20B-cell%20lymphomas.%20N%20Engl%20J%20Med.%202017%3B377%3A2545%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 6200049,
+          "page": 560,
+          "en": "Trias E, Juan M, Urbano-Ispizua A, Calvo G. The hospital exemption pathway for the approval of advanced therapy medicinal products: an underused opportunity? The case of the CAR-T ARI-0001. Bone Marrow Transplant. 2022;57:156–9.",
+          "zh": "Trias E, Juan M, Urbano-Ispizua A, Calvo G. The hospital exemption pathway for the approval of advanced therapy medicinal products: an underused opportunity? The case of the CAR-T ARI-0001. Bone Marrow Transplant. 2022;57:156–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Trias%20E%2C%20Juan%20M%2C%20Urbano-Ispizua%20A%2C%20Calvo%20G.%20The%20hospital%20exemption%20pathway%20for%20the%20approval%20of%20advanced%20therapy%20medicinal%20products%3A%20an%20underused%20opportunity%3F%20The%20case%20of%20the%20CAR-T%20ARI-0001.%20Bone%20Marrow%20Transplant.%202022%3B57%3A156%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Trias%20E%2C%20Juan%20M%2C%20Urbano-Ispizua%20A%2C%20Calvo%20G.%20The%20hospital%20exemption%20pathway%20for%20the%20approval%20of%20advanced%20therapy%20medicinal%20products%3A%20an%20underused%20opportunity%3F%20The%20case%20of%20the%20CAR-T%20ARI-0001.%20Bone%20Marrow%20Transplant.%202022%3B57%3A156%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6200050,
+          "page": 560,
+          "en": "Vives J, Oliver-Vila I, Pla A. Quality compliance in the shift from cell transplantation to cell therapy in non-pharma environments. Cytotherapy. 2015;17:1009–14.",
+          "zh": "Vives J, Oliver-Vila I, Pla A. Quality compliance in the shift from cell transplantation to cell therapy in non-pharma environments. Cytotherapy. 2015;17:1009–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vives%20J%2C%20Oliver-Vila%20I%2C%20Pla%20A.%20Quality%20compliance%20in%20the%20shift%20from%20cell%20transplantation%20to%20cell%20therapy%20in%20non-pharma%20environments.%20Cytotherapy.%202015%3B17%3A1009%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vives%20J%2C%20Oliver-Vila%20I%2C%20Pla%20A.%20Quality%20compliance%20in%20the%20shift%20from%20cell%20transplantation%20to%20cell%20therapy%20in%20non-pharma%20environments.%20Cytotherapy.%202015%3B17%3A1009%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 6200051,
+          "page": 560,
+          "en": "Wang X, Rivière I. Clinical manufacturing of CAR T cells: foundation of a promising therapy. Mol Ther Oncolytics. 2016;3:16015.",
+          "zh": "Wang X, Rivière I. Clinical manufacturing of CAR T cells: foundation of a promising therapy. Mol Ther Oncolytics. 2016;3:16015.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wang%20X%2C%20Rivi%C3%A8re%20I.%20Clinical%20manufacturing%20of%20CAR%20T%20cells%3A%20foundation%20of%20a%20promising%20therapy.%20Mol%20Ther%20Oncolytics.%202016%3B3%3A16015."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wang%20X%2C%20Rivi%C3%A8re%20I.%20Clinical%20manufacturing%20of%20CAR%20T%20cells%3A%20foundation%20of%20a%20promising%20therapy.%20Mol%20Ther%20Oncolytics.%202016%3B3%3A16015."
+            }
+          ]
+        },
+        {
+          "id": 6200052,
+          "page": 560,
+          "en": "Wang X, Riviere I. Genetic engineering and manufacturing of hematopoietic stem cells. Mol Ther Methods Clin Dev. 2017;5:96–105.",
+          "zh": "Wang X, Riviere I. Genetic engineering and manufacturing of hematopoietic stem cells. Mol Ther Methods Clin Dev. 2017;5:96–105.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wang%20X%2C%20Riviere%20I.%20Genetic%20engineering%20and%20manufacturing%20of%20hematopoietic%20stem%20cells.%20Mol%20Ther%20Methods%20Clin%20Dev.%202017%3B5%3A96%E2%80%93105."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wang%20X%2C%20Riviere%20I.%20Genetic%20engineering%20and%20manufacturing%20of%20hematopoietic%20stem%20cells.%20Mol%20Ther%20Methods%20Clin%20Dev.%202017%3B5%3A96%E2%80%93105."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 561,
+      "blocks": [
+        {
+          "id": 6200053,
+          "page": 561,
+          "en": "Wang M, Munoz J, Goy A, Locke FL, Jacobson CA, Hill BT, Timmerman JM, Holmes H, Jaglowski S, Flinn IW, McSweeney PA, Miklos DB, Pagel JM, Kersten MJ, Milpied N, Fung H, Topp MS, Houot R, Beitinjaneh A, Peng W, Zheng L, Rossi JM, Jain RK, Rao AV, Reagan PM. KTE-X19 CAR T-cell therapy in relapsed or refractory mantle-cell lymphoma. N Engl J Med. 2020;382:1331–42.",
+          "zh": "Wang M, Munoz J, Goy A, Locke FL, Jacobson CA, Hill BT, Timmerman JM, Holmes H, Jaglowski S, Flinn IW, McSweeney PA, Miklos DB, Pagel JM, Kersten MJ, Milpied N, Fung H, Topp MS, Houot R, Beitinjaneh A, Peng W, Zheng L, Rossi JM, Jain RK, Rao AV, Reagan PM. KTE-X19 CAR T-cell therapy in relapsed or refractory mantle-cell lymphoma. N Engl J Med. 2020;382:1331–42.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wang%20M%2C%20Munoz%20J%2C%20Goy%20A%2C%20Locke%20FL%2C%20Jacobson%20CA%2C%20Hill%20BT%2C%20Timmerman%20JM%2C%20Holmes%20H%2C%20Jaglowski%20S%2C%20Flinn%20IW%2C%20McSweeney%20PA%2C%20Miklos%20DB%2C%20Pagel%20JM%2C%20Kersten%20MJ%2C%20Milpied%20N%2C%20Fung%20H%2C%20Topp%20MS%2C%20Houot%20R%2C%20Beitinjaneh%20A%2C%20Peng%20W%2C%20Zheng%20L%2C%20Rossi%20JM%2C%20Jain%20RK%2C%20Rao%20AV%2C%20Reagan%20PM.%20KTE-X19%20CAR%20T-cell%20therapy%20in%20relapsed%20or%20refractory%20mantle-cell%20lymphoma.%20N%20Engl%20J%20Med.%202020%3B382%3A1331%E2%80%9342."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wang%20M%2C%20Munoz%20J%2C%20Goy%20A%2C%20Locke%20FL%2C%20Jacobson%20CA%2C%20Hill%20BT%2C%20Timmerman%20JM%2C%20Holmes%20H%2C%20Jaglowski%20S%2C%20Flinn%20IW%2C%20McSweeney%20PA%2C%20Miklos%20DB%2C%20Pagel%20JM%2C%20Kersten%20MJ%2C%20Milpied%20N%2C%20Fung%20H%2C%20Topp%20MS%2C%20Houot%20R%2C%20Beitinjaneh%20A%2C%20Peng%20W%2C%20Zheng%20L%2C%20Rossi%20JM%2C%20Jain%20RK%2C%20Rao%20AV%2C%20Reagan%20PM.%20KTE-X19%20CAR%20T-cell%20therapy%20in%20relapsed%20or%20refractory%20mantle-cell%20lymphoma.%20N%20Engl%20J%20Med.%202020%3B382%3A1331%E2%80%9342."
+            }
+          ]
+        },
+        {
+          "id": 6200054,
+          "page": 561,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 562,
+      "blocks": [
+        {
+          "id": 6200055,
+          "page": 562,
+          "en": "Part VIII\nSpecific Modalities of HCT and Management\nTopic Leaders: Anna Sureda, Nicolaus Kröger and Andrew Gennery",
+          "zh": "第八篇（Part VIII）：特殊造血細胞移植方式與處置管理（Specific Modalities of HCT and Management）\n主題負責人（Topic Leaders）：Anna Sureda、Nicolaus Kröger、Andrew Gennery",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
