@@ -1,56 +1,754 @@
-<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>移植口試演練｜初步架構</title><style>#personal-tools{background:#e7f2ed;padding:16px;border:1px solid #b8d7c7;margin:24px 0}#personal-tools button,#personal-tools select{padding:8px;margin:4px;font-size:14px}article[contenteditable="true"]{outline:2px dashed #559a7c}article img{max-width:100%;height:auto}mark{color:inherit}#personal-status{font-size:14px}@media print{#personal-tools{display:none}}html{scroll-behavior:smooth;scroll-padding-top:90px}#oral-toc{position:fixed;left:16px;top:16px;bottom:16px;width:240px;overflow:auto;background:#f1f6f3;padding:14px;box-sizing:border-box;border-radius:10px}#oral-toc h2{font-size:18px}#oral-toc a{display:block;font-size:14px;line-height:1.6;padding:7px;text-decoration:none;border-radius:5px}#oral-toc a[aria-current]{background:#d4e9df;font-weight:bold}#oral-toc .toc-sub{padding-left:18px;font-size:13px}@media(min-width:1250px){body{margin-left:280px!important;margin-right:24px!important}}@media(max-width:1249px){#oral-toc{position:relative;left:auto;top:auto;bottom:auto;width:auto;max-height:280px;margin-bottom:20px}body{margin:16px auto!important}}@media print{#oral-toc,nav{display:none!important}body{margin:0!important}details{display:block}}details{background:#f2f7f5;padding:14px;margin:12px 0;border-radius:8px}summary{cursor:pointer;font-weight:bold}table{border-collapse:collapse;width:100%;font-size:15px}td,th{border:1px solid #b9ccc5}nav{position:sticky;top:0;background:#fff;padding:12px;z-index:2}body{max-width:960px;margin:40px auto;padding:20px;font:18px/1.8 sans-serif;color:#163d35}article{padding:20px;border:1px solid #cadad5;margin:20px 0;border-radius:12px}small{color:#666}a{color:#156e61}</style><a href="index.html">← 回複習室</a><h1>移植專科口試：病例式回答架構</h1><p>依108–114年筆試題目初步整理。下列優先順序是由筆試反覆主題及臨床決策重要性推估，並非口試實際出題機率。初稿：尚待完成逐題年度對應、診斷表格收錄及治療細節校訂；AI整理，未經人工專科校訂。</p><h2>每題先用這六句開場</h2><ol><li>我先確認是否有呼吸、循環或意識不穩，立即處理危急狀況。</li><li>我會確認移植類型、移植後時間、調理、供者及免疫抑制背景。</li><li>目前最可能的診斷是……，但必須同時排除……。</li><li>我會用明確的診斷標準與器官分期來確認，而不只靠單一檢驗。</li><li>檢查與必要的初始治療同步進行，並依嚴重度調整。</li><li>我會用……追蹤療效，若惡化或無反應則……。</li></ol>
-<article><h2>1. 移植後腹瀉與皮疹：aGVHD</h2><p><b>開場：</b>我會優先評估感染與脫水，同時考慮急性GVHD、藥物及調理毒性。詢問每日腹瀉量與次數、血便、腹痛、上消化道症狀、皮疹面積與膽紅素，分別記錄器官stage，再決定overall grade。</p><p><b>追問：</b>為什麼不能只靠移植後第100天分類？如何區分C. difficile、CMV腸炎與GVHD？何時取樣、何時不能等待切片才治療？如何定義類固醇無反應？</p><p><b>避免：</b>把器官stage當overall grade；把所有腹瀉都當GVHD。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608233/table/ch43.Tab1/">EBMT表43.1：急慢性GVHD分類原表</a> · <a href="chapters/43.pdf">第43章原PDF（含分期表43.4）</a></article>
-<article><h2>2. 慢性GVHD：診斷、嚴重度與功能</h2><p><b>開場：</b>我會尋找NIH diagnostic表現，或distinctive表現合併適當確認證據；不能只因發生在第100天後就診斷慢性GVHD。逐一評估皮膚、口腔、眼、腸胃、肝、肺、關節筋膜及生殖器，並記錄功能影響及感染風險。</p><p><b>追問：</b>diagnostic與distinctive有何不同？肺部病變如何影響全身嚴重度？如何評估BOS並排除感染？局部與全身治療如何取捨？</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608236/table/ch44.Taba/">EBMT原表：慢性GVHD整體嚴重度</a> · <a href="chapters/44.pdf">第44章原PDF</a></article>
-<article><h2>3. 體重增加、黃疸、血小板消耗：SOS/VOD</h2><p><b>開場：</b>我會核對發作時間、體重變化、腹水、疼痛性肝腫大、膽紅素趨勢及腎肺功能，同時排除感染、藥物性肝損傷、液體過負荷與其他肝病。說明採用成人或兒童、以及哪一版EBMT診斷標準，避免混用。</p><p><b>追問：</b>無黃疸是否能排除？晚發型如何診斷？如何分嚴重度？何時考慮defibrotide？</p><a href="chapters/49.pdf">EBMT第49章原PDF：肝臟併發症與SOS</a></article>
-<article><h2>4. 貧血、血小板低、高血壓與蛋白尿：TA-TMA</h2><p><b>開場：</b>我會整合溶血、血球趨勢、血壓、尿蛋白、LDH與器官損傷，不能等待出現大量裂紅血球才考慮。同步排除DIC、感染、復發、藥物毒性及其他微血管病變。</p><p><b>追問：</b>診斷條件與高風險條件是否相同？為什麼腎功能與蛋白尿重要？如何處理誘發因子與免疫抑制？</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608292/table/ch42.Tabe/">EBMT原表：TA-TMA診斷條件</a> · <a href="chapters/42.pdf">第42章原PDF</a></article>
-<article><h2>5. CAR-T後發燒、低血壓或意識改變：CRS／ICANS</h2><p><b>開場：</b>我會先依呼吸循環與神經狀態穩定患者，同步評估敗血症及免疫效應細胞毒性。CRS分級需依氧氣與升壓劑需求；ICANS需評估ICE、意識、癲癇、運動及腦水腫等，不能只看ICE分數。</p><p><b>追問：</b>CRS與ICANS何者優先？只有神經毒性時為何不能將tocilizumab視為萬用治療？何時轉加護病房？</p><a href="chapters/60.pdf">EBMT第60章原PDF</a></article>
-<article><h2>6. 移植後CMV與肺部浸潤</h2><p><b>開場：</b>我會區分CMV感染、DNAemia與器官疾病。血中PCR與器官病灶不必然一致；肺浸潤需同時考慮細菌、黴菌、其他病毒與非感染併發症，依患者狀態安排影像、BAL或組織檢查。</p><p><b>追問：</b>BAL PCR陽性是否等於CMV肺炎？腸炎是否必然血中PCR陽性？預防、搶先治療與器官疾病治療如何區分？</p><a href="chapters/38.pdf">EBMT第38章原PDF</a></article>
-<h2>下一層必讀</h2><p>供者/HLA與幹細胞來源、MAC/RIC與共病風險、動員失敗、植入失敗與poor graft function、engraftment syndrome、AML/MDS/SAA移植適應症、MRD與復發後DLI、輸血與ABO不合、抗感染預防及疫苗。這些仍需補上病例問答及題目年度索引。</p><hr><small>來源：使用者提供之移植專考題彙整(108-114).pdf；The EBMT Handbook，2024，第38、42–44、49、60章。原表目前以出版社同內容NCBI連結或章節PDF提供，尚未完成頁內表格重製。原書CC BY 4.0；第三方圖表依原標示。</small><h2>移植前四大決策：口試回答示範</h2><p>以下為成人異體HCT的決策架構；兒童、非惡性疾病及特定移植平台需另述。這四項是治療選擇與風險分層，不是疾病診斷標準。</p>
-<article><h2>7. Donor選擇：我為什麼選這位供者？</h2><p><b>90秒回答：</b>我會先確認疾病是否需要及早移植、有哪些可及供者，再依高解析HLA、donor-specific anti-HLA antibodies（DSA）、供者年齡與健康、幹細胞來源及本中心的GVHD預防平台整合選擇。8/8通常指A、B、C、DRB1；10/10再加DQB1，DPB1則另評估。避免僅說「相合手足一定最好」：年輕無關供者、較年長手足、替代供者與等待時間之間，需要依疾病急迫性和平台權衡。</p><p>若有具臨床意義DSA指向候選供者，我會評估替代供者與去敏化需求，不能只看HLA配對數。其後考慮CMV血清狀態、性別與妊娠史、ABO、採集可行性和細胞劑量。ABO不合不是一般情況下的排除條件；不能為追求ABO一致而犧牲更重要條件。懷疑遺傳性骨髓疾病或germline predisposition時，親屬供者須特別排除帶有相關變異。</p><p><b>來源比較：</b>PBSC通常植入較快，但慢性GVHD較多；BM常在非惡性疾病、希望降低慢性GVHD的情境較有吸引力。臍血可及性與HLA容忍度是優點，但細胞劑量、植入與感染風險限制成人使用。半相合、MMUD與MUD的選擇須連同PTCy／ATG平台與中心經驗討論，不能只背固定排序。</p><p><b>考官追問：</b>年輕MUD與年長MSD如何選？DSA與單純anti-HLA有何不同？DPB1 permissive mismatch在哪個預防平台下解讀？SAA為什麼更重視避免GVHD？</p><p><b>常見扣分：</b>把ABO當第一順位；忽略DSA；只說幾分之幾相合卻沒交代loci；未交代供者搜尋造成的移植延遲。</p><a href="chapters/12.pdf">EBMT第12章原文</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608270/">線上章節</a> · <a href="https://www.nature.com/articles/s41409-026-02922-0">2026 EBMT HLA matching建議：供者年齡、時機及平台的更新</a><section id="hla2026"><h3>7.1｜2026 EBMT HLA共識：口試先講這段</h3><p>「我會用<b>並行搜尋</b>策略，在確認移植適應症後，同時評估家族供者與無關供者可及性，整合HLA、DSA、供者年齡、疾病急迫性及GVHD預防平台。PTCy改善跨HLA屏障的結果，但不代表HLA不重要。非惡性疾病、兒科及非PTCy的供者模型要分開解讀。」</p><p>來源：Arrieta-Bolaños等，<i>HLA matching in contemporary haematopoietic cell transplantation: Recommendations from the EBMT Practice Harmonisation and Guidelines Committee</i>，Bone Marrow Transplantation 61:1015–1023，2026-06-02；<a href="https://doi.org/10.1038/s41409-026-02922-0">論文與原表／Fig.1</a>。以下為中文口試整理，非原文逐字翻譯；原文為共識建議，因高品質隨機證據有限，未進行建議等級評分。與2024 Handbook內容分開標示。</p>
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>移植專科口試複習室｜考前系統化懶人包與全真演練</title>
+<style>
+:root {
+  --bg: #f4f7f5;
+  --paper: #ffffff;
+  --green: #164a3f;
+  --green-light: #e6f2ed;
+  --green-mid: #bfe0d2;
+  --accent: #9c7338;
+  --accent-bg: #faf4e8;
+  --text: #163830;
+  --muted: #5b7068;
+  --border: #c8dad3;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 140px; }
+body {
+  max-width: 1080px;
+  margin: 28px auto 60px;
+  padding: 0 22px;
+  font: 17px/1.78 'Noto Sans TC', system-ui, -apple-system, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+}
+a { color: #126356; text-decoration: underline; text-underline-offset: 3px; }
+a:hover { color: #0b3f36; }
+small { color: var(--muted); font-size: 13px; }
+
+/* Top Hero Banner */
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.back-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--paper);
+  border: 1px solid var(--border);
+  padding: 7px 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--green);
+}
+.exam-hero {
+  background: linear-gradient(135deg, #164a3f 0%, #1f6354 100%);
+  color: #fff;
+  padding: 24px 28px;
+  border-radius: 14px;
+  margin-bottom: 18px;
+  box-shadow: 0 6px 18px rgba(22, 74, 63, 0.12);
+}
+.exam-hero .eyebrow {
+  font-size: 12px;
+  letter-spacing: 1.8px;
+  color: #b7dfd1;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.exam-hero h1 {
+  margin: 6px 0 10px;
+  font-size: 28px;
+  line-height: 1.35;
+}
+.exam-hero p {
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: #e2f2ec;
+}
+
+/* Sticky Systematic Category Tabs & Search Bar */
+#category-bar {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: rgba(244, 247, 245, 0.96);
+  backdrop-filter: blur(8px);
+  padding: 12px 0 10px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid var(--border);
+}
+.cat-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-bottom: 10px;
+}
+.cat-tab {
+  border: 1px solid var(--border);
+  background: var(--paper);
+  color: var(--text);
+  padding: 7px 13px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.15s;
+}
+.cat-tab:hover {
+  background: var(--green-light);
+  border-color: #8abca8;
+}
+.cat-tab.active {
+  background: var(--green);
+  color: #fff;
+  border-color: var(--green);
+  box-shadow: 0 2px 6px rgba(22, 74, 63, 0.22);
+}
+.cat-tab .badge-count {
+  font-size: 11.5px;
+  background: rgba(0,0,0,0.08);
+  padding: 1px 7px;
+  border-radius: 12px;
+}
+.cat-tab.active .badge-count {
+  background: rgba(255,255,255,0.22);
+  color: #fff;
+}
+.filter-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+.search-input-wrap {
+  flex: 1;
+  min-width: 220px;
+  position: relative;
+}
+.search-input-wrap input {
+  width: 100%;
+  padding: 8px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 14.5px;
+  background: var(--paper);
+  color: var(--text);
+}
+.util-btn {
+  border: 1px solid var(--border);
+  background: var(--paper);
+  color: var(--green);
+  padding: 7px 12px;
+  border-radius: 8px;
+  font-size: 13.5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.util-btn:hover { background: var(--green-light); }
+
+/* Flex Ordering Container for Systematic Flow while keeping DOM card-0..30 order */
+#oral-workspace {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.cat-group {
+  display: flex;
+  flex-direction: column;
+}
+.cat-group[hidden] { display: none !important; }
+.group-banner {
+  background: #dfeee7;
+  border-left: 5px solid var(--green);
+  padding: 14px 20px;
+  border-radius: 10px;
+  margin: 18px 0 8px;
+}
+.group-banner .group-step {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--green);
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+}
+.group-banner h2 {
+  margin: 3px 0 4px;
+  font-size: 22px;
+  color: #10382f;
+}
+.group-banner p {
+  margin: 0;
+  font-size: 14px;
+  color: #3f5e54;
+}
+
+/* Visual Ordering of Groups:
+   0: Cram Cheat Sheets (card-21..22)
+   1: Pre-transplant 4 Decisions (card-6..10)
+   2: Stem cell, Graft failure, ABO, MRD/DLI, Infection/Vaccine (card-23..27)
+   3: Acute Emergencies & 6 Complications (card-0..5)
+   4: 5 Deep Complications (card-16..20)
+   5: Disease-Specific Indications (card-28..30)
+   6: 30-Minute Mock Exam (card-11..15)
+*/
+#group-cram { order: 0; }
+#group-pre { order: 1; }
+#group-stem { order: 2; }
+#group-comp-basic { order: 3; }
+#group-comp-deep { order: 4; }
+#group-disease { order: 5; }
+#group-mock { order: 6; }
+
+/* Article Cards */
+article {
+  padding: 22px 24px;
+  border: 1px solid var(--border);
+  margin: 10px 0;
+  border-radius: 12px;
+  background: var(--paper);
+  box-shadow: 0 2px 6px rgba(18, 56, 47, 0.04);
+  position: relative;
+}
+article[hidden] { display: none !important; }
+article[data-badge]::before {
+  content: attr(data-badge);
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: var(--green);
+  background: var(--green-light);
+  border: 1px solid var(--green-mid);
+  padding: 2px 10px;
+  border-radius: 20px;
+  margin-bottom: 8px;
+}
+article[data-cat="cram-cheat"] {
+  border: 2px solid #9c7338;
+  background: #fffdf9;
+}
+article[data-cat="cram-cheat"]::before {
+  color: #7d5822;
+  background: #f7ebd4;
+  border-color: #e0c79b;
+}
+article h2 {
+  margin: 4px 0 12px;
+  font-size: 21px;
+  color: #113a31;
+  line-height: 1.4;
+}
+article h3 {
+  margin: 18px 0 8px;
+  font-size: 17.5px;
+  color: #184f43;
+}
+article p { margin: 10px 0; }
+article ul, article ol { margin: 8px 0 12px; padding-left: 24px; }
+article li { margin: 5px 0; }
+
+.callout-box {
+  background: #f0f7f4;
+  border: 1px solid #bddbcf;
+  border-left: 4px solid var(--green);
+  padding: 14px 18px;
+  border-radius: 8px;
+  margin: 12px 0 16px;
+}
+
+/* Tables & Details */
+.table-wrap { overflow-x: auto; margin: 12px 0; }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14.5px;
+  background: #fff;
+}
+th, td {
+  border: 1px solid #b9ccc5;
+  padding: 9px 12px;
+  vertical-align: top;
+  line-height: 1.65;
+}
+th {
+  background: #e3f0ea;
+  color: #123e35;
+  font-weight: 700;
+  text-align: left;
+}
+caption {
+  text-align: left;
+  font-weight: 700;
+  font-size: 13.5px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+details {
+  background: #f1f7f4;
+  border: 1px solid #cde0d8;
+  padding: 12px 16px;
+  margin: 11px 0;
+  border-radius: 9px;
+}
+summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #14493e;
+}
+summary:hover { color: #0a2923; }
+
+/* Mock Exam Sub-nav */
+.mock-subnav {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  padding: 10px 14px;
+  border-radius: 9px;
+  margin: 8px 0;
+  font-size: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* Personal Tools Toolbar */
+#personal-tools {
+  background: #e7f2ed;
+  padding: 12px 16px;
+  border: 1px solid #b8d7c7;
+  border-radius: 10px;
+  margin: 14px 0;
+}
+#personal-tools summary {
+  font-size: 14.5px;
+  color: var(--green);
+}
+#personal-tools button, #personal-tools select {
+  padding: 6px 11px;
+  margin: 4px 3px;
+  font-size: 13.5px;
+  border-radius: 6px;
+  border: 1px solid #9abfb0;
+  background: #fff;
+  cursor: pointer;
+}
+#personal-tools button:hover { background: #f2faf6; }
+article[contenteditable="true"] { outline: 2px dashed #559a7c; }
+article img { max-width: 100%; height: auto; }
+mark { color: inherit; padding: 1px 3px; border-radius: 3px; }
+#personal-status { font-size: 13px; margin: 6px 0 0; color: #3d5c52; }
+
+/* Left Fixed Sidebar TOC */
+#oral-toc {
+  position: fixed;
+  left: 16px;
+  top: 16px;
+  bottom: 16px;
+  width: 255px;
+  overflow: auto;
+  background: #edf4f0;
+  border: 1px solid #cbddd5;
+  padding: 14px 12px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  z-index: 25;
+}
+#oral-toc h2 {
+  font-size: 16px;
+  margin: 0 0 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #c9dcd3;
+  color: var(--green);
+}
+.toc-cat-head {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #527367;
+  margin: 12px 4px 4px;
+  letter-spacing: 0.5px;
+}
+#oral-toc a {
+  display: block;
+  font-size: 13px;
+  line-height: 1.45;
+  padding: 5px 8px;
+  text-decoration: none;
+  border-radius: 6px;
+  color: #1c463c;
+  margin-bottom: 2px;
+}
+#oral-toc a:hover { background: #dfece6; }
+#oral-toc a[aria-current] {
+  background: var(--green);
+  color: #fff;
+  font-weight: 600;
+}
+#oral-toc .toc-sub {
+  padding-left: 18px;
+  font-size: 12px;
+  color: #3f6359;
+}
+
+@media(min-width: 1320px) {
+  body { margin-left: 295px !important; margin-right: 28px !important; }
+}
+@media(max-width: 1319px) {
+  #oral-toc {
+    position: relative;
+    left: auto;
+    top: auto;
+    bottom: auto;
+    width: auto;
+    max-height: 260px;
+    margin-bottom: 18px;
+  }
+  body { margin: 16px auto !important; }
+}
+@media print {
+  #oral-toc, #category-bar, #personal-tools, .top-bar, .mock-subnav { display: none !important; }
+  body { margin: 0 !important; background: #fff; }
+  details { display: block; }
+  article { break-inside: avoid; box-shadow: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <a class="back-home" href="index.html">← 回 EBMT 94章複習室</a>
+  <small>依 2024 EBMT Handbook、2025 ASTCT CMV、2026 EBMT HLA 共識及 108–114 年專科考題系統化整理</small>
+</div>
+
+<header class="exam-hero">
+  <div class="eyebrow">BMT SUBSPECIALTY ORAL EXAM CRAM &amp; SIMULATION ROOM</div>
+  <h1>骨髓移植專科口試複習室：考前懶人包與病例演練</h1>
+  <p>將全書 94 章考點與歷屆考題濃縮為 <b>6 大系統化分頁、31 張口試實戰問答卡</b>。可依準備階段切換分頁、搜尋關鍵字、一鍵展開所有追問，或開啟「30 分鐘計時模擬考」。</p>
+</header>
+
+<section id="category-bar" aria-label="口試系統化分類導覽">
+  <div class="cat-tabs" role="tablist">
+    <button type="button" class="cat-tab active" data-filter="all" role="tab" aria-selected="true">全部總覽 <span class="badge-count">31</span></button>
+    <button type="button" class="cat-tab" data-filter="cram-cheat" role="tab" aria-selected="false">★ 考前必背總表 <span class="badge-count">2</span></button>
+    <button type="button" class="cat-tab" data-filter="pre-transplant" role="tab" aria-selected="false">壹 · 移植前四大決策 <span class="badge-count">5</span></button>
+    <button type="button" class="cat-tab" data-filter="stem-support" role="tab" aria-selected="false">貳 · 幹細胞／植入／ABO／MRD／感染 <span class="badge-count">5</span></button>
+    <button type="button" class="cat-tab" data-filter="complications" role="tab" aria-selected="false">參 · 急症與五大併發症 <span class="badge-count">11</span></button>
+    <button type="button" class="cat-tab" data-filter="disease-indications" role="tab" aria-selected="false">肆 · 疾病別移植適應症 <span class="badge-count">3</span></button>
+    <button type="button" class="cat-tab" data-filter="mock-exam" role="tab" aria-selected="false">伍 · 30分鐘全真模擬考 <span class="badge-count">5</span></button>
+  </div>
+  <div class="filter-controls">
+    <div class="search-input-wrap">
+      <input type="search" id="oral-search" placeholder="快速篩選口試卡（例如：SOS、Defibrotide、ABO、PTCy、Letermovir、ELN、CAR-T、DLI）..." aria-label="搜尋口試卡片">
+    </div>
+    <button type="button" class="util-btn" id="toggle-details-btn">展開全部追問答案</button>
+    <button type="button" class="util-btn" id="timer-btn">⏱ 啟動 90 秒口述計時</button>
+    <button type="button" class="util-btn" onclick="window.print()">列印／存 PDF</button>
+  </div>
+</section>
+
+<aside id="oral-toc" aria-label="口試章節導覽">
+  <h2>口試系統化目錄</h2>
+  <div id="oral-toc-links"></div>
+</aside>
+
+<div id="oral-workspace">
+
+  <!-- DOM Order 1: card-0 .. card-5 (Visual Order 3: 參 · 急症與六大併發症初階) -->
+  <section id="group-comp-basic" class="cat-group" data-group-cat="complications">
+    <div class="group-banner">
+      <div class="group-step">MODULE 03-A · POST-HCT EMERGENCIES &amp; COMPLICATIONS (CORE)</div>
+      <h2>參（上）· 移植後六大核心急症與併發症：開場與避坑</h2>
+      <p>涵蓋 aGVHD、cGVHD、SOS/VOD、TA-TMA、CAR-T CRS/ICANS 與 CMV 肺部浸潤的第一時間口試開場架構。</p>
+    </div>
+    <article data-cat="complications" data-badge="參 · 六大核心急症初階"><h2>1. 移植後腹瀉與皮疹：aGVHD</h2><p><b>開場：</b>我會優先評估感染與脫水，同時考慮急性GVHD、藥物及調理毒性。詢問每日腹瀉量與次數、血便、腹痛、上消化道症狀、皮疹面積與膽紅素，分別記錄器官stage，再決定overall grade。</p><p><b>追問：</b>為什麼不能只靠移植後第100天分類？如何區分C. difficile、CMV腸炎與GVHD？何時取樣、何時不能等待切片才治療？如何定義類固醇無反應？</p><p><b>避免：</b>把器官stage當overall grade；把所有腹瀉都當GVHD。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608233/table/ch43.Tab1/">EBMT表43.1：急慢性GVHD分類原表</a> · <a href="chapters/43.pdf">第43章原PDF（含分期表43.4）</a></article><article data-cat="complications" data-badge="參 · 六大核心急症初階"><h2>2. 慢性GVHD：診斷、嚴重度與功能</h2><p><b>開場：</b>我會尋找NIH diagnostic表現，或distinctive表現合併適當確認證據；不能只因發生在第100天後就診斷慢性GVHD。逐一評估皮膚、口腔、眼、腸胃、肝、肺、關節筋膜及生殖器，並記錄功能影響及感染風險。</p><p><b>追問：</b>diagnostic與distinctive有何不同？肺部病變如何影響全身嚴重度？如何評估BOS並排除感染？局部與全身治療如何取捨？</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608236/table/ch44.Taba/">EBMT原表：慢性GVHD整體嚴重度</a> · <a href="chapters/44.pdf">第44章原PDF</a></article><article data-cat="complications" data-badge="參 · 六大核心急症初階"><h2>3. 體重增加、黃疸、血小板消耗：SOS/VOD</h2><p><b>開場：</b>我會核對發作時間、體重變化、腹水、疼痛性肝腫大、膽紅素趨勢及腎肺功能，同時排除感染、藥物性肝損傷、液體過負荷與其他肝病。說明採用成人或兒童、以及哪一版EBMT診斷標準，避免混用。</p><p><b>追問：</b>無黃疸是否能排除？晚發型如何診斷？如何分嚴重度？何時考慮defibrotide？</p><a href="chapters/49.pdf">EBMT第49章原PDF：肝臟併發症與SOS</a></article><article data-cat="complications" data-badge="參 · 六大核心急症初階"><h2>4. 貧血、血小板低、高血壓與蛋白尿：TA-TMA</h2><p><b>開場：</b>我會整合溶血、血球趨勢、血壓、尿蛋白、LDH與器官損傷，不能等待出現大量裂紅血球才考慮。同步排除DIC、感染、復發、藥物毒性及其他微血管病變。</p><p><b>追問：</b>診斷條件與高風險條件是否相同？為什麼腎功能與蛋白尿重要？如何處理誘發因子與免疫抑制？</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608292/table/ch42.Tabe/">EBMT原表：TA-TMA診斷條件</a> · <a href="chapters/42.pdf">第42章原PDF</a></article><article data-cat="complications" data-badge="參 · 六大核心急症初階"><h2>5. CAR-T後發燒、低血壓或意識改變：CRS／ICANS</h2><p><b>開場：</b>我會先依呼吸循環與神經狀態穩定患者，同步評估敗血症及免疫效應細胞毒性。CRS分級需依氧氣與升壓劑需求；ICANS需評估ICE、意識、癲癇、運動及腦水腫等，不能只看ICE分數。</p><p><b>追問：</b>CRS與ICANS何者優先？只有神經毒性時為何不能將tocilizumab視為萬用治療？何時轉加護病房？</p><a href="chapters/60.pdf">EBMT第60章原PDF</a></article><article data-cat="complications" data-badge="參 · 六大核心急症初階"><h2>6. 移植後CMV與肺部浸潤</h2><p><b>開場：</b>我會區分CMV感染、DNAemia與器官疾病。血中PCR與器官病灶不必然一致；肺浸潤需同時考慮細菌、黴菌、其他病毒與非感染併發症，依患者狀態安排影像、BAL或組織檢查。</p><p><b>追問：</b>BAL PCR陽性是否等於CMV肺炎？腸炎是否必然血中PCR陽性？預防、搶先治療與器官疾病治療如何區分？</p><a href="chapters/38.pdf">EBMT第38章原PDF</a></article>
+  </section>
+
+  <!-- DOM Order 2: card-6 .. card-10 (Visual Order 1: 壹 · 移植前四大決策與2026 HLA共識) -->
+  <section id="group-pre" class="cat-group" data-group-cat="pre-transplant">
+    <div class="group-banner">
+      <div class="group-step">MODULE 01 · PRE-TRANSPLANT CORE DECISIONS &amp; 2026 HLA CONSENSUS</div>
+      <h2>壹 · 移植前四大核心決策：供者（含 2026 HLA 共識）、受者風險、調理與 GVHD 預防</h2>
+      <p>成人異體 HCT 的四大治療決策與風險分層架構，收錄 2026 EBMT HLA matching 最新共識與 65 歲 MRD+ AML 整合演練。</p>
+    </div>
+    <article data-cat="pre-transplant" data-badge="壹 · 移植前四大決策"><h2>7. Donor選擇：我為什麼選這位供者？</h2><p><b>90秒回答：</b>我會先確認疾病是否需要及早移植、有哪些可及供者，再依高解析HLA、donor-specific anti-HLA antibodies（DSA）、供者年齡與健康、幹細胞來源及本中心的GVHD預防平台整合選擇。8/8通常指A、B、C、DRB1；10/10再加DQB1，DPB1則另評估。避免僅說「相合手足一定最好」：年輕無關供者、較年長手足、替代供者與等待時間之間，需要依疾病急迫性和平台權衡。</p><p>若有具臨床意義DSA指向候選供者，我會評估替代供者與去敏化需求，不能只看HLA配對數。其後考慮CMV血清狀態、性別與妊娠史、ABO、採集可行性和細胞劑量。ABO不合不是一般情況下的排除條件；不能為追求ABO一致而犧牲更重要條件。懷疑遺傳性骨髓疾病或germline predisposition時，親屬供者須特別排除帶有相關變異。</p><p><b>來源比較：</b>PBSC通常植入較快，但慢性GVHD較多；BM常在非惡性疾病、希望降低慢性GVHD的情境較有吸引力。臍血可及性與HLA容忍度是優點，但細胞劑量、植入與感染風險限制成人使用。半相合、MMUD與MUD的選擇須連同PTCy／ATG平台與中心經驗討論，不能只背固定排序。</p><p><b>考官追問：</b>年輕MUD與年長MSD如何選？DSA與單純anti-HLA有何不同？DPB1 permissive mismatch在哪個預防平台下解讀？SAA為什麼更重視避免GVHD？</p><p><b>常見扣分：</b>把ABO當第一順位；忽略DSA；只說幾分之幾相合卻沒交代loci；未交代供者搜尋造成的移植延遲。</p><a href="chapters/12.pdf">EBMT第12章原文</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608270/">線上章節</a> · <a href="https://www.nature.com/articles/s41409-026-02922-0">2026 EBMT HLA matching建議：供者年齡、時機及平台的更新</a><section id="hla2026"><h3>7.1｜2026 EBMT HLA共識：口試先講這段</h3><p>「我會用<b>並行搜尋</b>策略，在確認移植適應症後，同時評估家族供者與無關供者可及性，整合HLA、DSA、供者年齡、疾病急迫性及GVHD預防平台。PTCy改善跨HLA屏障的結果，但不代表HLA不重要。非惡性疾病、兒科及非PTCy的供者模型要分開解讀。」</p><p>來源：Arrieta-Bolaños等，<i>HLA matching in contemporary haematopoietic cell transplantation: Recommendations from the EBMT Practice Harmonisation and Guidelines Committee</i>，Bone Marrow Transplantation 61:1015–1023，2026-06-02；<a href="https://doi.org/10.1038/s41409-026-02922-0">論文與原表／Fig.1</a>。以下為中文口試整理，非原文逐字翻譯；原文為共識建議，因高品質隨機證據有限，未進行建議等級評分。與2024 Handbook內容分開標示。</p>
 <h3>7.2｜先說清楚：分型解析度與供者定義</h3><table><caption>2026共識重點整理，非原表重製</caption><tr><th>問題</th><th>口試回答</th></tr><tr><td>最低分型</td><td>患者及所有潛在供者：A、B、C、DRB1、DQB1、DPB1六基因座至少高解析DNA分型。NGS為偏好技術，不把技術名稱與解析度畫等號。</td></tr><tr><td>最佳分型</td><td>六個經典基因UHR；DQA1、DPA1、DRB3/4/5至少高解析，總11個loci。DSA相關情境建議11-loci高解析。</td></tr><tr><td>品質與確認</td><td>實驗室EFI／ASHI等認證；登錄庫／臍血庫WMDA及／或FACT。移植前患者及供者以第二檢體確認；疑似疾病造成的allele dropout或假性homozygosity時用非造血檢體再確認。</td></tr><tr><td>8/8與10/10</td><td>8/8＝A、B、C、DRB1；10/10再加DQB1。不可用8/8自動推定每一例10/10。MSD通常也含DPB1相合，但仍須確認，必要時家族haplotype分析排除罕見重組。</td></tr><tr><td>MMUD／haplo</td><td>MMUD：至少一個高解析不合（≤9/10或≤7/8）。此共識區分共享一條haplotype、另一條僅1個不合的mismatched related，與另一條≥2個不合的haplo；需說明採用定義。</td></tr><tr><td>UCB</td><td>評估A、B、C、DRB1高解析相合，另外權衡細胞劑量、品質與可及性，不能只比較配對數。</td></tr></table>
 <h3>7.3｜平行搜尋、年齡與PTCy：不要背僵硬順位</h3><p>預期近期可能移植即早分型，家族分型與初步URD搜尋同時進行。若MUD機率低或疾病急迫，立即並行評估haplo、MMUD、UCB；不能一個找不到才開始下一個。正式搜尋依移植適應症與地方規範啟動。</p><p>年輕MUD在特定PTCy及非PTCy情境可能優於年長MSD，但不是所有患者都應放棄MSD；供者年齡效應在PTCy下可能較弱，沒有一個適用所有人的年齡切點。PTCy降低GVHD／改善GRFS的證據不等於所有HLA mismatch在所有研究皆無影響。CMV、ABO、性別等可輔助取捨，其效應較不一致，不能犧牲更重要的可及性與免疫遺傳條件。</p><details><summary>考官：年輕9/10 donor和年長10/10 donor如何選？</summary><p>先問不合哪個locus、DSA與方向、預防平台及移植時程，再整合年齡和疾病；不能僅以9/10或10/10作答。說明自己方案與改變決策的條件，而不是宣稱PTCy能消除所有不合風險。</p></details>
 <h3>7.4｜DSA與permissive mismatch：兩者不是同一件事</h3><p>Haplo、MMUD、UCB候選者必須篩檢anti-HLA／DSA；轉介時做，陰性也按共識在調理前至少一個月重測，輸血等新致敏暴露後另評估。Single-antigen bead是主要檢測，MFI不是跨實驗室通用的絕對抗體濃度。結合供者型別、C1q及flow crossmatch等判讀。盡可能避開DSA標靶供者；若無替代，考慮中心去敏方案及前後監測，而不是有DSA就一律不能移植。</p><table><tr><th>情境</th><th>可帶出的模型與限制</th></tr><tr><td>非PTCy URD</td><td>Allele／antigen、ARD P-group、DQB1、DPB1 TCE及class I PBM可協助進一步排序；需確認模型的驗證族群，不把單一模型凌駕年齡與急迫性。</td></tr><tr><td>DPB1 TCE</td><td>非PTCy惡性病URD可考慮permissive，non-core permissive與較低復發相關而可能被偏好；「might be favoured」不是保證較佳或絕對指令。</td></tr><tr><td>PTCy</td><td>既有permissiveness模型多基於非PTCy資料，不能直接套用；DPB1 TCE不合對排序的重要性下降。這不等於不必做DPB1分型，也不等於可以忽略抗DPB1 DSA。</td></tr><tr><td>Class I PBM</td><td>非PTCy平台避免GvH方向PBM不合；不能把此建議任意外推PTCy。</td></tr></table>
 <h3>7.5｜非惡性疾病、兒科：目標不同，排序也不同</h3><p>非惡性疾病沒有追求GVL的理由，優先可靠植入、最低毒性／GVHD。MSD優先，其次10/10 MUD；若缺乏全合，可由有經驗中心評估替代供者。此情境HLA相合度優先於年齡。兒科BM仍為標準來源以減慢性GVHD，但高排斥／poor graft function風險時可選PB；不能宣稱所有兒科或非惡性病一律只能BM。</p><p>反覆輸血者早期且重複評估致敏／DSA。遺傳疾病須同步遺傳諮詢及家族檢測，<b>在該疾病相關時排除帶因者</b>，不是所有健康heterozygous carrier一概禁捐。兒科惡性與非惡性亦須分開衡量MSD／MUD；可行時進行MUD搜尋，未成年供者另有倫理考量。</p>
-<h3>7.6｜HLA-loss復發：為什麼原供者DLI可能無效？</h3><p>帶GvH方向HLA不合的HCT後發生疑似或明確復發，要考慮白血病細胞失去受者特有、供者未共享的HLA，形成免疫逃脫。既往GVHD、多個不合位於同一haplotype及晚期復發使懷疑增加，但不是只有這些病例才檢測。需於有足夠腫瘤細胞的檢體採適當分子方法，區別低腫瘤量、混合嵌合與真正HLA-loss。</p><p>若確定genomic HLA-loss，原供者DLI可能失去關鍵辨識標的卻仍帶GVHD風險；考慮其他抗白血病治療及第二移植供者策略。新供者須能辨識白血病仍保留的HLA，不是任換一個人就能解決。另需區分class II表現的表觀遺傳下調，可評估flow表現；這與DNA層級HLA-loss不是同一機轉。</p><details><summary>30秒結尾與五題快問</summary><p>「Donor selection是HLA、DSA、年齡、可及時間與prophylaxis的共同決策；先分惡性／非惡性，再分PTCy／非PTCy，復發時還要重看白血病HLA。」</p><ol><li>PTCy可不做HLA？否。</li><li>10/10代表DPB1一定相合？否。</li><li>DPB1 TCE不重要＝DSA可忽略？否。</li><li>健康carrier必定不能捐？依疾病與變異判斷。</li><li>HLA-loss後原供者DLI一定有GVL？不能如此假設。</li></ol></details></section></article>
-<article><h2>8. Recipient風險評估：能不能移植、風險從哪裡來？</h2><p><b>90秒回答：</b>我會分成疾病風險、非復發死亡風險、功能與可逆因素三層。疾病方面評估診斷、分子／細胞遺傳、疾病狀態、MRD與既往治療反應，估計不移植與移植後復發風險。受者方面評估HCT-CI、KPS／ECOG、frailty及心肺肝腎功能，合併感染、營養、認知、用藥、心理與照護支持。最後說明哪些風險可先改善，並和病人討論復發、NRM及生活品質之取捨。</p><p>我不會用年齡或單一分數決定適不適合。HCT-CI主要描述共病相關風險；DRI偏向疾病與狀態造成的風險；兩者互補，不可互相替代。較年輕者也可能因器官損傷高風險，較年長而功能佳者仍可能適合。活動性感染、先前黴菌感染、肺功能、肝病、腎功能、心臟功能與既往毒性都會改變調理及支持治療。</p><p><b>考官追問：</b>HCT-CI高就不能移植嗎？MRD陽性但器官功能差怎麼辦？哪些檢查是入院前必須完成？如何向家屬說明NRM與OS的不同？</p><p><b>會診結論句：</b>「這位病人疾病復發風險高，但目前主要可調整風險是……；我會先……，再以……調理及……供者平台進行，並告知移植不能保證消除復發風險。」</p><a href="chapters/11.pdf">EBMT第11章：候選者評估與風險工具原文</a> · <a href="chapters/68.pdf">第68章：老年與frailty評估</a><p><small>HCT-CI各項配分與器官閾值仍待逐列重製核對；此處不提供未驗證的配分表。</small></p></article>
-<article><h2>9. Conditioning選擇：抗腫瘤、免疫抑制與毒性的平衡</h2><p><b>90秒回答：</b>我先說明調理要達到疾病控制及足夠免疫抑制以建立植入，再以疾病類型、緩解／MRD、受者體能與器官毒性、供者和預防平台選擇。MAC較強不代表對所有人較好；RIC較低毒性也不代表沒有嚴重GVHD或不會NRM。Reduced-toxicity不能直接等同RIC。</p><table border="1" cellpadding="8"><caption>EBMT第13章定義之中文整理（非原表逐字複製）</caption><tr><th>分類</th><th>回答重點</th></tr><tr><td>MAC</td><td>多數患者造成不可逆血球減少，需幹細胞支持。</td></tr><tr><td>RIC</td><td>造成顯著血球減少，需幹細胞輸注，但不一定不可逆。</td></tr><tr><td>NMA</td><td>血球抑制較輕，理論上不一定需幹細胞救援；療效較依賴供者免疫。</td></tr><tr><td>RTC</td><td>降低毒性的MAC變化；不能只看名稱判定強度。</td></tr></table><p><b>病例變化：</b>AML／MDS須平衡復發與NRM；ALL須討論TBI證據與年齡、禁忌、晚期毒性；SAA主要目標是免疫抑制及可靠植入，不追求GVL。Busulfan需注意暴露／藥物監測與SOS；既往inotuzumab、肝病或多重烷化劑會影響SOS考量。TBI需注意肺、眼、生育及內分泌的長期風險。</p><p><b>考官追問：</b>FluBu4是否就是RIC？MRD陽性是否一定升強度？肝功能不佳如何影響BU/CY選擇？怎樣解讀隨機研究的復發下降但NRM增加？</p><a href="chapters/13.pdf">EBMT第13章原PDF，表13.1：不同強度調理隨機試驗</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608297/">線上原文與表格</a></article>
-<article><h2>10. GVHD prophylaxis：把供者與調理一起回答</h2><p><b>90秒回答：</b>我會依供者相合度、PBSC或BM、MAC或RIC、疾病復發風險、器官功能與中心經驗選擇平台。常見選擇包括CNI＋短程MTX、CNI＋MMF、加ATG的方案，以及PTCy合併CNI／MMF。PTCy不只適用半相合移植，但不能把所有供者、來源及調理的證據當成完全相同。</p><p><b>監測與取捨：</b>CNI關注腎功能、血壓、神經毒性、內皮毒性與azole交互作用；MTX關注黏膜炎、肝腎功能與是否需調整後續劑量；MMF關注血球抑制、腸胃道症狀與抗病毒藥併用。ATG關注暴露、免疫重建延遲及病毒再活化；PTCy關注心臟毒性、液體處理與出血性膀胱炎。降低GVHD須同時考量免疫重建、感染與疾病控制。</p><table border="1" cellpadding="8"><caption>EBMT Handbook 2024 表26.1：CSA／MTX預防方案中文摘譯；需依中心方案及血中濃度調整</caption><tr><th>項目</th><th>Cyclosporine</th><th>Methotrexate</th></tr><tr><td>原表劑量</td><td>3 mg/kg/day IV至植入，之後口服</td><td>第+1天15 mg/m²；第+3、+6、+11天10 mg/m²</td></tr><tr><td>調整</td><td>原表plasma level目標150–200 ng/mL，依腎功能調整；不同檢體／分析法與平台不可直接套用</td><td>III／IV級黏膜炎時第+11天劑量可省略</td></tr><tr><td>交互作用</td><td>多種；尤其azoles</td><td>原表未列</td></tr><tr><td>不良作用</td><td>腎功能不全、CNS及內皮毒性等</td><td>黏膜炎</td></tr></table><p><b>考官追問：</b>為什麼PTCy後才開始部分免疫抑制劑？MTX day+11省略有什麼考量？CNI濃度升高同時腎功能惡化怎麼辦？ATG與PTCy的病毒風險、GVL與免疫重建如何比較？</p><a href="chapters/26.pdf#page=2">EBMT表26.1原頁：章內PDF第2頁</a> · <a href="chapters/65.pdf">第65章：半相合與PTCy平台</a><p><small>上述表格摘譯依原PDF；原章開頭將GVHD描述為recipient T cells識別host，與典型異體GVHD機轉不符，口試應回答「供者免疫細胞識別並攻擊受者組織」，不要照抄該句。</small></p></article>
-<article><h2>整合演練：65歲MRD陽性AML，年長手足與年輕MUD可用</h2><p>「我會先確認MRD方法、數量與趨勢，評估是否可在不延誤移植下改善疾病控制；同時用HCT-CI、功能／frailty及器官檢查估計NRM，而不只用65歲決定RIC。供者方面比較高解析HLA、DSA、年齡、可及時間及來源，不自動把手足排第一。調理需平衡MRD相關復發與器官毒性，GVHD prophylaxis則與所選供者及來源配套。最後和患者討論復發、感染、GVHD、NRM及長期生活品質。」</p><p>考官若要求選出一套方案，應在補問關鍵資料後提出具體選擇、替代方案與改變決策的條件；只說「個別化」而不下判斷，也不是完整回答。</p></article>
-<section id="mock30"><h1>30分鐘模擬口試：從移植決策到急症處理</h1><p>使用方式：每題先不展開答案，口述60–90秒，再接受追問。時間分配為演練設計，並非實際考試流程；主題來自108–114年筆試內容的臨床化整理，非口試頻率統計。AI教材，未經人工專科校訂。EBMT主體版本為2024年第8版；更新證據另列。</p>
-<nav><a href="#caseA">0–8分：AML移植規劃</a> ｜ <a href="#caseB">8–15分：day+14急症</a> ｜ <a href="#caseC">15–22分：GVHD</a> ｜ <a href="#caseD">22–28分：感染與CAR-T</a> ｜ <a href="#rapid">28–30分：快問快答</a></nav>
-<article id="caseA"><h2>0–8分鐘｜58歲、NPM1與FLT3-ITD AML，CR1，沒有MSD</h2><p><b>考官：</b>請決定是否移植，並說明受者評估、供者、調理、來源與移植後計畫。</p><details><summary>展開90秒示範回答</summary><p>「我會先確認完整ELN遺傳風險、誘導療程與MRD，再評估CR1移植效益；NPM1合併FLT3-ITD本身不能直接稱ELN adverse，ELN2022一般屬intermediate，還需檢視其他不良遺傳。受者評估包括HCT-CI、KPS、frailty、心肺肝腎、感染及照顧資源。若移植適應症成立，我會並行搜尋年輕高解析相合無關供者及替代供者，檢查DSA，避免因等待而失去緩解窗口。調理須依疾病風險與器官耐受決定；若適合MAC，可討論FluBu4等減毒方案並監測BU暴露；若NRM風險高則討論RIC。來源和GVHD預防一併決定，不能只用『PBSC的GVL強』作結論。術後以MRD與嵌合監測，並討論有實證支持的FLT3維持、感染預防與GVHD監測。」</p></details>
+<h3>7.6｜HLA-loss復發：為什麼原供者DLI可能無效？</h3><p>帶GvH方向HLA不合的HCT後發生疑似或明確復發，要考慮白血病細胞失去受者特有、供者未共享的HLA，形成免疫逃脫。既往GVHD、多個不合位於同一haplotype及晚期復發使懷疑增加，但不是只有這些病例才檢測。需於有足夠腫瘤細胞的檢體採適當分子方法，區別低腫瘤量、混合嵌合與真正HLA-loss。</p><p>若確定genomic HLA-loss，原供者DLI可能失去關鍵辨識標的卻仍帶GVHD風險；考慮其他抗白血病治療及第二移植供者策略。新供者須能辨識白血病仍保留的HLA，不是任換一個人就能解決。另需區分class II表現的表觀遺傳下調，可評估flow表現；這與DNA層級HLA-loss不是同一機轉。</p><details><summary>30秒結尾與五題快問</summary><p>「Donor selection是HLA、DSA、年齡、可及時間與prophylaxis的共同決策；先分惡性／非惡性，再分PTCy／非PTCy，復發時還要重看白血病HLA。」</p><ol><li>PTCy可不做HLA？否。</li><li>10/10代表DPB1一定相合？否。</li><li>DPB1 TCE不重要＝DSA可忽略？否。</li><li>健康carrier必定不能捐？依疾病與變異判斷。</li><li>HLA-loss後原供者DLI一定有GVL？不能如此假設。</li></ol></details></section></article><article data-cat="pre-transplant" data-badge="壹 · 移植前四大決策"><h2>8. Recipient風險評估：能不能移植、風險從哪裡來？</h2><p><b>90秒回答：</b>我會分成疾病風險、非復發死亡風險、功能與可逆因素三層。疾病方面評估診斷、分子／細胞遺傳、疾病狀態、MRD與既往治療反應，估計不移植與移植後復發風險。受者方面評估HCT-CI、KPS／ECOG、frailty及心肺肝腎功能，合併感染、營養、認知、用藥、心理與照護支持。最後說明哪些風險可先改善，並和病人討論復發、NRM及生活品質之取捨。</p><p>我不會用年齡或單一分數決定適不適合。HCT-CI主要描述共病相關風險；DRI偏向疾病與狀態造成的風險；兩者互補，不可互相替代。較年輕者也可能因器官損傷高風險，較年長而功能佳者仍可能適合。活動性感染、先前黴菌感染、肺功能、肝病、腎功能、心臟功能與既往毒性都會改變調理及支持治療。</p><p><b>考官追問：</b>HCT-CI高就不能移植嗎？MRD陽性但器官功能差怎麼辦？哪些檢查是入院前必須完成？如何向家屬說明NRM與OS的不同？</p><p><b>會診結論句：</b>「這位病人疾病復發風險高，但目前主要可調整風險是……；我會先……，再以……調理及……供者平台進行，並告知移植不能保證消除復發風險。」</p><a href="chapters/11.pdf">EBMT第11章：候選者評估與風險工具原文</a> · <a href="chapters/68.pdf">第68章：老年與frailty評估</a><p><small>HCT-CI各項配分與器官閾值仍待逐列重製核對；此處不提供未驗證的配分表。</small></p></article><article data-cat="pre-transplant" data-badge="壹 · 移植前四大決策"><h2>9. Conditioning選擇：抗腫瘤、免疫抑制與毒性的平衡</h2><p><b>90秒回答：</b>我先說明調理要達到疾病控制及足夠免疫抑制以建立植入，再以疾病類型、緩解／MRD、受者體能與器官毒性、供者和預防平台選擇。MAC較強不代表對所有人較好；RIC較低毒性也不代表沒有嚴重GVHD或不會NRM。Reduced-toxicity不能直接等同RIC。</p><table border="1" cellpadding="8"><caption>EBMT第13章定義之中文整理（非原表逐字複製）</caption><tr><th>分類</th><th>回答重點</th></tr><tr><td>MAC</td><td>多數患者造成不可逆血球減少，需幹細胞支持。</td></tr><tr><td>RIC</td><td>造成顯著血球減少，需幹細胞輸注，但不一定不可逆。</td></tr><tr><td>NMA</td><td>血球抑制較輕，理論上不一定需幹細胞救援；療效較依賴供者免疫。</td></tr><tr><td>RTC</td><td>降低毒性的MAC變化；不能只看名稱判定強度。</td></tr></table><p><b>病例變化：</b>AML／MDS須平衡復發與NRM；ALL須討論TBI證據與年齡、禁忌、晚期毒性；SAA主要目標是免疫抑制及可靠植入，不追求GVL。Busulfan需注意暴露／藥物監測與SOS；既往inotuzumab、肝病或多重烷化劑會影響SOS考量。TBI需注意肺、眼、生育及內分泌的長期風險。</p><p><b>考官追問：</b>FluBu4是否就是RIC？MRD陽性是否一定升強度？肝功能不佳如何影響BU/CY選擇？怎樣解讀隨機研究的復發下降但NRM增加？</p><a href="chapters/13.pdf">EBMT第13章原PDF，表13.1：不同強度調理隨機試驗</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608297/">線上原文與表格</a></article><article data-cat="pre-transplant" data-badge="壹 · 移植前四大決策"><h2>10. GVHD prophylaxis：把供者與調理一起回答</h2><p><b>90秒回答：</b>我會依供者相合度、PBSC或BM、MAC或RIC、疾病復發風險、器官功能與中心經驗選擇平台。常見選擇包括CNI＋短程MTX、CNI＋MMF、加ATG的方案，以及PTCy合併CNI／MMF。PTCy不只適用半相合移植，但不能把所有供者、來源及調理的證據當成完全相同。</p><p><b>監測與取捨：</b>CNI關注腎功能、血壓、神經毒性、內皮毒性與azole交互作用；MTX關注黏膜炎、肝腎功能與是否需調整後續劑量；MMF關注血球抑制、腸胃道症狀與抗病毒藥併用。ATG關注暴露、免疫重建延遲及病毒再活化；PTCy關注心臟毒性、液體處理與出血性膀胱炎。降低GVHD須同時考量免疫重建、感染與疾病控制。</p><table border="1" cellpadding="8"><caption>EBMT Handbook 2024 表26.1：CSA／MTX預防方案中文摘譯；需依中心方案及血中濃度調整</caption><tr><th>項目</th><th>Cyclosporine</th><th>Methotrexate</th></tr><tr><td>原表劑量</td><td>3 mg/kg/day IV至植入，之後口服</td><td>第+1天15 mg/m²；第+3、+6、+11天10 mg/m²</td></tr><tr><td>調整</td><td>原表plasma level目標150–200 ng/mL，依腎功能調整；不同檢體／分析法與平台不可直接套用</td><td>III／IV級黏膜炎時第+11天劑量可省略</td></tr><tr><td>交互作用</td><td>多種；尤其azoles</td><td>原表未列</td></tr><tr><td>不良作用</td><td>腎功能不全、CNS及內皮毒性等</td><td>黏膜炎</td></tr></table><p><b>考官追問：</b>為什麼PTCy後才開始部分免疫抑制劑？MTX day+11省略有什麼考量？CNI濃度升高同時腎功能惡化怎麼辦？ATG與PTCy的病毒風險、GVL與免疫重建如何比較？</p><a href="chapters/26.pdf#page=2">EBMT表26.1原頁：章內PDF第2頁</a> · <a href="chapters/65.pdf">第65章：半相合與PTCy平台</a><p><small>上述表格摘譯依原PDF；原章開頭將GVHD描述為recipient T cells識別host，與典型異體GVHD機轉不符，口試應回答「供者免疫細胞識別並攻擊受者組織」，不要照抄該句。</small></p></article><article data-cat="pre-transplant" data-badge="壹 · 移植前四大決策"><h2>整合演練：65歲MRD陽性AML，年長手足與年輕MUD可用</h2><p>「我會先確認MRD方法、數量與趨勢，評估是否可在不延誤移植下改善疾病控制；同時用HCT-CI、功能／frailty及器官檢查估計NRM，而不只用65歲決定RIC。供者方面比較高解析HLA、DSA、年齡、可及時間及來源，不自動把手足排第一。調理需平衡MRD相關復發與器官毒性，GVHD prophylaxis則與所選供者及來源配套。最後和患者討論復發、感染、GVHD、NRM及長期生活品質。」</p><p>考官若要求選出一套方案，應在補問關鍵資料後提出具體選擇、替代方案與改變決策的條件；只說「個別化」而不下判斷，也不是完整回答。</p></article>
+  </section>
+
+  <!-- DOM Order 3: card-11 .. card-15 (Visual Order 6: 伍 · 30分鐘全真模擬口試) -->
+  <section id="group-mock" class="cat-group" data-group-cat="mock-exam">
+    <div class="group-banner" id="mock30">
+      <div class="group-step">MODULE 05 · 30-MINUTE FULL ORAL EXAM SIMULATION</div>
+      <h2>伍 · 30 分鐘全真模擬口試：從移植規劃到急症救援與快問快答</h2>
+      <p>使用方式：每題先不展開答案，按上方「啟動 90 秒口述計時」出聲回答，再點開示範回答與考官連續追問自我評分。</p>
+    </div>
+    <nav class="mock-subnav">
+      <a href="#caseA">0–8分：AML移植規劃</a> ｜
+      <a href="#caseB">8–15分：Day+14急症</a> ｜
+      <a href="#caseC">15–22分：Grade III aGVHD</a> ｜
+      <a href="#caseD">22–28分：CMV/EBV/CAR-T</a> ｜
+      <a href="#rapid">28–30分：六題快問快答</a>
+    </nav>
+    <article id="caseA" data-cat="mock-exam" data-badge="伍 · 30分鐘模擬口試"><h2>0–8分鐘｜58歲、NPM1與FLT3-ITD AML，CR1，沒有MSD</h2><p><b>考官：</b>請決定是否移植，並說明受者評估、供者、調理、來源與移植後計畫。</p><details><summary>展開90秒示範回答</summary><p>「我會先確認完整ELN遺傳風險、誘導療程與MRD，再評估CR1移植效益；NPM1合併FLT3-ITD本身不能直接稱ELN adverse，ELN2022一般屬intermediate，還需檢視其他不良遺傳。受者評估包括HCT-CI、KPS、frailty、心肺肝腎、感染及照顧資源。若移植適應症成立，我會並行搜尋年輕高解析相合無關供者及替代供者，檢查DSA，避免因等待而失去緩解窗口。調理須依疾病風險與器官耐受決定；若適合MAC，可討論FluBu4等減毒方案並監測BU暴露；若NRM風險高則討論RIC。來源和GVHD預防一併決定，不能只用『PBSC的GVL強』作結論。術後以MRD與嵌合監測，並討論有實證支持的FLT3維持、感染預防與GVHD監測。」</p></details>
 <details><summary>追問一：HCT-CI、DRI與EBMT score各回答什麼？</summary><p>HCT-CI主要量化共病，協助估計NRM；DRI結合疾病與移植時疾病狀態，反映疾病相關預後；EBMT risk score整合年齡、疾病期別、診斷至移植間隔、供者類型與供受者性別組合。它們是族群預測工具，不能把某分數直接當成移植禁忌。若報HCT-CI/age，須明確說是加年齡版，不能混稱原HCT-CI。LVEF、DLCO應按校正方法、病因及中心標準解讀；『LVEF≥45–50%、DLCO≥50%』不是全世界統一通行的合格線。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608275/table/ch11.Tab5/">EBMT表11.5：HCT-CI含年齡變數完整原表</a></details>
 <details><summary>追問二：找到年長MSD、年輕MUD與年輕haplo，如何排序？</summary><p>先核對可及時間、HLA、DSA及平台；年輕供者通常較有利，但不能把&lt;30或35歲當硬門檻，也不能宣稱haplo在每個族群都和MUD等效。PTCy改變不相合移植結果，選擇需搭配來源、疾病、中心經驗。CMV、性別／妊娠史、ABO屬進一步取捨；ABO不是第一順位。高解析HLA不等於只能用NGS，需區分解析度與檢驗技術。</p></details>
 <details><summary>追問三：FluBu4是RIC嗎？TCI 2.5–3.5是RTC定義嗎？</summary><p>FluBu4通常是MAC強度／減毒概念；RTC描述相對毒性降低，不能當RIC同義詞。不能以固定TCI區間概括所有RTC，或把FluBu3與FluBu4直接視為同強度。必須報告實際藥物總劑量／暴露、TBI分次及合併藥，再依採用分類判定。BU 12.8 mg/kg是常見成人IV四日總劑量表達，但臨床須依方案與PK調整，不是每人固定照給。</p><a href="chapters/13.pdf">EBMT第13章與表13.1</a></details>
-<details><summary>追問四：術後一定要gilteritinib嗎？</summary><p>Sorafenib是第一代多激酶抑制劑，具有移植後隨機研究支持；gilteritinib為第二代，MORPHO整體RFS未達統計顯著，而圍移植期FLT3-ITD MRD可測者有獲益訊號。不能宣稱兩藥等效或每人必須使用gilteritinib。啟動前確認植入、血球、肝功能、QTc、GVHD、感染及azole交互作用；適應症、可近性與健保給付需另核對。</p><a href="https://pubmed.ncbi.nlm.nih.gov/38471061/">MORPHO主要結果</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12105721/">MRD後續分析</a></details></article>
-<article id="caseB"><h2>8–15分鐘｜day+14發燒、體重增加、喘、黃疸與皮疹</h2><p><b>考官：</b>你現在先做什麼？ES、SOS、感染與GVHD如何分辨？</p><details><summary>展開示範回答</summary><p>「我會先評估ABC、氧氣與循環、尿量及意識，必要時加護病房；血培養、檢驗與經驗性抗感染同步，不等到排除感染才處理器官衰竭。我會確認ANC回升時點、輸液與體重、皮疹面積、膽紅素與肝腫大、腹水、腎功能、尿蛋白與溶血，安排胸部影像及肝臟Doppler。鑑別包含敗血症、黴菌、ES、SOS、急性GVHD、TA-TMA、藥物與心因性／容量性肺水腫。ES須符合植入時間關係並排除其他原因；SOS則依成人／兒童及版本化標準，不能只靠黃疸或單一超音波。」</p></details>
+<details><summary>追問四：術後一定要gilteritinib嗎？</summary><p>Sorafenib是第一代多激酶抑制劑，具有移植後隨機研究支持；gilteritinib為第二代，MORPHO整體RFS未達統計顯著，而圍移植期FLT3-ITD MRD可測者有獲益訊號。不能宣稱兩藥等效或每人必須使用gilteritinib。啟動前確認植入、血球、肝功能、QTc、GVHD、感染及azole交互作用；適應症、可近性與健保給付需另核對。</p><a href="https://pubmed.ncbi.nlm.nih.gov/38471061/">MORPHO主要結果</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12105721/">MRD後續分析</a></details></article><article id="caseB" data-cat="mock-exam" data-badge="伍 · 30分鐘模擬口試"><h2>8–15分鐘｜day+14發燒、體重增加、喘、黃疸與皮疹</h2><p><b>考官：</b>你現在先做什麼？ES、SOS、感染與GVHD如何分辨？</p><details><summary>展開示範回答</summary><p>「我會先評估ABC、氧氣與循環、尿量及意識，必要時加護病房；血培養、檢驗與經驗性抗感染同步，不等到排除感染才處理器官衰竭。我會確認ANC回升時點、輸液與體重、皮疹面積、膽紅素與肝腫大、腹水、腎功能、尿蛋白與溶血，安排胸部影像及肝臟Doppler。鑑別包含敗血症、黴菌、ES、SOS、急性GVHD、TA-TMA、藥物與心因性／容量性肺水腫。ES須符合植入時間關係並排除其他原因；SOS則依成人／兒童及版本化標準，不能只靠黃疸或單一超音波。」</p></details>
 <table border="1" cellpadding="7"><caption>EBMT第42章ES標準表：Spitzer部分中文整理；非完整三套標準對照</caption><tr><th>項目</th><th>Spitzer</th></tr><tr><td>組合／時窗</td><td>3主要，或2主要＋至少1次要；植入前後96小時</td></tr><tr><td>主要</td><td>非感染性發燒；皮疹&gt;25% BSA且無aGVHD組織證據；肺水腫／低氧且非心衰、血栓或感染</td></tr><tr><td>次要</td><td>體重較基準增加&gt;2.5%；肝／腎功能異常；腦病變</td></tr></table><p>原章提醒：auto-HCT的Maiolino較敏感；allo-HCT鑑別較複雜，Spitzer較嚴格。不是所有植入期發燒都該立即給類固醇。停G-CSF、採培養與抗生素；若臨床支持ES且感染評估同步進行，可依嚴重度給類固醇。原章方案為methylprednisolone 1 mg/kg每12小時IV共3天，再約一週遞減；若沒有快速改善，要重評感染、GVHD與其他診斷。危重病人的治療不能機械性等待48小時。</p>
 <details><summary>追問：你用2016還是2023 SOS標準？</summary><p>2016成人經典型：day≤21，bilirubin≥2 mg/dL加至少兩項痛性肝腫大、體重&gt;5%、腹水；遲發型需按完整標準判定，不能只用「無黃疸即可」或門脈逆流當唯一診斷。2023 EBMT另分probable、clinical、proven；probable有利早期辨識，診斷確定度與嚴重度是不同軸。應讀完整原表，不把HVPG或超音波單獨套進所有版本。</p><p>處置監測體重、輸入輸出、肝腎與氧合，謹慎控液／利尿，避免降低灌流及加重腎損傷；嚴重或快速進展者及早評估defibrotide，常用6.25 mg/kg每6小時IV（總25 mg/kg/day），至少21天並依症狀決定延長。核對活動性出血及抗凝／溶栓藥，與移植團隊討論；不等待多器官衰竭才處置。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608328/">EBMT肝臟併發症及2023分類</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608328/table/ch49.Tab3/">表49.3嚴重度原表</a></details>
-<details><summary>追問：若同時高血壓、蛋白尿、LDH上升？</summary><p>考慮TA-TMA。依採用共識評估反覆出現的貧血、血小板下降、LDH、裂紅血球、高血壓、sC5b-9及蛋白尿；不需等待全部出現。檢查凝血以鑑別DIC，必要時ADAMTS13排TTP。控制血壓、治療感染／GVHD與藥物誘因，評估高風險器官病變及補體標靶治療；不能以「一律停CNI」或常規血漿置換當萬用答案。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608292/table/ch42.Tabe/">EBMT TA-TMA診斷原表</a></details></article>
-<article id="caseC"><h2>15–22分鐘｜day+35：皮疹60%、腹瀉1200 mL/day、bilirubin 2.5</h2><p><b>第一句：</b>皮膚stage 3、下消化道stage 2、肝stage 1，因此<b>overall grade III aGVHD</b>；不能因皮膚stage 3可屬grade II，就忽略腸道stage 2。</p>
+<details><summary>追問：若同時高血壓、蛋白尿、LDH上升？</summary><p>考慮TA-TMA。依採用共識評估反覆出現的貧血、血小板下降、LDH、裂紅血球、高血壓、sC5b-9及蛋白尿；不需等待全部出現。檢查凝血以鑑別DIC，必要時ADAMTS13排TTP。控制血壓、治療感染／GVHD與藥物誘因，評估高風險器官病變及補體標靶治療；不能以「一律停CNI」或常規血漿置換當萬用答案。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608292/table/ch42.Tabe/">EBMT TA-TMA診斷原表</a></details></article><article id="caseC" data-cat="mock-exam" data-badge="伍 · 30分鐘模擬口試"><h2>15–22分鐘｜day+35：皮疹60%、腹瀉1200 mL/day、bilirubin 2.5</h2><p><b>第一句：</b>皮膚stage 3、下消化道stage 2、肝stage 1，因此<b>overall grade III aGVHD</b>；不能因皮膚stage 3可屬grade II，就忽略腸道stage 2。</p>
 <table border="1" cellpadding="7"><caption>EBMT表43.4成人器官分期摘譯；上消化道僅stage 0／1</caption><tr><th>Stage</th><th>皮膚活動性紅斑</th><th>bilirubin mg/dL</th><th>成人下GI每日糞便量</th></tr><tr><td>0</td><td>無</td><td>&lt;2</td><td>&lt;500 mL或&lt;3次</td></tr><tr><td>1</td><td>&lt;25% BSA</td><td>2–3</td><td>500–999 mL或3–4次</td></tr><tr><td>2</td><td>25–50%</td><td>3.1–6</td><td>1000–1500 mL或5–7次</td></tr><tr><td>3</td><td>&gt;50%</td><td>6.1–15</td><td>&gt;1500 mL或&gt;7次</td></tr><tr><td>4</td><td>廣泛紅皮&gt;50%＋水疱及脫皮&gt;5%</td><td>&gt;15</td><td>嚴重腹痛±ileus或肉眼血便，不論量</td></tr></table>
 <table border="1" cellpadding="7"><caption>EBMT第43章overall grade中文整理：取最嚴重器官</caption><tr><th>Grade</th><th>條件</th></tr><tr><td>I</td><td>僅皮膚stage 1–2</td></tr><tr><td>II</td><td>皮膚3及／或肝1、上GI1、下GI1，且無更高分級條件</td></tr><tr><td>III</td><td>肝2–3及／或下GI2–3（皮膚0–3）</td></tr><tr><td>IV</td><td>皮膚、肝或下GI任一stage 4</td></tr></table>
 <details><summary>展開處置與類固醇難治追問</summary><p>「我會同步排感染、藥物與其他腸炎，取得適當切片但不因等待而延誤重症治療。此例通常以methylprednisolone 2 mg/kg/day全身治療、維持適當預防藥濃度並加強感染、營養與液體支持。每日記錄器官stage與糞便。若足量治療約3天進展或5–7天未改善，依採用定義考慮SR-aGVHD，同時確認診斷、吸收、濃度與CMV等合併感染。」</p><p>Ruxolitinib有REACH2證據，選用時需監測血球、感染與交互作用；ECP、MSC等依年齡、器官、可及性與證據選擇，不把所有救援並列為同等標準。AAT不能不交代證據與可近性就稱標準二線。</p></details>
 <details><summary>追問：後來硬化型cGVHD與BOS，如何回答新藥？</summary><p>重新以NIH診斷與器官分數評估，排除感染及固定不可逆傷害。描述「目前活動度」與「纖維化後遺症」，加復健、關節活動與肺功能追蹤。Ruxolitinib、belumosudil、ibrutinib、ECP與axatilimab皆需說明適用線別、證據、毒性與地區核准；不可宣稱全部都是標準二線，也不能把belumosudil說成對肺特別有效的既定比較結論。Axatilimab是CSF1R抗體，美國適應症為至少兩線全身治療失敗且體重≥40 kg；不等於台灣核准或給付。</p><a href="https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshot-niktimvo">FDA axatilimab來源</a></details>
-<a href="chapters/43.pdf#page=4">表43.4與overall grading原PDF第4頁</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608233/">EBMT第43章</a></article>
-<article id="caseD"><h2>22–28分鐘｜CMV、EBV與早期復發DLBCL</h2>
+<a href="chapters/43.pdf#page=4">表43.4與overall grading原PDF第4頁</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608233/">EBMT第43章</a></article><article id="caseD" data-cat="mock-exam" data-badge="伍 · 30分鐘模擬口試"><h2>22–28分鐘｜CMV、EBV與早期復發DLBCL</h2>
 <details><summary>考官：CMV預防、監測及搶先治療怎麼做？</summary><p>「先確認受者CMV serostatus、預防與免疫抑制風險。Letermovir主要用於CMV R+ allo-HCT初級預防，不是任意高風險R−患者的通用答案。可於day0–28開始，不必等植入；一般至day100，晚期高風險者可延至day200。預防期間仍監測PCR；低量單次blip不一定等於治療失敗，須看重複檢驗、動態、症狀與平台閾值。」</p><p>治療沒有全球通用PCR起始閾值。Ganciclovir／valganciclovir須注意骨髓抑制，foscarnet須注意腎功能與電解質；疑似抗藥／難治需做抗藥檢測並依病況調藥。Maribavir有R/R CMV證據，但不能因任意血球低就自動替代所有一線治療，CMV視網膜／CNS疾病須特別慎選。Maribavir與ganciclovir具拮抗，避免併用。Letermovir不提供HSV/VZV保護。</p><a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/219104s000lbl.pdf">Letermovir仿單</a> · <a href="https://www.astctjournal.org/article/S2666-6367%2825%2901268-0/fulltext">ASTCT更新CMV建議</a></details>
 <details><summary>考官：EBV DNA升高就是PTLD嗎？</summary><p>不是。區分DNAemia與可能／確診PTLD；高風險者定期PCR，但使用檢體、測定法與病毒動態解讀，無單一全球通用cutoff。淋巴結或器官病灶需影像與適當組織，盡可能取得EBER等證據。高風險明顯上升時可依中心策略減免疫抑制與搶先rituximab，須衡量GVHD及B細胞耗竭感染風險。PTCy下PTLD可能較低，但不能用「保留記憶T細胞」一句就概括機轉或說不需監測。</p></details>
 <details><summary>考官：DLBCL一線後8個月復發，直接auto嗎？</summary><p>先重切片確認病理、評估PET、病程、器官與可及性；對符合條件的原發難治／≤12個月復發LBCL，二線axi-cel或liso-cel有隨機證據支持。不能把ZUMA-7、TRANSFORM結果推論為所有CAR-T產品皆相同。&gt;12個月復發且救援化療敏感者，auto-HCT仍重要；若不適合或不敏感，再依適應症討論CAR-T／雙特異抗體等。交代leukapheresis、製備期間bridging、感染及疾病控制，而不只說「轉CAR-T」。</p><a href="chapters/86.pdf">EBMT LBCL原章</a></details>
-<details><summary>考官：CAR-T後39°C、低血壓須一種升壓劑、ICE 2分？</summary><p>感染與CRS同步處理、評估ICU；一種升壓劑（可加vasopressin）的需求至少符合ASTCT CRS grade3，仍需依氧合取較高級；不是grade2。ICE2可符合ICANS grade3，但需再評估意識、癲癇、運動與顱壓／腦水腫，以最嚴重項目定級。Tocilizumab針對CRS，孤立ICANS核心為類固醇及神經支持，不用tocilizumab取代；併發CRS時可同時處理。實際劑量按產品、嚴重度及中心指引，不讓「所有發燒都是CRS」延誤敗血症治療。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608314/table/ch60.Tab3/">EBMT表60.3（含不同CRS系統，須確認ASTCT欄）</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK584157/">EBMT/EHA ICANS章</a></details></article>
-<article id="rapid"><h2>28–30分鐘｜六題快問快答與自評</h2><ol><li>沒有MSD就不能移植？→否，依時間、DSA、供者年齡與平台評估替代供者。</li><li>FLT3-ITD＋NPM1一定adverse？→否，需完整ELN2022遺傳分類。</li><li>腹瀉1200 mL/day的aGVHD overall II？→否，下GI stage2使overall至少III。</li><li>ES對類固醇不快速改善？→重評感染、GVHD及其他器官病變。</li><li>CMV PCR陽性就是器官疾病？→否，需器官證據與臨床脈絡。</li><li>SAA無MSD一定只能horse ATG＋CSA＋eltrombopag？→否，須依年齡、嚴重度、替代供者、感染及中心策略討論IST與移植。</li></ol><p><b>每題自評0–2分：</b>明確結論、必要補問、正確分級、危急處置、治療取捨、重評／救援、來源與版本。0=沒說；1=提到；2=能說明為何。這是練習量表，不是官方及格標準。每次錄音，找出最常漏掉的兩項重練。</p><p><b>最後一句：</b>「我的首選是……；如果補充資料顯示……，我會改成……，並以……監測結果。」不要每題都機械回答Yes/No；資料不足時先指出會改變決策的資訊，再給條件式結論。</p></article></section><aside id="oral-toc" aria-label="口試章節導覽"><h2>口試快速跳轉</h2><div id="oral-toc-links"></div></aside><section id="advanced-five"><h1>五大併發症深度口試</h1><article id="deep-agvhd"><h2>aGVHD進階：如何分級、起始治療與判定失敗</h2><p><b>口述：</b>「先確認受累器官與每日stage，排感染／藥物傷害，再依最嚴重器官給overall grade。Day100不能單獨區分急慢性；late acute有急性表現但沒有慢性診斷特徵。」</p><p>皮膚鑑別藥疹、病毒；腹瀉鑑別C. difficile、其他腸道病原、CMV與MMF毒性；黃疸鑑別SOS、敗血症、膽道及藥物。取得有代表性的皮膚／GI切片，重症治療與檢查並行。陰性或非特異切片不能單獨排除。</p><p>僅輕度皮膚可局部治療；grade II–IV通常需全身類固醇，但孤立上GI／低風險情境可用較低劑量，不能所有病例一律2 mg/kg。嚴重下GI可用methylprednisolone 2 mg/kg/day，依反應漸減，避免一開始過量或過快停藥。腸道局部類固醇不能取代重症全身治療。</p><p>足量類固醇約3天惡化或5–7天不改善提示難治；定義依試驗／方案。救援前重評感染、診斷與藥物吸收。Ruxolitinib有REACH2支持，但試驗劑量不等於每位病人起始劑量，須依血球、肝腎、azole及當地仿單調整。ECP、MSC等按器官、年齡及可及性。監測CBC、病毒、黴菌、營養、電解質、血糖與類固醇毒性。</p><p><b>追問：</b>「腹瀉改善但bilirubin升高算反應嗎？」分器官與整體看，確認是否新器官進展；「何時需ICU？」低血壓、低氧、ileus／出血、器官衰竭立即升級。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608233/">EBMT第43章</a></article><article id="deep-cgvhd"><h2>cGVHD進階：診斷、NIH嚴重度與器官追蹤</h2><p>至少一項diagnostic manifestation，或distinctive manifestation加適當組織／實驗／影像支持，並排除其他病因。例：皮膚硬化、poikiloderma、口腔lichen-planus-like等屬診斷性表現；單純口乾眼乾、紅疹或肝酵素升高不能各自直接確診。Overlap指慢性GVHD合併急性表現。</p><table><caption>NIH 2014／EBMT全身嚴重度整理</caption><tr><th>輕度</th><td>1–2器官，各≤1分，肺0分</td></tr><tr><th>中度</th><td>≥3器官各1分，或任一非肺器官2分，或肺1分；無重度條件</td></tr><tr><th>重度</th><td>任一器官3分，或肺2–3分</td></tr></table><p>歸因很重要：區分活動性發炎、固定纖維化、感染與其他原因造成的功能下降。每次追蹤皮膚範圍／硬化、關節活動、口眼、生殖器、體重、肝功能與肺功能，記錄患者回報症狀及功能。</p><p><b>BOS：</b>NIH框架包括FEV1/VC&lt;0.7或年齡正常下限、FEV1&lt;75% predicted且兩年內下降≥10%、排除呼吸道感染，及依情境加入呼氣CT air trapping／小氣道改變或肺容積支持。只有肺受累與臨床試驗納入時的病理要求另核對完整準則；不能把所有限制性肺病或OP叫BOS。早期FEV1下滑就需重評，不等到明顯喘。</p><p>局限輕症可局部治療；中重症通常討論全身prednisone約0.5–1 mg/kg/day等方案與漸減。類固醇失敗後依器官、感染、血球、共病及可及性選ruxolitinib、ECP或其他標靶，說明適應線別而非「全部二線」。支持照護包含PJP／適當抗病毒與抗黴菌預防、疫苗時機、IgG／感染評估、骨骼保護、復健、營養、眼口與生殖器照護、皮膚及口腔癌篩檢。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608236/table/ch44.Taba/">EBMT嚴重度原表</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4329079/">NIH完整診斷／BOS準則</a></article><article id="deep-es"><h2>Engraftment syndrome進階：時間關係與排除診斷</h2><p>記錄發燒、紅疹、低氧與ANC回升的實際日期，且不把「ANC達500」當病因證據。Spitzer、Maiolino、Grant時窗與條件不同；auto常用較敏感Maiolino，allo需更嚴格排GVHD。臍血pre-engraftment syndrome可早於植入，不能硬套同一時間窗。</p><p>最重要鑑別：敗血症、肺炎／黴菌、心衰／液體過負荷、藥疹、DAH、IPS、SOS與早期GVHD。採培養、乳酸、血球與肝腎、液體平衡、胸部影像；按狀態考慮心臟評估或BAL，不為了檢查延誤抗生素與呼吸支持。</p><p>疑ES停G-CSF，給經驗性抗感染及氧氣／謹慎控液。臨床支持時使用類固醇；原書方案methylprednisolone 1 mg/kg每12小時3天後約一週遞減屬參考，不是所有病人固定處方。每天以氧氣需求、體重、皮疹及器官功能追蹤；48–72小時未改善或惡化時重開鑑別，不能只加類固醇。</p><a href="chapters/42.pdf">EBMT第42章：三套ES診斷標準比較</a></article><article id="deep-sos"><h2>SOS/VOD進階：確定度與嚴重度分開回答</h2><table><caption>EBMT 2024表49.2／2023成人分類中文整理</caption><tr><th>Probable</th><td>以下≥2項：bilirubin≥2 mg/dL、痛性肝腫大、體重&gt;5%、腹水、超音波／彈性影像提示SOS</td></tr><tr><th>Clinical</th><td>bilirubin≥2 mg/dL，加痛性肝腫大、體重&gt;5%、腹水中≥2項</td></tr><tr><th>Proven</th><td>組織證實或血流動力證實（原EBMT表HVPG≥10 mmHg）</td></tr><tr><th>時機與排除</th><td>≤21天經典型，&gt;21天晚發型；症狀不可由其他原因較合理解釋。成人兒童標準勿混用</td></tr></table><p>HVPG需配合基礎肝病及所採指引解讀，不把它當所有肝病的通用診斷線。嚴重度則依發作速度、bilirubin及倍增、transaminase、體重、腎功能與MOD，與probable／clinical／proven是不同軸。</p><p>每日監測體重、腹圍、輸入輸出、尿量、肝腎、氧合與血小板輸注需求；做Doppler／必要時彈性影像並排敗血症、心衰、藥物、GVHD與肝靜脈阻塞。兒童可無黃疸且輸血難治血小板低是重要線索，不能等待成人bilirubin門檻。</p><p>維持灌流、避免腎毒性、謹慎控液／利尿與呼吸腎臟支持；EBMT建議中度也及早啟動defibrotide評估，不必等嚴重MOD。常見總劑量25 mg/kg/day分每6小時，至少21天並依症狀延長；注意出血、抗凝／溶栓併用與當地仿單。Ursodeoxycholic acid用於預防，不是已發SOS的defibrotide替代品；defibrotide預防不可普遍套所有高風險患者。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608328/table/ch49.Tab2/">診斷原表49.2</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608328/table/ch49.Tab3/">嚴重度原表49.3</a></article><article id="deep-cmv"><h2>CMV進階：預防、DNAemia、器官病與難治</h2><p>先說R／D serostatus、預防藥、免疫抑制與器官症狀，再區分感染、DNAemia、clinically significant infection及end-organ disease。CMV R+ allo-HCT可用letermovir，day0–28開始、不必等植入；高風險晚期感染可延day200。通常至少每週PCR，高風險／異常動態依方案加密；停預防後繼續監測。Letermovir沒有HSV/VZV保護。</p><p><b>PCR追問：</b>固定檢體種類和測定平台，不能把copies與IU／plasma與whole blood互換。PET起始閾值依風險與中心，低量單次blip先看動態與臨床，不機械性停藥。腹瀉CMV可血PCR陰性，腸鏡病理／IHC等有價值；BAL PCR陽性可為shedding，肺炎需症狀、影像、微生物與適當病理證據綜合。</p><table><tr><th>藥物</th><th>口試須交代的取捨</th></tr><tr><td>Ganciclovir／valganciclovir</td><td>骨髓抑制、腎功能劑量；嚴重病、吸收不可靠偏IV</td></tr><tr><td>Foscarnet</td><td>血球低時可考慮；腎毒性、電解質與輸液監測</td></tr><tr><td>Maribavir</td><td>R/R重要選項；UL97機轉、味覺異常與交互作用；不與(val)ganciclovir合用；CNS／retinitis慎選</td></tr><tr><td>Letermovir</td><td>預防而非標準活動性CMV治療；與CSA等交互作用及劑量調整</td></tr></table><p>治療反應不佳先核對足量、腎調整、依從、吸收、病毒量動態及感染部位；refractory是臨床／病毒反應定義，resistant需要基因／表型證據，不能畫等號。充分治療仍持續或上升時依共識評估抗藥檢測，檢測未回報但病人惡化不能原地等待。完成治療依臨床及連續病毒學結果，持續高風險可評估二級預防與CMV特異免疫，必要時細胞治療由專門中心評估。</p><a href="https://doi.org/10.1016/j.jtct.2025.06.025">ASTCT 2025更新指引（與2024 Handbook分列）</a></article></section><section id="personal-tools" aria-label="個人編輯工具"><b>我的口試教材</b><button type="button" id="edit-toggle">開始編輯</button><select id="highlight-color" aria-label="螢光顏色"><option value="#fff59d">黃色</option><option value="#b9f6ca">綠色</option><option value="#ffccdf">粉紅</option></select><button type="button" id="highlight-add">標記選取文字</button><button type="button" id="highlight-remove">移除目前標記</button><button type="button" id="note-add">新增內容卡</button><button type="button" id="image-add">添加圖片到目前卡片</button><input hidden type="file" id="image-file" accept="image/png,image/jpeg,image/webp"><button type="button" id="personal-save">儲存</button><button type="button" id="personal-export">匯出備份</button><button type="button" id="personal-import">匯入備份</button><input hidden type="file" id="personal-import-file" accept="application/json"><button type="button" id="personal-reset">還原網站原文</button><p id="personal-status" role="status">點選內容卡後可編輯或加入圖片。資料僅存在此瀏覽器，不會回寫GitHub；跨裝置請匯出／匯入。圖片會縮小壓縮，請勿加入可識別病人資訊。</p></section>
+<details><summary>考官：CAR-T後39°C、低血壓須一種升壓劑、ICE 2分？</summary><p>感染與CRS同步處理、評估ICU；一種升壓劑（可加vasopressin）的需求至少符合ASTCT CRS grade3，仍需依氧合取較高級；不是grade2。ICE2可符合ICANS grade3，但需再評估意識、癲癇、運動與顱壓／腦水腫，以最嚴重項目定級。Tocilizumab針對CRS，孤立ICANS核心為類固醇及神經支持，不用tocilizumab取代；併發CRS時可同時處理。實際劑量按產品、嚴重度及中心指引，不讓「所有發燒都是CRS」延誤敗血症治療。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608314/table/ch60.Tab3/">EBMT表60.3（含不同CRS系統，須確認ASTCT欄）</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK584157/">EBMT/EHA ICANS章</a></details></article><article id="rapid" data-cat="mock-exam" data-badge="伍 · 30分鐘模擬口試"><h2>28–30分鐘｜六題快問快答與自評</h2><ol><li>沒有MSD就不能移植？→否，依時間、DSA、供者年齡與平台評估替代供者。</li><li>FLT3-ITD＋NPM1一定adverse？→否，需完整ELN2022遺傳分類。</li><li>腹瀉1200 mL/day的aGVHD overall II？→否，下GI stage2使overall至少III。</li><li>ES對類固醇不快速改善？→重評感染、GVHD及其他器官病變。</li><li>CMV PCR陽性就是器官疾病？→否，需器官證據與臨床脈絡。</li><li>SAA無MSD一定只能horse ATG＋CSA＋eltrombopag？→否，須依年齡、嚴重度、替代供者、感染及中心策略討論IST與移植。</li></ol><p><b>每題自評0–2分：</b>明確結論、必要補問、正確分級、危急處置、治療取捨、重評／救援、來源與版本。0=沒說；1=提到；2=能說明為何。這是練習量表，不是官方及格標準。每次錄音，找出最常漏掉的兩項重練。</p><p><b>最後一句：</b>「我的首選是……；如果補充資料顯示……，我會改成……，並以……監測結果。」不要每題都機械回答Yes/No；資料不足時先指出會改變決策的資訊，再給條件式結論。</p></article>
+  </section>
+
+  <!-- DOM Order 4: card-16 .. card-20 (Visual Order 4: 參 · 五大併發症深度口試) -->
+  <section id="group-comp-deep" class="cat-group" data-group-cat="complications">
+    <div class="group-banner" id="advanced-five">
+      <div class="group-step">MODULE 03-B · ADVANCED COMPLICATIONS DEEP DIVE</div>
+      <h2>參（下）· 五大併發症深度口試：診斷標準、二線救援與抗藥處理</h2>
+      <p>深入考官第二、三層追問：SR-aGVHD 二線、cGVHD/BOS 新藥、ES 三套標準、SOS 2023 確定度 vs 嚴重度、R/R CMV Maribavir 取捨。</p>
+    </div>
+    <article id="deep-agvhd" data-cat="complications" data-badge="參 · 五大併發症深度追問"><h2>aGVHD進階：如何分級、起始治療與判定失敗</h2><p><b>口述：</b>「先確認受累器官與每日stage，排感染／藥物傷害，再依最嚴重器官給overall grade。Day100不能單獨區分急慢性；late acute有急性表現但沒有慢性診斷特徵。」</p><p>皮膚鑑別藥疹、病毒；腹瀉鑑別C. difficile、其他腸道病原、CMV與MMF毒性；黃疸鑑別SOS、敗血症、膽道及藥物。取得有代表性的皮膚／GI切片，重症治療與檢查並行。陰性或非特異切片不能單獨排除。</p><p>僅輕度皮膚可局部治療；grade II–IV通常需全身類固醇，但孤立上GI／低風險情境可用較低劑量，不能所有病例一律2 mg/kg。嚴重下GI可用methylprednisolone 2 mg/kg/day，依反應漸減，避免一開始過量或過快停藥。腸道局部類固醇不能取代重症全身治療。</p><p>足量類固醇約3天惡化或5–7天不改善提示難治；定義依試驗／方案。救援前重評感染、診斷與藥物吸收。Ruxolitinib有REACH2支持，但試驗劑量不等於每位病人起始劑量，須依血球、肝腎、azole及當地仿單調整。ECP、MSC等按器官、年齡及可及性。監測CBC、病毒、黴菌、營養、電解質、血糖與類固醇毒性。</p><p><b>追問：</b>「腹瀉改善但bilirubin升高算反應嗎？」分器官與整體看，確認是否新器官進展；「何時需ICU？」低血壓、低氧、ileus／出血、器官衰竭立即升級。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608233/">EBMT第43章</a></article><article id="deep-cgvhd" data-cat="complications" data-badge="參 · 五大併發症深度追問"><h2>cGVHD進階：診斷、NIH嚴重度與器官追蹤</h2><p>至少一項diagnostic manifestation，或distinctive manifestation加適當組織／實驗／影像支持，並排除其他病因。例：皮膚硬化、poikiloderma、口腔lichen-planus-like等屬診斷性表現；單純口乾眼乾、紅疹或肝酵素升高不能各自直接確診。Overlap指慢性GVHD合併急性表現。</p><table><caption>NIH 2014／EBMT全身嚴重度整理</caption><tr><th>輕度</th><td>1–2器官，各≤1分，肺0分</td></tr><tr><th>中度</th><td>≥3器官各1分，或任一非肺器官2分，或肺1分；無重度條件</td></tr><tr><th>重度</th><td>任一器官3分，或肺2–3分</td></tr></table><p>歸因很重要：區分活動性發炎、固定纖維化、感染與其他原因造成的功能下降。每次追蹤皮膚範圍／硬化、關節活動、口眼、生殖器、體重、肝功能與肺功能，記錄患者回報症狀及功能。</p><p><b>BOS：</b>NIH框架包括FEV1/VC&lt;0.7或年齡正常下限、FEV1&lt;75% predicted且兩年內下降≥10%、排除呼吸道感染，及依情境加入呼氣CT air trapping／小氣道改變或肺容積支持。只有肺受累與臨床試驗納入時的病理要求另核對完整準則；不能把所有限制性肺病或OP叫BOS。早期FEV1下滑就需重評，不等到明顯喘。</p><p>局限輕症可局部治療；中重症通常討論全身prednisone約0.5–1 mg/kg/day等方案與漸減。類固醇失敗後依器官、感染、血球、共病及可及性選ruxolitinib、ECP或其他標靶，說明適應線別而非「全部二線」。支持照護包含PJP／適當抗病毒與抗黴菌預防、疫苗時機、IgG／感染評估、骨骼保護、復健、營養、眼口與生殖器照護、皮膚及口腔癌篩檢。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608236/table/ch44.Taba/">EBMT嚴重度原表</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4329079/">NIH完整診斷／BOS準則</a></article><article id="deep-es" data-cat="complications" data-badge="參 · 五大併發症深度追問"><h2>Engraftment syndrome進階：時間關係與排除診斷</h2><p>記錄發燒、紅疹、低氧與ANC回升的實際日期，且不把「ANC達500」當病因證據。Spitzer、Maiolino、Grant時窗與條件不同；auto常用較敏感Maiolino，allo需更嚴格排GVHD。臍血pre-engraftment syndrome可早於植入，不能硬套同一時間窗。</p><p>最重要鑑別：敗血症、肺炎／黴菌、心衰／液體過負荷、藥疹、DAH、IPS、SOS與早期GVHD。採培養、乳酸、血球與肝腎、液體平衡、胸部影像；按狀態考慮心臟評估或BAL，不為了檢查延誤抗生素與呼吸支持。</p><p>疑ES停G-CSF，給經驗性抗感染及氧氣／謹慎控液。臨床支持時使用類固醇；原書方案methylprednisolone 1 mg/kg每12小時3天後約一週遞減屬參考，不是所有病人固定處方。每天以氧氣需求、體重、皮疹及器官功能追蹤；48–72小時未改善或惡化時重開鑑別，不能只加類固醇。</p><a href="chapters/42.pdf">EBMT第42章：三套ES診斷標準比較</a></article><article id="deep-sos" data-cat="complications" data-badge="參 · 五大併發症深度追問"><h2>SOS/VOD進階：確定度與嚴重度分開回答</h2><table><caption>EBMT 2024表49.2／2023成人分類中文整理</caption><tr><th>Probable</th><td>以下≥2項：bilirubin≥2 mg/dL、痛性肝腫大、體重&gt;5%、腹水、超音波／彈性影像提示SOS</td></tr><tr><th>Clinical</th><td>bilirubin≥2 mg/dL，加痛性肝腫大、體重&gt;5%、腹水中≥2項</td></tr><tr><th>Proven</th><td>組織證實或血流動力證實（原EBMT表HVPG≥10 mmHg）</td></tr><tr><th>時機與排除</th><td>≤21天經典型，&gt;21天晚發型；症狀不可由其他原因較合理解釋。成人兒童標準勿混用</td></tr></table><p>HVPG需配合基礎肝病及所採指引解讀，不把它當所有肝病的通用診斷線。嚴重度則依發作速度、bilirubin及倍增、transaminase、體重、腎功能與MOD，與probable／clinical／proven是不同軸。</p><p>每日監測體重、腹圍、輸入輸出、尿量、肝腎、氧合與血小板輸注需求；做Doppler／必要時彈性影像並排敗血症、心衰、藥物、GVHD與肝靜脈阻塞。兒童可無黃疸且輸血難治血小板低是重要線索，不能等待成人bilirubin門檻。</p><p>維持灌流、避免腎毒性、謹慎控液／利尿與呼吸腎臟支持；EBMT建議中度也及早啟動defibrotide評估，不必等嚴重MOD。常見總劑量25 mg/kg/day分每6小時，至少21天並依症狀延長；注意出血、抗凝／溶栓併用與當地仿單。Ursodeoxycholic acid用於預防，不是已發SOS的defibrotide替代品；defibrotide預防不可普遍套所有高風險患者。</p><a href="https://www.ncbi.nlm.nih.gov/books/NBK608328/table/ch49.Tab2/">診斷原表49.2</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK608328/table/ch49.Tab3/">嚴重度原表49.3</a></article><article id="deep-cmv" data-cat="complications" data-badge="參 · 五大併發症深度追問"><h2>CMV進階：預防、DNAemia、器官病與難治</h2><p>先說R／D serostatus、預防藥、免疫抑制與器官症狀，再區分感染、DNAemia、clinically significant infection及end-organ disease。CMV R+ allo-HCT可用letermovir，day0–28開始、不必等植入；高風險晚期感染可延day200。通常至少每週PCR，高風險／異常動態依方案加密；停預防後繼續監測。Letermovir沒有HSV/VZV保護。</p><p><b>PCR追問：</b>固定檢體種類和測定平台，不能把copies與IU／plasma與whole blood互換。PET起始閾值依風險與中心，低量單次blip先看動態與臨床，不機械性停藥。腹瀉CMV可血PCR陰性，腸鏡病理／IHC等有價值；BAL PCR陽性可為shedding，肺炎需症狀、影像、微生物與適當病理證據綜合。</p><table><tr><th>藥物</th><th>口試須交代的取捨</th></tr><tr><td>Ganciclovir／valganciclovir</td><td>骨髓抑制、腎功能劑量；嚴重病、吸收不可靠偏IV</td></tr><tr><td>Foscarnet</td><td>血球低時可考慮；腎毒性、電解質與輸液監測</td></tr><tr><td>Maribavir</td><td>R/R重要選項；UL97機轉、味覺異常與交互作用；不與(val)ganciclovir合用；CNS／retinitis慎選</td></tr><tr><td>Letermovir</td><td>預防而非標準活動性CMV治療；與CSA等交互作用及劑量調整</td></tr></table><p>治療反應不佳先核對足量、腎調整、依從、吸收、病毒量動態及感染部位；refractory是臨床／病毒反應定義，resistant需要基因／表型證據，不能畫等號。充分治療仍持續或上升時依共識評估抗藥檢測，檢測未回報但病人惡化不能原地等待。完成治療依臨床及連續病毒學結果，持續高風險可評估二級預防與CMV特異免疫，必要時細胞治療由專門中心評估。</p><a href="https://doi.org/10.1016/j.jtct.2025.06.025">ASTCT 2025更新指引（與2024 Handbook分列）</a></article>
+  </section>
+
+  <!-- DOM Order 5: card-21 .. card-22 (Visual Order 0: ★ 考前必背總表) -->
+  <section id="group-cram" class="cat-group" data-group-cat="cram-cheat">
+    <div class="group-banner">
+      <div class="group-step">MODULE 00 · EXAM-DAY GOLDEN CHEAT SHEETS</div>
+      <h2>★ 考前必背懶人總表：黃金六句開場、常考硬數字與早期內皮急症五軸鑑別</h2>
+      <p>進考場前最後衝刺必看！濃縮全書最常被考官追問的關鍵切點、體重分母、分期門檻與防扣分但書。</p>
+    </div>
+    <article id="cram-opening-numbers" data-cat="cram-cheat" data-badge="考前必背總表">
+<h2>★ 黃金六句萬用開場、雙軌收尾公式與秒答硬數字速查表</h2>
+<div class="callout-box">
+<b>【前 30 秒定勝負：每題必用黃金六句開場】</b>
+<ol>
+<li><b>穩生命（ABC）</b>：「我先確認患者是否有呼吸、循環或意識不穩，立即處理危急狀況並評估是否需 ICU 支援。」</li>
+<li><b>問背景（5 要素）</b>：「我會確認移植類型（Auto/Allo）、移植後時間（Day +N）、調理強度（MAC/RIC/TBI）、供者與幹細胞來源（MSD/MUD/Haplo、PB/BM），以及目前的免疫抑制與抗感染預防背景。」</li>
+<li><b>抓主診與鑑別</b>：「根據目前表現，最可能的診斷是 <b>【主診斷】</b>，但臨床上必須同步排除 <b>【感染、藥物毒性及其他內皮／器官併發症】</b>。」</li>
+<li><b>講標準與分期</b>：「我不會只靠單一檢驗或單純以『第 100 天』分界，而是用明確的 <b>【NIH / EBMT / ASTCT 診斷標準】</b> 逐一評估器官 Stage，再決定 Overall Grade 或嚴重度。」</li>
+<li><b>診治並行</b>：「檢查（培養、PCR、影像或切片）與必要的初始經驗性抗感染／支持治療同步進行，不因等待切片而延誤重症處置。」</li>
+<li><b>追療效與備案</b>：「我會每日以 <b>【具體指標】</b> 追蹤療效；若在 <b>【3–5 天／特定時限】</b> 惡化或無反應，除了啟動二線救援，也會重新檢視是否合併感染或需修正診斷。」</li>
+</ol>
+<p><b>【被逼問「到底選哪一個」的雙軌條件式收尾公式】</b><br>
+「綜合疾病復發風險與受者器官共病，<b>我的首選是 A 方案（理由：……）</b>；但在啟動前我會先確認 <b>【關鍵補問資訊：如 MRD、DSA、肝腎功能】</b>——如果結果顯示 <b>【條件 X】</b>，我會將策略改為 <b>【B 方案】</b>，並以 <b>【監測指標】</b> 追蹤結果。」</p>
+</div>
+<h3>考官最愛問的硬數字與防扣分但書（2024 EBMT Handbook 標準）</h3>
+<div class="table-wrap"><table>
+<thead><tr><th>類別與章節</th><th>考點項目</th><th>2024 EBMT 標準數值／切點</th><th>口試必補的「防扣分但書」</th></tr></thead>
+<tbody>
+<tr><td><b>採集與回輸</b><br><a href="chapters/15.pdf">Ch15</a>, <a href="chapters/16.pdf">16</a>, <a href="chapters/20.pdf">20</a></td><td>Auto PBSC 最低量<br>Allo PBSC 最低量<br>BM 採集目標 TNC<br>BM 最大採集體積<br>冷凍與解凍品管</td><td><b>≥ 2 × 10⁶</b> CD34+ cells/kg<br><b>≥ 4 × 10⁶</b> CD34+ cells/kg<br><b>≥ 3 × 10⁸</b> TNC/kg<br><b>≤ 20 mL/kg</b>（每次抽 2–5 mL 防稀釋）<br>5–10% DMSO，1–2°C/min 降溫，≤−140°C 氣相液態氮；解凍活性 <b>&gt;70%</b>，<b>20 分鐘內</b>輸完</td><td><b>體重分母絕不可搞反！</b>細胞劑量分母是<b>受者體重</b>；骨髓最大採集體積 20 mL/kg 分母是<b>供者體重</b>（供者安全優先，盡量避免異體輸血）。最低量不等於理想目標。</td></tr>
+<tr><td><b>輸血支持</b><br><a href="chapters/24.pdf">Ch24</a></td><td>RBC 輸血閾值<br>PLT 預防性輸血閾值<br>血品照射 vs 減白</td><td><b>Hb 7–8 g/dL</b>（穩定成人）<br><b>PLT ≤ 10 × 10⁹/L</b>（無出血、無發燒）<br><b>Irradiation（照射）</b>預防 TA-GVHD</td><td>發燒、感染、出血或侵入性處置需調高 PLT 閾值。<b>白血球去除（Leukoreduction）只能防 CMV 與發燒反應，絕對不能取代照射（Irradiation）預防致命的 TA-GVHD！</b></td></tr>
+<tr><td><b>GVHD 預防</b><br><a href="chapters/26.pdf">Ch26</a></td><td>CSA 傳統劑量與濃度<br>短程 MTX 時程</td><td>CSA <b>3 mg/kg/day IV</b> 至植入改口服（原表目標 150–200 ng/mL）<br>MTX：<b>Day +1 15 mg/m²</b>；<b>Day +3, +6, +11 10 mg/m²</b></td><td>若發生 <b>Grade III/IV 嚴重黏膜炎、嚴重肝腎異常或大量第三空間積液（腹水／胸水）</b>，<b>Day +11 MTX 可省略</b>。停用 Azole 時 CNI 濃度會下降，開始與停用皆須 TDM！</td></tr>
+<tr><td><b>aGVHD 分期</b><br><a href="chapters/43.pdf">Ch43</a></td><td>Skin Stage 1/2/3/4<br>Liver Bil (mg/dL)<br>Lower GI 腹瀉量<br>Overall Grade 判定</td><td><b>&lt;25%</b> / <b>25–50%</b> / <b>&gt;50%</b> / <b>紅皮+水疱脫皮&gt;5%</b><br><b>2–3</b> / <b>3.1–6</b> / <b>6.1–15</b> / <b>&gt;15</b><br><b>500–999</b> / <b>1000–1500</b> / <b>&gt;1500 mL/d</b> / <b>嚴重腹痛±Ileus或肉眼血便</b></td><td><b>Overall Grade 取最嚴重器官</b>：Grade I = 僅 Skin 1–2；Grade II = Skin 3 或 Liver 1 / GI 1；<b>Grade III = Liver 2–3 或 Lower GI 2–3（腹瀉 ≥1000 mL 即至少 Grade III！）</b>；Grade IV = 任一器官 Stage 4。</td></tr>
+<tr><td><b>cGVHD 與 BOS</b><br><a href="chapters/44.pdf">Ch44</a>, <a href="chapters/52.pdf">52</a></td><td>NIH 全身嚴重度<br>BOS 肺功能準則</td><td>• <b>Mild</b>：1–2 器官各 ≤1 分，且 <b>Lung 0 分</b><br>• <b>Moderate</b>：≥3 器官 1 分、任一非肺 2 分、或 <b>Lung 1 分</b><br>• <b>Severe</b>：任一器官 3 分、或 <b>Lung 2–3 分</b><br>• <b>BOS</b>：FEV1/VC &lt;0.7、FEV1 &lt;75% 且 2 年內降 ≥10%、排感染、呼氣 CT air trapping</td><td><b>肺部權重極高</b>：Lung 1 分全身即至少 Moderate；Lung 2 分直接 Severe！<br>不可把所有限制性肺病（OP/ILD/IPS）都叫 BOS。</td></tr>
+<tr><td><b>SOS/VOD 與 ES</b><br><a href="chapters/42.pdf">Ch42</a>, <a href="chapters/49.pdf">49</a></td><td>SOS 2023 分類與治療<br>ES Spitzer 標準</td><td>• <b>Clinical SOS</b>：Bil ≥2 + ≥2 項（痛性肝腫大、體重 &gt;5%、腹水）；<b>Probable</b> 含超音波/彈性影像異常滿 2 項<br>• <b>Defibrotide</b>：<b>6.25 mg/kg q6h IV（25 mg/kg/d）</b> ≥21 天<br>• <b>Spitzer ES</b>：植入前後 96h 內 3 主或 2 主+1 次；<b>MP 1 mg/kg q12h × 3d</b> 後漸減</td><td>SOS 的「確定度（Probable/Clinical/Proven）」與「嚴重度（看倍增速度、腎、MOD）」兩軸分開講！兒童與遲發型可無黃疸（常伴難治血小板消耗）。ES 若類固醇 48–72h 未快速改善，必須重查感染與 aGVHD！</td></tr>
+</tbody></table></div>
+</article><article id="cram-endothelial-diff" data-cat="cram-cheat" data-badge="考前必背總表">
+<h2>★ 早期內皮併發症與植入期急症：五軸橫向鑑別表</h2>
+<p>當考官給出「<b>移植後 Day +10～+25 發燒、喘、體重增加、黃疸或血球下降</b>」時，口試必須同時拉出以下五條軸線，證明具備系統性鑑別能力：</p>
+<div class="table-wrap"><table>
+<thead><tr><th>症候群</th><th>核心機轉與時窗</th><th>最具鑑別力的臨床線索</th><th>關鍵檢查與排除</th><th>第一線核心處置（皆須同步經驗性抗感染）</th></tr></thead>
+<tbody>
+<tr><td><b>1. 敗血症／肺炎</b><br><a href="chapters/35.pdf">Ch35</a>–<a href="chapters/38.pdf">38</a></td><td>黏膜屏障受損、中性球低下或免疫抑制期病原侵入</td><td>畏寒、血壓不穩、局部感染灶；可與任何內皮症候群共病</td><td>雙套血培養、痰／BAL、CT、G-test/GM、病毒 PCR</td><td><b>立即廣效抗綠膿桿菌 β-lactam</b>（依抗藥風險 escalation 或 de-escalation），絕不為等檢查而延誤抗生素！</td></tr>
+<tr><td><b>2. 植入症候群 (ES/PES)</b><br><a href="chapters/42.pdf">Ch42</a></td><td>中性球恢復前後 96h（臍血 PES 可更早）細胞激素釋放與微血管滲漏</td><td>非感染性高燒、<b>皮疹 &gt;25% BSA</b>、<b>非心因性肺水腫／低氧</b>、體重增 &gt;2.5%</td><td>排除菌血症、心衰竭、容量過負荷與典型 aGVHD</td><td>停 G-CSF、氧氣與謹慎控液；臨床支持時給 <b>Methylprednisolone 1 mg/kg q12h IV × 3 天</b>後約一週遞減；48–72h 無效立即重評。</td></tr>
+<tr><td><b>3. SOS / VOD</b><br><a href="chapters/49.pdf">Ch49</a></td><td>調理（Inotuzumab、高量 BU、TBI）與異體反應致肝竇內皮損傷與阻塞</td><td><b>痛性肝腫大</b>、<b>體重增 &gt;5%</b>、<b>腹水</b>、Bilirubin ≥2（兒童／晚發可無黃疸）、<b>輸血難治性血小板消耗</b></td><td>肝臟 Doppler 超音波／彈性影像（SWE）；排除敗血症肝病、藥物肝毒性、心衰與肝靜脈阻塞</td><td>嚴格液體平衡維持腎灌流；中重度或快速進展及早給 <b>Defibrotide 25 mg/kg/day（6.25 mg/kg q6h IV）</b>至少 21 天（注意出血與抗凝藥）。</td></tr>
+<tr><td><b>4. TA-TMA</b><br><a href="chapters/42.pdf">Ch42</a></td><td>CNI/Sirolimus、GVHD、病毒感染共同造成微血管內皮損傷與<b>補體替代路徑活化</b></td><td><b>不能等大量 Schistocytes！</b>看 <b>LDH 上升</b>、<b>新發或難控高血壓</b>、<b>蛋白尿（UPCR）</b>、腎功能惡化、溶血與血小板下降、<b>sC5b-9 上升</b></td><td>凝血功能排除 DIC；必要時測 ADAMTS13 排除典型 TTP；Coombs test 排除自體免疫溶血</td><td>積極控血壓、治療誘發感染與 GVHD、審慎調整／轉換致病 CNI（勿盲目全停致 GVHD 失控）；高風險器官損傷評估<b>補體抑制劑（如 Eculizumab）</b>（常規 TPE 效果不佳）。</td></tr>
+<tr><td><b>5. 急性 GVHD</b><br><a href="chapters/43.pdf">Ch43</a></td><td>供者活化 T 細胞辨識受者組織抗原並攻擊皮膚、腸道、肝臟</td><td>斑丘疹、大量水樣腹瀉（或嚴重腹痛／血便）、膽紅素上升</td><td>皮膚或內視鏡切片（同步排 CMV 腸炎、C. diff、MMF 毒性），<b>重症不等待切片報告</b></td><td>Grade II–IV 給予全身類固醇（如 <b>Methylprednisolone 2 mg/kg/day</b>，孤立上 GI／輕度可 1 mg/kg/d），維持適當預防藥濃度。</td></tr>
+</tbody></table></div>
+</article>
+  </section>
+
+  <!-- DOM Order 6: card-23 .. card-27 (Visual Order 2: 貳 · 幹細胞／植入／ABO／MRD／感染與疫苗) -->
+  <section id="group-stem" class="cat-group" data-group-cat="stem-support">
+    <div class="group-banner">
+      <div class="group-step">MODULE 02 · STEM CELL MOBILIZATION, ENGRAFTMENT, ABO, MRD/DLI &amp; INFECTION</div>
+      <h2>貳 · 幹細胞動員、植入失敗 vs PGF、ABO 不合、MRD/DLI 與感染疫苗（補齊必讀）</h2>
+      <p>完整補齊原「下一層必讀」之五大臨床實務主題：Plerixafor 搶救、PGF vs Rejection、ABO 三型過渡期輸血口訣、DLI 2.0 與疫苗 24-12-8 鐵律。</p>
+    </div>
+    <article id="gap-mobilization" data-cat="stem-support" data-badge="補齊必讀：幹細胞與植入">
+<h2>11. 動員失敗（Poor Mobilizer）與採集品管：Plerixafor 何時出手？</h2>
+<p><b>90秒口試回答：</b>「我會從<b>動員前風險預測、動員中周邊血 CD34+ 即時監測、以及搶救性 Plerixafor（Preemptive / Just-in-time）</b>三層回答。首先確認採集目標：單次自體移植最低門檻為 <b>≥2 × 10⁶ CD34+ cells/kg（受者體重）</b>，若為多發性骨髓瘤規劃 Tandem auto-HCT 則需加倍儲備；異體 PBSC 則為 <b>≥4 × 10⁶ CD34+ cells/kg</b>。高風險動員不良因子包含高齡、曾接受多線化療、暴露過 Melphalan、Fludarabine、長時間 Lenalidomide（建議 3–4 療程內先收幹細胞）、廣泛骨髓侵犯或骨盆放射治療。</p>
+<p>在 Steady-state G-CSF（10 µg/kg/day）動員第 4 天，或化療動員（Chemotherapy + G-CSF）後白血球回升時，我會以<b>周邊血（PB）CD34+ 細胞計數</b>決定時機。若 PB CD34+ <b>&lt;10–20 cells/µL</b>，或第一天 Apheresis 採集量未達總目標的一半，我不會被動等待失敗，而會立即於<b>當晚（隔日採集前約 8–11 小時）加上 CXCR4 拮抗劑 Plerixafor 0.24 mg/kg SC</b>（若腎功能不全 CrCl ≤50 mL/min 需減量至 0.16 mg/kg），隔天早上繼續 G-CSF 並進行採集。」</p>
+<details><summary>考官追問：如果加了 Plerixafor 還是收不夠，或骨髓採集時體重差很多怎麼算？</summary>
+<ul>
+<li><b>動員失敗的下一步</b>：先確認雙腔採集血管通路流速與分離機設定、評估是否可進行大體積白血球分離（Large-volume leukapheresis）；若首次動員仍不足，讓骨髓休息數週後，可改用<b>化療動員（Chemotherapy + G-CSF）合併 Plerixafor</b>，或於特定情境評估骨髓採集（BM harvest）。</li>
+<li><b>骨髓採集的兩個體重分母（必考陷阱！）</b>：骨髓採集目標是 <b>≥3 × 10⁸ TNC/kg『受者體重』</b>（每次穿刺抽吸僅 2–5 mL 以避免周邊血稀釋）；但最大安全採集體積上限是 <b>≤20 mL/kg『供者體重』</b>！當瘦小供者捐給高體重受者時，必須以供者安全上限為優先，並配合自體儲血或鐵劑支持，盡量避免讓健康供者接受異體輸血。</li>
+<li><b>冷凍與回輸品管</b>：採集後若需冷凍，應在 72 小時內（理想 &lt;48 小時）以 5–10% DMSO、控制速率 1–2°C/min 降溫並存於 ≤−140°C 氣相液態氮，且須留存同條件保管的參考小管（Reference vial）檢驗解凍後有核細胞活性（標準 &gt;70%）；床邊解凍後須於 <b>20 分鐘內</b>完成回輸以防 DMSO 細胞毒性。</li>
+</ul></details>
+<a href="chapters/15.pdf">EBMT第15章：骨髓採集</a> · <a href="chapters/16.pdf">第16章：成人動員與採集</a> · <a href="chapters/17.pdf">第17章：兒童動員與Donor Advocate</a> · <a href="chapters/20.pdf">第20章：冷凍與品管</a>
+</article><article id="gap-graft-failure" data-cat="stem-support" data-badge="補齊必讀：幹細胞與植入">
+<h2>12. 植入失敗（Graft Failure / Rejection）vs. 移植物功能不良（Poor Graft Function）</h2>
+<p><b>90秒口試回答：</b>「當異體移植後出現持續血球低下，我第一時間會先區分 <b>Primary Graft Failure、Secondary Graft Failure 與 Poor Graft Function（PGF）</b>，因為三者的免疫機轉與治療方向完全不同！關鍵在於結合<b>血球計數、骨髓細胞密度、疾病 MRD，以及全血與分系（Lineage-specific：CD3+ T 細胞與 CD33+ 髓系）Chimerism</b>：</p>
+<p>若超過 Day +28（臍血為 Day +42）仍未達成中性球與血小板植入，且<b>缺乏供者嵌合（Donor Chimerism 極低或消失）</b>，屬於 <b>Primary Graft Failure</b>（若證實由受者殘存免疫如 T/NK 細胞或 DSA 排斥所致，即為 <b>Graft Rejection</b>）；若曾成功植入後又失去造血並<b>伴隨供者嵌合喪失</b>，為 <b>Secondary Graft Failure</b>。相反地，若病人持續二至三系血球低下、骨髓低細胞性、無原疾病復發，但 <b>Chimerism 顯示為完全供者嵌合（Full Donor Chimerism &gt;95%）</b>，則診斷為 <b>Poor Graft Function（PGF）</b>，這不是排斥，而是供者幹細胞在受損的骨髓微環境中長不好！」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>鑑別診斷</th><th>造血狀態与骨髓</th><th>Donor Chimerism</th><th>核心致病機轉</th><th>首選治療策略</th></tr></thead>
+<tbody>
+<tr><td><b>Graft Rejection / Failure</b></td><td>未植入或失去造血；骨髓空虛</td><td><b>喪失或極低／持續下滑</b>（受者細胞佔優勢）</td><td>細胞劑量不足、<b>DSA 抗供者抗體</b>、HLA 不合、RIC/NMA 免疫抑制不足、TCD 移植物</td><td>評估殘存嵌合趨勢；若為真正排斥，需規劃<b>第二次異體移植（Second Allo-HCT）</b>：重查 DSA、評估更換供者及具足夠免疫抑制的前處理。</td></tr>
+<tr><td><b>Poor Graft Function (PGF)</b></td><td>二／三系血球低下；骨髓低細胞且無復發</td><td><b>Full Donor Chimerism（&gt;95% 完全供者型）</b></td><td>骨髓微環境／內皮受損、<b>病毒感染（CMV、HHV-6、Parvovirus B19）</b>、<b>骨髓毒性藥物（Ganciclovir、TMP-SMX、MMF、Linezolid）</b>、GVHD、鐵過載、脾腫大</td><td>1. 停換骨髓抑制藥（如 CMV 改 Foscarnet/Maribavir）與治療病毒<br>2. G-CSF ＋ <b>TPO-RA（Eltrombopag / Romiplostim）</b><br>3. 若無效且原供者可行：給予<b>不需前處理的 CD34+-selected Stem-Cell Boost</b>（去除 T 細胞以免誘發 GVHD）。</td></tr>
+</tbody></table></div>
+<details><summary>考官追問：Mixed Chimerism（混合嵌合）一定代表要排斥或白血病復發嗎？</summary>
+<p>不一定！必須看<b>疾病類型、細胞系別與動態趨勢</b>：在<b>非惡性疾病（如地中海型貧血、鐮狀細胞病、部分先天免疫缺陷）</b>，使用 RIC/RTC 後常見穩定的混合嵌合（Stable mixed chimerism），只要供者紅血球或功能性細胞比例足以糾正臨床表型，就不需要為了追求 100% 嵌合而冒險輸注 DLI 製造 GVHD。但在<b>高風險惡性白血病</b>，若全血或特定系別（如 CD34+ / 髓系）供者嵌合快速下滑，則高度警示即將復發，需立即搭配疾病特異性 MRD 評估先發免疫介入（調降 IST 或 DLI）。</p>
+</details>
+<a href="chapters/21.pdf">EBMT第21章：植入與嵌合紀錄</a> · <a href="chapters/41.pdf">第41章：Graft Failure與PGF</a>
+</article><article id="gap-abo-transfusion" data-cat="stem-support" data-badge="補齊必讀：幹細胞與植入">
+<h2>13. 輸血支持與 ABO 不相合移植：Major / Minor / Bidirectional 秒答表</h2>
+<p><b>90秒口試回答：</b>「ABO 血型由第 9 號染色體決定，與第 6 號染色體的 HLA 獨立遺傳，因此 HLA 全合供者仍有約 30–50% 存在 ABO 不合。<b>ABO 不合不是異體移植的禁忌症</b>，但在移植物處理、溶血監測與轉換期血品選擇上，必須嚴格區分 <b>Major、Minor 與 Bidirectional mismatch</b>。此外，所有輸給移植受者的細胞性血品（RBC、血小板、粒細胞）都必須經過 <b>Irradiation（放射線照射，通常 25 Gy）</b>以預防致死性的 Transfusion-Associated GVHD；單純白血球過濾（Leukoreduction）只能減少 CMV 傳播與發燒反應，絕對不能取代照射！」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>ABO 不合類型</th><th>定義與經典例子</th><th>核心臨床風險與發作時點</th><th>移植物處理與臨床防治</th><th>轉換期（Phase II）輸血口訣</th></tr></thead>
+<tbody>
+<tr><td><b>Major Mismatch</b><br>（大不合）</td><td><b>受者血漿有抗體</b>對抗供者紅血球<br>例：<b>Donor A → Recipient O</b></td><td>1. 輸注時<b>急性血管內溶血</b>（若移植物含大量 RBC，如骨髓）<br>2. 紅血球系植入延遲（Delayed erythroid engraftment）與<b>純紅血球再生不良（PRCA）</b></td><td>• <b>BM 移植物須去紅血球（RBC depletion）</b>或受者術前降低高抗體效價；PBSC 含 RBC 少通常不需特別去紅血球<br>• 發生 PRCA 時：追蹤 isoagglutinin 效價、排除 Parvovirus B19、評估調降 CNI、EPO、Rituximab 或 Daratumumab</td><td>• <b>RBC 輸受者型（O 型）</b><br>• <b>PLT / 血漿輸供者型（A 型）</b>或 AB 型<br>（待受者抗 A 抗體消失且 DAT 陰性才轉為 A 型 RBC）</td></tr>
+<tr><td><b>Minor Mismatch</b><br>（小不合）</td><td><b>供者血漿／B 細胞</b>對抗受者紅血球<br>例：<b>Donor O → Recipient A</b></td><td>1. 輸注大量供者血漿引起溶血<br>2. <b>Passenger Lymphocyte Syndrome (PLS，過客淋巴球症候群)</b>：移植後 <b>Day +5～+15</b> 移植物內的供者記憶 B 細胞大量製造抗受者 RBC 抗體，引發<b>急性猛爆性延遲溶血</b>（PBSC、RIC、使用無 MTX 方案如 CNI+MMF 風險更高）</td><td>• 若移植物血漿體積大或供者抗體效價高，行<b>去血漿（Plasma reduction）</b><br>• <b>自 Conditioning 起即提早改輸供者型（O 型）RBC</b>，以減少受者型 A 抗原紅血球作為 PLS 標靶；Day +5–21 密集追蹤 Hb、LDH、Bilirubin、Haptoglobin 與 DAT</td><td>• <b>RBC 輸供者型（O 型）</b><br>• <b>PLT / 血漿輸受者型（A 型）</b>或 AB 型</td></tr>
+<tr><td><b>Bidirectional</b><br>（雙向不合）</td><td>受者與供者互有抗體<br>例：<b>Donor A → Recipient B</b></td><td>同時具備 Major（PRCA／急性溶血）與 Minor（PLS 延遲溶血）雙重風險</td><td>骨髓移植物需同時考量去紅血球與去血漿處理</td><td>• <b>RBC 一律輸 O 型</b><br>• <b>PLT / 血漿優先輸 AB 型</b></td></tr>
+</tbody></table></div>
+<p><b>考場一秒記憶口訣：</b>「在血型轉換過渡期，<b>紅血球（RBC）永遠遷就雙方抗體都不會打的（如 O 型）</b>；<b>血漿與血小板血漿（Plasma）永遠遷就雙方紅血球都有抗原、不會被抗體攻擊的（如 AB 型）</b>！」</p>
+<a href="chapters/24.pdf">EBMT第24章：輸血支持與ABO不相合表格</a>
+</article><article id="gap-mrd-dli" data-cat="stem-support" data-badge="補齊必讀：復發預防與DLI">
+<h2>14. 移植後 MRD 監測、維持／先發治療與 DLI 2.0 決策架構</h2>
+<p><b>90秒口試回答：</b>「移植後復發防治必須分成<b>三個層次（Prophylactic/Maintenance、Preemptive、Overt Relapse）</b>與<b>兩種互補工具（Chimerism 與疾病特異性 MRD）</b>。Chimerism 回答的是『造血細胞來自供者或受者』，而 MRD（多色 Flow、qPCR 融合基因／NPM1、或高敏感 NGS）回答的是『有無殘存白血病克隆』——<b>完整供者嵌合不能排除低量 MRD，而混合嵌合也不一定等於復發</b>。</p>
+<p>一旦發現 MRD 轉陽性或供者嵌合持續下滑（但形態學仍在緩解），這就是<b>先發治療（Preemptive therapy）的黃金窗口</b>！我會先確認結果可靠性（排除只反映年齡相關 Clonal Hematopoiesis 的單一 DTA 突變：<i>DNMT3A、TET2、ASXL1</i>），接著在無活動性 GVHD 下<b>謹慎調降免疫抑制劑（Taper IST）</b>，並依疾病加上標靶藥物（如 BCR::ABL1 TKI、FLT3 TKI）或去甲基化藥物（HMA），若仍持續或高危則銜接<b>劑量遞增型供者淋巴球輸注（Escalating-dose DLI）</b>。」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>介入層次</th><th>觸發條件</th><th>代表性臨床策略與實證</th><th>口試必提注意事項</th></tr></thead>
+<tbody>
+<tr><td><b>1. 預防／維持治療</b><br>(Prophylactic / Maintenance)</td><td>移植後處於 CR 且 <b>MRD 陰性</b>，但原疾病具高復發風險</td><td>• <b>FLT3-ITD AML</b>：Sorafenib（隨機試驗支持 OS 獲益）；Gilteritinib（MORPHO 試驗顯示<b>圍移植期 MRD 陽性者</b>顯著獲益）<br>• <b>Ph+ ALL</b>：Prophylactic TKI<br>• 高危 AML/MDS：低劑量 HMA 或 Prophylactic DLI（特定平台）</td><td>啟動前須確認造血已穩定植入、無活動性 GVHD 或未控感染，並嚴格注意與 <b>Azole 抗黴菌藥的 CYP3A4 交互作用及 QTc 延長</b>。</td></tr>
+<tr><td><b>2. 先發／搶先治療</b><br>(Preemptive Therapy)</td><td>形態學 CR，但<b>出現 MRD 陽性／上升</b>或<b>Donor Chimerism 持續下降</b></td><td>• 第一步：<b>快速但審慎調降 IST（Taper CNI）</b>誘發 GVL<br>• 第二步：結合標靶藥／HMA 與 <b>Preemptive DLI</b></td><td>低腫瘤負荷時 GVL 效果最佳！給 DLI 前若為 Haplo/不合移植，<b>務必先排除 Genomic HLA-loss</b>。</td></tr>
+<tr><td><b>3. 顯性復發治療</b><br>(Overt Relapse)</td><td>骨髓或髓外形態學復發（高腫瘤負荷）</td><td>• <b>不可單靠 DLI！</b>須先以化療、HMA + Venetoclax 或標靶藥<b>減瘤（Debulking）</b><br>• 達緩解後銜接 <b>DLI 或第二次異體移植（Second Allo-HCT）</b></td><td>若確診為 <b>Genomic HLA-loss 復發</b>，原供者 DLI 無效且僅增 GVHD，應更換為<b>能辨識殘留 HLA haplotype 的不同供者</b>進行二次移植（需與可逆的 Class II 表觀遺傳下調區分）。</td></tr>
+</tbody></table></div>
+<details><summary>考官追問：DLI 的起始 CD3+ T 細胞劑量怎麼定？能不能大家都打 1 × 10⁷/kg？</summary>
+<p><b>絕對不行！</b>DLI 的 GVHD 與無效風險高度取決於<b>① 供者相合度（MSD vs MUD vs Haplo）、② 距離移植的時間（越早期宿主 APC 與發炎環境越強，GVHD 風險極高）、③ 介入目的（預防 vs MRD 先發 vs 顯性復發）</b>。一般採取<b>劑量遞增策略（Escalating-dose regimen）</b>：Haplo 平台起始劑量最低（常由 1 × 10⁵ 至 1 × 10⁶ CD3+ cells/kg 起跳），MUD 次之（約 1 × 10⁶/kg），MSD 較高（約 1 × 10⁶ 至 1 × 10⁷/kg），觀察 4–6 週無 GVHD 且未達分子反應再逐步調升。新型 DLI 2.0 亦探索 CD45RA-depleted DLI（去除 naïve T 細胞以減低 GVHD）等策略。</p>
+</details>
+<a href="chapters/57.pdf">EBMT第57章：MRD監測</a> · <a href="chapters/58.pdf">第58章：藥物預防與治療復發</a> · <a href="chapters/59.pdf">第59章：DLI 2.0</a> · <a href="chapters/61.pdf">第61章：免疫逃脫與HLA-loss</a>
+</article><article id="gap-infection-vaccine" data-cat="stem-support" data-badge="補齊必讀：感染與疫苗">
+<h2>15. 抗感染預防時程、抗藥菌選藥與移植後疫苗接種（24-12-8 鐵律）</h2>
+<p><b>90秒口試回答：</b>「移植後感染風險跟隨<b>三個免疫缺陷階段（Pre-engraftment 中性球低下與黏膜受損期、Early post-engraftment 細胞免疫缺乏期、Late phase 慢性 GVHD 與體液／脾功能低下期）</b>動態演變，因此不能只看 ANC 正常就停預防藥。我的抗感染預防涵蓋<b>抗病毒（Acyclovir + CMV R+ 給 Letermovir + HBV 帶原或 Anti-HBc+ 給 Entecavir/TAF）、抗黴菌（依風險選 Fluconazole 或 Mold-active Azoles）、抗 PJP（TMP-SMX）以及晚期莢膜菌防護</b>。至於疫苗，不論自體或異體移植，術前抗體都會流失，必須按標準時程<b>全部重新接種</b>，並嚴格區分非活性疫苗與活性減毒疫苗的禁忌！」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>防護類別</th><th>核心策略與首選藥物</th><th>時程與轉換關鍵</th><th>考官最愛追問的陷阱</th></tr></thead>
+<tbody>
+<tr><td><b>細菌與 FN</b><br><a href="chapters/35.pdf">Ch35</a>, <a href="chapters/36.pdf">36</a></td><td>• FN 立即抽兩套血培養並給抗綠膿桿菌 β-lactam<br>• 依中心流行病學與定殖史選 Escalation 或 De-escalation</td><td>無明確感染、臨床穩定且退燒 ≥72h，可在嚴密監測下評估停經驗性抗生素</td><td><b>MDR 革蘭氏陰性菌選藥依酵素機轉</b>：ESBL 首選 Carbapenem；<b>KPC / OXA-48-like</b> 可選 Ceftazidime-avibactam（KPC 亦可選 Meropenem-vaborbactam）；但 <b>Metallo-β-lactamase (MBL，如 NDM) 單用 Ceftazidime-avibactam 無效</b>，需用 Ceftazidime-avibactam + Aztreonam 或 Cefiderocol！</td></tr>
+<tr><td><b>侵襲性黴菌與 PJP</b><br><a href="chapters/37.pdf">Ch37</a></td><td>• 低風險 Yeast-active：Fluconazole<br>• <b>高風險異體／GVHD 用類固醇期</b>：<b>Posaconazole / Voriconazole / Isavuconazole</b><br>• <b>PJP 首選</b>：<b>TMP-SMX</b></td><td>PJP 預防自植入後至少給 6 個月；<b>只要仍有 GVHD 或使用免疫抑制劑就不可停藥</b></td><td>1. <b>Voriconazole 對 Mucorales（毛黴菌）完全無效！</b>突破性感染懷疑 Mucormycosis 首選 <b>Liposomal Amphotericin B</b> 並清創。<br>2. TMP-SMX 同時提供 Toxoplasma 與部分 Nocardia／肺炎鏈球菌保護；若改用吸入 Pentamidine 則無肺外與弓漿蟲保護！<br>3. 開始或停用 Azoles 皆須調整 CNI、Sirolimus、Ruxolitinib、Venetoclax 劑量。</td></tr>
+<tr><td><b>病毒與 HBV</b><br><a href="chapters/38.pdf">Ch38</a>, <a href="chapters/49.pdf">49</a></td><td>• HSV/VZV：Acyclovir / Valacyclovir<br>• CMV R+ Allo：<b>Letermovir</b>（Day 0–28 至 Day 100/200）<br>• HBV：Entecavir / Tenofovir</td><td>HSV/VZV 預防至少 1 年（有 cGVHD/IST 則延長）；HBV 預防需長期維持（停 IST 後仍需延長至少 12 個月以上）</td><td>1. <b>Letermovir 無 HSV/VZV 活性，必併用 Acyclovir！</b><br>2. <b>HBsAg 陰性但 Anti-HBc 陽性（曾感染過 B 肝）</b>在異體移植與 Rituximab 下有極高反向血清轉換（Reverse seroconversion）再活化風險，必須預防或嚴密監測！</td></tr>
+<tr><td><b>移植後疫苗接種</b><br><a href="chapters/29.pdf">Ch29</a></td><td>• <b>非活性疫苗</b>（肺炎鏈球菌 PCV、流感、COVID-19、六合一/DTaP-IPV-Hib、B 肝、重組帶狀疱疹 Shingrix）<br>• <b>活性減毒疫苗</b>（MMR、活性水痘）</td><td>• 非活性疫苗：移植後 <b>3–6 個月</b>起按時程施打（輕中度 GVHD 不必延遲；若曾用 Rituximab 則距末劑 ≥6 個月）<br>• 活性疫苗：<b>必須滿 24 個月且符合「三無條件」</b></td><td><b>活性疫苗「24-12-8 / 三無鐵律」</b>：必須 ① <b>距移植 ≥24 個月</b>、② <b>無活動性 GVHD</b>、③ <b>停用所有全身免疫抑制劑 ≥3–12 個月</b>、且近期未使用 IVIG（距 IVIG ≥8–11 個月），否則絕對禁用活性疫苗！同住家屬也應接種流感與非活性疫苗（避免口服活性小兒麻痺疫苗）。</td></tr>
+</tbody></table></div>
+<a href="chapters/27.pdf">EBMT第27章：感染控制</a> · <a href="chapters/29.pdf">第29章：疫苗接種</a> · <a href="chapters/35.pdf">第35–39章：細菌／黴菌／病毒與機會性感染</a>
+</article>
+  </section>
+
+  <!-- DOM Order 7: card-28 .. card-30 (Visual Order 5: 肆 · 疾病別移植適應症與細胞治療定位) -->
+  <section id="group-disease" class="cat-group" data-group-cat="disease-indications">
+    <div class="group-banner">
+      <div class="group-step">MODULE 04 · DISEASE-SPECIFIC INDICATIONS (PART IX SYNTHESIS)</div>
+      <h2>肆 · 各疾病移植適應症：AML/APL/ALL、MDS/MF/SAA 與淋巴瘤/骨髓瘤/AL</h2>
+      <p>整合 EBMT Handbook Part IX（第 70–89 章）各疾病 CR1/CR2 移植時機、ELN 2022、DLBCL 12 個月分水嶺與 AL 心臟篩選鐵律。</p>
+    </div>
+    <article id="gap-leukemia-indications" data-cat="disease-indications" data-badge="補齊必讀：疾病別適應症">
+<h2>16. 急性白血病（AML、APL、成人與兒童 ALL）移植適應症與調理精準切點</h2>
+<p><b>90秒口試回答：</b>「急性白血病是否在 CR1 進行異體移植，核心在於<b>『不移植的疾病復發風險』與『移植的 NRM 風險』之動態平衡</b>，並以<b>遺傳風險分層＋誘導／鞏固後的 MRD 反應</b>作為最高指導原則。口試時我會把 AML（ELN 2022）、APL（分子緩解導向 Auto vs Allo）、成人 ALL（Ph+ vs 高風險 Ph− 與新免疫治療橋接）以及兒童 AML/ALL（TBI vs TBI-free MAC）分開交代。」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>疾病</th><th>CR1 移植適應症與決策關鍵</th><th>CR2 / 復發難治與特殊情境</th><th>調理（Conditioning）與維持治療重點</th></tr></thead>
+<tbody>
+<tr><td><b>成人 AML</b><br><a href="chapters/70.pdf">Ch70</a></td><td>• <b>ELN 2022 Favorable</b>（如 CBF-AML、<i>NPM1</i>+ 無 <i>FLT3-ITD</i>）且 <b>MRD 如期陰性</b>：CR1 <b>不移植</b><br>• <b>ELN Intermediate</b>（含 <b><i>NPM1</i> + <i>FLT3-ITD</i></b>！）或 <b>Favorable 但 MRD 持續陽性</b>：若 NRM 可接受，CR1 建議 Allo-HCT<br>• <b>ELN Adverse</b>：CR1 強烈建議 Allo-HCT</td><td>• <b>Primary Refractory AML</b>：Allo-HCT 是唯一治癒機會，需快速取得供者，不宜無止境追加高毒化療累積器官損傷<br>• CR1 未移植而分子或形態復發：爭取 CR2 後 Allo-HCT</td><td>• Fit 尤其 MRD+ 者優先考慮 MAC 或減毒 MAC（RTC，如 FluBu4）；高 NRM 風險選 RIC<br>• <i>FLT3-ITD</i> 術後評估 <b>Sorafenib</b> 或（圍移植期 MRD+）<b>Gilteritinib</b> 維持</td></tr>
+<tr><td><b>APL</b><br><a href="chapters/70.pdf">Ch70</a></td><td>• CR1 以 ATRA + ATO（±化療）治癒率極高，<b>CR1 絕不常規移植</b></td><td>• 復發後經救援達 <b>CR2 且 PML::RARA 分子轉陰性</b>：首選 <b>Auto-HCT</b>！<br>• 僅在<b>救援後分子持續陽性</b>或 <b>Auto-HCT 後再復發</b>才做 Allo-HCT</td><td>Auto-HCT 前必須確認採集的幹細胞產品本身 <b>PML::RARA PCR 為陰性</b>。</td></tr>
+<tr><td><b>成人 ALL</b><br><a href="chapters/72.pdf">Ch72</a></td><td>• <b>高風險 Ph− ALL</b>（特別是誘導／鞏固後 <b>MRD 持續陽性</b>、高危基因型如 <i>KMT2A</i> 重排、複雜核型、低二倍體、Early/Mature T-ALL）於 CR1 行 Allo-HCT<br>• <b>Ph+ ALL</b>：傳統標準為 CR1 Allo-HCT（現代二代/三代 TKI + Blinatumomab 達早期深層分子緩解者正在重塑定位，需對照臨床試驗與指引）</td><td>• R/R ALL：先以 <b>Blinatumomab 或 Inotuzumab ozogamicin</b>（或 CAR-T）爭取 <b>MRD 陰性的 CR2</b>，再銜接 Allo-HCT（未緩解直接硬做移植結果極差）</td><td>• 年輕 Fit 成人優先考慮 <b>分次 TBI-based MAC</b>（相較純化療減少復發與中樞復發）<br>• 曾用 <b>Inotuzumab</b> 者 SOS/VOD 風險高：限制療程數、避免雙烷化劑與高肝毒前處理，嚴密預防 SOS<br>• Ph+ ALL 術後給 <b>TKI 預防或 MRD 先發治療</b></td></tr>
+<tr><td><b>兒童 AML vs ALL</b><br><a href="chapters/71.pdf">Ch71</a>, <a href="chapters/73.pdf">73</a></td><td>• <b>兒童 AML</b>：僅高危遺傳或誘導反應不佳於 CR1 移植；偏好 <b>TBI-free MAC（如 BuCy / FluBu）</b><br>• <b>兒童 ALL</b>：僅極高危／MRD 持續高量於 CR1 移植；CR2 則依復發時間與部位決定</td><td>兒童供者常偏好 <b>BM</b> 以降低長期 cGVHD；若涉及未成年手足供者，必須有<b>獨立供者倡議者（Donor Advocate）</b>與倫理保障</td><td>• <b>FORUM 隨機試驗（兒童 ALL）</b>：在 <b>&gt;4 歲</b>高危兒童 ALL，<b>分次 TBI (12 Gy) + Etoposide</b> 的存活與復發控制顯著優於化療前處理（Flu/Thio/Bu 或 Treo）！</td></tr>
+</tbody></table></div>
+<a href="chapters/70.pdf">EBMT第70章：成人AML與APL</a> · <a href="chapters/71.pdf">第71章：兒童AML</a> · <a href="chapters/72.pdf">第72章：成人ALL</a> · <a href="chapters/73.pdf">第73章：兒童ALL</a>
+</article><article id="gap-mds-mpn-saa" data-cat="disease-indications" data-badge="補齊必讀：疾病別適應症">
+<h2>17. MDS、骨髓纖維化（MF）與骨髓衰竭（SAA / Fanconi）移植決策</h2>
+<p><b>90秒口試回答：</b>「這三類髓系與骨髓衰竭疾病的移植邏輯截然不同：<b>MDS 與 MF 是惡性克隆疾病，核心在於用專屬風險工具（IPSS-R / IPSS-M；DIPSS / MIPSS70+ 與 MTSS）抓準『不太早、也不太晚』的最佳移植時機</b>；而 <b>SAA 與遺傳性骨髓衰竭（如 Fanconi anemia）是非惡性疾病，完全不需要 GVL 效應</b>，核心在於<b>排除家族帶因供者、選擇 Bone Marrow 作為來源、以及使用減毒／高免疫抑制前處理以確保植入並將急慢性 GVHD 降到最低</b>！」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>疾病</th><th>何時該移植？（適應症與風險工具）</th><th>移植前準備與供者／來源</th><th>調理與移植後關鍵考點</th></tr></thead>
+<tbody>
+<tr><td><b>成人與兒童 MDS</b><br><a href="chapters/74.pdf">Ch74</a>, <a href="chapters/75.pdf">75</a></td><td>• <b>IPSS-R Intermediate / High / Very High</b>（或 IPSS-M 中高危，尤其 <i>TP53</i> multi-hit、複雜核型）應及早 Allo-HCT<br>• 低風險 MDS 若出現嚴重輸血依賴、去甲基化藥物失敗或高危突變進展，於轉變為 AML 前移植</td><td>• 骨髓 Blast 高（如 ≥10%）是否先用化療或 HMA/Venetoclax 減瘤需權衡，<b>不可因過度減瘤引發嚴重感染或毒性而失去移植機會</b><br>• <b>兒童 MDS / JMML 與年輕成人</b>：必查 <b><i>GATA2、SAMD9/SAMD9L、RUNX1、DDX41</i> 等 Germline predisposition</b>，親屬供者須排除相同致病突變！</td><td>• 依年齡與共病選 MAC/RTC（如 FluBu / FluTreo）或 RIC<br>• <i>TP53</i> 突變預後最差，需重視術後早期免疫監測與維持試驗</td></tr>
+<tr><td><b>骨髓纖維化 (MF) 與 CMML</b><br><a href="chapters/76.pdf">Ch76</a>, <a href="chapters/77.pdf">77</a></td><td>• <b>MF</b>：DIPSS Intermediate-2 / High，或 MIPSS70+ 高危（含 <i>ASXL1, SRSF2, EZH2, IDH1/2, U2AF1</i>），結合移植專屬 <b>MTSS 分數</b>決策<br>• <b>CMML</b>：使用專屬 <b>CPSS / CPSS-Mol</b>（不可直接套用 AML 的 ELN！）</td><td>• <b>巨脾與全身症狀處理</b>：移植前使用 <b>JAK inhibitor（如 Ruxolitinib）</b>可縮小脾臟並改善體能（調理前依方案漸減停藥避免 rebound）；僅極度巨脾難治者才評估脾照射或脾切除</td><td>• 常採 FluBu 或 FluMel 等方案；因巨脾與骨髓纖維化，<b>植入較慢且 PGF 風險較高</b><br>• 成功植入後<b>骨髓纖維化可隨時間逐步逆轉退縮</b>！術後以 <b><i>JAK2 / CALR / MPL</i> 定量 PCR</b> 搭配 Chimerism 監測微小殘存，陽性可用 DLI 介入。</td></tr>
+<tr><td><b>後天 SAA 與 PNH</b><br><a href="chapters/78.pdf">Ch78</a></td><td>• <b>年輕（&lt;40–50 歲）且有 MSD</b>：<b>一線首選 Allo-HCT</b><br>• <b>無 MSD 或較年長</b>：一線標準為 <b>三合一 IST（Horse ATG + CSA + Eltrombopag，RACE 試驗）</b>；IST 失敗（3–6 個月）或兒童／年輕成人可快速取得高品質 10/10 MUD 者行 MUD/替代供者 HCT</td><td>• <b>必須先做染色體斷裂測試（DEB/MMC）與端粒長度／基因檢測，排除遺傳性 BMF！</b><br>• <b>幹細胞來源首選 Bone Marrow (BM)</b>（PBSC 慢性 GVHD 過高，SAA 不需要 GVL！）<br>• 反覆輸血者必查 <b>DSA 與鐵質過載</b></td><td>• 前處理強調免疫抑制防排斥而非高強度骨髓清除：如 MSD 用 <b>Flu/Cy/ATG</b>（年輕 MSD 亦有用 Cy/ATG），MUD/Haplo 常加<b>低劑量 TBI（2 Gy）</b>或 PTCy 平台<br>• <b>PNH</b>：溶血／血栓主導型首選<b>補體抑制劑（C5/C3 inhibitor）</b>；僅在<b>合併嚴重骨髓衰竭（SAA/PNH）</b>或補體抑制劑無法取得／失敗時才考慮 HCT。</td></tr>
+<tr><td><b>Fanconi Anemia (FA)</b><br><a href="chapters/79.pdf">Ch79</a></td><td>• 出現進行性骨髓衰竭、輸血依賴，或演變為 MDS/AML 前及早移植</td><td>• <b>所有親屬候選供者必須完成染色體斷裂與基因檢測排除 FA</b>（外觀正常不代表未患病）<br>• 首選 <b>BM</b>（或 TCD 移植物）以極小化 GVHD</td><td>• <b>DNA 修復缺陷對烷化劑與放射線極度敏感！</b>必須使用<b>FA 專屬大幅減量前處理（Flu + 極低劑量 Cy ± ATG）</b><br>• <b>關鍵陷阱</b>：HCT 只能治癒造血衰竭，<b>不能消除非造血器官的基因缺陷與極高的頭頸癌／口腔癌／肛門生殖器鱗狀細胞癌風險</b>（GVHD 會進一步加劇實體癌！），需終身跨科防癌篩檢。</td></tr>
+</tbody></table></div>
+<a href="chapters/74.pdf">EBMT第74–75章：成人與兒童MDS/JMML</a> · <a href="chapters/76.pdf">第76–77章：CMML與MPN/MF</a> · <a href="chapters/78.pdf">第78–79章：SAA/PNH與Fanconi</a>
+</article><article id="gap-lymphoma-myeloma" data-cat="disease-indications" data-badge="補齊必讀：疾病別適應症">
+<h2>18. 淋巴瘤（DLBCL / MCL / cHL）、骨髓瘤（MM）與類澱粉沉積症（AL）：Auto vs. CAR-T vs. Allo</h2>
+<p><b>90秒口試回答：</b>「在 B 細胞淋巴瘤與漿細胞疾病，考官最看重我們能否清楚界定 <b>Auto-HCT（高劑量化療後的幹細胞救援）、CAR-T 與 Allo-HCT 的時代順序</b>。特別是在 <b>DLBCL / LBCL 必須先畫出『初治完成後 12 個月』這條分水嶺</b>；在 <b>cHL 必須強調移植前 PET 完全緩解的重要性以及 PD-1 抑制劑接異體移植的免疫毒性</b>；而在 <b>MM 與 AL Amyloidosis，則必須強調 AL 的高 TRM 心臟篩選標準，絕對不能把 MM 的 Melphalan 200 mg/m² 直接套用到所有 AL 病人身上</b>！」</p>
+<div class="table-wrap"><table>
+<thead><tr><th>疾病</th><th>Auto-HCT 的標準定位</th><th>CAR-T 與新藥改變了什麼？</th><th>Allo-HCT 與特殊陷阱</th></tr></thead>
+<tbody>
+<tr><td><b>LBCL / DLBCL</b><br><a href="chapters/86.pdf">Ch86</a></td><td>• 初治一般不常規做 Auto-HCT<br>• <b>初治完成 &gt;12 個月晚期復發</b>，且經二線 Salvage 化療證實 <b>PET 化學敏感（Chemosensitive CR/PR）</b>：<b>Auto-HCT 仍是標準治癒路徑</b></td><td>• <b>原發難治（Primary refractory）或初治完成 ≤12 個月早期復發</b>：二線標準為 <b>CD19 CAR-T（Axi-cel [ZUMA-7] 或 Liso-cel [TRANSFORM]）</b><br>• 晚期復發但對 Salvage 化療不敏感，或 Auto-HCT 後復發：轉為 CAR-T</td><td>• 口試談 CAR-T 必提：重新切片、評估器官與製造等待期的 <b>Bridging therapy</b><br>• CAR-T 失敗後仍具良好體能且可達疾病控制者，可評估 Allo-HCT 或雙特異性抗體（Bispecifics）。</td></tr>
+<tr><td><b>MCL 與 FL / CLL</b><br><a href="chapters/84.pdf">Ch84</a>, <a href="chapters/85.pdf">85</a>, <a href="chapters/87.pdf">87</a></td><td>• <b>MCL</b>：傳統年輕適合者採含高劑量 Ara-C 誘導 → Auto-HCT → Rituximab 維持；但<b>一線加入 BTK 抑制劑（如 TRIANGLE 試驗）正改變是否每例皆須 Auto-HCT</b>，且 <i>TP53</i> 突變者單靠 Auto-HCT 效益差<br>• <b>FL</b>：選定的早期復發（如 POD24）且化學敏感者可考慮 Auto-HCT</td><td>• R/R MCL、FL、CLL 皆已有 CD19 CAR-T 與雙特異性抗體／非共價 BTKi 等重要武器</td><td>• <b>CLL（<a href="chapters/85.pdf">Ch85</a>）</b>：標靶時代 Allo-HCT 退居後線，保留給<b>兩線標靶路徑（BTKi 與 Venetoclax）皆失敗</b>、或 <b>Richter transformation</b> 達緩解後；調理以 <b>RIC</b> 為主（MAC 未顯示存活優勢）。</td></tr>
+<tr><td><b>cHL（何杰金氏）</b><br><a href="chapters/89.pdf">Ch89</a></td><td>• 原發難治或第一次復發，經 Salvage（可併 BV 或 PD-1 抑制劑）達 <b>PET 陰性（Deauville 1–3）</b>後行 <b>Auto-HCT</b><br>• 高復發風險者術後可加 <b>Brentuximab vedotin (BV) consolidation</b></td><td>• PD-1 抑制劑（Nivolumab / Pembrolizumab）與 BV 大幅提升移植前 PET CR 率，並作為 Auto-HCT 後復發的重要救援</td><td>• <b>必考陷阱（PD-1 Blockade → Allo-HCT）</b>：曾暴露 PD-1 抑制劑再做 Allo-HCT，<b>超急性／嚴重 GVHD、SOS 與非感染性發燒風險顯著升高</b>！建議評估適當洗脫期，並強烈考慮以 <b>PTCy 作為 GVHD 預防平台</b>以降低嚴重 GVHD。</td></tr>
+<tr><td><b>多發性骨髓瘤 (MM)</b><br><a href="chapters/81.pdf">Ch81</a></td><td>• 適合移植者標準路徑：<b>三藥或四藥誘導（如 Dara-VRd，4–6 療程）→ Melphalan 200 mg/m² Auto-HCT（腎功能不全 CrCl &lt;30–40 或高齡虛弱減為 Mel 140）→ Lenalidomide 維持</b><br>• 高風險細胞遺傳學（如 del(17p)、t(4;14) 等）可討論 <b>Tandem Auto-HCT</b></td><td>• BCMA CAR-T（Cilta-cel / Ide-cel）與雙特異性抗體已成為多重難治（及較早線復發）的標準強效治療</td><td>• Allo-HCT 在 MM 具高 NRM 與爭議，僅限於極少數年輕、極高危早期復發且在<b>臨床試驗</b>情境下討論。</td></tr>
+<tr><td><b>AL Amyloidosis 與 POEMS</b><br><a href="chapters/82.pdf">Ch82</a>, <a href="chapters/83.pdf">83</a></td><td>• <b>AL</b>：僅約 15–20% 經過<b>極嚴格篩選</b>的低風險病人適合直接或誘導後 Auto-HCT；多數病人一線先用 <b>Dara-CyBorD</b> 爭取深層血液學緩解（CR / VGPR）<br>• <b>POEMS</b>：全身性且適合者可做 Auto-HCT（注意術前改善液體負荷與高比例的 <b>Engraftment syndrome</b>）</td><td>• Dara-CyBorD 已可讓許多 AL 病人不需冒早期高 TRM 風險即達到極佳血液學與器官反應</td><td>• <b>AL 移植篩選鐵律</b>：<b>嚴重心臟受累（高 NT-proBNP / Troponin、Mayo Stage IIIb、NYHA III/IV）、收縮壓 &lt;90 mmHg、嚴重自主神經病變、大量胸腹水或嚴重腎衰竭者，Auto-HCT 的 TRM 極高，絕對不可硬上 Mel 200！</b><br>• <b>器官反應落後原則</b>：血液學反應（dFLC 下降）出現後，心腎肝器官改善常需 <b>6–12 個月以上</b>，不可過早判為無效。</td></tr>
+</tbody></table></div>
+<a href="chapters/81.pdf">EBMT第81章：MM</a> · <a href="chapters/82.pdf">第82–83章：AL與POEMS</a> · <a href="chapters/84.pdf">第84–89章：各類淋巴瘤</a>
+</article>
+  </section>
+
+</div>
+
+<section id="personal-tools" aria-label="個人編輯工具">
+  <details>
+    <summary>🛠 個人筆記、螢光標記與備份工具（點擊展開／收合，資料僅存於本機瀏覽器）</summary>
+    <div style="margin-top:10px">
+      <button type="button" id="edit-toggle">開始編輯</button>
+      <select id="highlight-color" aria-label="螢光顏色">
+        <option value="#fff59d">黃色</option>
+        <option value="#b9f6ca">綠色</option>
+        <option value="#ffccdf">粉紅</option>
+      </select>
+      <button type="button" id="highlight-add">標記選取文字</button>
+      <button type="button" id="highlight-remove">移除目前標記</button>
+      <button type="button" id="note-add">新增內容卡</button>
+      <button type="button" id="image-add">添加圖片到目前卡片</button>
+      <input hidden type="file" id="image-file" accept="image/png,image/jpeg,image/webp">
+      <button type="button" id="personal-save">儲存</button>
+      <button type="button" id="personal-export">匯出備份</button>
+      <button type="button" id="personal-import">匯入備份</button>
+      <input hidden type="file" id="personal-import-file" accept="application/json">
+      <button type="button" id="personal-reset">還原網站原文</button>
+      <p id="personal-status" role="status">點選內容卡後可編輯或加入圖片。資料僅存在此瀏覽器，不會回寫GitHub；跨裝置請匯出／匯入。圖片會縮小壓縮，請勿加入可識別病人資訊。</p>
+    </div>
+  </details>
+</section>
+
+<footer style="margin-top:32px;padding-top:16px;border-top:1px solid var(--border);font-size:13px;color:var(--muted)">
+  來源：使用者提供之移植專考題彙整(108–114).pdf；The EBMT Handbook (2024, 8th ed., CC BY 4.0)；2025 ASTCT CMV 指引；2026 EBMT HLA matching 共識建議。AI 系統化口試教材整理，未經人工專科校訂，臨床決策請依最新指引與中心規範。
+</footer>
+
 <script>
 (function(){
 'use strict';
 const KEY='ebmt-oral-personal-v1', state={editing:false,active:null,range:null}, originals=new Map();
 const toolbar=document.getElementById('personal-tools'), status=document.getElementById('personal-status');
-const firstHeading=document.querySelector('body > h1');if(firstHeading)firstHeading.after(toolbar);
+const catBar=document.getElementById('category-bar');if(catBar)catBar.after(toolbar);
 const custom=document.createElement('section');custom.id='personal-custom';toolbar.after(custom);
 function say(t){status.textContent=t}
-function clean(input){const doc=new DOMParser().parseFromString(input,'text/html');const allowed=new Set('P DIV SPAN BR B STRONG I EM U S MARK H2 H3 H4 UL OL LI TABLE CAPTION THEAD TBODY TR TH TD DETAILS SUMMARY A IMG SMALL BLOCKQUOTE FIGURE FIGCAPTION'.split(' '));
+function clean(input){const doc=new DOMParser().parseFromString(input,'text/html');const allowed=new Set('P DIV SPAN BR B STRONG I EM U S MARK H2 H3 H4 UL OL LI TABLE CAPTION THEAD TBODY TR TH TD DETAILS SUMMARY A IMG SMALL BLOCKQUOTE FIGURE FIGCAPTION SECTION'.split(' '));
 [...doc.body.querySelectorAll('*')].reverse().forEach(el=>{if(!allowed.has(el.tagName)){if(['SCRIPT','STYLE','IFRAME','OBJECT','EMBED','FORM','INPUT','BUTTON','SVG','MATH'].includes(el.tagName))el.remove();else el.replaceWith(...el.childNodes);return}
-const href=el.getAttribute('href'),src=el.getAttribute('src'),color=el.getAttribute('data-color');
+const href=el.getAttribute('href'),src=el.getAttribute('src'),color=el.getAttribute('data-color'),cls=el.getAttribute('class'),id=el.getAttribute('id');
 [...el.attributes].forEach(a=>el.removeAttribute(a.name));
+if(cls&&/^[a-z0-9_-]+(\s+[a-z0-9_-]+)*$/i.test(cls))el.setAttribute('class',cls);
+if(id&&/^[a-z0-9_-]+$/i.test(id))el.setAttribute('id',id);
 if(el.tagName==='A'&&href&&/^(https?:\/\/|#|chapters\/|index\.html)/i.test(href)){el.setAttribute('href',href);el.setAttribute('rel','noopener noreferrer')}
 if(el.tagName==='IMG'){if(src&&/^data:image\/(png|jpeg|webp);base64,[a-z0-9+/=]+$/i.test(src)&&src.length<2200000){el.src=src;el.alt='個人上傳圖片'}else el.remove()}
 if(el.tagName==='MARK'){const c=['#fff59d','#b9f6ca','#ffccdf'].includes(color)?color:'#fff59d';el.dataset.color=c;el.style.backgroundColor=c}
@@ -63,7 +761,7 @@ try{const raw=localStorage.getItem(KEY);if(raw){apply(JSON.parse(raw));say('已�
 function snapshot(){return {format:KEY,exportedAt:new Date().toISOString(),cards:[...document.querySelectorAll('article')].filter(a=>a.dataset.custom||a.innerHTML!==originals.get(a.dataset.personalKey)).map(a=>({key:a.dataset.personalKey,custom:!!a.dataset.custom,html:clean(a.innerHTML)}))}}
 function save(){try{const data=JSON.stringify(snapshot());if(data.length>4200000)throw Error('資料較大');localStorage.setItem(KEY,data);say('已儲存至此瀏覽器。建議匯出備份；圖片與筆記不會上傳GitHub。')}catch(e){say('儲存未成功，可能超過容量或瀏覽器禁止儲存；請立即匯出備份。')}}
 document.addEventListener('pointerdown',e=>{const a=e.target.closest('article');if(a){state.active=a}});
-document.addEventListener('selectionchange',()=>{const s=window.getSelection();if(s&&s.rangeCount&&!s.isCollapsed){const r=s.getRangeAt(0),a=r.commonAncestorContainer.nodeType===1?r.commonAncestorContainer:r.commonAncestorContainer.parentElement;const card=a.closest('article');if(card){state.active=card;state.range=r.cloneRange()}}});
+document.addEventListener('selectionchange',()=>{const s=window.getSelection();if(s&&s.rangeCount&&!s.isCollapsed){const r=s.getRangeAt(0),a=r.commonAncestorContainer.nodeType===1?r.commonAncestorContainer:r.commonAncestorContainer.parentElement;const card=a?.closest('article');if(card){state.active=card;state.range=r.cloneRange()}}});
 toolbar.addEventListener('mousedown',e=>{if(e.target.tagName==='BUTTON')e.preventDefault()});
 document.getElementById('edit-toggle').onclick=()=>{state.editing=!state.editing;register();document.getElementById('edit-toggle').textContent=state.editing?'完成編輯':'開始編輯';if(!state.editing){document.querySelectorAll('article').forEach(a=>a.innerHTML=clean(a.innerHTML));save()}else say('編輯模式：點入卡片修改。完成後按儲存；網站原文可隨時還原。')};
 document.getElementById('highlight-add').onclick=()=>{const r=state.range;if(!r||!r.startContainer.isConnected||!state.active.contains(r.startContainer)||!state.active.contains(r.endContainer)){say('請先在同一內容卡內選取文字。');return}const mark=document.createElement('mark'),c=document.getElementById('highlight-color').value;mark.dataset.color=c;mark.style.backgroundColor=c;try{mark.append(r.extractContents());r.insertNode(mark);state.range=null;save()}catch(e){say('這段無法標記，請縮小選取範圍。')}};
@@ -78,4 +776,165 @@ document.getElementById('personal-import-file').onchange=async e=>{const f=e.tar
 document.getElementById('personal-reset').onclick=()=>{if(!confirm('還原會清除本機個人修改、圖片與螢光標記。建議先匯出備份，是否繼續？'))return;try{localStorage.removeItem(KEY);location.reload()}catch(e){say('無法清除，瀏覽器可能禁止儲存。')}};
 document.addEventListener('paste',e=>{if(!state.editing||!e.target.closest('article'))return;e.preventDefault();const t=e.clipboardData.getData('text/plain');document.execCommand('insertText',false,t)});
 })();
-</script><script>(function(){const toc=document.getElementById('oral-toc-links');const headings=[...document.querySelectorAll('body > article > h2, #mock30 > h1, #mock30 > article > h2, #hla2026 > h3, #advanced-five > h1, #advanced-five > article > h2')];headings.forEach((h,i)=>{if(!h.id)h.id='oral-section-'+(i+1);const a=document.createElement('a');a.href='#'+h.id;a.textContent=h.textContent;a.className=h.tagName==='H3'?'toc-sub':'';toc.appendChild(a)});const links=[...toc.querySelectorAll('a')];const observer=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting){links.forEach(a=>a.removeAttribute('aria-current'));const a=links.find(a=>a.hash==='#'+e.target.id);if(a)a.setAttribute('aria-current','location')}})},{rootMargin:'-10% 0px -70% 0px'});headings.forEach(h=>observer.observe(h));})();</script></html>
+</script>
+
+<script>
+(function(){
+  'use strict';
+  const toc = document.getElementById('oral-toc-links');
+  const tabs = [...document.querySelectorAll('.cat-tab')];
+  const groups = [...document.querySelectorAll('.cat-group')];
+  const searchInput = document.getElementById('oral-search');
+  let activeFilter = 'all';
+
+  // Ordered groups by visual order for TOC generation
+  const orderedGroups = [...groups].sort((a, b) => {
+    const oa = parseInt(getComputedStyle(a).order || '0', 10);
+    const ob = parseInt(getComputedStyle(b).order || '0', 10);
+    return oa - ob;
+  });
+
+  // Assign stable IDs and build grouped TOC
+  let secIdx = 1;
+  const allHeadings = [];
+  orderedGroups.forEach(g => {
+    const bannerH2 = g.querySelector('.group-banner h2');
+    if (bannerH2) {
+      const catHead = document.createElement('div');
+      catHead.className = 'toc-cat-head';
+      catHead.dataset.tocCat = g.dataset.groupCat;
+      catHead.textContent = bannerH2.textContent.split('：')[0];
+      toc.appendChild(catHead);
+    }
+    const headings = [...g.querySelectorAll('article > h2, #hla2026 > h3')];
+    headings.forEach(h => {
+      if (!h.id) h.id = 'oral-section-' + (secIdx++);
+      allHeadings.push(h);
+      const a = document.createElement('a');
+      a.href = '#' + h.id;
+      a.textContent = h.textContent;
+      a.dataset.tocCat = g.dataset.groupCat;
+      a.className = h.tagName === 'H3' ? 'toc-sub' : '';
+      toc.appendChild(a);
+    });
+  });
+
+  function applyFilter() {
+    const q = (searchInput.value || '').trim().toLowerCase();
+    groups.forEach(g => {
+      const catMatch = (activeFilter === 'all' || g.dataset.groupCat === activeFilter);
+      if (!catMatch) {
+        g.hidden = true;
+        return;
+      }
+      const arts = [...g.querySelectorAll('article')];
+      let visibleCount = 0;
+      arts.forEach(a => {
+        const textMatch = !q || a.textContent.toLowerCase().includes(q);
+        a.hidden = !textMatch;
+        if (textMatch) visibleCount++;
+      });
+      g.hidden = (visibleCount === 0);
+    });
+
+    // Update TOC visibility
+    [...toc.children].forEach(el => {
+      if (activeFilter === 'all' || el.dataset.tocCat === activeFilter) {
+        el.style.display = '';
+      } else {
+        el.style.display = 'none';
+      }
+    });
+  }
+
+  tabs.forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeFilter = btn.dataset.filter;
+      tabs.forEach(t => {
+        const on = (t === btn);
+        t.classList.toggle('active', on);
+        t.setAttribute('aria-selected', on ? 'true' : 'false');
+      });
+      applyFilter();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+
+  searchInput.addEventListener('input', applyFilter);
+
+  // When clicking a TOC link or internal hash link, ensure target category is visible
+  document.addEventListener('click', e => {
+    const a = e.target.closest('a[href^="#"]');
+    if (!a) return;
+    const id = a.getAttribute('href').slice(1);
+    const target = document.getElementById(id);
+    if (!target) return;
+    const grp = target.closest('.cat-group');
+    if (grp && grp.hidden) {
+      const allBtn = tabs.find(t => t.dataset.filter === 'all');
+      if (allBtn) {
+        activeFilter = 'all';
+        tabs.forEach(t => t.classList.toggle('active', t === allBtn));
+        searchInput.value = '';
+        applyFilter();
+      }
+    }
+  });
+
+  // Expand / Collapse all <details> inside articles
+  let allExpanded = false;
+  const toggleDetailsBtn = document.getElementById('toggle-details-btn');
+  toggleDetailsBtn.addEventListener('click', () => {
+    allExpanded = !allExpanded;
+    document.querySelectorAll('#oral-workspace details').forEach(d => {
+      d.open = allExpanded;
+    });
+    toggleDetailsBtn.textContent = allExpanded ? '收合全部追問答案' : '展開全部追問答案';
+  });
+
+  // 90-second Oral Timer
+  let timerId = null, remain = 90;
+  const timerBtn = document.getElementById('timer-btn');
+  timerBtn.addEventListener('click', () => {
+    if (timerId) {
+      clearInterval(timerId);
+      timerId = null;
+      timerBtn.textContent = '⏱ 啟動 90 秒口述計時';
+      timerBtn.style.background = '';
+      timerBtn.style.color = '';
+      return;
+    }
+    remain = 90;
+    timerBtn.style.background = '#164a3f';
+    timerBtn.style.color = '#fff';
+    timerBtn.textContent = '⏱ 剩餘 90 秒（點擊停止）';
+    timerId = setInterval(() => {
+      remain--;
+      if (remain > 0) {
+        timerBtn.textContent = `⏱ 剩餘 ${remain} 秒（點擊停止）`;
+        if (remain <= 15) timerBtn.style.background = '#9c3838';
+      } else {
+        clearInterval(timerId);
+        timerId = null;
+        timerBtn.textContent = '⏰ 90 秒時間到！（點擊重設）';
+        timerBtn.style.background = '#b54d1b';
+      }
+    }, 1000);
+  });
+
+  // ScrollSpy for TOC
+  const links = [...toc.querySelectorAll('a')];
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        links.forEach(a => a.removeAttribute('aria-current'));
+        const a = links.find(a => a.hash === '#' + e.target.id);
+        if (a) a.setAttribute('aria-current', 'location');
+      }
+    });
+  }, { rootMargin: '-12% 0px -70% 0px' });
+  allHeadings.forEach(h => observer.observe(h));
+})();
+</script>
+</body>
+</html>
