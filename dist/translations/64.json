@@ -1,0 +1,661 @@
+{
+  "id": 64,
+  "title": "Role of Umbilical Cord Blood Transplantation",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 43,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 568,
+      "blocks": [
+        {
+          "id": 6400001,
+          "page": 568,
+          "en": "64 Role of Umbilical Cord Blood Transplantation\nJaime Sanz and Vanderson Rocha",
+          "zh": "64 臍帶血移植的角色（Role of Umbilical Cord Blood Transplantation） — Jaime Sanz、Vanderson Rocha",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_64"
+            }
+          ]
+        },
+        {
+          "id": 6400002,
+          "page": 568,
+          "en": "64.1 Introduction\n• Umbilical cord blood transplant (UCBT) from unrelated donors (UD) was developed to overcome the limitations of HLA-matched bone marrow (BM)/peripheral blood (PB) UDs and improve access to allogeneic transplant (allo-HCT) both by increasing the donor pool and fasten time to HCT.\n• UCBT activity has sharply decreased in favor of partially HLA-matched related donor transplants (haplo-HCT) using posttransplant cyclophosphamide (Passweg et al. 2021). This procedure shares most of the advantages of UCBT. It has expanded its use worldwide due to its effectiveness, lower financial impact, and relative simplicity. Two randomized trials have shown superiority of haplo-HCT over UCBT (Fuchs et al. 2020; Sanz et al. 2020). However, it is still a clinical option for some patients lacking other alternatives, due to either the absence of relative donors at due time or the presence of donor-specific antibodies. Whether or not it could be prioritized over haplo donors with negative characteristics like older age or gender mismatch should be the focus of future research.\n• Recent advances in conditioning, graft manipulation, and supportive care have improved UCBT outcomes. These advances reflect in very encouraging outcomes after UCBT for adults and children with high-risk leukemias and some genetic diseases.",
+          "zh": "64.1 前言\n• 非親屬供者（UD）臍帶血移植（UCBT）的發展，是為了克服 HLA 相合之非親屬骨髓（BM）／周邊血（PB）供者的限制，透過擴大供者庫與縮短進入 HCT 的等待時間，提升患者接受異體移植（allo-HCT）的機會。\n• 隨著使用移植後環磷醯胺（PTCy）之部分 HLA 相合親屬供者移植（haplo-HCT）興起，UCBT 的執行量已急遽下降（Passweg et al. 2021）。半相合移植具備 UCBT 的大多數優點，且因其有效性、較低的財務負擔與相對簡便性而在全球廣泛擴展。兩項隨機對照試驗已顯示 haplo-HCT 的結果優於 UCBT（Fuchs et al. 2020; Sanz et al. 2020）。然而，對於缺乏其他替代方案的患者（無論是因為無法及時取得親屬供者，或是因為存在抗供者特異性抗體〔DSA〕），UCBT 仍是一項臨床選擇。至於在面對具有不利特徵（如年齡較長或性別不相合）的半相合供者時，是否應優先選擇 UCBT，則是未來研究的重點。\n• 近期在調理方案、移植物處理與支持性照護方面的進展已改善了 UCBT 的預後。這些進步反映在罹患高風險白血病及部分遺傳疾病的成人與兒童接受 UCBT 後相當令人鼓舞的治療結果上。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400003,
+          "page": 568,
+          "en": "64.2 Potential Advantages and Disadvantages of UCBT\n[Table: UCBT versus BMT/PBHCT]\nAdvantages | Disadvantages\n• Expanded access to transplant* (– Higher availability of donor*; – Faster search and shorter time to transplant*; – Greater HLA disparity allowed with low incidence of GVHD*) | • Slower engraftment\n• Lower risk of transmission of viral infections | • Higher risk of non-immunological rejection (graft failure)\n• More versatile transplant planning* | • Remote possibility of transmission of a genetic disease*\n• No risk of donor refusal | • Greater delay in immune reconstitution\n• No risk to the donor | • No possibility of donor lymphocyte infusion*\n*Advantages shared with partially matched related (haploidentical) HCT | *Disadvantages not shared with haploidentical HCT",
+          "zh": "64.2 UCBT 的潛在優點與缺點\n【表格：UCBT 對比骨髓移植／周邊血造血細胞移植（BMT/PBHCT）】\n優點（Advantages）｜缺點（Disadvantages）\n• 擴大接受移植的機會*（– 供者可得性較高*；– 搜尋更快且等待移植時間更短*；– 可容許較大的 HLA 不相合度，且 GVHD 發生率低*）｜• 植入較慢（Slower engraftment）\n• 傳播病毒感染的風險較低｜• 非免疫性排斥（植入失敗，graft failure）的風險較高\n• 移植排程規劃更具彈性*｜• 傳播遺傳疾病的極微小可能性*\n• 無供者臨時拒捐（donor refusal）的風險｜• 免疫重建延遲更顯著\n• 對供者完全無風險｜• 無法進行供者淋巴球輸注（DLI）*\n註（左欄*）：與部分相合親屬（半相合）HCT 共同具備的優點。\n註（右欄*）：半相合 HCT 所沒有的缺點。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400004,
+          "page": 568,
+          "en": "J. Sanz (*)\nDepartment of Medicine, University Hospital La Fe, University of Valencia, Valencia, Spain\nInstituto Carlos III, CIBERONC, Madrid, Spain\ne-mail: jaime.sanz@uv.es\nV. Rocha\nHematology, Transfusion and Cell Therapy Service, Faculty of Medicine, Hospital de Clinicas, University of São Paulo, São Paulo, Brazil\ne-mail: vanderson.rocha@hc.fm.usp.br\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_64",
+          "zh": "作者單位與聯絡資訊：\nJ. Sanz（通訊作者）：西班牙瓦倫西亞大學 La Fe 大學醫院內科；西班牙馬德里卡洛斯三世衛生研究院 CIBERONC；電子郵件：jaime.sanz@uv.es。\nV. Rocha：巴西聖保羅大學醫學院附設醫院（Hospital de Clinicas）血液、輸血暨細胞治療科；電子郵件：vanderson.rocha@hc.fm.usp.br。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_64。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 569,
+      "blocks": [
+        {
+          "id": 6400005,
+          "page": 569,
+          "en": "Similar to UCBT, haploidentical HCT can also be used on an urgent basis and extends donor availability to the vast majority of patients. In addition, haploidentical HCT allows a DLI if necessary.",
+          "zh": "與 UCBT 類似，半相合 HCT 亦可於緊急情況下使用，並將供者可得性擴展至絕大多數患者。此外，半相合 HCT 在必要時允許進行供者淋巴球輸注（DLI）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400006,
+          "page": 569,
+          "en": "64.3 Indications\nExcept for some patients with severe bone marrow failure, such as aplastic anemia and paroxysmal nocturnal hemoglobinuria, UCBT in adults is performed almost exclusively in patients with malignant hematological diseases. However, UCBT in children has been used for many other nonmalignant diseases, including primary immunodeficiency diseases and inherited metabolic disorders.\nThe American Society for Blood and Marrow Transplantation (ASBMT) (Kanate et al. 2020) and the European Society for Blood and Marrow Transplantation (EBMT) (Snowden et al. 2022) have recently published their respective guidelines that include recommendations for transplant indications in children and adults. It should be noted that the ASBMT did not differentiate recommendations for transplant indications based on donor or graft source and EBMT grouped the same indications for all HLA-mismatched alternative donors (UCB, haplo, and mismatched unrelated donors).\nAllo-HCT indications should not defer according to donor or graft source but rather the expertise of the transplant center along with patient- and/or disease-related factors, and availability should determine the donor/graft source for the individual patient. More recent data shows that UCBT is probably a preferred donor choice for patients with very high-risk leukemias and some genetic and metabolic disorders in children; however, comparative studies with other alternative donors are lacking in the literature.",
+          "zh": "64.3 適應症\n除了部分罹患嚴重骨髓衰竭（如再生不良性貧血與陣發性夜間血紅素尿症〔PNH〕）的患者外，成人 UCBT 幾乎僅執行於血液惡性疾病患者。然而，兒童 UCBT 則已被用於許多其他非惡性疾病，包括原發性免疫缺陷疾病與遺傳性代謝疾病。\n美國血液與骨髓移植學會（ASBMT，現為 ASTCT）（Kanate et al. 2020）以及歐洲血液與骨髓移植學會（EBMT）（Snowden et al. 2022）近期已分別發表其指引，其中包含兒童與成人的移植適應症建議。值得注意的是，ASBMT 並未根據供者或移植物來源區分移植適應症建議，而 EBMT 則將所有 HLA 不相合之替代供者（臍帶血 UCB、半相合 haplo 及不相合非親屬供者 MMUD）歸為相同的適應症類別。\n異體 HCT 的適應症不應依供者或移植物來源而有所不同，而是應由移植中心的專業經驗，連同患者及／或疾病相關因素與供者可得性，來決定個別患者的供者／移植物來源。較近期的數據顯示，對於極高風險白血病患者以及部分兒童遺傳與代謝疾病而言，UCBT 可能是較受偏好的供者選擇；然而，文獻中仍缺乏與其他替代供者的直接比較研究。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400007,
+          "page": 569,
+          "en": "64.4 Approaches to Improve Outcomes After UCBT\nStrategies have been developed aiming to shorten the time to engraftment, improve immune reconstitution, and decrease NRM.\n[Table: Approaches to improve outcomes after UCBT | Expert point of view]\n1. Refining criteria for UCB unit selection | Selection of the most appropriate UCB unit is key to transplant success. Recent comprehensive consensus guidelines have been recently published (Politikos et al. 2020; Ruggeri 2019). Selection of double cord blood units including high-resolution HLA typing for adults have been recently published (Fatobene et al. 2020; Fatobene et al. 2023). See chapter of banking, processing, and procurement of cord blood cells\n2. Optimization of conditioning regimens | Specific conditioning regimen can influence transplant outcomes. See Sect. 64.5\n3. Strategies aiming to shorten the time to engraftment:\n(a) Double UCBT | In children, two randomized trials have demonstrated no benefit and increased risk of GVHD (Wagner et al. 2014; Michel et al. 2016). In adults, retrospective studies showed no advantage when single-unit with TNC dose >2.5 × 10⁷/kg available (Scaradavou et al. 2013)\n(b) Co-infusion with third-party cells | Has consistently demonstrated benefit to accelerate hematopoietic recovery. No proved benefit on NRM or survival (Sanz et al. 2017)\n(c) Ex vivo expansion of UCB cells | Omidubicel, the first FDA-approved UCB ex vivo-expanded cellular therapy product, has demonstrated faster engraftment, fewer infections, and decreased NRM compared with unmanipulated UCB that was confirmed in long-term follow-up (Horwitz et al. 2021). Should be considered the standard of care. However, logistical issues and costs may hamper real-life use. Other compounds to expand CB cells such as UM171 are currently being explored in phase 2 clinical trials with encouraging results (Cohen et al. 2020)\n4. Improvement of supportive measures | Supportive care to prevent or treat opportunistic infections until neutrophil and immune recovery has occurred is critical in UCBT. See Sect. 64.7",
+          "zh": "64.4 改善 UCBT 後預後的策略\n學界已開發出多種策略，旨在縮短植入時間、改善免疫重建並降低非復發死亡率（NRM）。\n【表格：改善 UCBT 後預後的策略｜專家觀點】\n1. 精進臍帶血單位（UCB unit）的挑選標準｜挑選最適當的 UCB 單位是移植成功的關鍵。近期已有全面的共識指引發表（Politikos et al. 2020; Ruggeri 2019）。針對成人雙臍帶血單位（包含高解析度 HLA 分型）的挑選原則亦於近期發表（Fatobene et al. 2020; Fatobene et al. 2023）。請參閱臍帶血細胞入庫、處理與取得之章節（第 18 章）。\n2. 最佳化調理方案｜特定的調理方案會影響移植預後。見第 64.5 節。\n3. 旨在縮短植入時間的策略：\n (a) 雙臍帶血移植（Double UCBT）｜在兒童中，兩項隨機對照試驗已證實無額外益處且會增加 GVHD 風險（Wagner et al. 2014; Michel et al. 2016）。在成人中，回溯性研究顯示當有總有核細胞（TNC）劑量 >2.5 × 10⁷/kg 的單一臍帶血單位可用時，雙臍帶血並無優勢（Scaradavou et al. 2013）。\n (b) 共同輸注第三方細胞（Co-infusion with third-party cells）｜已一致證實具有加速造血恢復的益處，但在 NRM 或存活率上尚未證實有獲益（Sanz et al. 2017）。\n (c) 臍帶血細胞的體外擴增（Ex vivo expansion of UCB cells）｜Omidubicel 是首個獲 FDA 核准的 UCB 體外擴增細胞治療產品，與未經處理的 UCB 相比，已證實能達成更快的植入、更少的感染以及更低的 NRM，並於長期追蹤中獲得確認（Horwitz et al. 2021），應被視為標準照護（standard of care）；然而，物流後勤問題與高昂成本可能阻礙其在真實世界中的常規應用。其他用於擴增臍帶血細胞的化合物（如 UM171）目前正在第 2 期臨床試驗中進行探索，結果令人鼓舞（Cohen et al. 2020）。\n4. 改善支持性照護措施｜在嗜中性球與免疫恢復完成前，預防或治療伺機性感染的支持性照護在 UCBT 中至關重要。見第 64.7 節。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 570,
+      "blocks": [
+        {
+          "id": 6400008,
+          "page": 570,
+          "en": "64.5 Conditioning Regimens\nThe selection of conditioning regimen for HCT, including UCBT, should take into account the risk of toxicity and the risk of graft failure and relapse in malignant diseases. In UCBT, given the relatively lower cell dose (T cells and CD34+ cells) and the use of HLA-mismatched grafts, graft failure is of particular concern, especially in adults. It usually combines agents with additive immunosuppressive properties. The choice of the conditioning regimen is of primary importance and can influence transplant outcomes. A comprehensive and exhaustive review of myeloablative and nonmyeloablative/reduced intensity conditioning regimens in the UCBT setting has been published (Cord blood transplantations 2017). The American Society for Transplantation and Cellular Therapy Cord Blood Special Interest Group has also recently published their recommendations (Metheny et al. 2021).\nThe use of in vivo T-cell depletion with ATG in the conditioning regimen has been used to enhance myeloid engraftment as well as to prevent GVHD. Its use has been associated with reduced rates of GVHD but also with increased mortality due to delayed T-cell recovery in hematologic malignancies and is generally not recommended in this setting. Some data suggest that safety of ATG can be improved by adjusting timing or dose with ATG pharmacokinetics (Admiraal et al. 2016) to avoid posttransplantation exposure.",
+          "zh": "64.5 調理方案（Conditioning Regimens）\n為 HCT（包括 UCBT）選擇調理方案時，應同時考量毒性風險、植入失敗風險以及惡性疾病的復發風險。在 UCBT 中，鑑於細胞劑量（T 細胞與 CD34+ 細胞）相對較低且使用 HLA 不相合的移植物，植入失敗是特別需要關注的問題（尤其是在成人）。調理方案通常會結合具有加成免疫抑制特性的藥物。調理方案的選擇至關重要，且會影響移植結果。針對 UCBT 情境下之骨髓清除性（MAC）與非骨髓清除性／減低強度調理（NMA/RIC）方案的全面詳盡回顧已發表（Cord blood transplantations 2017）。美國移植與細胞治療學會（ASTCT）臍帶血特別興趣小組近期亦發表了他們的建議（Metheny et al. 2021）。\n在調理方案中使用 ATG 進行體內 T 細胞去除，曾被用來促進骨髓系植入以及預防 GVHD。在血液惡性疾病中，使用 ATG 與較低的 GVHD 發生率相關，但也因 T 細胞恢復延遲而伴隨較高的死亡率，因此在此情境下一般不建議常規使用。部分數據顯示，透過結合 ATG 藥物動力學調整給藥時機或劑量（Admiraal et al. 2016）以避免移植後的殘留暴露，可改善 ATG 的安全性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400009,
+          "page": 570,
+          "en": "Some conditioning regimens options of varying intensities to be considered are as follows:\n[Table: Conditioning Regimens in UCBT]\nMyeloablative conditioning regimens (MAC)\nChemotherapy-based:\n• TBF regimen (Sanz et al. 2012) | TT 10 mg/kg + BU IV 9.6 mg/kg + Flu 150 mg/m²\nTBI-based:\n• TBI-Flu-Cy regimen (Barker et al. 2015) | TBI 13.2 Gy + CY 120 mg/kg + Flu 75 mg/m²\nIntermediate intensity conditioning regimens (IIC)\n• TBI-TT-flu-Cy regimen (Barker et al. 2020) | TT 10 mg/kg + CY 50 mg/kg + Flu 150 mg/m² + TBI 4 Gy\nReduced intensity conditioning regimens (RIC)\n• rTBI-Flu-Cy regimen (Fuchs et al. 2020) | TBI 2 Gy + CY 50 mg/kg + Flu 200 mg/m²\nAbbreviations: TT thiotepa, BU busulfan, Flu fludarabine, TBI total body irradiation, CY cyclophosphamide",
+          "zh": "可考慮採用之不同強度的調理方案選項如下：\n【表格：UCBT 之調理方案選項】\n骨髓清除性調理方案（MAC）\n以化療為基礎（Chemotherapy-based）：\n• TBF 方案（Sanz et al. 2012）｜TT 10 mg/kg + BU IV 9.6 mg/kg + Flu 150 mg/m²\n以 TBI 為基礎（TBI-based）：\n• TBI-Flu-Cy 方案（Barker et al. 2015）｜TBI 13.2 Gy + CY 120 mg/kg + Flu 75 mg/m²\n中等強度調理方案（Intermediate intensity conditioning regimens, IIC）\n• TBI-TT-Flu-Cy 方案（Barker et al. 2020）｜TT 10 mg/kg + CY 50 mg/kg + Flu 150 mg/m² + TBI 4 Gy\n減低強度調理方案（Reduced intensity conditioning regimens, RIC）\n• rTBI-Flu-Cy 方案（原文印為 rTBI-Ffu-Cy，Fuchs et al. 2020）｜TBI 2 Gy + CY 50 mg/kg + Flu 200 mg/m²\n縮寫：TT：thiotepa；BU：busulfan；Flu：fludarabine；TBI：全身放射線照射（total body irradiation）；CY：cyclophosphamide。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400010,
+          "page": 570,
+          "en": "64.6 GVHD Prophylaxis\nThe most important advantage of UCB over unrelated donor grafts is the capability to tolerate HLA disparities and facilitate a low incidence of chronic GVHD. However, acute GVHD is still one of the most important contributors to morbidity and mortality. Different GVHD prophylaxis regimens have been explored with no evidence of benefit of any specific strategy. Methotrexate is generally not recommended to avoid myelotoxicity and delayed neutrophil recovery although it is widely used in Asia. The most frequently used regimen worldwide is the combination of calcineurin inhibitors for 6–9 months with mycophenolate mofetil for 2–6 months.",
+          "zh": "64.6 GVHD 預防（GVHD Prophylaxis）\nUCB 相較於非親屬供者移植物最重要的優勢，在於其能夠容忍 HLA 不相合並促成低發生率的慢性 GVHD。然而，急性 GVHD 仍是造成罹病率與死亡率最重要的原因之一。學界已探索過多種不同的 GVHD 預防方案，但尚無證據顯示任何特定策略具有絕對優勢。儘管 Methotrexate（MTX）在亞洲仍被廣泛使用，但為了避免骨髓毒性與延遲嗜中性球恢復，一般並不建議在 UCBT 中使用 MTX。全球最常使用的方案是鈣調磷酸酶抑制劑（CNI，使用 6–9 個月）結合 mycophenolate mofetil（MMF，使用 2–6 個月）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400011,
+          "page": 570,
+          "en": "64.7 Supportive Care\nThe supportive measures described below are not intended to be recommendations but only to be taken into account and to consider their use in the context of each institution’s own experience and epidemiology. The most common measures are described merely as a guide since they have a very variable level of evidence.",
+          "zh": "64.7 支持性照護（Supportive Care）\n以下描述的支持性措施並非作為硬性建議，僅供納入考量，並應結合各機構自身的經驗與流行病學背景來評估其使用。由於這些措施的證據等級差異甚大，此處僅列出最常見的措施作為參考指引。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 571,
+      "blocks": [
+        {
+          "id": 6400012,
+          "page": 571,
+          "en": "Prophylaxis, monitoring, and treatment options to be considered for infections.\n[Table: Supportive measures for bacterial, fungal, viral, and protozoal infections]\nSupportive measures for bacterial infections:\n• Prophylaxis: Levofloxacin or ciprofloxacin | Monitoring: Surveillance cultures to detect colonization with multidrug-resistant gram-negative bacteria | Treatment: Empirical antibacterial therapy according to institutional epidemiologic patterns\nSupportive measures for fungal infections:\n• Prophylaxis: Mold-covering azole | Monitoring: Galactomannan and beta-D-glucan assaysᵃ | Treatment: Liposomal amphotericin B, azoles, and/or echinocandins (according to previous prophylaxis)\nSupportive measures for viral infections (Monitoring: quantitative PCR):\n• CMV: Prophylaxis: letermovir | Monitoring: Weekly on days 0–100 and then as clinically indicated | Treatment: Ganciclovir, valganciclovir, foscarnet\n• HHV-6: Prophylaxis: none | Monitoring: As clinically indicated | Treatment: Ganciclovir, valganciclovir, foscarnet\n• Adenovirus: Prophylaxis: none | Monitoring: Weekly on days 0–100 and then as clinically indicatedᵇ | Treatment: Cidofovir\n• EBV: Prophylaxis: none | Monitoring: Weekly on days 0–100 and then as clinically indicatedᶜ | Treatment: Preemptive rituximab\nSupportive measures for protozoal infections:\n• Pneumocystis: Prophylaxis: cotrimoxazol, pentamidine, or atovaquone | Monitoring: – | Treatment: Cotrimoxazol, pentamidine, or atovaquone\n• Toxoplasmosis: Prophylaxis: cotrimoxazol, atovaquone, or pyrimethamine | Monitoring: – | Treatment: Cotrimoxazol, atovaquone, or pyrimethamine\nFootnotes:\nᵃ Both have been included as microbiological criteria in the definitions of invasive fungal infections by the European Organization for Research and Treatment of Cancer (EORTC) and the Mycoses Study Group (MSG)\nᵇ Specially in children\nᶜ Reduced intensity conditioning and ATG are risk factors for EBV-PTLD",
+          "zh": "針對感染可考慮採取之預防、監測與治療選項。\n【表格：細菌、黴菌、病毒與原蟲感染之支持性照護措施】\n細菌感染之支持性措施：\n• 預防：Levofloxacin 或 ciprofloxacin｜監測：監測性培養以偵測多重抗藥性革蘭氏陰性菌之定殖｜治療：依機構流行病學型態給予經驗性抗菌治療\n黴菌感染之支持性措施：\n• 預防：涵蓋黴菌（絲狀真菌）之 azole 類藥物（Mold-covering azole）｜監測：Galactomannan 與 β-D-glucan 檢測ᵃ｜治療：微脂體兩性黴素 B（Liposomal amphotericin B）、azoles 及／或棘白菌素類（echinocandins）（依先前使用的預防藥物而定）\n病毒感染之支持性措施（監測方式：定量 PCR）：\n• CMV：預防：letermovir｜監測：第 0–100 天每週一次，之後依臨床指示｜治療：Ganciclovir、valganciclovir、foscarnet\n• HHV-6：預防：無｜監測：依臨床指示｜治療：Ganciclovir、valganciclovir、foscarnet\n• 腺病毒（Adenovirus）：預防：無｜監測：第 0–100 天每週一次，之後依臨床指示ᵇ｜治療：Cidofovir\n• EBV：預防：無｜監測：第 0–100 天每週一次，之後依臨床指示ᶜ｜治療：搶先治療（Preemptive）rituximab\n原蟲感染之支持性措施：\n• 肺囊蟲（Pneumocystis）：預防：cotrimoxazol（TMP-SMX）、pentamidine 或 atovaquone｜監測：–｜治療：Cotrimoxazol、pentamidine 或 atovaquone\n• 弓漿蟲症（Toxoplasmosis）：預防：cotrimoxazol、atovaquone 或 pyrimethamine｜監測：–｜治療：Cotrimoxazol、atovaquone 或 pyrimethamine\n註腳：\nᵃ 兩者皆已被歐洲癌症研究與治療組織（EORTC）及黴菌症研究小組（MSG）納入侵襲性黴菌感染定義中的微生物學標準。\nᵇ 特別是在兒童。\nᶜ 減低強度調理（RIC）與使用 ATG 是發生 EBV-PTLD 的危險因子。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400013,
+          "page": 571,
+          "en": "64.8 Results\nUCBT outcomes are still improving in more recent years, probably explained by better patient and CBU selection, improved conditioning, and supported care. Registry data also showed important center effect with superior survival obtained in experienced centers. Eurocord recently updated clinical results.\nMultiple retrospective studies have demonstrated that UCBT offers similar long-term outcomes compared with the gold standard of HLA-matched unrelated donor transplants in patients with hematologic malignancies, both in children and adults (Eapen et al. 2007; Brunstein et al. 2010; Atsuta et al. 2012). Interestingly, UCBT seems to offer a potent antileukemic efficacy, through yet unknown mechanisms. A markedly reduced relapse rate after UCBT as compared to URD transplantation in patients transplanted with minimal residual disease has been reported and needs to be validated (Milano et al, 2016). Moreover recently, the same observation has been reported in children with very high-risk leukemia transplanted with single CB units. Two-year EFS was 80% for CR 2, 67% for high risk (primary refractory or relapsed leukemia), and 61% for patients transplanted in CR1 (Horgan et al. 2023). In the same direction, very impressive results have been reported in children with genetic and metabolic disorders. Two-year overall survival was 91% with a median follow-up time of 4 years (Martinez et al. 2023).",
+          "zh": "64.8 治療結果\n近年來 UCBT 的預後仍持續改善，這可能歸因於更完善的病患與臍帶血單位（CBU）挑選、改良的調理方案以及支持性照護。登錄資料亦顯示出重要的中心效應（center effect），在經驗豐富的中心可獲得更優異的存活率。歐洲臍帶血登錄庫（Eurocord）近期更新了相關臨床結果。\n多項回溯性研究已證實，在罹患血液惡性疾病的兒童與成人患者中，UCBT 與黃金標準之 HLA 相合非親屬供者移植相比，可提供相似的長期預後（Eapen et al. 2007; Brunstein et al. 2010; Atsuta et al. 2012）。有趣的是，UCBT 似乎能透過目前尚未知的機轉提供強大的抗白血病療效。研究曾報導，在帶有微量殘存疾病（MRD）接受移植的患者中，UCBT 後的復發率相較於非親屬供者（URD）移植顯著降低，此現象仍有待進一步驗證（Milano et al. 2016）。此外，近期在接受單一臍帶血單位移植的極高風險白血病兒童中也報導了相同的觀察結果：第 2 次完全緩解（CR2）患者的兩年無事件存活率（EFS）為 80%，高風險（原發難治型或復發型白血病）患者為 67%，而於 CR1 接受移植的患者則為 61%（Horgan et al. 2023）。依循相同的方向，在罹患遺傳與代謝疾病的兒童中也報導了令人印象極為深刻的結果：在 4 年的中位追蹤時間下，兩年總存活率（OS）高達 91%（Martinez et al. 2023）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 572,
+      "blocks": [
+        {
+          "id": 6400014,
+          "page": 572,
+          "en": "64.9 Adults\n[Table: Adult UCBT 2-year OS (%)]\nOutcomes according to DRI:\n• Low: 55 ± 3\n• Intermediate: 47 ± 1\n• High: 27 ± 2\n• Very high: 19 ± 3\nDisease-specific outcomes:\n• Acute leukemia: 37 ± 1\n• MDS/MPS: 32 ± 2\n• Lymphoproliferative disorders: 45 ± 2\n• Plasma cell disorder: 37 ± 5\nAbbreviations: OS overall survival, DRI disease risk index, MDS myelodysplastic syndrome, MPS myeloproliferative syndrome",
+          "zh": "64.9 成人治療結果\n【表格：成人 UCBT 之兩年總存活率（2-year OS, %）】\n依疾病風險指數（DRI）分層之結果：\n• 低風險（Low）：55 ± 3\n• 中度風險（Intermediate）：47 ± 1\n• 高風險（High）：27 ± 2\n• 極高風險（Very high）：19 ± 3\n各疾病別之結果（Disease-specific outcomes）：\n• 急性白血病（Acute leukemia）：37 ± 1\n• 骨髓增生不良症候群／骨髓增生性症候群（MDS/MPS）：32 ± 2\n• 淋巴增生性疾病（Lymphoproliferative disorders）：45 ± 2\n• 漿細胞疾病（Plasma cell disorder）：37 ± 5\n縮寫：OS：總存活率（overall survival）；DRI：疾病風險指數（disease risk index）；MDS：骨髓增生不良症候群；MPS：骨髓增生性症候群。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400015,
+          "page": 572,
+          "en": "64.10 Children\n[Table: Pediatric UCBT 2-year OS (%)]\nMalignant disorders: 49 ± 1\n• Acute leukemia: 52 ± 1\n• MDS: 55 ± 3\n• Lymphoproliferative disorders: 55 ± 3\nNonmalignant disorders: 63 ± 1\n• Inborn error of metabolism: 70 ± 2\n• Hemoglobinopathies: 68 ± 9\n• Primary immunodeficiency: 68 ± 2\n• Histiocytic disorders: 60 ± 4\n• Bone marrow failure syndrome: 52 ± 3\nAbbreviations: OS overall survival, MDS myelodysplastic syndrome",
+          "zh": "64.10 兒童治療結果\n【表格：兒童 UCBT 之兩年總存活率（2-year OS, %）】\n惡性疾病（Malignant disorders）：49 ± 1\n• 急性白血病（Acute leukemia）：52 ± 1\n• 骨髓增生不良症候群（MDS）：55 ± 3\n• 淋巴增生性疾病（Lymphoproliferative disorders）：55 ± 3\n非惡性疾病（Nonmalignant disorders）：63 ± 1\n• 先天代謝異常（Inborn error of metabolism）：70 ± 2\n• 血紅素病變（Hemoglobinopathies）：68 ± 9\n• 原發性免疫缺陷（Primary immunodeficiency）：68 ± 2\n• 組織球疾病（Histiocytic disorders）：60 ± 4\n• 骨髓衰竭症候群（Bone marrow failure syndrome）：52 ± 3\n縮寫：OS：總存活率；MDS：骨髓增生不良症候群。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400016,
+          "page": 572,
+          "en": "64.11 Conclusions\nUCBT activity has drastically decreased in favor of other donor/stem cell options, specially haplo-HCT that shares the main advantage of UCB: high and rapid availability. However, UCB remains a valuable source of stem cells for HCT in selected patients that lack other options or in highly specialized units with preference of UCB. Important improvements in the field have taken place with a beneficial impact on NRM. Strategies to enhance engraftment with UCB ex vivo expansion have shown impressive success, although its widespread use and benefit in real-life clinical practice remain to be seen. There is still a room for improvement; however, clinical research in the field will be challenging in the future.",
+          "zh": "64.11 結論\n由於其他供者／幹細胞選項的發展（特別是同樣具備「高且快速可得性」這項 UCB 主要優勢的半相合 HCT），UCBT 的執行量已大幅下降。然而，對於缺乏其他選擇的特定患者，或是在偏好使用 UCB 的高度專業化移植中心裡，臍帶血仍是 HCT 寶貴的幹細胞來源。此領域已出現多項重要進展，並對降低 NRM 產生了正面影響。利用 UCB 體外擴增來促進植入的策略已展現出令人矚目的成功，儘管其在真實世界臨床實務中的廣泛應用與獲益仍有待觀察。目前仍有進一步改善的空間；然而，未來在此領域推動臨床研究將會面臨諸多挑戰。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6400017,
+          "page": 572,
+          "en": "Admiraal R, Lindemans CA, Van Kesteren C, et al. Excellent T-cell reconstitution and survival depend on low ATG exposure after pediatric cord blood transplantation. Blood. 2016;128(23):2734–41.",
+          "zh": "Admiraal R, Lindemans CA, Van Kesteren C, et al. Excellent T-cell reconstitution and survival depend on low ATG exposure after pediatric cord blood transplantation. Blood. 2016;128(23):2734–41.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Admiraal%20R%2C%20Lindemans%20CA%2C%20Van%20Kesteren%20C%2C%20et%20al.%20Excellent%20T-cell%20reconstitution%20and%20survival%20depend%20on%20low%20ATG%20exposure%20after%20pediatric%20cord%20blood%20transplantation.%20Blood.%202016%3B128%2823%29%3A2734%E2%80%9341."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Admiraal%20R%2C%20Lindemans%20CA%2C%20Van%20Kesteren%20C%2C%20et%20al.%20Excellent%20T-cell%20reconstitution%20and%20survival%20depend%20on%20low%20ATG%20exposure%20after%20pediatric%20cord%20blood%20transplantation.%20Blood.%202016%3B128%2823%29%3A2734%E2%80%9341."
+            }
+          ]
+        },
+        {
+          "id": 6400018,
+          "page": 572,
+          "en": "Atsuta Y, Morishima Y, Suzuki R, et al. Comparison of unrelated cord blood transplantation and HLA-mismatched unrelated bone marrow transplantation for adults with leukemia. Biol Blood Marrow Transplant. 2012;18(5):780–7.",
+          "zh": "Atsuta Y, Morishima Y, Suzuki R, et al. Comparison of unrelated cord blood transplantation and HLA-mismatched unrelated bone marrow transplantation for adults with leukemia. Biol Blood Marrow Transplant. 2012;18(5):780–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Atsuta%20Y%2C%20Morishima%20Y%2C%20Suzuki%20R%2C%20et%20al.%20Comparison%20of%20unrelated%20cord%20blood%20transplantation%20and%20HLA-mismatched%20unrelated%20bone%20marrow%20transplantation%20for%20adults%20with%20leukemia.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%285%29%3A780%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Atsuta%20Y%2C%20Morishima%20Y%2C%20Suzuki%20R%2C%20et%20al.%20Comparison%20of%20unrelated%20cord%20blood%20transplantation%20and%20HLA-mismatched%20unrelated%20bone%20marrow%20transplantation%20for%20adults%20with%20leukemia.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%285%29%3A780%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6400019,
+          "page": 572,
+          "en": "Barker JN, Fei M, Karanes C, et al. Results of a prospective multicentre myeloablative double-unit cord blood transplantation trial in adult patients with acute leukaemia and myelodysplasia. Br J Haematol. 2015;168(3):405–12.",
+          "zh": "Barker JN, Fei M, Karanes C, et al. Results of a prospective multicentre myeloablative double-unit cord blood transplantation trial in adult patients with acute leukaemia and myelodysplasia. Br J Haematol. 2015;168(3):405–12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Barker%20JN%2C%20Fei%20M%2C%20Karanes%20C%2C%20et%20al.%20Results%20of%20a%20prospective%20multicentre%20myeloablative%20double-unit%20cord%20blood%20transplantation%20trial%20in%20adult%20patients%20with%20acute%20leukaemia%20and%20myelodysplasia.%20Br%20J%20Haematol.%202015%3B168%283%29%3A405%E2%80%9312."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Barker%20JN%2C%20Fei%20M%2C%20Karanes%20C%2C%20et%20al.%20Results%20of%20a%20prospective%20multicentre%20myeloablative%20double-unit%20cord%20blood%20transplantation%20trial%20in%20adult%20patients%20with%20acute%20leukaemia%20and%20myelodysplasia.%20Br%20J%20Haematol.%202015%3B168%283%29%3A405%E2%80%9312."
+            }
+          ]
+        },
+        {
+          "id": 6400020,
+          "page": 572,
+          "en": "Barker JN, Devlin SM, Naputo KA, et al. High progression-free survival after intermediate intensity double unit cord blood transplantation in adults. Blood Adv. 2020;4(23):6064–76.",
+          "zh": "Barker JN, Devlin SM, Naputo KA, et al. High progression-free survival after intermediate intensity double unit cord blood transplantation in adults. Blood Adv. 2020;4(23):6064–76.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Barker%20JN%2C%20Devlin%20SM%2C%20Naputo%20KA%2C%20et%20al.%20High%20progression-free%20survival%20after%20intermediate%20intensity%20double%20unit%20cord%20blood%20transplantation%20in%20adults.%20Blood%20Adv.%202020%3B4%2823%29%3A6064%E2%80%9376."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Barker%20JN%2C%20Devlin%20SM%2C%20Naputo%20KA%2C%20et%20al.%20High%20progression-free%20survival%20after%20intermediate%20intensity%20double%20unit%20cord%20blood%20transplantation%20in%20adults.%20Blood%20Adv.%202020%3B4%2823%29%3A6064%E2%80%9376."
+            }
+          ]
+        },
+        {
+          "id": 6400021,
+          "page": 572,
+          "en": "Brunstein CG, Gutman JA, Weisdorf DJ, et al. Allogeneic hematopoietic cell transplantation for hematologic malignancy: relative risks and benefits of double umbilical cord blood. Blood. 2010;116(22):4693.",
+          "zh": "Brunstein CG, Gutman JA, Weisdorf DJ, et al. Allogeneic hematopoietic cell transplantation for hematologic malignancy: relative risks and benefits of double umbilical cord blood. Blood. 2010;116(22):4693.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Brunstein%20CG%2C%20Gutman%20JA%2C%20Weisdorf%20DJ%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20for%20hematologic%20malignancy%3A%20relative%20risks%20and%20benefits%20of%20double%20umbilical%20cord%20blood.%20Blood.%202010%3B116%2822%29%3A4693."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Brunstein%20CG%2C%20Gutman%20JA%2C%20Weisdorf%20DJ%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20for%20hematologic%20malignancy%3A%20relative%20risks%20and%20benefits%20of%20double%20umbilical%20cord%20blood.%20Blood.%202010%3B116%2822%29%3A4693."
+            }
+          ]
+        },
+        {
+          "id": 6400022,
+          "page": 572,
+          "en": "Cohen S, Roy J, Lachance S, et al. Hematopoietic stem cell transplantation using single UM171-expanded cord blood: a single-arm, phase 1–2 safety and feasibility study. Lancet Haematol. 2020;7(2):e134–45.",
+          "zh": "Cohen S, Roy J, Lachance S, et al. Hematopoietic stem cell transplantation using single UM171-expanded cord blood: a single-arm, phase 1–2 safety and feasibility study. Lancet Haematol. 2020;7(2):e134–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cohen%20S%2C%20Roy%20J%2C%20Lachance%20S%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20using%20single%20UM171-expanded%20cord%20blood%3A%20a%20single-arm%2C%20phase%201%E2%80%932%20safety%20and%20feasibility%20study.%20Lancet%20Haematol.%202020%3B7%282%29%3Ae134%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cohen%20S%2C%20Roy%20J%2C%20Lachance%20S%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20using%20single%20UM171-expanded%20cord%20blood%3A%20a%20single-arm%2C%20phase%201%E2%80%932%20safety%20and%20feasibility%20study.%20Lancet%20Haematol.%202020%3B7%282%29%3Ae134%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 6400023,
+          "page": 572,
+          "en": "Cord blood transplantations. Cham: Springer International Publishing; 2017.",
+          "zh": "Cord blood transplantations. Cham: Springer International Publishing; 2017.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cord%20blood%20transplantations.%20Cham%3A%20Springer%20International%20Publishing%3B%202017."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cord%20blood%20transplantations.%20Cham%3A%20Springer%20International%20Publishing%3B%202017."
+            }
+          ]
+        },
+        {
+          "id": 6400024,
+          "page": 572,
+          "en": "Eapen M, Rubinstein P, Zhang MJ, et al. Outcomes of transplantation of unrelated donor umbilical cord blood and bone marrow in children with acute leukaemia: a comparison study. Lancet. 2007;369(9577):1947–54.",
+          "zh": "Eapen M, Rubinstein P, Zhang MJ, et al. Outcomes of transplantation of unrelated donor umbilical cord blood and bone marrow in children with acute leukaemia: a comparison study. Lancet. 2007;369(9577):1947–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eapen%20M%2C%20Rubinstein%20P%2C%20Zhang%20MJ%2C%20et%20al.%20Outcomes%20of%20transplantation%20of%20unrelated%20donor%20umbilical%20cord%20blood%20and%20bone%20marrow%20in%20children%20with%20acute%20leukaemia%3A%20a%20comparison%20study.%20Lancet.%202007%3B369%289577%29%3A1947%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eapen%20M%2C%20Rubinstein%20P%2C%20Zhang%20MJ%2C%20et%20al.%20Outcomes%20of%20transplantation%20of%20unrelated%20donor%20umbilical%20cord%20blood%20and%20bone%20marrow%20in%20children%20with%20acute%20leukaemia%3A%20a%20comparison%20study.%20Lancet.%202007%3B369%289577%29%3A1947%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 6400025,
+          "page": 572,
+          "en": "Fatobene G, Volt F, Moreira F, et al. Optimizing selection of double cord blood units for transplantation of adult patients with malignant diseases. Blood Adv. 2020;4(24):6327–35.",
+          "zh": "Fatobene G, Volt F, Moreira F, et al. Optimizing selection of double cord blood units for transplantation of adult patients with malignant diseases. Blood Adv. 2020;4(24):6327–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fatobene%20G%2C%20Volt%20F%2C%20Moreira%20F%2C%20et%20al.%20Optimizing%20selection%20of%20double%20cord%20blood%20units%20for%20transplantation%20of%20adult%20patients%20with%20malignant%20diseases.%20Blood%20Adv.%202020%3B4%2824%29%3A6327%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fatobene%20G%2C%20Volt%20F%2C%20Moreira%20F%2C%20et%20al.%20Optimizing%20selection%20of%20double%20cord%20blood%20units%20for%20transplantation%20of%20adult%20patients%20with%20malignant%20diseases.%20Blood%20Adv.%202020%3B4%2824%29%3A6327%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 6400026,
+          "page": 572,
+          "en": "Fatobene G, Mariano L, Volt F, et al. Impact of allele-level HLA matching on outcomes after double cord blood transplantation in adults with malignancies. Blood Adv. 2023;7(13):3297.",
+          "zh": "Fatobene G, Mariano L, Volt F, et al. Impact of allele-level HLA matching on outcomes after double cord blood transplantation in adults with malignancies. Blood Adv. 2023;7(13):3297.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fatobene%20G%2C%20Mariano%20L%2C%20Volt%20F%2C%20et%20al.%20Impact%20of%20allele-level%20HLA%20matching%20on%20outcomes%20after%20double%20cord%20blood%20transplantation%20in%20adults%20with%20malignancies.%20Blood%20Adv.%202023%3B7%2813%29%3A3297."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fatobene%20G%2C%20Mariano%20L%2C%20Volt%20F%2C%20et%20al.%20Impact%20of%20allele-level%20HLA%20matching%20on%20outcomes%20after%20double%20cord%20blood%20transplantation%20in%20adults%20with%20malignancies.%20Blood%20Adv.%202023%3B7%2813%29%3A3297."
+            }
+          ]
+        },
+        {
+          "id": 6400027,
+          "page": 572,
+          "en": "Fuchs EJ, O’Donnell PV, Eapen M, et al. Double unrelated umbilical cord blood versus HLA-haploidentical bone marrow transplantation (BMT CTN 1101). Blood. 2020;137(3):420–8.",
+          "zh": "Fuchs EJ, O’Donnell PV, Eapen M, et al. Double unrelated umbilical cord blood versus HLA-haploidentical bone marrow transplantation (BMT CTN 1101). Blood. 2020;137(3):420–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fuchs%20EJ%2C%20O%E2%80%99Donnell%20PV%2C%20Eapen%20M%2C%20et%20al.%20Double%20unrelated%20umbilical%20cord%20blood%20versus%20HLA-haploidentical%20bone%20marrow%20transplantation%20%28BMT%20CTN%201101%29.%20Blood.%202020%3B137%283%29%3A420%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fuchs%20EJ%2C%20O%E2%80%99Donnell%20PV%2C%20Eapen%20M%2C%20et%20al.%20Double%20unrelated%20umbilical%20cord%20blood%20versus%20HLA-haploidentical%20bone%20marrow%20transplantation%20%28BMT%20CTN%201101%29.%20Blood.%202020%3B137%283%29%3A420%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6400028,
+          "page": 572,
+          "en": "Horgan C, Mullanfiroze K, Rauthan A, et al. T-cell replete cord transplants give superior outcomes in high-risk and relapsed/refractory pediatric myeloid malignancy. Blood Adv. 2023;7(10):2155–65.",
+          "zh": "Horgan C, Mullanfiroze K, Rauthan A, et al. T-cell replete cord transplants give superior outcomes in high-risk and relapsed/refractory pediatric myeloid malignancy. Blood Adv. 2023;7(10):2155–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Horgan%20C%2C%20Mullanfiroze%20K%2C%20Rauthan%20A%2C%20et%20al.%20T-cell%20replete%20cord%20transplants%20give%20superior%20outcomes%20in%20high-risk%20and%20relapsed/refractory%20pediatric%20myeloid%20malignancy.%20Blood%20Adv.%202023%3B7%2810%29%3A2155%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Horgan%20C%2C%20Mullanfiroze%20K%2C%20Rauthan%20A%2C%20et%20al.%20T-cell%20replete%20cord%20transplants%20give%20superior%20outcomes%20in%20high-risk%20and%20relapsed/refractory%20pediatric%20myeloid%20malignancy.%20Blood%20Adv.%202023%3B7%2810%29%3A2155%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 6400029,
+          "page": 572,
+          "en": "Horwitz ME, Stiff PJ, Cutler CS, et al. Omidubicel versus standard myeloablative umbilical cord blood transplantation: results of a phase III randomized study. Blood. 2021;138(16):1429–40.",
+          "zh": "Horwitz ME, Stiff PJ, Cutler CS, et al. Omidubicel versus standard myeloablative umbilical cord blood transplantation: results of a phase III randomized study. Blood. 2021;138(16):1429–40.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Horwitz%20ME%2C%20Stiff%20PJ%2C%20Cutler%20CS%2C%20et%20al.%20Omidubicel%20versus%20standard%20myeloablative%20umbilical%20cord%20blood%20transplantation%3A%20results%20of%20a%20phase%20III%20randomized%20study.%20Blood.%202021%3B138%2816%29%3A1429%E2%80%9340."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Horwitz%20ME%2C%20Stiff%20PJ%2C%20Cutler%20CS%2C%20et%20al.%20Omidubicel%20versus%20standard%20myeloablative%20umbilical%20cord%20blood%20transplantation%3A%20results%20of%20a%20phase%20III%20randomized%20study.%20Blood.%202021%3B138%2816%29%3A1429%E2%80%9340."
+            }
+          ]
+        },
+        {
+          "id": 6400030,
+          "page": 572,
+          "en": "Kanate AS, Majhail NS, Savani BN, et al. Indications for hematopoietic cell transplantation and immune effector cell therapy: guidelines from the American Society for Transplantation and Cellular Therapy. Biol Blood Marrow Transplant. 2020;26(7):1247–56.",
+          "zh": "Kanate AS, Majhail NS, Savani BN, et al. Indications for hematopoietic cell transplantation and immune effector cell therapy: guidelines from the American Society for Transplantation and Cellular Therapy. Biol Blood Marrow Transplant. 2020;26(7):1247–56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kanate%20AS%2C%20Majhail%20NS%2C%20Savani%20BN%2C%20et%20al.%20Indications%20for%20hematopoietic%20cell%20transplantation%20and%20immune%20effector%20cell%20therapy%3A%20guidelines%20from%20the%20American%20Society%20for%20Transplantation%20and%20Cellular%20Therapy.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%287%29%3A1247%E2%80%9356."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kanate%20AS%2C%20Majhail%20NS%2C%20Savani%20BN%2C%20et%20al.%20Indications%20for%20hematopoietic%20cell%20transplantation%20and%20immune%20effector%20cell%20therapy%3A%20guidelines%20from%20the%20American%20Society%20for%20Transplantation%20and%20Cellular%20Therapy.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%287%29%3A1247%E2%80%9356."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 573,
+      "blocks": [
+        {
+          "id": 6400031,
+          "page": 573,
+          "en": "Martinez C, Aguayo-Hiraldo P, Chaimowitz N, et al. Cord blood transplantation for nonmalignant disorders: early functional immunity and high survival. Blood Adv. 2023;7(9):1823–30.",
+          "zh": "Martinez C, Aguayo-Hiraldo P, Chaimowitz N, et al. Cord blood transplantation for nonmalignant disorders: early functional immunity and high survival. Blood Adv. 2023;7(9):1823–30.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Martinez%20C%2C%20Aguayo-Hiraldo%20P%2C%20Chaimowitz%20N%2C%20et%20al.%20Cord%20blood%20transplantation%20for%20nonmalignant%20disorders%3A%20early%20functional%20immunity%20and%20high%20survival.%20Blood%20Adv.%202023%3B7%289%29%3A1823%E2%80%9330."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Martinez%20C%2C%20Aguayo-Hiraldo%20P%2C%20Chaimowitz%20N%2C%20et%20al.%20Cord%20blood%20transplantation%20for%20nonmalignant%20disorders%3A%20early%20functional%20immunity%20and%20high%20survival.%20Blood%20Adv.%202023%3B7%289%29%3A1823%E2%80%9330."
+            }
+          ]
+        },
+        {
+          "id": 6400032,
+          "page": 573,
+          "en": "Metheny L, Politikos I, Ballen KK, et al. Guidelines for adult patient selection and conditioning regimens in cord blood transplant recipients with hematologic malignancies and aplastic anemia. Transplant Cell Ther. 2021;27(4):286–91.",
+          "zh": "Metheny L, Politikos I, Ballen KK, et al. Guidelines for adult patient selection and conditioning regimens in cord blood transplant recipients with hematologic malignancies and aplastic anemia. Transplant Cell Ther. 2021;27(4):286–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Metheny%20L%2C%20Politikos%20I%2C%20Ballen%20KK%2C%20et%20al.%20Guidelines%20for%20adult%20patient%20selection%20and%20conditioning%20regimens%20in%20cord%20blood%20transplant%20recipients%20with%20hematologic%20malignancies%20and%20aplastic%20anemia.%20Transplant%20Cell%20Ther.%202021%3B27%284%29%3A286%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Metheny%20L%2C%20Politikos%20I%2C%20Ballen%20KK%2C%20et%20al.%20Guidelines%20for%20adult%20patient%20selection%20and%20conditioning%20regimens%20in%20cord%20blood%20transplant%20recipients%20with%20hematologic%20malignancies%20and%20aplastic%20anemia.%20Transplant%20Cell%20Ther.%202021%3B27%284%29%3A286%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 6400033,
+          "page": 573,
+          "en": "Michel G, Galambrun C, Sirvent A, et al. Single- vs double-unit cord blood transplantation for children and young adults with acute leukemia or myelodysplastic syndrome. Blood. 2016;127(26):3450–7.",
+          "zh": "Michel G, Galambrun C, Sirvent A, et al. Single- vs double-unit cord blood transplantation for children and young adults with acute leukemia or myelodysplastic syndrome. Blood. 2016;127(26):3450–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Michel%20G%2C%20Galambrun%20C%2C%20Sirvent%20A%2C%20et%20al.%20Single-%20vs%20double-unit%20cord%20blood%20transplantation%20for%20children%20and%20young%20adults%20with%20acute%20leukemia%20or%20myelodysplastic%20syndrome.%20Blood.%202016%3B127%2826%29%3A3450%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Michel%20G%2C%20Galambrun%20C%2C%20Sirvent%20A%2C%20et%20al.%20Single-%20vs%20double-unit%20cord%20blood%20transplantation%20for%20children%20and%20young%20adults%20with%20acute%20leukemia%20or%20myelodysplastic%20syndrome.%20Blood.%202016%3B127%2826%29%3A3450%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6400034,
+          "page": 573,
+          "en": "Passweg JR, Baldomero H, Chabannon C, et al; for the European Society for Blood and Marrow Transplantation (EBMT). Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–1664.",
+          "zh": "Passweg JR, Baldomero H, Chabannon C, et al; for the European Society for Blood and Marrow Transplantation (EBMT). Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–1664.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20et%20al%3B%20for%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%931664."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20et%20al%3B%20for%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%931664."
+            }
+          ]
+        },
+        {
+          "id": 6400035,
+          "page": 573,
+          "en": "Politikos I, Davis E, Nhaissi M, et al. Guidelines for cord blood unit selection. Biol Blood Marrow Transplant. 2020;26(12):2190–6.",
+          "zh": "Politikos I, Davis E, Nhaissi M, et al. Guidelines for cord blood unit selection. Biol Blood Marrow Transplant. 2020;26(12):2190–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Politikos%20I%2C%20Davis%20E%2C%20Nhaissi%20M%2C%20et%20al.%20Guidelines%20for%20cord%20blood%20unit%20selection.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%2812%29%3A2190%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Politikos%20I%2C%20Davis%20E%2C%20Nhaissi%20M%2C%20et%20al.%20Guidelines%20for%20cord%20blood%20unit%20selection.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%2812%29%3A2190%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6400036,
+          "page": 573,
+          "en": "Ruggeri A. Optimizing cord blood selection. Hematology (United States). 2019;2019(1):522–31.",
+          "zh": "Ruggeri A. Optimizing cord blood selection. Hematology (United States). 2019;2019(1):522–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ruggeri%20A.%20Optimizing%20cord%20blood%20selection.%20Hematology%20%28United%20States%29.%202019%3B2019%281%29%3A522%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ruggeri%20A.%20Optimizing%20cord%20blood%20selection.%20Hematology%20%28United%20States%29.%202019%3B2019%281%29%3A522%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 6400037,
+          "page": 573,
+          "en": "Sanz J, Boluda JCH, Martín C, et al. Single-unit umbilical cord blood transplantation from unrelated donors in patients with hematological malignancy using busulfan, thiotepa, fludarabine and ATG as myeloablative conditioning regimen. Bone Marrow Transplant. 2012;47(10):1287–93.",
+          "zh": "Sanz J, Boluda JCH, Martín C, et al. Single-unit umbilical cord blood transplantation from unrelated donors in patients with hematological malignancy using busulfan, thiotepa, fludarabine and ATG as myeloablative conditioning regimen. Bone Marrow Transplant. 2012;47(10):1287–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20J%2C%20Boluda%20JCH%2C%20Mart%C3%ADn%20C%2C%20et%20al.%20Single-unit%20umbilical%20cord%20blood%20transplantation%20from%20unrelated%20donors%20in%20patients%20with%20hematological%20malignancy%20using%20busulfan%2C%20thiotepa%2C%20fludarabine%20and%20ATG%20as%20myeloablative%20conditioning%20regimen.%20Bone%20Marrow%20Transplant.%202012%3B47%2810%29%3A1287%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20J%2C%20Boluda%20JCH%2C%20Mart%C3%ADn%20C%2C%20et%20al.%20Single-unit%20umbilical%20cord%20blood%20transplantation%20from%20unrelated%20donors%20in%20patients%20with%20hematological%20malignancy%20using%20busulfan%2C%20thiotepa%2C%20fludarabine%20and%20ATG%20as%20myeloablative%20conditioning%20regimen.%20Bone%20Marrow%20Transplant.%202012%3B47%2810%29%3A1287%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6400038,
+          "page": 573,
+          "en": "Sanz J, Kwon M, Bautista G, et al. Single umbilical cord blood with or without CD34+ cells from a third-party donor in adults with leukemia. Blood Adv. 2017;1(15):1047–55.",
+          "zh": "Sanz J, Kwon M, Bautista G, et al. Single umbilical cord blood with or without CD34+ cells from a third-party donor in adults with leukemia. Blood Adv. 2017;1(15):1047–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20J%2C%20Kwon%20M%2C%20Bautista%20G%2C%20et%20al.%20Single%20umbilical%20cord%20blood%20with%20or%20without%20CD34%2B%20cells%20from%20a%20third-party%20donor%20in%20adults%20with%20leukemia.%20Blood%20Adv.%202017%3B1%2815%29%3A1047%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20J%2C%20Kwon%20M%2C%20Bautista%20G%2C%20et%20al.%20Single%20umbilical%20cord%20blood%20with%20or%20without%20CD34%2B%20cells%20from%20a%20third-party%20donor%20in%20adults%20with%20leukemia.%20Blood%20Adv.%202017%3B1%2815%29%3A1047%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 6400039,
+          "page": 573,
+          "en": "Sanz J, Montoro J, Solano C, et al. Prospective randomized study comparing myeloablative unrelated umbilical cord blood transplantation versus HLA-haploidentical related stem cell transplantation for adults with hematologic malignancies. Biol Blood Marrow Transplant. 2020;26(2):358–66.",
+          "zh": "Sanz J, Montoro J, Solano C, et al. Prospective randomized study comparing myeloablative unrelated umbilical cord blood transplantation versus HLA-haploidentical related stem cell transplantation for adults with hematologic malignancies. Biol Blood Marrow Transplant. 2020;26(2):358–66.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20J%2C%20Montoro%20J%2C%20Solano%20C%2C%20et%20al.%20Prospective%20randomized%20study%20comparing%20myeloablative%20unrelated%20umbilical%20cord%20blood%20transplantation%20versus%20HLA-haploidentical%20related%20stem%20cell%20transplantation%20for%20adults%20with%20hematologic%20malignancies.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%282%29%3A358%E2%80%9366."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20J%2C%20Montoro%20J%2C%20Solano%20C%2C%20et%20al.%20Prospective%20randomized%20study%20comparing%20myeloablative%20unrelated%20umbilical%20cord%20blood%20transplantation%20versus%20HLA-haploidentical%20related%20stem%20cell%20transplantation%20for%20adults%20with%20hematologic%20malignancies.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%282%29%3A358%E2%80%9366."
+            }
+          ]
+        },
+        {
+          "id": 6400040,
+          "page": 573,
+          "en": "Scaradavou A, Brunstein CG, Eapen M, et al. Double unit grafts successfully extend the application of umbilical cord blood transplantation in adults with acute leukemia. Blood. 2013;121(5):752–8.",
+          "zh": "Scaradavou A, Brunstein CG, Eapen M, et al. Double unit grafts successfully extend the application of umbilical cord blood transplantation in adults with acute leukemia. Blood. 2013;121(5):752–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Scaradavou%20A%2C%20Brunstein%20CG%2C%20Eapen%20M%2C%20et%20al.%20Double%20unit%20grafts%20successfully%20extend%20the%20application%20of%20umbilical%20cord%20blood%20transplantation%20in%20adults%20with%20acute%20leukemia.%20Blood.%202013%3B121%285%29%3A752%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Scaradavou%20A%2C%20Brunstein%20CG%2C%20Eapen%20M%2C%20et%20al.%20Double%20unit%20grafts%20successfully%20extend%20the%20application%20of%20umbilical%20cord%20blood%20transplantation%20in%20adults%20with%20acute%20leukemia.%20Blood.%202013%3B121%285%29%3A752%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6400041,
+          "page": 573,
+          "en": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, et al. Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57(8):1217–39.",
+          "zh": "Snowden JA, Sánchez-Ortega I, Corbacioglu S, et al. Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022. Bone Marrow Transplant. 2022;57(8):1217–39.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Snowden%20JA%2C%20S%C3%A1nchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20et%20al.%20Indications%20for%20haematopoietic%20cell%20transplantation%20for%20haematological%20diseases%2C%20solid%20tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57%288%29%3A1217%E2%80%9339."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Snowden%20JA%2C%20S%C3%A1nchez-Ortega%20I%2C%20Corbacioglu%20S%2C%20et%20al.%20Indications%20for%20haematopoietic%20cell%20transplantation%20for%20haematological%20diseases%2C%20solid%20tumours%20and%20immune%20disorders%3A%20current%20practice%20in%20Europe%2C%202022.%20Bone%20Marrow%20Transplant.%202022%3B57%288%29%3A1217%E2%80%9339."
+            }
+          ]
+        },
+        {
+          "id": 6400042,
+          "page": 573,
+          "en": "Wagner JE, Eapen M, Carter S, et al. One-unit versus two-unit cord-blood transplantation for hematologic cancers. N Engl J Med. 2014;371(18):1685–94.",
+          "zh": "Wagner JE, Eapen M, Carter S, et al. One-unit versus two-unit cord-blood transplantation for hematologic cancers. N Engl J Med. 2014;371(18):1685–94.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wagner%20JE%2C%20Eapen%20M%2C%20Carter%20S%2C%20et%20al.%20One-unit%20versus%20two-unit%20cord-blood%20transplantation%20for%20hematologic%20cancers.%20N%20Engl%20J%20Med.%202014%3B371%2818%29%3A1685%E2%80%9394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wagner%20JE%2C%20Eapen%20M%2C%20Carter%20S%2C%20et%20al.%20One-unit%20versus%20two-unit%20cord-blood%20transplantation%20for%20hematologic%20cancers.%20N%20Engl%20J%20Med.%202014%3B371%2818%29%3A1685%E2%80%9394."
+            }
+          ]
+        },
+        {
+          "id": 6400043,
+          "page": 573,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
