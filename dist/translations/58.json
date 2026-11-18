@@ -1,0 +1,1045 @@
+{
+  "id": 58,
+  "title": "Prevention and Treatment of Relapse by Drugs",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 64,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 525,
+      "blocks": [
+        {
+          "id": 5800001,
+          "page": 525,
+          "en": "58 Prevention and Treatment of Relapse by Drugs\nNicolaus Kröger and Nico Gagelmann",
+          "zh": "58 以藥物預防與治療復發（Prevention and Treatment of Relapse by Drugs） — Nicolaus Kröger、Nico Gagelmann",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_58"
+            }
+          ]
+        },
+        {
+          "id": 5800002,
+          "page": 525,
+          "en": "58.1 Introduction\nRelapse has become the most frequent cause of treatment failure after HCT (Horowitz et al. 2018). Because outcome after relapse remains poor, major efforts are focused on prevention of relapse. Beside adoptive cell-based options, such as DLI and CAR T cells, the availability of novel effective pharmacological compounds has opened new avenues in clinical research to use those drugs early after HCT in order to prevent and treat relapse (Kroger et al. 2014). The optimal pharmacological compound should have a safe toxicity profile, an antitumor effect to the underlying disease, and an immune profile which can be used to booster the graft-versus-leukemia (GVL) effect and to reduce the risk of GVHD.",
+          "zh": "58.1 前言\n復發已成為造血細胞移植（HCT）後治療失敗最常見的原因（Horowitz et al. 2018）。由於復發後的預後依然不佳，目前的主要努力皆聚焦於預防復發。除了如供者淋巴球輸注（DLI）與 CAR-T 細胞等過繼性細胞治療選項外，新型有效藥理化合物的問世，為臨床研究開闢了在 HCT 後早期使用這些藥物以預防及治療復發的新途徑（Kroger et al. 2014）。理想的藥物應具備安全的毒性表現、對原發疾病具直接抗腫瘤效應，同時具有可用於強化移植物抗白血病（GVL）效應並降低 GVHD 風險的免疫調節特性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800003,
+          "page": 525,
+          "en": "58.2 Tyrosine Kinase Inhibitors (TKI) Targeting BCR/ABL\nBeside a direct antitumor effect, TKIs targeting BCR/ABL in BCR/ABL-positive acute lymphoblastic leukemia or chronic myeloid leukemia are considered to induce also immunomodulating effects by inducing effect on T-cell cytolytic function, reducing T-cell PD-1 expression, and reducing myeloid-derived suppressor cells. TKIs targeting BCR/ABL such as imatinib induce more than 60% molecular remission in CML patients who relapsed after allograft. Smaller studies have investigated second-generation TKI successfully as maintenance therapy after allo-HCT for CML (Olavarria et al. 2007) and maintenance with TKIs after transplantation for blastic phase in CML seems to improve outcome (Niederwieser et al. 2021).\nTKIs as maintenance therapy for Ph + ALL led to nonconclusive results. The CIBMTR did not find a difference in Ph + ALL patients who received posttransplant TKIs regarding relapse at 3 years, while in an EBMT study Ph + ALL patients who received TKIs posttransplant had lower relapse incidence and an improved LFS. In a small randomized study comparing TKI prophylactically or preemptive in Ph + ALL, no difference in survival was observed (Pfeifer et al. 2013). In a position statement, EBMT recommended in MRD-negative patients after allo-HCT either prophylactic or preemptive treatment (Giebel et al. 2016).",
+          "zh": "58.2 靶向 BCR/ABL 之酪胺酸激酶抑制劑（TKI）\n在 BCR/ABL 陽性之急性淋巴性白血病（Ph+ ALL）或慢性骨髓性白血病（CML）中，靶向 BCR/ABL 的 TKIs 除了具有直接抗腫瘤效應外，也被認為能透過促進 T 細胞細胞毒殺功能、降低 T 細胞 PD-1 表現以及減少骨髓源性抑制細胞（MDSC）來誘導免疫調節效應。在異體移植後復發的 CML 患者中，如 imatinib 等靶向 BCR/ABL 的 TKIs 可誘導超過 60% 的分子緩解率。較小型的研究已成功探討將第二代 TKI 作為 CML 異體 HCT 後的維持治療（Olavarria et al. 2007），而在加速／急變期（blastic phase）CML 移植後使用 TKIs 進行維持治療似乎也能改善預後（Niederwieser et al. 2021）。\n將 TKIs 作為 Ph+ ALL 移植後的維持治療則得出不一致的結論：CIBMTR 的研究並未發現接受移植後 TKIs 的 Ph+ ALL 患者在 3 年復發率上有所差異，而在 EBMT 的研究中，移植後接受 TKIs 的 Ph+ ALL 患者則具有較低的復發發生率及改善的無白血病存活率（LFS）。在一項比較於 Ph+ ALL 進行預防性（prophylactic）或先發性（preemptive）給予 TKI 的小型隨機試驗中，兩組的存活率並無差異（Pfeifer et al. 2013）。在一份立場聲明中，EBMT 建議針對異體 HCT 後 MRD 陰性的 Ph+ ALL 患者，可採行預防性或 MRD 觸發之先發性 TKI 治療（Giebel et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800004,
+          "page": 525,
+          "en": "58.3 TKI Targeting FLT3-ITD\nTKIs in the setting of FLT3-ITD-positive AML are of clinical relevance because a higher risk of relapse has been described for FLT3-ITD-positive patients who received allo-HCT CR1 (30% vs. 16%). Animal experiences had shown that sorafenib stimulated immunogenicity by induction of IL-15 which enhanced T-cell activation and GVL effect (Mathew et al. 2018a).",
+          "zh": "58.3 靶向 FLT3-ITD 之酪胺酸激酶抑制劑（TKI）\n在 FLT3-ITD 陽性 AML 的情境下使用 TKIs 具有高度臨床意義，因為研究已指出於第一次完全緩解（CR1）接受異體 HCT 的 FLT3-ITD 陽性患者具有較高的復發風險（30% 對 16%）。動物實驗顯示，sorafenib 能透過誘導白血病細胞產生 IL-15 來刺激免疫原性，進而增強 T 細胞活化與 GVL 效應（Mathew et al. 2018a）。",
+          "review": "ai-draft",
+          "endPage": 526
+        },
+        {
+          "id": 5800005,
+          "page": 525,
+          "en": "N. Kröger (*) · N. Gagelmann\nDepartment of Stem Cell Transplantation, University Medical Center Hamburg-Eppendorf, Hamburg, Germany\ne-mail: nkroeger@uke.de\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_58",
+          "zh": "作者單位與聯絡資訊：\nN. Kröger（通訊作者）、N. Gagelmann：德國漢堡-埃彭多夫大學醫學中心（University Medical Center Hamburg-Eppendorf）幹細胞移植部；電子郵件：nkroeger@uke.de。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_58。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 526,
+      "blocks": [
+        {
+          "id": 5800006,
+          "page": 526,
+          "en": "Midostaurin which is approved in the treatment of FLT3-positive AML has been tested in a phase II study as maintenance therapy in FLT-3-ITD-positive patients with a low relapse rate at 12 months of only 9.2%, but a randomized trial could not find a survival benefit (Maziarz et al. 2018). In contrast, two prospective randomized trials compared sorafenib to placebo as maintenance therapy after allogeneic HCT and both studies showed significant benefit for sorafenib regarding event-free and overall survival (Burchert et al. 2020; Xuan et al. 2020). A meta-analysis suggested clear benefit of TKI post-allograft in FLT3-positive AML patients, favoring sorafenib (Gagelmann et al. 2021). Currently under investigation are randomized trials with other TKIs in FLT3-positive AML such as quizartinib, gilteritinib, and crenolanib.\nFor relapsed FLT3-ITD-positive patients, sorafenib can induce long-lasting CR, and retrospective data show better outcome of sorafenib plus DLI in comparison to DLI alone (Mathew et al. 2018a; Metzelder et al. 2012).",
+          "zh": "獲核准用於治療 FLT3 陽性 AML 的 midostaurin，曾在一項第 II 期研究中被測試作為 FLT3-ITD 陽性患者的移植後維持治療，其 12 個月時的復發率極低（僅 9.2%），但在隨機對照試驗（RADIUS 試驗）中卻未能證實具存活獲益（Maziarz et al. 2018）。相反地，有兩項前瞻性隨機對照試驗（SORMAIN 試驗與 Xuan 等人的第 III 期試驗）比較了 sorafenib 與安慰劑／觀察作為異體 HCT 後的維持治療，兩項研究皆顯示 sorafenib 在無事件存活率（EFS）與總存活率（OS）上具有顯著獲益（Burchert et al. 2020; Xuan et al. 2020）。一項統合分析亦指出，在 FLT3 陽性 AML 患者於異體移植後使用 TKI 具有明確獲益，且結果傾向支持 sorafenib（Gagelmann et al. 2021）。目前針對 FLT3 陽性 AML 使用其他 TKIs（如 quizartinib、gilteritinib 與 crenolanib）的隨機試驗正在進行或分析中。\n針對已復發的 FLT3-ITD 陽性患者，sorafenib 可誘導出持久的 CR，且回溯性數據顯示 sorafenib 併用 DLI 的預後優於單獨使用 DLI（Mathew et al. 2018a; Metzelder et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800007,
+          "page": 526,
+          "en": "58.4 Checkpoint Inhibitors\nCheckpoint inhibitors blocking CTLA-4 and PD-1 are now widely used in solid tumors and also in hematological malignancies such as Hodgkin’s disease (Ansell et al. 2015). Because of reversal of T-cell exhaustion by checkpoint inhibitors which may enhance a graft-versus-malignancy effect, this compound has also raised interest to be investigated after HCT. After auto-HCT PD-1 antibody, pidilizumab as maintenance therapy in DLBCL was well tolerated in a phase II study, and nivolumab has shown high response rate in patients with HL who relapsed after auto-HCT (Younes et al. 2016), while the combination of brentuximab vedotin plus nivolumab as consolidation strategy after auto-HCT was highly active for patients with high-risk relapsed or refractory classic HL (Herrera et al. 2023).\nThere is a concern about a higher risk of GVHD after checkpoint inhibition post-allograft, but ipilimumab did not induce high incidence of GVHD in phase I and phase II trials although the efficacy was limited with an overall response rate of less than 30% (Davids et al. 2016). PD-1 blockade investigated in a European trial was reported for 20 patients with HL who relapsed after allograft. The remission rate was high with 95% and 30% developed GVHD which was fatal in one patient. In a similar trial including 31 lymphoma patients who relapsed after allograft, the response rate was 77%, but 54% developed acute GVHD, and 8 patients died from GVHD-related complications (Haverkos et al. 2017).",
+          "zh": "58.4 免疫檢查點抑制劑（Checkpoint Inhibitors）\n阻斷 CTLA-4 與 PD-1 的免疫檢查點抑制劑如今已廣泛應用於實體腫瘤，以及如大家熟知的何杰金氏病等血液惡性疾病（Ansell et al. 2015）。由於檢查點抑制劑能逆轉 T 細胞耗竭（T-cell exhaustion）並可能藉此增強移植物抗惡性腫瘤效應，這類藥物也引起了在 HCT 後進行探討的興趣。在自體 HCT（auto-HCT）後，PD-1 抗體 pidilizumab 作為 DLBCL 的維持治療在一項第 II 期研究中耐受性良好，而 nivolumab 在 auto-HCT 後復發的何杰金氏淋巴瘤（HL）患者中展現出高反應率（Younes et al. 2016）；此外，brentuximab vedotin 併用 nivolumab 作為 auto-HCT 後的鞏固策略，在高風險復發或難治型典型 HL 患者中亦展現出極高的活性（Herrera et al. 2023）。\n在異體移植後使用檢查點抑制劑的主要顧慮是會提高 GVHD 的風險：抗 CTLA-4 抗體 ipilimumab 在第 I 期與第 II 期試驗中並未誘發高發生率的 GVHD，儘管其療效相對有限（總反應率低於 30%）（Davids et al. 2016）。一項歐洲研究報導了在 20 名異體移植後復發之 HL 患者中使用 PD-1 阻斷劑的結果：緩解率高達 95%，但有 30% 發生 GVHD（其中 1 名患者因此死亡）。在另一項納入 31 名異體移植後復發之淋巴瘤患者的類似研究中，反應率為 77%，但有高達 54% 的患者發生急性 GVHD，且有 8 名患者死於 GVHD 相關併發症（Haverkos et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800008,
+          "page": 526,
+          "en": "58.5 Hypomethylating Agents\nMethylation has a crucial role in epigenetic regulation of gene expression and malignant cells using hypermethylation to switch off a variety of genes which are responsible for growth inhibition and apoptosis. DNA methyltransferase inhibitors such as azacytidine or decitabine are active in MDS and AML, and according to their toxicity profile, they can be used after allo-HCT. Beside their effect on gene modification for differentiation and cell growth, hypomethylating agents (HMA) lead also to an upregulation of HLA and tumor-associated antigen which may be targeted by donor T cells (Hambach et al. 2009; Goodyear et al. 2010). Furthermore, CD4 and CD8 T cells were strongly suppressed by HMA, while an increase of regulatory T cells has been described.\nAzacytidine and decitabine either as single agent or in combination with DLI for relapsed patients have been reported, and up to 28% CR could be achieved including long-lasting remission (Schroeder et al. 2013). In a large EBMT study, an ORR of 25% with 15% CR and a 2-year OS of 12% have been reported for azacytidine after allo-HCT relapse in AML/MDS patients. Overall, the incidence of acute GVHD was low, and the addition of DLI did not improve response or OS. Smaller studies also reported efficacy of azacytidine to convert decreasing donor cell chimerism into full donor cell chimerism (Platzbecker et al. 2012).",
+          "zh": "58.5 去甲基化藥物（Hypomethylating Agents, HMA）\n甲基化在基因表現的表觀遺傳調控中扮演關鍵角色，而惡性細胞常利用過度甲基化（hypermethylation）來關閉負責抑制生長與誘導細胞凋亡的多種基因。如 azacytidine 或 decitabine 等 DNA 甲基轉移酶抑制劑在 MDS 與 AML 中具臨床活性，且基於其毒性表現，可於異體 HCT 後使用。去甲基化藥物（HMA）除了對細胞分化與生長相關基因具有修飾作用外，還會上調 HLA 與腫瘤相關抗原（如癌／睪丸抗原 MAGE、次要組織相容性抗原 HA-1）的表現，使腫瘤更容易被供者 T 細胞所靶向（Hambach et al. 2009; Goodyear et al. 2010）。此外，研究亦描述 HMA 會強烈抑制效應 CD4 與 CD8 T 細胞，同時增加調節性 T 細胞（Tregs）的數量。\n臨床上已報導將 azacytidine 與 decitabine 單用或與 DLI 併用來治療移植後復發的患者，可達成高達 28% 的 CR（包含持久的緩解）（Schroeder et al. 2013）。在一項大型 EBMT 研究中，針對異體 HCT 後復發的 AML/MDS 患者使用 azacytidine，報導的總反應率（ORR）為 25%（含 15% CR），兩年 OS 為 12%；整體而言，急性 GVHD 的發生率低，且加上 DLI 並未顯著改善反應率或 OS。較小型的研究（如 RELAZA 試驗）亦報導了先發性使用 azacytidine 能有效將下降中的供者細胞嵌合率重新轉化回完全供者細胞嵌合（Platzbecker et al. 2012）。",
+          "review": "ai-draft",
+          "endPage": 527
+        }
+      ]
+    },
+    {
+      "page": 527,
+      "blocks": [
+        {
+          "id": 5800009,
+          "page": 527,
+          "en": "Treating patients with HMA prophylactically to prevent relapse has been tested in a randomized trial, but no benefit for EFS and OS could be observed (Oran et al. 2020), and currently oral azacytidine (CC-486) is investigated in prospective randomized clinical trials.\nIn contrast, G-CSF in combination with decitabine has significantly reduced relapse after allogeneic HCT in a randomized trial (Gao et al. 2020).",
+          "zh": "在一項隨機對照試驗中曾測試對患者預防性給予 HMA 以防止復發，但未能觀察到在 EFS 與 OS 上的獲益（Oran et al. 2020）；目前口服 azacytidine（CC-486）正在前瞻性隨機臨床試驗中進行探討。\n相反地，在一項隨機對照試驗中，重組人類 G-CSF（rhG-CSF）結合低劑量 decitabine 的預防方案則顯著降低了高風險 MRD 陰性 AML 在異體 HCT 後的復發率（Gao et al. 2020）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800010,
+          "page": 527,
+          "en": "58.6 Immunomodulating Drugs (IMiDs)\nAfter auto-HCT, thalidomide has been tested alone and with glucocorticoids as maintenance to prevent relapse/progression. Most of these phase III trials demonstrated an improved PFS or EFS with variable improvement in OS, but due to toxicity, the drug has not become a standard care of treatment (Barlogie et al. 2008; Spencer et al. 2009). Lenalidomide is approved as maintenance therapy since a significant improvement in PFS has been shown in two randomized trials and improved OS on one randomized trial (McCarthy et al. 2012; Attal et al. 2012). A meta-analysis with data from three large studies (CALGB 100104, IFM-05-02, and GIMEMA RV-MM-PI-209) demonstrated an OS and a PFS benefit for lenalidomide maintenance. However, an increased risk of secondary primary malignancies was observed after lenalidomide maintenance therapy.\nAfter allo-HCT, a stimulation of T cells has been shown for thalidomide, but second-generation IMiDs such as lenalidomide and pomalidomide induce an even more potent stimulation of T-cell-mediated immunity. IMiDs also stimulate the innate immune system including γ/δ-T cells and NK T cells. Of note, it has been shown that thalidomide even when combined with DLI was not associated with increased risk for GVHD risk (Kroger et al. 2004). Because of the stronger T-cell stimulation, lenalidomide given early post-allo-HCT can cause severe GVHD (Sockel et al. 2012), but starting with a low dose of only 5 mg and given the drug after discontinuation of IS reduces the risk of GVHD markedly (Wolschke et al. 2013).\nOverall, IMiDs are potent agents for preventing relapse after auto-HCT, but their use post-allo-HCT remains to be defined primarily due to the increased risk of GvHD.",
+          "zh": "58.6 免疫調節藥物（IMiDs）\n在自體 HCT（auto-HCT）後，thalidomide 曾被測試單用或與糖皮質類固醇併用作為維持治療，以預防復發／疾病惡化。這些第 III 期試驗大多證實能改善無惡化存活率（PFS）或 EFS，對 OS 則有程度不一的改善；但由於其神經等毒性，該藥並未成為標準照護治療（Barlogie et al. 2008; Spencer et al. 2009）。Lenalidomide 則已獲核准作為 auto-HCT 後的標準維持治療，因為在兩項隨機試驗中皆顯示其能顯著改善 PFS，且在其中一項隨機試驗中亦改善了 OS（McCarthy et al. 2012; Attal et al. 2012）。一項納入三項大型研究（CALGB 100104、IFM-05-02 與 GIMEMA RV-MM-PI-209）數據的統合分析，證實了 lenalidomide 維持治療在 OS 與 PFS 上的明確獲益；然而，在 lenalidomide 維持治療後也觀察到第二原發惡性腫瘤（second primary malignancies）的風險有所增加。\n在異體 HCT（allo-HCT）後，研究顯示 thalidomide 會刺激 T 細胞，而如 lenalidomide 與 pomalidomide 等第二代 IMiDs 則會誘導出更強烈的 T 細胞介導免疫力刺激。IMiDs 同時也會刺激先天免疫系統（包括 γ/δ-T 細胞與 NKT 細胞）。值得注意的是，研究顯示即使是將 thalidomide 與 DLI 併用，也不會增加 GVHD 的風險（Kroger et al. 2004）。相對地，由於 lenalidomide 具有更強的 T 細胞刺激作用，若在 allo-HCT 後早期給予 lenalidomide 可能會引發嚴重的 GVHD（如 HOVON 76 與 LENAMAINT 試驗，Sockel et al. 2012）；但若以僅 5 mg 的低劑量起始、並待停用免疫抑制劑（IS）後再給藥，則可顯著降低 GVHD 的風險（Wolschke et al. 2013）。\n總體而言，IMiDs 是預防 auto-HCT 後復發的強效藥物，但其在 allo-HCT 後的使用定位仍有待界定，主要受限於增加 GvHD 的風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800011,
+          "page": 527,
+          "en": "58.7 Proteasome Inhibitors\nProteasome inhibitors are mainly used as induction therapy prior auto-HCT. Some studies investigated proteasome inhibitors as maintenance therapy after auto-HCT to reduce the risk of relapse. In a prospective study, bortezomib as maintenance therapy was superior to thalidomide particularly in patients with renal insufficiency and high-risk cytogenetics t(4;14) or del(17q) (Goldschmidt et al. 2018).\nBortezomib after allo-HCT was tested so far only in smaller studies with acceptable rates of GVHD (Caballero-Velazquez et al. 2013), and novel proteasome inhibitors such as ixazomib have been investigated as maintenance therapy after allografting in MM without significant benefits (Bashir et al. 2023).",
+          "zh": "58.7 蛋白酶體抑制劑（Proteasome Inhibitors）\n蛋白酶體抑制劑主要用作 auto-HCT 前的誘導治療。部分研究探討了將蛋白酶體抑制劑作為 auto-HCT 後的維持治療以降低復發風險。在一項前瞻性研究（HOVON-65/GMMG-HD4）中，使用 bortezomib 作為維持治療優於 thalidomide，特別是在伴隨腎功能不全以及高風險細胞遺傳學異常 t(4;14) 或 del(17p)（原文印為 del(17q)）的患者中（Goldschmidt et al. 2018）。\n在 allo-HCT 後使用 bortezomib 迄今僅在較小型的研究中進行過測試，其 GVHD 發生率在可接受範圍內（Caballero-Velazquez et al. 2013）；而新型口服蛋白酶體抑制劑（如 ixazomib）雖曾在一項隨機試驗（BMT CTN 1302）中被探討作為 MM 異體移植後的維持治療，但並未顯示出顯著獲益（Bashir et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800012,
+          "page": 527,
+          "en": "58.8 Monoclonal Antibodies\nMost studies of maintenance therapy with MoAb have been conducted after auto-HCT. While maintenance therapy after autograft with anti-CD20 antibody rituximab failed to demonstrate an advantage for DLBCL with respect to RFS and OS (Gisselbrecht et al. 2012) for follicular lymphoma, an improved PFS but not an improvement in OS has been reported in a randomized study (Pettengell et al. 2013). An improved PFS and OS with rituximab as maintenance therapy have recently been shown for mantle cell lymphoma after auto-HCT (Le Gouill et al. 2017).\nAfter allo-HCT for DLBCL, rituximab maintenance therapy did not improve overall survival (Glass et al. 2014). Anti-CD30 antibody drugs conjugate brentuximab vedotin as maintenance therapy after auto-HCT for HL did improve PFS but not OS (Moskowitz et al. 2015).",
+          "zh": "58.8 單株抗體（Monoclonal Antibodies）\n大多數使用單株抗體（MoAb）作為維持治療的研究都是在 auto-HCT 後進行。在自體移植後使用抗 CD20 抗體 rituximab 作為維持治療，針對 DLBCL 未能證實對無復發存活率（RFS）與 OS 有所優勢（CORAL 試驗，Gisselbrecht et al. 2012）；針對濾泡性淋巴瘤（follicular lymphoma），在一項隨機研究中報導能改善 PFS 但未改善 OS（Pettengell et al. 2013）；然而，針對被套細胞淋巴瘤（mantle cell lymphoma, MCL），近期已證實在 auto-HCT 後使用 rituximab 作為維持治療能同時顯著改善 PFS 與 OS（Le Gouill et al. 2017）。\n在 DLBCL 進行異體 HCT（allo-HCT）後，rituximab 維持治療並未改善整體存活率（Glass et al. 2014）。而在何杰金氏淋巴瘤（HL）進行 auto-HCT 後，使用抗 CD30 抗體藥物複合體（ADC）brentuximab vedotin 作為維持／鞏固治療（AETHERA 試驗），則顯著改善了 PFS（但未改變 OS）（Moskowitz et al. 2015）。",
+          "review": "ai-draft",
+          "endPage": 528
+        }
+      ]
+    },
+    {
+      "page": 528,
+      "blocks": [
+        {
+          "id": 5800013,
+          "page": 528,
+          "en": "Anti-CD22-conjugated antibody inotuzumab ozogamicin has been approved for relapsed ALL and has shown also activity in patients with ALL who relapsed after HCT (Kantarjian et al. 2016), but the risk of SOS/VOD is about 11% and up to 22% for those who underwent allo-HCT after inotuzumab ozogamicin.\nBispecific antibodies such as CD19-directed CD3 T-cell-engaged blinatumomab are active in relapsed and refractory ALL and also in MRD-positive ALL and have been investigated successfully in combination with DLI after relapse post-allo-HCT (Ueda et al. 2016). Using blinatumomab as maintenance post-allogeneic HCT was found to be feasible, while its benefit may be dependent on the immune milieu at the time of treatment (Gaballa et al. 2022).",
+          "zh": "抗 CD22 抗體藥物複合體 inotuzumab ozogamicin 已獲核准用於復發型 ALL，且在 HCT 後復發的 ALL 患者中亦展現出活性（Kantarjian et al. 2016）；但其發生肝竇阻塞症候群／肝靜脈閉塞疾病（SOS/VOD）的風險約為 11%，且在曾接受 inotuzumab ozogamicin 隨後再接受 allo-HCT 的患者中，SOS/VOD 風險高達 22%。\n如靶向 CD19 與 CD3 之雙特異性 T 細胞銜接抗體（BiTE）blinatumomab 等雙特異性抗體，在復發與難治型 ALL 以及 MRD 陽性 ALL 中皆具活性，並已在 allo-HCT 後復發的情境中成功與 DLI 併用（Ueda et al. 2016）。研究亦發現在異體 HCT 後使用 blinatumomab 作為維持治療是安全可行的，而其臨床獲益則可能取決於治療當時患者體內的免疫微環境與 T 細胞重建狀態（Gaballa et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800014,
+          "page": 528,
+          "en": "58.9 Histone Deacetylase Inhibition (HDACI)\nHistone deacetylation is a crucial mechanism of epigenetic modulation, and HDACI promotes gene expression by unwinding of histone-bound DNA. Since HDACI reduces inflammatory cytokines and increases T-regulatory cells, the drug was also used for GVHD prevention in a phase I/II study (Choi et al. 2014). Panobinostat was tested in two trials as maintenance therapy after allo-HCT in AML/MDS with or without (Bug et al. 2017) DLI resulting in an encouraging 1-year RFS of 66% in combination with DLI and 2-year RFS of 74% if used as single agent.",
+          "zh": "58.9 組蛋白去乙醯酶抑制劑（HDACI）\n組蛋白去乙醯化是表觀遺傳調控的關鍵機制之一，而組蛋白去乙醯酶抑制劑（HDACI）可透過解開與組蛋白結合的 DNA 來促進基因表現。由於 HDACI 能減少發炎性細胞激素並增加調節性 T 細胞（Tregs），此類藥物（如 vorinostat）也曾在一項第 I/II 期研究中被用於預防 GVHD（Choi et al. 2014）。Panobinostat 則在兩項試驗中被測試作為 AML/MDS 異體 HCT 後（併用或不併用 DLI）的維持治療（PANOBEST 試驗，Bug et al. 2017），得出令人鼓舞的結果：與 DLI 併用時的 1 年無復發存活率（RFS）為 66%，單藥使用時的 2 年 RFS 為 74%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800015,
+          "page": 528,
+          "en": "58.10 BCL-2 Inhibitors\nBCL-2 inhibitor (venetoclax) has shown promising results in treatment of acute myeloid leukemia. Small phase II studies using venetoclax plus decitabine to prevent relapse have been reported, but until results from randomized phase III are available the drugs should be used only in clinical trials.",
+          "zh": "58.10 BCL-2 抑制劑\nBCL-2 抑制劑（venetoclax）在急性骨髓性白血病的治療上已展現出良好成果。目前已有使用 venetoclax 併用 decitabine（或 azacitidine）以預防移植後復發的小型第 II 期研究報導，但在第 III 期隨機對照試驗（如 VIALE-T）結果出爐前，此類預防策略原則上應在臨床試驗中進行。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800016,
+          "page": 528,
+          "en": "58.11 IDH1/IDH2 Inhibitors\nIDH1 and IDH2 inhibitors ivosidenib and enasidenib have shown efficacy and favorable safety profile in the treatment of IDH1- or IDH2-positive acute leukemia and also in early phase I studies as maintenance post-allograft (Fathi et al. 2023).",
+          "zh": "58.11 IDH1/IDH2 抑制劑\nIDH1 與 IDH2 抑制劑（ivosidenib 與 enasidenib）在治療 IDH1 或 IDH2 突變陽性的急性白血病上已展現出療效與良好的安全性，且在作為異體移植後維持治療的早期第 I 期研究中亦顯示出良好的耐受性與前景（Fathi et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800017,
+          "page": 528,
+          "en": "[Summary Table: Pharmacological agents for prevention and treatment of relapse after HCT (Pages 526–527)]\nDrug | Disease | Setting | Impact\nImatinib | CML | Prophylactic | Beneficial\nImatinib | Ph + ALL | Prophylactic | No benefit\nNilotinib | Ph + ALL | Prophylactic/preemptive | Unclear\nDasatinib | Ph + ALL | Prophylactic | Unclear\nSorafenib | FLT3-ITD AML | Maintenance | Beneficial\nMidostaurin | FLT3-ITD AML | Maintenance | May be beneficial\nGilteritinib | FLT3-ITD AML | Maintenance | No benefit [Note: Overall MORPHO RFS not statistically significant, though MRD+ subgroup benefited]\nPidilizumab | DLBCL | Prophylactic | Unclear\nNivolumab | HL | Consolidation | Beneficial\nPembrolizumab | HL | Consolidation | Beneficial\nIpilimumab | Myeloid+lymphoid | Treatment | Unclear\nAzacytidine (+DLI) | AML/MDS | Treatment | May be beneficial\nAzacytidine (+DLI) | AML/MDS | Prophylactic | No benefit\nDecitabine (+DLI) | AML/MDS | Treatment | May be beneficial\nDecitabine + GCSF | AML | Prophylactic | Beneficial\nIvosidenib | IDH1-mutated AML | Maintenance | Unclear\nEnasidenib | IDH2-mutated AML | Maintenance | Unclear\nIMiDs (Len, Thal, Pom) | Myeloma | Maintenance post-auto | Standard\nIMiDs (Len, Thal, Pom) | Myeloma | Post-allo | Unclear\nPI (Bor, Car, Ixa) | Myeloma | Maintenance post-auto | May be beneficial in HR\nPI (Bor, Car, Ixa) | Myeloma | Post-allo | Unclear\nBrentuximab vedotin | HL | Maintenance post-auto | Beneficial\nBrentuximab vedotin | HL | Post-allo | Unclear\nRituximab | DLBCL | Maintenance post-auto / Post-allo | No benefit\nRituximab | MCL | Maintenance post-auto | Beneficial\nRituximab | MCL | Post-allo | Unclear\nInotuzumab ozogamicin | ALL | Treatment | Unclear\nBlinatumomab (+DLI) | ALL | Treatment | Beneficial\nBlinatumomab (+DLI) | ALL | Maintenance | May be beneficial\nVenetoclax (+DLI/AZA) | AML | Prophylactic | Unclear\nAbbreviations: AML acute myeloid leukemia, MDS myelodysplastic syndromes, ALL acute lymphoblastic leukemia, Ph+ Philadelphia chromosome-positive, HL Hodgkin lymphoma, DLBCL diffuse large B-cell lymphoma, MCL mantle cell lymphoma, DLI donor lymphocyte infusion, Len lenalidomide, Thal thalidomide, Pom pomalidomide, Bor bortezomib, Car carfilzomib, Ixa ixazomib, AZA azacytidine, HR high risk",
+          "zh": "【總表：HCT 後預防與治療復發之各類藥物臨床效益總覽（跨原書第 526–527 頁）】\n藥物（Drug）｜疾病（Disease）｜使用情境（Setting）｜臨床影響（Impact）\n• Imatinib｜CML｜預防性（Prophylactic）｜有益（Beneficial）\n• Imatinib｜Ph+ ALL｜預防性｜無顯著獲益（No benefit，指相較於先發治療無存活差異）\n• Nilotinib｜Ph+ ALL｜預防性／先發性｜未明（Unclear）\n• Dasatinib｜Ph+ ALL｜預防性｜未明（Unclear）\n• Sorafenib｜FLT3-ITD AML｜維持治療（Maintenance）｜有益（Beneficial）\n• Midostaurin｜FLT3-ITD AML｜維持治療｜可能有益（May be beneficial）\n• Gilteritinib｜FLT3-ITD AML｜維持治療｜整體未達顯著獲益（No benefit；註：MORPHO 全體 RFS 未達統計顯著，但圍移植期 MRD 陽性亞群顯著獲益）\n• Pidilizumab｜DLBCL｜預防性｜未明（Unclear）\n• Nivolumab｜HL｜鞏固治療（Consolidation）｜有益（Beneficial）\n• Pembrolizumab｜HL｜鞏固治療｜有益（Beneficial）\n• Ipilimumab｜骨髓系＋淋巴系惡性病｜復發治療（Treatment）｜未明（Unclear）\n• Azacytidine (+DLI)｜AML/MDS｜復發治療｜可能有益（May be beneficial）\n• Azacytidine (+DLI)｜AML/MDS｜預防性｜無顯著獲益（No benefit）\n• Decitabine (+DLI)｜AML/MDS｜復發治療｜可能有益（May be beneficial）\n• Decitabine + G-CSF｜AML｜預防性｜有益（Beneficial）\n• Ivosidenib｜IDH1 突變 AML｜維持治療｜未明（Unclear）\n• Enasidenib｜IDH2 突變 AML｜維持治療｜未明（Unclear）\n• IMiDs（Len, Thal, Pom）｜骨髓瘤（Myeloma）｜自體移植後維持（Maintenance post-auto）｜標準治療（Standard）\n• IMiDs（Len, Thal, Pom）｜骨髓瘤｜異體移植後（Post-allo）｜未明（Unclear）\n• 蛋白酶體抑制劑 PI（Bor, Car, Ixa）｜骨髓瘤｜自體移植後維持｜在高風險（HR）可能有益（May be beneficial in HR）\n• 蛋白酶體抑制劑 PI（Bor, Car, Ixa）｜骨髓瘤｜異體移植後｜未明（Unclear）\n• Brentuximab vedotin｜HL｜自體移植後維持｜有益（Beneficial）\n• Brentuximab vedotin｜HL｜異體移植後｜未明（Unclear）\n• Rituximab｜DLBCL｜自體移植後維持／異體移植後｜無顯著獲益（No benefit）\n• Rituximab｜MCL｜自體移植後維持｜有益（Beneficial）\n• Rituximab｜MCL｜異體移植後｜未明（Unclear）\n• Inotuzumab ozogamicin｜ALL｜復發治療｜未明（Unclear）\n• Blinatumomab (+DLI)｜ALL｜復發治療｜有益（Beneficial）\n• Blinatumomab (+DLI)｜ALL｜維持治療｜可能有益（May be beneficial）\n• Venetoclax (+DLI/AZA)｜AML｜預防性｜未明（Unclear）\n縮寫：AML：急性骨髓性白血病；MDS：骨髓增生不良症候群；ALL：急性淋巴性白血病；Ph+：費城染色體陽性；HL：何杰金氏淋巴瘤；DLBCL：瀰漫性大型 B 細胞淋巴瘤；MCL：被套細胞淋巴瘤；DLI：供者淋巴球輸注；Len：lenalidomide；Thal：thalidomide；Pom：pomalidomide；Bor：bortezomib；Car：carfilzomib；Ixa：ixazomib；AZA：azacytidine；HR：高風險（high risk）。",
+          "review": "ai-draft",
+          "endPage": 529
+        }
+      ]
+    },
+    {
+      "page": 529,
+      "blocks": [
+        {
+          "id": 5800018,
+          "page": 529,
+          "en": "Key Points\n• Outcome after relapse to allogeneic stem cells remains poor, and major efforts should focus on prevention of relapse.\n• Beside adoptive cell-based options such as DLI, the availability of novel effective pharmacological compounds has opened new avenues in clinical research, mainly:\n  – Tyrosine kinase inhibitors (TKI) targeting BCR/ABL\n  – TKI targeting FLT3-ITD (sorafenib, midostaurin, quizartinib, gilteritinib, crenolanib)\n  – Checkpoint inhibitors (pidilizumab, nivolumab, ipilimumab, pembrolizumab)\n  – Hypomethylating agents (azacytidine, decitabine)\n  – Immunomodulating drugs (thalidomide, lenalidomide, pomalidomide)\n  – Proteasome inhibitors (bortezomib, ixazomib)\n  – Antibodies (rituximab, brentuximab vedotin, inotuzumab ozogamicin, blinatumomab)\n  – Histone deacetylase inhibition (panobinostat)\n  – BCL-2 inhibitor (venetoclax)\n  – IDH1/IDH2 inhibitors (ivosidenib and enasidenib)\n• The optimal pharmacological compound should have a safe toxicity profile, an antitumor effect to the underlying disease, and an immune profile which can be used to booster the GVL effect and to reduce the risk of GVHD.",
+          "zh": "章末重點（Key Points）\n• 異體幹細胞移植後一旦復發，預後依然不佳，因此主要努力應聚焦於預防復發。\n• 除了如 DLI 等過繼性細胞治療選項外，新型有效藥理化合物的問世為臨床研究開闢了新途徑，主要包括：\n – 靶向 BCR/ABL 之酪胺酸激酶抑制劑（TKI）\n – 靶向 FLT3-ITD 之 TKI（sorafenib、midostaurin、quizartinib、gilteritinib、crenolanib）\n – 免疫檢查點抑制劑（pidilizumab、nivolumab、ipilimumab、pembrolizumab）\n – 去甲基化藥物（azacytidine、decitabine）\n – 免疫調節藥物（thalidomide、lenalidomide、pomalidomide）\n – 蛋白酶體抑制劑（bortezomib、ixazomib）\n – 抗體藥物（rituximab、brentuximab vedotin、inotuzumab ozogamicin、blinatumomab）\n – 組蛋白去乙醯酶抑制劑（panobinostat）\n – BCL-2 抑制劑（venetoclax）\n – IDH1/IDH2 抑制劑（ivosidenib 與 enasidenib）\n• 理想的藥物應具備安全的毒性表現、對原發疾病具直接抗腫瘤效應，並具有可用於強化 GVL 效應且降低 GVHD 風險的免疫調節特性。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5800019,
+          "page": 529,
+          "en": "Ansell SM, Lesokhin AM, Borrello I, et al. PD-1 blockade with nivolumab in relapsed or refractory Hodgkin’s lymphoma. N Engl J Med. 2015;372:311–9.",
+          "zh": "Ansell SM, Lesokhin AM, Borrello I, et al. PD-1 blockade with nivolumab in relapsed or refractory Hodgkin’s lymphoma. N Engl J Med. 2015;372:311–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ansell%20SM%2C%20Lesokhin%20AM%2C%20Borrello%20I%2C%20et%20al.%20PD-1%20blockade%20with%20nivolumab%20in%20relapsed%20or%20refractory%20Hodgkin%E2%80%99s%20lymphoma.%20N%20Engl%20J%20Med.%202015%3B372%3A311%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ansell%20SM%2C%20Lesokhin%20AM%2C%20Borrello%20I%2C%20et%20al.%20PD-1%20blockade%20with%20nivolumab%20in%20relapsed%20or%20refractory%20Hodgkin%E2%80%99s%20lymphoma.%20N%20Engl%20J%20Med.%202015%3B372%3A311%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5800020,
+          "page": 529,
+          "en": "Attal M, Lauwers-Cances V, Marit G, et al. Lenalidomide maintenance after stem-cell transplantation for multiple myeloma. N Engl J Med. 2012;366:1782–91.",
+          "zh": "Attal M, Lauwers-Cances V, Marit G, et al. Lenalidomide maintenance after stem-cell transplantation for multiple myeloma. N Engl J Med. 2012;366:1782–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Attal%20M%2C%20Lauwers-Cances%20V%2C%20Marit%20G%2C%20et%20al.%20Lenalidomide%20maintenance%20after%20stem-cell%20transplantation%20for%20multiple%20myeloma.%20N%20Engl%20J%20Med.%202012%3B366%3A1782%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Attal%20M%2C%20Lauwers-Cances%20V%2C%20Marit%20G%2C%20et%20al.%20Lenalidomide%20maintenance%20after%20stem-cell%20transplantation%20for%20multiple%20myeloma.%20N%20Engl%20J%20Med.%202012%3B366%3A1782%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 5800021,
+          "page": 529,
+          "en": "Barlogie B, Pineda-Roman M, van Rhee F, et al. Thalidomide arm of Total therapy 2 improves complete remission duration and survival in myeloma patients with metaphase cytogenetic abnormalities. Blood. 2008;112:3115–21.",
+          "zh": "Barlogie B, Pineda-Roman M, van Rhee F, et al. Thalidomide arm of Total therapy 2 improves complete remission duration and survival in myeloma patients with metaphase cytogenetic abnormalities. Blood. 2008;112:3115–21.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Barlogie%20B%2C%20Pineda-Roman%20M%2C%20van%20Rhee%20F%2C%20et%20al.%20Thalidomide%20arm%20of%20Total%20therapy%202%20improves%20complete%20remission%20duration%20and%20survival%20in%20myeloma%20patients%20with%20metaphase%20cytogenetic%20abnormalities.%20Blood.%202008%3B112%3A3115%E2%80%9321."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Barlogie%20B%2C%20Pineda-Roman%20M%2C%20van%20Rhee%20F%2C%20et%20al.%20Thalidomide%20arm%20of%20Total%20therapy%202%20improves%20complete%20remission%20duration%20and%20survival%20in%20myeloma%20patients%20with%20metaphase%20cytogenetic%20abnormalities.%20Blood.%202008%3B112%3A3115%E2%80%9321."
+            }
+          ]
+        },
+        {
+          "id": 5800022,
+          "page": 529,
+          "en": "Bashir Q, Nishihori T, Pasquini MC, et al. A multicenter phase II, double-blind, placebo-controlled trial of maintenance ixazomib after allogeneic transplantation for high-risk multiple myeloma: results of the blood and marrow transplant clinical trials network 1302 trial. Transplant Cell Ther. 2023;29(6):358.e1–7.",
+          "zh": "Bashir Q, Nishihori T, Pasquini MC, et al. A multicenter phase II, double-blind, placebo-controlled trial of maintenance ixazomib after allogeneic transplantation for high-risk multiple myeloma: results of the blood and marrow transplant clinical trials network 1302 trial. Transplant Cell Ther. 2023;29(6):358.e1–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bashir%20Q%2C%20Nishihori%20T%2C%20Pasquini%20MC%2C%20et%20al.%20A%20multicenter%20phase%20II%2C%20double-blind%2C%20placebo-controlled%20trial%20of%20maintenance%20ixazomib%20after%20allogeneic%20transplantation%20for%20high-risk%20multiple%20myeloma%3A%20results%20of%20the%20blood%20and%20marrow%20transplant%20clinical%20trials%20network%201302%20trial.%20Transplant%20Cell%20Ther.%202023%3B29%286%29%3A358.e1%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bashir%20Q%2C%20Nishihori%20T%2C%20Pasquini%20MC%2C%20et%20al.%20A%20multicenter%20phase%20II%2C%20double-blind%2C%20placebo-controlled%20trial%20of%20maintenance%20ixazomib%20after%20allogeneic%20transplantation%20for%20high-risk%20multiple%20myeloma%3A%20results%20of%20the%20blood%20and%20marrow%20transplant%20clinical%20trials%20network%201302%20trial.%20Transplant%20Cell%20Ther.%202023%3B29%286%29%3A358.e1%E2%80%937."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 530,
+      "blocks": [
+        {
+          "id": 5800023,
+          "page": 530,
+          "en": "Bug G, Burchert A, Wagner EM, et al. Phase I/II study of the deacetylase inhibitor panobinostat after allogeneic stem cell transplantation in patients with high-risk MDS or AML (PANOBEST trial). Leukemia. 2017;31:2523–5.",
+          "zh": "Bug G, Burchert A, Wagner EM, et al. Phase I/II study of the deacetylase inhibitor panobinostat after allogeneic stem cell transplantation in patients with high-risk MDS or AML (PANOBEST trial). Leukemia. 2017;31:2523–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bug%20G%2C%20Burchert%20A%2C%20Wagner%20EM%2C%20et%20al.%20Phase%20I/II%20study%20of%20the%20deacetylase%20inhibitor%20panobinostat%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20high-risk%20MDS%20or%20AML%20%28PANOBEST%20trial%29.%20Leukemia.%202017%3B31%3A2523%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bug%20G%2C%20Burchert%20A%2C%20Wagner%20EM%2C%20et%20al.%20Phase%20I/II%20study%20of%20the%20deacetylase%20inhibitor%20panobinostat%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20high-risk%20MDS%20or%20AML%20%28PANOBEST%20trial%29.%20Leukemia.%202017%3B31%3A2523%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5800024,
+          "page": 530,
+          "en": "Burchert A, Bug G, Fritz LV, Finke J, Stelljes M, Röllig C, et al. Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN). J Clin Oncol. 2020;38:2993–3002. https://doi.org/10.1200/JCO.19.03345.",
+          "zh": "Burchert A, Bug G, Fritz LV, Finke J, Stelljes M, Röllig C, et al. Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN). J Clin Oncol. 2020;38:2993–3002. https://doi.org/10.1200/JCO.19.03345.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Burchert%20A%2C%20Bug%20G%2C%20Fritz%20LV%2C%20Finke%20J%2C%20Stelljes%20M%2C%20R%C3%B6llig%20C%2C%20et%20al.%20Sorafenib%20maintenance%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20with%20FLT3-internal%20tandem%20duplication%20mutation%20%28SORMAIN%29.%20J%20Clin%20Oncol.%202020%3B38%3A2993%E2%80%933002.%20https%3A//doi.org/10.1200/JCO.19.03345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Burchert%20A%2C%20Bug%20G%2C%20Fritz%20LV%2C%20Finke%20J%2C%20Stelljes%20M%2C%20R%C3%B6llig%20C%2C%20et%20al.%20Sorafenib%20maintenance%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20with%20FLT3-internal%20tandem%20duplication%20mutation%20%28SORMAIN%29.%20J%20Clin%20Oncol.%202020%3B38%3A2993%E2%80%933002.%20https%3A//doi.org/10.1200/JCO.19.03345."
+            }
+          ]
+        },
+        {
+          "id": 5800025,
+          "page": 530,
+          "en": "Caballero-Velazquez T, Lopez-Corral L, Encinas C, et al. Phase II clinical trial for the evaluation of bortezomib within the reduced intensity conditioning regimen (RIC) and post-allogeneic transplantation for high-risk myeloma patients. Br J Haematol. 2013;162:474–82.",
+          "zh": "Caballero-Velazquez T, Lopez-Corral L, Encinas C, et al. Phase II clinical trial for the evaluation of bortezomib within the reduced intensity conditioning regimen (RIC) and post-allogeneic transplantation for high-risk myeloma patients. Br J Haematol. 2013;162:474–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Caballero-Velazquez%20T%2C%20Lopez-Corral%20L%2C%20Encinas%20C%2C%20et%20al.%20Phase%20II%20clinical%20trial%20for%20the%20evaluation%20of%20bortezomib%20within%20the%20reduced%20intensity%20conditioning%20regimen%20%28RIC%29%20and%20post-allogeneic%20transplantation%20for%20high-risk%20myeloma%20patients.%20Br%20J%20Haematol.%202013%3B162%3A474%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Caballero-Velazquez%20T%2C%20Lopez-Corral%20L%2C%20Encinas%20C%2C%20et%20al.%20Phase%20II%20clinical%20trial%20for%20the%20evaluation%20of%20bortezomib%20within%20the%20reduced%20intensity%20conditioning%20regimen%20%28RIC%29%20and%20post-allogeneic%20transplantation%20for%20high-risk%20myeloma%20patients.%20Br%20J%20Haematol.%202013%3B162%3A474%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 5800026,
+          "page": 530,
+          "en": "Choi SW, Braun T, Chang L, et al. Vorinostat plus tacrolimus and mycophenolate to prevent graft-versus-host disease after related-donor reduced-intensity conditioning allogeneic haemopoietic stem-cell transplantation: a phase 1/2 trial. Lancet Oncol. 2014;15:87–95.",
+          "zh": "Choi SW, Braun T, Chang L, et al. Vorinostat plus tacrolimus and mycophenolate to prevent graft-versus-host disease after related-donor reduced-intensity conditioning allogeneic haemopoietic stem-cell transplantation: a phase 1/2 trial. Lancet Oncol. 2014;15:87–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Choi%20SW%2C%20Braun%20T%2C%20Chang%20L%2C%20et%20al.%20Vorinostat%20plus%20tacrolimus%20and%20mycophenolate%20to%20prevent%20graft-versus-host%20disease%20after%20related-donor%20reduced-intensity%20conditioning%20allogeneic%20haemopoietic%20stem-cell%20transplantation%3A%20a%20phase%201/2%20trial.%20Lancet%20Oncol.%202014%3B15%3A87%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Choi%20SW%2C%20Braun%20T%2C%20Chang%20L%2C%20et%20al.%20Vorinostat%20plus%20tacrolimus%20and%20mycophenolate%20to%20prevent%20graft-versus-host%20disease%20after%20related-donor%20reduced-intensity%20conditioning%20allogeneic%20haemopoietic%20stem-cell%20transplantation%3A%20a%20phase%201/2%20trial.%20Lancet%20Oncol.%202014%3B15%3A87%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 5800027,
+          "page": 530,
+          "en": "Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+          "zh": "Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Davids%20MS%2C%20Kim%20HT%2C%20Bachireddy%20P%2C%20et%20al.%20Ipilimumab%20for%20patients%20with%20relapse%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202016%3B375%3A143%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Davids%20MS%2C%20Kim%20HT%2C%20Bachireddy%20P%2C%20et%20al.%20Ipilimumab%20for%20patients%20with%20relapse%20after%20allogeneic%20transplantation.%20N%20Engl%20J%20Med.%202016%3B375%3A143%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 5800028,
+          "page": 530,
+          "en": "Fathi AT, Kim HT, Soiffer RJ, et al. Multicenter phase I trial of ivosidenib as maintenance treatment following allogeneic hematopoietic cell transplantation for IDH1-mutated acute myeloid leukemia. Clin Cancer Res. 2023;29(11):2034–42.",
+          "zh": "Fathi AT, Kim HT, Soiffer RJ, et al. Multicenter phase I trial of ivosidenib as maintenance treatment following allogeneic hematopoietic cell transplantation for IDH1-mutated acute myeloid leukemia. Clin Cancer Res. 2023;29(11):2034–42.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fathi%20AT%2C%20Kim%20HT%2C%20Soiffer%20RJ%2C%20et%20al.%20Multicenter%20phase%20I%20trial%20of%20ivosidenib%20as%20maintenance%20treatment%20following%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20IDH1-mutated%20acute%20myeloid%20leukemia.%20Clin%20Cancer%20Res.%202023%3B29%2811%29%3A2034%E2%80%9342."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fathi%20AT%2C%20Kim%20HT%2C%20Soiffer%20RJ%2C%20et%20al.%20Multicenter%20phase%20I%20trial%20of%20ivosidenib%20as%20maintenance%20treatment%20following%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20IDH1-mutated%20acute%20myeloid%20leukemia.%20Clin%20Cancer%20Res.%202023%3B29%2811%29%3A2034%E2%80%9342."
+            }
+          ]
+        },
+        {
+          "id": 5800029,
+          "page": 530,
+          "en": "Gaballa MR, Banerjee P, Milton DR, et al. Blinatumomab maintenance after allogeneic hematopoietic cell transplantation for B-lineage acute lymphoblastic leukemia. Blood. 2022;139(12):1908–19.",
+          "zh": "Gaballa MR, Banerjee P, Milton DR, et al. Blinatumomab maintenance after allogeneic hematopoietic cell transplantation for B-lineage acute lymphoblastic leukemia. Blood. 2022;139(12):1908–19.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gaballa%20MR%2C%20Banerjee%20P%2C%20Milton%20DR%2C%20et%20al.%20Blinatumomab%20maintenance%20after%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20B-lineage%20acute%20lymphoblastic%20leukemia.%20Blood.%202022%3B139%2812%29%3A1908%E2%80%9319."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gaballa%20MR%2C%20Banerjee%20P%2C%20Milton%20DR%2C%20et%20al.%20Blinatumomab%20maintenance%20after%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20B-lineage%20acute%20lymphoblastic%20leukemia.%20Blood.%202022%3B139%2812%29%3A1908%E2%80%9319."
+            }
+          ]
+        },
+        {
+          "id": 5800030,
+          "page": 530,
+          "en": "Gagelmann N, Wolschke C, Klyuchnikov E, et al. TKI maintenance after stem-cell transplantation for FLT3-ITD positive acute myeloid leukemia: a systematic review and meta-analysis. Front Immunol. 2021;12:630429.",
+          "zh": "Gagelmann N, Wolschke C, Klyuchnikov E, et al. TKI maintenance after stem-cell transplantation for FLT3-ITD positive acute myeloid leukemia: a systematic review and meta-analysis. Front Immunol. 2021;12:630429.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gagelmann%20N%2C%20Wolschke%20C%2C%20Klyuchnikov%20E%2C%20et%20al.%20TKI%20maintenance%20after%20stem-cell%20transplantation%20for%20FLT3-ITD%20positive%20acute%20myeloid%20leukemia%3A%20a%20systematic%20review%20and%20meta-analysis.%20Front%20Immunol.%202021%3B12%3A630429."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gagelmann%20N%2C%20Wolschke%20C%2C%20Klyuchnikov%20E%2C%20et%20al.%20TKI%20maintenance%20after%20stem-cell%20transplantation%20for%20FLT3-ITD%20positive%20acute%20myeloid%20leukemia%3A%20a%20systematic%20review%20and%20meta-analysis.%20Front%20Immunol.%202021%3B12%3A630429."
+            }
+          ]
+        },
+        {
+          "id": 5800031,
+          "page": 530,
+          "en": "Gao L, Zhang Y, Wang S, et al. Effect of rhG-CSF combined with decitabine prophylaxis on relapse of patients with high-risk MRD-negative AML after HSCT: an open-label, multicenter, randomized controlled trial. J Clin Oncol. 2020;38(36):4249–59.",
+          "zh": "Gao L, Zhang Y, Wang S, et al. Effect of rhG-CSF combined with decitabine prophylaxis on relapse of patients with high-risk MRD-negative AML after HSCT: an open-label, multicenter, randomized controlled trial. J Clin Oncol. 2020;38(36):4249–59.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gao%20L%2C%20Zhang%20Y%2C%20Wang%20S%2C%20et%20al.%20Effect%20of%20rhG-CSF%20combined%20with%20decitabine%20prophylaxis%20on%20relapse%20of%20patients%20with%20high-risk%20MRD-negative%20AML%20after%20HSCT%3A%20an%20open-label%2C%20multicenter%2C%20randomized%20controlled%20trial.%20J%20Clin%20Oncol.%202020%3B38%2836%29%3A4249%E2%80%9359."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gao%20L%2C%20Zhang%20Y%2C%20Wang%20S%2C%20et%20al.%20Effect%20of%20rhG-CSF%20combined%20with%20decitabine%20prophylaxis%20on%20relapse%20of%20patients%20with%20high-risk%20MRD-negative%20AML%20after%20HSCT%3A%20an%20open-label%2C%20multicenter%2C%20randomized%20controlled%20trial.%20J%20Clin%20Oncol.%202020%3B38%2836%29%3A4249%E2%80%9359."
+            }
+          ]
+        },
+        {
+          "id": 5800032,
+          "page": 530,
+          "en": "Giebel S, Czyz A, Ottmann O, et al. Use of tyrosine kinase inhibitors to prevent relapse after allogeneic hematopoietic stem cell transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: a position statement of the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Cancer. 2016;122:2941–51.",
+          "zh": "Giebel S, Czyz A, Ottmann O, et al. Use of tyrosine kinase inhibitors to prevent relapse after allogeneic hematopoietic stem cell transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: a position statement of the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Cancer. 2016;122:2941–51.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Giebel%20S%2C%20Czyz%20A%2C%20Ottmann%20O%2C%20et%20al.%20Use%20of%20tyrosine%20kinase%20inhibitors%20to%20prevent%20relapse%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20patients%20with%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia%3A%20a%20position%20statement%20of%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Cancer.%202016%3B122%3A2941%E2%80%9351."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Giebel%20S%2C%20Czyz%20A%2C%20Ottmann%20O%2C%20et%20al.%20Use%20of%20tyrosine%20kinase%20inhibitors%20to%20prevent%20relapse%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20patients%20with%20Philadelphia%20chromosome-positive%20acute%20lymphoblastic%20leukemia%3A%20a%20position%20statement%20of%20the%20Acute%20Leukemia%20Working%20Party%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation.%20Cancer.%202016%3B122%3A2941%E2%80%9351."
+            }
+          ]
+        },
+        {
+          "id": 5800033,
+          "page": 530,
+          "en": "Gisselbrecht C, Schmitz N, Mounier N, et al. Rituximab maintenance therapy after autologous stem-cell transplantation in patients with relapsed CD20(+) diffuse large B-cell lymphoma: final analysis of the collaborative trial in relapsed aggressive lymphoma. J Clin Oncol. 2012;30:4462–9.",
+          "zh": "Gisselbrecht C, Schmitz N, Mounier N, et al. Rituximab maintenance therapy after autologous stem-cell transplantation in patients with relapsed CD20(+) diffuse large B-cell lymphoma: final analysis of the collaborative trial in relapsed aggressive lymphoma. J Clin Oncol. 2012;30:4462–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gisselbrecht%20C%2C%20Schmitz%20N%2C%20Mounier%20N%2C%20et%20al.%20Rituximab%20maintenance%20therapy%20after%20autologous%20stem-cell%20transplantation%20in%20patients%20with%20relapsed%20CD20%28%2B%29%20diffuse%20large%20B-cell%20lymphoma%3A%20final%20analysis%20of%20the%20collaborative%20trial%20in%20relapsed%20aggressive%20lymphoma.%20J%20Clin%20Oncol.%202012%3B30%3A4462%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gisselbrecht%20C%2C%20Schmitz%20N%2C%20Mounier%20N%2C%20et%20al.%20Rituximab%20maintenance%20therapy%20after%20autologous%20stem-cell%20transplantation%20in%20patients%20with%20relapsed%20CD20%28%2B%29%20diffuse%20large%20B-cell%20lymphoma%3A%20final%20analysis%20of%20the%20collaborative%20trial%20in%20relapsed%20aggressive%20lymphoma.%20J%20Clin%20Oncol.%202012%3B30%3A4462%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5800034,
+          "page": 530,
+          "en": "Glass B, Hasenkamp J, Wulf G, et al. Rituximab after lymphoma-directed conditioning and allogeneic stem-cell transplantation for relapsed and refractory aggressive non-Hodgkin lymphoma (DSHNHL R3): an open-label, randomised, phase 2 trial. Lancet Oncol. 2014;15:757–66.",
+          "zh": "Glass B, Hasenkamp J, Wulf G, et al. Rituximab after lymphoma-directed conditioning and allogeneic stem-cell transplantation for relapsed and refractory aggressive non-Hodgkin lymphoma (DSHNHL R3): an open-label, randomised, phase 2 trial. Lancet Oncol. 2014;15:757–66.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Glass%20B%2C%20Hasenkamp%20J%2C%20Wulf%20G%2C%20et%20al.%20Rituximab%20after%20lymphoma-directed%20conditioning%20and%20allogeneic%20stem-cell%20transplantation%20for%20relapsed%20and%20refractory%20aggressive%20non-Hodgkin%20lymphoma%20%28DSHNHL%20R3%29%3A%20an%20open-label%2C%20randomised%2C%20phase%202%20trial.%20Lancet%20Oncol.%202014%3B15%3A757%E2%80%9366."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Glass%20B%2C%20Hasenkamp%20J%2C%20Wulf%20G%2C%20et%20al.%20Rituximab%20after%20lymphoma-directed%20conditioning%20and%20allogeneic%20stem-cell%20transplantation%20for%20relapsed%20and%20refractory%20aggressive%20non-Hodgkin%20lymphoma%20%28DSHNHL%20R3%29%3A%20an%20open-label%2C%20randomised%2C%20phase%202%20trial.%20Lancet%20Oncol.%202014%3B15%3A757%E2%80%9366."
+            }
+          ]
+        },
+        {
+          "id": 5800035,
+          "page": 530,
+          "en": "Goldschmidt H, Lokhorst HM, Mai EK, et al. Bortezomib before and after high-dose therapy in myeloma: long-term results from the phase III HOVON-65/GMMG-HD4 trial. Leukemia. 2018;32:383–90.",
+          "zh": "Goldschmidt H, Lokhorst HM, Mai EK, et al. Bortezomib before and after high-dose therapy in myeloma: long-term results from the phase III HOVON-65/GMMG-HD4 trial. Leukemia. 2018;32:383–90.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Goldschmidt%20H%2C%20Lokhorst%20HM%2C%20Mai%20EK%2C%20et%20al.%20Bortezomib%20before%20and%20after%20high-dose%20therapy%20in%20myeloma%3A%20long-term%20results%20from%20the%20phase%20III%20HOVON-65/GMMG-HD4%20trial.%20Leukemia.%202018%3B32%3A383%E2%80%9390."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Goldschmidt%20H%2C%20Lokhorst%20HM%2C%20Mai%20EK%2C%20et%20al.%20Bortezomib%20before%20and%20after%20high-dose%20therapy%20in%20myeloma%3A%20long-term%20results%20from%20the%20phase%20III%20HOVON-65/GMMG-HD4%20trial.%20Leukemia.%202018%3B32%3A383%E2%80%9390."
+            }
+          ]
+        },
+        {
+          "id": 5800036,
+          "page": 530,
+          "en": "Goodyear O, Agathanggelou A, Novitzky-Basso I, et al. Induction of a CD8+ T-cell response to the MAGE cancer testis antigen by combined treatment with azacitidine and sodium valproate in patients with acute myeloid leukemia and myelodysplasia. Blood. 2010;116:1908–18.",
+          "zh": "Goodyear O, Agathanggelou A, Novitzky-Basso I, et al. Induction of a CD8+ T-cell response to the MAGE cancer testis antigen by combined treatment with azacitidine and sodium valproate in patients with acute myeloid leukemia and myelodysplasia. Blood. 2010;116:1908–18.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Goodyear%20O%2C%20Agathanggelou%20A%2C%20Novitzky-Basso%20I%2C%20et%20al.%20Induction%20of%20a%20CD8%2B%20T-cell%20response%20to%20the%20MAGE%20cancer%20testis%20antigen%20by%20combined%20treatment%20with%20azacitidine%20and%20sodium%20valproate%20in%20patients%20with%20acute%20myeloid%20leukemia%20and%20myelodysplasia.%20Blood.%202010%3B116%3A1908%E2%80%9318."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Goodyear%20O%2C%20Agathanggelou%20A%2C%20Novitzky-Basso%20I%2C%20et%20al.%20Induction%20of%20a%20CD8%2B%20T-cell%20response%20to%20the%20MAGE%20cancer%20testis%20antigen%20by%20combined%20treatment%20with%20azacitidine%20and%20sodium%20valproate%20in%20patients%20with%20acute%20myeloid%20leukemia%20and%20myelodysplasia.%20Blood.%202010%3B116%3A1908%E2%80%9318."
+            }
+          ]
+        },
+        {
+          "id": 5800037,
+          "page": 530,
+          "en": "Hambach L, Ling KW, Pool J, et al. Hypomethylating drugs convert HA-1-negative solid tumors into targets for stem cell-based immunotherapy. Blood. 2009;113:2715–22.",
+          "zh": "Hambach L, Ling KW, Pool J, et al. Hypomethylating drugs convert HA-1-negative solid tumors into targets for stem cell-based immunotherapy. Blood. 2009;113:2715–22.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hambach%20L%2C%20Ling%20KW%2C%20Pool%20J%2C%20et%20al.%20Hypomethylating%20drugs%20convert%20HA-1-negative%20solid%20tumors%20into%20targets%20for%20stem%20cell-based%20immunotherapy.%20Blood.%202009%3B113%3A2715%E2%80%9322."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hambach%20L%2C%20Ling%20KW%2C%20Pool%20J%2C%20et%20al.%20Hypomethylating%20drugs%20convert%20HA-1-negative%20solid%20tumors%20into%20targets%20for%20stem%20cell-based%20immunotherapy.%20Blood.%202009%3B113%3A2715%E2%80%9322."
+            }
+          ]
+        },
+        {
+          "id": 5800038,
+          "page": 530,
+          "en": "Haverkos BM, Abbott D, Hamadani M, et al. PD-1 blockade for relapsed lymphoma post-allogeneic hematopoietic cell transplant: high response rate but frequent GVHD. Blood. 2017;130:221–8.",
+          "zh": "Haverkos BM, Abbott D, Hamadani M, et al. PD-1 blockade for relapsed lymphoma post-allogeneic hematopoietic cell transplant: high response rate but frequent GVHD. Blood. 2017;130:221–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Haverkos%20BM%2C%20Abbott%20D%2C%20Hamadani%20M%2C%20et%20al.%20PD-1%20blockade%20for%20relapsed%20lymphoma%20post-allogeneic%20hematopoietic%20cell%20transplant%3A%20high%20response%20rate%20but%20frequent%20GVHD.%20Blood.%202017%3B130%3A221%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Haverkos%20BM%2C%20Abbott%20D%2C%20Hamadani%20M%2C%20et%20al.%20PD-1%20blockade%20for%20relapsed%20lymphoma%20post-allogeneic%20hematopoietic%20cell%20transplant%3A%20high%20response%20rate%20but%20frequent%20GVHD.%20Blood.%202017%3B130%3A221%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5800039,
+          "page": 530,
+          "en": "Herrera AF, Chen L, Nieto Y, et al. Brentuximab vedotin plus nivolumab after autologous haematopoietic stem-cell transplantation for adult patients with high-risk classic Hodgkin lymphoma: a multicentre, phase 2 trial. Lancet Haematol. 2023;10(1):e14–23.",
+          "zh": "Herrera AF, Chen L, Nieto Y, et al. Brentuximab vedotin plus nivolumab after autologous haematopoietic stem-cell transplantation for adult patients with high-risk classic Hodgkin lymphoma: a multicentre, phase 2 trial. Lancet Haematol. 2023;10(1):e14–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Herrera%20AF%2C%20Chen%20L%2C%20Nieto%20Y%2C%20et%20al.%20Brentuximab%20vedotin%20plus%20nivolumab%20after%20autologous%20haematopoietic%20stem-cell%20transplantation%20for%20adult%20patients%20with%20high-risk%20classic%20Hodgkin%20lymphoma%3A%20a%20multicentre%2C%20phase%202%20trial.%20Lancet%20Haematol.%202023%3B10%281%29%3Ae14%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Herrera%20AF%2C%20Chen%20L%2C%20Nieto%20Y%2C%20et%20al.%20Brentuximab%20vedotin%20plus%20nivolumab%20after%20autologous%20haematopoietic%20stem-cell%20transplantation%20for%20adult%20patients%20with%20high-risk%20classic%20Hodgkin%20lymphoma%3A%20a%20multicentre%2C%20phase%202%20trial.%20Lancet%20Haematol.%202023%3B10%281%29%3Ae14%E2%80%9323."
+            }
+          ]
+        },
+        {
+          "id": 5800040,
+          "page": 530,
+          "en": "Horowitz M, Schreiber H, Elder A, et al. Epidemiology and biology of relapse after stem cell transplantation. Bone Marrow Transplant. 2018;53:1379. https://doi.org/10.1038/s41409-018-0171-z.",
+          "zh": "Horowitz M, Schreiber H, Elder A, et al. Epidemiology and biology of relapse after stem cell transplantation. Bone Marrow Transplant. 2018;53:1379. https://doi.org/10.1038/s41409-018-0171-z.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Horowitz%20M%2C%20Schreiber%20H%2C%20Elder%20A%2C%20et%20al.%20Epidemiology%20and%20biology%20of%20relapse%20after%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202018%3B53%3A1379.%20https%3A//doi.org/10.1038/s41409-018-0171-z."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Horowitz%20M%2C%20Schreiber%20H%2C%20Elder%20A%2C%20et%20al.%20Epidemiology%20and%20biology%20of%20relapse%20after%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202018%3B53%3A1379.%20https%3A//doi.org/10.1038/s41409-018-0171-z."
+            }
+          ]
+        },
+        {
+          "id": 5800041,
+          "page": 530,
+          "en": "Kantarjian HM, DeAngelo DJ, Stelljes M, et al. Inotuzumab ozogamicin versus standard therapy for acute lymphoblastic leukemia. N Engl J Med. 2016;375:740–53.",
+          "zh": "Kantarjian HM, DeAngelo DJ, Stelljes M, et al. Inotuzumab ozogamicin versus standard therapy for acute lymphoblastic leukemia. N Engl J Med. 2016;375:740–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kantarjian%20HM%2C%20DeAngelo%20DJ%2C%20Stelljes%20M%2C%20et%20al.%20Inotuzumab%20ozogamicin%20versus%20standard%20therapy%20for%20acute%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202016%3B375%3A740%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kantarjian%20HM%2C%20DeAngelo%20DJ%2C%20Stelljes%20M%2C%20et%20al.%20Inotuzumab%20ozogamicin%20versus%20standard%20therapy%20for%20acute%20lymphoblastic%20leukemia.%20N%20Engl%20J%20Med.%202016%3B375%3A740%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 5800042,
+          "page": 530,
+          "en": "Kroger N, Shimoni A, Zagrivnaja M, et al. Low-dose thalidomide and donor lymphocyte infusion as adoptive immunotherapy after allogeneic stem cell transplantation in patients with multiple myeloma. Blood. 2004;104:3361–3.",
+          "zh": "Kroger N, Shimoni A, Zagrivnaja M, et al. Low-dose thalidomide and donor lymphocyte infusion as adoptive immunotherapy after allogeneic stem cell transplantation in patients with multiple myeloma. Blood. 2004;104:3361–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kroger%20N%2C%20Shimoni%20A%2C%20Zagrivnaja%20M%2C%20et%20al.%20Low-dose%20thalidomide%20and%20donor%20lymphocyte%20infusion%20as%20adoptive%20immunotherapy%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20multiple%20myeloma.%20Blood.%202004%3B104%3A3361%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kroger%20N%2C%20Shimoni%20A%2C%20Zagrivnaja%20M%2C%20et%20al.%20Low-dose%20thalidomide%20and%20donor%20lymphocyte%20infusion%20as%20adoptive%20immunotherapy%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20multiple%20myeloma.%20Blood.%202004%3B104%3A3361%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 5800043,
+          "page": 530,
+          "en": "Kroger N, Stubig T, Atanackovic D. Immune-modulating drugs and hypomethylating agents to prevent or treat relapse after allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:168–72.",
+          "zh": "Kroger N, Stubig T, Atanackovic D. Immune-modulating drugs and hypomethylating agents to prevent or treat relapse after allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:168–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kroger%20N%2C%20Stubig%20T%2C%20Atanackovic%20D.%20Immune-modulating%20drugs%20and%20hypomethylating%20agents%20to%20prevent%20or%20treat%20relapse%20after%20allogeneic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A168%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kroger%20N%2C%20Stubig%20T%2C%20Atanackovic%20D.%20Immune-modulating%20drugs%20and%20hypomethylating%20agents%20to%20prevent%20or%20treat%20relapse%20after%20allogeneic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A168%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 5800044,
+          "page": 530,
+          "en": "Le Gouill S, Thieblemont C, Oberic L, et al. Rituximab after autologous stem-cell transplantation in mantle-cell lymphoma. N Engl J Med. 2017;377:1250–60.",
+          "zh": "Le Gouill S, Thieblemont C, Oberic L, et al. Rituximab after autologous stem-cell transplantation in mantle-cell lymphoma. N Engl J Med. 2017;377:1250–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Le%20Gouill%20S%2C%20Thieblemont%20C%2C%20Oberic%20L%2C%20et%20al.%20Rituximab%20after%20autologous%20stem-cell%20transplantation%20in%20mantle-cell%20lymphoma.%20N%20Engl%20J%20Med.%202017%3B377%3A1250%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Le%20Gouill%20S%2C%20Thieblemont%20C%2C%20Oberic%20L%2C%20et%20al.%20Rituximab%20after%20autologous%20stem-cell%20transplantation%20in%20mantle-cell%20lymphoma.%20N%20Engl%20J%20Med.%202017%3B377%3A1250%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 5800045,
+          "page": 530,
+          "en": "Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018a;24:282–91.",
+          "zh": "Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018a;24:282–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018a%3B24%3A282%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018a%3B24%3A282%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 5800046,
+          "page": 530,
+          "en": "Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018b;24:282–91.",
+          "zh": "Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018b;24:282–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018b%3B24%3A282%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathew%20NR%2C%20Baumgartner%20F%2C%20Braun%20L%2C%20et%20al.%20Sorafenib%20promotes%20graft-versus-leukemia%20activity%20in%20mice%20and%20humans%20through%20IL-15%20production%20in%20FLT3-ITD-mutant%20leukemia%20cells.%20Nat%20Med.%202018b%3B24%3A282%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 5800047,
+          "page": 530,
+          "en": "Maziarz RT, Patnaik MM, Scott BL, Deol A, Rowley SD. Radius: a phase 2 randomized trial investigating standard of care ± midostaurin after allogeneic stem cell transplant in FLT3-ITD-mutated AML. Blood. 2018;132:662.",
+          "zh": "Maziarz RT, Patnaik MM, Scott BL, Deol A, Rowley SD. Radius: a phase 2 randomized trial investigating standard of care ± midostaurin after allogeneic stem cell transplant in FLT3-ITD-mutated AML. Blood. 2018;132:662.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maziarz%20RT%2C%20Patnaik%20MM%2C%20Scott%20BL%2C%20Deol%20A%2C%20Rowley%20SD.%20Radius%3A%20a%20phase%202%20randomized%20trial%20investigating%20standard%20of%20care%20%C2%B1%20midostaurin%20after%20allogeneic%20stem%20cell%20transplant%20in%20FLT3-ITD-mutated%20AML.%20Blood.%202018%3B132%3A662."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maziarz%20RT%2C%20Patnaik%20MM%2C%20Scott%20BL%2C%20Deol%20A%2C%20Rowley%20SD.%20Radius%3A%20a%20phase%202%20randomized%20trial%20investigating%20standard%20of%20care%20%C2%B1%20midostaurin%20after%20allogeneic%20stem%20cell%20transplant%20in%20FLT3-ITD-mutated%20AML.%20Blood.%202018%3B132%3A662."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 531,
+      "blocks": [
+        {
+          "id": 5800048,
+          "page": 531,
+          "en": "McCarthy PL, Owzar K, Hofmeister CC, et al. Lenalidomide after stem-cell transplantation for multiple myeloma. N Engl J Med. 2012;366:1770–81.",
+          "zh": "McCarthy PL, Owzar K, Hofmeister CC, et al. Lenalidomide after stem-cell transplantation for multiple myeloma. N Engl J Med. 2012;366:1770–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=McCarthy%20PL%2C%20Owzar%20K%2C%20Hofmeister%20CC%2C%20et%20al.%20Lenalidomide%20after%20stem-cell%20transplantation%20for%20multiple%20myeloma.%20N%20Engl%20J%20Med.%202012%3B366%3A1770%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=McCarthy%20PL%2C%20Owzar%20K%2C%20Hofmeister%20CC%2C%20et%20al.%20Lenalidomide%20after%20stem-cell%20transplantation%20for%20multiple%20myeloma.%20N%20Engl%20J%20Med.%202012%3B366%3A1770%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 5800049,
+          "page": 531,
+          "en": "Metzelder SK, Schroeder T, Finck A, et al. High activity of sorafenib in FLT3-ITD-positive acute myeloid leukemia synergizes with allo-immune effects to induce sustained responses. Leukemia. 2012;26:2353–9.",
+          "zh": "Metzelder SK, Schroeder T, Finck A, et al. High activity of sorafenib in FLT3-ITD-positive acute myeloid leukemia synergizes with allo-immune effects to induce sustained responses. Leukemia. 2012;26:2353–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Metzelder%20SK%2C%20Schroeder%20T%2C%20Finck%20A%2C%20et%20al.%20High%20activity%20of%20sorafenib%20in%20FLT3-ITD-positive%20acute%20myeloid%20leukemia%20synergizes%20with%20allo-immune%20effects%20to%20induce%20sustained%20responses.%20Leukemia.%202012%3B26%3A2353%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Metzelder%20SK%2C%20Schroeder%20T%2C%20Finck%20A%2C%20et%20al.%20High%20activity%20of%20sorafenib%20in%20FLT3-ITD-positive%20acute%20myeloid%20leukemia%20synergizes%20with%20allo-immune%20effects%20to%20induce%20sustained%20responses.%20Leukemia.%202012%3B26%3A2353%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5800050,
+          "page": 531,
+          "en": "Moskowitz CH, Nademanee A, Masszi T, et al. Brentuximab vedotin as consolidation therapy after autologous stem-cell transplantation in patients with Hodgkin’s lymphoma at risk of relapse or progression (AETHERA): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2015;385:1853–62.",
+          "zh": "Moskowitz CH, Nademanee A, Masszi T, et al. Brentuximab vedotin as consolidation therapy after autologous stem-cell transplantation in patients with Hodgkin’s lymphoma at risk of relapse or progression (AETHERA): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2015;385:1853–62.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Moskowitz%20CH%2C%20Nademanee%20A%2C%20Masszi%20T%2C%20et%20al.%20Brentuximab%20vedotin%20as%20consolidation%20therapy%20after%20autologous%20stem-cell%20transplantation%20in%20patients%20with%20Hodgkin%E2%80%99s%20lymphoma%20at%20risk%20of%20relapse%20or%20progression%20%28AETHERA%29%3A%20a%20randomised%2C%20double-blind%2C%20placebo-controlled%2C%20phase%203%20trial.%20Lancet.%202015%3B385%3A1853%E2%80%9362."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Moskowitz%20CH%2C%20Nademanee%20A%2C%20Masszi%20T%2C%20et%20al.%20Brentuximab%20vedotin%20as%20consolidation%20therapy%20after%20autologous%20stem-cell%20transplantation%20in%20patients%20with%20Hodgkin%E2%80%99s%20lymphoma%20at%20risk%20of%20relapse%20or%20progression%20%28AETHERA%29%3A%20a%20randomised%2C%20double-blind%2C%20placebo-controlled%2C%20phase%203%20trial.%20Lancet.%202015%3B385%3A1853%E2%80%9362."
+            }
+          ]
+        },
+        {
+          "id": 5800051,
+          "page": 531,
+          "en": "Niederwieser C, Morozova E, Zubarovskaya L, et al. Risk factors for outcome after allogeneic stem cell transplantation in patients with advanced phase CML. Bone Marrow Transplant. 2021;56(11):2834–41.",
+          "zh": "Niederwieser C, Morozova E, Zubarovskaya L, et al. Risk factors for outcome after allogeneic stem cell transplantation in patients with advanced phase CML. Bone Marrow Transplant. 2021;56(11):2834–41.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Niederwieser%20C%2C%20Morozova%20E%2C%20Zubarovskaya%20L%2C%20et%20al.%20Risk%20factors%20for%20outcome%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20advanced%20phase%20CML.%20Bone%20Marrow%20Transplant.%202021%3B56%2811%29%3A2834%E2%80%9341."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Niederwieser%20C%2C%20Morozova%20E%2C%20Zubarovskaya%20L%2C%20et%20al.%20Risk%20factors%20for%20outcome%20after%20allogeneic%20stem%20cell%20transplantation%20in%20patients%20with%20advanced%20phase%20CML.%20Bone%20Marrow%20Transplant.%202021%3B56%2811%29%3A2834%E2%80%9341."
+            }
+          ]
+        },
+        {
+          "id": 5800052,
+          "page": 531,
+          "en": "Olavarria E, Siddique S, Griffiths MJ, et al. Post transplantation imatinib as a strategy to postpone the requirement for immunotherapy in patients undergoing reduced-intensity allografts for chronic myeloid leukemia. Blood. 2007;110:4614–7.",
+          "zh": "Olavarria E, Siddique S, Griffiths MJ, et al. Post transplantation imatinib as a strategy to postpone the requirement for immunotherapy in patients undergoing reduced-intensity allografts for chronic myeloid leukemia. Blood. 2007;110:4614–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Olavarria%20E%2C%20Siddique%20S%2C%20Griffiths%20MJ%2C%20et%20al.%20Post%20transplantation%20imatinib%20as%20a%20strategy%20to%20postpone%20the%20requirement%20for%20immunotherapy%20in%20patients%20undergoing%20reduced-intensity%20allografts%20for%20chronic%20myeloid%20leukemia.%20Blood.%202007%3B110%3A4614%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Olavarria%20E%2C%20Siddique%20S%2C%20Griffiths%20MJ%2C%20et%20al.%20Post%20transplantation%20imatinib%20as%20a%20strategy%20to%20postpone%20the%20requirement%20for%20immunotherapy%20in%20patients%20undergoing%20reduced-intensity%20allografts%20for%20chronic%20myeloid%20leukemia.%20Blood.%202007%3B110%3A4614%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5800053,
+          "page": 531,
+          "en": "Oran B, de Lima M, Garcia-Manero G, et al. A phase 3 randomized study of 5-azacitidine maintenance vs observation after transplant in high-risk AML and MDS patients. Blood Adv. 2020;4(21):5580–8.",
+          "zh": "Oran B, de Lima M, Garcia-Manero G, et al. A phase 3 randomized study of 5-azacitidine maintenance vs observation after transplant in high-risk AML and MDS patients. Blood Adv. 2020;4(21):5580–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Oran%20B%2C%20de%20Lima%20M%2C%20Garcia-Manero%20G%2C%20et%20al.%20A%20phase%203%20randomized%20study%20of%205-azacitidine%20maintenance%20vs%20observation%20after%20transplant%20in%20high-risk%20AML%20and%20MDS%20patients.%20Blood%20Adv.%202020%3B4%2821%29%3A5580%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Oran%20B%2C%20de%20Lima%20M%2C%20Garcia-Manero%20G%2C%20et%20al.%20A%20phase%203%20randomized%20study%20of%205-azacitidine%20maintenance%20vs%20observation%20after%20transplant%20in%20high-risk%20AML%20and%20MDS%20patients.%20Blood%20Adv.%202020%3B4%2821%29%3A5580%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5800054,
+          "page": 531,
+          "en": "Pettengell R, Schmitz N, Gisselbrecht C, et al. Rituximab purging and/or maintenance in patients undergoing autologous transplantation for relapsed follicular lymphoma: a prospective randomized trial from the lymphoma working party of the European Group for Blood and Marrow Transplantation. J Clin Oncol. 2013;31:1624–30.",
+          "zh": "Pettengell R, Schmitz N, Gisselbrecht C, et al. Rituximab purging and/or maintenance in patients undergoing autologous transplantation for relapsed follicular lymphoma: a prospective randomized trial from the lymphoma working party of the European Group for Blood and Marrow Transplantation. J Clin Oncol. 2013;31:1624–30.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pettengell%20R%2C%20Schmitz%20N%2C%20Gisselbrecht%20C%2C%20et%20al.%20Rituximab%20purging%20and/or%20maintenance%20in%20patients%20undergoing%20autologous%20transplantation%20for%20relapsed%20follicular%20lymphoma%3A%20a%20prospective%20randomized%20trial%20from%20the%20lymphoma%20working%20party%20of%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20J%20Clin%20Oncol.%202013%3B31%3A1624%E2%80%9330."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pettengell%20R%2C%20Schmitz%20N%2C%20Gisselbrecht%20C%2C%20et%20al.%20Rituximab%20purging%20and/or%20maintenance%20in%20patients%20undergoing%20autologous%20transplantation%20for%20relapsed%20follicular%20lymphoma%3A%20a%20prospective%20randomized%20trial%20from%20the%20lymphoma%20working%20party%20of%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20J%20Clin%20Oncol.%202013%3B31%3A1624%E2%80%9330."
+            }
+          ]
+        },
+        {
+          "id": 5800055,
+          "page": 531,
+          "en": "Pfeifer H, Wassmann B, Bethge W, et al. Randomized comparison of prophylactic and minimal residual disease-triggered imatinib after allogeneic stem cell transplantation for BCR-ABL1-positive acute lymphoblastic leukemia. Leukemia. 2013;27:1254–62.",
+          "zh": "Pfeifer H, Wassmann B, Bethge W, et al. Randomized comparison of prophylactic and minimal residual disease-triggered imatinib after allogeneic stem cell transplantation for BCR-ABL1-positive acute lymphoblastic leukemia. Leukemia. 2013;27:1254–62.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pfeifer%20H%2C%20Wassmann%20B%2C%20Bethge%20W%2C%20et%20al.%20Randomized%20comparison%20of%20prophylactic%20and%20minimal%20residual%20disease-triggered%20imatinib%20after%20allogeneic%20stem%20cell%20transplantation%20for%20BCR-ABL1-positive%20acute%20lymphoblastic%20leukemia.%20Leukemia.%202013%3B27%3A1254%E2%80%9362."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pfeifer%20H%2C%20Wassmann%20B%2C%20Bethge%20W%2C%20et%20al.%20Randomized%20comparison%20of%20prophylactic%20and%20minimal%20residual%20disease-triggered%20imatinib%20after%20allogeneic%20stem%20cell%20transplantation%20for%20BCR-ABL1-positive%20acute%20lymphoblastic%20leukemia.%20Leukemia.%202013%3B27%3A1254%E2%80%9362."
+            }
+          ]
+        },
+        {
+          "id": 5800056,
+          "page": 531,
+          "en": "Platzbecker U, Wermke M, Radke J, et al. Azacitidine for treatment of imminent relapse in MDS or AML patients after allogeneic HSCT: results of the RELAZA trial. Leukemia. 2012;26:381–9.",
+          "zh": "Platzbecker U, Wermke M, Radke J, et al. Azacitidine for treatment of imminent relapse in MDS or AML patients after allogeneic HSCT: results of the RELAZA trial. Leukemia. 2012;26:381–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Platzbecker%20U%2C%20Wermke%20M%2C%20Radke%20J%2C%20et%20al.%20Azacitidine%20for%20treatment%20of%20imminent%20relapse%20in%20MDS%20or%20AML%20patients%20after%20allogeneic%20HSCT%3A%20results%20of%20the%20RELAZA%20trial.%20Leukemia.%202012%3B26%3A381%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Platzbecker%20U%2C%20Wermke%20M%2C%20Radke%20J%2C%20et%20al.%20Azacitidine%20for%20treatment%20of%20imminent%20relapse%20in%20MDS%20or%20AML%20patients%20after%20allogeneic%20HSCT%3A%20results%20of%20the%20RELAZA%20trial.%20Leukemia.%202012%3B26%3A381%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5800057,
+          "page": 531,
+          "en": "Schroeder T, Frobel J, Cadeddu RP, et al. Salvage therapy with azacitidine increases regulatory T cells in peripheral blood of patients with AML or MDS and early relapse after allogeneic blood stem cell transplantation. Leukemia. 2013;27:1910–3.",
+          "zh": "Schroeder T, Frobel J, Cadeddu RP, et al. Salvage therapy with azacitidine increases regulatory T cells in peripheral blood of patients with AML or MDS and early relapse after allogeneic blood stem cell transplantation. Leukemia. 2013;27:1910–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schroeder%20T%2C%20Frobel%20J%2C%20Cadeddu%20RP%2C%20et%20al.%20Salvage%20therapy%20with%20azacitidine%20increases%20regulatory%20T%20cells%20in%20peripheral%20blood%20of%20patients%20with%20AML%20or%20MDS%20and%20early%20relapse%20after%20allogeneic%20blood%20stem%20cell%20transplantation.%20Leukemia.%202013%3B27%3A1910%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schroeder%20T%2C%20Frobel%20J%2C%20Cadeddu%20RP%2C%20et%20al.%20Salvage%20therapy%20with%20azacitidine%20increases%20regulatory%20T%20cells%20in%20peripheral%20blood%20of%20patients%20with%20AML%20or%20MDS%20and%20early%20relapse%20after%20allogeneic%20blood%20stem%20cell%20transplantation.%20Leukemia.%202013%3B27%3A1910%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 5800058,
+          "page": 531,
+          "en": "Sockel K, Bornhaeuser M, Mischak-Weissinger E, et al. Lenalidomide maintenance after allogeneic HSCT seems to trigger acute graft-versus-host disease in patients with high-risk myelodysplastic syndromes or acute myeloid leukemia and del(5q): results of the LENAMAINT trial. Haematologica. 2012;97:e34–5.",
+          "zh": "Sockel K, Bornhaeuser M, Mischak-Weissinger E, et al. Lenalidomide maintenance after allogeneic HSCT seems to trigger acute graft-versus-host disease in patients with high-risk myelodysplastic syndromes or acute myeloid leukemia and del(5q): results of the LENAMAINT trial. Haematologica. 2012;97:e34–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sockel%20K%2C%20Bornhaeuser%20M%2C%20Mischak-Weissinger%20E%2C%20et%20al.%20Lenalidomide%20maintenance%20after%20allogeneic%20HSCT%20seems%20to%20trigger%20acute%20graft-versus-host%20disease%20in%20patients%20with%20high-risk%20myelodysplastic%20syndromes%20or%20acute%20myeloid%20leukemia%20and%20del%285q%29%3A%20results%20of%20the%20LENAMAINT%20trial.%20Haematologica.%202012%3B97%3Ae34%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sockel%20K%2C%20Bornhaeuser%20M%2C%20Mischak-Weissinger%20E%2C%20et%20al.%20Lenalidomide%20maintenance%20after%20allogeneic%20HSCT%20seems%20to%20trigger%20acute%20graft-versus-host%20disease%20in%20patients%20with%20high-risk%20myelodysplastic%20syndromes%20or%20acute%20myeloid%20leukemia%20and%20del%285q%29%3A%20results%20of%20the%20LENAMAINT%20trial.%20Haematologica.%202012%3B97%3Ae34%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5800059,
+          "page": 531,
+          "en": "Spencer A, Prince HM, Roberts AW, et al. Consolidation therapy with low-dose thalidomide and prednisolone prolongs the survival of multiple myeloma patients undergoing a single autologous stem-cell transplantation procedure. J Clin Oncol. 2009;27:1788–93.",
+          "zh": "Spencer A, Prince HM, Roberts AW, et al. Consolidation therapy with low-dose thalidomide and prednisolone prolongs the survival of multiple myeloma patients undergoing a single autologous stem-cell transplantation procedure. J Clin Oncol. 2009;27:1788–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Spencer%20A%2C%20Prince%20HM%2C%20Roberts%20AW%2C%20et%20al.%20Consolidation%20therapy%20with%20low-dose%20thalidomide%20and%20prednisolone%20prolongs%20the%20survival%20of%20multiple%20myeloma%20patients%20undergoing%20a%20single%20autologous%20stem-cell%20transplantation%20procedure.%20J%20Clin%20Oncol.%202009%3B27%3A1788%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Spencer%20A%2C%20Prince%20HM%2C%20Roberts%20AW%2C%20et%20al.%20Consolidation%20therapy%20with%20low-dose%20thalidomide%20and%20prednisolone%20prolongs%20the%20survival%20of%20multiple%20myeloma%20patients%20undergoing%20a%20single%20autologous%20stem-cell%20transplantation%20procedure.%20J%20Clin%20Oncol.%202009%3B27%3A1788%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 5800060,
+          "page": 531,
+          "en": "Ueda M, de Lima M, Caimi P, et al. Concurrent blinatumomab and donor lymphocyte infusions for treatment of relapsed pre-B-cell ALL after allogeneic hematopoietic cell transplant. Bone Marrow Transplant. 2016;51:1253–5.",
+          "zh": "Ueda M, de Lima M, Caimi P, et al. Concurrent blinatumomab and donor lymphocyte infusions for treatment of relapsed pre-B-cell ALL after allogeneic hematopoietic cell transplant. Bone Marrow Transplant. 2016;51:1253–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ueda%20M%2C%20de%20Lima%20M%2C%20Caimi%20P%2C%20et%20al.%20Concurrent%20blinatumomab%20and%20donor%20lymphocyte%20infusions%20for%20treatment%20of%20relapsed%20pre-B-cell%20ALL%20after%20allogeneic%20hematopoietic%20cell%20transplant.%20Bone%20Marrow%20Transplant.%202016%3B51%3A1253%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ueda%20M%2C%20de%20Lima%20M%2C%20Caimi%20P%2C%20et%20al.%20Concurrent%20blinatumomab%20and%20donor%20lymphocyte%20infusions%20for%20treatment%20of%20relapsed%20pre-B-cell%20ALL%20after%20allogeneic%20hematopoietic%20cell%20transplant.%20Bone%20Marrow%20Transplant.%202016%3B51%3A1253%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5800061,
+          "page": 531,
+          "en": "Wolschke C, Stubig T, Hegenbart U, et al. Postallograft lenalidomide induces strong NK cell-mediated antimyeloma activity and risk for T cell-mediated GvHD: results from a phase I/II dose-finding study. Exp Hematol. 2013;41:134–142.e3.",
+          "zh": "Wolschke C, Stubig T, Hegenbart U, et al. Postallograft lenalidomide induces strong NK cell-mediated antimyeloma activity and risk for T cell-mediated GvHD: results from a phase I/II dose-finding study. Exp Hematol. 2013;41:134–142.e3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wolschke%20C%2C%20Stubig%20T%2C%20Hegenbart%20U%2C%20et%20al.%20Postallograft%20lenalidomide%20induces%20strong%20NK%20cell-mediated%20antimyeloma%20activity%20and%20risk%20for%20T%20cell-mediated%20GvHD%3A%20results%20from%20a%20phase%20I/II%20dose-finding%20study.%20Exp%20Hematol.%202013%3B41%3A134%E2%80%93142.e3."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wolschke%20C%2C%20Stubig%20T%2C%20Hegenbart%20U%2C%20et%20al.%20Postallograft%20lenalidomide%20induces%20strong%20NK%20cell-mediated%20antimyeloma%20activity%20and%20risk%20for%20T%20cell-mediated%20GvHD%3A%20results%20from%20a%20phase%20I/II%20dose-finding%20study.%20Exp%20Hematol.%202013%3B41%3A134%E2%80%93142.e3."
+            }
+          ]
+        },
+        {
+          "id": 5800062,
+          "page": 531,
+          "en": "Xuan L, Wang Y, Huang F, et al. Sorafenib maintenance in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised phase 3 trial. Lancet Oncol. 2020;21:1201. https://doi.org/10.1016/S1470-2045(20)30455-1.",
+          "zh": "Xuan L, Wang Y, Huang F, et al. Sorafenib maintenance in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised phase 3 trial. Lancet Oncol. 2020;21:1201. https://doi.org/10.1016/S1470-2045(20)30455-1.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Xuan%20L%2C%20Wang%20Y%2C%20Huang%20F%2C%20et%20al.%20Sorafenib%20maintenance%20in%20patients%20with%20FLT3-ITD%20acute%20myeloid%20leukaemia%20undergoing%20allogeneic%20haematopoietic%20stem-cell%20transplantation%3A%20an%20open-label%2C%20multicentre%2C%20randomised%20phase%203%20trial.%20Lancet%20Oncol.%202020%3B21%3A1201.%20https%3A//doi.org/10.1016/S1470-2045%2820%2930455-1."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Xuan%20L%2C%20Wang%20Y%2C%20Huang%20F%2C%20et%20al.%20Sorafenib%20maintenance%20in%20patients%20with%20FLT3-ITD%20acute%20myeloid%20leukaemia%20undergoing%20allogeneic%20haematopoietic%20stem-cell%20transplantation%3A%20an%20open-label%2C%20multicentre%2C%20randomised%20phase%203%20trial.%20Lancet%20Oncol.%202020%3B21%3A1201.%20https%3A//doi.org/10.1016/S1470-2045%2820%2930455-1."
+            }
+          ]
+        },
+        {
+          "id": 5800063,
+          "page": 531,
+          "en": "Younes A, Santoro A, Shipp M, et al. Nivolumab for classical Hodgkin’s lymphoma after failure of both autologous stem-cell transplantation and brentuximab vedotin: a multicentre, multicohort, single-arm phase 2 trial. Lancet Oncol. 2016;17:1283–94.",
+          "zh": "Younes A, Santoro A, Shipp M, et al. Nivolumab for classical Hodgkin’s lymphoma after failure of both autologous stem-cell transplantation and brentuximab vedotin: a multicentre, multicohort, single-arm phase 2 trial. Lancet Oncol. 2016;17:1283–94.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Younes%20A%2C%20Santoro%20A%2C%20Shipp%20M%2C%20et%20al.%20Nivolumab%20for%20classical%20Hodgkin%E2%80%99s%20lymphoma%20after%20failure%20of%20both%20autologous%20stem-cell%20transplantation%20and%20brentuximab%20vedotin%3A%20a%20multicentre%2C%20multicohort%2C%20single-arm%20phase%202%20trial.%20Lancet%20Oncol.%202016%3B17%3A1283%E2%80%9394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Younes%20A%2C%20Santoro%20A%2C%20Shipp%20M%2C%20et%20al.%20Nivolumab%20for%20classical%20Hodgkin%E2%80%99s%20lymphoma%20after%20failure%20of%20both%20autologous%20stem-cell%20transplantation%20and%20brentuximab%20vedotin%3A%20a%20multicentre%2C%20multicohort%2C%20single-arm%20phase%202%20trial.%20Lancet%20Oncol.%202016%3B17%3A1283%E2%80%9394."
+            }
+          ]
+        },
+        {
+          "id": 5800064,
+          "page": 531,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

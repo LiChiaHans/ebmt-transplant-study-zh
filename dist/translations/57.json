@@ -1,0 +1,1461 @@
+{
+  "id": 57,
+  "title": "Monitoring Measurable Residual Disease in ALL and AML",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 86,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 516,
+      "blocks": [
+        {
+          "id": 5700001,
+          "page": 516,
+          "en": "57 Monitoring Measurable Residual Disease in ALL and AML\nPeter Bader, Hermann Kreyenberg, and Gert Ossenkoppele",
+          "zh": "57 急性淋巴性白血病（ALL）與急性骨髓性白血病（AML）之可測量殘存疾病（MRD）監測（Monitoring Measurable Residual Disease in ALL and AML） — Peter Bader、Hermann Kreyenberg、Gert Ossenkoppele",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_57"
+            }
+          ]
+        },
+        {
+          "id": 5700002,
+          "page": 516,
+          "en": "57.1 Monitoring MRD in ALL\nPeter Bader and Hermann Kreyenberg\n57.1.1 Introduction\nIn ALL evaluation of molecular treatment response, assessment of minimal residual disease, nowadays named measurable residual disease (MRD), is a substantial independent predictor of outcome, as proven by randomized studies (Conter et al. 2010; Gökbuget et al. 2012; Bassan and Spinelli 2015). Consequently, MRD is implemented in virtually all clinical protocols in order to supplement or to redefine multifactorial risk stratification with optional customized treatment intensity. The detection of leukemic cells below the limit of classical cytomorphology is feasible by either disease-specific alterations of the immune phenotype or unique genetic features. Several competing and complementing MRD methods have been developed with preference application according to clinical protocols (Van der Velden et al. 2007; van Dongen et al. 2015).",
+          "zh": "57.1 ALL 之 MRD 監測（作者：Peter Bader、Hermann Kreyenberg）\n57.1.1 前言\n在 ALL 的分子治療反應評估中，微量殘存疾病（如今稱為可測量殘存疾病，measurable residual disease, MRD）的評估是一項重大的獨立預後預測因子，這一點已由多項隨機對照研究證實（Conter et al. 2010; Gökbuget et al. 2012; Bassan and Spinelli 2015）。因此，幾乎所有的臨床治療計畫書皆已納入 MRD 檢測，藉以補充或重新定義多因素風險分層，並據此量身調整治療強度。要偵測低於傳統細胞形態學解析極限的白血病細胞，可透過疾病特異性的免疫表型改變或獨特的基因特徵來達成。目前學界已開發出多種相互競爭且互補的 MRD 檢測方法，並依據各臨床計畫書的偏好加以應用（Van der Velden et al. 2007; van Dongen et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700003,
+          "page": 516,
+          "en": "57.1.2 MRD Assessment by IG/TCR Real-Time PCR\nThe discontinuous immune receptor genes provide the immune repertoire by somatic recombination of variable (V), diversification (D), and junction (J) elements, thus forming hypervariable CDR3 (complementarity-determining region 3) regions during lymphocyte maturation. Such rearrangements can serve as clonal index of leukemia blasts originating from lymphoid precursor stages. Additionally, due to a relaxed regulatory control, leukemia blasts can harbor incomplete rearrangements and cross-lineage rearrangements and tend to accumulate simultaneously multiple rearrangements. Quantitative real-time PCR using junction complementary allele-specific oligonucleotides (ASO) frequently reaches a detection limit of 1E-05 with a quantitative range of 1E-04, is applicable to vast majority of cases, and has a high degree of standardization (Van der Velden et al. 2007).",
+          "zh": "57.1.2 以免疫球蛋白／T 細胞受體（IG/TCR）即時定量 PCR 評估 MRD\n不連續的免疫受體基因在淋巴球成熟過程中，會透過可變區（V）、多樣區（D）與接合區（J）基因片段的體細胞重組（somatic recombination）形成超變異的互補決定區 3（CDR3）區域，進而提供龐大的免疫受體庫。此類基因重組可作為源自淋巴前驅階段之白血病芽細胞（blasts）的選殖株指標（clonal index）。此外，由於調控機制鬆散，白血病芽細胞可能帶有不完全重組以及跨譜系重組（cross-lineage rearrangements），且往往同時累積多個基因重組。使用與接合區互補之等位基因特異性寡核苷酸（ASO）進行的即時定量 PCR（qPCR），其偵測極限（detection limit）常可達 10⁻⁵（1E-05）、定量範圍達 10⁻⁴（1E-04），適用於絕大多數的 ALL 個案，且具備高度的標準化（Van der Velden et al. 2007）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700004,
+          "page": 516,
+          "en": "P. Bader (*)\nDivision for Stem Cell Transplantation and Immunology, University Hospital for Children and Adolescents, Goethe University Frankfurt am Main, Frankfurt, Germany\ne-mail: p.bader@em.uni-frankfurt.de\nH. Kreyenberg\nDivision of Stem Cell Transplantation and Immunology, Center for Children and Adolescents, University Hospital Frankfurt, Frankfurt, Germany\ne-mail: Kreyenberg@med.uni-frankfurt.de\nG. Ossenkoppele\nDepartment of Hematology, Amsterdam Universitaire Medische Centra, Location VUMC, Amsterdam, The Netherlands\ne-mail: g.ossenkoppele@amsterdamumc.nl\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_57",
+          "zh": "作者單位與聯絡資訊：\nP. Bader（通訊作者）、H. Kreyenberg：德國法蘭克福歌德大學（Goethe University Frankfurt am Main）兒童與青少年大學醫院幹細胞移植暨免疫學部；電子郵件：p.bader@em.uni-frankfurt.de、Kreyenberg@med.uni-frankfurt.de。\nG. Ossenkoppele：荷蘭阿姆斯特丹大學醫學中心（Amsterdam UMC，VUMC 院區）血液科；電子郵件：g.ossenkoppele@amsterdamumc.nl。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_57。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 517,
+      "blocks": [
+        {
+          "id": 5700005,
+          "page": 517,
+          "en": "57.1.3 MRD Assessment by IG/TCR Digital PCR\nOne significant drawback of qPCR is its relatively high level of inaccuracy, susceptibility to inhibiting substances, and reliance on reference samples for MRD quantification. A novel technique, known as digital PCR and considered the third generation of PCR (Vogelstein and Kinzler 1999; Starza et al. 2022), has been developed. Although the digital PCR approach shares similarities with qPCR in terms of targets and primers, it can overcome these limitations. However, achieving precision in digital PCR relies on maintaining a well-balanced sample load in the reaction compartments (Huggett et al. 2013). The clinical usefulness of this method is still being verified (Della Starza et al. 2021).",
+          "zh": "57.1.3 以 IG/TCR 數位 PCR（Digital PCR）評估 MRD\n傳統 qPCR 的一項顯著缺點是其相對較高的不精確度、易受抑制物質干擾，且需仰賴初診斷參考檢體的標準曲線來進行 MRD 定量。學界目前已開發出一種被視為第三代 PCR 的新穎技術，稱為數位 PCR（digital PCR, dPCR）（Vogelstein and Kinzler 1999; Starza et al. 2022）。儘管數位 PCR 在靶點與引子設計上與 qPCR 相似，但它能克服上述限制（可進行絕對定量而不需標準曲線）。然而，要在數位 PCR 中達成高精準度，仰賴於在微反應腔室中維持均衡的檢體載入量（Huggett et al. 2013）。此方法的臨床實用價值目前仍持續在驗證中（Della Starza et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700006,
+          "page": 517,
+          "en": "57.1.4 MRD Assessment by Fusion Gene Transcript\nMost frequent recurrent reciprocal translocations are in ALL t(9;22)(q34;q11) (BCR-ABL1), t(12;21)(p13;q23) (ETV6-RUNX1), and t(4;11)(q21;q22) (MLL-AFF1) with age stage-associated preponderance in adults, childhood, and infant ALL, respectively. Derived chimeric fusion transcripts are validated marker for MRD detection by real-time PCR with an achievable detection limit of 1E-06. The methodology has been standardized by the European Against Cancer (EAC) program (Gabert et al. 2003).",
+          "zh": "57.1.4 以融合基因轉錄本（Fusion Gene Transcript）評估 MRD\nALL 中最常見的復發性相互轉位（reciprocal translocations）為 t(9;22)(q34;q11)（BCR-ABL1）、t(12;21)(p13;q23)（ETV6-RUNX1）以及 t(4;11)(q21;q22)（MLL-AFF1，即 KMT2A::AFF1），這三者分別在成人、兒童與嬰兒 ALL 中占據與年齡階段相關的優勢比例。由此產生的嵌合融合轉錄本是經確效可用於即時定量 PCR 偵測 MRD 的標記，其可達成的偵測極限高達 10⁻⁶（1E-06）。此方法學已由歐洲抗癌計畫（Europe Against Cancer, EAC）完成標準化（Gabert et al. 2003）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700007,
+          "page": 517,
+          "en": "57.1.5 NGS (Next-Generation Sequencing)\nHigh-throughput sequencing (HTS) of immune receptor genes by next-generation sequencing (NGS) is a novel option for MRD. This methodology provides comprehensive qualitative and quantitative information regarding clonal consistence of the diagnostic sample and shares one protocol for index determination and MRD assessment without the need of individual reagents. Potential subleukemic and new emerging leukemic clones also are covered. PCR steps during library construction can introduce bias effecting results internal controls and normalization calculations are necessary the generated data volume is high and data interpretation demand biostatistics expertise. Due to high sample capacity, NGS favors a centralized concept, and service is available to commercial providers by academic centers (Kotrova et al. 2015).",
+          "zh": "57.1.5 次世代定序（Next-Generation Sequencing, NGS）\n利用次世代定序（NGS）對免疫受體基因進行高通量定序（HTS），是評估 MRD 的一項新穎選擇。此方法學能針對初診斷檢體的選殖株組成提供全面的定性與定量資訊，且在初診斷指標序列鑑定（index determination）與後續 MRD 追蹤評估上共用同一套實驗流程，無需為每位患者客製化專屬的個別引子／探針試劑。潛在的次要白血病選殖株與新浮現的白血病演化選殖株也能一併被涵蓋偵測。由於在建庫（library construction）過程中的 PCR 步驟可能會引入放大偏差（bias）進而影響定量結果，因此必須加入內部對照品並進行標準化校正計算；此外，其產生的數據量龐大，數據判讀需要生物統計與生物資訊專業。由於單次上機的檢體容量大，NGS 傾向採用集中化實驗室（centralized concept）運作，目前已有商業供應商與學術中心提供此項檢測服務（Kotrova et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700008,
+          "page": 517,
+          "en": "57.1.6 Flow Cytometry\nMRD by multicomponent flow cytometry (MFC) distinguishes leukemia-associated immune phenotypes (LAIP) and regular cells. LAIP consists of cell lineage maturation stage-specific (backbone) markers in combination with illegitimate markers. The standard four- to six-color approaches have been developed simultaneously by several centers. Therefore, the applied marker panels depend on study protocol. The consistently achieved detection limit is 1E-04. Recently, increase of specificity and sensitivity was enabled by high-throughput procedures demanding eight- or ten-color equipment. Here, the options for targeted and visualized antigens allow simultaneous visualization of all developmental lymphocyte stages serving as background to distinguish leukemic cells. The EuroFlow Consortium validated available antibody panels and controls which can be applied in a standardized way, including automated gating with supportive software, data storage and comparison, accurate quantitative result, and option for IVD development. Similar to the NGS approach, the generated data volume is high, and data interpretation demands biostatistics expertise; nevertheless, the concept allows decentralized data acquisition (Pedreira et al. 2013).",
+          "zh": "57.1.6 流式細胞儀（Flow Cytometry）\n利用多參數流式細胞儀（MFC）進行的 MRD 檢測，旨在區分白血病相關免疫表型（LAIP）與正常細胞。LAIP 是由細胞譜系成熟階段特異性之骨幹（backbone）標記結合異常跨譜系／不同步表現（illegitimate）標記所組成。標準的 4 至 6 色流式細胞技術曾由多個中心同步開發，因此所應用的標記組合依各研究計畫書而異，其一致可達成的偵測極限為 10⁻⁴（1E-04）。近期，需要 8 色或 10 色以上儀器設備的高通量程序進一步提升了特異性與敏感度（可達 10⁻⁵）：透過更多可靶向與視覺化的抗原選項，能同步呈現所有淋巴球正常發育階段作為背景，藉此精準區分出白血病細胞。EuroFlow 聯盟已驗證了可標準化應用的抗體組合與對照組，包含搭配輔助軟體的自動化圈選（automated gating）、數據儲存與比對、精確定量結果，以及開發為體外診斷醫療器材（IVD）的潛力。與 NGS 類似，此方法產生的數據量龐大且判讀需生物統計專業，但此架構允許在各中心進行分散式的數據採集（Pedreira et al. 2013）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700009,
+          "page": 517,
+          "en": "57.1.7 Limitations of MRD Assessment\nThe determined level of MRD always is a result of complex interrelation of baseline characteristics of tumor and patient, time point of MRD evaluation, therapeutic agents, course of clearance, and degree of therapy resistance. Several measurements therefore are mandatory. Adverse circumstances for MRD assessment are clonal selection and clonal evolution, since the associated index might be missed. Potentially impacted are leukemia with initial oligoclonality as observed in approximately 15% of B-ALL, and up to 1000 subclones have been reported (Wu et al. 2016). Phenotypic plasticity under treatment and massive lymphocyte regeneration can cause false negativity or positivity, a solvable problem by applying mentioned high-throughput methodologies. Achievable detection limit is correlated with cell count of sample, and aplastic samples are challenging. Finally, all methodologies use different sample preparations, and analyses refer to different units, a circumstance which interferes result comparison.",
+          "zh": "57.1.7 MRD 評估的限制\n所測得的 MRD 數值，永遠是腫瘤與患者基線特徵、MRD 評估時間點、所使用的治療藥物、清除動力學過程以及治療抗性程度之間複雜交互作用的結果。因此，進行多次縱向追蹤量測是必要的。對 MRD 評估不利的情況包括選殖株篩選（clonal selection）與選殖株演化（clonal evolution），因為原本追蹤的指標序列或表型可能會丟失而漏診。初診斷時即具寡選殖株性（oligoclonality，約見於 15% 的 B-ALL，甚至曾報導高達 1000 個次選殖株，Wu et al. 2016）的白血病特別可能受到影響。在治療壓力下的表型可塑性（phenotypic plasticity，如抗 CD19 治療後丟失 CD19）以及骨髓恢復期大量的正常再生淋巴球（regenerating hematogones），都可能造成流式細胞儀的偽陰性或偽陽性，不過這類問題可透過應用前述的高通量方法學加以克服。此外，可達成的偵測極限與檢體中的細胞總數直接相關，因此骨髓再生不良（aplastic）的低細胞量檢體極具挑戰性。最後，不同方法學使用不同的檢體前處理方式，且分析結果採用不同的單位，這也會干擾不同平台間結果的直接比較。",
+          "review": "ai-draft",
+          "endPage": 518
+        }
+      ]
+    },
+    {
+      "page": 518,
+      "blocks": [
+        {
+          "id": 5700010,
+          "page": 518,
+          "en": "57.1.8 MRD in the Setting of HCT\nAs all adult patients with ALL who relapse after initial chemotherapy have an absolute indication for allo-HCT, pediatric patients are stratified into different treatment groups. Main prognostic determinants in these patients are the blast immune phenotype, time to relapse, and site of relapse. High-risk patients who experienced early isolated BM relapse, early relapse involving BM, and any BM relapse of T-lineage ALL have clear indications for HCT. Intermediate-risk patients experienced early or late combined BM relapse and a late isolated BM relapse of a B-cell precursor (BCP) ALL and very early and early isolated extramedullary relapse of either BCP-ALL or T-ALL have indication for HCT if post-induction MRD exceeds a threshold of 1E-03 (Eckert et al. 2013).\nDuring the past decades, it could be clearly shown by several studies that the level of MRD immediately prior to transplant does have a clear prognostic impact on post-HCT outcome (Knechtli et al. 1998). Retrospective studies in children with relapsed ALL revealed an important cutoff for post-HCT outcome. Patients who received transplantation with an MRD load of ≥10⁻⁴ leukemic cells had a by far inferior prognosis than patients with lower MRD loads before transplant (Bader et al. 2009). Based on these findings, several studies are now underway investigating strategies to improve outcome in these ultrahigh-risk patients. Adaption of transplant approaches might allow successful transplantation (Leung et al. 2012).\nSpinelli et al. showed that almost half of the patients with high levels of MRD before transplantation achieved molecular remission by day +100 (Spinelli et al. 2007). This finding indicates that MRD detection posttransplant provides additional value to the MRD assessment prior to transplantation. It could be demonstrated in prospective clinical studies that the close monitoring of MRD by different approaches allows the prediction of relapse and may therefore form the basis of different intervention strategies making use of leukemia-specific targeted therapy (Bader et al. 2015; Balduzzi et al. 2014). Future perspectives will focus on MRD-guided intervention to prevent overt relapse (Rettinger et al. 2017).",
+          "zh": "57.1.8 HCT 情境下之 ALL MRD 監測\n所有在初始治療後復發的成人 ALL 患者皆具有進行異體 HCT（allo-HCT）的絕對適應症；而兒童復發患者則會被分層至不同的治療組別。這些兒童患者的主要預後決定因素為芽細胞免疫表型（B 或 T 細胞）、距離初診斷至復發的時間，以及復發部位。經歷早期孤立性骨髓（BM）復發、涉及骨髓之早期復發，以及任何 T 細胞譜系 ALL 骨髓復發的高風險患者，皆有明確的 HCT 適應症。至於中度風險患者——包括經歷早期或晚期合併型（骨髓＋髓外）復發與晚期孤立性骨髓復發的 B 前驅細胞（BCP）ALL，以及極早期與早期孤立性髓外復發的 BCP-ALL 或 T-ALL——若在救援誘導治療後的 MRD 超過 10⁻³（1E-03）閾值，即具有接受 HCT 的適應症（ALL-REZ BFM 試驗，Eckert et al. 2013）。\n在過去數十年間，多項研究已清楚證實：緊接在移植前的 MRD 水平對 HCT 後的預後具有明確的影響（Knechtli et al. 1998）。針對復發型 ALL 兒童的回溯性研究揭示了一個預測 HCT 後預後的重要切點：在移植前 MRD 負荷量 ≥10⁻⁴（原文排印為 ≥10 to 4）個白血病細胞即接受移植的患者，其預後遠比移植前 MRD 負荷量較低（<10⁻⁴）的患者差得多（Bader et al. 2009）。基於這些發現，目前有多項研究正探討如何改善這些超高風險患者的預後（例如在移植前先以 blinatumomab 等免疫療法清除 MRD），並透過調整移植與免疫介入策略來達成成功移植（Leung et al. 2012）。\nSpinelli 等人的研究顯示，在移植前具有高水平 MRD 的患者中，近半數可在移植後第 +100 天達成分子緩解（Spinelli et al. 2007）。這項發現指出，在移植前 MRD 評估之外，移植後的 MRD 偵測能提供額外的預後與決策價值。前瞻性臨床研究已證實，透過不同方法密集監測移植後 MRD 能夠預測即將發生的復發，因此可作為採取各種介入策略（如減停免疫抑制劑、DLI 或運用白血病特異性標靶／免疫治療）的基礎（Bader et al. 2015; Balduzzi et al. 2014）。未來的發展重點將聚焦於以 MRD 導引的先發性介入治療，以防止演變為顯性血液學復發（Rettinger et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700011,
+          "page": 518,
+          "en": "57.2 MRD in AML\nGert Ossenkoppele\n57.2.1 Introduction\nDefining residual disease below the level of 5% leukemic cells has changed the landscape of risk classification (Ossenkoppele 2013). The measurable residual disease (MRD) approach establishes the presence of leukemia cells down to levels of 1:10³ to 1:10⁶ white blood cells, compared to 1:20 for morphology. The ELN 2022 recommendation response criteria includes apart from CR without measurable residual disease (CR_MRD−) now also CRi_MRD− and CRh_MRD− and is defined as CR, CRi/CRh with negativity for a genetic marker by RT-qPCR or CR with negativity by multicolor flow cytometry (MFC) (Döhner et al. 2022).\nThe reasons to apply MRD assessment in AML are (1) to provide a quantitative methodology to establish a deeper remission status; (2) to better predict outcome and guide post-remission treatment; (3) to identify early relapse as a robust posttransplant surveillance, in order to enable early intervention; and (4) in the future to serve as a surrogate endpoint for survival to accelerate drug testing and approval (Ossenkoppele and Schuurhuis 2016).\nThe recent ELN MRD consensus document includes leads for standardized multiparameter flow cytometry-based MRD (MFC-MRD) and molecular MRD, MRD thresholds, and guidelines for clinical implications (Heuser et al. 2021).",
+          "zh": "57.2 AML 之 MRD 監測（作者：Gert Ossenkoppele）\n57.2.1 前言\n在低於 5% 白血病芽細胞的形態學標準之下進一步定義殘存疾病，已經徹底改變了 AML 風險分類的面貌（Ossenkoppele 2013）。傳統形態學檢查的敏感度僅約 1:20（5%），而可測量殘存疾病（MRD）檢測方法則能將白血病細胞的偵測極限推進至每 10³ 至 10⁶ 個白血球中有 1 個白血病細胞（10⁻³ 至 10⁻⁶）。2022 年歐洲白血病網（ELN 2022）建議的療效反應標準中，除了「無可測量殘存疾病之完全緩解（CR_MRD−）」外，如今亦納入了「血球未完全恢復但 MRD 陰性之完全緩解（CRi_MRD− 與 CRh_MRD−）」，定義為達成 CR、CRi 或 CRh 且經由 RT-qPCR 檢測特定基因標記為陰性，或經由多色流式細胞儀（MFC）檢測為陰性（Döhner et al. 2022）。\n在 AML 中應用 MRD 評估的四大理由為：（1）提供定量方法學以確立更深層的緩解狀態；（2）更精準地預測預後並指引緩解後治療（post-remission treatment，如是否於 CR1 進行異體移植）；（3）作為強健的移植後監測工具以辨識早期復發，從而能及早啟動先發介入治療；以及（4）在未來作為存活率的替代終點（surrogate endpoint），以加速新藥臨床測試與核准（Ossenkoppele and Schuurhuis 2016）。\n近期的 ELN MRD 共識文件（Heuser et al. 2021）已針對標準化的多參數流式細胞儀 MRD（MFC-MRD）與分子 MRD、MRD 陽性切點閾值（通常 MFC-MRD 切點為 ≥0.1%）以及臨床應用意義提供了詳細指引。",
+          "review": "ai-draft",
+          "endPage": 519
+        }
+      ]
+    },
+    {
+      "page": 519,
+      "blocks": [
+        {
+          "id": 5700012,
+          "page": 519,
+          "en": "57.2.2 Methods for MRD Detection\n57.2.2.1 MRD Detection by PCR\nReal-time quantitative PCR (RT-qPCR) allows MRD detection in cases with chimeric fusion genes generated by balanced chromosomal rearrangements (Grimwade and Freeman 2014). Other genetic alterations can also be used for MRD detection including mutated NPM1, RUNX1-RUNX1T1, CBFB-MYH11, PML-RARA, KMT2A-MLLT3, DEK-NUP214, BCR-ABL, and WT1. Apart from t(15;17) and RUNX1–RUNX1T1 and CBFB–MYH11, currently, NPM1 is the best-validated molecular marker for MRD assessment. PCR assessment of MRD is in about 40–60% of patients in principle possible. The methodology has been standardized for several molecular markers for clinical implementation in the Europe Against Cancer (EAC) program (Gabert et al. 2003).",
+          "zh": "57.2.2 AML MRD 之偵測方法\n57.2.2.1 以 PCR 偵測 MRD\n即時定量反轉錄 PCR（RT-qPCR）可用於偵測帶有由平衡染色體重組所產生之嵌合融合基因的 AML 個案（Grimwade and Freeman 2014）。可用於 MRD 偵測的基因改變包括突變型 NPM1、RUNX1::RUNX1T1、CBFB::MYH11、PML::RARA、KMT2A::MLLT3、DEK::NUP214、BCR::ABL1 以及 WT1 過度表現。除了 t(15;17)（APL）與核心結合因子白血病（RUNX1::RUNX1T1 與 CBFB::MYH11）之外，目前 NPM1 突變是經確效最完善的分子 MRD 評估標記。原則上，約有 40–60% 的 AML 患者可適用以 PCR 為基礎的 MRD 評估。針對數種常見分子標記的方法學，已在歐洲抗癌計畫（EAC）中完成標準化以供臨床實務應用（Gabert et al. 2003）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700013,
+          "page": 519,
+          "en": "57.2.2.2 Immune MRD by Multicolor Flow Cytometry\nThe basic principle is to integrate diagnostic leukemia-associated immune phenotypes (LAIP) and different-from-normal (DfN) aberrant immunophenotype approaches to enable tracking of diagnostic and emergent leukemic clones (Heuser et al. 2021). These LAIPs consist of normally occurring markers, present in aberrant combinations in AML but in very low frequencies in normal and regenerating BM. The background levels of LAIP in normal and regenerating BM levels, in particular, although low, prevent specific detection of aberrancies with sensitivities higher than 1:10,000.\nIf no diagnosis sample is present, one can make use of “different-from-normal” approach which uses a standard fixed antibody panel to recognize leukemic cells based on their difference with normal hematopoietic cells (Loken et al. 2012).\nCurrently, immune MRD aberrancies can be detected in over 90% of AML cases at diagnosis.",
+          "zh": "57.2.2.2 以多色流式細胞儀進行免疫表型 MRD 偵測\nELN 建議的基本原則，是將初診斷時的「白血病相關免疫表型（LAIP）」與「異於正常（different-from-normal, DfN）」的異常免疫表型方法加以整合（即 LAIP-based DfN approach），以便同時追蹤初診斷時的原有選殖株以及治療後新演化出的白血病選殖株（Heuser et al. 2021）。這些 LAIPs 是由正常造血也會出現的抗原標記在 AML 細胞上以異常組合表現所構成，而在正常及再生骨髓中出現的頻率極低。然而，LAIP 在正常與再生骨髓中雖然背景值很低，但這層背景噪音仍限制了流式細胞儀難以達成高於 1:10,000（10⁻⁴）的特異性偵測敏感度。\n若缺乏初診斷時的基準檢體，則可採用「異於正常（DfN）」方法，使用一套標準固定的抗體組合，根據白血病細胞與正常造血分化軌跡的差異來辨識殘存白血病細胞（Loken et al. 2012）。\n目前，在初診斷時有超過 90% 的 AML 個案可偵測到免疫表型 MRD 異常標記。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700014,
+          "page": 519,
+          "en": "57.2.2.3 MRD Detection by NGS\nNGS-based molecular MRD assessment targeted NGS-based MRD testing using specific mutations identified at diagnosis vs agnostic panel approaches are now mostly exploratively applied. Diagnostic AML samples are generally screened for mutations using a multigene panel (Jongen-Lavrencic et al. 2018).\nPrognostic impact has been shown for selected mutations present at diagnosis and/or in complete remission (CR) samples (Ghannam et al. 2020; Dillon et al. 2023). Germline mutations (ANKRD26, CEBPA, DDX41, ETV6, GATA2, RUNX1, and TP53) are noninformative as NGS-MRD markers (Godley 2021).\nDNMT3A, TET2, and ASXL1 (DTA) mutations can be found in age-related clonal hematopoiesis and like germline mutations should not be used for MRD analysis as these mutations often persist during remission and do usually not represent the leukemic clone (Shlush 2018; Hasserjian et al. 2020).\nRecently, three studies showed that FLT3-ITD is a highly prognostic biomarker in AML patient when measured after induction chemotherapy (Grob et al. 2023; Loo et al. 2022; Dillon et al. 2020). By a bioinformatic approach, FLT3-ITDs can be reliably detected with NGS (Blätte et al. 2019). These studies uniformly show that FLT3-ITD MRD ≥ 0.01% is clearly associated with outcome.",
+          "zh": "57.2.2.3 以次世代定序（NGS）偵測 MRD\n以 NGS 為基礎的分子 MRD 評估（包括追蹤初診斷時所鑑定出之特定突變的靶向 NGS-MRD 檢測，對比不預設靶點的廣泛多基因組合檢測）目前已從探索性研究逐步邁向臨床應用。初診斷的 AML 檢體通常會使用多基因組合（multigene panel）進行突變篩檢（Jongen-Lavrencic et al. 2018）。\n研究已證實，在初診斷及／或完全緩解（CR）檢體中殘存的特定基因突變具有顯著的預後影響（Ghannam et al. 2020; Dillon et al. 2023）。然而，生殖細胞系（Germline）突變（如 ANKRD26、CEBPA、DDX41、ETV6、GATA2、RUNX1 與 TP53）在緩解期仍會存在於所有正常造血細胞中，因此不能提供作為 NGS-MRD 標記的資訊（noninformative）（Godley 2021）。\n同樣至關重要的是，DNMT3A、TET2 與 ASXL1（合稱 DTA 突變）常見於與年齡相關的意義未明選殖性造血（age-related clonal hematopoiesis, ARCH/CHIP）；如同生殖細胞系突變一樣，DTA 突變不應單獨用於 MRD 分析，因為這些突變在患者達成完全緩解期間往往持續存在，且通常不代表真正的白血病惡性選殖株（Shlush 2018; Hasserjian et al. 2020）。\n近期有三項重要研究一致顯示，在誘導化療後或移植前量測 FLT3-ITD MRD，是 AML 患者極具預測價值的預後生物標記（Grob et al. 2023; Loo et al. 2022; Dillon et al. 2020）。透過專門的生物資訊分析演算法（如 getITD），可以利用高敏感度 PCR-NGS 可靠地偵測不同長度的 FLT3-ITD（Blätte et al. 2019）。這些研究一致顯示，FLT3-ITD MRD ≥ 0.01%（10⁻⁴）與高復發率及不良預後明確相關。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700015,
+          "page": 519,
+          "en": "57.2.3 MRD in Clinical Studies\nDespite a multitude of prognostic factors at diagnosis, the outcome of patients is still highly variable and not individually predictable. On-treatment parameters in combination with prognostic factors present at diagnosis may be more useful.\nThe prognostic value of MRD in remission has been shown in patients treated with both intensive and more recently less-intensive treatment modalities (Terwijn et al. 2013a; Maiti et al. 2021; Freeman et al. 2013; Pratz et al. 2021). A recent systematic meta-analysis of 81 publications has convincingly shown the prognostic value of MRD for relapse and overall survival (Short et al. 2020). However, MRD is far from perfect, since relapses still occur in MRD-negative patients. Thus, a negative MRD test result may not indicate complete disease eradication but refers to disease below the MRD test threshold in the tested sample. Conversely, not all patients who are MRD-positive will relapse. Of note, Mol-MRD may remain detectable at low levels (CR_MRD-LL) without prognostic significance and, therefore, are called negative operationally if the MRD values are below the threshold linked to prognosis (Dillon et al. 2020; Heuser et al. 2021). For instance, in CBF-AML and NPM1 mutant AML, the transcripts may show persistent low-level expression after treatment, but this is not prognostic of relapse (Freeman et al. 2018).\nUnfortunately, surrogacy for survival has not been proven yet (Hourigan et al. 2017; Ossenkoppele and Schuurhuis 2016; Walter et al. 2021).",
+          "zh": "57.2.3 臨床研究中之 AML MRD\n儘管在初診斷時有眾多的預後因子可用，個別患者的實際預後仍具高度變異且難以單獨預測。將治療期間的動態反應參數（on-treatment parameters，如 MRD）與初診斷時的預後因子相互結合，更具臨床實用價值。\n無論是在接受高強度化療，或是近期接受較低強度治療模式（如 Venetoclax + HMA）的患者中，緩解期的 MRD 皆已證實具有顯著預後價值（Terwijn et al. 2013a; Maiti et al. 2021; Freeman et al. 2013; Pratz et al. 2021）。近期一項涵蓋 81 篇發表文獻的系統性統合分析（共 11,151 名患者），已令人信服地證實了 MRD 對復發與總存活率（OS）的強大預測力（Short et al. 2020）。然而，MRD 並非完美無缺，因為在 MRD 陰性的患者中仍會發生復發；因此，MRD 檢測陰性並不一定代表疾病已被完全根除，而是指所測檢體中的殘存疾病低於該檢測方法的閾值。反之，也並非所有 MRD 陽性的患者都必然會復發。值得注意的是，分子 MRD（Mol-MRD）在治療後可能會以極低水平持續被偵測到（稱為低水平分子殘存，CR_MRD-LL）卻不具預後意義；因此，若分子轉錄本數值低於與復發預後相關的切點閾值，在臨床操作定義上仍可視為陰性（Dillon et al. 2020; Heuser et al. 2021）。舉例而言，在核心結合因子 AML（CBF-AML）與 NPM1 突變 AML 中，融合或突變轉錄本在治療結束後可能持續呈現極低水平的表現，但只要低於特定閾值且未上升，並不預示必然復發（Freeman et al. 2018）。\n遺憾的是，將 MRD 直接作為新藥核准中整體存活率之正式替代終點（surrogacy for survival）的地位，目前在法規統計上尚未完全確立（Hourigan et al. 2017; Ossenkoppele and Schuurhuis 2016; Walter et al. 2021）。",
+          "review": "ai-draft",
+          "endPage": 520
+        }
+      ]
+    },
+    {
+      "page": 520,
+      "blocks": [
+        {
+          "id": 5700016,
+          "page": 520,
+          "en": "57.2.4 MRD in Relation to Transplant\nEvidence is accumulating that the presence of MRD assessed by multicolor flow cytometry immediately prior to allogeneic HCT is a strong independent predictor of posttransplant outcomes in AML (Buckley et al. 2017; Walter et al. 2015). Araki et al. showed that in 359 adults, the 3-year relapse rate was 67% in MRD-positive patients, compared to 22% in MRD-negative patients, resulting in OS of 26% vs. 73%, respectively (Araki et al. 2016). This applies for the myeloablative as well as for the non-myeloablative transplant setting. The same was found in a large EBMT study (Gilleece et al. 2018).\nAlso, molecular MRD as measured by RT-PCR in NPM1-mutated AML has a significant impact on outcome after allo-HCT (Balsat et al. 2017).\nPretransplant MRD is prognostically also useful in CR2 (Gilleece et al. 2020). Importantly, it was demonstrated that the intensity of the conditioning regimen is dependent on MRD status. Myeloablative conditioning was only advantageous in the MRD+ setting (MRD+, RIC 34% vs MAC 59% 3 years OS; MRD−, RIC 61% vs MAC 60% 3 years OS) (Hourigan et al. 2020). We recently showed that MRD-guided therapy in intermediate-risk AML patients is a valuable strategy in reducing the number of allogeneic transplants without negatively affecting survival (Tettero et al. 2023).\nOnly sparse data is available for the posttransplant situation. Most available studies showed that the presence of posttransplant MRD had an adverse prognostic impact (Klyuchnikov et al. 2022; Zhou et al. 2016). In one study, this was irrespective of pretransplant MRD in patients with AML (Loke et al. 2023). Many trial groups certainly in Europe decide which post-remission treatment should be given based on MRD. Allo-HCT in the favorable group is usually not applied in the MRD-negative setting. For the intermediate group MRD− AML patients do not get an alloHCT in many centers and is only applied in CR2. The adverse-risk patient receives an allo-HCT independent of MRD status. The value should still be prospectively proven.",
+          "zh": "57.2.4 與移植相關之 AML MRD 評估\n越來越多的證據顯示，在緊接異體 HCT 前以多色流式細胞儀評估是否存在 MRD，是預測 AML 移植後預後的強大獨立因子（Buckley et al. 2017; Walter et al. 2015）。Araki 等人在 359 名成人 AML 患者中的研究顯示，移植前 MRD 陽性患者的 3 年復發率高達 67%（幾乎與活動性未緩解白血病相當），而 MRD 陰性患者則僅為 22%，兩組的 3 年 OS 分別為 26% 對比 73%（Araki et al. 2016）。這項發現在骨髓清除性（MAC）與非骨髓清除性（NMA/RIC）移植情境中皆成立。在一項納入 2,292 名患者的大型 EBMT 登錄研究中亦得出了相同的結論（Gilleece et al. 2018）。\n此外，在 NPM1 突變 AML 中以 RT-qPCR 量測的分子 MRD，同樣對異體 HCT 後的預後具有顯著影響（Balsat et al. 2017）。\n移植前 MRD 在第二次完全緩解（CR2）時同樣具有預後預測價值（Gilleece et al. 2020）。至關重要的是，研究已證實調理方案強度的效益取決於移植前的基因組 MRD 狀態（BMT CTN 0901 研究之 NGS 分析，Hourigan et al. 2020）：骨髓清除性調理（MAC）僅在移植前 MRD 陽性（MRD+）的情境下具有顯著存活優勢（在 MRD+ 患者中，RIC 與 MAC 的 3 年 OS 分別為 34% 對 59%；而在 MRD− 患者中，RIC 與 MAC 的 3 年 OS 則分別為 61% 對 60%，無顯著差異）。我們團隊近期的研究亦顯示，在中度風險（intermediate-risk）AML 患者中採取以 MRD 導引的緩解後治療策略，能在不對存活率造成負面影響的前提下，有效減少需要接受異體移植的患者人數（HOVON-SAKK 試驗，Tettero et al. 2023）。\n針對移植後 MRD 監測的數據相對較少，但現有研究大多顯示移植後出現 MRD 具有顯著的不良預後影響（Klyuchnikov et al. 2022; Zhou et al. 2016）。在一項研究中，無論移植前 MRD 狀態為何，移植後 MRD 陽性與 T 細胞混合嵌合皆能獨立預測 AML/MDS 患者的不良預後（Loke et al. 2023）。目前歐洲的許多臨床試驗團隊已根據 MRD 反應來決定緩解後治療策略：在預後良好風險群（Favorable group）中，若達成 MRD 陰性，通常不執行異體 HCT；在中度風險群（Intermediate group）中，許多中心對達成 MRD 陰性的 AML 患者不在 CR1 執行異體 HCT（保留至萬一復發達 CR2 時再執行）；而預後不良風險群（Adverse-risk）患者則無論 MRD 狀態為何，一律建議於 CR1 接受異體 HCT。此分層策略的長期價值仍持續在前瞻性研究中驗證。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700017,
+          "page": 520,
+          "en": "57.2.5 Clinical Intervention Studies Posttransplant\nThere is a current much interest on intervention studies in the posttransplant setting based on MRD assessment. Preemptive therapy with azacitidine can prevent or substantially delay hematological relapse in MRD-positive patients with MDS or AML who are at high risk of relapse (Platzbecker et al. 2018). A number of groups summarized by Biederstadt et al. have explored administering DLI preemptively on detection of measurable residual disease (MRD) or mixed chimerism. Evidence for the effectiveness of this strategy, although encouraging, comes from only a few, mostly single-center (Biederstädt and Rezvani 2023). Also, application of targeted therapy after transplant (e.g., FLT3 inhibitors) is currently under investigation.\nIt is clear that novel treatment strategies before, during, and after transplant are urgently needed to improve outcomes in AML. Thereby, depth of response prior to transplant, as measured by level of MRD, has emerged as one of the most important predictors of transplant outcome. Randomized trials are warranted to determine if MRD-guided preemptive therapy is associated with improved outcome.\nMost importantly no clinical trial including transplantation trials should be performed without including MRD assessment.",
+          "zh": "57.2.5 移植後之臨床介入研究\n目前學界對於在移植後根據 MRD 評估進行先發性介入治療的研究抱持高度興趣。在具高復發風險且出現 MRD 陽性的 MDS 或 AML 患者中，使用 azacitidine 進行先發治療（RELAZA2 試驗）已被證實能預防或大幅延緩顯性血液學復發（Platzbecker et al. 2018）。Biederstädt 與 Rezvani 彙整的多個研究團隊亦探索了在偵測到 MRD 或混合嵌合時，先發性施予供者淋巴球輸注（DLI）的策略；支持此策略有效性的證據雖然令人鼓舞，但目前大多來自少數單中心研究（Biederstädt and Rezvani 2023）。此外，在移植後應用分子標靶治療（例如在 FLT3-ITD MRD 陽性患者使用 FLT3 抑制劑如 gilteritinib 或 sorafenib）亦正積極研究與應用中。\n顯而易見地，臨床上迫切需要在移植前、移植期間與移植後導入新穎的治療策略以改善 AML 的預後。其中，以 MRD 水平所衡量的「移植前緩解深度」，已成為預測移植預後最重要的指標之一。未來仍需更多隨機對照試驗來確認以 MRD 導引的先發性治療是否能帶來明確的存活改善。\n最重要的是，今後任何臨床試驗（包含造血細胞移植試驗）都不應在未納入 MRD 評估的情況下執行。",
+          "review": "ai-draft",
+          "endPage": 521
+        }
+      ]
+    },
+    {
+      "page": 521,
+      "blocks": [
+        {
+          "id": 5700018,
+          "page": 521,
+          "en": "57.2.6 Future Developments\nNew technologies are emerging to assess MRD. Standardization and harmonization are important and are currently further explored by the ELN MRD WP (Tettero et al. 2021). Quantifying leukemic stem cells seems a promising approach (Ngai et al. 2023; Terwijn et al. 2014; Zeijlemaker et al. 2016). MRD-guided studies like post-remission decisions, MRD conversion pretransplant, MRD-directed intensification of conditioning regimens, and posttransplant intervention should be encouraged.",
+          "zh": "57.2.6 未來發展\n評估 MRD 的新技術正不斷湧現。跨實驗室的標準化（standardization）與協調一致化（harmonization）至關重要，目前正由 ELN MRD 工作小組進一步推動（Tettero et al. 2021）。定量檢測白血病幹細胞（leukemic stem cells, LSC，如 CD34+CD38− 異常標記頻率）看來是一項極具前景的方法，已被前瞻性驗證具有獨立預後價值（Ngai et al. 2023; Terwijn et al. 2014; Zeijlemaker et al. 2016）。未來應積極鼓勵開展以 MRD 導引的各項臨床研究，包括緩解後治療決策、移植前將 MRD 轉陰（MRD conversion）的橋接策略、依 MRD 導引強化調理方案，以及移植後的先發性標靶與免疫介入治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700019,
+          "page": 521,
+          "en": "Key Points\n• MRD is now included in the definition of CR.\n• MRD positivity is an independent predictor of relapse after chemotherapy in AML patients and a negative predictor for ALL patients.\n• Pretransplant MRD positivity is highly indicative for relapse.\n• MRD assessment should be implemented in every clinical trial.\n• Prospective intervention studies guided by MRD are being performed.",
+          "zh": "章末重點（Key Points）\n• MRD 如今已被正式納入完全緩解（CR，如 CR_MRD−、CRi_MRD−、CRh_MRD−）的定義中。\n• MRD 陽性在 AML 患者中是化療後復發的獨立預測因子，在 ALL 患者中亦是最強的負面預後因子。\n• 移植前 MRD 陽性高度預示移植後將會發生復發。\n• 每一項臨床試驗皆應納入 MRD 評估。\n• 以 MRD 導引的前瞻性介入治療研究正積極進行中。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5700020,
+          "page": 521,
+          "en": "Araki D, Wood BL, Othus M, et al. Allogeneic hematopoietic cell transplantation for acute myeloid leukemia: time to move toward a minimal residual disease-based definition of complete remission? J Clin Oncol. 2016;34:329–36.",
+          "zh": "Araki D, Wood BL, Othus M, et al. Allogeneic hematopoietic cell transplantation for acute myeloid leukemia: time to move toward a minimal residual disease-based definition of complete remission? J Clin Oncol. 2016;34:329–36.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Araki%20D%2C%20Wood%20BL%2C%20Othus%20M%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%3A%20time%20to%20move%20toward%20a%20minimal%20residual%20disease-based%20definition%20of%20complete%20remission%3F%20J%20Clin%20Oncol.%202016%3B34%3A329%E2%80%9336."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Araki%20D%2C%20Wood%20BL%2C%20Othus%20M%2C%20et%20al.%20Allogeneic%20hematopoietic%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%3A%20time%20to%20move%20toward%20a%20minimal%20residual%20disease-based%20definition%20of%20complete%20remission%3F%20J%20Clin%20Oncol.%202016%3B34%3A329%E2%80%9336."
+            }
+          ]
+        },
+        {
+          "id": 5700021,
+          "page": 521,
+          "en": "Bader P, Kreyenberg H, Henze G, et al. Prognostic value of minimal residual disease quantification before allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia: the ALL-REZ BFM study group. J Clin Oncol. 2009;27:377–84.",
+          "zh": "Bader P, Kreyenberg H, Henze G, et al. Prognostic value of minimal residual disease quantification before allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia: the ALL-REZ BFM study group. J Clin Oncol. 2009;27:377–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bader%20P%2C%20Kreyenberg%20H%2C%20Henze%20G%2C%20et%20al.%20Prognostic%20value%20of%20minimal%20residual%20disease%20quantification%20before%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%3A%20the%20ALL-REZ%20BFM%20study%20group.%20J%20Clin%20Oncol.%202009%3B27%3A377%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bader%20P%2C%20Kreyenberg%20H%2C%20Henze%20G%2C%20et%20al.%20Prognostic%20value%20of%20minimal%20residual%20disease%20quantification%20before%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%3A%20the%20ALL-REZ%20BFM%20study%20group.%20J%20Clin%20Oncol.%202009%3B27%3A377%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 5700022,
+          "page": 521,
+          "en": "Bader P, Kreyenberg H, Stackelberg A, et al. Monitoring of minimal residual disease after allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia allows for the identification of impending relapse: results of the ALL-BFM-SCT 2003 trial. J Clin Oncol. 2015;33:1275–84.",
+          "zh": "Bader P, Kreyenberg H, Stackelberg A, et al. Monitoring of minimal residual disease after allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia allows for the identification of impending relapse: results of the ALL-BFM-SCT 2003 trial. J Clin Oncol. 2015;33:1275–84.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bader%20P%2C%20Kreyenberg%20H%2C%20Stackelberg%20A%2C%20et%20al.%20Monitoring%20of%20minimal%20residual%20disease%20after%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%20allows%20for%20the%20identification%20of%20impending%20relapse%3A%20results%20of%20the%20ALL-BFM-SCT%202003%20trial.%20J%20Clin%20Oncol.%202015%3B33%3A1275%E2%80%9384."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bader%20P%2C%20Kreyenberg%20H%2C%20Stackelberg%20A%2C%20et%20al.%20Monitoring%20of%20minimal%20residual%20disease%20after%20allogeneic%20stem-cell%20transplantation%20in%20relapsed%20childhood%20acute%20lymphoblastic%20leukemia%20allows%20for%20the%20identification%20of%20impending%20relapse%3A%20results%20of%20the%20ALL-BFM-SCT%202003%20trial.%20J%20Clin%20Oncol.%202015%3B33%3A1275%E2%80%9384."
+            }
+          ]
+        },
+        {
+          "id": 5700023,
+          "page": 521,
+          "en": "Balduzzi A, Di Maio L, Silvestri D, et al. Minimal residual disease before and after transplantation for childhood acute lymphoblastic leukaemia: is there any room for intervention? Br J Haematol. 2014;164:396–408.",
+          "zh": "Balduzzi A, Di Maio L, Silvestri D, et al. Minimal residual disease before and after transplantation for childhood acute lymphoblastic leukaemia: is there any room for intervention? Br J Haematol. 2014;164:396–408.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Balduzzi%20A%2C%20Di%20Maio%20L%2C%20Silvestri%20D%2C%20et%20al.%20Minimal%20residual%20disease%20before%20and%20after%20transplantation%20for%20childhood%20acute%20lymphoblastic%20leukaemia%3A%20is%20there%20any%20room%20for%20intervention%3F%20Br%20J%20Haematol.%202014%3B164%3A396%E2%80%93408."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Balduzzi%20A%2C%20Di%20Maio%20L%2C%20Silvestri%20D%2C%20et%20al.%20Minimal%20residual%20disease%20before%20and%20after%20transplantation%20for%20childhood%20acute%20lymphoblastic%20leukaemia%3A%20is%20there%20any%20room%20for%20intervention%3F%20Br%20J%20Haematol.%202014%3B164%3A396%E2%80%93408."
+            }
+          ]
+        },
+        {
+          "id": 5700024,
+          "page": 521,
+          "en": "Balsat M, Renneville A, Thomas X, et al. Postinduction minimal residual disease predicts outcome and benefit from allogeneic stem cell transplantation in acute myeloid leukemia with NPM1 mutation: a study by the Acute Leukemia French Association Group. J Clin Oncol. 2017;35:185–93.",
+          "zh": "Balsat M, Renneville A, Thomas X, et al. Postinduction minimal residual disease predicts outcome and benefit from allogeneic stem cell transplantation in acute myeloid leukemia with NPM1 mutation: a study by the Acute Leukemia French Association Group. J Clin Oncol. 2017;35:185–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Balsat%20M%2C%20Renneville%20A%2C%20Thomas%20X%2C%20et%20al.%20Postinduction%20minimal%20residual%20disease%20predicts%20outcome%20and%20benefit%20from%20allogeneic%20stem%20cell%20transplantation%20in%20acute%20myeloid%20leukemia%20with%20NPM1%20mutation%3A%20a%20study%20by%20the%20Acute%20Leukemia%20French%20Association%20Group.%20J%20Clin%20Oncol.%202017%3B35%3A185%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Balsat%20M%2C%20Renneville%20A%2C%20Thomas%20X%2C%20et%20al.%20Postinduction%20minimal%20residual%20disease%20predicts%20outcome%20and%20benefit%20from%20allogeneic%20stem%20cell%20transplantation%20in%20acute%20myeloid%20leukemia%20with%20NPM1%20mutation%3A%20a%20study%20by%20the%20Acute%20Leukemia%20French%20Association%20Group.%20J%20Clin%20Oncol.%202017%3B35%3A185%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 5700025,
+          "page": 521,
+          "en": "Bassan R, Spinelli O. Minimal residual disease monitoring in adult ALL to determine therapy. Curr Hematol Malig Rep. 2015;10:86–95.",
+          "zh": "Bassan R, Spinelli O. Minimal residual disease monitoring in adult ALL to determine therapy. Curr Hematol Malig Rep. 2015;10:86–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bassan%20R%2C%20Spinelli%20O.%20Minimal%20residual%20disease%20monitoring%20in%20adult%20ALL%20to%20determine%20therapy.%20Curr%20Hematol%20Malig%20Rep.%202015%3B10%3A86%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bassan%20R%2C%20Spinelli%20O.%20Minimal%20residual%20disease%20monitoring%20in%20adult%20ALL%20to%20determine%20therapy.%20Curr%20Hematol%20Malig%20Rep.%202015%3B10%3A86%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 5700026,
+          "page": 521,
+          "en": "Biederstädt A, Rezvani K. How I treat high-risk acute myeloid leukemia using preemptive adoptive cellular immunotherapy. Blood. 2023;141:22–38.",
+          "zh": "Biederstädt A, Rezvani K. How I treat high-risk acute myeloid leukemia using preemptive adoptive cellular immunotherapy. Blood. 2023;141:22–38.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Biederst%C3%A4dt%20A%2C%20Rezvani%20K.%20How%20I%20treat%20high-risk%20acute%20myeloid%20leukemia%20using%20preemptive%20adoptive%20cellular%20immunotherapy.%20Blood.%202023%3B141%3A22%E2%80%9338."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Biederst%C3%A4dt%20A%2C%20Rezvani%20K.%20How%20I%20treat%20high-risk%20acute%20myeloid%20leukemia%20using%20preemptive%20adoptive%20cellular%20immunotherapy.%20Blood.%202023%3B141%3A22%E2%80%9338."
+            }
+          ]
+        },
+        {
+          "id": 5700027,
+          "page": 521,
+          "en": "Blätte TJ, Schmalbrock LK, Skambraks S, et al. getITD for FLT3-ITD-based MRD monitoring in AML. Leukemia. 2019;33:2535–9.",
+          "zh": "Blätte TJ, Schmalbrock LK, Skambraks S, et al. getITD for FLT3-ITD-based MRD monitoring in AML. Leukemia. 2019;33:2535–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bl%C3%A4tte%20TJ%2C%20Schmalbrock%20LK%2C%20Skambraks%20S%2C%20et%20al.%20getITD%20for%20FLT3-ITD-based%20MRD%20monitoring%20in%20AML.%20Leukemia.%202019%3B33%3A2535%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bl%C3%A4tte%20TJ%2C%20Schmalbrock%20LK%2C%20Skambraks%20S%2C%20et%20al.%20getITD%20for%20FLT3-ITD-based%20MRD%20monitoring%20in%20AML.%20Leukemia.%202019%3B33%3A2535%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5700028,
+          "page": 521,
+          "en": "Buckley SA, Wood BL, Othus M, et al. Minimal residual disease prior to allogeneic hematopoietic cell transplantation in acute myeloid leukemia: a meta-analysis. Haematologica. 2017;102:865–73.",
+          "zh": "Buckley SA, Wood BL, Othus M, et al. Minimal residual disease prior to allogeneic hematopoietic cell transplantation in acute myeloid leukemia: a meta-analysis. Haematologica. 2017;102:865–73.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Buckley%20SA%2C%20Wood%20BL%2C%20Othus%20M%2C%20et%20al.%20Minimal%20residual%20disease%20prior%20to%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20acute%20myeloid%20leukemia%3A%20a%20meta-analysis.%20Haematologica.%202017%3B102%3A865%E2%80%9373."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Buckley%20SA%2C%20Wood%20BL%2C%20Othus%20M%2C%20et%20al.%20Minimal%20residual%20disease%20prior%20to%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20acute%20myeloid%20leukemia%3A%20a%20meta-analysis.%20Haematologica.%202017%3B102%3A865%E2%80%9373."
+            }
+          ]
+        },
+        {
+          "id": 5700029,
+          "page": 521,
+          "en": "Conter V, Bartram C, Valsecchi M, et al. Molecular response to treatment redefines all prognostic factors in children and adolescents with B-cell precursor acute lymphoblastic leukemia: results in 3184 patients of the AIEOP-BFM ALL 2000 study. Blood. 2010;115:3206.",
+          "zh": "Conter V, Bartram C, Valsecchi M, et al. Molecular response to treatment redefines all prognostic factors in children and adolescents with B-cell precursor acute lymphoblastic leukemia: results in 3184 patients of the AIEOP-BFM ALL 2000 study. Blood. 2010;115:3206.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Conter%20V%2C%20Bartram%20C%2C%20Valsecchi%20M%2C%20et%20al.%20Molecular%20response%20to%20treatment%20redefines%20all%20prognostic%20factors%20in%20children%20and%20adolescents%20with%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia%3A%20results%20in%203184%20patients%20of%20the%20AIEOP-BFM%20ALL%202000%20study.%20Blood.%202010%3B115%3A3206."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Conter%20V%2C%20Bartram%20C%2C%20Valsecchi%20M%2C%20et%20al.%20Molecular%20response%20to%20treatment%20redefines%20all%20prognostic%20factors%20in%20children%20and%20adolescents%20with%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia%3A%20results%20in%203184%20patients%20of%20the%20AIEOP-BFM%20ALL%202000%20study.%20Blood.%202010%3B115%3A3206."
+            }
+          ]
+        },
+        {
+          "id": 5700030,
+          "page": 521,
+          "en": "Della Starza I, Nunes V, Lovisa F, Silvestri D, Cavalli M, Garofalo A, et al. Droplet digital PCR improves IG-/TR-based MRD risk definition in childhood B-cell precursor acute lymphoblastic leukemia. Hemasphere. 2021;5(3):e543.",
+          "zh": "Della Starza I, Nunes V, Lovisa F, Silvestri D, Cavalli M, Garofalo A, et al. Droplet digital PCR improves IG-/TR-based MRD risk definition in childhood B-cell precursor acute lymphoblastic leukemia. Hemasphere. 2021;5(3):e543.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Della%20Starza%20I%2C%20Nunes%20V%2C%20Lovisa%20F%2C%20Silvestri%20D%2C%20Cavalli%20M%2C%20Garofalo%20A%2C%20et%20al.%20Droplet%20digital%20PCR%20improves%20IG-/TR-based%20MRD%20risk%20definition%20in%20childhood%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia.%20Hemasphere.%202021%3B5%283%29%3Ae543."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Della%20Starza%20I%2C%20Nunes%20V%2C%20Lovisa%20F%2C%20Silvestri%20D%2C%20Cavalli%20M%2C%20Garofalo%20A%2C%20et%20al.%20Droplet%20digital%20PCR%20improves%20IG-/TR-based%20MRD%20risk%20definition%20in%20childhood%20B-cell%20precursor%20acute%20lymphoblastic%20leukemia.%20Hemasphere.%202021%3B5%283%29%3Ae543."
+            }
+          ]
+        },
+        {
+          "id": 5700031,
+          "page": 521,
+          "en": "Dillon R, Hills R, Freeman S, et al. Molecular MRD status and outcome after transplantation in NPM1-mutated AML. Blood. 2020;135:680–8.",
+          "zh": "Dillon R, Hills R, Freeman S, et al. Molecular MRD status and outcome after transplantation in NPM1-mutated AML. Blood. 2020;135:680–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dillon%20R%2C%20Hills%20R%2C%20Freeman%20S%2C%20et%20al.%20Molecular%20MRD%20status%20and%20outcome%20after%20transplantation%20in%20NPM1-mutated%20AML.%20Blood.%202020%3B135%3A680%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dillon%20R%2C%20Hills%20R%2C%20Freeman%20S%2C%20et%20al.%20Molecular%20MRD%20status%20and%20outcome%20after%20transplantation%20in%20NPM1-mutated%20AML.%20Blood.%202020%3B135%3A680%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5700032,
+          "page": 521,
+          "en": "Dillon LW, Gui G, Page KM, et al. DNA sequencing to detect residual disease in adults with acute myeloid leukemia prior to hematopoietic cell transplant. JAMA. 2023;329:745–55.",
+          "zh": "Dillon LW, Gui G, Page KM, et al. DNA sequencing to detect residual disease in adults with acute myeloid leukemia prior to hematopoietic cell transplant. JAMA. 2023;329:745–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dillon%20LW%2C%20Gui%20G%2C%20Page%20KM%2C%20et%20al.%20DNA%20sequencing%20to%20detect%20residual%20disease%20in%20adults%20with%20acute%20myeloid%20leukemia%20prior%20to%20hematopoietic%20cell%20transplant.%20JAMA.%202023%3B329%3A745%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dillon%20LW%2C%20Gui%20G%2C%20Page%20KM%2C%20et%20al.%20DNA%20sequencing%20to%20detect%20residual%20disease%20in%20adults%20with%20acute%20myeloid%20leukemia%20prior%20to%20hematopoietic%20cell%20transplant.%20JAMA.%202023%3B329%3A745%E2%80%9355."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 522,
+      "blocks": [
+        {
+          "id": 5700033,
+          "page": 522,
+          "en": "Döhner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140:1345–77.",
+          "zh": "Döhner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140:1345–77.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=D%C3%B6hner%20H%2C%20Wei%20AH%2C%20Appelbaum%20FR%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202022%20recommendations%20from%20an%20international%20expert%20panel%20on%20behalf%20of%20the%20ELN.%20Blood.%202022%3B140%3A1345%E2%80%9377."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=D%C3%B6hner%20H%2C%20Wei%20AH%2C%20Appelbaum%20FR%2C%20et%20al.%20Diagnosis%20and%20management%20of%20AML%20in%20adults%3A%202022%20recommendations%20from%20an%20international%20expert%20panel%20on%20behalf%20of%20the%20ELN.%20Blood.%202022%3B140%3A1345%E2%80%9377."
+            }
+          ]
+        },
+        {
+          "id": 5700034,
+          "page": 522,
+          "en": "Eckert C, von Stackelberg A, Seeger K, et al. Minimal residual disease after induction is the strongest predictor of prognosis in intermediate risk relapsed acute lymphoblastic leukaemia—long-term results of trial ALL-REZ BFM P95/96. Eur J Cancer. 2013;49:1346–55.",
+          "zh": "Eckert C, von Stackelberg A, Seeger K, et al. Minimal residual disease after induction is the strongest predictor of prognosis in intermediate risk relapsed acute lymphoblastic leukaemia—long-term results of trial ALL-REZ BFM P95/96. Eur J Cancer. 2013;49:1346–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eckert%20C%2C%20von%20Stackelberg%20A%2C%20Seeger%20K%2C%20et%20al.%20Minimal%20residual%20disease%20after%20induction%20is%20the%20strongest%20predictor%20of%20prognosis%20in%20intermediate%20risk%20relapsed%20acute%20lymphoblastic%20leukaemia%E2%80%94long-term%20results%20of%20trial%20ALL-REZ%20BFM%20P95/96.%20Eur%20J%20Cancer.%202013%3B49%3A1346%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eckert%20C%2C%20von%20Stackelberg%20A%2C%20Seeger%20K%2C%20et%20al.%20Minimal%20residual%20disease%20after%20induction%20is%20the%20strongest%20predictor%20of%20prognosis%20in%20intermediate%20risk%20relapsed%20acute%20lymphoblastic%20leukaemia%E2%80%94long-term%20results%20of%20trial%20ALL-REZ%20BFM%20P95/96.%20Eur%20J%20Cancer.%202013%3B49%3A1346%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 5700035,
+          "page": 522,
+          "en": "Freeman SD, Virgo P, Couzens S, et al. Prognostic relevance of treatment response measured by flow cytometric residual disease detection in older patients with acute myeloid leukemia. J Clin Oncol. 2013;31:4123–31.",
+          "zh": "Freeman SD, Virgo P, Couzens S, et al. Prognostic relevance of treatment response measured by flow cytometric residual disease detection in older patients with acute myeloid leukemia. J Clin Oncol. 2013;31:4123–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Freeman%20SD%2C%20Virgo%20P%2C%20Couzens%20S%2C%20et%20al.%20Prognostic%20relevance%20of%20treatment%20response%20measured%20by%20flow%20cytometric%20residual%20disease%20detection%20in%20older%20patients%20with%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202013%3B31%3A4123%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Freeman%20SD%2C%20Virgo%20P%2C%20Couzens%20S%2C%20et%20al.%20Prognostic%20relevance%20of%20treatment%20response%20measured%20by%20flow%20cytometric%20residual%20disease%20detection%20in%20older%20patients%20with%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202013%3B31%3A4123%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 5700036,
+          "page": 522,
+          "en": "Freeman SD, Hills RK, Virgo P, et al. Measurable residual disease at induction redefines partial response in acute myeloid leukemia and stratifies outcomes in patients at standard risk without NPM1 mutations. J Clin Oncol. 2018;36:1486.",
+          "zh": "Freeman SD, Hills RK, Virgo P, et al. Measurable residual disease at induction redefines partial response in acute myeloid leukemia and stratifies outcomes in patients at standard risk without NPM1 mutations. J Clin Oncol. 2018;36:1486.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Freeman%20SD%2C%20Hills%20RK%2C%20Virgo%20P%2C%20et%20al.%20Measurable%20residual%20disease%20at%20induction%20redefines%20partial%20response%20in%20acute%20myeloid%20leukemia%20and%20stratifies%20outcomes%20in%20patients%20at%20standard%20risk%20without%20NPM1%20mutations.%20J%20Clin%20Oncol.%202018%3B36%3A1486."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Freeman%20SD%2C%20Hills%20RK%2C%20Virgo%20P%2C%20et%20al.%20Measurable%20residual%20disease%20at%20induction%20redefines%20partial%20response%20in%20acute%20myeloid%20leukemia%20and%20stratifies%20outcomes%20in%20patients%20at%20standard%20risk%20without%20NPM1%20mutations.%20J%20Clin%20Oncol.%202018%3B36%3A1486."
+            }
+          ]
+        },
+        {
+          "id": 5700037,
+          "page": 522,
+          "en": "Gabert J, Beillard E, van der Velden V, et al. Standardization and quality control studies of ‘real-time’ quantitative reverse transcriptase polymerase chain reaction of fusion gene transcripts for residual disease detection in leukemia—a Europe against cancer program. Leukemia. 2003;17:2318–57.",
+          "zh": "Gabert J, Beillard E, van der Velden V, et al. Standardization and quality control studies of ‘real-time’ quantitative reverse transcriptase polymerase chain reaction of fusion gene transcripts for residual disease detection in leukemia—a Europe against cancer program. Leukemia. 2003;17:2318–57.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gabert%20J%2C%20Beillard%20E%2C%20van%20der%20Velden%20V%2C%20et%20al.%20Standardization%20and%20quality%20control%20studies%20of%20%E2%80%98real-time%E2%80%99%20quantitative%20reverse%20transcriptase%20polymerase%20chain%20reaction%20of%20fusion%20gene%20transcripts%20for%20residual%20disease%20detection%20in%20leukemia%E2%80%94a%20Europe%20against%20cancer%20program.%20Leukemia.%202003%3B17%3A2318%E2%80%9357."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gabert%20J%2C%20Beillard%20E%2C%20van%20der%20Velden%20V%2C%20et%20al.%20Standardization%20and%20quality%20control%20studies%20of%20%E2%80%98real-time%E2%80%99%20quantitative%20reverse%20transcriptase%20polymerase%20chain%20reaction%20of%20fusion%20gene%20transcripts%20for%20residual%20disease%20detection%20in%20leukemia%E2%80%94a%20Europe%20against%20cancer%20program.%20Leukemia.%202003%3B17%3A2318%E2%80%9357."
+            }
+          ]
+        },
+        {
+          "id": 5700038,
+          "page": 522,
+          "en": "Ghannam J, Dillon LW, Hourigan CS. Next-generation sequencing for measurable residual disease detection in acute myeloid leukaemia. Br J Haematol. 2020;188:77–85.",
+          "zh": "Ghannam J, Dillon LW, Hourigan CS. Next-generation sequencing for measurable residual disease detection in acute myeloid leukaemia. Br J Haematol. 2020;188:77–85.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ghannam%20J%2C%20Dillon%20LW%2C%20Hourigan%20CS.%20Next-generation%20sequencing%20for%20measurable%20residual%20disease%20detection%20in%20acute%20myeloid%20leukaemia.%20Br%20J%20Haematol.%202020%3B188%3A77%E2%80%9385."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ghannam%20J%2C%20Dillon%20LW%2C%20Hourigan%20CS.%20Next-generation%20sequencing%20for%20measurable%20residual%20disease%20detection%20in%20acute%20myeloid%20leukaemia.%20Br%20J%20Haematol.%202020%3B188%3A77%E2%80%9385."
+            }
+          ]
+        },
+        {
+          "id": 5700039,
+          "page": 522,
+          "en": "Gilleece MH, Labopin M, Yakoub-Agha I, et al. Measurable residual disease, conditioning regimen intensity, and age predict outcome of allogeneic hematopoietic cell transplantation for acute myeloid leukemia in first remission: a registry analysis of 2292 patients by the acute leukemia working party European Society of Blood and Marrow Transplantation. Am J Hematol. 2018;93:1142–52.",
+          "zh": "Gilleece MH, Labopin M, Yakoub-Agha I, et al. Measurable residual disease, conditioning regimen intensity, and age predict outcome of allogeneic hematopoietic cell transplantation for acute myeloid leukemia in first remission: a registry analysis of 2292 patients by the acute leukemia working party European Society of Blood and Marrow Transplantation. Am J Hematol. 2018;93:1142–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gilleece%20MH%2C%20Labopin%20M%2C%20Yakoub-Agha%20I%2C%20et%20al.%20Measurable%20residual%20disease%2C%20conditioning%20regimen%20intensity%2C%20and%20age%20predict%20outcome%20of%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20in%20first%20remission%3A%20a%20registry%20analysis%20of%202292%20patients%20by%20the%20acute%20leukemia%20working%20party%20European%20Society%20of%20Blood%20and%20Marrow%20Transplantation.%20Am%20J%20Hematol.%202018%3B93%3A1142%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gilleece%20MH%2C%20Labopin%20M%2C%20Yakoub-Agha%20I%2C%20et%20al.%20Measurable%20residual%20disease%2C%20conditioning%20regimen%20intensity%2C%20and%20age%20predict%20outcome%20of%20allogeneic%20hematopoietic%20cell%20transplantation%20for%20acute%20myeloid%20leukemia%20in%20first%20remission%3A%20a%20registry%20analysis%20of%202292%20patients%20by%20the%20acute%20leukemia%20working%20party%20European%20Society%20of%20Blood%20and%20Marrow%20Transplantation.%20Am%20J%20Hematol.%202018%3B93%3A1142%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 5700040,
+          "page": 522,
+          "en": "Gilleece MH, Labopin M, Savani BN, et al. Allogeneic haemopoietic transplantation for acute myeloid leukaemia in second complete remission: a registry report by the acute leukaemia working party of the EBMT. Leukemia. 2020;34:87–99.",
+          "zh": "Gilleece MH, Labopin M, Savani BN, et al. Allogeneic haemopoietic transplantation for acute myeloid leukaemia in second complete remission: a registry report by the acute leukaemia working party of the EBMT. Leukemia. 2020;34:87–99.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gilleece%20MH%2C%20Labopin%20M%2C%20Savani%20BN%2C%20et%20al.%20Allogeneic%20haemopoietic%20transplantation%20for%20acute%20myeloid%20leukaemia%20in%20second%20complete%20remission%3A%20a%20registry%20report%20by%20the%20acute%20leukaemia%20working%20party%20of%20the%20EBMT.%20Leukemia.%202020%3B34%3A87%E2%80%9399."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gilleece%20MH%2C%20Labopin%20M%2C%20Savani%20BN%2C%20et%20al.%20Allogeneic%20haemopoietic%20transplantation%20for%20acute%20myeloid%20leukaemia%20in%20second%20complete%20remission%3A%20a%20registry%20report%20by%20the%20acute%20leukaemia%20working%20party%20of%20the%20EBMT.%20Leukemia.%202020%3B34%3A87%E2%80%9399."
+            }
+          ]
+        },
+        {
+          "id": 5700041,
+          "page": 522,
+          "en": "Godley LA. Germline mutations in MDS/AML predisposition disorders. Curr Opin Hematol. 2021;28:86–93.",
+          "zh": "Godley LA. Germline mutations in MDS/AML predisposition disorders. Curr Opin Hematol. 2021;28:86–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Godley%20LA.%20Germline%20mutations%20in%20MDS/AML%20predisposition%20disorders.%20Curr%20Opin%20Hematol.%202021%3B28%3A86%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Godley%20LA.%20Germline%20mutations%20in%20MDS/AML%20predisposition%20disorders.%20Curr%20Opin%20Hematol.%202021%3B28%3A86%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 5700042,
+          "page": 522,
+          "en": "Gökbuget N, Kneba M, Raff T, et al. Adult patients with acute lymphoblastic leukemia and molecular failure display a poor prognosis and are candidates for stem cell transplantation and targeted therapies. Blood. 2012;120:1868.",
+          "zh": "Gökbuget N, Kneba M, Raff T, et al. Adult patients with acute lymphoblastic leukemia and molecular failure display a poor prognosis and are candidates for stem cell transplantation and targeted therapies. Blood. 2012;120:1868.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=G%C3%B6kbuget%20N%2C%20Kneba%20M%2C%20Raff%20T%2C%20et%20al.%20Adult%20patients%20with%20acute%20lymphoblastic%20leukemia%20and%20molecular%20failure%20display%20a%20poor%20prognosis%20and%20are%20candidates%20for%20stem%20cell%20transplantation%20and%20targeted%20therapies.%20Blood.%202012%3B120%3A1868."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=G%C3%B6kbuget%20N%2C%20Kneba%20M%2C%20Raff%20T%2C%20et%20al.%20Adult%20patients%20with%20acute%20lymphoblastic%20leukemia%20and%20molecular%20failure%20display%20a%20poor%20prognosis%20and%20are%20candidates%20for%20stem%20cell%20transplantation%20and%20targeted%20therapies.%20Blood.%202012%3B120%3A1868."
+            }
+          ]
+        },
+        {
+          "id": 5700043,
+          "page": 522,
+          "en": "Grimwade D, Freeman SD. Defining minimal residual disease in acute myeloid leukemia: which platforms are ready for prime time? Blood. 2014;124:3345–55.",
+          "zh": "Grimwade D, Freeman SD. Defining minimal residual disease in acute myeloid leukemia: which platforms are ready for prime time? Blood. 2014;124:3345–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Grimwade%20D%2C%20Freeman%20SD.%20Defining%20minimal%20residual%20disease%20in%20acute%20myeloid%20leukemia%3A%20which%20platforms%20are%20ready%20for%20prime%20time%3F%20Blood.%202014%3B124%3A3345%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Grimwade%20D%2C%20Freeman%20SD.%20Defining%20minimal%20residual%20disease%20in%20acute%20myeloid%20leukemia%3A%20which%20platforms%20are%20ready%20for%20prime%20time%3F%20Blood.%202014%3B124%3A3345%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 5700044,
+          "page": 522,
+          "en": "Grob T, Sanders MA, Vonk CM, et al. Prognostic value of FLT3-internal tandem duplication residual disease in acute myeloid leukemia. J Clin Oncol. 2023;41:756–65.",
+          "zh": "Grob T, Sanders MA, Vonk CM, et al. Prognostic value of FLT3-internal tandem duplication residual disease in acute myeloid leukemia. J Clin Oncol. 2023;41:756–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Grob%20T%2C%20Sanders%20MA%2C%20Vonk%20CM%2C%20et%20al.%20Prognostic%20value%20of%20FLT3-internal%20tandem%20duplication%20residual%20disease%20in%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202023%3B41%3A756%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Grob%20T%2C%20Sanders%20MA%2C%20Vonk%20CM%2C%20et%20al.%20Prognostic%20value%20of%20FLT3-internal%20tandem%20duplication%20residual%20disease%20in%20acute%20myeloid%20leukemia.%20J%20Clin%20Oncol.%202023%3B41%3A756%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 5700045,
+          "page": 522,
+          "en": "Hasserjian RP, Steensma DP, Graubert TA, Ebert BL. Clonal hematopoiesis and measurable residual disease assessment in acute myeloid leukemia. Blood. 2020;135:1729–38.",
+          "zh": "Hasserjian RP, Steensma DP, Graubert TA, Ebert BL. Clonal hematopoiesis and measurable residual disease assessment in acute myeloid leukemia. Blood. 2020;135:1729–38.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hasserjian%20RP%2C%20Steensma%20DP%2C%20Graubert%20TA%2C%20Ebert%20BL.%20Clonal%20hematopoiesis%20and%20measurable%20residual%20disease%20assessment%20in%20acute%20myeloid%20leukemia.%20Blood.%202020%3B135%3A1729%E2%80%9338."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hasserjian%20RP%2C%20Steensma%20DP%2C%20Graubert%20TA%2C%20Ebert%20BL.%20Clonal%20hematopoiesis%20and%20measurable%20residual%20disease%20assessment%20in%20acute%20myeloid%20leukemia.%20Blood.%202020%3B135%3A1729%E2%80%9338."
+            }
+          ]
+        },
+        {
+          "id": 5700046,
+          "page": 522,
+          "en": "Heuser M, Freeman SD, Ossenkoppele GJ, et al. 2021 update on MRD in acute myeloid leukemia: a consensus document from the European LeukemiaNet MRD working party. Blood. 2021;138:2753–67.",
+          "zh": "Heuser M, Freeman SD, Ossenkoppele GJ, et al. 2021 update on MRD in acute myeloid leukemia: a consensus document from the European LeukemiaNet MRD working party. Blood. 2021;138:2753–67.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Heuser%20M%2C%20Freeman%20SD%2C%20Ossenkoppele%20GJ%2C%20et%20al.%202021%20update%20on%20MRD%20in%20acute%20myeloid%20leukemia%3A%20a%20consensus%20document%20from%20the%20European%20LeukemiaNet%20MRD%20working%20party.%20Blood.%202021%3B138%3A2753%E2%80%9367."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Heuser%20M%2C%20Freeman%20SD%2C%20Ossenkoppele%20GJ%2C%20et%20al.%202021%20update%20on%20MRD%20in%20acute%20myeloid%20leukemia%3A%20a%20consensus%20document%20from%20the%20European%20LeukemiaNet%20MRD%20working%20party.%20Blood.%202021%3B138%3A2753%E2%80%9367."
+            }
+          ]
+        },
+        {
+          "id": 5700047,
+          "page": 522,
+          "en": "Hourigan CS, Gale RP, Gormley NJ, et al. Measurable residual disease testing in acute myeloid leukaemia. Leukemia. 2017;31:1482–90.",
+          "zh": "Hourigan CS, Gale RP, Gormley NJ, et al. Measurable residual disease testing in acute myeloid leukaemia. Leukemia. 2017;31:1482–90.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hourigan%20CS%2C%20Gale%20RP%2C%20Gormley%20NJ%2C%20et%20al.%20Measurable%20residual%20disease%20testing%20in%20acute%20myeloid%20leukaemia.%20Leukemia.%202017%3B31%3A1482%E2%80%9390."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hourigan%20CS%2C%20Gale%20RP%2C%20Gormley%20NJ%2C%20et%20al.%20Measurable%20residual%20disease%20testing%20in%20acute%20myeloid%20leukaemia.%20Leukemia.%202017%3B31%3A1482%E2%80%9390."
+            }
+          ]
+        },
+        {
+          "id": 5700048,
+          "page": 522,
+          "en": "Hourigan CS, Dillon LW, Gui G, et al. Impact of conditioning intensity of allogeneic transplantation for acute myeloid leukemia with genomic evidence of residual disease. J Clin Oncol. 2020;38:1273–83.",
+          "zh": "Hourigan CS, Dillon LW, Gui G, et al. Impact of conditioning intensity of allogeneic transplantation for acute myeloid leukemia with genomic evidence of residual disease. J Clin Oncol. 2020;38:1273–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hourigan%20CS%2C%20Dillon%20LW%2C%20Gui%20G%2C%20et%20al.%20Impact%20of%20conditioning%20intensity%20of%20allogeneic%20transplantation%20for%20acute%20myeloid%20leukemia%20with%20genomic%20evidence%20of%20residual%20disease.%20J%20Clin%20Oncol.%202020%3B38%3A1273%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hourigan%20CS%2C%20Dillon%20LW%2C%20Gui%20G%2C%20et%20al.%20Impact%20of%20conditioning%20intensity%20of%20allogeneic%20transplantation%20for%20acute%20myeloid%20leukemia%20with%20genomic%20evidence%20of%20residual%20disease.%20J%20Clin%20Oncol.%202020%3B38%3A1273%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 5700049,
+          "page": 522,
+          "en": "Huggett JF, Foy CA, Benes V, Emslie K, Garson JA, Haynes R, et al. The digital MIQE guidelines: minimum information for publication of quantitative digital PCR experiments. Clin Chem. 2013;59(6):892–902.",
+          "zh": "Huggett JF, Foy CA, Benes V, Emslie K, Garson JA, Haynes R, et al. The digital MIQE guidelines: minimum information for publication of quantitative digital PCR experiments. Clin Chem. 2013;59(6):892–902.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Huggett%20JF%2C%20Foy%20CA%2C%20Benes%20V%2C%20Emslie%20K%2C%20Garson%20JA%2C%20Haynes%20R%2C%20et%20al.%20The%20digital%20MIQE%20guidelines%3A%20minimum%20information%20for%20publication%20of%20quantitative%20digital%20PCR%20experiments.%20Clin%20Chem.%202013%3B59%286%29%3A892%E2%80%93902."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Huggett%20JF%2C%20Foy%20CA%2C%20Benes%20V%2C%20Emslie%20K%2C%20Garson%20JA%2C%20Haynes%20R%2C%20et%20al.%20The%20digital%20MIQE%20guidelines%3A%20minimum%20information%20for%20publication%20of%20quantitative%20digital%20PCR%20experiments.%20Clin%20Chem.%202013%3B59%286%29%3A892%E2%80%93902."
+            }
+          ]
+        },
+        {
+          "id": 5700050,
+          "page": 522,
+          "en": "Jongen-Lavrencic M, Grob T, Kavelaars F, et al. Comprehensive molecular residual disease detection of clinical value in acute myeloid leukemia. N Engl J Med. 2018;378:1189–99.",
+          "zh": "Jongen-Lavrencic M, Grob T, Kavelaars F, et al. Comprehensive molecular residual disease detection of clinical value in acute myeloid leukemia. N Engl J Med. 2018;378:1189–99.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jongen-Lavrencic%20M%2C%20Grob%20T%2C%20Kavelaars%20F%2C%20et%20al.%20Comprehensive%20molecular%20residual%20disease%20detection%20of%20clinical%20value%20in%20acute%20myeloid%20leukemia.%20N%20Engl%20J%20Med.%202018%3B378%3A1189%E2%80%9399."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jongen-Lavrencic%20M%2C%20Grob%20T%2C%20Kavelaars%20F%2C%20et%20al.%20Comprehensive%20molecular%20residual%20disease%20detection%20of%20clinical%20value%20in%20acute%20myeloid%20leukemia.%20N%20Engl%20J%20Med.%202018%3B378%3A1189%E2%80%9399."
+            }
+          ]
+        },
+        {
+          "id": 5700051,
+          "page": 522,
+          "en": "Klyuchnikov E, Badbaran A, Massoud R, et al. Post-transplantation multicolored flow cytometry-minimal residual disease status on day 100 predicts outcomes for patients with refractory acute myeloid leukemia. Transplant Cell Ther. 2022;28(5):267.e1–7. https://doi.org/10.1016/j.jtct.2022.01.014/.",
+          "zh": "Klyuchnikov E, Badbaran A, Massoud R, et al. Post-transplantation multicolored flow cytometry-minimal residual disease status on day 100 predicts outcomes for patients with refractory acute myeloid leukemia. Transplant Cell Ther. 2022;28(5):267.e1–7. https://doi.org/10.1016/j.jtct.2022.01.014/.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Klyuchnikov%20E%2C%20Badbaran%20A%2C%20Massoud%20R%2C%20et%20al.%20Post-transplantation%20multicolored%20flow%20cytometry-minimal%20residual%20disease%20status%20on%20day%20100%20predicts%20outcomes%20for%20patients%20with%20refractory%20acute%20myeloid%20leukemia.%20Transplant%20Cell%20Ther.%202022%3B28%285%29%3A267.e1%E2%80%937.%20https%3A//doi.org/10.1016/j.jtct.2022.01.014/."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Klyuchnikov%20E%2C%20Badbaran%20A%2C%20Massoud%20R%2C%20et%20al.%20Post-transplantation%20multicolored%20flow%20cytometry-minimal%20residual%20disease%20status%20on%20day%20100%20predicts%20outcomes%20for%20patients%20with%20refractory%20acute%20myeloid%20leukemia.%20Transplant%20Cell%20Ther.%202022%3B28%285%29%3A267.e1%E2%80%937.%20https%3A//doi.org/10.1016/j.jtct.2022.01.014/."
+            }
+          ]
+        },
+        {
+          "id": 5700052,
+          "page": 522,
+          "en": "Knechtli C, Goulden N, Hancock J, et al. Minimal residual disease status before allogeneic bone marrow transplantation is an important determinant of successful outcome for children and adolescents with acute lymphoblastic leukemia. Blood. 1998;92:4072–9.",
+          "zh": "Knechtli C, Goulden N, Hancock J, et al. Minimal residual disease status before allogeneic bone marrow transplantation is an important determinant of successful outcome for children and adolescents with acute lymphoblastic leukemia. Blood. 1998;92:4072–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Knechtli%20C%2C%20Goulden%20N%2C%20Hancock%20J%2C%20et%20al.%20Minimal%20residual%20disease%20status%20before%20allogeneic%20bone%20marrow%20transplantation%20is%20an%20important%20determinant%20of%20successful%20outcome%20for%20children%20and%20adolescents%20with%20acute%20lymphoblastic%20leukemia.%20Blood.%201998%3B92%3A4072%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Knechtli%20C%2C%20Goulden%20N%2C%20Hancock%20J%2C%20et%20al.%20Minimal%20residual%20disease%20status%20before%20allogeneic%20bone%20marrow%20transplantation%20is%20an%20important%20determinant%20of%20successful%20outcome%20for%20children%20and%20adolescents%20with%20acute%20lymphoblastic%20leukemia.%20Blood.%201998%3B92%3A4072%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5700053,
+          "page": 522,
+          "en": "Kotrova M, Muzikova K, Mejstrikova E, et al. The predictive strength of next-generation sequencing MRD detection for relapse compared with current methods in childhood ALL. Blood. 2015;126:1045–7.",
+          "zh": "Kotrova M, Muzikova K, Mejstrikova E, et al. The predictive strength of next-generation sequencing MRD detection for relapse compared with current methods in childhood ALL. Blood. 2015;126:1045–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kotrova%20M%2C%20Muzikova%20K%2C%20Mejstrikova%20E%2C%20et%20al.%20The%20predictive%20strength%20of%20next-generation%20sequencing%20MRD%20detection%20for%20relapse%20compared%20with%20current%20methods%20in%20childhood%20ALL.%20Blood.%202015%3B126%3A1045%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kotrova%20M%2C%20Muzikova%20K%2C%20Mejstrikova%20E%2C%20et%20al.%20The%20predictive%20strength%20of%20next-generation%20sequencing%20MRD%20detection%20for%20relapse%20compared%20with%20current%20methods%20in%20childhood%20ALL.%20Blood.%202015%3B126%3A1045%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5700054,
+          "page": 522,
+          "en": "Leung W, Pui C-H, Coustan-Smith E, et al. Detectable minimal residual disease before hematopoietic cell transplantation is prognostic but does not preclude cure for children with very-high-risk leukemia. Blood. 2012;120:468–72.",
+          "zh": "Leung W, Pui C-H, Coustan-Smith E, et al. Detectable minimal residual disease before hematopoietic cell transplantation is prognostic but does not preclude cure for children with very-high-risk leukemia. Blood. 2012;120:468–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Leung%20W%2C%20Pui%20C-H%2C%20Coustan-Smith%20E%2C%20et%20al.%20Detectable%20minimal%20residual%20disease%20before%20hematopoietic%20cell%20transplantation%20is%20prognostic%20but%20does%20not%20preclude%20cure%20for%20children%20with%20very-high-risk%20leukemia.%20Blood.%202012%3B120%3A468%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Leung%20W%2C%20Pui%20C-H%2C%20Coustan-Smith%20E%2C%20et%20al.%20Detectable%20minimal%20residual%20disease%20before%20hematopoietic%20cell%20transplantation%20is%20prognostic%20but%20does%20not%20preclude%20cure%20for%20children%20with%20very-high-risk%20leukemia.%20Blood.%202012%3B120%3A468%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 5700055,
+          "page": 522,
+          "en": "Loke J, McCarthy N, Jackson AE, et al. Posttransplant MRD and T-cell chimerism status predict outcomes in patients allografted with AML/MDS. Blood Adv. 2023;7:3666.",
+          "zh": "Loke J, McCarthy N, Jackson AE, et al. Posttransplant MRD and T-cell chimerism status predict outcomes in patients allografted with AML/MDS. Blood Adv. 2023;7:3666.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loke%20J%2C%20McCarthy%20N%2C%20Jackson%20AE%2C%20et%20al.%20Posttransplant%20MRD%20and%20T-cell%20chimerism%20status%20predict%20outcomes%20in%20patients%20allografted%20with%20AML/MDS.%20Blood%20Adv.%202023%3B7%3A3666."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loke%20J%2C%20McCarthy%20N%2C%20Jackson%20AE%2C%20et%20al.%20Posttransplant%20MRD%20and%20T-cell%20chimerism%20status%20predict%20outcomes%20in%20patients%20allografted%20with%20AML/MDS.%20Blood%20Adv.%202023%3B7%3A3666."
+            }
+          ]
+        },
+        {
+          "id": 5700056,
+          "page": 522,
+          "en": "Loken MR, Alonzo TA, Pardo L, et al. Residual disease detected by multidimensional flow cytometry signifies high relapse risk in patients with de novo acute myeloid leukemia: a report from Children’s Oncology Group. Blood. 2012;120:1581–8.",
+          "zh": "Loken MR, Alonzo TA, Pardo L, et al. Residual disease detected by multidimensional flow cytometry signifies high relapse risk in patients with de novo acute myeloid leukemia: a report from Children’s Oncology Group. Blood. 2012;120:1581–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loken%20MR%2C%20Alonzo%20TA%2C%20Pardo%20L%2C%20et%20al.%20Residual%20disease%20detected%20by%20multidimensional%20flow%20cytometry%20signifies%20high%20relapse%20risk%20in%20patients%20with%20de%20novo%20acute%20myeloid%20leukemia%3A%20a%20report%20from%20Children%E2%80%99s%20Oncology%20Group.%20Blood.%202012%3B120%3A1581%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loken%20MR%2C%20Alonzo%20TA%2C%20Pardo%20L%2C%20et%20al.%20Residual%20disease%20detected%20by%20multidimensional%20flow%20cytometry%20signifies%20high%20relapse%20risk%20in%20patients%20with%20de%20novo%20acute%20myeloid%20leukemia%3A%20a%20report%20from%20Children%E2%80%99s%20Oncology%20Group.%20Blood.%202012%3B120%3A1581%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5700057,
+          "page": 522,
+          "en": "Loo S, Dillon R, Ivey A, et al. Pretransplant FLT3-ITD MRD assessed by high-sensitivity PCR-NGS determines posttransplant clinical outcome. Blood. 2022;140:2407–11.",
+          "zh": "Loo S, Dillon R, Ivey A, et al. Pretransplant FLT3-ITD MRD assessed by high-sensitivity PCR-NGS determines posttransplant clinical outcome. Blood. 2022;140:2407–11.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Loo%20S%2C%20Dillon%20R%2C%20Ivey%20A%2C%20et%20al.%20Pretransplant%20FLT3-ITD%20MRD%20assessed%20by%20high-sensitivity%20PCR-NGS%20determines%20posttransplant%20clinical%20outcome.%20Blood.%202022%3B140%3A2407%E2%80%9311."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Loo%20S%2C%20Dillon%20R%2C%20Ivey%20A%2C%20et%20al.%20Pretransplant%20FLT3-ITD%20MRD%20assessed%20by%20high-sensitivity%20PCR-NGS%20determines%20posttransplant%20clinical%20outcome.%20Blood.%202022%3B140%3A2407%E2%80%9311."
+            }
+          ]
+        },
+        {
+          "id": 5700058,
+          "page": 522,
+          "en": "Maiti A, DiNardo CD, Wang SA, et al. Prognostic value of measurable residual disease after venetoclax and decitabine in acute myeloid leukemia. Blood Adv. 2021;5:1876–18819.",
+          "zh": "Maiti A, DiNardo CD, Wang SA, et al. Prognostic value of measurable residual disease after venetoclax and decitabine in acute myeloid leukemia. Blood Adv. 2021;5:1876–18819.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maiti%20A%2C%20DiNardo%20CD%2C%20Wang%20SA%2C%20et%20al.%20Prognostic%20value%20of%20measurable%20residual%20disease%20after%20venetoclax%20and%20decitabine%20in%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5%3A1876%E2%80%9318819."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maiti%20A%2C%20DiNardo%20CD%2C%20Wang%20SA%2C%20et%20al.%20Prognostic%20value%20of%20measurable%20residual%20disease%20after%20venetoclax%20and%20decitabine%20in%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5%3A1876%E2%80%9318819."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 523,
+      "blocks": [
+        {
+          "id": 5700059,
+          "page": 523,
+          "en": "Ngai LL, Hanekamp D, Janssen F, et al. Prospective validation of the prognostic relevance of CD34+CD38− AML stem cell frequency in the HOVON-SAKK132 trial. Blood. 2023;141:2657–61.",
+          "zh": "Ngai LL, Hanekamp D, Janssen F, et al. Prospective validation of the prognostic relevance of CD34+CD38− AML stem cell frequency in the HOVON-SAKK132 trial. Blood. 2023;141:2657–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ngai%20LL%2C%20Hanekamp%20D%2C%20Janssen%20F%2C%20et%20al.%20Prospective%20validation%20of%20the%20prognostic%20relevance%20of%20CD34%2BCD38%E2%88%92%20AML%20stem%20cell%20frequency%20in%20the%20HOVON-SAKK132%20trial.%20Blood.%202023%3B141%3A2657%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ngai%20LL%2C%20Hanekamp%20D%2C%20Janssen%20F%2C%20et%20al.%20Prospective%20validation%20of%20the%20prognostic%20relevance%20of%20CD34%2BCD38%E2%88%92%20AML%20stem%20cell%20frequency%20in%20the%20HOVON-SAKK132%20trial.%20Blood.%202023%3B141%3A2657%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 5700060,
+          "page": 523,
+          "en": "Ossenkoppele G, Schuurhuis GJ. MRD in AML: time for redefinition of CR? Blood. 2013;121:2166–8.",
+          "zh": "Ossenkoppele G, Schuurhuis GJ. MRD in AML: time for redefinition of CR? Blood. 2013;121:2166–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ossenkoppele%20G%2C%20Schuurhuis%20GJ.%20MRD%20in%20AML%3A%20time%20for%20redefinition%20of%20CR%3F%20Blood.%202013%3B121%3A2166%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ossenkoppele%20G%2C%20Schuurhuis%20GJ.%20MRD%20in%20AML%3A%20time%20for%20redefinition%20of%20CR%3F%20Blood.%202013%3B121%3A2166%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5700061,
+          "page": 523,
+          "en": "Ossenkoppele G, Schuurhuis GJ. MRD in AML: does it already guide therapy decision-making? Hematology Am Soc Hematol Educ Program. 2016;2016:356–65.",
+          "zh": "Ossenkoppele G, Schuurhuis GJ. MRD in AML: does it already guide therapy decision-making? Hematology Am Soc Hematol Educ Program. 2016;2016:356–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ossenkoppele%20G%2C%20Schuurhuis%20GJ.%20MRD%20in%20AML%3A%20does%20it%20already%20guide%20therapy%20decision-making%3F%20Hematology%20Am%20Soc%20Hematol%20Educ%20Program.%202016%3B2016%3A356%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ossenkoppele%20G%2C%20Schuurhuis%20GJ.%20MRD%20in%20AML%3A%20does%20it%20already%20guide%20therapy%20decision-making%3F%20Hematology%20Am%20Soc%20Hematol%20Educ%20Program.%202016%3B2016%3A356%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 5700062,
+          "page": 523,
+          "en": "Pedreira C, Costa E, Lecrevisse Q. Overview of clinical flow cytometry data analysis: recent advances and future challenges. Trends Biotechnol. 2013;31:415–25.",
+          "zh": "Pedreira C, Costa E, Lecrevisse Q. Overview of clinical flow cytometry data analysis: recent advances and future challenges. Trends Biotechnol. 2013;31:415–25.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pedreira%20C%2C%20Costa%20E%2C%20Lecrevisse%20Q.%20Overview%20of%20clinical%20flow%20cytometry%20data%20analysis%3A%20recent%20advances%20and%20future%20challenges.%20Trends%20Biotechnol.%202013%3B31%3A415%E2%80%9325."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pedreira%20C%2C%20Costa%20E%2C%20Lecrevisse%20Q.%20Overview%20of%20clinical%20flow%20cytometry%20data%20analysis%3A%20recent%20advances%20and%20future%20challenges.%20Trends%20Biotechnol.%202013%3B31%3A415%E2%80%9325."
+            }
+          ]
+        },
+        {
+          "id": 5700063,
+          "page": 523,
+          "en": "Platzbecker U, Middeke JM, Sockel K, et al. Measurable residual disease-guided treatment with azacitidine to prevent haematological relapse in patients with myelodysplastic syndrome and acute myeloid leukaemia (RELAZA2): an open-label, multicentre, phase 2 trial. Lancet Oncol. 2018;19(12):1668–79.",
+          "zh": "Platzbecker U, Middeke JM, Sockel K, et al. Measurable residual disease-guided treatment with azacitidine to prevent haematological relapse in patients with myelodysplastic syndrome and acute myeloid leukaemia (RELAZA2): an open-label, multicentre, phase 2 trial. Lancet Oncol. 2018;19(12):1668–79.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Platzbecker%20U%2C%20Middeke%20JM%2C%20Sockel%20K%2C%20et%20al.%20Measurable%20residual%20disease-guided%20treatment%20with%20azacitidine%20to%20prevent%20haematological%20relapse%20in%20patients%20with%20myelodysplastic%20syndrome%20and%20acute%20myeloid%20leukaemia%20%28RELAZA2%29%3A%20an%20open-label%2C%20multicentre%2C%20phase%202%20trial.%20Lancet%20Oncol.%202018%3B19%2812%29%3A1668%E2%80%9379."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Platzbecker%20U%2C%20Middeke%20JM%2C%20Sockel%20K%2C%20et%20al.%20Measurable%20residual%20disease-guided%20treatment%20with%20azacitidine%20to%20prevent%20haematological%20relapse%20in%20patients%20with%20myelodysplastic%20syndrome%20and%20acute%20myeloid%20leukaemia%20%28RELAZA2%29%3A%20an%20open-label%2C%20multicentre%2C%20phase%202%20trial.%20Lancet%20Oncol.%202018%3B19%2812%29%3A1668%E2%80%9379."
+            }
+          ]
+        },
+        {
+          "id": 5700064,
+          "page": 523,
+          "en": "Pratz KW, Jonas BA, Pullarkat V, et al. Measurable residual disease response and prognosis in treatment-naïve acute myeloid leukemia with venetoclax and azacitidine. J Clin Oncol. 2021;40:855–65.",
+          "zh": "Pratz KW, Jonas BA, Pullarkat V, et al. Measurable residual disease response and prognosis in treatment-naïve acute myeloid leukemia with venetoclax and azacitidine. J Clin Oncol. 2021;40:855–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pratz%20KW%2C%20Jonas%20BA%2C%20Pullarkat%20V%2C%20et%20al.%20Measurable%20residual%20disease%20response%20and%20prognosis%20in%20treatment-na%C3%AFve%20acute%20myeloid%20leukemia%20with%20venetoclax%20and%20azacitidine.%20J%20Clin%20Oncol.%202021%3B40%3A855%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pratz%20KW%2C%20Jonas%20BA%2C%20Pullarkat%20V%2C%20et%20al.%20Measurable%20residual%20disease%20response%20and%20prognosis%20in%20treatment-na%C3%AFve%20acute%20myeloid%20leukemia%20with%20venetoclax%20and%20azacitidine.%20J%20Clin%20Oncol.%202021%3B40%3A855%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 5700065,
+          "page": 523,
+          "en": "Rettinger E, Merker M, Salzmann-Manrique E, et al. Preemptive immunotherapy for clearance of molecular disease in childhood acute lymphoblastic leukemia after transplantation. Biol Blood Marrow Transplant. 2017;23:87–95.",
+          "zh": "Rettinger E, Merker M, Salzmann-Manrique E, et al. Preemptive immunotherapy for clearance of molecular disease in childhood acute lymphoblastic leukemia after transplantation. Biol Blood Marrow Transplant. 2017;23:87–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rettinger%20E%2C%20Merker%20M%2C%20Salzmann-Manrique%20E%2C%20et%20al.%20Preemptive%20immunotherapy%20for%20clearance%20of%20molecular%20disease%20in%20childhood%20acute%20lymphoblastic%20leukemia%20after%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A87%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rettinger%20E%2C%20Merker%20M%2C%20Salzmann-Manrique%20E%2C%20et%20al.%20Preemptive%20immunotherapy%20for%20clearance%20of%20molecular%20disease%20in%20childhood%20acute%20lymphoblastic%20leukemia%20after%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A87%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 5700066,
+          "page": 523,
+          "en": "Shlush LI. Age-related clonal hematopoiesis. Blood. 2018;131:496–504.",
+          "zh": "Shlush LI. Age-related clonal hematopoiesis. Blood. 2018;131:496–504.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shlush%20LI.%20Age-related%20clonal%20hematopoiesis.%20Blood.%202018%3B131%3A496%E2%80%93504."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shlush%20LI.%20Age-related%20clonal%20hematopoiesis.%20Blood.%202018%3B131%3A496%E2%80%93504."
+            }
+          ]
+        },
+        {
+          "id": 5700067,
+          "page": 523,
+          "en": "Short NJ, Zhou S, Fu C, et al. Association of measurable residual disease with survival outcomes in patients with acute myeloid leukemia: a systematic review and meta-analysis. JAMA Oncol. 2020;6:1890–9.",
+          "zh": "Short NJ, Zhou S, Fu C, et al. Association of measurable residual disease with survival outcomes in patients with acute myeloid leukemia: a systematic review and meta-analysis. JAMA Oncol. 2020;6:1890–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Short%20NJ%2C%20Zhou%20S%2C%20Fu%20C%2C%20et%20al.%20Association%20of%20measurable%20residual%20disease%20with%20survival%20outcomes%20in%20patients%20with%20acute%20myeloid%20leukemia%3A%20a%20systematic%20review%20and%20meta-analysis.%20JAMA%20Oncol.%202020%3B6%3A1890%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Short%20NJ%2C%20Zhou%20S%2C%20Fu%20C%2C%20et%20al.%20Association%20of%20measurable%20residual%20disease%20with%20survival%20outcomes%20in%20patients%20with%20acute%20myeloid%20leukemia%3A%20a%20systematic%20review%20and%20meta-analysis.%20JAMA%20Oncol.%202020%3B6%3A1890%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5700068,
+          "page": 523,
+          "en": "Spinelli O, Peruta B, Tosi M, et al. Clearance of minimal residual disease after allogeneic stem cell transplantation and the prediction of the clinical outcome of adult patients with high-risk acute lymphoblastic leukemia. Haematologica. 2007;92:612–8.",
+          "zh": "Spinelli O, Peruta B, Tosi M, et al. Clearance of minimal residual disease after allogeneic stem cell transplantation and the prediction of the clinical outcome of adult patients with high-risk acute lymphoblastic leukemia. Haematologica. 2007;92:612–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Spinelli%20O%2C%20Peruta%20B%2C%20Tosi%20M%2C%20et%20al.%20Clearance%20of%20minimal%20residual%20disease%20after%20allogeneic%20stem%20cell%20transplantation%20and%20the%20prediction%20of%20the%20clinical%20outcome%20of%20adult%20patients%20with%20high-risk%20acute%20lymphoblastic%20leukemia.%20Haematologica.%202007%3B92%3A612%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Spinelli%20O%2C%20Peruta%20B%2C%20Tosi%20M%2C%20et%20al.%20Clearance%20of%20minimal%20residual%20disease%20after%20allogeneic%20stem%20cell%20transplantation%20and%20the%20prediction%20of%20the%20clinical%20outcome%20of%20adult%20patients%20with%20high-risk%20acute%20lymphoblastic%20leukemia.%20Haematologica.%202007%3B92%3A612%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5700069,
+          "page": 523,
+          "en": "Starza ID, Eckert C, Drandi D, Cazzaniga G, EuroMRD Consortium. Minimal residual disease analysis by monitoring immunoglobulin and T-cell receptor gene rearrangements by quantitative PCR and droplet digital PCR. Methods Mol Biol. 2022;2453:79–89.",
+          "zh": "Starza ID, Eckert C, Drandi D, Cazzaniga G, EuroMRD Consortium. Minimal residual disease analysis by monitoring immunoglobulin and T-cell receptor gene rearrangements by quantitative PCR and droplet digital PCR. Methods Mol Biol. 2022;2453:79–89.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Starza%20ID%2C%20Eckert%20C%2C%20Drandi%20D%2C%20Cazzaniga%20G%2C%20EuroMRD%20Consortium.%20Minimal%20residual%20disease%20analysis%20by%20monitoring%20immunoglobulin%20and%20T-cell%20receptor%20gene%20rearrangements%20by%20quantitative%20PCR%20and%20droplet%20digital%20PCR.%20Methods%20Mol%20Biol.%202022%3B2453%3A79%E2%80%9389."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Starza%20ID%2C%20Eckert%20C%2C%20Drandi%20D%2C%20Cazzaniga%20G%2C%20EuroMRD%20Consortium.%20Minimal%20residual%20disease%20analysis%20by%20monitoring%20immunoglobulin%20and%20T-cell%20receptor%20gene%20rearrangements%20by%20quantitative%20PCR%20and%20droplet%20digital%20PCR.%20Methods%20Mol%20Biol.%202022%3B2453%3A79%E2%80%9389."
+            }
+          ]
+        },
+        {
+          "id": 5700070,
+          "page": 523,
+          "en": "Terwijn M, van Putten WL, Kelder A, et al. High prognostic impact of flow cytometric minimal residual disease detection in acute myeloid leukemia: data from the HOVON/SAKK AML 42A study. J Clin Oncol. 2013a;31:3889.",
+          "zh": "Terwijn M, van Putten WL, Kelder A, et al. High prognostic impact of flow cytometric minimal residual disease detection in acute myeloid leukemia: data from the HOVON/SAKK AML 42A study. J Clin Oncol. 2013a;31:3889.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Terwijn%20M%2C%20van%20Putten%20WL%2C%20Kelder%20A%2C%20et%20al.%20High%20prognostic%20impact%20of%20flow%20cytometric%20minimal%20residual%20disease%20detection%20in%20acute%20myeloid%20leukemia%3A%20data%20from%20the%20HOVON/SAKK%20AML%2042A%20study.%20J%20Clin%20Oncol.%202013a%3B31%3A3889."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Terwijn%20M%2C%20van%20Putten%20WL%2C%20Kelder%20A%2C%20et%20al.%20High%20prognostic%20impact%20of%20flow%20cytometric%20minimal%20residual%20disease%20detection%20in%20acute%20myeloid%20leukemia%3A%20data%20from%20the%20HOVON/SAKK%20AML%2042A%20study.%20J%20Clin%20Oncol.%202013a%3B31%3A3889."
+            }
+          ]
+        },
+        {
+          "id": 5700071,
+          "page": 523,
+          "en": "Tettero JM, Ngai LL, Bachas C, et al. Measurable residual disease-guided therapy in intermediate-risk acute myeloid leukemia patients is a valuable strategy in reducing allogeneic transplantation without negatively affecting survival. Haematologica. 2023;108:2794–8. https://doi.org/10.3324/haematol.2022.282639.",
+          "zh": "Tettero JM, Ngai LL, Bachas C, et al. Measurable residual disease-guided therapy in intermediate-risk acute myeloid leukemia patients is a valuable strategy in reducing allogeneic transplantation without negatively affecting survival. Haematologica. 2023;108:2794–8. https://doi.org/10.3324/haematol.2022.282639.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tettero%20JM%2C%20Ngai%20LL%2C%20Bachas%20C%2C%20et%20al.%20Measurable%20residual%20disease-guided%20therapy%20in%20intermediate-risk%20acute%20myeloid%20leukemia%20patients%20is%20a%20valuable%20strategy%20in%20reducing%20allogeneic%20transplantation%20without%20negatively%20affecting%20survival.%20Haematologica.%202023%3B108%3A2794%E2%80%938.%20https%3A//doi.org/10.3324/haematol.2022.282639."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tettero%20JM%2C%20Ngai%20LL%2C%20Bachas%20C%2C%20et%20al.%20Measurable%20residual%20disease-guided%20therapy%20in%20intermediate-risk%20acute%20myeloid%20leukemia%20patients%20is%20a%20valuable%20strategy%20in%20reducing%20allogeneic%20transplantation%20without%20negatively%20affecting%20survival.%20Haematologica.%202023%3B108%3A2794%E2%80%938.%20https%3A//doi.org/10.3324/haematol.2022.282639."
+            }
+          ]
+        },
+        {
+          "id": 5700072,
+          "page": 523,
+          "en": "Tettero JM, Freeman S, Buecklein V, et al. Technical aspects of flow cytometry-based measurable residual disease quantification in acute myeloid leukemia: experience of the European LeukemiaNet MRD working party. Hemasphere. 2021;6(1):e676. https://doi.org/10.1097/HS9.000000000000067.",
+          "zh": "Tettero JM, Freeman S, Buecklein V, et al. Technical aspects of flow cytometry-based measurable residual disease quantification in acute myeloid leukemia: experience of the European LeukemiaNet MRD working party. Hemasphere. 2021;6(1):e676. https://doi.org/10.1097/HS9.000000000000067.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tettero%20JM%2C%20Freeman%20S%2C%20Buecklein%20V%2C%20et%20al.%20Technical%20aspects%20of%20flow%20cytometry-based%20measurable%20residual%20disease%20quantification%20in%20acute%20myeloid%20leukemia%3A%20experience%20of%20the%20European%20LeukemiaNet%20MRD%20working%20party.%20Hemasphere.%202021%3B6%281%29%3Ae676.%20https%3A//doi.org/10.1097/HS9.000000000000067."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tettero%20JM%2C%20Freeman%20S%2C%20Buecklein%20V%2C%20et%20al.%20Technical%20aspects%20of%20flow%20cytometry-based%20measurable%20residual%20disease%20quantification%20in%20acute%20myeloid%20leukemia%3A%20experience%20of%20the%20European%20LeukemiaNet%20MRD%20working%20party.%20Hemasphere.%202021%3B6%281%29%3Ae676.%20https%3A//doi.org/10.1097/HS9.000000000000067."
+            }
+          ]
+        },
+        {
+          "id": 5700073,
+          "page": 523,
+          "en": "Terwijn M, van Putten WL, Kelder A, et al. High prognostic impact of flow cytometric minimal residual disease detection in acute myeloid leukemia: data from the HOVON/SAKK AML 42A study. J Clin Oncol. 2013b;31:3889.",
+          "zh": "Terwijn M, van Putten WL, Kelder A, et al. High prognostic impact of flow cytometric minimal residual disease detection in acute myeloid leukemia: data from the HOVON/SAKK AML 42A study. J Clin Oncol. 2013b;31:3889.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Terwijn%20M%2C%20van%20Putten%20WL%2C%20Kelder%20A%2C%20et%20al.%20High%20prognostic%20impact%20of%20flow%20cytometric%20minimal%20residual%20disease%20detection%20in%20acute%20myeloid%20leukemia%3A%20data%20from%20the%20HOVON/SAKK%20AML%2042A%20study.%20J%20Clin%20Oncol.%202013b%3B31%3A3889."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Terwijn%20M%2C%20van%20Putten%20WL%2C%20Kelder%20A%2C%20et%20al.%20High%20prognostic%20impact%20of%20flow%20cytometric%20minimal%20residual%20disease%20detection%20in%20acute%20myeloid%20leukemia%3A%20data%20from%20the%20HOVON/SAKK%20AML%2042A%20study.%20J%20Clin%20Oncol.%202013b%3B31%3A3889."
+            }
+          ]
+        },
+        {
+          "id": 5700074,
+          "page": 523,
+          "en": "Terwijn M, Zeijlemaker W, Kelder A, et al. Leukemic stem cell frequency: a strong biomarker for clinical outcome in acute myeloid leukemia. PLoS One. 2014;9(9):e107587.",
+          "zh": "Terwijn M, Zeijlemaker W, Kelder A, et al. Leukemic stem cell frequency: a strong biomarker for clinical outcome in acute myeloid leukemia. PLoS One. 2014;9(9):e107587.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Terwijn%20M%2C%20Zeijlemaker%20W%2C%20Kelder%20A%2C%20et%20al.%20Leukemic%20stem%20cell%20frequency%3A%20a%20strong%20biomarker%20for%20clinical%20outcome%20in%20acute%20myeloid%20leukemia.%20PLoS%20One.%202014%3B9%289%29%3Ae107587."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Terwijn%20M%2C%20Zeijlemaker%20W%2C%20Kelder%20A%2C%20et%20al.%20Leukemic%20stem%20cell%20frequency%3A%20a%20strong%20biomarker%20for%20clinical%20outcome%20in%20acute%20myeloid%20leukemia.%20PLoS%20One.%202014%3B9%289%29%3Ae107587."
+            }
+          ]
+        },
+        {
+          "id": 5700075,
+          "page": 523,
+          "en": "van der Velden V, Cazzaniga G, Schrauder A, et al. Analysis of minimal residual disease by Ig/TCR gene rearrangements: guidelines for interpretation of real-time quantitative PCR data. Leukemia. 2007;21:604–11.",
+          "zh": "van der Velden V, Cazzaniga G, Schrauder A, et al. Analysis of minimal residual disease by Ig/TCR gene rearrangements: guidelines for interpretation of real-time quantitative PCR data. Leukemia. 2007;21:604–11.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=van%20der%20Velden%20V%2C%20Cazzaniga%20G%2C%20Schrauder%20A%2C%20et%20al.%20Analysis%20of%20minimal%20residual%20disease%20by%20Ig/TCR%20gene%20rearrangements%3A%20guidelines%20for%20interpretation%20of%20real-time%20quantitative%20PCR%20data.%20Leukemia.%202007%3B21%3A604%E2%80%9311."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=van%20der%20Velden%20V%2C%20Cazzaniga%20G%2C%20Schrauder%20A%2C%20et%20al.%20Analysis%20of%20minimal%20residual%20disease%20by%20Ig/TCR%20gene%20rearrangements%3A%20guidelines%20for%20interpretation%20of%20real-time%20quantitative%20PCR%20data.%20Leukemia.%202007%3B21%3A604%E2%80%9311."
+            }
+          ]
+        },
+        {
+          "id": 5700076,
+          "page": 523,
+          "en": "van Dongen J, van der Velden V, Brüggemann M, Orfao A. Minimal residual disease diagnostics in acute lymphoblastic leukemia: need for sensitive, fast, and standardized technologies. Blood. 2015;125:3996–4009.",
+          "zh": "van Dongen J, van der Velden V, Brüggemann M, Orfao A. Minimal residual disease diagnostics in acute lymphoblastic leukemia: need for sensitive, fast, and standardized technologies. Blood. 2015;125:3996–4009.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=van%20Dongen%20J%2C%20van%20der%20Velden%20V%2C%20Br%C3%BCggemann%20M%2C%20Orfao%20A.%20Minimal%20residual%20disease%20diagnostics%20in%20acute%20lymphoblastic%20leukemia%3A%20need%20for%20sensitive%2C%20fast%2C%20and%20standardized%20technologies.%20Blood.%202015%3B125%3A3996%E2%80%934009."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=van%20Dongen%20J%2C%20van%20der%20Velden%20V%2C%20Br%C3%BCggemann%20M%2C%20Orfao%20A.%20Minimal%20residual%20disease%20diagnostics%20in%20acute%20lymphoblastic%20leukemia%3A%20need%20for%20sensitive%2C%20fast%2C%20and%20standardized%20technologies.%20Blood.%202015%3B125%3A3996%E2%80%934009."
+            }
+          ]
+        },
+        {
+          "id": 5700077,
+          "page": 523,
+          "en": "Vogelstein B, Kinzler KW. Digital PCR. Proc Natl Acad Sci U S A. 1999;96(25):9236–41. https://doi.org/10.1073/pnas.96.25.9236.",
+          "zh": "Vogelstein B, Kinzler KW. Digital PCR. Proc Natl Acad Sci U S A. 1999;96(25):9236–41. https://doi.org/10.1073/pnas.96.25.9236.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vogelstein%20B%2C%20Kinzler%20KW.%20Digital%20PCR.%20Proc%20Natl%20Acad%20Sci%20U%20S%20A.%201999%3B96%2825%29%3A9236%E2%80%9341.%20https%3A//doi.org/10.1073/pnas.96.25.9236."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vogelstein%20B%2C%20Kinzler%20KW.%20Digital%20PCR.%20Proc%20Natl%20Acad%20Sci%20U%20S%20A.%201999%3B96%2825%29%3A9236%E2%80%9341.%20https%3A//doi.org/10.1073/pnas.96.25.9236."
+            }
+          ]
+        },
+        {
+          "id": 5700078,
+          "page": 523,
+          "en": "Walter RB, et al. Comparison of minimal residual disease as outcome predictor for AML patients in first complete remission undergoing myeloablative or nonmyeloablative allogeneic hematopoietic cell transplantation. Leukemia. 2015;29:137–44.",
+          "zh": "Walter RB, et al. Comparison of minimal residual disease as outcome predictor for AML patients in first complete remission undergoing myeloablative or nonmyeloablative allogeneic hematopoietic cell transplantation. Leukemia. 2015;29:137–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Walter%20RB%2C%20et%20al.%20Comparison%20of%20minimal%20residual%20disease%20as%20outcome%20predictor%20for%20AML%20patients%20in%20first%20complete%20remission%20undergoing%20myeloablative%20or%20nonmyeloablative%20allogeneic%20hematopoietic%20cell%20transplantation.%20Leukemia.%202015%3B29%3A137%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Walter%20RB%2C%20et%20al.%20Comparison%20of%20minimal%20residual%20disease%20as%20outcome%20predictor%20for%20AML%20patients%20in%20first%20complete%20remission%20undergoing%20myeloablative%20or%20nonmyeloablative%20allogeneic%20hematopoietic%20cell%20transplantation.%20Leukemia.%202015%3B29%3A137%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 5700079,
+          "page": 523,
+          "en": "Walter RB, Ofran Y, Wierzbowska A, et al. Measurable residual disease as a biomarker in acute myeloid leukemia: theoretical and practical considerations. Leukemia. 2021;35:1529–38.",
+          "zh": "Walter RB, Ofran Y, Wierzbowska A, et al. Measurable residual disease as a biomarker in acute myeloid leukemia: theoretical and practical considerations. Leukemia. 2021;35:1529–38.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Walter%20RB%2C%20Ofran%20Y%2C%20Wierzbowska%20A%2C%20et%20al.%20Measurable%20residual%20disease%20as%20a%20biomarker%20in%20acute%20myeloid%20leukemia%3A%20theoretical%20and%20practical%20considerations.%20Leukemia.%202021%3B35%3A1529%E2%80%9338."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Walter%20RB%2C%20Ofran%20Y%2C%20Wierzbowska%20A%2C%20et%20al.%20Measurable%20residual%20disease%20as%20a%20biomarker%20in%20acute%20myeloid%20leukemia%3A%20theoretical%20and%20practical%20considerations.%20Leukemia.%202021%3B35%3A1529%E2%80%9338."
+            }
+          ]
+        },
+        {
+          "id": 5700080,
+          "page": 523,
+          "en": "Wu J, Jia S, Wang C, et al. Minimal residual disease detection and evolved IGH clones analysis in acute B lymphoblastic leukemia using IGH deep sequencing. Front Immunol. 2016;7:403.",
+          "zh": "Wu J, Jia S, Wang C, et al. Minimal residual disease detection and evolved IGH clones analysis in acute B lymphoblastic leukemia using IGH deep sequencing. Front Immunol. 2016;7:403.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wu%20J%2C%20Jia%20S%2C%20Wang%20C%2C%20et%20al.%20Minimal%20residual%20disease%20detection%20and%20evolved%20IGH%20clones%20analysis%20in%20acute%20B%20lymphoblastic%20leukemia%20using%20IGH%20deep%20sequencing.%20Front%20Immunol.%202016%3B7%3A403."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wu%20J%2C%20Jia%20S%2C%20Wang%20C%2C%20et%20al.%20Minimal%20residual%20disease%20detection%20and%20evolved%20IGH%20clones%20analysis%20in%20acute%20B%20lymphoblastic%20leukemia%20using%20IGH%20deep%20sequencing.%20Front%20Immunol.%202016%3B7%3A403."
+            }
+          ]
+        },
+        {
+          "id": 5700081,
+          "page": 523,
+          "en": "Zeijlemaker W, Kelder A, Oussoren-Brockhoff YJ, et al. A simple one-tube assay for immunophenotypical quantification of leukemic stem cells in acute myeloid leukemia. Leukemia. 2016;30:439–46.",
+          "zh": "Zeijlemaker W, Kelder A, Oussoren-Brockhoff YJ, et al. A simple one-tube assay for immunophenotypical quantification of leukemic stem cells in acute myeloid leukemia. Leukemia. 2016;30:439–46.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zeijlemaker%20W%2C%20Kelder%20A%2C%20Oussoren-Brockhoff%20YJ%2C%20et%20al.%20A%20simple%20one-tube%20assay%20for%20immunophenotypical%20quantification%20of%20leukemic%20stem%20cells%20in%20acute%20myeloid%20leukemia.%20Leukemia.%202016%3B30%3A439%E2%80%9346."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zeijlemaker%20W%2C%20Kelder%20A%2C%20Oussoren-Brockhoff%20YJ%2C%20et%20al.%20A%20simple%20one-tube%20assay%20for%20immunophenotypical%20quantification%20of%20leukemic%20stem%20cells%20in%20acute%20myeloid%20leukemia.%20Leukemia.%202016%3B30%3A439%E2%80%9346."
+            }
+          ]
+        },
+        {
+          "id": 5700082,
+          "page": 523,
+          "en": "Zhou Y, Othus M, Araki D, et al. Pre- and post-transplant quantification of measurable (‘minimal’) residual disease via multiparameter flow cytometry in adult acute myeloid leukemia. Leukemia. 2016;30:1456–64.",
+          "zh": "Zhou Y, Othus M, Araki D, et al. Pre- and post-transplant quantification of measurable (‘minimal’) residual disease via multiparameter flow cytometry in adult acute myeloid leukemia. Leukemia. 2016;30:1456–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhou%20Y%2C%20Othus%20M%2C%20Araki%20D%2C%20et%20al.%20Pre-%20and%20post-transplant%20quantification%20of%20measurable%20%28%E2%80%98minimal%E2%80%99%29%20residual%20disease%20via%20multiparameter%20flow%20cytometry%20in%20adult%20acute%20myeloid%20leukemia.%20Leukemia.%202016%3B30%3A1456%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhou%20Y%2C%20Othus%20M%2C%20Araki%20D%2C%20et%20al.%20Pre-%20and%20post-transplant%20quantification%20of%20measurable%20%28%E2%80%98minimal%E2%80%99%29%20residual%20disease%20via%20multiparameter%20flow%20cytometry%20in%20adult%20acute%20myeloid%20leukemia.%20Leukemia.%202016%3B30%3A1456%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 5700083,
+          "page": 523,
+          "en": "[Further Readings] Ivey A, Hills RK, Simpson MA, et al. Assessment of minimal residual disease in standard-risk AML. N Engl J Med. 2016;374:422–33.",
+          "zh": "[Further Readings] Ivey A, Hills RK, Simpson MA, et al. Assessment of minimal residual disease in standard-risk AML. N Engl J Med. 2016;374:422–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=%5BFurther%20Readings%5D%20Ivey%20A%2C%20Hills%20RK%2C%20Simpson%20MA%2C%20et%20al.%20Assessment%20of%20minimal%20residual%20disease%20in%20standard-risk%20AML.%20N%20Engl%20J%20Med.%202016%3B374%3A422%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=%5BFurther%20Readings%5D%20Ivey%20A%2C%20Hills%20RK%2C%20Simpson%20MA%2C%20et%20al.%20Assessment%20of%20minimal%20residual%20disease%20in%20standard-risk%20AML.%20N%20Engl%20J%20Med.%202016%3B374%3A422%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 5700084,
+          "page": 523,
+          "en": "[Further Readings] Short NJ, Kantarjian H, Ravandi F, Konopleva M, Jain N, Kanagal-Shamanna R, et al. High-sensitivity next-generation sequencing MRD assessment in ALL identifies patients at very low risk of relapse. Blood Adv. 2022;6(13):4006–14.",
+          "zh": "[Further Readings] Short NJ, Kantarjian H, Ravandi F, Konopleva M, Jain N, Kanagal-Shamanna R, et al. High-sensitivity next-generation sequencing MRD assessment in ALL identifies patients at very low risk of relapse. Blood Adv. 2022;6(13):4006–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=%5BFurther%20Readings%5D%20Short%20NJ%2C%20Kantarjian%20H%2C%20Ravandi%20F%2C%20Konopleva%20M%2C%20Jain%20N%2C%20Kanagal-Shamanna%20R%2C%20et%20al.%20High-sensitivity%20next-generation%20sequencing%20MRD%20assessment%20in%20ALL%20identifies%20patients%20at%20very%20low%20risk%20of%20relapse.%20Blood%20Adv.%202022%3B6%2813%29%3A4006%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=%5BFurther%20Readings%5D%20Short%20NJ%2C%20Kantarjian%20H%2C%20Ravandi%20F%2C%20Konopleva%20M%2C%20Jain%20N%2C%20Kanagal-Shamanna%20R%2C%20et%20al.%20High-sensitivity%20next-generation%20sequencing%20MRD%20assessment%20in%20ALL%20identifies%20patients%20at%20very%20low%20risk%20of%20relapse.%20Blood%20Adv.%202022%3B6%2813%29%3A4006%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 5700085,
+          "page": 523,
+          "en": "[Further Readings] Svaton M, Skotnicova A, Reznickova L, Rennerova A, Valova T, Kotrova M, et al. NGS better discriminates true MRD positivity for the risk stratification of childhood ALL treated on an MRD-based protocol. Blood. 2023;141(5):529–33.",
+          "zh": "[Further Readings] Svaton M, Skotnicova A, Reznickova L, Rennerova A, Valova T, Kotrova M, et al. NGS better discriminates true MRD positivity for the risk stratification of childhood ALL treated on an MRD-based protocol. Blood. 2023;141(5):529–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=%5BFurther%20Readings%5D%20Svaton%20M%2C%20Skotnicova%20A%2C%20Reznickova%20L%2C%20Rennerova%20A%2C%20Valova%20T%2C%20Kotrova%20M%2C%20et%20al.%20NGS%20better%20discriminates%20true%20MRD%20positivity%20for%20the%20risk%20stratification%20of%20childhood%20ALL%20treated%20on%20an%20MRD-based%20protocol.%20Blood.%202023%3B141%285%29%3A529%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=%5BFurther%20Readings%5D%20Svaton%20M%2C%20Skotnicova%20A%2C%20Reznickova%20L%2C%20Rennerova%20A%2C%20Valova%20T%2C%20Kotrova%20M%2C%20et%20al.%20NGS%20better%20discriminates%20true%20MRD%20positivity%20for%20the%20risk%20stratification%20of%20childhood%20ALL%20treated%20on%20an%20MRD-based%20protocol.%20Blood.%202023%3B141%285%29%3A529%E2%80%9333."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 524,
+      "blocks": [
+        {
+          "id": 5700086,
+          "page": 524,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
