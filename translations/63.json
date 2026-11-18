@@ -1,0 +1,433 @@
+{
+  "id": 63,
+  "title": "At-Home HCT",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 30,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 563,
+      "blocks": [
+        {
+          "id": 6300001,
+          "page": 563,
+          "en": "63 At-Home HCT\nFrancesc Fernández-Avilés",
+          "zh": "63 居家造血細胞移植（At-Home HCT） — Francesc Fernández-Avilés",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_63"
+            }
+          ]
+        },
+        {
+          "id": 6300002,
+          "page": 563,
+          "en": "63.1 Introduction\nThe main indications for autoHCT are lymphoid malignancies (90%) with plasma cell disorders (MM and others) comprising 55% of all autoHCT (Passweg et al. 2021). Toxicity and mortality associated with autoHCT have been reduced significantly with the use of mobilized peripheral blood HSC, the extended use of cryotherapy associated with MEL, and the improvements in prophylactic antibiotic and antiemetic regimens. Besides this, outpatient parenteral antimicrobial treatment has been proven feasible and safe, thanks to modern CVC and infusion devices. All these advances have led to the development of outpatient autoHCT programs, and several studies have demonstrated their feasibility and safety (González et al. 2021).\nThere are various reasons for transferring the support of the neutropenic phase of autoHCT to the ambulatory setting, including patient preference, reduced exposure to hospital microorganisms, better use of hospital resources, and cost-saving issues (Martino et al. 2020). In this model, however, patients experience time-consuming daily travel to the outpatient clinic for blood tests and physician checkups. “Hospital at home” is an alternative, designed to reduce hospital outpatient admissions by providing hospital equivalent care to patients in the home setting (Fernández Avilés et al. 2006; González-Barrera et al. 2023).",
+          "zh": "63.1 前言\n自體造血細胞移植（autoHCT）的主要適應症為淋巴系惡性疾病（占 90%），其中漿細胞疾病（多發性骨髓瘤〔MM〕及其他疾病）占所有 autoHCT 的 55%（Passweg et al. 2021）。隨著動員後周邊血造血幹細胞（HSC）的使用、搭配 melphalan（MEL）之口腔冷凍療法（cryotherapy，冰塊含漱）的廣泛應用，以及預防性抗生素與止吐方案的改良，與 autoHCT 相關的毒性及死亡率已顯著降低。除此之外，歸功於現代化的中央靜脈導管（CVC）與輸注裝置，門診靜脈抗微生物藥物治療（OPAT）已被證實可行且安全。這一切進展促成了門診 autoHCT 計畫的發展，且多項研究已證實其可行性與安全性（González et al. 2021）。\n將 autoHCT 嗜中性球低下期（neutropenic phase）的支持照護轉移至門診／非住院環境有多種原因，包括患者偏好、減少暴露於醫院微生物的機會、更妥善運用醫院資源，以及節省成本等考量（Martino et al. 2020）。然而，在此門診模式中，患者每天仍須耗費大量時間往返門診進行抽血檢驗與醫師診察。「居家醫院」（Hospital at home，居家住院／居家移植）則是另一種替代方案，旨在透過於居家環境中提供等同醫院等級的照護，減少患者往返醫院門診與住院的需求（Fernández Avilés et al. 2006; González-Barrera et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300003,
+          "page": 563,
+          "en": "63.2 Ambulatory AutoHCT Models (Martino et al. 2020)\n[Table: Ambulatory AutoHCT Models]\n• Complete outpatient program:\n  – Conditioning regimen, HPC infusion, and management of the aplastic phase: Outpatient clinic\n• Delayed admission:\n  – Conditioning regimen, HPC infusion, and management of the aplastic phase: Inpatient (Early discharged (+1) and readmission (+5))\n• Mixed inpatient-outpatient:\n  – Conditioning regimen and management of the aplastic phase: Outpatient clinics\n  – HPC infusion: Inpatient\n• Early discharge outpatient:\n  – Conditioning regimen and HPC infusion: Inpatient\n  – Management of the aplastic phase: Outpatient clinics\n• Early discharge at home:\n  – Conditioning regimen and HPC infusion: Inpatient\n  – Management of the aplastic phase: At home",
+          "zh": "63.2 非住院（門診／居家）自體 HCT 模式（Martino et al. 2020）\n【表格：非住院 AutoHCT 之五種運作模式】\n• 完全門診計畫（Complete outpatient program）：\n – 調理方案、造血前驅細胞（HPC）輸注及骨髓再生不良期（aplastic phase）之照護：皆於門診（Outpatient clinic）進行\n• 延遲收治住院模式（Delayed admission）：\n – 調理方案、HPC 輸注及再生不良期之照護：住院給予調理與輸注後，於第 +1 天提早出院，並於第 +5 天預設再入院（Inpatient: Early discharged (+1) and readmission (+5)）\n• 住院－門診混合模式（Mixed inpatient-outpatient）：\n – 調理方案與再生不良期之照護：門診（Outpatient clinics）\n – HPC 輸注：住院（Inpatient）\n• 提早出院門診追蹤模式（Early discharge outpatient）：\n – 調理方案與 HPC 輸注：住院（Inpatient）\n – 再生不良期之照護：門診（Outpatient clinics）\n• 提早出院居家照護模式（Early discharge at home）：\n – 調理方案與 HPC 輸注：住院（Inpatient）\n – 再生不良期之照護：於患者家中（At home）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300004,
+          "page": 563,
+          "en": "F. Fernández-Avilés (*)\nHead Homecare Unit, Department of Hematology, Bone Marrow Transplantation Unit, Hospital Clínic de Barcelona, Universitat de Barcelona, Barcelona, Catalonia, Spain\ne-mail: ffernand@clinic.cat\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_63",
+          "zh": "作者單位與聯絡資訊：\nF. Fernández-Avilés（通訊作者）：西班牙加泰隆尼亞巴塞隆納大學附設巴塞隆納臨床醫院（Hospital Clínic de Barcelona）血液部骨髓移植中心居家照護單位主任；電子郵件：ffernand@clinic.cat。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_63。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 564,
+      "blocks": [
+        {
+          "id": 6300005,
+          "page": 564,
+          "en": "63.3 Suggested Inclusion Criteria for Ambulatory AutoHCT\n[Table: Suggested Inclusion Criteria for Ambulatory AutoHCT]\n• Patient:\n  – Age ≤ 65 years, recommended in newly created programs\n  – ECOG ≤2\n  – No organ failure\n  – Recent documented infection with a proven secondary prophylaxis\n  – Absence of refractoriness to platelet transfusion\n  – Signed written informed consent\n• Transplant Center:\n  – Outpatient clinics available 24 h per day or bed reserved in the transplant unit\n  – Dedicated phone line 24 h × 365 days to allow patients or their caregivers to contact an expert physician of the transplant team\n• Disease:\n  – CR or PR before the autoHCT\n  – No symptomatic advanced disease\n• Caregiver:\n  – Availability of a suitable caregiver 24 h per day, 7 days a week\n• Home:\n  – Clean house\n  – Travel time from home to the hospital less than 60 min at rush hours",
+          "zh": "63.3 非住院（門診／居家）自體 HCT 之建議納入條件\n【表格：非住院 AutoHCT 之建議納入條件】\n• 患者條件（Patient）：\n – 年齡 ≤ 65 歲（建議新創立之計畫採用）\n – ECOG 體能狀態 ≤ 2\n – 無器官衰竭\n – 若近期曾有確診感染，須具備已證實有效之次級預防（secondary prophylaxis）方案\n – 無血小板輸注無效（refractoriness to platelet transfusion）之情形\n – 已簽署書面知情同意書\n• 移植中心條件（Transplant Center）：\n – 每日 24 小時皆可提供門診診療服務，或在移植病房內保留備用病床\n – 設有全年無休（24 小時 × 365 天）專線電話，讓患者或其照顧者能隨時聯繫移植團隊的專科醫師\n• 疾病狀態（Disease）：\n – autoHCT 前處於完全緩解（CR）或部分緩解（PR）\n – 無具症狀之晚期疾病\n• 照顧者條件（Caregiver）：\n – 每週 7 天、每天 24 小時皆有合適的照顧者陪伴\n• 居家環境與距離（Home）：\n – 整潔的居家環境\n – 尖峰時段從住家前往醫院的車程時間少於 60 分鐘",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300006,
+          "page": 564,
+          "en": "63.4 General Recommendations for At-Home AutoHCT\nDose of HPC and supportive care (such as management of nausea and vomiting, hydration, analgesic therapy) should not differ from recommended conventional autoHCT guidelines. Antimicrobial prophylaxis for outpatient autoHCT should not differ from that required for conventional procedure, although some authors have intensified it with intravenous antibiotics significantly reducing the incidence and severity of neutropenic fever (Rodríguez-Lobato et al. 2020a, b). Recently, the usefulness of G-CSF after HPC infusion has been questioned; indeed, some transplant groups have stopped using it, observing no changes in relevant transplant outcomes and avoiding potential adverse effects including its potential association with engraftment syndrome (Grosso et al. 2022). Finally, some studies suggest that for MM patients, the addition of primary prophylaxis with corticosteroids after autoHCT may minimize the incidence of febrile neutropenia and engraftment syndrome, which would increase the safety of outpatient management of these patients without compromising outcomes (Mossad et al. 2005; Rodríguez-Lobato et al. 2020a, b).",
+          "zh": "63.4 居家自體 HCT 的一般建議\nHPC 的輸注劑量與支持性照護（例如噁心與嘔吐的處理、水分補充、止痛治療）不應與傳統住院 autoHCT 指引所建議的內容有所差異。門診／居家 autoHCT 的抗微生物藥物預防原則上亦與傳統程序所需相同，不過部分作者曾透過靜脈注射抗生素強化預防，顯著降低了嗜中性球低下發燒（neutropenic fever）的發生率與嚴重度（Rodríguez-Lobato et al. 2020a, b）。近期，在 HPC 輸注後使用 G-CSF 的實用性受到質疑；事實上，部分移植團隊已停止使用 G-CSF，並觀察到相關移植預後並無改變，同時避免了潛在不良反應（包括其與植入症候群〔engraftment syndrome〕的潛在關聯）（Grosso et al. 2022）。最後，部分研究指出，針對 MM 患者在 autoHCT 後加上皮質類固醇作為初級預防，可將嗜中性球低下發燒與植入症候群的發生率降至最低，這能在不損及治療預後的前提下，提升此類患者於門診／居家照護的安全性（Mossad et al. 2005; Rodríguez-Lobato et al. 2020a, b）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300007,
+          "page": 564,
+          "en": "63.5 Most Frequent Reasons for Readmission (Ordered by Frequency)\n– Fever persisting after 2 days of broad-spectrum antibacterial therapy\n– Severe oral mucositis or gastrointestinal toxicity (WHO grade III or IV)\n– Severe sepsis with organic failure\n– Request of the patient (psychological distress) and low compliance\n– Loss of caregiver support",
+          "zh": "63.5 最常見的再入院原因（依發生頻率排序）\n– 使用廣效性抗菌治療 2 天後仍持續發燒\n– 嚴重口腔黏膜炎或胃腸道毒性（WHO 第 III 或 IV 級）\n– 嚴重敗血症合併器官衰竭\n– 患者主動要求（心理困擾）及醫囑順從性低\n– 失去照顧者支持",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300008,
+          "page": 564,
+          "en": "63.6 Treatment of Fever in At-Home Setting\nThe use of empiric antibacterial therapy must follow international accepted guidelines. If fever occurs, empiric broad-spectrum antibacterial therapy should be initiated within 1 h of the clinical evaluation and as soon as the fever workup was completed. IV antibiotics should be preferred and chosen in the light of clinical and laboratory findings. After at least 6-h monitoring, hemodynamically stable patients without relevant clinical problems may be followed at home. Table 63.1 shows the different empiric antibiotic therapy that could be used at home.",
+          "zh": "63.6 居家環境下發燒的處置\n經驗性抗菌治療的使用必須遵循國際公認的指引。若發生發燒，應在完成發燒常規檢查（fever workup）後、且於臨床評估後 1 小時內立即啟動經驗性廣效抗菌治療。應優先選擇靜脈注射（IV）抗生素，並根據臨床與實驗室檢查結果選藥。經過至少 6 小時的觀察監測後，血流動力學穩定且無重大臨床問題的患者可繼續於家中接受追蹤。表 63.1 列出了可於居家環境中使用的不同經驗性抗生素治療方案。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 565,
+      "blocks": [
+        {
+          "id": 6300009,
+          "page": 565,
+          "en": "Table 63.1 Empirical antibiotic therapy\nProphylaxis with quinolones | Empirical antibiotic therapy\nNo | Levofloxacin (PO or IV); Moxifloxacin PO; Ciprofloxacin PO associated or not with amoxicillin/clavulanate; Ciprofloxacin PO associated or not with linezolid PO\nYes | – IV ceftriaxone or piperacillin/tazobactamᵃ or meropenemᵇ associated with teicoplanin IVᶜ if intense oral mucositis; – If there is a high suspicion of CVC infection, add teicoplanin and an anti-GNB such as amikacin IV, and evaluate the CVC withdrawal; – If allergic to beta-lactam, quinolones PO/IV associated with teicoplanin IV and amikacin IV\nFootnotes:\nᵃ Stable at room temperature so it can be administered at home by electronic intermittent infusion pump\nᵇ Accurate refrigeration to achieve adequate stability for home administration\nᶜ The first option at home would be teicoplanin once daily instead of vancomycin IV (twice a day). Other alternatives rarely necessary in the context of autoHCT are daptomycin IV or linezolid PO",
+          "zh": "表 63.1 居家經驗性抗生素治療\n是否已使用 quinolones 類預防｜經驗性抗生素治療方案\n否（No）｜• Levofloxacin（口服〔PO〕或靜脈注射〔IV〕）\n• Moxifloxacin PO\n• Ciprofloxacin PO（合併或不合併 amoxicillin/clavulanate）\n• Ciprofloxacin PO（合併或不合併 linezolid PO）\n是（Yes）｜– IV ceftriaxone 或 piperacillin/tazobactamᵃ 或 meropenemᵇ；若伴隨嚴重口腔黏膜炎，則合併 teicoplanin IVᶜ\n– 若高度懷疑中央靜脈導管（CVC）感染，加上 teicoplanin 與抗革蘭氏陰性桿菌（anti-GNB）藥物（如 amikacin IV），並評估拔除 CVC\n– 若對 β-lactam 類過敏，使用 quinolones PO/IV 合併 teicoplanin IV 與 amikacin IV\n註腳：\nᵃ 於室溫下穩定，因此可在家中使用電子間歇式輸注幫浦給藥。\nᵇ 需精確冷藏以維持足夠穩定度供居家給藥使用。\nᶜ 居家環境下的首選為每日一次的 teicoplanin，而非每日兩次的 vancomycin IV。在 autoHCT 情境中極少需要用到的其他替代藥物為 daptomycin IV 或 linezolid PO。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300010,
+          "page": 565,
+          "en": "63.7 Incidence of Readmission in Outpatient and At-Home AutoHCT\nThe incidence of readmissions is closely related to the experience of the group of professionals in outpatient or at-home management of complications and by the support infrastructure available in the hospital.\nIn patients with MM, usually conditioned with MEL, the lowest readmission rates have been reported (less than 20%) due to the low organic toxicity (Martino et al. 2020). They are clearly the best option when considering starting an outpatient or at-home autoHCT program.\nIn patients with NHL or HL usually conditioned with a more toxic regimen (BEAM or BEAC), there is a higher readmission rate, between 20 and 30% (Scortechini et al. 2014; Jaime-Pérez et al. 2021) and 80% (Faucher et al. 2012).\nIn the Hospital Clinic at-home autoHCT experience, the actualized readmission rate in MM and lymphoma patients is only of 2% and 1%, respectively (Rodríguez-Lobato et al. 2020a, b), thanks to the significant reduction of febrile neutropenia rate with the intensification of antibiotic prophylaxis (piperacillin/tazobactam in NHL and LH patients) and the addition of primary prophylaxis of engraftment syndrome with corticosteroids after autoHCT in MM patients, as well as the successful control of fever at home. The overall readmission rate in this experience is significantly lower (6.5%) in a series of 537 patients.",
+          "zh": "63.7 門診與居家自體 HCT 的再入院發生率\n再入院的發生率與醫療專業團隊在門診或居家處理併發症的經驗，以及醫院可提供的支持性基礎設施密切相關。\n在通常使用 MEL 進行調理的 MM 患者中，由於器官毒性較低，所報導的再入院率最低（低於 20%）（Martino et al. 2020）。當考慮開始建立門診或居家 autoHCT 計畫時，MM 患者顯然是最佳的起步對象。\n在通常使用毒性較高之方案（BEAM 或 BEAC）進行調理的非何杰金氏淋巴瘤（NHL）或何杰金氏淋巴瘤（HL）患者中，再入院率較高，介於 20–30%（Scortechini et al. 2014; Jaime-Pérez et al. 2021）至 80% 之間（Faucher et al. 2012）。\n在巴塞隆納臨床醫院（Hospital Clínic）的居家 autoHCT 經驗中，MM 與淋巴瘤患者目前的再入院率分別僅為 2% 與 1%（Rodríguez-Lobato et al. 2020a, b），這歸功於透過強化抗生素預防（在 NHL 與 HL 患者使用 piperacillin/tazobactam）以及在 MM 患者於 autoHCT 後加上皮質類固醇作為植入症候群的初級預防，使嗜中性球低下發燒發生率顯著降低，同時也歸功於在家中成功控制發燒。在此包含 537 名患者的系列研究中，整體的再入院率顯著較低（僅 6.5%）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300011,
+          "page": 565,
+          "en": "63.8 Quality of Life\nPatients who receive autoHCT experienced various symptoms on different levels and at different frequencies after transplant. Patients and their caregivers need guidance and a planned and individualized education in the process to reduce their anxiety (Caliskan and Can 2022). Thus, Summers et al. (2000) reported significantly higher scores for emotional well-being and global QOL in outpatients, while Martino et al. (2017) indicated that the outpatient model neither improves nor impairs global patient QOL on the first 30 days after autoHCT. Usually, a good clinical outcome following autoHCT was associated with better QOL and greater satisfaction with care. In summary, the data published are limited and contradictory, so the QOL remains an area that requires further research.",
+          "zh": "63.8 生活品質（Quality of Life）\n接受 autoHCT 的患者在移植後會經歷不同程度與不同頻率的各種症狀。患者及其照顧者在此過程中需要指導以及有計畫的個別化衛教，以減輕其焦慮（Caliskan and Can 2022）。因此，Summers 等人（2000）報導門診患者在情緒福祉與整體生活品質（QOL）上的評分顯著較高，而 Martino 等人（2017）則指出門診模式在 autoHCT 後的前 30 天內既未改善也未損及患者的整體 QOL。通常，autoHCT 後良好的臨床結果與較佳的 QOL 及較高的照護滿意度相關。總結而言，目前已發表的數據仍有限且結果不盡一致，因此 QOL 仍是一個需要進一步研究的領域。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300012,
+          "page": 565,
+          "en": "63.9 Cost Data\nThe study of “real” costs of these ambulatory/domiciliary autoHCT programs is still to be carried out. In the absence of well-designed studies aimed at evaluating the “real” savings achieved with outpatient/at-home autoHCT programs, some authors cite direct savings between 10 and 50% (González et al. 2021), especially influenced by the release of hospital beds and low readmission rates.",
+          "zh": "63.9 成本數據（Cost Data）\n針對這些門診／居家 autoHCT 計畫之「真實」成本的研究仍有待開展。在缺乏旨在評估門診／居家 autoHCT 計畫所達成之「真實」節省金額的完善設計研究下，部分作者引用直接成本節省介於 10% 至 50% 之間（González et al. 2021），這特別受到釋出醫院病床以及低再入院率的影響。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 566,
+      "blocks": [
+        {
+          "id": 6300013,
+          "page": 566,
+          "en": "63.10 At-Home AlloHCT\nSome centers have published their data regarding ambulatory alloHCT using RIC/NMA and MAC regimens and have demonstrated safety, feasibility, and cost-effectiveness. After more than two decades of the first ambulatory alloHCT program, the experience in this modality is limited. However, in low- and middle-income countries, where the development of a traditional HCT unit is often unrealistic, ambulatory alloHCT emerges as an affordable, safe, and realistic option.",
+          "zh": "63.10 居家異體造血細胞移植（At-Home AlloHCT）\n部分中心已發表其使用 RIC/NMA 與 MAC 方案進行非住院（門診／居家）異體 HCT（alloHCT）的數據，並證實了其安全性、可行性與成本效益。在首個非住院 alloHCT 計畫開展超過二十年後，全球在此模式的經驗仍然有限。然而，在建立傳統住院 HCT 病房往往不切實際的中低收入國家，非住院 alloHCT 成為一種負擔得起、安全且務實的選擇。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300014,
+          "page": 566,
+          "en": "Key Points\n• At-home autoHCT is feasible and safe with a good selection of patients.\n• MM is the best indication.\n• There are no randomized studies that clearly indicate which model is better than another, which is the real impact of ambulatory autoHCT in the QOL of patients and their caregivers, as well as what is its real cost.",
+          "zh": "章末重點（Key Points）\n• 在妥善篩選患者的前提下，居家 autoHCT 是可行且安全的。\n• 多發性骨髓瘤（MM）是最佳適應症。\n• 目前尚無隨機對照研究能明確指出哪一種非住院模式優於其他模式、非住院 autoHCT 對患者及其照顧者生活品質（QOL）的真實影響為何，以及其真實成本為何。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6300015,
+          "page": 566,
+          "en": "Caliskan K, Can G. Determining the symptoms and coping methods of patients at home after hematopoietic stem cell transplantation. Support Care Cancer. 2022;30:5881–90.",
+          "zh": "Caliskan K, Can G. Determining the symptoms and coping methods of patients at home after hematopoietic stem cell transplantation. Support Care Cancer. 2022;30:5881–90.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Caliskan%20K%2C%20Can%20G.%20Determining%20the%20symptoms%20and%20coping%20methods%20of%20patients%20at%20home%20after%20hematopoietic%20stem%20cell%20transplantation.%20Support%20Care%20Cancer.%202022%3B30%3A5881%E2%80%9390."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Caliskan%20K%2C%20Can%20G.%20Determining%20the%20symptoms%20and%20coping%20methods%20of%20patients%20at%20home%20after%20hematopoietic%20stem%20cell%20transplantation.%20Support%20Care%20Cancer.%202022%3B30%3A5881%E2%80%9390."
+            }
+          ]
+        },
+        {
+          "id": 6300016,
+          "page": 566,
+          "en": "Faucher C, Le Corroller Soriano AG, Esterni B, et al. Randomized study of early hospital discharge following autologous blood SCT: medical outcomes and hospital costs. Bone Marrow Transplant. 2012;47:549–55.",
+          "zh": "Faucher C, Le Corroller Soriano AG, Esterni B, et al. Randomized study of early hospital discharge following autologous blood SCT: medical outcomes and hospital costs. Bone Marrow Transplant. 2012;47:549–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Faucher%20C%2C%20Le%20Corroller%20Soriano%20AG%2C%20Esterni%20B%2C%20et%20al.%20Randomized%20study%20of%20early%20hospital%20discharge%20following%20autologous%20blood%20SCT%3A%20medical%20outcomes%20and%20hospital%20costs.%20Bone%20Marrow%20Transplant.%202012%3B47%3A549%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Faucher%20C%2C%20Le%20Corroller%20Soriano%20AG%2C%20Esterni%20B%2C%20et%20al.%20Randomized%20study%20of%20early%20hospital%20discharge%20following%20autologous%20blood%20SCT%3A%20medical%20outcomes%20and%20hospital%20costs.%20Bone%20Marrow%20Transplant.%202012%3B47%3A549%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 6300017,
+          "page": 566,
+          "en": "Fernández Avilés F, Carreras E, Urbano-Ispizua A, et al. Case-control comparison of at home to total hospital care for autologous stem-cell transplantation for hematologic malignancies. J Clin Oncol. 2006;24:4855–61.",
+          "zh": "Fernández Avilés F, Carreras E, Urbano-Ispizua A, et al. Case-control comparison of at home to total hospital care for autologous stem-cell transplantation for hematologic malignancies. J Clin Oncol. 2006;24:4855–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fern%C3%A1ndez%20Avil%C3%A9s%20F%2C%20Carreras%20E%2C%20Urbano-Ispizua%20A%2C%20et%20al.%20Case-control%20comparison%20of%20at%20home%20to%20total%20hospital%20care%20for%20autologous%20stem-cell%20transplantation%20for%20hematologic%20malignancies.%20J%20Clin%20Oncol.%202006%3B24%3A4855%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fern%C3%A1ndez%20Avil%C3%A9s%20F%2C%20Carreras%20E%2C%20Urbano-Ispizua%20A%2C%20et%20al.%20Case-control%20comparison%20of%20at%20home%20to%20total%20hospital%20care%20for%20autologous%20stem-cell%20transplantation%20for%20hematologic%20malignancies.%20J%20Clin%20Oncol.%202006%3B24%3A4855%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 6300018,
+          "page": 566,
+          "en": "González MJ, Urizar E, Urtaran-Laresgoiti M, et al. Hospital and outpatient models for hematopoietic stem cell transplantation: a systematic review of comparative studies for health outcomes, experience of care and costs. PLoS One. 2021;16:e0254135.",
+          "zh": "González MJ, Urizar E, Urtaran-Laresgoiti M, et al. Hospital and outpatient models for hematopoietic stem cell transplantation: a systematic review of comparative studies for health outcomes, experience of care and costs. PLoS One. 2021;16:e0254135.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gonz%C3%A1lez%20MJ%2C%20Urizar%20E%2C%20Urtaran-Laresgoiti%20M%2C%20et%20al.%20Hospital%20and%20outpatient%20models%20for%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20systematic%20review%20of%20comparative%20studies%20for%20health%20outcomes%2C%20experience%20of%20care%20and%20costs.%20PLoS%20One.%202021%3B16%3Ae0254135."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez%20MJ%2C%20Urizar%20E%2C%20Urtaran-Laresgoiti%20M%2C%20et%20al.%20Hospital%20and%20outpatient%20models%20for%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20systematic%20review%20of%20comparative%20studies%20for%20health%20outcomes%2C%20experience%20of%20care%20and%20costs.%20PLoS%20One.%202021%3B16%3Ae0254135."
+            }
+          ]
+        },
+        {
+          "id": 6300019,
+          "page": 566,
+          "en": "González-Barrera S, Martín-Sánchez G, Parra-Jordán JJ, et al. Feasibility of a hospital-at-home program for autologous hematopoietic stem cell transplantation. Transplant Cell Ther. 2023;29:111.e1–7.",
+          "zh": "González-Barrera S, Martín-Sánchez G, Parra-Jordán JJ, et al. Feasibility of a hospital-at-home program for autologous hematopoietic stem cell transplantation. Transplant Cell Ther. 2023;29:111.e1–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gonz%C3%A1lez-Barrera%20S%2C%20Mart%C3%ADn-S%C3%A1nchez%20G%2C%20Parra-Jord%C3%A1n%20JJ%2C%20et%20al.%20Feasibility%20of%20a%20hospital-at-home%20program%20for%20autologous%20hematopoietic%20stem%20cell%20transplantation.%20Transplant%20Cell%20Ther.%202023%3B29%3A111.e1%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez-Barrera%20S%2C%20Mart%C3%ADn-S%C3%A1nchez%20G%2C%20Parra-Jord%C3%A1n%20JJ%2C%20et%20al.%20Feasibility%20of%20a%20hospital-at-home%20program%20for%20autologous%20hematopoietic%20stem%20cell%20transplantation.%20Transplant%20Cell%20Ther.%202023%3B29%3A111.e1%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6300020,
+          "page": 566,
+          "en": "Grosso D, Leiby B, Wilde L, et al. A prospective, randomized trial examining the use of G-CSF versus no G-CSF in patients post-autologous transplantation. Transplant Cell Ther. 2022;28:831.e1–7.",
+          "zh": "Grosso D, Leiby B, Wilde L, et al. A prospective, randomized trial examining the use of G-CSF versus no G-CSF in patients post-autologous transplantation. Transplant Cell Ther. 2022;28:831.e1–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Grosso%20D%2C%20Leiby%20B%2C%20Wilde%20L%2C%20et%20al.%20A%20prospective%2C%20randomized%20trial%20examining%20the%20use%20of%20G-CSF%20versus%20no%20G-CSF%20in%20patients%20post-autologous%20transplantation.%20Transplant%20Cell%20Ther.%202022%3B28%3A831.e1%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Grosso%20D%2C%20Leiby%20B%2C%20Wilde%20L%2C%20et%20al.%20A%20prospective%2C%20randomized%20trial%20examining%20the%20use%20of%20G-CSF%20versus%20no%20G-CSF%20in%20patients%20post-autologous%20transplantation.%20Transplant%20Cell%20Ther.%202022%3B28%3A831.e1%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 6300021,
+          "page": 566,
+          "en": "Jaime-Pérez JC, Hernández-Coronado M, Picón-Galindo E, et al. Results of a completely outpatient autologous stem cell transplant program for lymphoma patients receiving reduced-intensity conditioning. Leuk Lymphoma. 2021;62:1619–28.",
+          "zh": "Jaime-Pérez JC, Hernández-Coronado M, Picón-Galindo E, et al. Results of a completely outpatient autologous stem cell transplant program for lymphoma patients receiving reduced-intensity conditioning. Leuk Lymphoma. 2021;62:1619–28.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jaime-P%C3%A9rez%20JC%2C%20Hern%C3%A1ndez-Coronado%20M%2C%20Pic%C3%B3n-Galindo%20E%2C%20et%20al.%20Results%20of%20a%20completely%20outpatient%20autologous%20stem%20cell%20transplant%20program%20for%20lymphoma%20patients%20receiving%20reduced-intensity%20conditioning.%20Leuk%20Lymphoma.%202021%3B62%3A1619%E2%80%9328."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jaime-P%C3%A9rez%20JC%2C%20Hern%C3%A1ndez-Coronado%20M%2C%20Pic%C3%B3n-Galindo%20E%2C%20et%20al.%20Results%20of%20a%20completely%20outpatient%20autologous%20stem%20cell%20transplant%20program%20for%20lymphoma%20patients%20receiving%20reduced-intensity%20conditioning.%20Leuk%20Lymphoma.%202021%3B62%3A1619%E2%80%9328."
+            }
+          ]
+        },
+        {
+          "id": 6300022,
+          "page": 566,
+          "en": "Martino M, Ciavarella S, De Summa S, et al. A comparative assessment of quality of life in patients with multiple myeloma undergoing autologous stem cell transplantation through an outpatient and inpatient model. Biol Blood Marrow Transplant. 2017;24:608–13.",
+          "zh": "Martino M, Ciavarella S, De Summa S, et al. A comparative assessment of quality of life in patients with multiple myeloma undergoing autologous stem cell transplantation through an outpatient and inpatient model. Biol Blood Marrow Transplant. 2017;24:608–13.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Martino%20M%2C%20Ciavarella%20S%2C%20De%20Summa%20S%2C%20et%20al.%20A%20comparative%20assessment%20of%20quality%20of%20life%20in%20patients%20with%20multiple%20myeloma%20undergoing%20autologous%20stem%20cell%20transplantation%20through%20an%20outpatient%20and%20inpatient%20model.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B24%3A608%E2%80%9313."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Martino%20M%2C%20Ciavarella%20S%2C%20De%20Summa%20S%2C%20et%20al.%20A%20comparative%20assessment%20of%20quality%20of%20life%20in%20patients%20with%20multiple%20myeloma%20undergoing%20autologous%20stem%20cell%20transplantation%20through%20an%20outpatient%20and%20inpatient%20model.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B24%3A608%E2%80%9313."
+            }
+          ]
+        },
+        {
+          "id": 6300023,
+          "page": 566,
+          "en": "Martino M, Paviglianiti A, Memoli M, et al. Multiple myeloma outpatient transplant program in the era of novel agents: state-of-the-art. Front Oncol. 2020;10:592487.",
+          "zh": "Martino M, Paviglianiti A, Memoli M, et al. Multiple myeloma outpatient transplant program in the era of novel agents: state-of-the-art. Front Oncol. 2020;10:592487.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Martino%20M%2C%20Paviglianiti%20A%2C%20Memoli%20M%2C%20et%20al.%20Multiple%20myeloma%20outpatient%20transplant%20program%20in%20the%20era%20of%20novel%20agents%3A%20state-of-the-art.%20Front%20Oncol.%202020%3B10%3A592487."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Martino%20M%2C%20Paviglianiti%20A%2C%20Memoli%20M%2C%20et%20al.%20Multiple%20myeloma%20outpatient%20transplant%20program%20in%20the%20era%20of%20novel%20agents%3A%20state-of-the-art.%20Front%20Oncol.%202020%3B10%3A592487."
+            }
+          ]
+        },
+        {
+          "id": 6300024,
+          "page": 566,
+          "en": "Mossad S, Kalaycio M, Sobecks R, et al. Steroids prevent engraftment syndrome after autologous hematopoietic stem cell transplantation without increasing the risk of infection. Bone Marrow Transplant. 2005;35:375–81.",
+          "zh": "Mossad S, Kalaycio M, Sobecks R, et al. Steroids prevent engraftment syndrome after autologous hematopoietic stem cell transplantation without increasing the risk of infection. Bone Marrow Transplant. 2005;35:375–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mossad%20S%2C%20Kalaycio%20M%2C%20Sobecks%20R%2C%20et%20al.%20Steroids%20prevent%20engraftment%20syndrome%20after%20autologous%20hematopoietic%20stem%20cell%20transplantation%20without%20increasing%20the%20risk%20of%20infection.%20Bone%20Marrow%20Transplant.%202005%3B35%3A375%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mossad%20S%2C%20Kalaycio%20M%2C%20Sobecks%20R%2C%20et%20al.%20Steroids%20prevent%20engraftment%20syndrome%20after%20autologous%20hematopoietic%20stem%20cell%20transplantation%20without%20increasing%20the%20risk%20of%20infection.%20Bone%20Marrow%20Transplant.%202005%3B35%3A375%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 6300025,
+          "page": 566,
+          "en": "Passweg JR, Baldomero H, Chabannon C, et al. Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+          "zh": "Passweg JR, Baldomero H, Chabannon C, et al. Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Chabannon%20C%2C%20et%20al.%20Hematopoietic%20cell%20transplantation%20and%20cellular%20therapy%20survey%20of%20the%20EBMT%3A%20monitoring%20of%20activities%20and%20trends%20over%2030%20years.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1651%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 6300026,
+          "page": 566,
+          "en": "Rodríguez-Lobato LG, Martínez-Roca A, Castaño-Díez S, et al. The avoidance of G-CSF and the addition of prophylactic corticosteroids after autologous stem cell transplantation for multiple myeloma patients appeal for the at-home setting to reduce readmission for neutropenic fever. PLoS One. 2020a;15:e0241778.",
+          "zh": "Rodríguez-Lobato LG, Martínez-Roca A, Castaño-Díez S, et al. The avoidance of G-CSF and the addition of prophylactic corticosteroids after autologous stem cell transplantation for multiple myeloma patients appeal for the at-home setting to reduce readmission for neutropenic fever. PLoS One. 2020a;15:e0241778.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rodr%C3%ADguez-Lobato%20LG%2C%20Mart%C3%ADnez-Roca%20A%2C%20Casta%C3%B1o-D%C3%ADez%20S%2C%20et%20al.%20The%20avoidance%20of%20G-CSF%20and%20the%20addition%20of%20prophylactic%20corticosteroids%20after%20autologous%20stem%20cell%20transplantation%20for%20multiple%20myeloma%20patients%20appeal%20for%20the%20at-home%20setting%20to%20reduce%20readmission%20for%20neutropenic%20fever.%20PLoS%20One.%202020a%3B15%3Ae0241778."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rodr%C3%ADguez-Lobato%20LG%2C%20Mart%C3%ADnez-Roca%20A%2C%20Casta%C3%B1o-D%C3%ADez%20S%2C%20et%20al.%20The%20avoidance%20of%20G-CSF%20and%20the%20addition%20of%20prophylactic%20corticosteroids%20after%20autologous%20stem%20cell%20transplantation%20for%20multiple%20myeloma%20patients%20appeal%20for%20the%20at-home%20setting%20to%20reduce%20readmission%20for%20neutropenic%20fever.%20PLoS%20One.%202020a%3B15%3Ae0241778."
+            }
+          ]
+        },
+        {
+          "id": 6300027,
+          "page": 566,
+          "en": "Rodríguez-Lobato LG, Martínez-Roca A, Moreno DF, et al. Impact of intensifying primary antibiotic prophylaxis in at-home autologous stem cell transplantation program for lymphoma patients. Leuk Lymphoma. 2020b;61:1565–74.",
+          "zh": "Rodríguez-Lobato LG, Martínez-Roca A, Moreno DF, et al. Impact of intensifying primary antibiotic prophylaxis in at-home autologous stem cell transplantation program for lymphoma patients. Leuk Lymphoma. 2020b;61:1565–74.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rodr%C3%ADguez-Lobato%20LG%2C%20Mart%C3%ADnez-Roca%20A%2C%20Moreno%20DF%2C%20et%20al.%20Impact%20of%20intensifying%20primary%20antibiotic%20prophylaxis%20in%20at-home%20autologous%20stem%20cell%20transplantation%20program%20for%20lymphoma%20patients.%20Leuk%20Lymphoma.%202020b%3B61%3A1565%E2%80%9374."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rodr%C3%ADguez-Lobato%20LG%2C%20Mart%C3%ADnez-Roca%20A%2C%20Moreno%20DF%2C%20et%20al.%20Impact%20of%20intensifying%20primary%20antibiotic%20prophylaxis%20in%20at-home%20autologous%20stem%20cell%20transplantation%20program%20for%20lymphoma%20patients.%20Leuk%20Lymphoma.%202020b%3B61%3A1565%E2%80%9374."
+            }
+          ]
+        },
+        {
+          "id": 6300028,
+          "page": 566,
+          "en": "Scortechini I, Montanari M, Mancini G, et al. Conditioning regimen with BCNU, etoposide, cytarabine and melphalan plus amifostine for outpatient autologous stem cell transplant: feasibility and outcome in 97 patients with lymphoma. Leuk Lymphoma. 2014;55:1657–60.",
+          "zh": "Scortechini I, Montanari M, Mancini G, et al. Conditioning regimen with BCNU, etoposide, cytarabine and melphalan plus amifostine for outpatient autologous stem cell transplant: feasibility and outcome in 97 patients with lymphoma. Leuk Lymphoma. 2014;55:1657–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Scortechini%20I%2C%20Montanari%20M%2C%20Mancini%20G%2C%20et%20al.%20Conditioning%20regimen%20with%20BCNU%2C%20etoposide%2C%20cytarabine%20and%20melphalan%20plus%20amifostine%20for%20outpatient%20autologous%20stem%20cell%20transplant%3A%20feasibility%20and%20outcome%20in%2097%20patients%20with%20lymphoma.%20Leuk%20Lymphoma.%202014%3B55%3A1657%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Scortechini%20I%2C%20Montanari%20M%2C%20Mancini%20G%2C%20et%20al.%20Conditioning%20regimen%20with%20BCNU%2C%20etoposide%2C%20cytarabine%20and%20melphalan%20plus%20amifostine%20for%20outpatient%20autologous%20stem%20cell%20transplant%3A%20feasibility%20and%20outcome%20in%2097%20patients%20with%20lymphoma.%20Leuk%20Lymphoma.%202014%3B55%3A1657%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 6300029,
+          "page": 566,
+          "en": "Summers N, Dawe U, Stewart DA. A comparison of inpatient and outpatient ASCT. Bone Marrow Transplant. 2000;26:389–95.",
+          "zh": "Summers N, Dawe U, Stewart DA. A comparison of inpatient and outpatient ASCT. Bone Marrow Transplant. 2000;26:389–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Summers%20N%2C%20Dawe%20U%2C%20Stewart%20DA.%20A%20comparison%20of%20inpatient%20and%20outpatient%20ASCT.%20Bone%20Marrow%20Transplant.%202000%3B26%3A389%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Summers%20N%2C%20Dawe%20U%2C%20Stewart%20DA.%20A%20comparison%20of%20inpatient%20and%20outpatient%20ASCT.%20Bone%20Marrow%20Transplant.%202000%3B26%3A389%E2%80%9395."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 567,
+      "blocks": [
+        {
+          "id": 6300030,
+          "page": 567,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

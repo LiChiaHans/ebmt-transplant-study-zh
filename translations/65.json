@@ -1,0 +1,1108 @@
+{
+  "id": 65,
+  "title": "Haploidentical HCT",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 70,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 574,
+      "blocks": [
+        {
+          "id": 6500001,
+          "page": 574,
+          "en": "65 Haploidentical HCT\nAndrea Bacigalupo, Arjan Lankester, Fabio Ciceri, and Alice Bertaina",
+          "zh": "65 半相合造血細胞移植（Haploidentical HCT） — Andrea Bacigalupo、Arjan Lankester、Fabio Ciceri、Alice Bertaina",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_65"
+            }
+          ]
+        },
+        {
+          "id": 6500002,
+          "page": 574,
+          "en": "Abbreviations\nAML: Acute myeloid leukemia\nATG: Anti-thymocyte globulin\nBM: Bone marrow\nCNI: Calcineurin inhibitors\nCSA: Cyclosporine A\nDFS: Disease-free survival\nEBMT: European Group for Blood and Marrow Transplantation\nFK: Tacrolimus\nG-PB: G-CSF mobilized PB\nGvHD: Graft versus host disease\nHL: Hodgkin lymphoma\nHLA: Human leukocyte antigen\nHCT: Hemopoietic cell transplantation\nMMF: Mycophenolate\nMTX: Methotrexate\nPB: Peripheral blood\nPTCy: Post-transplant cyclophosphamide\nTCD: T-cell depletion\nTreg: Regulatory T cells\nTRM: Transplant-related mortality",
+          "zh": "縮寫對照表\nAML：急性骨髓性白血病（Acute myeloid leukemia）\nATG：抗胸腺細胞球蛋白（Anti-thymocyte globulin）\nBM：骨髓（Bone marrow）\nCNI：鈣調磷酸酶抑制劑（Calcineurin inhibitors）\nCSA：環孢素 A（Cyclosporine A）\nDFS：無疾病存活率（Disease-free survival）\nEBMT：歐洲血液與骨髓移植學會（European Group for Blood and Marrow Transplantation）\nFK：Tacrolimus（他克莫司）\nG-PB：經 G-CSF 動員之周邊血（G-CSF mobilized PB）\nGvHD：移植物抗宿主疾病（Graft versus host disease）\nHL：何杰金氏淋巴瘤（Hodgkin lymphoma）\nHLA：人類白血球抗原（Human leukocyte antigen）\nHCT：造血細胞移植（Hemopoietic cell transplantation）\nMMF：黴酚酸酯（Mycophenolate）\nMTX：Methotrexate（滅殺除癌／甲氨蝶呤）\nPB：周邊血（Peripheral blood）\nPTCy：移植後環磷醯胺（Post-transplant cyclophosphamide）\nTCD：T 細胞去除（T-cell depletion）\nTreg：調節性 T 細胞（Regulatory T cells）\nTRM：移植相關死亡率（Transplant-related mortality）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500003,
+          "page": 574,
+          "en": "65.1 Ex Vivo TCD Platforms\nThe physical removal of donor T cells from the graft has been pioneered on adult patients by the group of Perugia in the late 1990s (Aversa et al. 1998). The original concept was to prevent GvHD by infusing a high-dose CD34-enriched graft with a T cell content <1 × 10⁴/kg of recipient body weight.",
+          "zh": "65.1 體外 T 細胞去除（Ex Vivo TCD）平台\n以物理方式自移植物中移除供者 T 細胞的技術，是由義大利佩魯賈（Perugia）團隊於 1990 年代末期在成人患者中率先開創（Aversa et al. 1998）。最初的概念是透過輸注高劑量、富含 CD34 細胞且 T 細胞含量 <1 × 10⁴/kg（受者體重）的移植物，藉此預防 GvHD。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500004,
+          "page": 574,
+          "en": "65.1.1 Positive CD34 Selection\nThe first generation of ex vivo graft manipulation by antibody-based immunomagnetic methodology has been the positive selection of CD34+ cells using the CliniMACS® System. Using G-CSF ± Plerixafor mobilized PBSC, CD34+ selected grafts provide a megadose of stem cells (>10 × 10⁶/Kg) along with a negligible dose of T cells. (Aversa et al. 1998; Ciceri et al. 2008; Reisner et al. 2011). To ensure engraftment, the infusion of such a graft required the combination of fully myeloablative and immunoablative conditioning regimens including ATG, TBI, fludarabine, and thiotepa.",
+          "zh": "65.1.1 CD34 陽性篩選（Positive CD34 Selection）\n以抗體為基礎之免疫磁珠方法進行體外移植物處理的第一代技術，是使用 CliniMACS® 系統進行 CD34+ 細胞的陽性篩選。使用經 G-CSF ± Plerixafor 動員的周邊血幹細胞（PBSC），經 CD34+ 篩選的移植物可提供超高劑量（megadose）的幹細胞（原文排印為 >1010⁶/Kg，指 >10 × 10⁶/kg），同時僅含微量的 T 細胞（Aversa et al. 1998; Ciceri et al. 2008; Reisner et al. 2011）。為了確保植入，輸注此類移植物必須搭配完全骨髓清除（myeloablative）與免疫清除（immunoablative）的調理方案，包含 ATG、全身放射線照射（TBI）、fludarabine 以及 thiotepa。",
+          "review": "ai-draft",
+          "endPage": 575
+        },
+        {
+          "id": 6500005,
+          "page": 574,
+          "en": "A. Bacigalupo (*)\nIstituto di Ematologia, Fondazione Polclinico Universitario A. Gemelli IRCCS, Universita’ Cattolica del Sacro Cuore, Rome, Italy\ne-mail: andrea.bacigalupo@unicatt.it\nA. Lankester\nWillem-Alexander Children’s Hospital, Division of Immunology, Infectious Diseases, Hematology and Stem Cell Transplantation, Leiden University Medical Center, Leiden, The Netherlands\nF. Ciceri\nIRCCS San Raffaele Scientific Institute, University Vita-Salute San Raffaele, Milan, Italy\nA. Bertaina\nDivision of Hematology, Oncology, Stem Cell Transplantation and Regenerative Medicine, Department of Pediatrics, School of Medicine, Stanford University, Stanford, CA, USA\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_65",
+          "zh": "作者單位與聯絡資訊：\nA. Bacigalupo（通訊作者）：義大利羅馬天主教聖心大學 A. Gemelli 大學綜合醫院基金會 IRCCS 血液學研究所；電子郵件：andrea.bacigalupo@unicatt.it。\nA. Lankester：荷蘭萊頓大學醫學中心 Willem-Alexander 兒童醫院免疫、感染、血液暨幹細胞移植科。\nF. Ciceri：義大利米蘭 Vita-Salute San Raffaele 大學 IRCCS San Raffaele 科學研究所。\nA. Bertaina：美國加州史丹佛大學醫學院小兒部血液、腫瘤、幹細胞移植暨再生醫學科。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_65。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 575,
+      "blocks": [
+        {
+          "id": 6500006,
+          "page": 575,
+          "en": "Despite the application of such intensive immunoablative regimens, 10–15% of transplanted patients required a second HCT due to primary graft failure or rejection. While this approach was very effective to prevent GvHD, patients given these low dose T cell grafts, and especially when receiving serotherapy as part of conditioning, were typically characterized by substantially delayed immune reconstitution resulting in high incidence of life-threatening opportunistic infections and leukemia relapse (Reisner et al. 2011; Perruccio et al. 2005; Ciceri et al. 2008). Therefore, adoptive cellular therapies were developed to enhance T cell immune reconstitution without concomitant risk for GvHD (Perruccio et al. 2005; Di Ianni et al. 2011; Ciceri et al. 2009). Donor T cells genetically modified to express HSV-thymidine kinase suicide gene (Zalmoxis®) have been registered by the European Medicines Agency as adjunctive therapeutic tool post haploidentical HCT. In the pediatric population, virus-specific T cells have shown promise (Leen et al. 2009; Feucht et al. 2015).",
+          "zh": "儘管使用了如此高強度的免疫清除方案，仍有 10–15% 的移植患者因原發性植入失敗（primary graft failure）或排斥而需要接受第二次 HCT。雖然此方法對於預防 GvHD 非常有效，但接受這類低劑量 T 細胞移植物的患者（特別是在調理方案中接受血清療法〔serotherapy〕者），典型特徵為免疫重建顯著延遲，進而導致高發生率的危及生命伺機性感染與白血病復發（Reisner et al. 2011; Perruccio et al. 2005; Ciceri et al. 2008）。因此，學界開發了過繼性細胞療法（adoptive cellular therapies），在不伴隨 GvHD 風險的前提下促進 T 細胞免疫重建（Perruccio et al. 2005; Di Ianni et al. 2011; Ciceri et al. 2009）。經基因改造以表現單純疱疹病毒胸苷激酶（HSV-thymidine kinase）自殺基因的供者 T 細胞（Zalmoxis®），曾獲歐洲藥品管理局（EMA）核准登記作為半相合 HCT 後的輔助治療工具。在兒科族群中，病毒特異性 T 細胞（virus-specific T cells）亦展現出良好前景（Leen et al. 2009; Feucht et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500007,
+          "page": 575,
+          "en": "65.1.2 CD3/CD19 Negative Selection\nTo overcome some of the shortcomings of the CD34+ selection method, a second generation of ex vivo graft manipulation was developed using CD3/CD19 depletion by the same CliniMACS system. This approach keeps stem and progenitor cells untouched while retaining immune effector cells, in the cellular product (Bethge et al. 2006; Federmann et al. 2011, 2012). Compared to CD34+ positive selection, the CD3/CD19 depletion approach seems associated with more favorable CD4 T cell reconstitution, while the difference for other immune and clinical outcome parameters is less evident (Salzmann-Manrique et al. 2018).",
+          "zh": "65.1.2 CD3/CD19 陰性篩選（CD3/CD19 Negative Selection）\n為了克服 CD34+ 篩選法的部分缺點，學界利用相同的 CliniMACS 系統開發出使用 CD3/CD19 去除法的第二代體外移植物處理技術。此方法使幹細胞與祖細胞保持未受觸碰的狀態，同時在細胞產物中保留了免疫效應細胞（Bethge et al. 2006; Federmann et al. 2011, 2012）。相較於 CD34+ 陽性篩選，CD3/CD19 去除法似乎與較佳的 CD4 T 細胞重建相關，而在其他免疫與臨床結果參數上的差異則較不明顯（Salzmann-Manrique et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500008,
+          "page": 575,
+          "en": "65.1.3 TCRα/β and CD19 Depletion\nTo more selectively remove the GvHD causing T cells from the graft, CD3 depletion was replaced by depletion of TCRα/β expressing T cells with the aim to reduce the risk for GvHD while maintaining the potentially beneficial anti-leukemic and anti-pathogen gamma-delta T cells and NK cells in the graft (Li Pira et al. 2016). In the last decade, this method has been proven to be associated with positive outcomes in pediatric and adult patients with malignant as well as non-malignant diseases, including low rates of TRM, low rates of relapse, fast neutrophil and platelet recovery, and improved chronic GvHD-free/relapse-free survival, compared to unmanipulated mismatched unrelated HCT. These results indicate that the TCRα/β depletion approach can be considered an effective and safe option for patients who require a stem cell transplant but lack a fully matched donor (Bertaina et al. 2014; Locatelli et al. 2013; Lum et al. 2022; Merli et al. 2022; Tsilifis et al. 2022). Despite these advances, delayed reconstitution of TCRα/β T cells remains an issue and is associated with a high rate of viral reactivations (~50%) in the first 2–3 months. To overcome this window of immune deficiency, several adoptive GvHD-sparing cellular therapy approaches have been and are being explored in clinical trials including virus-specific T cells, suicide gene-modified DLI, T cell progenitors, and memory T cell infusions (Sect. 65.1.5).",
+          "zh": "65.1.3 TCRα/β 與 CD19 去除法（TCRα/β and CD19 Depletion）\n為了更具選擇性地從移植物中移除引起 GvHD 的 T 細胞，學界以去除表現 TCRα/β 的 T 細胞取代了 CD3 去除法，目的是在降低 GvHD 風險的同時，在移植物中保留具有潛在抗白血病與抗病原體益處的 γδ（gamma-delta）T 細胞及自然殺手（NK）細胞（Li Pira et al. 2016）。在過去十年間，此方法已被證實在罹患惡性與非惡性疾病的兒童及成人患者中皆與正向結果相關，與未經處理的不相合非親屬 HCT 相比，其具有低 TRM 率、低復發率、快速的嗜中性球與血小板恢復，以及改善的無慢性 GvHD／無復發存活率（GRFS）。這些結果顯示，對於需要幹細胞移植但缺乏完全相合供者的患者而言，TCRα/β 去除法可視為一種有效且安全的選擇（Bertaina et al. 2014; Locatelli et al. 2013; Lum et al. 2022; Merli et al. 2022; Tsilifis et al. 2022）。儘管有這些進展，TCRα/β T 細胞的延遲重建仍是一項問題，並與移植後最初 2–3 個月內的高病毒再活化率（約 50%）相關。為了克服這段免疫缺陷空窗期，多項避免引發 GvHD 的過繼性細胞治療策略已經或正在臨床試驗中進行探索，包括病毒特異性 T 細胞、自殺基因修飾之供者淋巴球輸注（DLI）、T 細胞前驅細胞以及記憶 T 細胞輸注（見第 65.1.5 節）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500009,
+          "page": 575,
+          "en": "65.1.4 Co-Infusion of Regulatory T Cells\nThe Perugia group as well as others recently implemented a new variation of ex vivo TCD, which includes the co-infusion of regulatory T cells, followed by mature T cells (Pierini et al. 2021): preferential migration of regulatory T cells to the lymph nodes, but not the bone marrow, prevents GvHD (in the lymph nodes) and allows, at the same time, a strong graft versus leukemia (in the bone marrow). The result is an extremely low incidence of leukemia relapse (Pierini et al. 2021).",
+          "zh": "65.1.4 共同輸注調節性 T 細胞（Co-Infusion of Regulatory T Cells）\n佩魯賈（Perugia）團隊及其他研究者近期實施了一種體外 TCD 的新變體，其內容包括共同輸注調節性 T 細胞（Tregs），隨後再輸注成熟效應 T 細胞（Pierini et al. 2021）：調節性 T 細胞會優先遷移至淋巴結而非骨髓，藉此在淋巴結中預防 GvHD，同時在骨髓中允許強大的移植物抗白血病效應（GvL）。其結果是白血病復發的發生率極低（Pierini et al. 2021）。",
+          "review": "ai-draft",
+          "endPage": 576
+        }
+      ]
+    },
+    {
+      "page": 576,
+      "blocks": [
+        {
+          "id": 6500010,
+          "page": 576,
+          "en": "65.1.5 CD45RA+ Depletion\nMouse models have demonstrated the capacity of naïve T cells (CD45RA+) to cause severe GvHD, whereas memory T cells (CD45RA-RO+) induced mild or no GvHD (Anderson et al. 2003). In the last decade, few groups have implemented the use of CD45RA+ depletion targeting naïve T cells to reduce the risk of GvHD in mismatched HCST (Triplett et al. 2018; Gasior Kabat et al. 2021; Maschan et al. 2017).",
+          "zh": "65.1.5 CD45RA+ 去除法（CD45RA+ Depletion）\n小鼠模型已證實初始 T 細胞（naïve T cells，CD45RA+）具有引起嚴重 GvHD 的能力，而記憶 T 細胞（memory T cells，CD45RA−RO+）則僅誘發輕微 GvHD 或不引發 GvHD（Anderson et al. 2003）。在過去十年間，少數團隊已實施針對初始 T 細胞的 CD45RA+ 去除法，以降低不相合造血幹細胞移植中的 GvHD 風險（Triplett et al. 2018; Gasior Kabat et al. 2021; Maschan et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500011,
+          "page": 576,
+          "en": "65.2 Unmanipulated Haploidentical HCT\nThe number of unmanipulated HLA haploidentical transplants has been rapidly increasing over the past 15 years (Passweg et al. 2012), due to the successful prevention of two major problems: lethal GvHD and graft rejection. There are currently three main platforms to perform unmanipulated haplo-HCT:\nATG based → together with CSA, MMF, and MTX (Lu et al. 2006),\nPTCy based → together with FK/CSA, MMF (Luznik et al. 2008), and\nATG + PTCy → together with other in vivo immunosuppressants (DeZern et al. 2017; Duléry et al. 2018)",
+          "zh": "65.2 未經體外處理之半相合造血細胞移植（Unmanipulated Haploidentical HCT）\n在過去 15 年間，未經體外處理之 HLA 半相合移植數量急速增加（Passweg et al. 2012），這歸功於成功預防了兩大主要問題：致死性 GvHD 與移植物排斥。目前執行未經處理之半相合 HCT 主要有三大平台：\n• 以 ATG 為基礎（ATG based）→ 併用 CSA、MMF 與 MTX（Lu et al. 2006）；\n• 以 PTCy 為基礎（PTCy based）→ 併用 FK/CSA 與 MMF（Luznik et al. 2008）；以及\n• ATG + PTCy → 併用其他體內免疫抑制劑（DeZern et al. 2017; Duléry et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500012,
+          "page": 576,
+          "en": "65.2.1 Anti-Thymocyte Globulin (ATG) Based\nFollowing the pioneering work of Dao Pei Lu (Lu et al. 2006), the ATG-based prophylaxis has been shown to allow significant engraftment and control of GvHD, in recipients of haplo-HCT, such that the outcome is comparable with recipients of HLA-matched grafts (Wang et al. 2013).\nThe Beijing protocol consists of a myeloablative conditioning regimen (ARA-C, BU 4 days and CY 2 days), together with rabbit ATG 2.5 mg/kg/day (Fig. 65.1). GvHD prophylaxis is based on 4 drugs (ATG, CSA, MTX, MMF) (Fig. 65.1). The stem cell source is a combination of G-CSF (G)-mobilized bone marrow (G-BM) and G-mobilized PB. A modification of the Beijing protocol has used unmanipulated G-BM alone (Ji et al. 2005) and included intensive GvHD prophylaxis with ATG, CSA, MTX, and MMF with the addition of basiliximab, an anti-CD25 antibody. The same GvHD prophylaxis has been reported by an Italian consortium (Di Bartolomeo et al. 2010), with a different conditioning regimen (thiotepa, busulfan, fludarabine) (TBF), originally described by Sanz and coworkers for cord blood transplants (Sanz et al. 2012).",
+          "zh": "65.2.1 以抗胸腺細胞球蛋白（ATG）為基礎之平台\n繼陸道培（Dao Pei Lu）的開創性研究之後（Lu et al. 2006），以 ATG 為基礎的預防方案已被證實能在半相合 HCT 受者中達成顯著的植入與 GvHD 控制，使治療結果可與接受 HLA 相合移植物的受者相媲美（Wang et al. 2013）。\n北京方案（Beijing protocol）包含骨髓清除性調理方案（ARA-C、BU 4 天與 CY 2 天），並搭配兔源 ATG 2.5 mg/kg/day（圖 65.1）。GvHD 預防係以 4 種藥物為基礎（ATG、CSA、MTX、MMF）（圖 65.1）。幹細胞來源為經 G-CSF（G）動員之骨髓（G-BM）與經 G-CSF 動員之周邊血（G-PB）的組合。北京方案的一種改良版僅單獨使用未經處理的 G-BM（Ji et al. 2005），並包含以 ATG、CSA、MTX 與 MMF 加上抗 CD25 抗體 basiliximab 的強化 GvHD 預防。義大利研究聯盟亦報導了相同的 GvHD 預防方案（Di Bartolomeo et al. 2010），但搭配不同的調理方案（thiotepa、busulfan、fludarabine，簡稱 TBF），該方案最初是由 Sanz 及其同事針對臍帶血移植所描述（Sanz et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500013,
+          "page": 576,
+          "en": "65.2.2 Post-transplant Cyclophosphamide (PT-Cy) Based\nThe use of PT-Cy on day +3 and +4 after an unmanipulated haplo-HCT has been pioneered by the Baltimore group (Fig. 65.2). It is based on the combination of FLU Cy and low dose TBI (2 Gy), followed by unmanipulated haplo BM; GvHD prophylaxis consists of high-dose CY on day +3 +4 (50 mg/kg) combined with a CNI and MMF (Fig. 65.2).\nIt is based on the idea that high-dose Cy (50 mg/kg) will kill alloreactive T cells proliferating on day +3 and +4 after the transplant, whereas stem cells would be protected because they are not proliferating and with a high concentration of aldehyde dehydrogenase. In 2008, the Baltimore group published their first clinical study and showed that PT-Cy was able to protect patients from GvHD after haplo-HCT (Luznik et al. 2008). Not only GvHD could be prevented, but GvL seemed superior, at least in patients with HL.",
+          "zh": "65.2.2 以移植後環磷醯胺（PT-Cy）為基礎之平台\n在未經處理的半相合 HCT 後於第 +3 天與第 +4 天使用 PT-Cy 的方法，是由巴爾的摩（Baltimore）團隊所開創（圖 65.2）。其基礎為結合 FLU、Cy 與低劑量 TBI（2 Gy），隨後輸注未經處理的半相合骨髓（BM）；GvHD 預防則由第 +3、+4 天的高劑量 CY（50 mg/kg）結合一種 CNI 與 MMF 所組成（圖 65.2）。\n此方法的理論基礎在於：高劑量 Cy（50 mg/kg）會殺死在移植後第 +3 天與第 +4 天正在增殖的異體反應性（alloreactive）T 細胞，而造血幹細胞則因為未處於增殖狀態且具有高濃度的乙醛脫氫酶（aldehyde dehydrogenase, ALDH）而受到保護。2008 年，巴爾的摩團隊發表了他們的第一項臨床研究，證實 PT-Cy 能在半相合 HCT 後保護患者免於發生 GvHD（Luznik et al. 2008）。不僅 GvHD 得以預防，至少在何杰金氏淋巴瘤（HL）患者中，其 GvL 效應似乎更為優異。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500014,
+          "page": 576,
+          "en": "There have been numerous variations of the Baltimore protocol, with use of G-PB instead of BM (Bashey et al. 2017), rapamycin, instead of a CNI (Cieri et al. 2015), the use of a MAC regimen instead of the NMA regimen of Baltimore (Raiola et al. 2013; Bashey et al. 2017), suggesting a certain degree of flexibility of PTCy-based platforms. Engraftment is achieved in over 95% of patients, and there is good control of acute and chronic GvHD.",
+          "zh": "巴爾的摩方案已有許多改良變體，包括使用 G-PB 取代 BM（Bashey et al. 2017）、使用 rapamycin（sirolimus）取代 CNI（Cieri et al. 2015），以及使用 MAC 方案取代巴爾的摩的 NMA 方案（Raiola et al. 2013; Bashey et al. 2017），顯示以 PTCy 為基礎的平台具有相當程度的靈活性。超過 95% 的患者可達成植入，且對急性與慢性 GvHD 皆有良好的控制。",
+          "review": "ai-draft",
+          "endPage": 577
+        }
+      ]
+    },
+    {
+      "page": 577,
+      "blocks": [
+        {
+          "id": 6500015,
+          "page": 577,
+          "en": "Fig. 65.1 The Beijing protocol, first published in 2006 (Lu et al. 2006), used for patients with hematologic malignancies\n[Figure labels: BEIJING protocol for HAPLO | GRAFT BM+PB at day 0 | Conditioning: ARA (Cytosine ARA: 4 gr/m² on d -9), BU (busulfan 3.2 mg/kg i.v. on d -8, -7, -6), CY (Cyclophosphamide 60 mg/kg on d -5, -4), ATG (Rabbit ATG 2.5 mg/kg on d -5, -4, -3, -2) | GvHD prophylaxis: CsA (Cyclosporin 2.5 mg/kg/day starting d -1), MMF (Mycophenolate 30 mg/kg starting d -1), MTX (Methotrexate 10 mg/m² on d +1, +3, +6, +11)]",
+          "zh": "圖 65.1 北京方案（Beijing protocol），最初發表於 2006 年（Lu et al. 2006），用於血液惡性疾病患者。\n【圖內時程與劑量標籤：半相合北京方案｜第 0 天輸注移植物（GRAFT：BM+PB）｜調理方案：第 −9 天給予 ARA（Cytosine arabinoside 4 g/m²）；第 −8、−7、−6 天給予 BU（busulfan 3.2 mg/kg IV）；第 −5、−4 天給予 CY（cyclophosphamide 60 mg/kg）；第 −5、−4、−3、−2 天給予 ATG（兔源 ATG 2.5 mg/kg）｜GvHD 預防：自第 −1 天起持續給予 CsA（cyclosporin 2.5 mg/kg/day）與 MMF（mycophenolate 30 mg/kg）；於第 +1、+3、+6、+11 天給予 MTX（methotrexate 10 mg/m²）】",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500016,
+          "page": 577,
+          "en": "Fig. 65.2 The Baltimore protocol with high-dose Cy post-transplant on days +3 +4\n[Figure labels: Baltimore protocol for HAPLO | BMT at day 0 | Conditioning: CY (Cyclophosphamide 14.5 mg/kg on day -6, -5), Flu (Fludarabine 30 mg/m² on day -6, -5, -4, -3, -2), TBI (Total Body Irradiation 2 Gy on day -1) | Post-transplant: CY (Cyclophosphamide 50 mg/kg on day +3, +4), followed by CNI (Calcineurin inhibitor: Cyclosporin or Tacrolimus starting day +5) and MMF (Mycophenolate 30 mg/kg starting day +5)]",
+          "zh": "圖 65.2 於移植後第 +3、+4 天給予高劑量 Cy 的巴爾的摩方案（Baltimore protocol）。\n【圖內時程與劑量標籤：半相合巴爾的摩方案｜第 0 天進行骨髓移植（BMT）｜調理方案：第 −6、−5 天給予 CY（cyclophosphamide 14.5 mg/kg）；第 −6、−5、−4、−3、−2 天給予 Flu（fludarabine 30 mg/m²）；第 −1 天給予 TBI（全身放射線照射 2 Gy）｜移植後預防：第 +3、+4 天給予高劑量 CY（cyclophosphamide 50 mg/kg）；自第 +5 天起開始給予 CNI（鈣調磷酸酶抑制劑：cyclosporin 或 tacrolimus）與 MMF（mycophenolate 30 mg/kg）】",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 578,
+      "blocks": [
+        {
+          "id": 6500017,
+          "page": 578,
+          "en": "PTCy dose and timing. There are several open questions: the first is whether the dose of 50 mg/kg × 2 can be modified. The question is relevant since cardiac toxicity of PTCy 50 mg/kg × 2 has been reported (Duléry et al. 2021), with clinical consequences such as atrial fibrillation, heart failure, and death. A reduced dose of 40 mg/kg × 2 (Sugita et al. 2021) as well as 25 mg/kg × 2 (McAdams et al. 2021) has been reported as effective. It would be clearly very important to assess the minimal effective dose of PTCy, in order to reduce cardiac toxicity, accelerate neutrophil recovery, and maintain protection against GvHD. Another open question is the timing of PTCy. The Baltimore protocol calls for PTCy on days +3 +4 with CNI and MMF starting after PTCy (Fig. 65.2). One center has introduced a different timing with PT-Cy on days +3 and +5, together with CSA and MMF starting before PT-Cy (Raiola et al. 2013); the feasibility and effectiveness of this timing have been confirmed (Chiusolo et al. 2018). The EBMT has compared the two different options for PTCy: day +3 +4 vs. day +3 +5, in patients with AML (Ruggeri et al. 2020): patients receiving PTCy day +3 +5, had reduced incidence of relapse and improved DFS. It should be said that this regimen is safe when using BM as a stem cell source, with acute GvHD III–IV rates of 3%; however, it is not known what the outcome would be with PB as a stem cell source, since CSA will protect some T cells from PT-Cy purging, and these may produce a beneficial GvL effect but also cause detrimental GvHD.",
+          "zh": "PTCy 的劑量與給藥時機：目前仍有數項未解問題。第一項問題是 50 mg/kg × 2 的劑量是否可以調整。這個問題之所以重要，是因為 PTCy 50 mg/kg × 2 的心臟毒性已被報導（Duléry et al. 2021），其臨床後果包括心房顫動、心臟衰竭與死亡。研究已報導降低劑量至 40 mg/kg × 2（Sugita et al. 2021）以及 25 mg/kg × 2（McAdams et al. 2021）仍具療效。評估 PTCy 的最低有效劑量顯然至關重要，藉此減少心臟毒性、加速嗜中性球恢復，並維持對抗 GvHD 的保護力。另一項未解問題是 PTCy 的給藥時機。巴爾的摩方案要求在第 +3、+4 天給予 PTCy，並在 PTCy 結束後才開始給予 CNI 與 MMF（圖 65.2）。有一個中心則導入了不同的時程：在第 +3 天與第 +5 天給予 PT-Cy，同時在 PT-Cy 之前就開始給予 CSA 與 MMF（Raiola et al. 2013）；此時程的可行性與有效性已獲得證實（Chiusolo et al. 2018）。EBMT 曾針對 AML 患者比較 PTCy 的這兩種不同選項：第 +3、+4 天對比第 +3、+5 天（Ruggeri et al. 2020）：接受第 +3、+5 天 PTCy 的患者具有較低的復發發生率及較佳的 DFS。必須說明的是，當使用 BM 作為幹細胞來源時，此方案是安全的，第 III–IV 級急性 GvHD 發生率僅為 3%；然而，若使用 PB 作為幹細胞來源時結果如何則尚不清楚，因為提前給予的 CSA 會保護部分 T 細胞免受 PT-Cy 的清除（purging），而這些留存的 T 細胞雖然可能產生有益的 GvL 效應，但也可能引發有害的 GvHD。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500018,
+          "page": 578,
+          "en": "65.2.3 ATG + PT-Cy\nSome centers are combining the two basic platforms (PT-Cy and ATG), and early results seem promising. The Baltimore group is using this combination for patients with aplastic anemia, in the attempt of avoiding GvHD completely (DeZern et al. 2017, 2020) (Fig. 65.3). The difference here is adding ATG before the conditioning regimen on days -9-8-7, and combining with PTCy, CNI, and MMF (4 drug GvHD prophylaxis). Also, the group in Saint-Antoine, Paris, is using a combination of ATG 2.5 mg/kg and PT-Cy, CSA, and MMF for patients with acute leukemia undergoing a MAC haplo-HCT (Duléry et al. 2018).",
+          "zh": "65.2.3 ATG + PT-Cy 聯合平台\n部分中心正將這兩種基本平台（PT-Cy 與 ATG）結合使用，初步結果看來相當具前景。巴爾的摩團隊正將此組合用於再生不良性貧血（aplastic anemia）患者，試圖完全避免 GvHD（DeZern et al. 2017, 2020）（圖 65.3）。此處的差異在於調理方案之前的第 −9、−8、−7 天加上 ATG，並與 PTCy、CNI 及 MMF 結合（四藥 GvHD 預防方案）。此外，巴黎聖安東尼（Saint-Antoine）團隊亦針對接受 MAC 半相合 HCT 的急性白血病患者，使用 ATG 2.5 mg/kg 結合 PT-Cy、CSA 與 MMF 的方案（Duléry et al. 2018）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500019,
+          "page": 578,
+          "en": "Fig. 65.3 4 drug GvHD prophylaxis (ATG, PTCY, CNI and MMF) for haplo transplants in SAA (De Zern et al 2020). TBI has recently been increased to 4 Gy\n[Figure labels: De Zern Protocol for HAPLO in SAA | BMT at day 0 | Conditioning: ATG (Rabbit ATG 0.5-2-2 mg/kg on d -9, -8, -7), CY (Cyclophosphamide 14.5 mg/kg on d -6, -5), Flu (Fludarabine 30 mg/m² on d -6, -5, -4, -3, -2), TBI (Total Body Irradiation 2 Gy on d -1; recently increased to 4 Gy) | Post-transplant: CY (Cyclophosphamide 50 mg/kg on d +3, +4), CNI (Cyclosporin or Tacrolimus starting d +5), MMF (Mycophenolate 30 mg/kg starting d +5)]",
+          "zh": "圖 65.3 用於嚴重再生不良性貧血（SAA）半相合移植的四藥 GvHD 預防方案（ATG、PTCy、CNI 與 MMF）（DeZern et al. 2020）。近期針對未曾接受治療或高風險者，TBI 劑量已調升至 4 Gy。\n【圖內時程與劑量標籤：SAA 半相合之 DeZern 方案｜第 0 天進行骨髓移植（BMT）｜調理方案：第 −9、−8、−7 天給予兔源 ATG（分別為 0.5、2、2 mg/kg）；第 −6、−5 天給予 CY（cyclophosphamide 14.5 mg/kg）；第 −6、−5、−4、−3、−2 天給予 Flu（fludarabine 30 mg/m²）；第 −1 天給予 TBI（全身放射線照射 2 Gy，近期已調升至 4 Gy）｜移植後預防：第 +3、+4 天給予 CY（cyclophosphamide 50 mg/kg）；第 +5 天起開始給予 CNI（cyclosporin 或 tacrolimus）與 MMF（mycophenolate 30 mg/kg）】",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 579,
+      "blocks": [
+        {
+          "id": 6500020,
+          "page": 579,
+          "en": "65.3 Other Relevant Aspects of Haplo-HCT\n65.3.1 Choice of the Best Haploidentical Donor\nThe EBMT ALWP has established younger donor age and kinship, as a major determinant of outcome for leukemia patients grafted from haploidentical donor (Canaani et al. 2018). The Beijing group has confirmed younger age to be relevant, using their ATG-based platform together with a mismatch for non-inherited maternal antigen (NIMA) (Wang et al. 2014). One report has suggested that NK alloreactivity, together with HLA-DP disparity might identify an optimal haplo donor (Solomon et al. 2018). Other reports have denied an effect of increasing HLA disparity on major outcomes (Wang et al. 2014). There is currently no solid data to choose a haploidentical donor based on HLA disparities.",
+          "zh": "65.3 半相合 HCT 的其他相關層面\n65.3.1 最佳半相合供者的選擇\nEBMT 急性白血病工作小組（ALWP）已確立較年輕的供者年齡與親屬關係，是接受半相合供者移植之白血病患者預後的主要決定因子（Canaani et al. 2018）。北京團隊使用其以 ATG 為基礎的平台，同樣證實較年輕的供者年齡以及非遺傳母系抗原（non-inherited maternal antigen, NIMA）不相合具有臨床相關性（Wang et al. 2014）。有一篇報告指出，結合 NK 細胞異體反應性（alloreactivity）與 HLA-DP 不相合，或可辨識出最佳的半相合供者（Solomon et al. 2018）。其他報告則否定 HLA 不相合位點數目增加對主要預後有影響（Wang et al. 2014）。目前尚無堅實的數據支持根據 HLA 不相合程度來挑選半相合供者。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500021,
+          "page": 579,
+          "en": "65.3.2 Comparison of ATG-Based Versus PT-Cy-Based Platforms\nThe EBMT Acute Leukemia Working Party has compared these two platforms (Ruggeri et al. 2017). In a Cox analysis, ATG-based haplo grafts had a higher risk of failure, in terms of LFS (RR 1.48, p = 0.03), GvHD relapse-free survival (RR 1.45, p = 0.03), and OS (HR 1.43, p = 0.06): there was for all end points a very strong center effect (p < 0.001), suggesting that a learning curve is required for optimal results in haplo-HCT.",
+          "zh": "65.3.2 以 ATG 為基礎對比以 PT-Cy 為基礎之平台的比較\nEBMT 急性白血病工作小組曾對這兩種平台進行比較（Ruggeri et al. 2017）。在 Cox 迴歸分析中，以 ATG 為基礎的半相合移植在無白血病存活率（LFS，相對風險 RR 1.48, p = 0.03）、無 GvHD 無復發存活率（GRFS，RR 1.45, p = 0.03）以及總存活率（OS，風險比 HR 1.43, p = 0.06）方面皆有較高的失敗風險；此外，在所有評估終點上皆存在非常強烈的中心效應（center effect，p < 0.001），顯示在半相合 HCT 中需要經過學習曲線（learning curve）才能獲得最佳結果。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500022,
+          "page": 579,
+          "en": "65.3.3 Bone Marrow or Peripheral Blood\nThere are two large registry-based studies comparing BM versus PB for unmanipulated haplo-HCT: the EBMT study (Ruggeri et al. 2018) shows increased GvHD II–IV and III–IV with PB, same chronic GvHD, same relapse, and same 2-year OS (55% and 56%). The CIBMTR shows increased GvHD II–IV, but not III–IV with PB grafts, increased chronic GvHD, and reduced relapse (Bashey et al. 2017): survival at 2 years also in this study is quite similar, 54% vs. 57%. So, it seems that one can use both stem cell sources, with some difference in the short term (more GvHD with PB) and perhaps some differences in the long term (cGvHD and relapse): at the end survival seems comparable.",
+          "zh": "65.3.3 骨髓（BM）或周邊血（PB）\n有兩項大型登錄資料庫研究針對未經處理之半相合 HCT 比較了 BM 與 PB：EBMT 的研究（Ruggeri et al. 2018）顯示，使用 PB 時第 II–IV 級與第 III–IV 級急性 GvHD 增加，而慢性 GvHD、復發率以及 2 年 OS（55% 與 56%）則相同。CIBMTR 的研究則顯示，使用 PB 移植物時第 II–IV 級急性 GvHD 增加（但第 III–IV 級未增加）、慢性 GvHD 增加，且復發率降低（Bashey et al. 2017）；該研究中的 2 年存活率亦相當接近（54% 對 57%）。因此，這兩種幹細胞來源似乎皆可使用，短期內存在一些差異（使用 PB 的 GvHD 較多），長期而言亦可能有些許差異（cGvHD 與復發率），但最終的整體存活率看來相當。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 6500023,
+          "page": 579,
+          "en": "Key Points\n• Following the pioneering work of the Perugia group, HLA-haplotype mismatch family transplants using ex vivo T cell depletion is evolving, with the use of T cell subpopulations and the use of Treg Tcon.\n• Unmanipulated haplo-HCT is rapidly increasing in numbers, worldwide, due to the introduction of post-transplant cyclophosphamide (PTCy).\n• There are two platforms for unmanipulated haplo-HCT: ATG based or PTCy based.\n• ATG can be combined with PTCy, CSA, and MMF, to further reduce GvHD: this is being tested especially in non-malignant disorders.\n• One important question is how haplo-HCT compare with unrelated donor grafts, and to answer this question, randomized trials have been designed and are about to start.\n• One should consider that HLA-haplotype mismatch transplants remain an alternative donor procedure and should be regarded as such complications, including blood stream infections, invasive fungal disease, viral infections, GvHD, and toxicity may occur with significant frequency and expose the patients to the risk of TRM. For this reason, HLA-haplotype mismatch grafts, whether TCD or unmanipulated, should be performed in centers with expertise in MUD or CB HCT and should follow clinical protocols.",
+          "zh": "章末重點（Key Points）\n• 繼佩魯賈（Perugia）團隊的開創性工作之後，使用體外 T 細胞去除（ex vivo TCD）的 HLA 單倍型不相合家族移植正持續演進，包括運用特定的 T 細胞亞群以及結合調節性 T 細胞與傳統 T 細胞（Treg/Tcon）。\n• 由於移植後環磷醯胺（PTCy）的引進，全球未經體外處理之半相合 HCT 數量正急速增加。\n• 未經處理之半相合 HCT 主要有兩大基本平台：以 ATG 為基礎或以 PTCy 為基礎。\n• ATG 可與 PTCy、CSA 及 MMF 併用，以進一步降低 GvHD：此策略目前特別在非惡性疾病中進行測試。\n• 一項重要問題是半相合 HCT 與非親屬供者移植物相比結果如何；為了回答此問題，相關隨機對照試驗已設計完成並即將展開。\n• 臨床上應考量 HLA 單倍型不相合移植仍屬於替代供者（alternative donor）程序，且應如此看待：包括血流感染、侵襲性黴菌疾病、病毒感染、GvHD 及器官毒性等併發症仍可能以顯著頻率發生，使患者面臨 TRM 的風險。因此，HLA 單倍型不相合移植（無論是 TCD 或未經處理）均應在具備 MUD 或臍帶血（CB）HCT 專業經驗的中心執行，並應遵循標準臨床計畫書。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 580,
+      "blocks": [
+        {
+          "id": 6500024,
+          "page": 580,
+          "en": "Anderson BE, McNiff J, Yan J, et al. Memory CD4+ T cells do not induce graft-versus-host disease. J Clin Invest. 2003;112(1):101–8.",
+          "zh": "Anderson BE, McNiff J, Yan J, et al. Memory CD4+ T cells do not induce graft-versus-host disease. J Clin Invest. 2003;112(1):101–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Anderson%20BE%2C%20McNiff%20J%2C%20Yan%20J%2C%20et%20al.%20Memory%20CD4%2B%20T%20cells%20do%20not%20induce%20graft-versus-host%20disease.%20J%20Clin%20Invest.%202003%3B112%281%29%3A101%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Anderson%20BE%2C%20McNiff%20J%2C%20Yan%20J%2C%20et%20al.%20Memory%20CD4%2B%20T%20cells%20do%20not%20induce%20graft-versus-host%20disease.%20J%20Clin%20Invest.%202003%3B112%281%29%3A101%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6500025,
+          "page": 580,
+          "en": "Aversa F, Tabilio A, Velardi A, et al. Treatment of high risk acute leukemia with T-cell-depleted stem cells from related donors with one fully mismatched HLA haplotype. N Engl J Med. 1998;339:1186–93.",
+          "zh": "Aversa F, Tabilio A, Velardi A, et al. Treatment of high risk acute leukemia with T-cell-depleted stem cells from related donors with one fully mismatched HLA haplotype. N Engl J Med. 1998;339:1186–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Aversa%20F%2C%20Tabilio%20A%2C%20Velardi%20A%2C%20et%20al.%20Treatment%20of%20high%20risk%20acute%20leukemia%20with%20T-cell-depleted%20stem%20cells%20from%20related%20donors%20with%20one%20fully%20mismatched%20HLA%20haplotype.%20N%20Engl%20J%20Med.%201998%3B339%3A1186%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Aversa%20F%2C%20Tabilio%20A%2C%20Velardi%20A%2C%20et%20al.%20Treatment%20of%20high%20risk%20acute%20leukemia%20with%20T-cell-depleted%20stem%20cells%20from%20related%20donors%20with%20one%20fully%20mismatched%20HLA%20haplotype.%20N%20Engl%20J%20Med.%201998%3B339%3A1186%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6500026,
+          "page": 580,
+          "en": "Bashey A, Zhang MJ, McCurdy SR, et al. Mobilized peripheral blood stem cells versus unstimulated bone marrow as a graft source for T-cell–replete haploidentical donor transplantation using post-transplant cyclophosphamide. J Clin Oncol. 2017;35:3002–9.",
+          "zh": "Bashey A, Zhang MJ, McCurdy SR, et al. Mobilized peripheral blood stem cells versus unstimulated bone marrow as a graft source for T-cell–replete haploidentical donor transplantation using post-transplant cyclophosphamide. J Clin Oncol. 2017;35:3002–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bashey%20A%2C%20Zhang%20MJ%2C%20McCurdy%20SR%2C%20et%20al.%20Mobilized%20peripheral%20blood%20stem%20cells%20versus%20unstimulated%20bone%20marrow%20as%20a%20graft%20source%20for%20T-cell%E2%80%93replete%20haploidentical%20donor%20transplantation%20using%20post-transplant%20cyclophosphamide.%20J%20Clin%20Oncol.%202017%3B35%3A3002%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bashey%20A%2C%20Zhang%20MJ%2C%20McCurdy%20SR%2C%20et%20al.%20Mobilized%20peripheral%20blood%20stem%20cells%20versus%20unstimulated%20bone%20marrow%20as%20a%20graft%20source%20for%20T-cell%E2%80%93replete%20haploidentical%20donor%20transplantation%20using%20post-transplant%20cyclophosphamide.%20J%20Clin%20Oncol.%202017%3B35%3A3002%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6500027,
+          "page": 580,
+          "en": "Bertaina A, Merli P, Rutella S, et al. HLA-haploidentical stem cell transplantation after removal of αβ+ T and B cells in children with nonmalignant disorders. Blood. 2014;124:822–6.",
+          "zh": "Bertaina A, Merli P, Rutella S, et al. HLA-haploidentical stem cell transplantation after removal of αβ+ T and B cells in children with nonmalignant disorders. Blood. 2014;124:822–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bertaina%20A%2C%20Merli%20P%2C%20Rutella%20S%2C%20et%20al.%20HLA-haploidentical%20stem%20cell%20transplantation%20after%20removal%20of%20%CE%B1%CE%B2%2B%20T%20and%20B%20cells%20in%20children%20with%20nonmalignant%20disorders.%20Blood.%202014%3B124%3A822%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bertaina%20A%2C%20Merli%20P%2C%20Rutella%20S%2C%20et%20al.%20HLA-haploidentical%20stem%20cell%20transplantation%20after%20removal%20of%20%CE%B1%CE%B2%2B%20T%20and%20B%20cells%20in%20children%20with%20nonmalignant%20disorders.%20Blood.%202014%3B124%3A822%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 6500028,
+          "page": 580,
+          "en": "Bethge WA, Haegele M, Faul C, et al. Haploidentical allogeneic hematopoietic cell transplantation in adults with reduced-intensity conditioning and CD3/CD19 depletion: fast engraftment and low toxicity. Exp Hematol. 2006;34:1746–52.",
+          "zh": "Bethge WA, Haegele M, Faul C, et al. Haploidentical allogeneic hematopoietic cell transplantation in adults with reduced-intensity conditioning and CD3/CD19 depletion: fast engraftment and low toxicity. Exp Hematol. 2006;34:1746–52.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bethge%20WA%2C%20Haegele%20M%2C%20Faul%20C%2C%20et%20al.%20Haploidentical%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20adults%20with%20reduced-intensity%20conditioning%20and%20CD3/CD19%20depletion%3A%20fast%20engraftment%20and%20low%20toxicity.%20Exp%20Hematol.%202006%3B34%3A1746%E2%80%9352."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bethge%20WA%2C%20Haegele%20M%2C%20Faul%20C%2C%20et%20al.%20Haploidentical%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20adults%20with%20reduced-intensity%20conditioning%20and%20CD3/CD19%20depletion%3A%20fast%20engraftment%20and%20low%20toxicity.%20Exp%20Hematol.%202006%3B34%3A1746%E2%80%9352."
+            }
+          ]
+        },
+        {
+          "id": 6500029,
+          "page": 580,
+          "en": "Canaani J, Savani BN, Labopin M, et al. Donor age determines outcome in acute leukemia patients over 40 undergoing haploidentical hematopoietic cell transplantation. Am J Hematol. 2018;93:246–53.",
+          "zh": "Canaani J, Savani BN, Labopin M, et al. Donor age determines outcome in acute leukemia patients over 40 undergoing haploidentical hematopoietic cell transplantation. Am J Hematol. 2018;93:246–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Canaani%20J%2C%20Savani%20BN%2C%20Labopin%20M%2C%20et%20al.%20Donor%20age%20determines%20outcome%20in%20acute%20leukemia%20patients%20over%2040%20undergoing%20haploidentical%20hematopoietic%20cell%20transplantation.%20Am%20J%20Hematol.%202018%3B93%3A246%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Canaani%20J%2C%20Savani%20BN%2C%20Labopin%20M%2C%20et%20al.%20Donor%20age%20determines%20outcome%20in%20acute%20leukemia%20patients%20over%2040%20undergoing%20haploidentical%20hematopoietic%20cell%20transplantation.%20Am%20J%20Hematol.%202018%3B93%3A246%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 6500030,
+          "page": 580,
+          "en": "Chiusolo P, Bug G, Olivieri A, et al. A modified post-transplant cyclophosphamide regimen, for unmanipulated haploidentical marrow transplantation, in acute myeloid leukemia: a multicenter study. Biol Blood Marrow Transplant. 2018;24:1243–9.",
+          "zh": "Chiusolo P, Bug G, Olivieri A, et al. A modified post-transplant cyclophosphamide regimen, for unmanipulated haploidentical marrow transplantation, in acute myeloid leukemia: a multicenter study. Biol Blood Marrow Transplant. 2018;24:1243–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chiusolo%20P%2C%20Bug%20G%2C%20Olivieri%20A%2C%20et%20al.%20A%20modified%20post-transplant%20cyclophosphamide%20regimen%2C%20for%20unmanipulated%20haploidentical%20marrow%20transplantation%2C%20in%20acute%20myeloid%20leukemia%3A%20a%20multicenter%20study.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A1243%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chiusolo%20P%2C%20Bug%20G%2C%20Olivieri%20A%2C%20et%20al.%20A%20modified%20post-transplant%20cyclophosphamide%20regimen%2C%20for%20unmanipulated%20haploidentical%20marrow%20transplantation%2C%20in%20acute%20myeloid%20leukemia%3A%20a%20multicenter%20study.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%3A1243%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6500031,
+          "page": 580,
+          "en": "Ciceri F, Labopin M, Aversa F, Acute Leukemia Working Party (ALWP) of European Blood and Marrow Transplant (EBMT) Group, et al. A survey of fully haploidentical hematopoietic stem cell transplantation in adults with high-risk acute leukemia: a risk factor analysis of outcomes for patients in remission at transplantation. Blood. 2008;112:3574–81.",
+          "zh": "Ciceri F, Labopin M, Aversa F, Acute Leukemia Working Party (ALWP) of European Blood and Marrow Transplant (EBMT) Group, et al. A survey of fully haploidentical hematopoietic stem cell transplantation in adults with high-risk acute leukemia: a risk factor analysis of outcomes for patients in remission at transplantation. Blood. 2008;112:3574–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ciceri%20F%2C%20Labopin%20M%2C%20Aversa%20F%2C%20Acute%20Leukemia%20Working%20Party%20%28ALWP%29%20of%20European%20Blood%20and%20Marrow%20Transplant%20%28EBMT%29%20Group%2C%20et%20al.%20A%20survey%20of%20fully%20haploidentical%20hematopoietic%20stem%20cell%20transplantation%20in%20adults%20with%20high-risk%20acute%20leukemia%3A%20a%20risk%20factor%20analysis%20of%20outcomes%20for%20patients%20in%20remission%20at%20transplantation.%20Blood.%202008%3B112%3A3574%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ciceri%20F%2C%20Labopin%20M%2C%20Aversa%20F%2C%20Acute%20Leukemia%20Working%20Party%20%28ALWP%29%20of%20European%20Blood%20and%20Marrow%20Transplant%20%28EBMT%29%20Group%2C%20et%20al.%20A%20survey%20of%20fully%20haploidentical%20hematopoietic%20stem%20cell%20transplantation%20in%20adults%20with%20high-risk%20acute%20leukemia%3A%20a%20risk%20factor%20analysis%20of%20outcomes%20for%20patients%20in%20remission%20at%20transplantation.%20Blood.%202008%3B112%3A3574%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 6500032,
+          "page": 580,
+          "en": "Ciceri F, Bonini C, Stanghellini MT, et al. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I-II study. Lancet Oncol. 2009;10:489–500.",
+          "zh": "Ciceri F, Bonini C, Stanghellini MT, et al. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I-II study. Lancet Oncol. 2009;10:489–500.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ciceri%20F%2C%20Bonini%20C%2C%20Stanghellini%20MT%2C%20et%20al.%20Infusion%20of%20suicide-gene-engineered%20donor%20lymphocytes%20after%20family%20haploidentical%20haemopoietic%20stem-cell%20transplantation%20for%20leukaemia%20%28the%20TK007%20trial%29%3A%20a%20non-randomised%20phase%20I-II%20study.%20Lancet%20Oncol.%202009%3B10%3A489%E2%80%93500."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ciceri%20F%2C%20Bonini%20C%2C%20Stanghellini%20MT%2C%20et%20al.%20Infusion%20of%20suicide-gene-engineered%20donor%20lymphocytes%20after%20family%20haploidentical%20haemopoietic%20stem-cell%20transplantation%20for%20leukaemia%20%28the%20TK007%20trial%29%3A%20a%20non-randomised%20phase%20I-II%20study.%20Lancet%20Oncol.%202009%3B10%3A489%E2%80%93500."
+            }
+          ]
+        },
+        {
+          "id": 6500033,
+          "page": 580,
+          "en": "Cieri N, Greco R, Crucitti L, et al. Post transplantation cyclophosphamide and sirolimus after haploidentical hemopoietic stem cells transplantation., using a treosulfan based myeloablative conditioning and peripheral blood cells. Biol Blood Marrow Transpl. 2015;21:1506–14.",
+          "zh": "Cieri N, Greco R, Crucitti L, et al. Post transplantation cyclophosphamide and sirolimus after haploidentical hemopoietic stem cells transplantation., using a treosulfan based myeloablative conditioning and peripheral blood cells. Biol Blood Marrow Transpl. 2015;21:1506–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cieri%20N%2C%20Greco%20R%2C%20Crucitti%20L%2C%20et%20al.%20Post%20transplantation%20cyclophosphamide%20and%20sirolimus%20after%20haploidentical%20hemopoietic%20stem%20cells%20transplantation.%2C%20using%20a%20treosulfan%20based%20myeloablative%20conditioning%20and%20peripheral%20blood%20cells.%20Biol%20Blood%20Marrow%20Transpl.%202015%3B21%3A1506%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cieri%20N%2C%20Greco%20R%2C%20Crucitti%20L%2C%20et%20al.%20Post%20transplantation%20cyclophosphamide%20and%20sirolimus%20after%20haploidentical%20hemopoietic%20stem%20cells%20transplantation.%2C%20using%20a%20treosulfan%20based%20myeloablative%20conditioning%20and%20peripheral%20blood%20cells.%20Biol%20Blood%20Marrow%20Transpl.%202015%3B21%3A1506%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 6500034,
+          "page": 580,
+          "en": "DeZern AE, Zahurak M, Symons H, et al. Alternative donor transplantation with high-dose post-transplantation cyclophosphamide for refractory severe aplastic anemia. Biol Blood Marrow Transplant. 2017;23(3):498–504.",
+          "zh": "DeZern AE, Zahurak M, Symons H, et al. Alternative donor transplantation with high-dose post-transplantation cyclophosphamide for refractory severe aplastic anemia. Biol Blood Marrow Transplant. 2017;23(3):498–504.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=DeZern%20AE%2C%20Zahurak%20M%2C%20Symons%20H%2C%20et%20al.%20Alternative%20donor%20transplantation%20with%20high-dose%20post-transplantation%20cyclophosphamide%20for%20refractory%20severe%20aplastic%20anemia.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%283%29%3A498%E2%80%93504."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=DeZern%20AE%2C%20Zahurak%20M%2C%20Symons%20H%2C%20et%20al.%20Alternative%20donor%20transplantation%20with%20high-dose%20post-transplantation%20cyclophosphamide%20for%20refractory%20severe%20aplastic%20anemia.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%283%29%3A498%E2%80%93504."
+            }
+          ]
+        },
+        {
+          "id": 6500035,
+          "page": 580,
+          "en": "DeZern AE, Zahurak ML, Symons HJ, et al. Haploidentical BMT for severe aplastic anemia with intensive GVHD prophylaxis including posttransplant cyclophosphamide. Blood Adv. 2020;4(8):1770–9. https://doi.org/10.1182/bloodadvances.2020001729. PMID: 32343796; PMCID: PMC7189283",
+          "zh": "DeZern AE, Zahurak ML, Symons HJ, et al. Haploidentical BMT for severe aplastic anemia with intensive GVHD prophylaxis including posttransplant cyclophosphamide. Blood Adv. 2020;4(8):1770–9. https://doi.org/10.1182/bloodadvances.2020001729. PMID: 32343796; PMCID: PMC7189283",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=DeZern%20AE%2C%20Zahurak%20ML%2C%20Symons%20HJ%2C%20et%20al.%20Haploidentical%20BMT%20for%20severe%20aplastic%20anemia%20with%20intensive%20GVHD%20prophylaxis%20including%20posttransplant%20cyclophosphamide.%20Blood%20Adv.%202020%3B4%288%29%3A1770%E2%80%939.%20https%3A//doi.org/10.1182/bloodadvances.2020001729.%20PMID%3A%2032343796%3B%20PMCID%3A%20PMC7189283"
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=DeZern%20AE%2C%20Zahurak%20ML%2C%20Symons%20HJ%2C%20et%20al.%20Haploidentical%20BMT%20for%20severe%20aplastic%20anemia%20with%20intensive%20GVHD%20prophylaxis%20including%20posttransplant%20cyclophosphamide.%20Blood%20Adv.%202020%3B4%288%29%3A1770%E2%80%939.%20https%3A//doi.org/10.1182/bloodadvances.2020001729.%20PMID%3A%2032343796%3B%20PMCID%3A%20PMC7189283"
+            }
+          ]
+        },
+        {
+          "id": 6500036,
+          "page": 580,
+          "en": "Di Bartolomeo P, Santarone S, De Angelis G, et al. Unmanipulated bone marrow transplantation from haploidentical related donors for patients with high risk hematologic malignancies. Blood. 2010;116:2350.",
+          "zh": "Di Bartolomeo P, Santarone S, De Angelis G, et al. Unmanipulated bone marrow transplantation from haploidentical related donors for patients with high risk hematologic malignancies. Blood. 2010;116:2350.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Di%20Bartolomeo%20P%2C%20Santarone%20S%2C%20De%20Angelis%20G%2C%20et%20al.%20Unmanipulated%20bone%20marrow%20transplantation%20from%20haploidentical%20related%20donors%20for%20patients%20with%20high%20risk%20hematologic%20malignancies.%20Blood.%202010%3B116%3A2350."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Di%20Bartolomeo%20P%2C%20Santarone%20S%2C%20De%20Angelis%20G%2C%20et%20al.%20Unmanipulated%20bone%20marrow%20transplantation%20from%20haploidentical%20related%20donors%20for%20patients%20with%20high%20risk%20hematologic%20malignancies.%20Blood.%202010%3B116%3A2350."
+            }
+          ]
+        },
+        {
+          "id": 6500037,
+          "page": 580,
+          "en": "Di Ianni M, Falzetti F, Carotti A, et al. Tregs prevent GvHD and promote immune reconstitution in HLA-haploidentical transplantation. Blood. 2011;117:3921–8.",
+          "zh": "Di Ianni M, Falzetti F, Carotti A, et al. Tregs prevent GvHD and promote immune reconstitution in HLA-haploidentical transplantation. Blood. 2011;117:3921–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Di%20Ianni%20M%2C%20Falzetti%20F%2C%20Carotti%20A%2C%20et%20al.%20Tregs%20prevent%20GvHD%20and%20promote%20immune%20reconstitution%20in%20HLA-haploidentical%20transplantation.%20Blood.%202011%3B117%3A3921%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Di%20Ianni%20M%2C%20Falzetti%20F%2C%20Carotti%20A%2C%20et%20al.%20Tregs%20prevent%20GvHD%20and%20promote%20immune%20reconstitution%20in%20HLA-haploidentical%20transplantation.%20Blood.%202011%3B117%3A3921%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6500038,
+          "page": 580,
+          "en": "Duléry R, Ménard AL, Chantepie S, et al. Sequential conditioning with thiotepa in T cell-replete hematopoietic stem cell transplantation for the treatment of refractory hematologic malignancies: comparison with matched related, haplo-mismatched, and unrelated donors. Biol Blood Marrow Transplant. 2018;24(5):1013–21.",
+          "zh": "Duléry R, Ménard AL, Chantepie S, et al. Sequential conditioning with thiotepa in T cell-replete hematopoietic stem cell transplantation for the treatment of refractory hematologic malignancies: comparison with matched related, haplo-mismatched, and unrelated donors. Biol Blood Marrow Transplant. 2018;24(5):1013–21.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dul%C3%A9ry%20R%2C%20M%C3%A9nard%20AL%2C%20Chantepie%20S%2C%20et%20al.%20Sequential%20conditioning%20with%20thiotepa%20in%20T%20cell-replete%20hematopoietic%20stem%20cell%20transplantation%20for%20the%20treatment%20of%20refractory%20hematologic%20malignancies%3A%20comparison%20with%20matched%20related%2C%20haplo-mismatched%2C%20and%20unrelated%20donors.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%285%29%3A1013%E2%80%9321."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dul%C3%A9ry%20R%2C%20M%C3%A9nard%20AL%2C%20Chantepie%20S%2C%20et%20al.%20Sequential%20conditioning%20with%20thiotepa%20in%20T%20cell-replete%20hematopoietic%20stem%20cell%20transplantation%20for%20the%20treatment%20of%20refractory%20hematologic%20malignancies%3A%20comparison%20with%20matched%20related%2C%20haplo-mismatched%2C%20and%20unrelated%20donors.%20Biol%20Blood%20Marrow%20Transplant.%202018%3B24%285%29%3A1013%E2%80%9321."
+            }
+          ]
+        },
+        {
+          "id": 6500039,
+          "page": 580,
+          "en": "Duléry R, Mohty R, Labopin M, et al. Early cardiac toxicity associated with post-transplant cyclophosphamide in allogeneic stem cell transplantation. JACC CardioOncol. 2021;3(2):250–9.",
+          "zh": "Duléry R, Mohty R, Labopin M, et al. Early cardiac toxicity associated with post-transplant cyclophosphamide in allogeneic stem cell transplantation. JACC CardioOncol. 2021;3(2):250–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dul%C3%A9ry%20R%2C%20Mohty%20R%2C%20Labopin%20M%2C%20et%20al.%20Early%20cardiac%20toxicity%20associated%20with%20post-transplant%20cyclophosphamide%20in%20allogeneic%20stem%20cell%20transplantation.%20JACC%20CardioOncol.%202021%3B3%282%29%3A250%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dul%C3%A9ry%20R%2C%20Mohty%20R%2C%20Labopin%20M%2C%20et%20al.%20Early%20cardiac%20toxicity%20associated%20with%20post-transplant%20cyclophosphamide%20in%20allogeneic%20stem%20cell%20transplantation.%20JACC%20CardioOncol.%202021%3B3%282%29%3A250%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6500040,
+          "page": 580,
+          "en": "Federmann B, Hägele M, Pfeiffer M, et al. Immune reconstitution after haploidentical hematopoietic cell transplantation: impact of reduced intensity conditioning and CD3/CD19 depleted grafts. Leukemia. 2011;25:121–9.",
+          "zh": "Federmann B, Hägele M, Pfeiffer M, et al. Immune reconstitution after haploidentical hematopoietic cell transplantation: impact of reduced intensity conditioning and CD3/CD19 depleted grafts. Leukemia. 2011;25:121–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Federmann%20B%2C%20H%C3%A4gele%20M%2C%20Pfeiffer%20M%2C%20et%20al.%20Immune%20reconstitution%20after%20haploidentical%20hematopoietic%20cell%20transplantation%3A%20impact%20of%20reduced%20intensity%20conditioning%20and%20CD3/CD19%20depleted%20grafts.%20Leukemia.%202011%3B25%3A121%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Federmann%20B%2C%20H%C3%A4gele%20M%2C%20Pfeiffer%20M%2C%20et%20al.%20Immune%20reconstitution%20after%20haploidentical%20hematopoietic%20cell%20transplantation%3A%20impact%20of%20reduced%20intensity%20conditioning%20and%20CD3/CD19%20depleted%20grafts.%20Leukemia.%202011%3B25%3A121%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 6500041,
+          "page": 580,
+          "en": "Federmann B, Bornhauser M, Meisner C, et al. Haploidentical allogeneic hematopoietic cell transplantation in adults using CD3/CD19 depletion and reduced intensity conditioning: a phase II study. Haematologica. 2012;97:1523–31.",
+          "zh": "Federmann B, Bornhauser M, Meisner C, et al. Haploidentical allogeneic hematopoietic cell transplantation in adults using CD3/CD19 depletion and reduced intensity conditioning: a phase II study. Haematologica. 2012;97:1523–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Federmann%20B%2C%20Bornhauser%20M%2C%20Meisner%20C%2C%20et%20al.%20Haploidentical%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20adults%20using%20CD3/CD19%20depletion%20and%20reduced%20intensity%20conditioning%3A%20a%20phase%20II%20study.%20Haematologica.%202012%3B97%3A1523%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Federmann%20B%2C%20Bornhauser%20M%2C%20Meisner%20C%2C%20et%20al.%20Haploidentical%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20adults%20using%20CD3/CD19%20depletion%20and%20reduced%20intensity%20conditioning%3A%20a%20phase%20II%20study.%20Haematologica.%202012%3B97%3A1523%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 6500042,
+          "page": 580,
+          "en": "Feucht J, Opherk K, Lang P, et al. Adoptive T-cell therapy with hexon-specific Th1 cells as a treatment of refractory adenovirus infection after HSCT. Blood. 2015;125:1986–94.",
+          "zh": "Feucht J, Opherk K, Lang P, et al. Adoptive T-cell therapy with hexon-specific Th1 cells as a treatment of refractory adenovirus infection after HSCT. Blood. 2015;125:1986–94.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Feucht%20J%2C%20Opherk%20K%2C%20Lang%20P%2C%20et%20al.%20Adoptive%20T-cell%20therapy%20with%20hexon-specific%20Th1%20cells%20as%20a%20treatment%20of%20refractory%20adenovirus%20infection%20after%20HSCT.%20Blood.%202015%3B125%3A1986%E2%80%9394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Feucht%20J%2C%20Opherk%20K%2C%20Lang%20P%2C%20et%20al.%20Adoptive%20T-cell%20therapy%20with%20hexon-specific%20Th1%20cells%20as%20a%20treatment%20of%20refractory%20adenovirus%20infection%20after%20HSCT.%20Blood.%202015%3B125%3A1986%E2%80%9394."
+            }
+          ]
+        },
+        {
+          "id": 6500043,
+          "page": 580,
+          "en": "Gasior Kabat M, Bueno D, Sisinni L, et al. Selective T-cell depletion targeting CD45RA as a novel approach for HLA-mismatched hematopoietic stem cell transplantation in pediatric nonmalignant hematological diseases. Int J Hematol. 2021;114(1):116–23.",
+          "zh": "Gasior Kabat M, Bueno D, Sisinni L, et al. Selective T-cell depletion targeting CD45RA as a novel approach for HLA-mismatched hematopoietic stem cell transplantation in pediatric nonmalignant hematological diseases. Int J Hematol. 2021;114(1):116–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gasior%20Kabat%20M%2C%20Bueno%20D%2C%20Sisinni%20L%2C%20et%20al.%20Selective%20T-cell%20depletion%20targeting%20CD45RA%20as%20a%20novel%20approach%20for%20HLA-mismatched%20hematopoietic%20stem%20cell%20transplantation%20in%20pediatric%20nonmalignant%20hematological%20diseases.%20Int%20J%20Hematol.%202021%3B114%281%29%3A116%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gasior%20Kabat%20M%2C%20Bueno%20D%2C%20Sisinni%20L%2C%20et%20al.%20Selective%20T-cell%20depletion%20targeting%20CD45RA%20as%20a%20novel%20approach%20for%20HLA-mismatched%20hematopoietic%20stem%20cell%20transplantation%20in%20pediatric%20nonmalignant%20hematological%20diseases.%20Int%20J%20Hematol.%202021%3B114%281%29%3A116%E2%80%9323."
+            }
+          ]
+        },
+        {
+          "id": 6500044,
+          "page": 580,
+          "en": "Ji S-Q, Chen H-R, Yan H-M, et al. Anti-CD25 monoclonal antibody (basiliximab) for prevention of graft-versus-host disease after haploidentical bone marrow transplantation for hematological malignancies. Bone Marrow Transplant. 2005;36:349–54.",
+          "zh": "Ji S-Q, Chen H-R, Yan H-M, et al. Anti-CD25 monoclonal antibody (basiliximab) for prevention of graft-versus-host disease after haploidentical bone marrow transplantation for hematological malignancies. Bone Marrow Transplant. 2005;36:349–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ji%20S-Q%2C%20Chen%20H-R%2C%20Yan%20H-M%2C%20et%20al.%20Anti-CD25%20monoclonal%20antibody%20%28basiliximab%29%20for%20prevention%20of%20graft-versus-host%20disease%20after%20haploidentical%20bone%20marrow%20transplantation%20for%20hematological%20malignancies.%20Bone%20Marrow%20Transplant.%202005%3B36%3A349%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ji%20S-Q%2C%20Chen%20H-R%2C%20Yan%20H-M%2C%20et%20al.%20Anti-CD25%20monoclonal%20antibody%20%28basiliximab%29%20for%20prevention%20of%20graft-versus-host%20disease%20after%20haploidentical%20bone%20marrow%20transplantation%20for%20hematological%20malignancies.%20Bone%20Marrow%20Transplant.%202005%3B36%3A349%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 6500045,
+          "page": 580,
+          "en": "Leen AM, Christin A, Myers GD, et al. Cytotoxic T lymphocyte therapy with donor T cells prevents and treats adenovirus and Epstein-Barr virus infections after haploidentical and matched unrelated stem cell transplantation. Blood. 2009;114:4283–92.",
+          "zh": "Leen AM, Christin A, Myers GD, et al. Cytotoxic T lymphocyte therapy with donor T cells prevents and treats adenovirus and Epstein-Barr virus infections after haploidentical and matched unrelated stem cell transplantation. Blood. 2009;114:4283–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Leen%20AM%2C%20Christin%20A%2C%20Myers%20GD%2C%20et%20al.%20Cytotoxic%20T%20lymphocyte%20therapy%20with%20donor%20T%20cells%20prevents%20and%20treats%20adenovirus%20and%20Epstein-Barr%20virus%20infections%20after%20haploidentical%20and%20matched%20unrelated%20stem%20cell%20transplantation.%20Blood.%202009%3B114%3A4283%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Leen%20AM%2C%20Christin%20A%2C%20Myers%20GD%2C%20et%20al.%20Cytotoxic%20T%20lymphocyte%20therapy%20with%20donor%20T%20cells%20prevents%20and%20treats%20adenovirus%20and%20Epstein-Barr%20virus%20infections%20after%20haploidentical%20and%20matched%20unrelated%20stem%20cell%20transplantation.%20Blood.%202009%3B114%3A4283%E2%80%9392."
+            }
+          ]
+        },
+        {
+          "id": 6500046,
+          "page": 580,
+          "en": "Li Pira G, Malaspina D, Girolami E, et al. Selective depletion of αβ T cells and B cells for human leukocyte antigen-haploidentical hematopoietic stem cell transplantation. A three-year follow-up of procedure efficiency. Biol Blood Marrow Transplant. 2016;22:2056–64.",
+          "zh": "Li Pira G, Malaspina D, Girolami E, et al. Selective depletion of αβ T cells and B cells for human leukocyte antigen-haploidentical hematopoietic stem cell transplantation. A three-year follow-up of procedure efficiency. Biol Blood Marrow Transplant. 2016;22:2056–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Li%20Pira%20G%2C%20Malaspina%20D%2C%20Girolami%20E%2C%20et%20al.%20Selective%20depletion%20of%20%CE%B1%CE%B2%20T%20cells%20and%20B%20cells%20for%20human%20leukocyte%20antigen-haploidentical%20hematopoietic%20stem%20cell%20transplantation.%20A%20three-year%20follow-up%20of%20procedure%20efficiency.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A2056%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Li%20Pira%20G%2C%20Malaspina%20D%2C%20Girolami%20E%2C%20et%20al.%20Selective%20depletion%20of%20%CE%B1%CE%B2%20T%20cells%20and%20B%20cells%20for%20human%20leukocyte%20antigen-haploidentical%20hematopoietic%20stem%20cell%20transplantation.%20A%20three-year%20follow-up%20of%20procedure%20efficiency.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A2056%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 6500047,
+          "page": 580,
+          "en": "Locatelli F, Pende D, Mingari MC, et al. Cellular and molecular basis of haploidentical hematopoietic stem cell transplantation in the successful treatment of high-risk leukemias: role of alloreactive NK cells. Front Immunol. 2013;4:15.",
+          "zh": "Locatelli F, Pende D, Mingari MC, et al. Cellular and molecular basis of haploidentical hematopoietic stem cell transplantation in the successful treatment of high-risk leukemias: role of alloreactive NK cells. Front Immunol. 2013;4:15.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Locatelli%20F%2C%20Pende%20D%2C%20Mingari%20MC%2C%20et%20al.%20Cellular%20and%20molecular%20basis%20of%20haploidentical%20hematopoietic%20stem%20cell%20transplantation%20in%20the%20successful%20treatment%20of%20high-risk%20leukemias%3A%20role%20of%20alloreactive%20NK%20cells.%20Front%20Immunol.%202013%3B4%3A15."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Locatelli%20F%2C%20Pende%20D%2C%20Mingari%20MC%2C%20et%20al.%20Cellular%20and%20molecular%20basis%20of%20haploidentical%20hematopoietic%20stem%20cell%20transplantation%20in%20the%20successful%20treatment%20of%20high-risk%20leukemias%3A%20role%20of%20alloreactive%20NK%20cells.%20Front%20Immunol.%202013%3B4%3A15."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 581,
+      "blocks": [
+        {
+          "id": 6500048,
+          "page": 581,
+          "en": "Lu D-P, Dong L, Wu T, et al. Conditioning including antithymocyte globulin followed by unmanipulated HLA-mismatched/haploidentical blood and marrow transplantation can achieve comparable outcomes with HLA-identical sibling transplantation. Blood. 2006;107:3065–73.",
+          "zh": "Lu D-P, Dong L, Wu T, et al. Conditioning including antithymocyte globulin followed by unmanipulated HLA-mismatched/haploidentical blood and marrow transplantation can achieve comparable outcomes with HLA-identical sibling transplantation. Blood. 2006;107:3065–73.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lu%20D-P%2C%20Dong%20L%2C%20Wu%20T%2C%20et%20al.%20Conditioning%20including%20antithymocyte%20globulin%20followed%20by%20unmanipulated%20HLA-mismatched/haploidentical%20blood%20and%20marrow%20transplantation%20can%20achieve%20comparable%20outcomes%20with%20HLA-identical%20sibling%20transplantation.%20Blood.%202006%3B107%3A3065%E2%80%9373."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lu%20D-P%2C%20Dong%20L%2C%20Wu%20T%2C%20et%20al.%20Conditioning%20including%20antithymocyte%20globulin%20followed%20by%20unmanipulated%20HLA-mismatched/haploidentical%20blood%20and%20marrow%20transplantation%20can%20achieve%20comparable%20outcomes%20with%20HLA-identical%20sibling%20transplantation.%20Blood.%202006%3B107%3A3065%E2%80%9373."
+            }
+          ]
+        },
+        {
+          "id": 6500049,
+          "page": 581,
+          "en": "Lum SH, Greener S, Perez-Heras I, et al. T-replete HLA-matched grafts vs T-depleted HLA-mismatched grafts in inborn errors of immunity. Blood Adv. 2022;6(4):1319–28.",
+          "zh": "Lum SH, Greener S, Perez-Heras I, et al. T-replete HLA-matched grafts vs T-depleted HLA-mismatched grafts in inborn errors of immunity. Blood Adv. 2022;6(4):1319–28.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lum%20SH%2C%20Greener%20S%2C%20Perez-Heras%20I%2C%20et%20al.%20T-replete%20HLA-matched%20grafts%20vs%20T-depleted%20HLA-mismatched%20grafts%20in%20inborn%20errors%20of%20immunity.%20Blood%20Adv.%202022%3B6%284%29%3A1319%E2%80%9328."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lum%20SH%2C%20Greener%20S%2C%20Perez-Heras%20I%2C%20et%20al.%20T-replete%20HLA-matched%20grafts%20vs%20T-depleted%20HLA-mismatched%20grafts%20in%20inborn%20errors%20of%20immunity.%20Blood%20Adv.%202022%3B6%284%29%3A1319%E2%80%9328."
+            }
+          ]
+        },
+        {
+          "id": 6500050,
+          "page": 581,
+          "en": "Luznik L, O’Donnell PV, Symons HJ. HLA-haploidentical bone marrow transplantation for hematologic malignancies using nonmyeloablative conditioning and high-dose, posttransplantation cyclophosphamide. Biol Blood Marrow Transplant. 2008;14(6):641–50.",
+          "zh": "Luznik L, O’Donnell PV, Symons HJ. HLA-haploidentical bone marrow transplantation for hematologic malignancies using nonmyeloablative conditioning and high-dose, posttransplantation cyclophosphamide. Biol Blood Marrow Transplant. 2008;14(6):641–50.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Luznik%20L%2C%20O%E2%80%99Donnell%20PV%2C%20Symons%20HJ.%20HLA-haploidentical%20bone%20marrow%20transplantation%20for%20hematologic%20malignancies%20using%20nonmyeloablative%20conditioning%20and%20high-dose%2C%20posttransplantation%20cyclophosphamide.%20Biol%20Blood%20Marrow%20Transplant.%202008%3B14%286%29%3A641%E2%80%9350."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Luznik%20L%2C%20O%E2%80%99Donnell%20PV%2C%20Symons%20HJ.%20HLA-haploidentical%20bone%20marrow%20transplantation%20for%20hematologic%20malignancies%20using%20nonmyeloablative%20conditioning%20and%20high-dose%2C%20posttransplantation%20cyclophosphamide.%20Biol%20Blood%20Marrow%20Transplant.%202008%3B14%286%29%3A641%E2%80%9350."
+            }
+          ]
+        },
+        {
+          "id": 6500051,
+          "page": 581,
+          "en": "Maschan M, Blagov S, Shelikhova L, Shekhovtsova Z, et al. Low-dose donor memory T-cell infusion after TCR alpha/beta depleted unrelated and haploidentical transplantation: results of a pilot trial. Bone Marrow Transplant. 2017;53(3):264–73.",
+          "zh": "Maschan M, Blagov S, Shelikhova L, Shekhovtsova Z, et al. Low-dose donor memory T-cell infusion after TCR alpha/beta depleted unrelated and haploidentical transplantation: results of a pilot trial. Bone Marrow Transplant. 2017;53(3):264–73.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maschan%20M%2C%20Blagov%20S%2C%20Shelikhova%20L%2C%20Shekhovtsova%20Z%2C%20et%20al.%20Low-dose%20donor%20memory%20T-cell%20infusion%20after%20TCR%20alpha/beta%20depleted%20unrelated%20and%20haploidentical%20transplantation%3A%20results%20of%20a%20pilot%20trial.%20Bone%20Marrow%20Transplant.%202017%3B53%283%29%3A264%E2%80%9373."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maschan%20M%2C%20Blagov%20S%2C%20Shelikhova%20L%2C%20Shekhovtsova%20Z%2C%20et%20al.%20Low-dose%20donor%20memory%20T-cell%20infusion%20after%20TCR%20alpha/beta%20depleted%20unrelated%20and%20haploidentical%20transplantation%3A%20results%20of%20a%20pilot%20trial.%20Bone%20Marrow%20Transplant.%202017%3B53%283%29%3A264%E2%80%9373."
+            }
+          ]
+        },
+        {
+          "id": 6500052,
+          "page": 581,
+          "en": "McAdams MJ, Hyder M, Dimitrova D, et al. Phase I/II study of reduced dosing of post-transplantation cyclophosphamide (PTCy) after HLA-haploidentical bone marrow transplantation. Blood. 2021;138:101.",
+          "zh": "McAdams MJ, Hyder M, Dimitrova D, et al. Phase I/II study of reduced dosing of post-transplantation cyclophosphamide (PTCy) after HLA-haploidentical bone marrow transplantation. Blood. 2021;138:101.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=McAdams%20MJ%2C%20Hyder%20M%2C%20Dimitrova%20D%2C%20et%20al.%20Phase%20I/II%20study%20of%20reduced%20dosing%20of%20post-transplantation%20cyclophosphamide%20%28PTCy%29%20after%20HLA-haploidentical%20bone%20marrow%20transplantation.%20Blood.%202021%3B138%3A101."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=McAdams%20MJ%2C%20Hyder%20M%2C%20Dimitrova%20D%2C%20et%20al.%20Phase%20I/II%20study%20of%20reduced%20dosing%20of%20post-transplantation%20cyclophosphamide%20%28PTCy%29%20after%20HLA-haploidentical%20bone%20marrow%20transplantation.%20Blood.%202021%3B138%3A101."
+            }
+          ]
+        },
+        {
+          "id": 6500053,
+          "page": 581,
+          "en": "Merli P, Pagliara D, Galaverna F, et al. TCRαβ/CD19 depleted HSCT from an HLA-haploidentical relative to treat children with different nonmalignant disorders. Blood Adv. 2022;6(1):281–92.",
+          "zh": "Merli P, Pagliara D, Galaverna F, et al. TCRαβ/CD19 depleted HSCT from an HLA-haploidentical relative to treat children with different nonmalignant disorders. Blood Adv. 2022;6(1):281–92.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Merli%20P%2C%20Pagliara%20D%2C%20Galaverna%20F%2C%20et%20al.%20TCR%CE%B1%CE%B2/CD19%20depleted%20HSCT%20from%20an%20HLA-haploidentical%20relative%20to%20treat%20children%20with%20different%20nonmalignant%20disorders.%20Blood%20Adv.%202022%3B6%281%29%3A281%E2%80%9392."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Merli%20P%2C%20Pagliara%20D%2C%20Galaverna%20F%2C%20et%20al.%20TCR%CE%B1%CE%B2/CD19%20depleted%20HSCT%20from%20an%20HLA-haploidentical%20relative%20to%20treat%20children%20with%20different%20nonmalignant%20disorders.%20Blood%20Adv.%202022%3B6%281%29%3A281%E2%80%9392."
+            }
+          ]
+        },
+        {
+          "id": 6500054,
+          "page": 581,
+          "en": "Passweg JR, Baldomero H, Gratwohl A, European Group for Blood and Marrow Transplantation (EBMT), et al. The EBMT activity survey: 1990–2010. Bone Marrow Transplant. 2012;47:906–23.",
+          "zh": "Passweg JR, Baldomero H, Gratwohl A, European Group for Blood and Marrow Transplantation (EBMT), et al. The EBMT activity survey: 1990–2010. Bone Marrow Transplant. 2012;47:906–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Gratwohl%20A%2C%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29%2C%20et%20al.%20The%20EBMT%20activity%20survey%3A%201990%E2%80%932010.%20Bone%20Marrow%20Transplant.%202012%3B47%3A906%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Passweg%20JR%2C%20Baldomero%20H%2C%20Gratwohl%20A%2C%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29%2C%20et%20al.%20The%20EBMT%20activity%20survey%3A%201990%E2%80%932010.%20Bone%20Marrow%20Transplant.%202012%3B47%3A906%E2%80%9323."
+            }
+          ]
+        },
+        {
+          "id": 6500055,
+          "page": 581,
+          "en": "Perruccio K, Tosti A, Burchielli E, et al. Transferring functional immune responses to pathogens after haploidentical hematopoietic transplantation. Blood. 2005;106:4397–06.",
+          "zh": "Perruccio K, Tosti A, Burchielli E, et al. Transferring functional immune responses to pathogens after haploidentical hematopoietic transplantation. Blood. 2005;106:4397–06.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Perruccio%20K%2C%20Tosti%20A%2C%20Burchielli%20E%2C%20et%20al.%20Transferring%20functional%20immune%20responses%20to%20pathogens%20after%20haploidentical%20hematopoietic%20transplantation.%20Blood.%202005%3B106%3A4397%E2%80%9306."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Perruccio%20K%2C%20Tosti%20A%2C%20Burchielli%20E%2C%20et%20al.%20Transferring%20functional%20immune%20responses%20to%20pathogens%20after%20haploidentical%20hematopoietic%20transplantation.%20Blood.%202005%3B106%3A4397%E2%80%9306."
+            }
+          ]
+        },
+        {
+          "id": 6500056,
+          "page": 581,
+          "en": "Pierini A, Ruggeri L, Carotti A, et al. Haploidentical age-adapted myeloablative transplant and regulatory and effecter T cells for acute myeloid leukemia. Blood Adv. 2021;5:1119–2021.",
+          "zh": "Pierini A, Ruggeri L, Carotti A, et al. Haploidentical age-adapted myeloablative transplant and regulatory and effecter T cells for acute myeloid leukemia. Blood Adv. 2021;5:1119–2021.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pierini%20A%2C%20Ruggeri%20L%2C%20Carotti%20A%2C%20et%20al.%20Haploidentical%20age-adapted%20myeloablative%20transplant%20and%20regulatory%20and%20effecter%20T%20cells%20for%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5%3A1119%E2%80%932021."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pierini%20A%2C%20Ruggeri%20L%2C%20Carotti%20A%2C%20et%20al.%20Haploidentical%20age-adapted%20myeloablative%20transplant%20and%20regulatory%20and%20effecter%20T%20cells%20for%20acute%20myeloid%20leukemia.%20Blood%20Adv.%202021%3B5%3A1119%E2%80%932021."
+            }
+          ]
+        },
+        {
+          "id": 6500057,
+          "page": 581,
+          "en": "Raiola AM, Dominietto A, Ghiso A, et al. Unmanipulated haploidentical bone marrow transplantation and post-transplantation cyclophosphamide for hematologic malignancies after myeloablative conditioning. Biol Blood Marrow Transplant. 2013;19(1):117–22.",
+          "zh": "Raiola AM, Dominietto A, Ghiso A, et al. Unmanipulated haploidentical bone marrow transplantation and post-transplantation cyclophosphamide for hematologic malignancies after myeloablative conditioning. Biol Blood Marrow Transplant. 2013;19(1):117–22.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Raiola%20AM%2C%20Dominietto%20A%2C%20Ghiso%20A%2C%20et%20al.%20Unmanipulated%20haploidentical%20bone%20marrow%20transplantation%20and%20post-transplantation%20cyclophosphamide%20for%20hematologic%20malignancies%20after%20myeloablative%20conditioning.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%281%29%3A117%E2%80%9322."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Raiola%20AM%2C%20Dominietto%20A%2C%20Ghiso%20A%2C%20et%20al.%20Unmanipulated%20haploidentical%20bone%20marrow%20transplantation%20and%20post-transplantation%20cyclophosphamide%20for%20hematologic%20malignancies%20after%20myeloablative%20conditioning.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%281%29%3A117%E2%80%9322."
+            }
+          ]
+        },
+        {
+          "id": 6500058,
+          "page": 581,
+          "en": "Reisner Y, Hagin D, Martelli M. Haploidentical hematopoietic transplantation: current status and future perspectives. Blood. 2011;118:6006–17.",
+          "zh": "Reisner Y, Hagin D, Martelli M. Haploidentical hematopoietic transplantation: current status and future perspectives. Blood. 2011;118:6006–17.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Reisner%20Y%2C%20Hagin%20D%2C%20Martelli%20M.%20Haploidentical%20hematopoietic%20transplantation%3A%20current%20status%20and%20future%20perspectives.%20Blood.%202011%3B118%3A6006%E2%80%9317."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Reisner%20Y%2C%20Hagin%20D%2C%20Martelli%20M.%20Haploidentical%20hematopoietic%20transplantation%3A%20current%20status%20and%20future%20perspectives.%20Blood.%202011%3B118%3A6006%E2%80%9317."
+            }
+          ]
+        },
+        {
+          "id": 6500059,
+          "page": 581,
+          "en": "Ruggeri A, Sun Y, Labopin M, et al. Post-transplant cyclophosphamide versus anti-thymocyte globulin as graft-versus-host disease prophylaxis in haploidentical transplant. Haematologica. 2017;102:401–10.",
+          "zh": "Ruggeri A, Sun Y, Labopin M, et al. Post-transplant cyclophosphamide versus anti-thymocyte globulin as graft-versus-host disease prophylaxis in haploidentical transplant. Haematologica. 2017;102:401–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ruggeri%20A%2C%20Sun%20Y%2C%20Labopin%20M%2C%20et%20al.%20Post-transplant%20cyclophosphamide%20versus%20anti-thymocyte%20globulin%20as%20graft-versus-host%20disease%20prophylaxis%20in%20haploidentical%20transplant.%20Haematologica.%202017%3B102%3A401%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ruggeri%20A%2C%20Sun%20Y%2C%20Labopin%20M%2C%20et%20al.%20Post-transplant%20cyclophosphamide%20versus%20anti-thymocyte%20globulin%20as%20graft-versus-host%20disease%20prophylaxis%20in%20haploidentical%20transplant.%20Haematologica.%202017%3B102%3A401%E2%80%9310."
+            }
+          ]
+        },
+        {
+          "id": 6500060,
+          "page": 581,
+          "en": "Ruggeri A, Labopin M, Bacigalupo A, et al. Bone marrow versus mobilized peripheral blood stem cells in haploidentical transplants using posttransplantation cyclophosphamide. Cancer. 2018;124:1428–37.",
+          "zh": "Ruggeri A, Labopin M, Bacigalupo A, et al. Bone marrow versus mobilized peripheral blood stem cells in haploidentical transplants using posttransplantation cyclophosphamide. Cancer. 2018;124:1428–37.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ruggeri%20A%2C%20Labopin%20M%2C%20Bacigalupo%20A%2C%20et%20al.%20Bone%20marrow%20versus%20mobilized%20peripheral%20blood%20stem%20cells%20in%20haploidentical%20transplants%20using%20posttransplantation%20cyclophosphamide.%20Cancer.%202018%3B124%3A1428%E2%80%9337."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ruggeri%20A%2C%20Labopin%20M%2C%20Bacigalupo%20A%2C%20et%20al.%20Bone%20marrow%20versus%20mobilized%20peripheral%20blood%20stem%20cells%20in%20haploidentical%20transplants%20using%20posttransplantation%20cyclophosphamide.%20Cancer.%202018%3B124%3A1428%E2%80%9337."
+            }
+          ]
+        },
+        {
+          "id": 6500061,
+          "page": 581,
+          "en": "Ruggeri A, Labopin M, Battipaglia G, et al. Timing of post-transplantation cyclophosphamide administration in haploidentical transplantation: a comparative study on behalf of the acute leukemia working party of the European society for blood and marrow transplantation. Biol Blood Marrow Transplant. 2020;26(10):1915–22.",
+          "zh": "Ruggeri A, Labopin M, Battipaglia G, et al. Timing of post-transplantation cyclophosphamide administration in haploidentical transplantation: a comparative study on behalf of the acute leukemia working party of the European society for blood and marrow transplantation. Biol Blood Marrow Transplant. 2020;26(10):1915–22.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ruggeri%20A%2C%20Labopin%20M%2C%20Battipaglia%20G%2C%20et%20al.%20Timing%20of%20post-transplantation%20cyclophosphamide%20administration%20in%20haploidentical%20transplantation%3A%20a%20comparative%20study%20on%20behalf%20of%20the%20acute%20leukemia%20working%20party%20of%20the%20European%20society%20for%20blood%20and%20marrow%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%2810%29%3A1915%E2%80%9322."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ruggeri%20A%2C%20Labopin%20M%2C%20Battipaglia%20G%2C%20et%20al.%20Timing%20of%20post-transplantation%20cyclophosphamide%20administration%20in%20haploidentical%20transplantation%3A%20a%20comparative%20study%20on%20behalf%20of%20the%20acute%20leukemia%20working%20party%20of%20the%20European%20society%20for%20blood%20and%20marrow%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%2810%29%3A1915%E2%80%9322."
+            }
+          ]
+        },
+        {
+          "id": 6500062,
+          "page": 581,
+          "en": "Salzmann-Manrique E, Bremm M, Huenecke S, et al. Modeling of immune reconstitution post haploidentical stem cell transplantation in pediatric patients with acute leukemia comparing CD34+-selected to CD3/CD19-depleted grafts in a retrospective multicenter study. Front Immunol. 2018;9:1841.",
+          "zh": "Salzmann-Manrique E, Bremm M, Huenecke S, et al. Modeling of immune reconstitution post haploidentical stem cell transplantation in pediatric patients with acute leukemia comparing CD34+-selected to CD3/CD19-depleted grafts in a retrospective multicenter study. Front Immunol. 2018;9:1841.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Salzmann-Manrique%20E%2C%20Bremm%20M%2C%20Huenecke%20S%2C%20et%20al.%20Modeling%20of%20immune%20reconstitution%20post%20haploidentical%20stem%20cell%20transplantation%20in%20pediatric%20patients%20with%20acute%20leukemia%20comparing%20CD34%2B-selected%20to%20CD3/CD19-depleted%20grafts%20in%20a%20retrospective%20multicenter%20study.%20Front%20Immunol.%202018%3B9%3A1841."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Salzmann-Manrique%20E%2C%20Bremm%20M%2C%20Huenecke%20S%2C%20et%20al.%20Modeling%20of%20immune%20reconstitution%20post%20haploidentical%20stem%20cell%20transplantation%20in%20pediatric%20patients%20with%20acute%20leukemia%20comparing%20CD34%2B-selected%20to%20CD3/CD19-depleted%20grafts%20in%20a%20retrospective%20multicenter%20study.%20Front%20Immunol.%202018%3B9%3A1841."
+            }
+          ]
+        },
+        {
+          "id": 6500063,
+          "page": 581,
+          "en": "Sanz J, Boluda JCH, Martín C, et al. Single-unit umbilical cord blood transplantation from unrelated donors in patients with hematological malignancy using busulfan, thiotepa, fludarabine and ATG as myeloablative conditioning regimen. Bone Marrow Transplant. 2012;47:1287–93.",
+          "zh": "Sanz J, Boluda JCH, Martín C, et al. Single-unit umbilical cord blood transplantation from unrelated donors in patients with hematological malignancy using busulfan, thiotepa, fludarabine and ATG as myeloablative conditioning regimen. Bone Marrow Transplant. 2012;47:1287–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanz%20J%2C%20Boluda%20JCH%2C%20Mart%C3%ADn%20C%2C%20et%20al.%20Single-unit%20umbilical%20cord%20blood%20transplantation%20from%20unrelated%20donors%20in%20patients%20with%20hematological%20malignancy%20using%20busulfan%2C%20thiotepa%2C%20fludarabine%20and%20ATG%20as%20myeloablative%20conditioning%20regimen.%20Bone%20Marrow%20Transplant.%202012%3B47%3A1287%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanz%20J%2C%20Boluda%20JCH%2C%20Mart%C3%ADn%20C%2C%20et%20al.%20Single-unit%20umbilical%20cord%20blood%20transplantation%20from%20unrelated%20donors%20in%20patients%20with%20hematological%20malignancy%20using%20busulfan%2C%20thiotepa%2C%20fludarabine%20and%20ATG%20as%20myeloablative%20conditioning%20regimen.%20Bone%20Marrow%20Transplant.%202012%3B47%3A1287%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 6500064,
+          "page": 581,
+          "en": "Solomon SR, Aubrey MT, Zhang X, et al. Selecting the best donor for haploidentical transplant: impact of HLA killer cell immunoglobulin like receptor genotyping. Biol Blood Marrow Transp. 2018;24:789–98.",
+          "zh": "Solomon SR, Aubrey MT, Zhang X, et al. Selecting the best donor for haploidentical transplant: impact of HLA killer cell immunoglobulin like receptor genotyping. Biol Blood Marrow Transp. 2018;24:789–98.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Solomon%20SR%2C%20Aubrey%20MT%2C%20Zhang%20X%2C%20et%20al.%20Selecting%20the%20best%20donor%20for%20haploidentical%20transplant%3A%20impact%20of%20HLA%20killer%20cell%20immunoglobulin%20like%20receptor%20genotyping.%20Biol%20Blood%20Marrow%20Transp.%202018%3B24%3A789%E2%80%9398."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Solomon%20SR%2C%20Aubrey%20MT%2C%20Zhang%20X%2C%20et%20al.%20Selecting%20the%20best%20donor%20for%20haploidentical%20transplant%3A%20impact%20of%20HLA%20killer%20cell%20immunoglobulin%20like%20receptor%20genotyping.%20Biol%20Blood%20Marrow%20Transp.%202018%3B24%3A789%E2%80%9398."
+            }
+          ]
+        },
+        {
+          "id": 6500065,
+          "page": 581,
+          "en": "Sugita J, Kamimura T, Ishikawa T, et al. Reduced dose of posttransplant cyclophosphamide in HLA-haploidentical peripheral blood stem cell transplantation. Bone Marrow Transplant. 2021;56(3):596–604.",
+          "zh": "Sugita J, Kamimura T, Ishikawa T, et al. Reduced dose of posttransplant cyclophosphamide in HLA-haploidentical peripheral blood stem cell transplantation. Bone Marrow Transplant. 2021;56(3):596–604.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sugita%20J%2C%20Kamimura%20T%2C%20Ishikawa%20T%2C%20et%20al.%20Reduced%20dose%20of%20posttransplant%20cyclophosphamide%20in%20HLA-haploidentical%20peripheral%20blood%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202021%3B56%283%29%3A596%E2%80%93604."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sugita%20J%2C%20Kamimura%20T%2C%20Ishikawa%20T%2C%20et%20al.%20Reduced%20dose%20of%20posttransplant%20cyclophosphamide%20in%20HLA-haploidentical%20peripheral%20blood%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202021%3B56%283%29%3A596%E2%80%93604."
+            }
+          ]
+        },
+        {
+          "id": 6500066,
+          "page": 581,
+          "en": "Triplett BM, Muller B, Kang G, et al. Selective T-cell depletion targeting CD45RA reduces viremia and enhances early T-cell recovery compared with CD3-targeted T-cell depletion. Transpl Infect Dis. 2018;20(1):e12823. https://doi.org/10.1111/tid.12823.",
+          "zh": "Triplett BM, Muller B, Kang G, et al. Selective T-cell depletion targeting CD45RA reduces viremia and enhances early T-cell recovery compared with CD3-targeted T-cell depletion. Transpl Infect Dis. 2018;20(1):e12823. https://doi.org/10.1111/tid.12823.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Triplett%20BM%2C%20Muller%20B%2C%20Kang%20G%2C%20et%20al.%20Selective%20T-cell%20depletion%20targeting%20CD45RA%20reduces%20viremia%20and%20enhances%20early%20T-cell%20recovery%20compared%20with%20CD3-targeted%20T-cell%20depletion.%20Transpl%20Infect%20Dis.%202018%3B20%281%29%3Ae12823.%20https%3A//doi.org/10.1111/tid.12823."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Triplett%20BM%2C%20Muller%20B%2C%20Kang%20G%2C%20et%20al.%20Selective%20T-cell%20depletion%20targeting%20CD45RA%20reduces%20viremia%20and%20enhances%20early%20T-cell%20recovery%20compared%20with%20CD3-targeted%20T-cell%20depletion.%20Transpl%20Infect%20Dis.%202018%3B20%281%29%3Ae12823.%20https%3A//doi.org/10.1111/tid.12823."
+            }
+          ]
+        },
+        {
+          "id": 6500067,
+          "page": 581,
+          "en": "Tsilifis C, Lum SH, Nademi Z, Hambleton S, et al. TCRαβ-depleted haploidentical grafts are a safe alternative to HLA-matched unrelated donor stem cell transplants for infants with severe combined immunodeficiency. J Clin Immunol. 2022;42(4):851–8.",
+          "zh": "Tsilifis C, Lum SH, Nademi Z, Hambleton S, et al. TCRαβ-depleted haploidentical grafts are a safe alternative to HLA-matched unrelated donor stem cell transplants for infants with severe combined immunodeficiency. J Clin Immunol. 2022;42(4):851–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tsilifis%20C%2C%20Lum%20SH%2C%20Nademi%20Z%2C%20Hambleton%20S%2C%20et%20al.%20TCR%CE%B1%CE%B2-depleted%20haploidentical%20grafts%20are%20a%20safe%20alternative%20to%20HLA-matched%20unrelated%20donor%20stem%20cell%20transplants%20for%20infants%20with%20severe%20combined%20immunodeficiency.%20J%20Clin%20Immunol.%202022%3B42%284%29%3A851%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tsilifis%20C%2C%20Lum%20SH%2C%20Nademi%20Z%2C%20Hambleton%20S%2C%20et%20al.%20TCR%CE%B1%CE%B2-depleted%20haploidentical%20grafts%20are%20a%20safe%20alternative%20to%20HLA-matched%20unrelated%20donor%20stem%20cell%20transplants%20for%20infants%20with%20severe%20combined%20immunodeficiency.%20J%20Clin%20Immunol.%202022%3B42%284%29%3A851%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 6500068,
+          "page": 581,
+          "en": "Wang Y, Liu DH, Liu KY, et al. Long-term follow-up of haploidentical hematopoietic stem cell transplantation without in vitro T cell depletion for the treatment of leukemia. Cancer. 2013;119:978–85.",
+          "zh": "Wang Y, Liu DH, Liu KY, et al. Long-term follow-up of haploidentical hematopoietic stem cell transplantation without in vitro T cell depletion for the treatment of leukemia. Cancer. 2013;119:978–85.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wang%20Y%2C%20Liu%20DH%2C%20Liu%20KY%2C%20et%20al.%20Long-term%20follow-up%20of%20haploidentical%20hematopoietic%20stem%20cell%20transplantation%20without%20in%20vitro%20T%20cell%20depletion%20for%20the%20treatment%20of%20leukemia.%20Cancer.%202013%3B119%3A978%E2%80%9385."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wang%20Y%2C%20Liu%20DH%2C%20Liu%20KY%2C%20et%20al.%20Long-term%20follow-up%20of%20haploidentical%20hematopoietic%20stem%20cell%20transplantation%20without%20in%20vitro%20T%20cell%20depletion%20for%20the%20treatment%20of%20leukemia.%20Cancer.%202013%3B119%3A978%E2%80%9385."
+            }
+          ]
+        },
+        {
+          "id": 6500069,
+          "page": 581,
+          "en": "Wang Y, Chang YJ, Xu LP, et al. Who is the best donor for a related HLA haplotype-mismatched transplant? Blood. 2014;124:843–50.",
+          "zh": "Wang Y, Chang YJ, Xu LP, et al. Who is the best donor for a related HLA haplotype-mismatched transplant? Blood. 2014;124:843–50.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wang%20Y%2C%20Chang%20YJ%2C%20Xu%20LP%2C%20et%20al.%20Who%20is%20the%20best%20donor%20for%20a%20related%20HLA%20haplotype-mismatched%20transplant%3F%20Blood.%202014%3B124%3A843%E2%80%9350."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wang%20Y%2C%20Chang%20YJ%2C%20Xu%20LP%2C%20et%20al.%20Who%20is%20the%20best%20donor%20for%20a%20related%20HLA%20haplotype-mismatched%20transplant%3F%20Blood.%202014%3B124%3A843%E2%80%9350."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 582,
+      "blocks": [
+        {
+          "id": 6500070,
+          "page": 582,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
