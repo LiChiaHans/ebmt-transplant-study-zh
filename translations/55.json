@@ -1,0 +1,458 @@
+{
+  "id": 55,
+  "title": "Cardiovascular Diseases and Metabolic Syndrome",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 31,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 500,
+      "blocks": [
+        {
+          "id": 5500001,
+          "page": 500,
+          "en": "55 Cardiovascular Diseases and Metabolic Syndrome\nElisa Roldan Galvan, John A. Snowden, and Diana M. Greenfield",
+          "zh": "55 心血管疾病與代謝症候群（Cardiovascular Diseases and Metabolic Syndrome） — Elisa Roldan Galvan、John A. Snowden、Diana M. Greenfield",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_55"
+            }
+          ]
+        },
+        {
+          "id": 5500002,
+          "page": 500,
+          "en": "55.1 Introduction\nCardiovascular disease (CVD) remains the leading cause of death globally, with 17.9 million deaths each year, mainly for coronary heart disease and cerebrovascular disease. The World Health Organization (WHO) estimates that the largest increment in deaths has been for ischemic heart disease, rising by more than 2 million in 2000 to 8.9 million in 2019, representing 16% of all global deaths. It is predicted that by 2030, almost 23.6 million people will die from CVD (WHO 2023).\nMoreover, there is an increased incidence of metabolic syndrome (MetS), with reported prevalence rates of 31–49% after transplant.\nAfter HCT, either autologous or allogeneic, an increased incidence of CVD has been shown compared with the normal population and sibling donors (Baker et al. 2007). Retrospective EBMT analyses have shown the cumulative incidence of a first cardiovascular event 15 years after HCT rises to 6%.",
+          "zh": "55.1 前言\n心血管疾病（CVD）依然是全球首要死因，每年造成 1,790 萬人死亡，主要為冠狀動脈心臟病與腦血管疾病。世界衛生組織（WHO）估計，死亡人數增幅最大的是缺血性心臟病，從 2000 年起增加了超過 200 萬人，至 2019 年達到 890 萬人，占全球總死亡人數的 16%。預計到 2030 年，將有近 2,360 萬人死於 CVD（WHO 2023）。\n此外，移植後代謝症候群（metabolic syndrome, MetS）的發生率顯著上升，文獻報導的移植後盛行率高達 31–49%。\n在造血細胞移植（HCT）後——無論是自體或異體移植——與一般正常人口及同胞供者相比，CVD 的發生率皆顯著增加（Baker et al. 2007）。EBMT 的回溯性分析顯示，HCT 後 15 年發生首次心血管事件的累積發生率上升至 6%。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500003,
+          "page": 500,
+          "en": "55.2 Cardiovascular Disease in HCT\n55.2.1 Abdominal Obesity\nAbdominal obesity measured by waist circumference represents fat accumulation (visceral adipose deposits) which independently confers cardiometabolic risk. Changes in waist circumferences are seen after HCT with, for example, corticosteroid use and with onset of sarcopenic obesity.\n55.2.2 Dyslipidemia\nDyslipidemia is defined by elevated levels of total cholesterol, LDL-C, or triglycerides or low levels of HDL-C. Prevalence in general population is estimated at 25% in the USA (Baker et al. 2007) and in European countries. Evidence suggests allo-HCT recipients have significantly higher risk of new onset dyslipidemia (RR 2.1, 95% CI 1.15–4.65) compared with auto-HCT (Tichelli et al. 2007a) with the prevalence post-HCT estimated to be 43–73% (Chow et al. 2014; Oudin et al. 2015). TBI significantly increases the risk of dyslipidemia.",
+          "zh": "55.2 HCT 後之心血管疾病與代謝風險要素\n55.2.1 腹部肥胖（Abdominal Obesity）\n以腰圍量測的腹部肥胖代表內臟脂肪堆積（visceral adipose deposits），其本身即獨立帶來心血管代謝風險。在 HCT 後（例如因使用皮質類固醇以及發生肌少性肥胖〔sarcopenic obesity〕），常可觀察到腰圍的變化。\n55.2.2 血脂異常（Dyslipidemia）\n血脂異常的定義為總膽固醇、低密度脂蛋白膽固醇（LDL-C）或三酸甘油酯（triglycerides）濃度升高，或是高密度脂蛋白膽固醇（HDL-C）濃度過低。在美國（Baker et al. 2007）與歐洲國家的一般人口中，其盛行率估計約為 25%。證據顯示，異體 HCT 受者發生新發血脂異常的風險顯著高於自體 HCT 受者（相對風險 RR 2.1，95% 信賴區間 CI 1.15–4.65）（Tichelli et al. 2007a），HCT 後的血脂異常盛行率估計高達 43–73%（Chow et al. 2014; Oudin et al. 2015）。全身放射線照射（TBI）會顯著增加血脂異常的風險。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500004,
+          "page": 500,
+          "en": "E. R. Galvan (*) · J. A. Snowden\nDepartment of Haematology, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK\nDivision of Clinical Medicine, School of Population Health, School of Medicine and Population Health, University of Sheffield, Sheffield, UK\ne-mail: Elisa.roldangalvan1@nhs.net; john.snowden1@nhs.net\nD. M. Greenfield\nDivision of Clinical Medicine, School of Population Health, School of Medicine and Population Health, University of Sheffield, Sheffield, UK\nSpecialised Cancer Services, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK\nDepartment of Haematology, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK\ne-mail: diana.greenfield@nhs.net\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_55",
+          "zh": "作者單位與聯絡資訊：\nE. R. Galvan（通訊作者）、J. A. Snowden、D. M. Greenfield：英國雪菲爾教學醫院 NHS 基金會信託（Sheffield Teaching Hospitals NHS Foundation Trust）血液科與癌症專科服務部；英國雪菲爾大學（University of Sheffield）醫學院與人口健康學院臨床醫學部；電子郵件：Elisa.roldangalvan1@nhs.net、john.snowden1@nhs.net、diana.greenfield@nhs.net。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_55。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 501,
+      "blocks": [
+        {
+          "id": 5500005,
+          "page": 501,
+          "en": "55.2.3 Hypertension (HTN)\nHypertension (HTN) in the general population is defined as systolic BP ≥140 mmHg or diastolic BP ≥90 mmHg but defined in context of MetS as systolic BP ≥135 mmHg or diastolic BP ≥85. HTN in people following allo-HCT is 2.06 times (95% CI 1.39–3.04) more likely compared with sibling donors or auto-HCT (Baker et al. 2007).\n55.2.4 Insulin Resistance or Diabetes Mellitus (IR/DM)\nDM is characterized by hyperglycemia resulting from defects in insulin secretion (type 1) and insulin resistance (type 2), and it is defined as a fasting pGL ≥7 mmol/L, an HbA1C ≥6.5%, a 2-h plasma glucose ≥11.1 mmol/L during a glucose tolerance test (GTT), or a random glucose ≥11.1 mmol/L.\nBoth allo-HCT and auto-HCT recipients have been found to report DM more often than sibling donors (OR for allo-HCT, 3.65; 95% CI, 1.82–7.32; OR for auto-HCT, 2.03; 95% CI, 0.98–4.21) (Baker et al. 2007). High-dose corticosteroids (cumulative PRD dose of >0.25 mg/kg/day) increase the likelihood of developing DM (RR, 3.6; 95% CI, 1.7–7.5) and for having persistent DM at 2 years post-HCT (RR, 4.1; 95% CI, 1.0–18.2) (Majhail et al. 2009a, b). TBI is also a well-evidenced risk factor (Hirabayashi et al. 2014). TBI was linked to 3.42 times greater risk of diabetes development.",
+          "zh": "55.2.3 高血壓（Hypertension, HTN）\n在一般人口中，高血壓（HTN）定義為收縮壓（systolic BP）≥140 mmHg 或舒張壓（diastolic BP）≥90 mmHg；但在代謝症候群（MetS）的脈絡下，則定義為收縮壓 ≥135（或 ≥130）mmHg 或舒張壓 ≥85 mmHg。異體 HCT 後患者發生高血壓的可能性是同胞供者或自體 HCT 患者的 2.06 倍（95% CI 1.39–3.04）（Baker et al. 2007）。\n55.2.4 胰島素阻抗或糖尿病（IR/DM）\n糖尿病（DM）的特徵是因胰島素分泌缺損（第 1 型）與胰島素阻抗（第 2 型）所導致的高血糖，其診斷定義為空腹血漿葡萄糖（fasting pGL）≥7.0 mmol/L（126 mg/dL）、糖化血色素（HbA1C）≥6.5%、口服葡萄糖耐受試驗（GTT）2 小時血漿葡萄糖 ≥11.1 mmol/L（200 mg/dL），或隨機血糖 ≥11.1 mmol/L。\n研究發現，無論是異體 HCT 或自體 HCT 受者，通報罹患 DM 的比例皆高於同胞供者（異體 HCT 之勝算比 OR 為 3.65，95% CI 1.82–7.32；自體 HCT 之 OR 為 2.03，95% CI 0.98–4.21）（Baker et al. 2007）。高劑量皮質類固醇（累積 prednisone 劑量 >0.25 mg/kg/day）會增加發生 DM 的可能性（RR 3.6，95% CI 1.7–7.5）以及在 HCT 後 2 年仍持續患有 DM 的風險（RR 4.1，95% CI 1.0–18.2）（Majhail et al. 2009a, b）。TBI 亦是一項具充分實證的危險因子（Hirabayashi et al. 2014），與發生糖尿病的風險增加達 3.42 倍相關。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500006,
+          "page": 501,
+          "en": "55.3 Risk Factors for CVD in HCT Recipients\nThere are several well-defined risk factors which indicate increased susceptibility to post-transplant CVD (Table 55.1).\nTable 55.1 Risk factors for cardiovascular disease\nCategory | Risk factors\n• Patient’s baseline cardiovascular (CV) risk factors | Family history; Female sex; Smoking; Hypertension; Dyslipidemia; Diabetes; Obesity; Sedentary habit; Chronic kidney disease\n• Chemotherapy strategies used in the underlying disease | Anthracyclines (doxorubicin or equivalent >250 mg/m²); Steroids; Site-specific radiotherapy—Dose >35 Gy to a field including the heart or >15–35 Gy + doxorubicin >100 mg/m²; Total body irradiation; Other cardiotoxic agents: cyclophosphamide, busulfan, melphalan, thiotepa\n• GVHD prophylaxis | Steroids; Calcineurin inhibitors\n• GVHD | Grades II–IV aGvHD; Any grade cGvHD\n• Other secondary late effects | Hypogonadism; Premature menopause; Hypothyroidism\nSources: Chow et al. (2014); Oudin et al. (2015); Lopez-Fernandez et al. (2021); Greenfield et al. (2021)",
+          "zh": "55.3 HCT 受者發生心血管疾病（CVD）之危險因子\n有多項已明確界定的危險因子預示移植後對 CVD 的易感性增加（表 55.1）。\n表 55.1 心血管疾病之危險因子\n類別｜危險因子項目\n• 患者基線心血管（CV）危險因子｜家族病史；女性；吸菸；高血壓；血脂異常；糖尿病；肥胖；久坐不動習慣；慢性腎臟病\n• 原發疾病所使用之放化療策略｜小紅莓類藥物（Anthracyclines：doxorubicin 或當量累積劑量 >250 mg/m²）；類固醇；局部部位放射線治療——照射範圍包含心臟且劑量 >35 Gy，或照射劑量 >15–35 Gy 合併 doxorubicin >100 mg/m²；全身放射線照射（TBI）；其他具心臟毒性之調理藥物：cyclophosphamide、busulfan、melphalan、thiotepa\n• GVHD 預防藥物｜類固醇；鈣調磷酸酶抑制劑（CNI）\n• GVHD｜第 II–IV 級急性 GvHD；任何分級之慢性 GvHD\n• 其他次發性晚期效應｜性腺功能低下（Hypogonadism）；早發性停經；甲狀腺功能低下\n資料來源：Chow et al. (2014); Oudin et al. (2015); Lopez-Fernandez et al. (2021); Greenfield et al. (2021)。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500007,
+          "page": 501,
+          "en": "55.3.1 Contribution of Type of Transplant\nThe contribution of the type of transplant in the CVD developing is not well defined. In a previous EBMT study, the cumulative incidence for the first CV event was 7.5% at 15 years post-allo-HCT versus 2.3% post-auto-HCT (Tichelli et al. 2007a). However, a more recent cross-sectional multicenter study found no difference in auto- vs allo-HCT (Greenfield et al. 2021).\nA higher incidence of early cardiac events (ECE), occurring within the first 100 days after HCT, has been reported in PTCy-based approaches. Older age, sequential conditioning regimen, and CY exposure before transplant are additional risk factors for ECE in this context (Duléry et al. 2021).",
+          "zh": "55.3.1 移植類型的影響\n移植類型（自體或異體）對發生 CVD 的相對貢獻尚未完全定論。在先前的一項 EBMT 研究中，異體 HCT 後 15 年發生首次心血管事件的累積發生率為 7.5%，而自體 HCT 後則為 2.3%（Tichelli et al. 2007a）。然而，較近期的一項橫斷面多中心研究則發現自體與異體 HCT 之間並無顯著差異（Greenfield et al. 2021）。\n在使用以移植後環磷醯胺（PTCy）為基礎的移植平台中，已報導在 HCT 後前 100 天內發生早期心臟事件（early cardiac events, ECE，如心律不整、心衰竭、心包膜積液）的發生率較高。在此情境下，高齡、使用依序性調理方案（sequential conditioning regimen）以及移植前曾暴露於 cyclophosphamide（CY），是發生 ECE 的額外危險因子（Duléry et al. 2021）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500008,
+          "page": 501,
+          "en": "55.4 Metabolic Syndrome Definition\nMetabolic syndrome (MetS) is a cluster of interrelated factors which increase the risk of cardiovascular disease, diabetes mellitus (DM), and all-cause mortality. MetS is defined as the presence of three out of five risk factors as follows:\n• Abdominal obesity measured by waist circumference: with population- and country-specific definitions\n• Triglycerides ≥1.7 mmol/L\n• HDL-C (men) <1.0 mmol/L; HDL-C (women) <1.3 mmol/L\n• Blood pressure ≥130/≥85 mmHg\n• Fasting glucose ≥5.6 mmol/L",
+          "zh": "55.4 代謝症候群（Metabolic Syndrome）之定義\n代謝症候群（MetS）是一群相互關聯之危險因子的集合，會增加心血管疾病、糖尿病（DM）與全因死亡率的風險。MetS 的診斷定義為符合以下五項危險因子中的至少三項：\n• 以腰圍量測之腹部肥胖：依各族群與國家特定之切點定義\n• 三酸甘油酯（Triglycerides）≥1.7 mmol/L（150 mg/dL）\n• 高密度脂蛋白膽固醇（HDL-C）：男性 <1.0 mmol/L（40 mg/dL）；女性 <1.3 mmol/L（50 mg/dL）\n• 血壓 ≥130 / ≥85 mmHg\n• 空腹血糖 ≥5.6 mmol/L（100 mg/dL）",
+          "review": "ai-draft",
+          "endPage": 502
+        }
+      ]
+    },
+    {
+      "page": 502,
+      "blocks": [
+        {
+          "id": 5500009,
+          "page": 502,
+          "en": "The International Diabetes Federation (IDF) estimates 25% of the world’s population has MetS. After HCT, there is an increased incidence of MetS, with reported prevalence rates of 31–49% (Majhail et al. 2009b; Oudin et al. 2015; Greenfield et al. 2018). More recently, Greenfield et al. did a cross-sectional, multicenter, noninterventional study of 453 adult HCT patients surviving a minimum of 2 years post-transplant (Greenfield et al. 2021). Overall prevalence of MetS was 37.5%, rising to 53% in patients above 50 years old. Of significance, higher occurrence of cardiovascular events was found in those patients with MetS than in those without MetS (26.7% versus 9%, p < 0.001).",
+          "zh": "國際糖尿病聯盟（IDF）估計全球有 25% 的人口患有 MetS。在 HCT 後，MetS 的發生率顯著上升，文獻報導的盛行率達 31–49%（Majhail et al. 2009b; Oudin et al. 2015; Greenfield et al. 2018）。較近期，Greenfield 等人針對 453 名移植後存活至少 2 年以上的成年 HCT 患者進行了一項橫斷面、多中心、非介入性研究（Greenfield et al. 2021）：MetS 的整體盛行率為 37.5%，在 50 歲以上的患者中更上升至 53%。具有重要臨床意義的是，患有 MetS 的移植存活者發生心血管事件的比例顯著高於未患有 MetS 者（26.7% 對 9%，p < 0.001）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500010,
+          "page": 502,
+          "en": "55.4.1 The Immune System as a Mediator of Metabolic Syndrome\nExtensive research is now recognizing obesity as a chronic inflammatory state which drives the development of insulin resistance and MetS. Body mass index and the degree of abdominal adiposity are positively correlated with serum inflammatory markers, including C-reactive protein, TNF-alfa, and IL-6. In addition, adipocytes are now known to serve critical endocrine and immune function. Within lean individuals, adipose tissue is predominantly populated by regulatory T cells (Tregs), Th-2 cells, and M2 macrophages, whereas, in obese individuals, adipose tissue contains Th 1, M1 macrophages, CD8+ T cells, B cells, and dendritic cells. In the setting of HCT, significant tissue injury, inflammation, and perturbations in immune cell number and function occur, and this appears to play a key role in the initiation and development of the process (Turcotte et al. 2016).",
+          "zh": "55.4.1 免疫系統作為代謝症候群的介導者\n廣泛的研究如今已認識到，肥胖是一種慢性發炎狀態，會驅動胰島素阻抗與 MetS 的發生。身體質量指數（BMI）與腹部肥胖程度與血清發炎指標（包括 C-反應蛋白〔CRP〕、TNF-α 與 IL-6）呈正相關。此外，脂肪細胞如今已知具有關鍵的內分泌與免疫功能。在體態纖瘦的個體中，脂肪組織內主要進駐的是調節性 T 細胞（Tregs）、第二型輔助 T（Th2）細胞與 M2 型抗發炎巨噬細胞；相反地，在肥胖個體中，脂肪組織則富含第一型輔助 T（Th1）細胞、M1 型促發炎巨噬細胞、CD8+ T 細胞、B 細胞與樹突細胞。在 HCT 的情境下，會發生顯著的組織損傷、全身發炎以及免疫細胞數量與功能的劇烈擾動，這似乎在啟動與促進代謝症候群的病程中扮演了關鍵角色（Turcotte et al. 2016）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500011,
+          "page": 502,
+          "en": "55.5 Preventative Practices in the HCT and Late-Effect Clinic: A Practical Approach\nThe fact that HCT survivors require close follow-up and clinical review provides an opportunity to deliver screening for late effects and other long-term consequences of treatments. Screening for cardiovascular risk factors, including MetS and CV events, can be integrated into a broader program of long-term and late-effect follow-up. If cardiovascular risk factors are detected, they can usually be referred back to primary care clinicians or facilitate the referral to the appropriate specialist department. Algorithms, such as the Framingham risk score, may be useful in estimating a person’s projected risk of developing CVD in the general population. Although these CVD risk scores have not been validated in HCT survivors and may potentially underestimate the risk, they may be reasonable to use as an initial guideline. However, there should be direct referral for clinically urgent cardiovascular problems to relevant hospital specialists, and, ultimately, a close communication between the different clinicians involved in the care of the patient is indispensable.\nGiven the specialized complexity of HCT and its many complications, the HCT clinic and associated late-effect service can have a major role in coordinating care and facilitating communication between other relevant specialists. This aspect is underpinned by the FACT-JACIE standards which feature systematic provision for late-effect follow-up, including cardiovascular risk factors and complications (FACT-JACIE eighth edition).\nFor the HCT late-effect clinic, Table 55.2 has been published as a guide to facilitate screening in the EBMT-CIBMTR guidelines (DeFilipp et al. 2017). This is a consensus opinion, and there is no good evidence of the safety or clinical effectiveness of these recommendations in HCT patients. Based on the available evidence, it is important to screen for other factors in HCT patients, including (a) personal history, (b) family history, (c) type of transplant (allo or auto), (d) use of TBI, (e) history of acute or chronic GvHD, and (f) use of CNI (CSA, TAC) (DeFilipp et al. 2017).",
+          "zh": "55.5 HCT 與晚期效應門診的預防實務：務實的做法\nHCT 存活者需要密切追蹤與臨床回診的事實，提供了一個能系統性篩檢晚期效應及其他長期治療後果的良機。篩檢心血管危險因子（包含 MetS 與心血管事件）可整合至更廣泛的長期與晚期效應追蹤計畫中。一旦偵測到心血管危險因子，通常可轉介回基層醫療醫師，或協助轉介至適當的專科部門（如心臟科、新陳代謝科）共照。諸如佛明罕風險評分（Framingham risk score）等演算法，在一般人口中有助於預估個人未來發生 CVD 的風險；雖然這些通用 CVD 風險評分尚未在 HCT 存活者中完成確效且可能會低估實際風險，但作為初步參考基準仍是合理的。然而，對於臨床上緊急的心血管問題，應直接轉介至相關醫院專科醫師；最終，參與患者照護之不同科別臨床醫師之間的緊密溝通是不可或缺的。\n鑑於 HCT 及其諸多併發症的高度專業複雜性，HCT 門診與相關的晚期效應照護團隊在協調照護與促進各相關專科間的溝通上扮演重要角色。這一點也獲得 FACT-JACIE 認證標準（第 8 版）的支持，該標準明確要求為晚期效應追蹤（包含心血管危險因子與併發症）提供系統性的規範。\n針對 HCT 晚期效應門診，EBMT-CIBMTR 聯合指引已發布表 55.2 作為促進篩檢的參考指南（DeFilipp et al. 2017）。這是一份專家共識意見，目前在 HCT 患者中尚缺乏評估這些篩檢建議之安全性或臨床效益的高等級隨機實證。根據現有證據，在 HCT 患者中還必須一併篩檢並記錄其他特殊風險因素，包括：（a）個人既往病史、（b）家族病史、（c）移植類型（異體或自體）、（d）是否使用 TBI、（e）急性或慢性 GvHD 病史，以及（f）是否使用鈣調磷酸酶抑制劑（CNI：CSA、TAC）（DeFilipp et al. 2017）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 503,
+      "blocks": [
+        {
+          "id": 5500012,
+          "page": 503,
+          "en": "Table 55.2 Screening guidelines for metabolic syndrome and cardiovascular risk factors for adult and pediatric patients among the general population and HCT survivors (taken from DeFilipp et al. 2017)\nRisk factor | General adult population | Adult long-term HCT survivors (Majhail et al. 2012) | General pediatric population | Pediatric long-term HCT survivors (Pulsipher et al. 2012)\n• Weight, height, and BMI | Weight, height, and BMI assessment in all adults (no specific recommendation for screening interval) | No specific recommendations | Weight, height, and BMI assessment after 2 years of age (no specified screening interval) | Weight, height, and BMI assessment yearly\n• Dyslipidemia | For persons with increased risk for coronary heart disease, assessments should begin at age 20. The interval for screening should be shorter for people who have lipid levels close to those warranting therapy and longer intervals for those not at increased risk who have had repeatedly normal lipid levels | Lipid profile assessment every 5 years in males aged ≥35 years and females aged ≥45 years. Screening should start at age 20 for anyone at increased risk (smokers, DM, HTN, BMI ≥30 kg/m² and family history of heart disease before age 50 for male relatives or before age 60 for female relatives) | Lipid panel between 9 and 11 years of age or earlier if family history | Lipid profile at least every 5 years; if abnormal, screen annually\n• Blood pressure | Blood pressure assessment every 3–5 years in adults aged 18–39 years with normal blood pressure (<130/85 mmHg) who do not have other risk factors. Blood pressure assessment annually in adults aged ≥40 years and for those who are at increased risk for high blood pressure (blood pressure 130–139/85–89 mmHg, those who are overweight or obese, and African–Americans) | Blood pressure assessment at least every 2 years | Blood pressure assessment yearly after the age of 3 years, interpreted for age/sex/height | Blood pressure assessment at each visit and at least annually\n• Hyperglycemia | Screening for abnormal blood glucose (HbA1C, fasting plasma glucose, or oral glucose tolerance test) every 3 years in adults aged 40–70 years who are overweight or obese | Screening for type 2 DM every 3 years in adults aged ≥45 years or in those with sustained higher blood pressure (>135/80 mmHg) | Fasting glucose every 2 years after the age of 10 years in overweight children with other risk factors | Fasting glucose at least every 5 years; if abnormal, screen annually\nAbbreviations: BMI body mass index, DM diabetes mellitus, HbA1C hemoglobin A1C, HCT hematopoietic cell transplantation, HTN hypertension",
+          "zh": "表 55.2 一般人口與 HCT 長期存活者中成人及兒童患者之代謝症候群與心血管危險因子篩檢指引（取自 DeFilipp et al. 2017）\n篩檢項目｜一般成年人口｜成年 HCT 長期存活者（Majhail et al. 2012）｜一般兒童人口｜兒童 HCT 長期存活者（Pulsipher et al. 2012）\n• 體重、身高與 BMI｜所有成人皆應評估體重、身高與 BMI（無特定建議篩檢間隔）｜無特定額外建議（常規門診測量）｜2 歲以後評估體重、身高與 BMI（無特定篩檢間隔）｜每年評估一次體重、身高與 BMI\n• 血脂異常（Dyslipidemia）｜對於冠狀動脈心臟病風險較高者，應自 20 歲起開始評估。血脂數值接近需治療門檻者應縮短篩檢間隔；無風險增加且多次血脂正常者可拉長間隔｜≥35 歲男性與 ≥45 歲女性每 5 年評估一次血脂（Lipid profile）。任何具高風險者（吸菸、DM、HTN、BMI ≥30 kg/m²，以及男性親屬 50 歲前或女性親屬 60 歲前有早發心臟病家族史）應自 20 歲起開始篩檢（註：高風險或持續使用 CNI/類固醇者實務上更頻繁監測）｜9 至 11 歲之間檢測血脂組合，若有家族史則提早｜至少每 5 年檢測一次血脂；若異常則每年篩檢一次\n• 血壓（Blood pressure）｜血壓正常（<130/85 mmHg）且無其他危險因子的 18–39 歲成人，每 3–5 年量測一次。≥40 歲成人以及高血壓風險較高者（血壓 130–139/85–89 mmHg、過重或肥胖者、非裔美國人）每年評估一次｜至少每 2 年（及每次門診時）評估一次血壓｜3 歲以後每年評估一次血壓，並依年齡／性別／身高百分位判讀｜每次門診回診時及至少每年評估一次血壓\n• 高血糖（Hyperglycemia）｜過重或肥胖的 40–70 歲成人，每 3 年篩檢一次異常血糖（HbA1C、空腹血漿葡萄糖或口服葡萄糖耐受試驗）｜≥45 歲成人或血壓持續偏高（>135/80 mmHg）者，每 3 年篩檢一次第 2 型 DM｜過重且帶有其他危險因子的兒童，於 10 歲以後每 2 年檢測一次空腹血糖｜至少每 5 年檢測一次空腹血糖；若異常則每年篩檢一次\n縮寫：BMI：身體質量指數；DM：糖尿病；HbA1C：糖化血色素；HCT：造血細胞移植；HTN：高血壓。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 504,
+      "blocks": [
+        {
+          "id": 5500013,
+          "page": 504,
+          "en": "55.6 Future Directions: Implementation, Education, and Research\nAs survival after HCT gradually increases, there is also increased recognition of HCT-related CVD and its risk factors, including MetS. Most research has been cross-sectional and observational. There are progressively more information in the pathogenesis of MetS, but still more prospective research is needed both on defining the incidence above the normal aging population and on interventional strategies, targeting individual risk factors and/or components of the MetS.\nNew indications for HCT, such as systemic autoimmune disease, and alternative platforms, such as haplo-HCT or cord-HCT, require individualized assessment. Pharmacological, lifestyle, and rehabilitation interventions are common in the general population in respect to CVD. However, their impact in HCT recipients (both before and after HCT) needs to be defined in the context of the wide range of indications and age at which patients receive their HCT, along with the individual prognosis of each indication after successful HCT.",
+          "zh": "55.6 未來方向：臨床落實、教育與研究\n隨著 HCT 後的存活率逐漸提升，學界對於 HCT 相關 CVD 及其危險因子（包括 MetS）的認識也日益加深。目前的絕大多數研究屬於橫斷面與觀察性研究。雖然對於 MetS 致病機轉的了解逐漸增加，但仍需要更多的前瞻性研究，以釐清其高於正常老化人口的真實發生率，並評估針對個別危險因子及／或 MetS 各項組成要件的介入治療策略。\nHCT 的新適應症（例如全身性自體免疫疾病）以及替代供者平台（例如半相合 HCT 或臍帶血 HCT）皆需要個別化的風險評估。在一般人口中，針對 CVD 的藥物治療、生活型態調整與復健介入相當普遍；然而，這些介入措施在 HCT 受者（包含 HCT 前與 HCT 後）身上的實際影響，仍需結合患者接受 HCT 時廣泛的適應症範圍、年齡以及各適應症在成功 HCT 後的個別預後，進一步加以界定。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500014,
+          "page": 504,
+          "en": "Key Points\n• Long-term survivors have an increased risk of premature MetS and CVD. The best approach is to screen all patients (i.e., both autologous and allogeneic HCT) according to international consensus guidelines (DeFilipp et al. 2017) and manage risk factors on an individual basis.\n• The challenge of universal implementation of screening and management of late effects across various health services providing HCT will be facilitated by FACT-JACIE accreditation standards.\n• Randomized controlled trials of interventional strategies and mechanistic studies of cardiovascular risk in HCT survivors are still needed.",
+          "zh": "章末重點（Key Points）\n• HCT 長期存活者發生早發性代謝症候群（MetS）與心血管疾病（CVD）的風險顯著增加。最佳做法是依據國際共識指引（DeFilipp et al. 2017）對所有患者（即包含自體與異體 HCT）進行系統性篩檢，並個別化管理危險因子。\n• FACT-JACIE 認證標準將有助於推動各家提供 HCT 的醫療機構全面落實晚期效應的篩檢與管理。\n• 針對 HCT 存活者心血管風險的介入策略隨機對照試驗以及致病機轉研究，目前仍有迫切需求。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5500015,
+          "page": 504,
+          "en": "Baker KS, Ness KK, Steinberger J, et al. Diabetes, hypertension, and cardiovascular events in survivors of hematopoietic cell transplantation: a report from the bone marrow transplantation survivor study. Blood. 2007;109:1765–72.",
+          "zh": "Baker KS, Ness KK, Steinberger J, et al. Diabetes, hypertension, and cardiovascular events in survivors of hematopoietic cell transplantation: a report from the bone marrow transplantation survivor study. Blood. 2007;109:1765–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Baker%20KS%2C%20Ness%20KK%2C%20Steinberger%20J%2C%20et%20al.%20Diabetes%2C%20hypertension%2C%20and%20cardiovascular%20events%20in%20survivors%20of%20hematopoietic%20cell%20transplantation%3A%20a%20report%20from%20the%20bone%20marrow%20transplantation%20survivor%20study.%20Blood.%202007%3B109%3A1765%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Baker%20KS%2C%20Ness%20KK%2C%20Steinberger%20J%2C%20et%20al.%20Diabetes%2C%20hypertension%2C%20and%20cardiovascular%20events%20in%20survivors%20of%20hematopoietic%20cell%20transplantation%3A%20a%20report%20from%20the%20bone%20marrow%20transplantation%20survivor%20study.%20Blood.%202007%3B109%3A1765%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 5500016,
+          "page": 504,
+          "en": "Chow EJ, Baker KS, Lee SJ, et al. Influence of conventional cardiovascular risk factors and lifestyle characteristics on cardiovascular disease after hematopoietic cell transplantation. J Clin Oncol. 2014;32:191–8.",
+          "zh": "Chow EJ, Baker KS, Lee SJ, et al. Influence of conventional cardiovascular risk factors and lifestyle characteristics on cardiovascular disease after hematopoietic cell transplantation. J Clin Oncol. 2014;32:191–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chow%20EJ%2C%20Baker%20KS%2C%20Lee%20SJ%2C%20et%20al.%20Influence%20of%20conventional%20cardiovascular%20risk%20factors%20and%20lifestyle%20characteristics%20on%20cardiovascular%20disease%20after%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202014%3B32%3A191%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chow%20EJ%2C%20Baker%20KS%2C%20Lee%20SJ%2C%20et%20al.%20Influence%20of%20conventional%20cardiovascular%20risk%20factors%20and%20lifestyle%20characteristics%20on%20cardiovascular%20disease%20after%20hematopoietic%20cell%20transplantation.%20J%20Clin%20Oncol.%202014%3B32%3A191%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5500017,
+          "page": 504,
+          "en": "DeFilipp Z, Duarte RF, Snowden JA, et al. Complications and quality of life working party, metabolic syndrome and cardiovascular disease following hematopoietic cell transplantation: screening and preventive practice recommendations from CIBMTR and EBMT. Bone Marrow Transplant. 2017;52:173–82.",
+          "zh": "DeFilipp Z, Duarte RF, Snowden JA, et al. Complications and quality of life working party, metabolic syndrome and cardiovascular disease following hematopoietic cell transplantation: screening and preventive practice recommendations from CIBMTR and EBMT. Bone Marrow Transplant. 2017;52:173–82.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=DeFilipp%20Z%2C%20Duarte%20RF%2C%20Snowden%20JA%2C%20et%20al.%20Complications%20and%20quality%20of%20life%20working%20party%2C%20metabolic%20syndrome%20and%20cardiovascular%20disease%20following%20hematopoietic%20cell%20transplantation%3A%20screening%20and%20preventive%20practice%20recommendations%20from%20CIBMTR%20and%20EBMT.%20Bone%20Marrow%20Transplant.%202017%3B52%3A173%E2%80%9382."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=DeFilipp%20Z%2C%20Duarte%20RF%2C%20Snowden%20JA%2C%20et%20al.%20Complications%20and%20quality%20of%20life%20working%20party%2C%20metabolic%20syndrome%20and%20cardiovascular%20disease%20following%20hematopoietic%20cell%20transplantation%3A%20screening%20and%20preventive%20practice%20recommendations%20from%20CIBMTR%20and%20EBMT.%20Bone%20Marrow%20Transplant.%202017%3B52%3A173%E2%80%9382."
+            }
+          ]
+        },
+        {
+          "id": 5500018,
+          "page": 504,
+          "en": "Duléry R, Mohty R, Labopin M, et al. Early cardiac toxicity associated with post-transplant cyclophosphamide in allogeneic stem cell transplantation. JACC CardioOncol. 2021;3(2):250–9.",
+          "zh": "Duléry R, Mohty R, Labopin M, et al. Early cardiac toxicity associated with post-transplant cyclophosphamide in allogeneic stem cell transplantation. JACC CardioOncol. 2021;3(2):250–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dul%C3%A9ry%20R%2C%20Mohty%20R%2C%20Labopin%20M%2C%20et%20al.%20Early%20cardiac%20toxicity%20associated%20with%20post-transplant%20cyclophosphamide%20in%20allogeneic%20stem%20cell%20transplantation.%20JACC%20CardioOncol.%202021%3B3%282%29%3A250%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dul%C3%A9ry%20R%2C%20Mohty%20R%2C%20Labopin%20M%2C%20et%20al.%20Early%20cardiac%20toxicity%20associated%20with%20post-transplant%20cyclophosphamide%20in%20allogeneic%20stem%20cell%20transplantation.%20JACC%20CardioOncol.%202021%3B3%282%29%3A250%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5500019,
+          "page": 504,
+          "en": "Greenfield DM, Salooja N, Peczynski C, et al. Metabolic syndrome is common following haematopoietic cell transplantation (HCT) and is associated with increased cardiovascular disease and second cancers: an EBMT cross-sectional non-interventional study. Blood. 2018;132:251.",
+          "zh": "Greenfield DM, Salooja N, Peczynski C, et al. Metabolic syndrome is common following haematopoietic cell transplantation (HCT) and is associated with increased cardiovascular disease and second cancers: an EBMT cross-sectional non-interventional study. Blood. 2018;132:251.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Greenfield%20DM%2C%20Salooja%20N%2C%20Peczynski%20C%2C%20et%20al.%20Metabolic%20syndrome%20is%20common%20following%20haematopoietic%20cell%20transplantation%20%28HCT%29%20and%20is%20associated%20with%20increased%20cardiovascular%20disease%20and%20second%20cancers%3A%20an%20EBMT%20cross-sectional%20non-interventional%20study.%20Blood.%202018%3B132%3A251."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Greenfield%20DM%2C%20Salooja%20N%2C%20Peczynski%20C%2C%20et%20al.%20Metabolic%20syndrome%20is%20common%20following%20haematopoietic%20cell%20transplantation%20%28HCT%29%20and%20is%20associated%20with%20increased%20cardiovascular%20disease%20and%20second%20cancers%3A%20an%20EBMT%20cross-sectional%20non-interventional%20study.%20Blood.%202018%3B132%3A251."
+            }
+          ]
+        },
+        {
+          "id": 5500020,
+          "page": 504,
+          "en": "Greenfield DM, Salooja N, Peczynski C, et al. Metabolic syndrome and cardiovascular disease after hematopoietic stem cell transplantation (HCT) in adults: an EBMT, cross-sectional non-interventional study. Bone Marrow Transplant. 2021;56:2820–5.",
+          "zh": "Greenfield DM, Salooja N, Peczynski C, et al. Metabolic syndrome and cardiovascular disease after hematopoietic stem cell transplantation (HCT) in adults: an EBMT, cross-sectional non-interventional study. Bone Marrow Transplant. 2021;56:2820–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Greenfield%20DM%2C%20Salooja%20N%2C%20Peczynski%20C%2C%20et%20al.%20Metabolic%20syndrome%20and%20cardiovascular%20disease%20after%20hematopoietic%20stem%20cell%20transplantation%20%28HCT%29%20in%20adults%3A%20an%20EBMT%2C%20cross-sectional%20non-interventional%20study.%20Bone%20Marrow%20Transplant.%202021%3B56%3A2820%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Greenfield%20DM%2C%20Salooja%20N%2C%20Peczynski%20C%2C%20et%20al.%20Metabolic%20syndrome%20and%20cardiovascular%20disease%20after%20hematopoietic%20stem%20cell%20transplantation%20%28HCT%29%20in%20adults%3A%20an%20EBMT%2C%20cross-sectional%20non-interventional%20study.%20Bone%20Marrow%20Transplant.%202021%3B56%3A2820%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5500021,
+          "page": 504,
+          "en": "Hirabayashi K, Nakazawa Y, Matsuura H, et al. Risk factors for diabetes mellitus and impaired glucose tolerance following allogeneic hematopoietic stem cell transplantation in pediatric patients with hematological malignancies. Int J Hematol. 2014;99:477–86.",
+          "zh": "Hirabayashi K, Nakazawa Y, Matsuura H, et al. Risk factors for diabetes mellitus and impaired glucose tolerance following allogeneic hematopoietic stem cell transplantation in pediatric patients with hematological malignancies. Int J Hematol. 2014;99:477–86.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hirabayashi%20K%2C%20Nakazawa%20Y%2C%20Matsuura%20H%2C%20et%20al.%20Risk%20factors%20for%20diabetes%20mellitus%20and%20impaired%20glucose%20tolerance%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20pediatric%20patients%20with%20hematological%20malignancies.%20Int%20J%20Hematol.%202014%3B99%3A477%E2%80%9386."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hirabayashi%20K%2C%20Nakazawa%20Y%2C%20Matsuura%20H%2C%20et%20al.%20Risk%20factors%20for%20diabetes%20mellitus%20and%20impaired%20glucose%20tolerance%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20pediatric%20patients%20with%20hematological%20malignancies.%20Int%20J%20Hematol.%202014%3B99%3A477%E2%80%9386."
+            }
+          ]
+        },
+        {
+          "id": 5500022,
+          "page": 504,
+          "en": "Lopez-Fernandez T, Sanchez Vadillo I, de la Guia AL, Barbier KH. Cardiovascular issues in hematopoietic stem cell transplantation (HSCT). Curr Treat Options in Oncol. 2021;22:51.",
+          "zh": "Lopez-Fernandez T, Sanchez Vadillo I, de la Guia AL, Barbier KH. Cardiovascular issues in hematopoietic stem cell transplantation (HSCT). Curr Treat Options in Oncol. 2021;22:51.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lopez-Fernandez%20T%2C%20Sanchez%20Vadillo%20I%2C%20de%20la%20Guia%20AL%2C%20Barbier%20KH.%20Cardiovascular%20issues%20in%20hematopoietic%20stem%20cell%20transplantation%20%28HSCT%29.%20Curr%20Treat%20Options%20in%20Oncol.%202021%3B22%3A51."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lopez-Fernandez%20T%2C%20Sanchez%20Vadillo%20I%2C%20de%20la%20Guia%20AL%2C%20Barbier%20KH.%20Cardiovascular%20issues%20in%20hematopoietic%20stem%20cell%20transplantation%20%28HSCT%29.%20Curr%20Treat%20Options%20in%20Oncol.%202021%3B22%3A51."
+            }
+          ]
+        },
+        {
+          "id": 5500023,
+          "page": 504,
+          "en": "Majhail NS, Challa TR, Mulrooney DA, et al. Hypertension and diabetes mellitus in adult and pediatric survivors of allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2009a;15:1100–7.",
+          "zh": "Majhail NS, Challa TR, Mulrooney DA, et al. Hypertension and diabetes mellitus in adult and pediatric survivors of allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2009a;15:1100–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Majhail%20NS%2C%20Challa%20TR%2C%20Mulrooney%20DA%2C%20et%20al.%20Hypertension%20and%20diabetes%20mellitus%20in%20adult%20and%20pediatric%20survivors%20of%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202009a%3B15%3A1100%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Majhail%20NS%2C%20Challa%20TR%2C%20Mulrooney%20DA%2C%20et%20al.%20Hypertension%20and%20diabetes%20mellitus%20in%20adult%20and%20pediatric%20survivors%20of%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202009a%3B15%3A1100%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5500024,
+          "page": 504,
+          "en": "Majhail NS, Flowers ME, Ness KK, et al. High prevalence of metabolic syndrome after allogeneic hematopoietic cell transplantation. Bone Marrow Transplant. 2009b;43:49–54.",
+          "zh": "Majhail NS, Flowers ME, Ness KK, et al. High prevalence of metabolic syndrome after allogeneic hematopoietic cell transplantation. Bone Marrow Transplant. 2009b;43:49–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Majhail%20NS%2C%20Flowers%20ME%2C%20Ness%20KK%2C%20et%20al.%20High%20prevalence%20of%20metabolic%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202009b%3B43%3A49%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Majhail%20NS%2C%20Flowers%20ME%2C%20Ness%20KK%2C%20et%20al.%20High%20prevalence%20of%20metabolic%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202009b%3B43%3A49%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 5500025,
+          "page": 504,
+          "en": "Majhail NS, Rizzo JD, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2012;18:348–71.",
+          "zh": "Majhail NS, Rizzo JD, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2012;18:348–71.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Majhail%20NS%2C%20Rizzo%20JD%2C%20Lee%20SJ%2C%20et%20al.%20Recommended%20screening%20and%20preventive%20practices%20for%20long-term%20survivors%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A348%E2%80%9371."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Majhail%20NS%2C%20Rizzo%20JD%2C%20Lee%20SJ%2C%20et%20al.%20Recommended%20screening%20and%20preventive%20practices%20for%20long-term%20survivors%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A348%E2%80%9371."
+            }
+          ]
+        },
+        {
+          "id": 5500026,
+          "page": 504,
+          "en": "Oudin C, Auquier P, Bertrand Y, Contet A, Kanold J, Sirvent N, et al. Metabolic syndrome in adults who received hematopoietic stem cell transplantation for acute childhood leukemia: an LEA study. Bone Marrow Transplant. 2015;50:1438–44.",
+          "zh": "Oudin C, Auquier P, Bertrand Y, Contet A, Kanold J, Sirvent N, et al. Metabolic syndrome in adults who received hematopoietic stem cell transplantation for acute childhood leukemia: an LEA study. Bone Marrow Transplant. 2015;50:1438–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Oudin%20C%2C%20Auquier%20P%2C%20Bertrand%20Y%2C%20Contet%20A%2C%20Kanold%20J%2C%20Sirvent%20N%2C%20et%20al.%20Metabolic%20syndrome%20in%20adults%20who%20received%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20childhood%20leukemia%3A%20an%20LEA%20study.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1438%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Oudin%20C%2C%20Auquier%20P%2C%20Bertrand%20Y%2C%20Contet%20A%2C%20Kanold%20J%2C%20Sirvent%20N%2C%20et%20al.%20Metabolic%20syndrome%20in%20adults%20who%20received%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20childhood%20leukemia%3A%20an%20LEA%20study.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1438%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 5500027,
+          "page": 504,
+          "en": "Pulsipher MA, Skinner R, McDonald GB, et al. National Cancer Institute, National Heart, Lung and Blood Institute/Pediatric Blood and Marrow Transplantation Consortium first international consensus conference on late effects after pediatric hematopoietic cell transplantation: the need for pediatric-specific long-term follow-up guidelines. Biol Blood Marrow Transplant. 2012;18:334–47.",
+          "zh": "Pulsipher MA, Skinner R, McDonald GB, et al. National Cancer Institute, National Heart, Lung and Blood Institute/Pediatric Blood and Marrow Transplantation Consortium first international consensus conference on late effects after pediatric hematopoietic cell transplantation: the need for pediatric-specific long-term follow-up guidelines. Biol Blood Marrow Transplant. 2012;18:334–47.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pulsipher%20MA%2C%20Skinner%20R%2C%20McDonald%20GB%2C%20et%20al.%20National%20Cancer%20Institute%2C%20National%20Heart%2C%20Lung%20and%20Blood%20Institute/Pediatric%20Blood%20and%20Marrow%20Transplantation%20Consortium%20first%20international%20consensus%20conference%20on%20late%20effects%20after%20pediatric%20hematopoietic%20cell%20transplantation%3A%20the%20need%20for%20pediatric-specific%20long-term%20follow-up%20guidelines.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A334%E2%80%9347."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pulsipher%20MA%2C%20Skinner%20R%2C%20McDonald%20GB%2C%20et%20al.%20National%20Cancer%20Institute%2C%20National%20Heart%2C%20Lung%20and%20Blood%20Institute/Pediatric%20Blood%20and%20Marrow%20Transplantation%20Consortium%20first%20international%20consensus%20conference%20on%20late%20effects%20after%20pediatric%20hematopoietic%20cell%20transplantation%3A%20the%20need%20for%20pediatric-specific%20long-term%20follow-up%20guidelines.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A334%E2%80%9347."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 505,
+      "blocks": [
+        {
+          "id": 5500028,
+          "page": 505,
+          "en": "Tichelli A, Bucher C, Rovo A, et al. Premature cardiovascular disease after allogeneic hematopoietic stem-cell transplantation. Blood. 2007a;110:3463–71.",
+          "zh": "Tichelli A, Bucher C, Rovo A, et al. Premature cardiovascular disease after allogeneic hematopoietic stem-cell transplantation. Blood. 2007a;110:3463–71.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tichelli%20A%2C%20Bucher%20C%2C%20Rovo%20A%2C%20et%20al.%20Premature%20cardiovascular%20disease%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Blood.%202007a%3B110%3A3463%E2%80%9371."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tichelli%20A%2C%20Bucher%20C%2C%20Rovo%20A%2C%20et%20al.%20Premature%20cardiovascular%20disease%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Blood.%202007a%3B110%3A3463%E2%80%9371."
+            }
+          ]
+        },
+        {
+          "id": 5500029,
+          "page": 505,
+          "en": "Tichelli A, Bucher C, Rovo A, et al. Premature cardiovascular disease after allogeneic hematopoietic stem-cell transplantation. Blood. 2007b;110:3463–71.",
+          "zh": "Tichelli A, Bucher C, Rovo A, et al. Premature cardiovascular disease after allogeneic hematopoietic stem-cell transplantation. Blood. 2007b;110:3463–71.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tichelli%20A%2C%20Bucher%20C%2C%20Rovo%20A%2C%20et%20al.%20Premature%20cardiovascular%20disease%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Blood.%202007b%3B110%3A3463%E2%80%9371."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tichelli%20A%2C%20Bucher%20C%2C%20Rovo%20A%2C%20et%20al.%20Premature%20cardiovascular%20disease%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Blood.%202007b%3B110%3A3463%E2%80%9371."
+            }
+          ]
+        },
+        {
+          "id": 5500030,
+          "page": 505,
+          "en": "Turcotte LM, Yingst A, Verneris MR. Metabolic syndrome after haematopoietic stem cell transplantation: an intersection of treatment toxicity and immune dysfunction. Biol Blood Marrow Transplant. 2016;22(7):1159–66.",
+          "zh": "Turcotte LM, Yingst A, Verneris MR. Metabolic syndrome after haematopoietic stem cell transplantation: an intersection of treatment toxicity and immune dysfunction. Biol Blood Marrow Transplant. 2016;22(7):1159–66.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Turcotte%20LM%2C%20Yingst%20A%2C%20Verneris%20MR.%20Metabolic%20syndrome%20after%20haematopoietic%20stem%20cell%20transplantation%3A%20an%20intersection%20of%20treatment%20toxicity%20and%20immune%20dysfunction.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%287%29%3A1159%E2%80%9366."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Turcotte%20LM%2C%20Yingst%20A%2C%20Verneris%20MR.%20Metabolic%20syndrome%20after%20haematopoietic%20stem%20cell%20transplantation%3A%20an%20intersection%20of%20treatment%20toxicity%20and%20immune%20dysfunction.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%287%29%3A1159%E2%80%9366."
+            }
+          ]
+        },
+        {
+          "id": 5500031,
+          "page": 505,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
