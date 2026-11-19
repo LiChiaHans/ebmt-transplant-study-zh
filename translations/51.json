@@ -1,0 +1,485 @@
+{
+  "id": 51,
+  "title": "Haemorrhagic Cystitis and Renal Dysfunction",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 32,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 473,
+      "blocks": [
+        {
+          "id": 5100001,
+          "page": 473,
+          "en": "51 Haemorrhagic Cystitis and Renal Dysfunction\nSimone Cesaro",
+          "zh": "51 出血性膀胱炎與腎功能障礙（Haemorrhagic Cystitis and Renal Dysfunction） — Simone Cesaro",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_51"
+            }
+          ]
+        },
+        {
+          "id": 5100002,
+          "page": 473,
+          "en": "51.1 Haemorrhagic Cystitis\n51.1.1 Introduction\nHaemorrhagic cystitis (HC) is a frequent complication after haematopoietic cell transplantation (HCT). According to the time of occurrence after HCT, HC is defined as early onset and late onset. Early-onset HC occurs typically during or within 48 h after the end of the conditioning regimen, and it is the result of a direct toxic effect of drug metabolites and radiotherapy on the bladder mucosa. Late-onset HC usually starts around the time of neutrophil engraftment (weeks 2–4) up to the second to third month after HCT (Hirsch and Pergam 2016). Haematuria, with or without symptoms, is classified into four categories: microscopic (grade 1), macroscopic (grade 2), macroscopic with clots (grade 3) and macroscopic with clots and renal failure secondary to urinary tract obstruction (Droller et al. 1982; Bedi et al. 1995). HC is associated with haematuria >grade 2.",
+          "zh": "51.1 出血性膀胱炎（Haemorrhagic Cystitis, HC）\n51.1.1 前言\n出血性膀胱炎（HC）是造血細胞移植（HCT）後常見的併發症。根據在 HCT 後發生的時間點，HC 可分為早發性（early-onset）與晚發性（late-onset）兩類。早發性 HC 典型發生於調理方案進行期間或結束後 48 小時內，是由藥物代謝產物（如 cyclophosphamide 的代謝物丙烯醛〔acrolein〕）與放射線治療對膀胱黏膜造成的直接毒性損傷所致。晚發性 HC 則通常在嗜中性球植入前後（第 2–4 週）開始出現，並可持續至 HCT 後的第 2 至第 3 個月（Hirsch and Pergam 2016）。血尿（haematuria）無論是否伴隨膀胱刺激症狀，臨床上分為四個等級（Droller / Bedi 分級）：第 1 級為顯微血尿（microscopic）；第 2 級為肉眼可見血尿（macroscopic）；第 3 級為肉眼血尿伴隨血塊（macroscopic with clots）；第 4 級則為肉眼血尿伴隨血塊，且因泌尿道阻塞而次發腎衰竭（或需手術介入處理）（Droller et al. 1982; Bedi et al. 1995）。臨床上具有意義的 HC 通常與 ≥第 2 級（原文寫作 >grade 2）的肉眼血尿伴隨下泌尿道症狀相關。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100003,
+          "page": 473,
+          "en": "51.1.2 Risk Factors\nThe presence of pro-haemorrhagic abnormalities of coagulation, severe thrombocytopenia and mucosal inflammation are predisposing factors for any type of HC.\nThe main risk factor for late-onset HC is infection by polyomavirus BK (BKPyV), whereas other viruses such as adenovirus, cytomegalovirus and JC polyomavirus have been rarely implicated. BKPyV is a common cause of asymptomatic or mild flu-like infection during early infancy and childhood, and more than 90% of adults are seropositive for BKPyV. The route of transmission is by droplets or contact with oral saliva and respiratory tract secretions. The virus persists latently in renal tubular epithelial and urothelial cell and can replicate as the host virus-specific T-cell response is lost or severely weakened. Mild to moderate asymptomatic BKPyV viruria is seen in 5–10% of healthy individuals, especially the oldest and the pregnant women, whereas high-load BKPyV viruria is detected in 50–60% of patients who underwent allogeneic HCT due to the severe immunosuppression condition.\nBKPyV viruria develops in more than 50% of allogeneic HCT, but overt HC occurs in about 20% of patients because several patient- or transplant-related factors affect its occurrence: the type of graft (CB and PB > BM); the type of donor (Haplo > URD > MRD); the type of conditioning regimen (MAC > RIC); the use in the conditioning regimen of ATG, CY, or BU; the occurrence of acute GVHD grade 2–4; and, among the paediatric patients, a recipient age >7 years.",
+          "zh": "51.1.2 危險因子\n存在促出血性的凝血功能異常、嚴重血小板低下以及黏膜發炎，是任何類型 HC 的共同易感因素。\n晚發性 HC 最主要的危險因子是 BK 多瘤病毒（polyomavirus BK, BKPyV）感染，而其他病毒如腺病毒（adenovirus, ADV）、巨細胞病毒（CMV）及 JC 多瘤病毒（JCV）則較少涉及。BKPyV 在嬰幼兒與兒童早期常引起無症狀或輕微類流感感染，超過 90% 的成年人血清 BKPyV 抗體呈陽性。其傳播途徑為飛沫傳染或接觸口腔唾液與呼吸道分泌物。此病毒會長期潛伏於腎小管上皮細胞與泌尿道上皮細胞（urothelial cells）中；當宿主的病毒特異性 T 細胞免疫反應喪失或嚴重減弱時，病毒即可大量複製。在 5%–10% 的健康個體（特別是高齡長者與孕婦）中可見到輕至中度的無症狀 BKPyV 病毒尿症（viruria）；而在接受異體 HCT 的患者中，由於處於深度免疫抑制狀態，高達 50%–60% 的患者會偵測到高病毒量的 BKPyV 病毒尿症。\n雖然超過 50% 的異體 HCT 受贈者會出現 BKPyV 病毒尿症，但僅約 20% 的患者會發展出顯性出血性膀胱炎（overt HC），這是因為多項患者或移植相關因素會共同影響其發病：移植物來源（臍帶血〔CB〕與周邊血〔PB〕＞骨髓〔BM〕）、捐贈者類型（半相合〔Haplo〕＞非親屬〔URD〕＞相合親屬〔MRD〕）、調理方案強度（骨髓清除性〔MAC〕＞減低強度〔RIC〕）、調理方案中使用 ATG、CY 或 BU、發生第 2–4 級急性 GVHD，以及在兒童患者中受贈者年齡 >7 歲。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100004,
+          "page": 473,
+          "en": "S. Cesaro (*)\nPediatric Hematology Oncology, Azienda Ospedaliera Universitaria Integrata, Verona, Italy\ne-mail: simone.cesaro@aovr.veneto.it\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_51",
+          "zh": "作者單位與聯絡資訊：\nS. Cesaro（通訊作者）：義大利維洛納（Verona）整合大學醫院小兒血液腫瘤科；電子郵件：simone.cesaro@aovr.veneto.it。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_51。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 474,
+      "blocks": [
+        {
+          "id": 5100005,
+          "page": 474,
+          "en": "51.1.3 Pathogenesis\nThe cause of post-HCT HC is multifactorial and includes the combined effects of the extensive viral cytopathic damage of the bladder mucosa, the chemical or actinic damage induced by the conditioning regimen and the immune donor-derived alloreactivity targeting bladder mucosa (Cesaro et al. 2018). In patients receiving allogeneic HCT, BKPyV viruria >10^7 genomic copies/mL and BKPyV viremia >10^3 genomic copies/mL are predictive factors for BKPyV-HC (Cesaro et al. 2015).",
+          "zh": "51.1.3 致病機轉\nHCT 後發生 HC 的成因是多因素共同作用的結果（三階段模型），包含：（1）調理方案引起的化學性或放射性（actinic）膀胱黏膜初始損傷；（2）免疫抑制期間廣泛的病毒細胞病變（viral cytopathic damage）進一步破壞膀胱黏膜；以及（3）造血重建後源自捐贈者的同種異體免疫反應（donor-derived alloreactivity）攻擊受病毒感染的膀胱黏膜（Cesaro et al. 2018）。在接受異體 HCT 的患者中，尿液 BKPyV 病毒量（viruria）>10⁷ genomic copies/mL 以及血漿 BKPyV 病毒量（viremia）>10³ genomic copies/mL 是發生 BKPyV-HC 的重要預測因子（Cesaro et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100006,
+          "page": 474,
+          "en": "51.1.4 Diagnosis\nThe diagnosis of BKPyV-HC is defined by the presence of macrohaematuria (>grade 2), of clinical symptoms/signs of cystitis (dysuria, increased urinary frequency, lower abdominal pain) and of high-load BKPyV viruria (>10^7) (Cesaro et al. 2018). Two-thirds of patients have also BKPyV viremia (>10^3) (Erard et al. 2005; Cesaro et al. 2015). Other infectious and non-infectious causes of HC must be excluded. Instrumental examination such as ultrasound or CT scan shows signs of bladder inflammation (oedema and thickening of bladder wall) and the presence of intra-bladder clots or obstruction of urinary tract.\nThe reduction of both BKPyV viruria and BKPyV viremia has been correlated with clinical recovery from HC. The monitoring of BKPyV viruria and viremia of HCT patients is not recommended since the type of pre-emptive intervention is not established.",
+          "zh": "51.1.4 診斷（ECIL 診斷三要素）\n根據歐洲白血病感染會議（ECIL）指引，BKPyV-HC 的確診定義需同時具備三項要素：（1）肉眼可見血尿（≥第 2 級）；（2）膀胱炎的臨床症狀／徵象（解尿疼痛困難〔dysuria〕、頻尿、下腹恥骨上疼痛）；以及（3）高病毒量的 BKPyV 病毒尿症（>10⁷ copies/mL）（Cesaro et al. 2018）。此外，約三分之二的患者同時伴有 BKPyV 病毒血症（>10³ copies/mL）（Erard et al. 2005; Cesaro et al. 2015）。診斷時必須排除其他感染性（如細菌、腺病毒）與非感染性原因引起的出血性膀胱炎。超音波或 CT 掃描等儀器檢查可顯示膀胱發炎的徵象（膀胱壁水腫與增厚）以及膀胱內血塊或泌尿道阻塞的存在。\nBKPyV 病毒尿症與病毒血症數值的下降，與 HC 的臨床康復呈正相關。然而，由於目前針對無症狀病毒複製的搶先治療（pre-emptive intervention）策略尚未確立，故不建議在無症狀的 HCT 患者中常規篩檢監測 BKPyV 病毒尿症與病毒血症。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100007,
+          "page": 474,
+          "en": "51.1.5 Prophylaxis\nEffective preventive measures are possible only for early-onset HC in patients who receive high dose of CY as part of the conditioning regimen or GVHD prophylaxis (HCT with PTCy). These are based on hyperhydration and the administration of continuous intravenous infusion of mesna, which reduce the exposure of the bladder mucosa to acrolein and other toxic catabolites.\nThe bladder irrigation through a two- or three-way urinary catheter is no more effective than hyperhydration, and considering the invasiveness and patient discomfort, its use is not recommended.\nIn the late-onset HC, BKPyV replication has a key role in exacerbating the damage of bladder mucosa through its cytopathic effect and in inducing the donor immune alloreactivity targeting the bladder mucosa. Although fluoroquinolones inhibit in vitro BKPyV, the efficacy in vivo is weak and do not affect significantly the incidence of HC. Considering the risk of inducing bacterial resistance and tendon and joint damages in children, fluoroquinolones are not recommended for HC prophylaxis.",
+          "zh": "51.1.5 預防（Prophylaxis）\n目前僅針對接受高劑量 cyclophosphamide（CY，作為調理方案的一部分或作為移植後高劑量 CY〔PTCy〕預防 GVHD）的患者，有明確有效的早發性 HC 預防措施。這些措施建立在大量輸液水化（hyperhydration）與強迫利尿，以及持續靜脈輸注（或分次給予）mesna（可與丙烯醛結合解毒）之上，藉以減少膀胱黏膜暴露於丙烯醛（acrolein）及其他毒性代謝產物的時間與濃度。\n透過雙腔或三腔導尿管進行預防性持續膀胱灌洗（bladder irrigation）的效果並不優於靜脈大量水化，且考量其侵入性、造成黏膜創傷與患者不適，不建議作為常規預防使用。\n在晚發性 HC 中，BKPyV 複製透過其細胞病變效應加劇膀胱黏膜損傷，並誘發捐贈者同種異體免疫反應攻擊膀胱黏膜，扮演關鍵角色。雖然氟喹諾酮類抗生素（fluoroquinolones，如 ciprofloxacin、levofloxacin）在體外實驗中可抑制 BKPyV 複製，但其在人體內的抗病毒療效微弱，無法顯著降低 HC 的發生率；考量到誘導細菌抗藥性的風險以及在兒童中引起肌腱與關節損傷的風險，ECIL 指引明確不建議使用氟喹諾酮類藥物來預防 BKPyV-HC。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100008,
+          "page": 474,
+          "en": "51.1.6 Treatment\nCidofovir is a nucleotide analogue inhibiting several DNA viruses including BKPyV. Its long half-life (15–65 h) allows the administration every 1 or 2 weeks. Given the significant risk of tubular nephrotoxicity, cidofovir has been used only for therapeutic purposes (Cesaro et al. 2009). The nephrotoxicity can be limited by saline hydration and by the use of probenecid that inhibits the capture and transport of cidofovir into the renal tubular epithelial cells. There is no agreement on the optimal dose, modality of administration and frequency of administration. One scheme is the intravenous administration of cidofovir, 3–5 mg/kg body weight, weekly or fortnightly, together with probenecid to prevent nephrotoxicity. Mild to moderate increase in serum creatinine is observed in 18% of the patients. Another scheme is the administration of low-dose intravenous cidofovir, 0.5–1.5 mg/kg body weight, 1–3 times a week, without probenecid (Ganguly et al. 2010). Mild to moderate renal toxicity is reported in 20% of patients. Alternatively, cidofovir can be administered intravesically to reduce the risk of nephrotoxicity, at the dose of 5 mg/kg/body weight/week and left in situ for 1–2 h after clamping the vesical catheter, the response rate being about 50% (Bridges et al. 2006).",
+          "zh": "51.1.6 治療（Treatment）\nCidofovir 是一種核苷酸類似物，可抑制包含 BKPyV 與腺病毒在內的多種 DNA 病毒。其半衰期長（細胞內活性代謝物達 15–65 小時），允許每 1 至 2 週給藥一次。鑑於其具有顯著的近端腎小管腎毒性風險，cidofovir 目前僅用於治療目的（Cesaro et al. 2009）。其腎毒性可透過生理食鹽水充分水化以及併用 probenecid（可抑制有機陰離子轉運體將 cidofovir 攝入並轉運至腎小管上皮細胞內）來加以限制。目前對於 cidofovir 的最佳劑量、給藥途徑與給藥頻率尚無統一共識：\n• 標準劑量靜脈給藥方案：每週或每兩週一次靜脈輸注 cidofovir 3–5 mg/kg，並併用口服 probenecid 與水化以預防腎毒性；約在 18% 的患者中會觀察到血清肌酸酐輕至中度上升。\n• 低劑量靜脈給藥方案：每週 1 至 3 次靜脈輸注低劑量 cidofovir 0.5–1.5 mg/kg，不併用 probenecid（Ganguly et al. 2010）；約 20% 的患者通報有輕至中度腎毒性。\n• 膀胱內灌注方案（Intravesical instillation）：為降低全身性腎毒性風險（特別是無病毒血症者），可將 cidofovir 以 5 mg/kg/week 的劑量經導尿管灌注至膀胱內，夾住導尿管留置 1–2 小時後排出，文獻報告的反應率約為 50%（Bridges et al. 2006）。",
+          "review": "ai-draft",
+          "endPage": 475
+        }
+      ]
+    },
+    {
+      "page": 475,
+      "blocks": [
+        {
+          "id": 5100009,
+          "page": 475,
+          "en": "Some results have been reported with leflunomide, an antimetabolite drug with immunomodulatory and antiviral activity. Anecdotal use of other agents (vidarabine, oral levofloxacin, FXIII concentrate, intravesical sodium hyaluronate and oestrogens) is reported in the literature (Cesaro et al. 2018).\nThe recovery from HC, whatever the cause, can benefit from treatment aiming to repair and regenerate the urothelial mucosa (hyperbaric oxygen therapy) and to stop bleeding (topical application of fibrin glue or platelet-rich plasma). The main drawback of hyperbaric oxygen is the limited availability, the requirements for dedicated hyperbaric room facilities, the risk of ear barotrauma or pressure intolerance and claustrophobia episodes during the procedure (Zama et al. 2013; Cesaro et al. 2018). Cystoscopic application of fibrin glue to the damaged bleeding bladder mucosa has been associated with a response rate of 83%, with most of cases resolved with one or two applications (Tirindelli et al. 2014).\nThe mesenchymal stromal cells (MSC) and the adoptive immunotherapy represent the most recent innovative treatment experimented for HC. MSC have the potential to stimulate the tissue repairing process and exercise an immune modulatory and anti-inflammatory effect. The use of third-party MSC infusion into seven patients with BKPyV-HC obtained the resolution of haematuria in five patients (Ringden et al. 2007). This approach needs to be validated further to assess the feasibility and also the safety of MSC.\nAdoptive transfer of donor-derived virus-specific T cells (VSTs) has shown efficacy for the treatment of several viral infections although their use on a larger scale is limited by the costs, the complexity of manufacturing, the time needed to obtain the final cell product that is not suitable for the urgent treatment and the prompt availability of a seropositive donor. The use of banked VSTs obtained by a third-party healthy seropositive donor, cryopreserved and used as the patient develops a viral infection refractory to antiviral treatment represents a promising development (Olson et al. 2021). In phase II trials, the use of VSTs directed against BKPyV obtained an overall response rate of 81–92%. The infusions of VSTs resulted safe with no cases of moderate–severe GVHD. Importantly, the VSTs expanded in vivo and the functionality persisted for up to 12 weeks (Tzannou et al. 2017). These results are encouraging and they need the confirmation by prospective larger studies.",
+          "zh": "部分研究曾報導使用 leflunomide（一種兼具免疫調節與抗病毒活性的抗代謝藥物）治療 BKPyV-HC 的成果。文獻中亦曾有零星案例報告使用其他藥物（如 vidarabine、口服 levofloxacin、第十三凝血因子〔FXIII〕濃縮劑、膀胱內灌注玻尿酸鈉〔sodium hyaluronate〕以及雌激素〔oestrogens〕）（Cesaro et al. 2018）。\n無論 HC 的病因為何，除了支持性照護（大量水化、血小板輸注維持 >50×10⁹/L、止痛解痙與嚴重血塊阻塞時的持續膀胱沖洗）外，旨在促進泌尿上皮黏膜修復與再生（如高壓氧治療〔hyperbaric oxygen therapy, HOT〕）以及局部止血（如經膀胱鏡局部塗抹纖維蛋白膠〔fibrin glue〕或高濃度血小板血漿〔PRP〕）的治療皆有助於加速 HC 康復。高壓氧治療的主要缺點在於設備可近性有限、需要專門的高壓氧艙設施、治療過程中有耳部氣壓傷（barotrauma）或壓力不耐受的風險，以及幽閉恐懼症發作（Zama et al. 2013; Cesaro et al. 2018）。經由膀胱鏡將纖維蛋白膠（fibrin glue）直接塗抹於受損出血的膀胱黏膜表面，文獻報告的反應率高達 83%，且大多數個案在 1 或 2 次施作後即獲緩解（Tirindelli et al. 2014）。\n間質基質細胞（MSC）與過繼性細胞免疫治療（adoptive immunotherapy）代表了近年針對難治型 HC 所嘗試的最新創新療法。MSC 具有刺激組織修復過程並發揮免疫調節與抗發炎作用的潛力；在一項將第三方捐贈者 MSC 輸注於 7 名 BKPyV-HC 患者的研究中，有 5 名患者的血尿獲得完全緩解（Ringden et al. 2007），但此方法仍需進一步驗證以評估 MSC 的可行性與安全性。\n過繼性輸注源自原捐贈者的病毒特異性 T 細胞（virus-specific T cells, VSTs）在治療多種移植後病毒感染上已展現出卓越療效，儘管其大規模應用受限於高昂成本、製造流程複雜、取得最終細胞產品所需的時間過長（不適用於緊急治療），以及是否能即時取得血清陽性捐贈者。使用由第三方健康血清陽性捐贈者製備並冷凍保存於細胞庫的「現成（off-the-shelf / banked）第三方 VSTs」，在患者發生對抗病毒藥物難治的病毒感染時立即解凍輸注，是一項極具前景的重大進展（Olson et al. 2021）。在第 II 期臨床試驗中，針對 BKPyV 的第三方 VSTs 取得了高達 81%–92% 的整體反應率；VSTs 的輸注相當安全，未發生中至重度 GVHD 個案，且重要的是 VSTs 能在患者體內擴增並維持功能長達 12 週（Tzannou et al. 2017）。這些結果令人鼓舞，仍有待大型前瞻性研究進一步確認。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100010,
+          "page": 475,
+          "en": "51.2 Renal Dysfunction\nAcute kidney injury (AKI) occurs in 27–66% of patients who underwent allo-HCT mainly within the first 100 days. The incidence of AKI is lower in autologous than in allogeneic HCT due to several reasons: rapid engraftment, lower incidence of infectious complications, absence of GVHD and its inflammatory cytokines, absence of CMV infection, lower frequency of severe diarrhoea and dehydration and less drug-induced nephrotoxicity (Lopes et al. 2016; Raina et al. 2017).\nThe diseases associated with AKI act at different renal levels: prerenal (sepsis, engraftment syndrome, SOS/VOD), renal glomerular (transplant-associated microangiopathy), renal tubular (acute tubular necrosis due to dehydration, sepsis, shock, engraftment syndrome, intratubular obstruction due to drugs, or tumour lysis syndrome), renal interstitial (acute GVHD, viral infection by BKPyV or ADV) and post-renal (obstruction by BKPyV or adenovirus cystitis, retroperitoneal fibrosis, lymphadenopathy).\nGeneral risk factors for AKI are pre-HCT diabetes, hypertension and renal impairment; the use of nephrotoxic drugs for the conditioning regimen (ifosfamide, CY, carboplatin, cisplatin), for the treatment of GVHD (MTX, cyclosporine, tacrolimus), for the treatment of infections (liposomal amphotericin B, aminoglycosides, vancomycin) and for the treatment of other severe organ damages that require ICU admission and mechanical ventilation (Hingorani 2016).\nClinically, the severity of AKI is defined by serum creatinine (SCr) and urine output (UO) that permits the identification of three groups: patient at risk of AKI (SCr increase of 1.5–2× and UO <0.5 mL/kg/h for >6 h); patient with kidney injury (SCr increase of 2–3× and UO <0.5 mL/kg/h for >12 h); and patient with kidney failure (SCr increase of >3× and UO <0.3 mL/kg/h for >24 h or anuria >12 h, or initiation of replacement therapy) (Lopes et al. 2016).",
+          "zh": "51.2 腎功能障礙（Renal Dysfunction）\n急性腎損傷（acute kidney injury, AKI）發生於 27%–66% 接受異體 HCT 的患者，且主要集中在移植後前 100 天內。自體 HCT 後發生 AKI 的機率明顯低於異體 HCT，原因包括：造血植入迅速、感染性併發症發生率較低、無 GVHD 及其發炎性細胞激素風暴、無顯著 CMV 感染、嚴重腹瀉與脫水的頻率較低，以及較少使用具腎毒性的免疫抑制與抗感染藥物（Lopes et al. 2016; Raina et al. 2017）。\n與 HCT 後 AKI 相關的疾病可作用於不同的腎臟解剖層次：\n• 腎前性（Prerenal）：敗血症、植入症候群（ES）、肝竇阻塞症候群（SOS/VOD 導致有效循環血量不足與肝腎症候群）、體液容積耗竭。\n• 腎絲球性（Renal glomerular）：移植相關血栓性微血管病變（TA-TMA）。\n• 腎小管性（Renal tubular）：因脫水、敗血症、休克或植入症候群引起的急性腎小管壞死（ATN），藥物引起的腎小管毒性或結晶阻塞，以及腫瘤溶解症候群（TLS）。\n• 腎間質性（Renal interstitial）：急性 GVHD、BKPyV 或腺病毒（ADV）引起的病毒性間質性腎炎（及藥物過敏性間質性腎炎）。\n• 腎後性（Post-renal）：BKPyV 或腺病毒出血性膀胱炎血塊引起的泌尿道阻塞、後腹腔纖維化、腫大淋巴結壓迫。\nAKI 的一般危險因子包括：移植前即已存在的糖尿病、高血壓與慢性腎功能受損；使用具腎毒性的藥物——包含調理方案藥物（ifosfamide、CY、carboplatin、cisplatin）、預防與治療 GVHD 的藥物（MTX、cyclosporine、tacrolimus）、治療感染的藥物（liposomal amphotericin B、氨基糖苷類〔aminoglycosides〕、vancomycin、foscarnet、cidofovir）；以及發生需要轉入 ICU 與機械通氣支持的其他嚴重器官損傷（Hingorani 2016）。\n臨床上，AKI 的嚴重度係依據血清肌酸酐（SCr）與尿量（UO）進行定義（對應於 RIFLE / KDIGO 分期），可將患者區分為三個等級群體（Lopes et al. 2016）：\n1. 腎損傷風險期（Risk / Stage 1）：SCr 上升達基準值的 1.5–2 倍，且尿量 <0.5 mL/kg/h 持續 >6 小時。\n2. 腎損傷期（Injury / Stage 2）：SCr 上升達基準值的 2–3 倍，且尿量 <0.5 mL/kg/h 持續 >12 小時。\n3. 腎衰竭期（Failure / Stage 3）：SCr 上升超過基準值的 3 倍（或 ≥4.0 mg/dL），且尿量 <0.3 mL/kg/h 持續 >24 小時，或無尿（anuria）>12 小時，或需要啟動腎臟替代療法（RRT / 洗腎）。",
+          "review": "ai-draft",
+          "endPage": 476
+        }
+      ]
+    },
+    {
+      "page": 476,
+      "blocks": [
+        {
+          "id": 5100011,
+          "page": 476,
+          "en": "AKI represents a risk factor for the development of chronic kidney disease on the medium–long-term period, especially if the acute damage is not completely resolved and proteinuria and hypertension persist and for the increase of non-relapse and overall mortality (Shingai et al. 2015).",
+          "zh": "發生 AKI 是中長期發展出慢性腎臟病（chronic kidney disease, CKD）的重要危險因子——特別是當急性腎損傷未能完全恢復，且蛋白尿與高血壓持續存在時——同時也與較高的非復發死亡率（NRM）及整體死亡率顯著相關（Shingai et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100012,
+          "page": 476,
+          "en": "Key Points\nFeature | Early-onset HC | Late-onset HC | Comments\nIncidence | <3% | 7–25% | Early-onset HC is nowadays rare\nPathogenesis | Chemical (drugs) or actinic damage of bladder mucosa | BK virus infection; Adenovirus infection; Donor alloreactivity | \nDiagnosis | Macrohaematuria with dysuria, increased urinary frequency, low abdominal pain | Macrohaematuria with dysuria, increased urinary frequency, low abdominal pain, high load of BK viruria and/or viremia | Signs of bladder inflammation at ultrasound examination\nPrevention | Hyperhydration, mesna (if chemo with Cy), forced diuresis | Hyperhydration, forced diuresis | Fluoroquinolones not recommended\nTherapy | Hyperhydration; Forced diuresis; Hyperbaric O2 therapy (HOT); Application of fibrin glue by cystoscopy | Hyperhydration, forced diuresis; IV (or intravesical) cidofovir; HOT; Application of fibrin glue or platelet-rich plasma by cystoscopy | No agreement On dose and route of Cidofovir administration; Limited evidence/experience for HOT, fibrin glue, platelet-rich plasma and other treatments\nExperimental | / | Virus-specific T cells (BK virus, Adenovirus); Mesenchymal cells | ",
+          "zh": "重點摘要（Key Points）：早發性與晚發性出血性膀胱炎（HC）之比較\n• 發生率（Incidence）：\n  – 早發性 HC（調理期間或結束後 48 小時內）：<3%\n  – 晚發性 HC（植入前後至第 2–3 個月）：7%–25%\n  – 備註：由於常規水化與 mesna 預防，早發性 HC 現今已相當罕見。\n• 致病機轉（Pathogenesis）：\n  – 早發性 HC：膀胱黏膜受化學藥物（如 CY 代謝物丙烯醛）或放射線（actinic）直接損傷。\n  – 晚發性 HC：BK 病毒（BKPyV）感染、腺病毒（ADV）感染，合併捐贈者同種異體免疫反應（donor alloreactivity）。\n• 診斷（Diagnosis）：\n  – 早發性 HC：肉眼血尿（≥Grade 2）伴隨解尿疼痛困難、頻尿、下腹痛。\n  – 晚發性 HC：肉眼血尿伴隨解尿疼痛困難、頻尿、下腹痛，加上高病毒量之 BK 病毒尿症（>10⁷ copies/mL）及／或病毒血症（>10³ copies/mL）。\n  – 備註：超音波檢查可見膀胱發炎徵象（膀胱壁水腫增厚與血塊）。\n• 預防（Prevention）：\n  – 早發性 HC：大量水化（hyperhydration）、使用 mesna（若化療含 CY）、強迫利尿（forced diuresis）。\n  – 晚發性 HC：大量水化、強迫利尿。\n  – 備註：不建議使用氟喹諾酮類抗生素（fluoroquinolones）進行預防，亦不建議常規預防性導尿管膀胱灌洗。\n• 治療（Therapy）：\n  – 早發性 HC：大量水化、強迫利尿、高壓氧治療（HOT）、經膀胱鏡塗抹纖維蛋白膠（fibrin glue）。\n  – 晚發性 HC：大量水化、強迫利尿、靜脈注射（或膀胱內灌注）cidofovir、高壓氧治療（HOT）、經膀胱鏡塗抹纖維蛋白膠或高濃度血小板血漿（PRP）。\n  – 備註：對於 cidofovir 的最佳劑量與給藥途徑尚無統一共識；HOT、纖維蛋白膠、PRP 及其他療法的實證與經驗仍相對有限。\n• 試驗性創新療法（Experimental）：\n  – 早發性 HC：無\n  – 晚發性 HC：病毒特異性 T 細胞（VSTs，針對 BK 病毒、腺病毒）、間質基質細胞（MSC）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100013,
+          "page": 476,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5100014,
+          "page": 476,
+          "en": "Bedi A, Miller CB, Hanson JL, et al. Association of BK virus with failure of prophylaxis against hemorrhagic cystitis following bone marrow transplantation. J Clin Oncol. 1995;13:1103–9.",
+          "zh": "Bedi A, Miller CB, Hanson JL, et al. Association of BK virus with failure of prophylaxis against hemorrhagic cystitis following bone marrow transplantation. J Clin Oncol. 1995;13:1103–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bedi%20A%2C%20Miller%20CB%2C%20Hanson%20JL%2C%20et%20al.%20Association%20of%20BK%20virus%20with%20failure%20of%20prophylaxis%20against%20hemorrhagic%20cystitis%20following%20bone%20marrow%20transplantation.%20J%20Clin%20Oncol.%201995%3B13%3A1103%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bedi%20A%2C%20Miller%20CB%2C%20Hanson%20JL%2C%20et%20al.%20Association%20of%20BK%20virus%20with%20failure%20of%20prophylaxis%20against%20hemorrhagic%20cystitis%20following%20bone%20marrow%20transplantation.%20J%20Clin%20Oncol.%201995%3B13%3A1103%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5100015,
+          "page": 476,
+          "en": "Bridges B, Donegan S, Badros A. Cidofovir bladder instillation for the treatment of BK hemorrhagic cystitis after allogeneic stem cell transplantation. Am J Hematol. 2006;81:535–7.",
+          "zh": "Bridges B, Donegan S, Badros A. Cidofovir bladder instillation for the treatment of BK hemorrhagic cystitis after allogeneic stem cell transplantation. Am J Hematol. 2006;81:535–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bridges%20B%2C%20Donegan%20S%2C%20Badros%20A.%20Cidofovir%20bladder%20instillation%20for%20the%20treatment%20of%20BK%20hemorrhagic%20cystitis%20after%20allogeneic%20stem%20cell%20transplantation.%20Am%20J%20Hematol.%202006%3B81%3A535%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bridges%20B%2C%20Donegan%20S%2C%20Badros%20A.%20Cidofovir%20bladder%20instillation%20for%20the%20treatment%20of%20BK%20hemorrhagic%20cystitis%20after%20allogeneic%20stem%20cell%20transplantation.%20Am%20J%20Hematol.%202006%3B81%3A535%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5100016,
+          "page": 476,
+          "en": "Cesaro S, Hirsch HH, Faraci M, et al. Cidofovir for BK virus-associated hemorrhagic cystitis: a retrospective study. Clin Infect Dis. 2009;49:233–40.",
+          "zh": "Cesaro S, Hirsch HH, Faraci M, et al. Cidofovir for BK virus-associated hemorrhagic cystitis: a retrospective study. Clin Infect Dis. 2009;49:233–40.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cesaro%20S%2C%20Hirsch%20HH%2C%20Faraci%20M%2C%20et%20al.%20Cidofovir%20for%20BK%20virus-associated%20hemorrhagic%20cystitis%3A%20a%20retrospective%20study.%20Clin%20Infect%20Dis.%202009%3B49%3A233%E2%80%9340."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cesaro%20S%2C%20Hirsch%20HH%2C%20Faraci%20M%2C%20et%20al.%20Cidofovir%20for%20BK%20virus-associated%20hemorrhagic%20cystitis%3A%20a%20retrospective%20study.%20Clin%20Infect%20Dis.%202009%3B49%3A233%E2%80%9340."
+            }
+          ]
+        },
+        {
+          "id": 5100017,
+          "page": 476,
+          "en": "Cesaro S, Tridello G, Pillon M, et al. A prospective study on the predictive value of plasma BK virus-DNA load for hemorrhagic cystitis in pediatric patients after stem cell transplantation. J Pediatric Infect Dis Soc. 2015;4:134–42.",
+          "zh": "Cesaro S, Tridello G, Pillon M, et al. A prospective study on the predictive value of plasma BK virus-DNA load for hemorrhagic cystitis in pediatric patients after stem cell transplantation. J Pediatric Infect Dis Soc. 2015;4:134–42.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cesaro%20S%2C%20Tridello%20G%2C%20Pillon%20M%2C%20et%20al.%20A%20prospective%20study%20on%20the%20predictive%20value%20of%20plasma%20BK%20virus-DNA%20load%20for%20hemorrhagic%20cystitis%20in%20pediatric%20patients%20after%20stem%20cell%20transplantation.%20J%20Pediatric%20Infect%20Dis%20Soc.%202015%3B4%3A134%E2%80%9342."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cesaro%20S%2C%20Tridello%20G%2C%20Pillon%20M%2C%20et%20al.%20A%20prospective%20study%20on%20the%20predictive%20value%20of%20plasma%20BK%20virus-DNA%20load%20for%20hemorrhagic%20cystitis%20in%20pediatric%20patients%20after%20stem%20cell%20transplantation.%20J%20Pediatric%20Infect%20Dis%20Soc.%202015%3B4%3A134%E2%80%9342."
+            }
+          ]
+        },
+        {
+          "id": 5100018,
+          "page": 476,
+          "en": "Cesaro S, Dalianis T, Hanssen Rinaldo C, et al. ECIL guidelines for the prevention, diagnosis and treatment of BK polyomavirus-associated haemorrhagic cystitis in haematopoietic stem cell transplant recipients. J Antimicrob Chemother. 2018;73:12–21.",
+          "zh": "Cesaro S, Dalianis T, Hanssen Rinaldo C, et al. ECIL guidelines for the prevention, diagnosis and treatment of BK polyomavirus-associated haemorrhagic cystitis in haematopoietic stem cell transplant recipients. J Antimicrob Chemother. 2018;73:12–21.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cesaro%20S%2C%20Dalianis%20T%2C%20Hanssen%20Rinaldo%20C%2C%20et%20al.%20ECIL%20guidelines%20for%20the%20prevention%2C%20diagnosis%20and%20treatment%20of%20BK%20polyomavirus-associated%20haemorrhagic%20cystitis%20in%20haematopoietic%20stem%20cell%20transplant%20recipients.%20J%20Antimicrob%20Chemother.%202018%3B73%3A12%E2%80%9321."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cesaro%20S%2C%20Dalianis%20T%2C%20Hanssen%20Rinaldo%20C%2C%20et%20al.%20ECIL%20guidelines%20for%20the%20prevention%2C%20diagnosis%20and%20treatment%20of%20BK%20polyomavirus-associated%20haemorrhagic%20cystitis%20in%20haematopoietic%20stem%20cell%20transplant%20recipients.%20J%20Antimicrob%20Chemother.%202018%3B73%3A12%E2%80%9321."
+            }
+          ]
+        },
+        {
+          "id": 5100019,
+          "page": 476,
+          "en": "Droller MJ, Saral R, Santos G. Prevention of cyclophosphamide-induced hemorrhagic cystitis. Urology. 1982;20:256–8.",
+          "zh": "Droller MJ, Saral R, Santos G. Prevention of cyclophosphamide-induced hemorrhagic cystitis. Urology. 1982;20:256–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Droller%20MJ%2C%20Saral%20R%2C%20Santos%20G.%20Prevention%20of%20cyclophosphamide-induced%20hemorrhagic%20cystitis.%20Urology.%201982%3B20%3A256%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Droller%20MJ%2C%20Saral%20R%2C%20Santos%20G.%20Prevention%20of%20cyclophosphamide-induced%20hemorrhagic%20cystitis.%20Urology.%201982%3B20%3A256%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5100020,
+          "page": 476,
+          "en": "Erard V, Kim HW, Corey L, et al. BK DNA viral load in plasma: evidence for an association with hemorrhagic cystitis in allogeneic hematopoietic cell transplant recipients. Blood. 2005;106:1130–2.",
+          "zh": "Erard V, Kim HW, Corey L, et al. BK DNA viral load in plasma: evidence for an association with hemorrhagic cystitis in allogeneic hematopoietic cell transplant recipients. Blood. 2005;106:1130–2.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Erard%20V%2C%20Kim%20HW%2C%20Corey%20L%2C%20et%20al.%20BK%20DNA%20viral%20load%20in%20plasma%3A%20evidence%20for%20an%20association%20with%20hemorrhagic%20cystitis%20in%20allogeneic%20hematopoietic%20cell%20transplant%20recipients.%20Blood.%202005%3B106%3A1130%E2%80%932."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Erard%20V%2C%20Kim%20HW%2C%20Corey%20L%2C%20et%20al.%20BK%20DNA%20viral%20load%20in%20plasma%3A%20evidence%20for%20an%20association%20with%20hemorrhagic%20cystitis%20in%20allogeneic%20hematopoietic%20cell%20transplant%20recipients.%20Blood.%202005%3B106%3A1130%E2%80%932."
+            }
+          ]
+        },
+        {
+          "id": 5100021,
+          "page": 476,
+          "en": "Ganguly N, Clough LA, Dubois LK, et al. Low-dose cidofovir in the treatment of symptomatic BK virus infection in patients undergoing allogeneic hematopoietic stem cell transplantation: a retrospective analysis of an algorithmic approach. Transpl Infect Dis. 2010;12:406–11.",
+          "zh": "Ganguly N, Clough LA, Dubois LK, et al. Low-dose cidofovir in the treatment of symptomatic BK virus infection in patients undergoing allogeneic hematopoietic stem cell transplantation: a retrospective analysis of an algorithmic approach. Transpl Infect Dis. 2010;12:406–11.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ganguly%20N%2C%20Clough%20LA%2C%20Dubois%20LK%2C%20et%20al.%20Low-dose%20cidofovir%20in%20the%20treatment%20of%20symptomatic%20BK%20virus%20infection%20in%20patients%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20retrospective%20analysis%20of%20an%20algorithmic%20approach.%20Transpl%20Infect%20Dis.%202010%3B12%3A406%E2%80%9311."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ganguly%20N%2C%20Clough%20LA%2C%20Dubois%20LK%2C%20et%20al.%20Low-dose%20cidofovir%20in%20the%20treatment%20of%20symptomatic%20BK%20virus%20infection%20in%20patients%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20retrospective%20analysis%20of%20an%20algorithmic%20approach.%20Transpl%20Infect%20Dis.%202010%3B12%3A406%E2%80%9311."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 477,
+      "blocks": [
+        {
+          "id": 5100022,
+          "page": 477,
+          "en": "Hingorani S. Renal complications after hematopoietic stem cell transplantation. N Engl J Med. 2016;374:2256–67.",
+          "zh": "Hingorani S. Renal complications after hematopoietic stem cell transplantation. N Engl J Med. 2016;374:2256–67.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hingorani%20S.%20Renal%20complications%20after%20hematopoietic%20stem%20cell%20transplantation.%20N%20Engl%20J%20Med.%202016%3B374%3A2256%E2%80%9367."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hingorani%20S.%20Renal%20complications%20after%20hematopoietic%20stem%20cell%20transplantation.%20N%20Engl%20J%20Med.%202016%3B374%3A2256%E2%80%9367."
+            }
+          ]
+        },
+        {
+          "id": 5100023,
+          "page": 477,
+          "en": "Hirsch HH, Pergam SA. Human adenovirus, polyomavirus, and parvovirus infections in patients undergoing hematopoietic stem-cell transplantation. In: Forman SJ, Nagrin RS, Antin H, Appelbaum FR, editors. Thomas’ hematopoietic cell transplantation. 5th ed. Hoboken: Wiley; 2016. p. 1090–104. http://www.wiley.comgoappelbaumTransplantation/.",
+          "zh": "Hirsch HH, Pergam SA. Human adenovirus, polyomavirus, and parvovirus infections in patients undergoing hematopoietic stem-cell transplantation. In: Forman SJ, Nagrin RS, Antin H, Appelbaum FR, editors. Thomas’ hematopoietic cell transplantation. 5th ed. Hoboken: Wiley; 2016. p. 1090–104. http://www.wiley.comgoappelbaumTransplantation/.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hirsch%20HH%2C%20Pergam%20SA.%20Human%20adenovirus%2C%20polyomavirus%2C%20and%20parvovirus%20infections%20in%20patients%20undergoing%20hematopoietic%20stem-cell%20transplantation.%20In%3A%20Forman%20SJ%2C%20Nagrin%20RS%2C%20Antin%20H%2C%20Appelbaum%20FR%2C%20editors.%20Thomas%E2%80%99%20hematopoietic%20cell%20transplantation.%205th%20ed.%20Hoboken%3A%20Wiley%3B%202016.%20p.%201090%E2%80%93104.%20http%3A//www.wiley.comgoappelbaumTransplantation/."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hirsch%20HH%2C%20Pergam%20SA.%20Human%20adenovirus%2C%20polyomavirus%2C%20and%20parvovirus%20infections%20in%20patients%20undergoing%20hematopoietic%20stem-cell%20transplantation.%20In%3A%20Forman%20SJ%2C%20Nagrin%20RS%2C%20Antin%20H%2C%20Appelbaum%20FR%2C%20editors.%20Thomas%E2%80%99%20hematopoietic%20cell%20transplantation.%205th%20ed.%20Hoboken%3A%20Wiley%3B%202016.%20p.%201090%E2%80%93104.%20http%3A//www.wiley.comgoappelbaumTransplantation/."
+            }
+          ]
+        },
+        {
+          "id": 5100024,
+          "page": 477,
+          "en": "Lopes JA, Jorge S, Neves M. Acute kidney injury in HCT: an update. Bone Marrow Transplant. 2016;51:755–62.",
+          "zh": "Lopes JA, Jorge S, Neves M. Acute kidney injury in HCT: an update. Bone Marrow Transplant. 2016;51:755–62.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lopes%20JA%2C%20Jorge%20S%2C%20Neves%20M.%20Acute%20kidney%20injury%20in%20HCT%3A%20an%20update.%20Bone%20Marrow%20Transplant.%202016%3B51%3A755%E2%80%9362."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lopes%20JA%2C%20Jorge%20S%2C%20Neves%20M.%20Acute%20kidney%20injury%20in%20HCT%3A%20an%20update.%20Bone%20Marrow%20Transplant.%202016%3B51%3A755%E2%80%9362."
+            }
+          ]
+        },
+        {
+          "id": 5100025,
+          "page": 477,
+          "en": "Olson A, Lin R, Marin D, et al. Third-party BK virus-specific cytotoxic T lymphocyte therapy for hemorrhagic cystitis following allotransplantation. J Clin Oncol. 2021;39:2710–9.",
+          "zh": "Olson A, Lin R, Marin D, et al. Third-party BK virus-specific cytotoxic T lymphocyte therapy for hemorrhagic cystitis following allotransplantation. J Clin Oncol. 2021;39:2710–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Olson%20A%2C%20Lin%20R%2C%20Marin%20D%2C%20et%20al.%20Third-party%20BK%20virus-specific%20cytotoxic%20T%20lymphocyte%20therapy%20for%20hemorrhagic%20cystitis%20following%20allotransplantation.%20J%20Clin%20Oncol.%202021%3B39%3A2710%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Olson%20A%2C%20Lin%20R%2C%20Marin%20D%2C%20et%20al.%20Third-party%20BK%20virus-specific%20cytotoxic%20T%20lymphocyte%20therapy%20for%20hemorrhagic%20cystitis%20following%20allotransplantation.%20J%20Clin%20Oncol.%202021%3B39%3A2710%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5100026,
+          "page": 477,
+          "en": "Raina R, Herrera N, Krishnappa V, et al. Hematopoietic stem cell transplantation and kidney injury in children: a comprehensive review. Pediatr Transplant. 2017;21:e12935.",
+          "zh": "Raina R, Herrera N, Krishnappa V, et al. Hematopoietic stem cell transplantation and kidney injury in children: a comprehensive review. Pediatr Transplant. 2017;21:e12935.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Raina%20R%2C%20Herrera%20N%2C%20Krishnappa%20V%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20and%20kidney%20injury%20in%20children%3A%20a%20comprehensive%20review.%20Pediatr%20Transplant.%202017%3B21%3Ae12935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Raina%20R%2C%20Herrera%20N%2C%20Krishnappa%20V%2C%20et%20al.%20Hematopoietic%20stem%20cell%20transplantation%20and%20kidney%20injury%20in%20children%3A%20a%20comprehensive%20review.%20Pediatr%20Transplant.%202017%3B21%3Ae12935."
+            }
+          ]
+        },
+        {
+          "id": 5100027,
+          "page": 477,
+          "en": "Ringden O, Uzunel M, Sundberg B, et al. Tissue repair using allogeneic mesenchymal stem cells for hemorrhagic cystitis, pneumomediastinum and perforated colon. Leukemia. 2007;21:2271–6.",
+          "zh": "Ringden O, Uzunel M, Sundberg B, et al. Tissue repair using allogeneic mesenchymal stem cells for hemorrhagic cystitis, pneumomediastinum and perforated colon. Leukemia. 2007;21:2271–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ringden%20O%2C%20Uzunel%20M%2C%20Sundberg%20B%2C%20et%20al.%20Tissue%20repair%20using%20allogeneic%20mesenchymal%20stem%20cells%20for%20hemorrhagic%20cystitis%2C%20pneumomediastinum%20and%20perforated%20colon.%20Leukemia.%202007%3B21%3A2271%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ringden%20O%2C%20Uzunel%20M%2C%20Sundberg%20B%2C%20et%20al.%20Tissue%20repair%20using%20allogeneic%20mesenchymal%20stem%20cells%20for%20hemorrhagic%20cystitis%2C%20pneumomediastinum%20and%20perforated%20colon.%20Leukemia.%202007%3B21%3A2271%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5100028,
+          "page": 477,
+          "en": "Shingai N, Morito T, Najima Y, et al. Early-onset acute kidney injury a poor prognostic sign for allogeneic SCT recipients. Bone Marrow Transplant. 2015;50:1557–662.",
+          "zh": "Shingai N, Morito T, Najima Y, et al. Early-onset acute kidney injury a poor prognostic sign for allogeneic SCT recipients. Bone Marrow Transplant. 2015;50:1557–662.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shingai%20N%2C%20Morito%20T%2C%20Najima%20Y%2C%20et%20al.%20Early-onset%20acute%20kidney%20injury%20a%20poor%20prognostic%20sign%20for%20allogeneic%20SCT%20recipients.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1557%E2%80%93662."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shingai%20N%2C%20Morito%20T%2C%20Najima%20Y%2C%20et%20al.%20Early-onset%20acute%20kidney%20injury%20a%20poor%20prognostic%20sign%20for%20allogeneic%20SCT%20recipients.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1557%E2%80%93662."
+            }
+          ]
+        },
+        {
+          "id": 5100029,
+          "page": 477,
+          "en": "Tirindelli MC, Flammia GP, Bove P, et al. Fibrin glue therapy for severe hemorrhagic cystitis after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:1612–7.",
+          "zh": "Tirindelli MC, Flammia GP, Bove P, et al. Fibrin glue therapy for severe hemorrhagic cystitis after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:1612–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tirindelli%20MC%2C%20Flammia%20GP%2C%20Bove%20P%2C%20et%20al.%20Fibrin%20glue%20therapy%20for%20severe%20hemorrhagic%20cystitis%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A1612%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tirindelli%20MC%2C%20Flammia%20GP%2C%20Bove%20P%2C%20et%20al.%20Fibrin%20glue%20therapy%20for%20severe%20hemorrhagic%20cystitis%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A1612%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5100030,
+          "page": 477,
+          "en": "Tzannou I, Papadopoulou A, Naik S, et al. Off-the-shelf virus specific T cells to treat BK virus, human herpes virus 6, cytomegalovirus, Epstein-Barr virus, and adenovirus infections after allogeneic hematopoietic stem cell transplantation. J Clin Oncol. 2017;35:3547–57.",
+          "zh": "Tzannou I, Papadopoulou A, Naik S, et al. Off-the-shelf virus specific T cells to treat BK virus, human herpes virus 6, cytomegalovirus, Epstein-Barr virus, and adenovirus infections after allogeneic hematopoietic stem cell transplantation. J Clin Oncol. 2017;35:3547–57.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tzannou%20I%2C%20Papadopoulou%20A%2C%20Naik%20S%2C%20et%20al.%20Off-the-shelf%20virus%20specific%20T%20cells%20to%20treat%20BK%20virus%2C%20human%20herpes%20virus%206%2C%20cytomegalovirus%2C%20Epstein-Barr%20virus%2C%20and%20adenovirus%20infections%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20J%20Clin%20Oncol.%202017%3B35%3A3547%E2%80%9357."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tzannou%20I%2C%20Papadopoulou%20A%2C%20Naik%20S%2C%20et%20al.%20Off-the-shelf%20virus%20specific%20T%20cells%20to%20treat%20BK%20virus%2C%20human%20herpes%20virus%206%2C%20cytomegalovirus%2C%20Epstein-Barr%20virus%2C%20and%20adenovirus%20infections%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20J%20Clin%20Oncol.%202017%3B35%3A3547%E2%80%9357."
+            }
+          ]
+        },
+        {
+          "id": 5100031,
+          "page": 477,
+          "en": "Zama D, Masetti R, Vendemini F, et al. Clinical effectiveness of early treatment with hyperbaric oxygen therapy for severe late-onset hemorrhagic cystitis after hematopoietic stem cell transplantation in pediatric patients. Pediatr Transplant. 2013;17(1):86–91. https://doi.org/10.1111/petr.12031. Epub 2012 Dec 10. PMID: 23230825.",
+          "zh": "Zama D, Masetti R, Vendemini F, et al. Clinical effectiveness of early treatment with hyperbaric oxygen therapy for severe late-onset hemorrhagic cystitis after hematopoietic stem cell transplantation in pediatric patients. Pediatr Transplant. 2013;17(1):86–91. https://doi.org/10.1111/petr.12031. Epub 2012 Dec 10. PMID: 23230825.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zama%20D%2C%20Masetti%20R%2C%20Vendemini%20F%2C%20et%20al.%20Clinical%20effectiveness%20of%20early%20treatment%20with%20hyperbaric%20oxygen%20therapy%20for%20severe%20late-onset%20hemorrhagic%20cystitis%20after%20hematopoietic%20stem%20cell%20transplantation%20in%20pediatric%20patients.%20Pediatr%20Transplant.%202013%3B17%281%29%3A86%E2%80%9391.%20https%3A//doi.org/10.1111/petr.12031.%20Epub%202012%20Dec%2010.%20PMID%3A%2023230825."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zama%20D%2C%20Masetti%20R%2C%20Vendemini%20F%2C%20et%20al.%20Clinical%20effectiveness%20of%20early%20treatment%20with%20hyperbaric%20oxygen%20therapy%20for%20severe%20late-onset%20hemorrhagic%20cystitis%20after%20hematopoietic%20stem%20cell%20transplantation%20in%20pediatric%20patients.%20Pediatr%20Transplant.%202013%3B17%281%29%3A86%E2%80%9391.%20https%3A//doi.org/10.1111/petr.12031.%20Epub%202012%20Dec%2010.%20PMID%3A%2023230825."
+            }
+          ]
+        },
+        {
+          "id": 5100032,
+          "page": 477,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依據 Creative Commons 姓名標示 4.0 國際授權條款（http://creativecommons.org/licenses/by/4.0/）授權，允許以任何媒介或格式進行使用、分享、改作、散佈及重製，惟您必須給予原作者及來源適當的致謝、提供指向 Creative Commons 授權條款的連結，並標明是否曾進行修改。\n除非在素材的致謝行中另有說明，否則本章中的圖像或其他第三方素材均包含在本章的 Creative Commons 授權條款中。若素材未包含在本章的 Creative Commons 授權條款內，且您的預期用途未獲法規允許或超出允許的使用範圍，您將需要直接向版權持有人取得授權許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

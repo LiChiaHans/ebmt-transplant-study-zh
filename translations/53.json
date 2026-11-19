@@ -1,0 +1,647 @@
+{
+  "id": 53,
+  "title": "Neurological Complications",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 45,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 488,
+      "blocks": [
+        {
+          "id": 5300001,
+          "page": 488,
+          "en": "53 Neurological Complications\nRémy Duléry, Martin Schmidt-Hieber, and Basil Sharrack",
+          "zh": "53 神經系統併發症（Neurological Complications） — Rémy Duléry、Martin Schmidt-Hieber、Basil Sharrack",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_53"
+            }
+          ]
+        },
+        {
+          "id": 5300002,
+          "page": 488,
+          "en": "53.1 Definitions and Epidemiology\nNeurological complications of hematopoietic cell transplantation (HCT) are frequent and can be highly challenging to manage. Their reported incidence ranges from 8 to 65%, depending on types of manifestations included, transplant setting, and patient population (Maffini et al. 2017). The severity varies widely, ranging from mild transient disorders to life-threatening illnesses. Main factors and causative agents include neurotoxic drugs, infectious pathogens, cerebrovascular illness, metabolic encephalopathy, and immune-mediated diseases. CNS relapse of the underlying disease, thrombotic microangiopathy (TAM), and posttransplant lymphoproliferative disorder (PTLD) should also be ruled out (Table 53.1).",
+          "zh": "53.1 定義與流行病學\n造血細胞移植（HCT）後的神經系統併發症相當常見，且在處置上可能極具挑戰性。文獻通報的發生率介於 8% 至 65% 之間，取決於所納入的臨床表現類型、移植情境以及患者族群（Maffini et al. 2017）。其嚴重度差異極大，從輕微且短暫的功能障礙到危及生命的重症皆有。主要影響因素與致病原因包括具神經毒性的藥物、感染性病原體、腦血管疾病、代謝性腦病變以及免疫介導疾病。此外，也必須排除原發疾病的中樞神經系統（CNS）復發、血栓性微血管病變（TAM / TMA）以及移植後淋巴增生性疾病（PTLD）（見表 53.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300003,
+          "page": 488,
+          "en": "Table 53.1 Main causes of neurological complications of HCT\nNeurological complication | Cause\nDrug-related | Calcineurin inhibitors (PRES); Methotrexate/cytotoxic agents (busulfan, fludarabine); Anti-infective agents; Opioids, benzodiazepines\nInfectious pathogens | Viruses (EBV, HHV-6, CMV, VZV, HSV, JCV, West Nile virus, adenovirus); Fungi and parasites (Toxoplasma gondii, Aspergillus spp., Candida spp., Mucorales, Cryptococcus neoformans, Histoplasma capsulatum); Bacteria (Gram-negative rods, Gram-positive cocci, Mycobacterium tuberculosis, Nocardia)\nMetabolic | Uremic encephalopathy; Hepatic encephalopathy; Diabetic ketoacidosis\nCerebrovascular | Hemorrhage; Ischemic stroke\nImmune-mediated | Demyelinating diseases; Myositis; Myasthenia gravis; CNS chronic GVHD; CRS\nThrombotic microangiopathy | Calcineurin inhibitors; Infectious pathogens\nMalignancies | PTLD; Hematological disease relapse",
+          "zh": "表 53.1 HCT 後神經系統併發症的主要原因\n• 藥物相關（Drug-related）：\n  – 鈣調磷酸酶抑制劑（CNIs：引起可逆性後腦病變症候群〔PRES〕）\n  – Methotrexate（MTX）／細胞毒性化療藥物（busulfan、fludarabine）\n  – 抗感染藥物\n  – 鴉片類藥物（opioids）、苯二氮平類藥物（benzodiazepines）\n• 感染性病原體（Infectious pathogens）：\n  – 病毒：EBV、HHV-6、CMV、VZV、HSV、JC 病毒（JCV）、西尼羅河病毒（West Nile virus）、腺病毒（adenovirus）\n  – 黴菌與寄生蟲：弓形蟲（Toxoplasma gondii）、麴菌屬（Aspergillus spp.）、念珠菌屬（Candida spp.）、毛黴菌目（Mucorales）、新型隱球菌（Cryptococcus neoformans）、莢膜組織胞漿菌（Histoplasma capsulatum）\n  – 細菌：革蘭氏陰性桿菌、革蘭氏陽性球菌、結核分枝桿菌（Mycobacterium tuberculosis）、奴卡氏菌（Nocardia）\n• 代謝性（Metabolic）：\n  – 尿毒性腦病變（Uremic encephalopathy）\n  – 肝性腦病變（Hepatic encephalopathy）\n  – 糖尿病酮酸中毒（Diabetic ketoacidosis）\n• 腦血管疾病（Cerebrovascular）：\n  – 腦出血（Hemorrhage）\n  – 缺血性腦中風（Ischemic stroke）\n• 免疫介導（Immune-mediated）：\n  – 去髓鞘疾病（Demyelinating diseases）\n  – 肌炎（Myositis）\n  – 重症肌無力（Myasthenia gravis）\n  – 中樞神經系統慢性移植物抗宿主疾病（CNS chronic GVHD）\n  – 細胞激素釋放症候群（CRS）\n• 血栓性微血管病變（Thrombotic microangiopathy）：\n  – 鈣調磷酸酶抑制劑（CNIs）\n  – 感染性病原體\n• 惡性疾病（Malignancies）：\n  – 移植後淋巴增生性疾病（PTLD）\n  – 原發血液惡性疾病復發（Hematological disease relapse）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300004,
+          "page": 488,
+          "en": "Neurological complications can also be classified based on their onset after HCT. Early events are primarily due to drugs administered in the conditioning regimen and IS therapy, while later complications typically arise from the consequences of immunodeficiency, particularly infections (Schmidt-Hieber et al. 2011, 2020). Because clinical manifestations are often misleading and nonspecific, finding the right etiology may be long and difficult. Yet, early diagnosis and treatment are of paramount importance to reduce the risks of irreversible complications, impairment of quality of life, and transplantation-related death.",
+          "zh": "神經系統併發症亦可依據其在 HCT 後發生的時間點進行分類。早期事件主要歸因於調理方案與免疫抑制（IS）治療中所給予的藥物；而晚期併發症則通常源於免疫缺陷的後果，特別是各類感染（Schmidt-Hieber et al. 2011, 2020）。由於臨床表現往往不具特異性且容易造成誤導，尋找正確的病因可能既漫長又困難。然而，早期診斷與及時治療對於降低不可逆併發症、生活品質受損以及移植相關死亡的風險至關重要。",
+          "review": "ai-draft",
+          "endPage": 489
+        },
+        {
+          "id": 5300005,
+          "page": 488,
+          "en": "R. Duléry (*)\nDepartment of Clinical Hematology and Cellular Therapy, Sorbonne University, Saint-Antoine Hospital, Assistance Publique—Hôpitaux de Paris, INSERM, UMRs 938, Centre de recherche Saint Antoine (CRSA), Paris, France\ne-mail: remy.dulery@aphp.fr\nM. Schmidt-Hieber\nHematology and Oncology, Carl-Thiem-Hospital, Cottbus, Germany\ne-mail: m.schmidt_hieber@ctk.de\nB. Sharrack\nDepartment of Neuroscience and Sheffield NIHR Translational Neuroscience BRC, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK\ne-mail: Basil.Sharrack@sth.nhs.uk\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_53",
+          "zh": "作者單位與聯絡資訊：\nR. Duléry（通訊作者）：法國巴黎索邦大學（Sorbonne University）、巴黎公立醫院集團（AP-HP）Saint-Antoine 醫院臨床血液學與細胞治療科，INSERM UMRs 938 Saint Antoine 研究中心（CRSA）；電子郵件：remy.dulery@aphp.fr。\nM. Schmidt-Hieber：德國科特布斯（Cottbus）Carl-Thiem 醫院血液與腫瘤科；電子郵件：m.schmidt_hieber@ctk.de。\nB. Sharrack：英國雪菲爾（Sheffield）教學醫院 NHS 基金會信託神經科學部暨雪菲爾 NIHR 轉譯神經科學生物醫學研究中心；電子郵件：Basil.Sharrack@sth.nhs.uk。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_53。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 489,
+      "blocks": [
+        {
+          "id": 5300006,
+          "page": 489,
+          "en": "53.2 Causes and Types of Neurological Complications\n53.2.1 Neurotoxic Drugs\nCalcineurin inhibitors (CNIs), antibiotics, antiviral drugs, and cytotoxic agents used in conditioning regimen are the most frequent causes of drug toxicity (Table 53.2). In addition, drug-drug interactions are a common cause of neurotoxicity and must be carefully checked. For example, combining imipenem/cilastatin and ganciclovir can trigger generalized seizures. Similarly, introducing voriconazole can increase the serum concentration of cyclosporin A (CSA)/tacrolimus (TAC), potentially leading to neurological complications, such as posterior reversible encephalopathy syndrome (PRES).",
+          "zh": "53.2 神經系統併發症的原因與類型\n53.2.1 神經毒性藥物\n鈣調磷酸酶抑制劑（CNIs）、抗生素、抗病毒藥物以及調理方案中使用的細胞毒性藥物，是引起藥物神經毒性最常見的原因（見表 53.2）。此外，藥物交互作用（drug-drug interactions）也是造成神經毒性的常見原因，臨床上必須仔細查核。舉例而言，同時併用 imipenem/cilastatin 與 ganciclovir 可能誘發全身性癲癇發作；同樣地，加入 voriconazole 會大幅升高 cyclosporin A（CSA）或 tacrolimus（TAC）的血清濃度，進而可能導致神經系統併發症，例如可逆性後腦病變症候群（posterior reversible encephalopathy syndrome, PRES）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300007,
+          "page": 489,
+          "en": "Table 53.2 Main neurological side effects of the major drugs used in HCT\nDrug | Most common symptoms\nAcyclovir | Headache, tremor, dysarthria, hallucinations, encephalopathy\nAmphotericin B | Headache, encephalopathy, numbness, vision changes\nBusulfan | Seizures, headache, dizziness\nBlinatumomab | Encephalopathy, headache, aphasia, ataxia, tremor, seizures\nCefepime | Headache, paresthesia, encephalopathy\nCSA/TAC | PRES, confusion, tremor, ataxia, seizures, cortical blindness\nFludarabine | Acute toxic leukoencephalopathy\nFoscarnet | Headache, vertigo, paresthesia, seizures, tremor, encephalopathy\nGanciclovir | Headache, numbness, tremor, seizures\nImipenem/cilastatin | Seizures, tremor, vertigo, paresthesia, somnolence, encephalopathy\nIsavuconazole | Headache, somnolence, encephalopathy, seizures, paresthesia, peripheral neuropathy\nMethotrexate | Headache, lethargy, dysarthria, diffuse necrotizing leukoencephalopathy\nPosaconazole | Paresthesia, dizziness, somnolence, headache, seizures, tremor\nRituximab | PML\nSorafenib | PRES, peripheral sensory neuropathy\nThiotepa | Headache, encephalopathy, seizures, paresthesia\nTreosulfan | Headache, dizziness, intracranial hemorrhage, peripheral sensory neuropathy\nVoriconazole | Headache, seizures, vision changes, hallucinations, numbness, encephalopathy",
+          "zh": "表 53.2 HCT 常用主要藥物之重要神經系統副作用\n• Acyclovir：頭痛、顫抖（tremor）、構音障礙（dysarthria）、幻覺、腦病變（encephalopathy）\n• Amphotericin B：頭痛、腦病變、麻木感、視力改變\n• Busulfan：癲癇發作（seizures）、頭痛、頭暈\n• Blinatumomab：腦病變、頭痛、失語症（aphasia）、共濟失調（ataxia）、顫抖、癲癇發作\n• Cefepime：頭痛、感覺異常（paresthesia）、腦病變\n• CSA / TAC：可逆性後腦病變症候群（PRES）、意識混亂、顫抖、共濟失調、癲癇發作、皮質性失明（cortical blindness）\n• Fludarabine：急性毒性腦白質病變（acute toxic leukoencephalopathy）\n• Foscarnet：頭痛、眩暈、感覺異常、癲癇發作、顫抖、腦病變\n• Ganciclovir：頭痛、麻木感、顫抖、癲癇發作\n• Imipenem/cilastatin：癲癇發作、顫抖、眩暈、感覺異常、嗜睡、腦病變\n• Isavuconazole：頭痛、嗜睡、腦病變、癲癇發作、感覺異常、周邊神經病變\n• Methotrexate：頭痛、嗜睡倦怠（lethargy）、構音障礙、瀰漫性壞死性腦白質病變（diffuse necrotizing leukoencephalopathy）\n• Posaconazole：感覺異常、頭暈、嗜睡、頭痛、癲癇發作、顫抖\n• Rituximab：進行性多灶性腦白質病變（PML，由 JC 病毒引起）\n• Sorafenib：PRES、周邊感覺神經病變\n• Thiotepa：頭痛、腦病變、癲癇發作、感覺異常\n• Treosulfan：頭痛、頭暈、顱內出血、周邊感覺神經病變\n• Voriconazole：頭痛、癲癇發作、視覺改變（如畏光、視幻覺）、幻覺、麻木感、腦病變",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300008,
+          "page": 489,
+          "en": "53.2.1.1 Calcineurin Inhibitors\nThe use of CSA and TAC is associated with neurological complications in 25–59% of patients treated with HCT (Reece et al. 1991). The clinical picture of CNI-induced neurotoxicity ranges from transient isolated symptoms to severe manifestations such as TAM (see Chap. 42) or PRES (Table 53.2).\nPRES refers to a disorder of reversible subcortical vasogenic brain edema and is caused by endothelial injury related to abrupt blood pressure changes or direct effects of cytokines on the endothelium. It may occur in 1.6–7.2% of HCT recipients and, if diagnosed early, is reversible after CNI withdrawal. Symptoms such as headache, visual disturbance, seizures, encephalopathy, or focal neurologic deficit, when associated with renal failure or blood pressure fluctuations, are highly suggestive of PRES (Schmidt et al. 2016).\nAlthough vasogenic edema can be visualized on computed tomography (CT) in some patients, brain magnetic resonance imaging (MRI) is much more sensitive. MRI shows bilateral multifocal areas of hyperintensity in T2-weighted sequences, especially in the white matter of parieto-occipital regions. Other variations, such as superior frontal sulcus pattern or holohemispheric watershed pattern, can be observed. Persistent neurological sequelae have been reported, especially if PRES is not rapidly diagnosed and treated.",
+          "zh": "53.2.1.1 鈣調磷酸酶抑制劑（Calcineurin Inhibitors, CNIs）\n在接受 HCT 治療的患者中，使用 CSA 與 TAC 與 25%–59% 的神經系統併發症有關（Reece et al. 1991）。CNI 誘發神經毒性的臨床表現範圍極廣，從短暫的單一症狀（如手抖）到嚴重表現如血栓性微血管病變（TAM，見第 42 章）或 PRES 皆可見（表 53.2）。\nPRES 是指一種可逆性的皮質下血管源性腦水腫（subcortical vasogenic brain edema），其成因與血壓急遽變化或細胞激素對內皮的直接作用所引起的血管內皮損傷有關。它可能發生在 1.6%–7.2% 的 HCT 受贈者中；若能早期診斷，在停用或更換 CNI 後通常是可逆的。當頭痛、視覺障礙、癲癇發作、腦病變或局部神經學缺損等症狀伴隨腎衰竭或血壓劇烈波動出現時，應高度懷疑 PRES（Schmidt et al. 2016）。\n雖然在部分患者中可透過電腦斷層（CT）觀察到血管源性腦水腫，但腦部磁振造影（MRI）的敏感度高出許多。腦部 MRI 在 T2 加權影像（及 FLAIR 序列）上會顯示雙側多發性的高訊號區域，特別好發於頂枕葉（parieto-occipital regions）的白質區。有時亦可觀察到其他分布型態，例如額上溝型（superior frontal sulcus pattern）或全大腦半球分水嶺型（holohemispheric watershed pattern）。若未能迅速診斷並及時處置 PRES，文獻中亦曾通報留下持續性的神經學後遺症。",
+          "review": "ai-draft",
+          "endPage": 490
+        }
+      ]
+    },
+    {
+      "page": 490,
+      "blocks": [
+        {
+          "id": 5300009,
+          "page": 490,
+          "en": "53.2.1.2 MTX and Cytotoxic Agents\nGVHD prophylaxis with short course of methotrexate (MTX) may cause minor neurological symptoms, such as lethargy, dysarthria, and headache, and, very rarely, diffuse necrotizing leukoencephalopathy (Paudyal et al. 2010).\nBusulfan (BU) is associated with seizure and requires preventive prophylaxis with benzodiazepines (Eberly et al. 2008).\nFor fludarabine (FLU), the main neurological complication is acute toxic leukoencephalopathy. The clinical syndrome is characterized by visual disturbance, sensitive defects, and cognitive impairment. Brain MRI shows bilateral white matter areas of T2-weighted hyperintensity, which differ significantly from the MRI findings seen in PRES. Classical PRES arises from subcortical white matter, whereas acute toxic leukoencephalopathy arises from periventricular white matter. Risk factors include poor renal function, older age, higher FLU dose, previously treated CNS disease, or previous FLU-based conditioning regimen. Outcomes are very poor with irreversible neurological sequelae and median OS of 2 months (Beitinjaneh et al. 2011).",
+          "zh": "53.2.1.2 MTX 與細胞毒性藥物\n使用短療程 methotrexate（MTX）進行 GVHD 預防時，可能會引起輕微的神經學症狀，如嗜睡倦怠、構音障礙及頭痛，而在極罕見情況下可能引起瀰漫性壞死性腦白質病變（Paudyal et al. 2010）。\nBusulfan（BU）與癲癇發作高度相關，給藥期間必須常規使用苯二氮平類藥物（如 clonazepam、lorazepam）或新一代抗癲癇藥物進行預防（Eberly et al. 2008）。\n對於 fludarabine（FLU）而言，最主要的嚴重神經系統併發症是急性毒性腦白質病變（acute toxic leukoencephalopathy）。此臨床症候群的特徵為視覺障礙、感覺缺損以及認知功能障礙。腦部 MRI 會顯示雙側腦白質 T2 加權影像高訊號區，但其分布與 PRES 所見的 MRI 表現有顯著差異：典型的 PRES 起自皮質下白質（subcortical white matter），而 FLU 引起的急性毒性腦白質病變則起自腦室周圍深部白質（periventricular white matter）。危險因子包括腎功能不良、高齡、較高的 FLU 劑量、既往曾接受過 CNS 疾病治療，或先前曾接受過含 FLU 的調理方案。此症預後極差，常造成不可逆的神經學後遺症，中位整體存活期（OS）僅約 2 個月（Beitinjaneh et al. 2011）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300010,
+          "page": 490,
+          "en": "53.2.1.3 Immunotherapy and Tyrosine Kinase Inhibitors (TKI)\nRituximab, TKI, and bispecific T-cell-engaging antibodies, such as blinatumomab, are increasingly used after HCT. Their most notable neurological side effects are described in Table 53.2.\n53.2.1.4 Anti-infective Drugs\nAnti-infective drugs are among the major causes of neurological complications. Dose adaptation is warranted in case of drug-drug interaction or impaired renal function. Their main neurological side effects are described in Table 53.2.",
+          "zh": "53.2.1.3 免疫治療與酪胺酸激酶抑制劑（TKI）\nRituximab、TKI 以及雙特異性 T 細胞銜接抗體（如 blinatumomab）在 HCT 後的應用日益普及。它們最顯著的神經系統副作用詳列於表 53.2。\n53.2.1.4 抗感染藥物\n抗感染藥物是造成神經系統併發症的主要原因之一。當存在藥物交互作用或腎功能受損時，必須進行劑量調整。其主要的神經系統副作用詳列於表 53.2。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300011,
+          "page": 490,
+          "en": "53.2.2 Infectious Pathogens\nA wide array of pathogens can potentially lead to CNS infections after HCT (Schmidt-Hieber et al. 2011, 2020). Among them, fungi (e.g., Aspergillus spp.) and viruses (mainly EBV and HHV-6) are the most prevalent agents (Schmidt-Hieber et al. 2020; Liu et al. 2021). To identify a potential agent that may be causing unclear neurological disorders, thorough diagnosis investigation should be conducted. This should include MRI-based neuroimaging and cerebrospinal fluid (CSF) analysis. Considering the clinical symptoms and their timing in relation to HCT may be helpful to decipher the accurate diagnosis (Schmidt-Hieber et al. 2011, 2016, 2020). Early preemptive or target treatment of CNS infection is crucial to improve the prognosis. Notably, while isavuconazole or voriconazole may be used to treat CNS-involving infections caused by Aspergillus spp. and zygomycosis (Tissot et al. 2017; Schwartz et al. 2020), HHV-6 encephalitis should be treated by foscarnet or ganciclovir (Schmidt-Hieber et al. 2016; Ward et al. 2019).",
+          "zh": "53.2.2 感染性病原體\n種類繁多的病原體皆可能在 HCT 後導致 CNS 感染（Schmidt-Hieber et al. 2011, 2020）。其中，黴菌（例如麴菌屬〔Aspergillus spp.〕）與病毒（主要為 EBV 與 HHV-6）是最常見的致病源（Schmidt-Hieber et al. 2020; Liu et al. 2021）。為了找出引起不明原因神經學異常的潛在病原體，應進行徹底的診斷評估，這應包括以 MRI 為基礎的神經影像學檢查以及腦脊髓液（CSF）分析。綜合考量臨床症狀及其相對於 HCT 的發生時間點，有助於推敲出正確的診斷（Schmidt-Hieber et al. 2011, 2016, 2020）。針對 CNS 感染進行早期搶先治療或標靶治療對於改善預後至關重要。特別值得注意的是，涉及 CNS 的麴菌屬感染與接合菌病（zygomycosis / 毛黴菌病）可使用具良好血腦障壁穿透力的 isavuconazole 或 voriconazole 治療（Tissot et al. 2017; Schwartz et al. 2020），而 HHV-6 腦炎則應使用 foscarnet 或 ganciclovir 進行治療（Schmidt-Hieber et al. 2016; Ward et al. 2019）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300012,
+          "page": 490,
+          "en": "53.2.3 Metabolic Complications\nMetabolic complications may include uremic encephalopathy associated with CNI nephrotoxicity or TAM, hepatic encephalopathy associated with SOS/VOD or severe hepatic GVHD, and diabetic ketoacidosis. Pharmacologic sedation with opioids, CNS infections, cytokine release syndrome (CRS), systemic inflammatory response, and hemophagocytic lymphohistiocytosis should be considered in the differential diagnosis of metabolic causes of neurological dysfunction (Maffini et al. 2017).",
+          "zh": "53.2.3 代謝性併發症\n代謝性併發症包括與 CNI 腎毒性或 TAM 相關的尿毒性腦病變、與肝竇阻塞症候群（SOS/VOD）或嚴重肝臟 GVHD 相關的肝性腦病變，以及糖尿病酮酸中毒。在進行代謝性神經功能障礙的鑑別診斷時，應將鴉片類藥物引起的鎮靜作用、CNS 感染、細胞激素釋放症候群（CRS）、全身性發炎反應以及噬血細胞性淋巴組織細胞增生症（HLH）一併納入考量（Maffini et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300013,
+          "page": 490,
+          "en": "53.2.4 Cerebrovascular Diseases\nCerebrovascular hemorrhagic or thrombotic CNS events represent potentially lethal complications.\nAmong these, subdural hematoma is one of the most common, occurring in 2.6% of HCT recipients. Risk factors for CNS hemorrhagic complications include posttransplant falls, prolonged severe thrombocytopenia or platelet transfusion refractoriness, acute grades III–IV GHVD, and arterial hypertension. CT scans usually confirm the diagnosis but can be negative in 20–25% of the patients with CNS hemorrhagic events. Risk factors for CNS thrombotic complications include active infections, atrial fibrillation, hypercoagulative state, previous venous thromboembolism, high-risk malignant disease, TMA, and GVHD (Zhang et al. 2016; Cai et al. 2020).",
+          "zh": "53.2.4 腦血管疾病\n腦血管出血性或血栓性 CNS 事件是潛在致命的嚴重併發症。\n在這些事件中，硬腦膜下血腫（subdural hematoma）是最常見的類型之一，發生於約 2.6% 的 HCT 受贈者。發生 CNS 出血性併發症的危險因子包括移植後跌倒、長期嚴重血小板低下或血小板輸注無效（platelet transfusion refractoriness）、第 III–IV 級急性 GVHD 以及動脈高血壓。腦部 CT 掃描通常可確立診斷，但在 20%–25% 發生 CNS 出血事件的患者中，初期 CT 可能呈陰性。發生 CNS 血栓（缺血性中風）併發症的危險因子則包括活動性感染、心房顫動、高凝血狀態、既往靜脈血栓栓塞病史、高風險惡性疾病、TMA 以及 GVHD（Zhang et al. 2016; Cai et al. 2020）。",
+          "review": "ai-draft",
+          "endPage": 491
+        }
+      ]
+    },
+    {
+      "page": 491,
+      "blocks": [
+        {
+          "id": 5300014,
+          "page": 491,
+          "en": "53.2.5 Immune-Mediated Causes\nImmune-mediated neurological diseases are rare but potentially severe complications of HCT, which encompasses demyelinating polyneuropathy, myositis, myasthenia gravis, CNS manifestations of chronic GVHD, and CRS.\n53.2.5.1 Demyelinating Polyneuropathies\nImmune-mediated demyelinating polyneuropathies, which includes Guillain-Barré syndrome, may occur in 1–4% of the patients, especially within the first 3 months after HCT (Yoshida et al. 2016). Progressive symmetrical ascending motor deficiency, numbness, hyporeflexia, and respiratory insufficiency are the most common symptoms. MRI, lumbar puncture, and nerve conduction studies should be performed promptly. Symptoms may resolve with the use of intravenous immunoglobulins. Plasma exchange or rituximab may be used in unresponsive patients.",
+          "zh": "53.2.5 免疫介導原因\n免疫介導的神經系統疾病在 HCT 後較為罕見，但可能是極為嚴重的併發症，涵蓋去髓鞘性多發性神經病變、肌炎、重症肌無力、慢性 GVHD 的中樞神經系統表現以及 CRS。\n53.2.5.1 去髓鞘性多發性神經病變（Demyelinating Polyneuropathies）\n包含格林－巴利症候群（Guillain-Barré syndrome, GBS）在內的免疫介導去髓鞘性多發性神經病變，可能發生於 1%–4% 的患者，特別好發於 HCT 後的前 3 個月內（Yoshida et al. 2016）。進行性對稱性上升性運動無力、肢體麻木、肌腱反射減弱（hyporeflexia）以及呼吸衰竭是最常見的症狀。臨床上應立即安排脊髓 MRI、腰椎穿刺及神經傳導檢查（NCS）。使用靜脈注射免疫球蛋白（IVIG）後症狀可能會有所緩解；對於反應不佳的患者，則可使用血漿置換術（plasma exchange）或 rituximab。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300015,
+          "page": 491,
+          "en": "53.2.5.2 Myositis\nMyositis is characterized by proximal muscle weakness and is often associated with chronic GVHD. It can occur in 2–3% of HCT recipients (Limaye and Limaye 2021). Previous exposure to immune checkpoint inhibitor may increase the risk of developing myositis. Levels of creatine phosphokinase are elevated, electromyography shows a myopathic pattern, and MRI is valuable in diagnosing and monitoring the treatment response. Diagnosis can be confirmed by muscle biopsy. Patients often respond to corticosteroid therapy within 1–6 weeks.\n53.2.5.3 Myasthenia Gravis\nMyasthenia gravis usually occurs after the onset of GVHD in less than 1% of HCT recipients (Ahmed et al. 2018). The main symptoms include ptosis, facial weakness, diplopia, dysarthria, and dysphagia. The diagnosis is confirmed with electromyography showing a progressive decrease in the muscle action potential or increased jitter. Cholinesterase inhibitors and corticosteroid therapy are the treatments of choice.",
+          "zh": "53.2.5.2 肌炎（Myositis）\n肌炎的特徵為近端肌肉無力，且常與慢性 GVHD 相關，約發生於 2%–3% 的 HCT 受贈者（Limaye and Limaye 2021）。移植前曾暴露於免疫檢查點抑制劑（ICI）可能會增加發生肌炎的風險。患者血清肌酸磷化酶（CPK）濃度會升高，肌電圖（EMG）呈現肌病變型態（myopathic pattern），而肌肉 MRI 在診斷與監測治療反應上極具價值；確診則可透過肌肉切片證實。患者通常會在接受皮質類固醇治療後的 1 至 6 週內產生良好反應。\n53.2.5.3 重症肌無力（Myasthenia Gravis）\n重症肌無力通常在慢性 GVHD 發作後出現，發生率低於 1% 的 HCT 受贈者（Ahmed et al. 2018）。主要症狀包括眼瞼下垂（ptosis）、顏面肌無力、複視（diplopia）、構音障礙以及吞嚥困難（dysphagia）。確診需藉由重複神經刺激肌電圖顯示肌肉動作電位呈進行性遞減，或單纖維肌電圖顯示顫抖（jitter）增加（並可檢測抗乙醯膽鹼受體抗體）。膽鹼酯酶抑制劑（如 pyridostigmine）與皮質類固醇治療為首選療法。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300016,
+          "page": 491,
+          "en": "53.2.5.4 Central Nervous System GVHD\nCNS manifestations of GVHD are considered rare, although their true incidence may be underestimated. Notably, three types of chronic CNS GVHD are recognized by the NIH Consensus Conference on criteria for clinical trials in chronic GVHD: demyelinating diseases, cerebrovascular disease, and immune-mediated encephalitis (Vinnakota and Zeiser 2021).\nDemyelinating diseases have been reported in the cerebral white matter, optic nerve, and spinal cord. Symptoms typically follow a relapsing-remitting course, as observed in multiple sclerosis. The treatment consists in corticosteroid pulses. Refractory/relapsing patients may benefit from sphingosine-1-phosphate receptor agonists, such as fingolimod (Gauthier et al. 2018).\nVasculitis, the most common cerebrovascular manifestation of GVHD, affects small- to large-sized arterial vessels of cerebral parenchyma and meninges. Ischemic lesions, microhemorrhages, and multifocal signal changes in the white matter can be observed on MRI. Diagnosis can be confirmed by brain biopsy, and treatment involves corticosteroids in combination with cyclophosphamide.\nFinally, cases of immune-mediated encephalitis have been reported, requiring repeated CSF examination to confirm the diagnosis and rule out infectious encephalitis.",
+          "zh": "53.2.5.4 中樞神經系統移植物抗宿主疾病（CNS GVHD）\nGVHD 的中樞神經系統表現一般被認為相當罕見，儘管其真實發生率可能被低估。值得注意的是，美國國家衛生院（NIH）慢性 GVHD 臨床試驗標準共識會議認可了三種慢性 CNS GVHD 類型：去髓鞘疾病、腦血管疾病（血管炎）以及免疫介導性腦炎（Vinnakota and Zeiser 2021）。\n去髓鞘疾病曾被報導發生於大腦白質、視神經以及脊髓，其症狀通常遵循如多發性硬化症（multiple sclerosis）般的復發－緩解（relapsing-remitting）病程。治療以高劑量皮質類固醇脈衝療法為主；難治型或復發型患者則可能受惠於鞘氨醇-1-磷酸（sphingosine-1-phosphate, S1P）受體促效劑，例如 fingolimod（Gauthier et al. 2018）。\n血管炎（vasculitis）是 GVHD 最常見的腦血管表現，會侵犯腦實質與腦膜的小至大型動脈血管。在腦部 MRI 上可觀察到缺血性病灶、微出血以及腦白質多發性訊號改變。診斷可透過腦部切片確認，治療則需使用皮質類固醇合併 cyclophosphamide。\n最後，文獻亦曾通報免疫介導性腦炎（immune-mediated encephalitis）的案例，需要重複進行腦脊髓液（CSF）檢查以確立診斷並嚴格排除感染性腦炎。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 492,
+      "blocks": [
+        {
+          "id": 5300017,
+          "page": 492,
+          "en": "53.2.5.5 Cytokine Release Syndrome\nCRS is a frequent complication of haploidentical HCT, particularly when PBSC are used, and it may occur in up to 90% of patients within the first days following graft infusion. The clinical manifestations of CRS are similar to those observed in patients after chimeric antigen receptor T-cell or bispecific antibody therapies, ranging from isolated fever to potentially life-threatening complications. Headache associated with fever is common in mild forms of CRS. However, severe CRS-related neurological symptoms, such as encephalopathy, occur in less than 10% of patients (Abboud et al. 2021). Patients can be effectively treated with cytokine blockade using monoclonal antibodies targeting the IL-6 receptor, such as tocilizumab, or interleukin-1 receptor antagonist, such as anakinra (Hayden et al. 2022; Gazeau et al. 2023).",
+          "zh": "53.2.5.5 細胞激素釋放症候群（Cytokine Release Syndrome, CRS）\nCRS 是半相合（haploidentical）HCT 常見的併發症，特別是在使用周邊血幹細胞（PBSC）作為移植物時，高達 90% 的患者可能在移植物輸注後的最初幾天內發生（在給予 PTCy 後通常迅速消退）。CRS 的臨床表現與接受嵌合抗原受體 T 細胞（CAR-T）或雙特異性抗體治療後所觀察到的表現相似，從單純高燒到潛在危及生命的併發症皆有。在輕度 CRS 中，伴隨發燒出現的頭痛相當常見；然而，與嚴重 CRS 相關的神經學症狀（如腦病變／ICANS 樣表現）發生率則低於 10%（Abboud et al. 2021）。患者可透過細胞激素阻斷療法獲得有效治療，包括使用針對 IL-6 受體的單株抗體（如 tocilizumab）或介白素-1（IL-1）受體拮抗劑（如 anakinra）（Hayden et al. 2022; Gazeau et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300018,
+          "page": 492,
+          "en": "53.3 Diagnostic Algorithm\nWhen faced with neurological complications of HCT, the following ten steps can be helpful to research the correct diagnosis and start the right treatment promptly:\n1. Carefully review the medication history and search for potential metabolic disorders.\n2. Determine whether the clinical signs and symptoms are generalized (e.g., altered consciousness, seizures) or focal (e.g., stroke, mass lesion).\n3. Assess the timing of neurological signs and symptoms in relation to HCT.\n4. Perform CT scan or MRI to rule out PRES, encephalitis (infectious or immune-mediated), parenchymal infiltrates, cerebrovascular events, and hematological disease relapse.\n5. Analyze CSF to diagnose infectious complications, demyelinating neuropathy, and underlying disease relapse.\n6. Perform electroencephalography in patients exhibiting altered consciousness, hallucinations, or seizures.\n7. Perform electromyography in patients exhibiting neuropathy, myopathy, or neuromuscular pattern of weakness.\n8. Repeat each of the previous steps as investigations may be negative if performed early and symptoms may evolve or fluctuate after the disease onset.\n9. Consider brain or neuromuscular biopsy to confirm or rule out opportunistic infections, PML, vasculitis, PTLD, or other malignancies.\n10. A neurology review is crucial at every step and highly recommended, particularly in complex clinical cases.",
+          "zh": "53.3 診斷流程（Diagnostic Algorithm）\n當面對 HCT 後的神經系統併發症時，以下十個步驟有助於追查正確診斷並立即啟動適當治療：\n1. 仔細檢視用藥史（包含神經毒性藥物與藥物交互作用），並篩查潛在的代謝性異常。\n2. 判斷臨床徵象與症狀屬於全身性／瀰漫性（例如意識改變、癲癇發作）或局部性（例如腦中風、佔位性腫塊病灶）。\n3. 評估神經學徵象與症狀相對於 HCT 的發生時間點（早期 vs. 晚期）。\n4. 安排腦部 CT 或 MRI 檢查，以排除 PRES、腦炎（感染性或免疫介導性）、腦實質浸潤病灶、腦血管事件以及原發血液疾病復發。\n5. 分析腦脊髓液（CSF），以診斷感染性併發症、去髓鞘性神經病變以及原發疾病 CNS 復發。\n6. 對於表現出意識改變、幻覺或癲癇發作的患者，執行腦電圖（EEG）檢查（排除非抽搐性癲癇重積狀態）。\n7. 對於表現出周邊神經病變、肌病變或神經肌肉接合處無力型態的患者，執行肌電圖與神經傳導檢查（EMG/NCS）。\n8. 必要時重複上述各項檢查步驟，因為在疾病早期執行時檢查結果可能呈陰性，且症狀在發病後可能會演變或波動。\n9. 考慮進行腦部或神經肌肉組織切片，以確診或排除伺機性感染、進行性多灶性腦白質病變（PML）、腦血管炎、PTLD 或其他惡性腫瘤。\n10. 在每一個步驟中，照會神經內科專科醫師進行評估皆至關重要，特別是在複雜的臨床個案中強烈建議密切合作。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300019,
+          "page": 492,
+          "en": "53.4 Conclusions\nNeurological complications of HCT, particularly allo-HCT, are frequent and can be fatal. The main causes of these complications include drug-related toxicities, infections, metabolic disorders, cerebrovascular events, immune-mediated disorders, and disease recurrence. Although their management can be highly challenging, early diagnosis and treatment, guided by the expertise of a neurologist, are extremely important to reduce mortality and improve quality of life.",
+          "zh": "53.4 結論\nHCT（特別是異體 HCT）後的神經系統併發症相當常見且可能致命。這些併發症的主要原因包括藥物相關毒性、感染、代謝異常、腦血管事件、免疫介導疾病以及原發疾病復發。儘管其臨床處置極具挑戰性，但在神經科專家專業知識的引導下進行早期診斷與及時治療，對於降低死亡率及改善患者生活品質極為重要。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300020,
+          "page": 492,
+          "en": "Key Points\n• Neurological complications of HCT require prompt diagnosis and timely treatment to reduce posttransplant mortality and enhance quality of life.\n• Their etiology is often multifactorial, involving neurotoxic drugs, infectious pathogens, metabolic encephalopathy, cerebrovascular disorders, and immune-mediated diseases.\n• TAM, PTLD with CNS involvement, CRS, and CNS relapse of the underlying hematological disease should be included in the differential diagnosis.\n• CNS manifestations of GVHD are considered rare and often pose considerable challenges to manage.\n• Consulting with a neurologist is recommended, especially in complex clinical cases.",
+          "zh": "重點摘要（Key Points）\n• HCT 後的神經系統併發症需要迅速診斷與及時治療，以降低移植後死亡率並提升生活品質。\n• 其病因往往是多因素共同造成的，涉及神經毒性藥物、感染性病原體、代謝性腦病變、腦血管疾病以及免疫介導疾病。\n• 血栓性微血管病變（TAM）、侵犯 CNS 的移植後淋巴增生性疾病（PTLD）、細胞激素釋放症候群（CRS）以及原發血液疾病的 CNS 復發，皆應納入鑑別診斷之中。\n• GVHD 的中樞神經系統表現相當罕見，且在臨床處置上常帶來極大的挑戰。\n• 建議積極照會神經內科專科醫師，特別是在複雜的臨床個案中。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 493,
+      "blocks": [
+        {
+          "id": 5300021,
+          "page": 493,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5300022,
+          "page": 493,
+          "en": "Abboud R, Wan F, Mariotti J, et al. Cytokine release syndrome after haploidentical hematopoietic cell transplantation: an international multicenter analysis. Bone Marrow Transplant. 2021;56:2763–70.",
+          "zh": "Abboud R, Wan F, Mariotti J, et al. Cytokine release syndrome after haploidentical hematopoietic cell transplantation: an international multicenter analysis. Bone Marrow Transplant. 2021;56:2763–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abboud%20R%2C%20Wan%20F%2C%20Mariotti%20J%2C%20et%20al.%20Cytokine%20release%20syndrome%20after%20haploidentical%20hematopoietic%20cell%20transplantation%3A%20an%20international%20multicenter%20analysis.%20Bone%20Marrow%20Transplant.%202021%3B56%3A2763%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abboud%20R%2C%20Wan%20F%2C%20Mariotti%20J%2C%20et%20al.%20Cytokine%20release%20syndrome%20after%20haploidentical%20hematopoietic%20cell%20transplantation%3A%20an%20international%20multicenter%20analysis.%20Bone%20Marrow%20Transplant.%202021%3B56%3A2763%E2%80%9370."
+            }
+          ]
+        },
+        {
+          "id": 5300023,
+          "page": 493,
+          "en": "Ahmed Z, Schoen M, Rajeh N. Myasthenia gravis presenting as graft versus host disease after allogeneic blood stem cell transplant. Case Rep Hematol. 2018;2018:7296930.",
+          "zh": "Ahmed Z, Schoen M, Rajeh N. Myasthenia gravis presenting as graft versus host disease after allogeneic blood stem cell transplant. Case Rep Hematol. 2018;2018:7296930.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ahmed%20Z%2C%20Schoen%20M%2C%20Rajeh%20N.%20Myasthenia%20gravis%20presenting%20as%20graft%20versus%20host%20disease%20after%20allogeneic%20blood%20stem%20cell%20transplant.%20Case%20Rep%20Hematol.%202018%3B2018%3A7296930."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ahmed%20Z%2C%20Schoen%20M%2C%20Rajeh%20N.%20Myasthenia%20gravis%20presenting%20as%20graft%20versus%20host%20disease%20after%20allogeneic%20blood%20stem%20cell%20transplant.%20Case%20Rep%20Hematol.%202018%3B2018%3A7296930."
+            }
+          ]
+        },
+        {
+          "id": 5300024,
+          "page": 493,
+          "en": "Beitinjaneh A, McKinney AM, Cao Q, Weisdorf DJ. Toxic leukoencephalopathy following fludarabine-associated hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011;17:300–8.",
+          "zh": "Beitinjaneh A, McKinney AM, Cao Q, Weisdorf DJ. Toxic leukoencephalopathy following fludarabine-associated hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011;17:300–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Beitinjaneh%20A%2C%20McKinney%20AM%2C%20Cao%20Q%2C%20Weisdorf%20DJ.%20Toxic%20leukoencephalopathy%20following%20fludarabine-associated%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A300%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Beitinjaneh%20A%2C%20McKinney%20AM%2C%20Cao%20Q%2C%20Weisdorf%20DJ.%20Toxic%20leukoencephalopathy%20following%20fludarabine-associated%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A300%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5300025,
+          "page": 493,
+          "en": "Cai X, Fu HX, Mo XD, Wang Y, et al. Comparison of hemorrhagic and ischemic stroke after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant. 2020;55:2087–97.",
+          "zh": "Cai X, Fu HX, Mo XD, Wang Y, et al. Comparison of hemorrhagic and ischemic stroke after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant. 2020;55:2087–97.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cai%20X%2C%20Fu%20HX%2C%20Mo%20XD%2C%20Wang%20Y%2C%20et%20al.%20Comparison%20of%20hemorrhagic%20and%20ischemic%20stroke%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202020%3B55%3A2087%E2%80%9397."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cai%20X%2C%20Fu%20HX%2C%20Mo%20XD%2C%20Wang%20Y%2C%20et%20al.%20Comparison%20of%20hemorrhagic%20and%20ischemic%20stroke%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202020%3B55%3A2087%E2%80%9397."
+            }
+          ]
+        },
+        {
+          "id": 5300026,
+          "page": 493,
+          "en": "Eberly AL, Anderson GD, Bubalo JS, McCune JS. Optimal prevention of seizures induced by high-dose busulfan. Pharmacotherapy. 2008;28:1502–10.",
+          "zh": "Eberly AL, Anderson GD, Bubalo JS, McCune JS. Optimal prevention of seizures induced by high-dose busulfan. Pharmacotherapy. 2008;28:1502–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eberly%20AL%2C%20Anderson%20GD%2C%20Bubalo%20JS%2C%20McCune%20JS.%20Optimal%20prevention%20of%20seizures%20induced%20by%20high-dose%20busulfan.%20Pharmacotherapy.%202008%3B28%3A1502%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eberly%20AL%2C%20Anderson%20GD%2C%20Bubalo%20JS%2C%20McCune%20JS.%20Optimal%20prevention%20of%20seizures%20induced%20by%20high-dose%20busulfan.%20Pharmacotherapy.%202008%3B28%3A1502%E2%80%9310."
+            }
+          ]
+        },
+        {
+          "id": 5300027,
+          "page": 493,
+          "en": "Gauthier J, Vermersch P, Chauvet P, et al. Successful treatment with fingolimod of graft-versus-host disease of the central nervous system. Blood Adv. 2018;2:10–3.",
+          "zh": "Gauthier J, Vermersch P, Chauvet P, et al. Successful treatment with fingolimod of graft-versus-host disease of the central nervous system. Blood Adv. 2018;2:10–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gauthier%20J%2C%20Vermersch%20P%2C%20Chauvet%20P%2C%20et%20al.%20Successful%20treatment%20with%20fingolimod%20of%20graft-versus-host%20disease%20of%20the%20central%20nervous%20system.%20Blood%20Adv.%202018%3B2%3A10%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gauthier%20J%2C%20Vermersch%20P%2C%20Chauvet%20P%2C%20et%20al.%20Successful%20treatment%20with%20fingolimod%20of%20graft-versus-host%20disease%20of%20the%20central%20nervous%20system.%20Blood%20Adv.%202018%3B2%3A10%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 5300028,
+          "page": 493,
+          "en": "Gazeau N, Liang EC, Wu QV, et al. Anakinra for refractory cytokine release syndrome or immune effector cell-associated neurotoxicity syndrome after chimeric antigen receptor T cell therapy. Transplant Cell Ther. 2023;29:430–7.",
+          "zh": "Gazeau N, Liang EC, Wu QV, et al. Anakinra for refractory cytokine release syndrome or immune effector cell-associated neurotoxicity syndrome after chimeric antigen receptor T cell therapy. Transplant Cell Ther. 2023;29:430–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gazeau%20N%2C%20Liang%20EC%2C%20Wu%20QV%2C%20et%20al.%20Anakinra%20for%20refractory%20cytokine%20release%20syndrome%20or%20immune%20effector%20cell-associated%20neurotoxicity%20syndrome%20after%20chimeric%20antigen%20receptor%20T%20cell%20therapy.%20Transplant%20Cell%20Ther.%202023%3B29%3A430%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gazeau%20N%2C%20Liang%20EC%2C%20Wu%20QV%2C%20et%20al.%20Anakinra%20for%20refractory%20cytokine%20release%20syndrome%20or%20immune%20effector%20cell-associated%20neurotoxicity%20syndrome%20after%20chimeric%20antigen%20receptor%20T%20cell%20therapy.%20Transplant%20Cell%20Ther.%202023%3B29%3A430%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5300029,
+          "page": 493,
+          "en": "Hayden PJ, Roddie C, Bader P, et al. Management of adults and children receiving CAR T-cell therapy: 2021 best practice recommendations of the European Society for Blood and Marrow Transplantation (EBMT) and the Joint Accreditation Committee of ISCT and EBMT (JACIE) and the European Haematology Association (EHA). Ann Oncol. 2022;33:259–75.",
+          "zh": "Hayden PJ, Roddie C, Bader P, et al. Management of adults and children receiving CAR T-cell therapy: 2021 best practice recommendations of the European Society for Blood and Marrow Transplantation (EBMT) and the Joint Accreditation Committee of ISCT and EBMT (JACIE) and the European Haematology Association (EHA). Ann Oncol. 2022;33:259–75.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hayden%20PJ%2C%20Roddie%20C%2C%20Bader%20P%2C%20et%20al.%20Management%20of%20adults%20and%20children%20receiving%20CAR%20T-cell%20therapy%3A%202021%20best%20practice%20recommendations%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29%20and%20the%20Joint%20Accreditation%20Committee%20of%20ISCT%20and%20EBMT%20%28JACIE%29%20and%20the%20European%20Haematology%20Association%20%28EHA%29.%20Ann%20Oncol.%202022%3B33%3A259%E2%80%9375."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hayden%20PJ%2C%20Roddie%20C%2C%20Bader%20P%2C%20et%20al.%20Management%20of%20adults%20and%20children%20receiving%20CAR%20T-cell%20therapy%3A%202021%20best%20practice%20recommendations%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29%20and%20the%20Joint%20Accreditation%20Committee%20of%20ISCT%20and%20EBMT%20%28JACIE%29%20and%20the%20European%20Haematology%20Association%20%28EHA%29.%20Ann%20Oncol.%202022%3B33%3A259%E2%80%9375."
+            }
+          ]
+        },
+        {
+          "id": 5300030,
+          "page": 493,
+          "en": "Limaye S, Limaye V. Clinical characteristics of myositis associated with graft-versus-host disease. Curr Rheumatol Rep. 2021;23:30.",
+          "zh": "Limaye S, Limaye V. Clinical characteristics of myositis associated with graft-versus-host disease. Curr Rheumatol Rep. 2021;23:30.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Limaye%20S%2C%20Limaye%20V.%20Clinical%20characteristics%20of%20myositis%20associated%20with%20graft-versus-host%20disease.%20Curr%20Rheumatol%20Rep.%202021%3B23%3A30."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Limaye%20S%2C%20Limaye%20V.%20Clinical%20characteristics%20of%20myositis%20associated%20with%20graft-versus-host%20disease.%20Curr%20Rheumatol%20Rep.%202021%3B23%3A30."
+            }
+          ]
+        },
+        {
+          "id": 5300031,
+          "page": 493,
+          "en": "Liu W, Fan Z, Zhang Y, et al. Metagenomic next-generation sequencing for identifying pathogens in central nervous system complications after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant. 2021;56:1978–83.",
+          "zh": "Liu W, Fan Z, Zhang Y, et al. Metagenomic next-generation sequencing for identifying pathogens in central nervous system complications after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant. 2021;56:1978–83.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Liu%20W%2C%20Fan%20Z%2C%20Zhang%20Y%2C%20et%20al.%20Metagenomic%20next-generation%20sequencing%20for%20identifying%20pathogens%20in%20central%20nervous%20system%20complications%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1978%E2%80%9383."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Liu%20W%2C%20Fan%20Z%2C%20Zhang%20Y%2C%20et%20al.%20Metagenomic%20next-generation%20sequencing%20for%20identifying%20pathogens%20in%20central%20nervous%20system%20complications%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202021%3B56%3A1978%E2%80%9383."
+            }
+          ]
+        },
+        {
+          "id": 5300032,
+          "page": 493,
+          "en": "Maffini E, Festuccia M, Brunello L, et al. Neurologic complications after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2017;23:388–97.",
+          "zh": "Maffini E, Festuccia M, Brunello L, et al. Neurologic complications after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2017;23:388–97.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Maffini%20E%2C%20Festuccia%20M%2C%20Brunello%20L%2C%20et%20al.%20Neurologic%20complications%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A388%E2%80%9397."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Maffini%20E%2C%20Festuccia%20M%2C%20Brunello%20L%2C%20et%20al.%20Neurologic%20complications%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A388%E2%80%9397."
+            }
+          ]
+        },
+        {
+          "id": 5300033,
+          "page": 493,
+          "en": "Paudyal B, Viets R, Skliut M. A case of low-dose oral methotrexate–induced reversible neurotoxicity. Am J Neuroradiol. 2010;31:E77.",
+          "zh": "Paudyal B, Viets R, Skliut M. A case of low-dose oral methotrexate–induced reversible neurotoxicity. Am J Neuroradiol. 2010;31:E77.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Paudyal%20B%2C%20Viets%20R%2C%20Skliut%20M.%20A%20case%20of%20low-dose%20oral%20methotrexate%E2%80%93induced%20reversible%20neurotoxicity.%20Am%20J%20Neuroradiol.%202010%3B31%3AE77."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Paudyal%20B%2C%20Viets%20R%2C%20Skliut%20M.%20A%20case%20of%20low-dose%20oral%20methotrexate%E2%80%93induced%20reversible%20neurotoxicity.%20Am%20J%20Neuroradiol.%202010%3B31%3AE77."
+            }
+          ]
+        },
+        {
+          "id": 5300034,
+          "page": 493,
+          "en": "Reece DE, Frei-Lahr DA, Shepherd JD, et al. Neurologic complications in allogeneic bone marrow transplant patients receiving cyclosporin. Bone Marrow Transplant. 1991;8:393–401.",
+          "zh": "Reece DE, Frei-Lahr DA, Shepherd JD, et al. Neurologic complications in allogeneic bone marrow transplant patients receiving cyclosporin. Bone Marrow Transplant. 1991;8:393–401.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Reece%20DE%2C%20Frei-Lahr%20DA%2C%20Shepherd%20JD%2C%20et%20al.%20Neurologic%20complications%20in%20allogeneic%20bone%20marrow%20transplant%20patients%20receiving%20cyclosporin.%20Bone%20Marrow%20Transplant.%201991%3B8%3A393%E2%80%93401."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Reece%20DE%2C%20Frei-Lahr%20DA%2C%20Shepherd%20JD%2C%20et%20al.%20Neurologic%20complications%20in%20allogeneic%20bone%20marrow%20transplant%20patients%20receiving%20cyclosporin.%20Bone%20Marrow%20Transplant.%201991%3B8%3A393%E2%80%93401."
+            }
+          ]
+        },
+        {
+          "id": 5300035,
+          "page": 493,
+          "en": "Schmidt V, Prell T, Treschl A, et al. Clinical management of posterior reversible encephalopathy syndrome after allogeneic hematopoietic stem cell transplantation: a case series and review of the literature. Acta Haematol. 2016;135:1–10.",
+          "zh": "Schmidt V, Prell T, Treschl A, et al. Clinical management of posterior reversible encephalopathy syndrome after allogeneic hematopoietic stem cell transplantation: a case series and review of the literature. Acta Haematol. 2016;135:1–10.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmidt%20V%2C%20Prell%20T%2C%20Treschl%20A%2C%20et%20al.%20Clinical%20management%20of%20posterior%20reversible%20encephalopathy%20syndrome%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20case%20series%20and%20review%20of%20the%20literature.%20Acta%20Haematol.%202016%3B135%3A1%E2%80%9310."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmidt%20V%2C%20Prell%20T%2C%20Treschl%20A%2C%20et%20al.%20Clinical%20management%20of%20posterior%20reversible%20encephalopathy%20syndrome%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20case%20series%20and%20review%20of%20the%20literature.%20Acta%20Haematol.%202016%3B135%3A1%E2%80%9310."
+            }
+          ]
+        },
+        {
+          "id": 5300036,
+          "page": 493,
+          "en": "Schmidt-Hieber M, Schwender J, Heinz WJ, et al. Viral encephalitis after allogeneic stem cell transplantation: a rare complication with distinct characteristics of different causative agents. Haematologica. 2011;96:142–9.",
+          "zh": "Schmidt-Hieber M, Schwender J, Heinz WJ, et al. Viral encephalitis after allogeneic stem cell transplantation: a rare complication with distinct characteristics of different causative agents. Haematologica. 2011;96:142–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmidt-Hieber%20M%2C%20Schwender%20J%2C%20Heinz%20WJ%2C%20et%20al.%20Viral%20encephalitis%20after%20allogeneic%20stem%20cell%20transplantation%3A%20a%20rare%20complication%20with%20distinct%20characteristics%20of%20different%20causative%20agents.%20Haematologica.%202011%3B96%3A142%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmidt-Hieber%20M%2C%20Schwender%20J%2C%20Heinz%20WJ%2C%20et%20al.%20Viral%20encephalitis%20after%20allogeneic%20stem%20cell%20transplantation%3A%20a%20rare%20complication%20with%20distinct%20characteristics%20of%20different%20causative%20agents.%20Haematologica.%202011%3B96%3A142%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5300037,
+          "page": 493,
+          "en": "Schmidt-Hieber M, Silling G, Schalk E, et al. CNS infections in patients with hematological disorders (including allogeneic stem-cell transplantation)-guidelines of the infectious diseases working party (AGIHO) of the German Society of Hematology and Medical Oncology (DGHO). Ann Oncol. 2016;27:1207–25.",
+          "zh": "Schmidt-Hieber M, Silling G, Schalk E, et al. CNS infections in patients with hematological disorders (including allogeneic stem-cell transplantation)-guidelines of the infectious diseases working party (AGIHO) of the German Society of Hematology and Medical Oncology (DGHO). Ann Oncol. 2016;27:1207–25.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmidt-Hieber%20M%2C%20Silling%20G%2C%20Schalk%20E%2C%20et%20al.%20CNS%20infections%20in%20patients%20with%20hematological%20disorders%20%28including%20allogeneic%20stem-cell%20transplantation%29-guidelines%20of%20the%20infectious%20diseases%20working%20party%20%28AGIHO%29%20of%20the%20German%20Society%20of%20Hematology%20and%20Medical%20Oncology%20%28DGHO%29.%20Ann%20Oncol.%202016%3B27%3A1207%E2%80%9325."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmidt-Hieber%20M%2C%20Silling%20G%2C%20Schalk%20E%2C%20et%20al.%20CNS%20infections%20in%20patients%20with%20hematological%20disorders%20%28including%20allogeneic%20stem-cell%20transplantation%29-guidelines%20of%20the%20infectious%20diseases%20working%20party%20%28AGIHO%29%20of%20the%20German%20Society%20of%20Hematology%20and%20Medical%20Oncology%20%28DGHO%29.%20Ann%20Oncol.%202016%3B27%3A1207%E2%80%9325."
+            }
+          ]
+        },
+        {
+          "id": 5300038,
+          "page": 493,
+          "en": "Schmidt-Hieber M, Engelhard D, Ullmann A, et al. Central nervous system disorders after hematopoietic stem cell transplantation: a prospective study of the infectious diseases working party of EBMT. J Neurol. 2020;267:430–9.",
+          "zh": "Schmidt-Hieber M, Engelhard D, Ullmann A, et al. Central nervous system disorders after hematopoietic stem cell transplantation: a prospective study of the infectious diseases working party of EBMT. J Neurol. 2020;267:430–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schmidt-Hieber%20M%2C%20Engelhard%20D%2C%20Ullmann%20A%2C%20et%20al.%20Central%20nervous%20system%20disorders%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20prospective%20study%20of%20the%20infectious%20diseases%20working%20party%20of%20EBMT.%20J%20Neurol.%202020%3B267%3A430%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schmidt-Hieber%20M%2C%20Engelhard%20D%2C%20Ullmann%20A%2C%20et%20al.%20Central%20nervous%20system%20disorders%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20prospective%20study%20of%20the%20infectious%20diseases%20working%20party%20of%20EBMT.%20J%20Neurol.%202020%3B267%3A430%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5300039,
+          "page": 493,
+          "en": "Schwartz S, Cornely OA, Hamed K, et al. Isavuconazole for the treatment of patients with invasive fungal diseases involving the central nervous system. Med Mycol. 2020;58:417–24.",
+          "zh": "Schwartz S, Cornely OA, Hamed K, et al. Isavuconazole for the treatment of patients with invasive fungal diseases involving the central nervous system. Med Mycol. 2020;58:417–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schwartz%20S%2C%20Cornely%20OA%2C%20Hamed%20K%2C%20et%20al.%20Isavuconazole%20for%20the%20treatment%20of%20patients%20with%20invasive%20fungal%20diseases%20involving%20the%20central%20nervous%20system.%20Med%20Mycol.%202020%3B58%3A417%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schwartz%20S%2C%20Cornely%20OA%2C%20Hamed%20K%2C%20et%20al.%20Isavuconazole%20for%20the%20treatment%20of%20patients%20with%20invasive%20fungal%20diseases%20involving%20the%20central%20nervous%20system.%20Med%20Mycol.%202020%3B58%3A417%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 5300040,
+          "page": 493,
+          "en": "Tissot F, Agrawal S, Pagano L, et al. ECIL-6 guidelines for the treatment of invasive candidiasis, aspergillosis and mucormycosis in leukemia and hematopoietic stem cell transplant patients. Haematologica. 2017;102:433–44.",
+          "zh": "Tissot F, Agrawal S, Pagano L, et al. ECIL-6 guidelines for the treatment of invasive candidiasis, aspergillosis and mucormycosis in leukemia and hematopoietic stem cell transplant patients. Haematologica. 2017;102:433–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tissot%20F%2C%20Agrawal%20S%2C%20Pagano%20L%2C%20et%20al.%20ECIL-6%20guidelines%20for%20the%20treatment%20of%20invasive%20candidiasis%2C%20aspergillosis%20and%20mucormycosis%20in%20leukemia%20and%20hematopoietic%20stem%20cell%20transplant%20patients.%20Haematologica.%202017%3B102%3A433%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tissot%20F%2C%20Agrawal%20S%2C%20Pagano%20L%2C%20et%20al.%20ECIL-6%20guidelines%20for%20the%20treatment%20of%20invasive%20candidiasis%2C%20aspergillosis%20and%20mucormycosis%20in%20leukemia%20and%20hematopoietic%20stem%20cell%20transplant%20patients.%20Haematologica.%202017%3B102%3A433%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 5300041,
+          "page": 493,
+          "en": "Vinnakota JM, Zeiser R. Acute graft-versus-host disease, infections, vascular events and drug toxicities affecting the central nervous system. Front Immunol. 2021;12:748019.",
+          "zh": "Vinnakota JM, Zeiser R. Acute graft-versus-host disease, infections, vascular events and drug toxicities affecting the central nervous system. Front Immunol. 2021;12:748019.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vinnakota%20JM%2C%20Zeiser%20R.%20Acute%20graft-versus-host%20disease%2C%20infections%2C%20vascular%20events%20and%20drug%20toxicities%20affecting%20the%20central%20nervous%20system.%20Front%20Immunol.%202021%3B12%3A748019."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vinnakota%20JM%2C%20Zeiser%20R.%20Acute%20graft-versus-host%20disease%2C%20infections%2C%20vascular%20events%20and%20drug%20toxicities%20affecting%20the%20central%20nervous%20system.%20Front%20Immunol.%202021%3B12%3A748019."
+            }
+          ]
+        },
+        {
+          "id": 5300042,
+          "page": 493,
+          "en": "Ward KN, Hill JA, Hubacek P, et al. Guidelines from the 2017 European conference on infections in leukaemia for management of HHV-6 infection in patients with hematologic malignancies and after hematopoietic stem cell transplantation. Haematologica. 2019;104:2155–63.",
+          "zh": "Ward KN, Hill JA, Hubacek P, et al. Guidelines from the 2017 European conference on infections in leukaemia for management of HHV-6 infection in patients with hematologic malignancies and after hematopoietic stem cell transplantation. Haematologica. 2019;104:2155–63.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ward%20KN%2C%20Hill%20JA%2C%20Hubacek%20P%2C%20et%20al.%20Guidelines%20from%20the%202017%20European%20conference%20on%20infections%20in%20leukaemia%20for%20management%20of%20HHV-6%20infection%20in%20patients%20with%20hematologic%20malignancies%20and%20after%20hematopoietic%20stem%20cell%20transplantation.%20Haematologica.%202019%3B104%3A2155%E2%80%9363."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ward%20KN%2C%20Hill%20JA%2C%20Hubacek%20P%2C%20et%20al.%20Guidelines%20from%20the%202017%20European%20conference%20on%20infections%20in%20leukaemia%20for%20management%20of%20HHV-6%20infection%20in%20patients%20with%20hematologic%20malignancies%20and%20after%20hematopoietic%20stem%20cell%20transplantation.%20Haematologica.%202019%3B104%3A2155%E2%80%9363."
+            }
+          ]
+        },
+        {
+          "id": 5300043,
+          "page": 493,
+          "en": "Yoshida T, Ueki Y, Suzuki T, et al. Guillain-Barré syndrome after allogeneic bone marrow transplantation: case report and literature review. eNeurologicalSci. 2016;4:52–5.",
+          "zh": "Yoshida T, Ueki Y, Suzuki T, et al. Guillain-Barré syndrome after allogeneic bone marrow transplantation: case report and literature review. eNeurologicalSci. 2016;4:52–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yoshida%20T%2C%20Ueki%20Y%2C%20Suzuki%20T%2C%20et%20al.%20Guillain-Barr%C3%A9%20syndrome%20after%20allogeneic%20bone%20marrow%20transplantation%3A%20case%20report%20and%20literature%20review.%20eNeurologicalSci.%202016%3B4%3A52%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yoshida%20T%2C%20Ueki%20Y%2C%20Suzuki%20T%2C%20et%20al.%20Guillain-Barr%C3%A9%20syndrome%20after%20allogeneic%20bone%20marrow%20transplantation%3A%20case%20report%20and%20literature%20review.%20eNeurologicalSci.%202016%3B4%3A52%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5300044,
+          "page": 493,
+          "en": "Zhang X-H, Wang Q-M, Chen H, et al. Clinical characteristics and risk factors of intracranial hemorrhage in patients following allogeneic hematopoietic stem cell transplantation. Ann Hematol. 2016;95:1637–43.",
+          "zh": "Zhang X-H, Wang Q-M, Chen H, et al. Clinical characteristics and risk factors of intracranial hemorrhage in patients following allogeneic hematopoietic stem cell transplantation. Ann Hematol. 2016;95:1637–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhang%20X-H%2C%20Wang%20Q-M%2C%20Chen%20H%2C%20et%20al.%20Clinical%20characteristics%20and%20risk%20factors%20of%20intracranial%20hemorrhage%20in%20patients%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Ann%20Hematol.%202016%3B95%3A1637%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhang%20X-H%2C%20Wang%20Q-M%2C%20Chen%20H%2C%20et%20al.%20Clinical%20characteristics%20and%20risk%20factors%20of%20intracranial%20hemorrhage%20in%20patients%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Ann%20Hematol.%202016%3B95%3A1637%E2%80%9343."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 494,
+      "blocks": [
+        {
+          "id": 5300045,
+          "page": 494,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依據 Creative Commons 姓名標示 4.0 國際授權條款（http://creativecommons.org/licenses/by/4.0/）授權，允許以任何媒介或格式進行使用、分享、改作、散佈及重製，惟您必須給予原作者及來源適當的致謝、提供指向 Creative Commons 授權條款的連結，並標明是否曾進行修改。\n除非在素材的致謝行中另有說明，否則本章中的圖像或其他第三方素材均包含在本章的 Creative Commons 授權條款中。若素材未包含在本章的 Creative Commons 授權條款內，且您的預期用途未獲法規允許或超出允許的使用範圍，您將需要直接向版權持有人取得授權許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

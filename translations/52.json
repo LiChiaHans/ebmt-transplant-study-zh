@@ -1,0 +1,1202 @@
+{
+  "id": 52,
+  "title": "Noninfectious Pulmonary Complications",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 74,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 478,
+      "blocks": [
+        {
+          "id": 5200001,
+          "page": 478,
+          "en": "52 Noninfectious Pulmonary Complications\nAnne Bergeron and Kenneth R. Cooke",
+          "zh": "52 非感染性肺部併發症（Noninfectious Pulmonary Complications） — Anne Bergeron、Kenneth R. Cooke",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_52"
+            }
+          ]
+        },
+        {
+          "id": 5200002,
+          "page": 478,
+          "en": "52.1 Introduction\nLung injury occurs frequently following HCT and significantly contributes to morbidity and mortality in the immediate posttransplant period and in the months and years that follow. In aggregate, pulmonary dysfunction can be observed in 25–55% of recipients (Cooke and Yanik 2016; Haider et al. 2020). In this context, an NIH workshop was recently convened to specifically identify clinical challenges and scientific knowledge gaps regarding pulmonary dysfunction in pediatric HCT recipient (Tamburro et al. 2021).\nHistorically, approximately half of all pulmonary complications seen after HCT were secondary to infection, but the judicious use of broad-spectrum antimicrobial agents has tipped the balance toward noninfectious causes.\nNoninfectious lung injury following HCT may be mediated by immune or nonimmune mechanisms and accounts for up to 50% of noninfectious mortality after allo-HCT.\nThese complications have been classified by the American Thoracic Society according to the tissue primarily injured and its etiology (Panoskaltsis-Mortari et al. 2011) (Table 52.1).",
+          "zh": "52.1 前言\n肺損傷在造血細胞移植（HCT）後相當常見，且無論在移植後緊接的早期階段或隨後數月至數年間，皆是造成罹病率與死亡率的重要原因。總體而言，約在 25%–55% 的受贈者中可觀察到肺功能障礙（Cooke and Yanik 2016; Haider et al. 2020）。在此背景下，美國國家衛生院（NIH）近期特別召開了工作坊，專門針對兒童 HCT 受贈者肺功能障礙的臨床挑戰與科學知識缺口進行界定（Tamburro et al. 2021）。\n在歷史上，HCT 後所見的肺部併發症約有一半是次發於感染；然而，隨著廣效抗微生物藥物的審慎預防與使用，天秤已逐漸向非感染性原因傾斜。\nHCT 後的非感染性肺損傷可能由免疫或非免疫機制所介導，且佔了異體 HCT 後非感染性死亡原因的高達 50%。\n美國胸腔學會（American Thoracic Society, ATS）已根據主要受損的解剖組織部位及其病因對這些併發症進行了分類（Panoskaltsis-Mortari et al. 2011）（見表 52.1）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200003,
+          "page": 478,
+          "en": "Table 52.1 Noninfectious pulmonary complications after HCTa\nLocalization | Entity\nPulmonary parenchyma | – Acute interstitial pneumonitisb; – Acute respiratory distress syndrome (ARDS)b; – BCNU pneumonitis; – Radiation pneumonitis; – Delayed pulmonary toxicity syndromeb; – Post-HCT lymphoproliferative disease (see Chap. 45); – Eosinophilic pneumonia; – Pulmonary alveolar proteinosis\nVascular endothelium | – Peri-engraftment respiratory distress syndrome (PERDS)b; – Capillary leak syndrome (CLS)b (see Chap. 42); – Diffuse alveolar hemorrhage (DAH)b; – Pulmonary VOD; – Transfusion-associated acute lung injury; – Pulmonary cytolytic syndrome; – Pulmonary arterial hypertension; – Pulmonary thromboembolism\nAirway epithelium | – Interstitial lung disease including cryptogenic organizing pneumonia (COP)b, c; – Bronchiolitis obliterans syndrome (BOS)\na Importantly, this classification does not include the most frequent lung complication after HCT, i.e., pulmonary edema secondary to fluid overload\nb All these complications could be categorized as IPS if occurring early after HCT\nc Formerly called bronchiolitis obliterans organizing pneumonia (BOOP)",
+          "zh": "表 52.1 HCT 後的非感染性肺部併發症ᵃ\n• 肺實質（Pulmonary parenchyma）：\n  – 急性間質性肺炎（Acute interstitial pneumonitis）ᵇ\n  – 急性呼吸窘迫症候群（ARDS）ᵇ\n  – BCNU（carmustine）藥物性肺炎\n  – 放射性肺炎（Radiation pneumonitis）\n  – 延遲性肺毒性症候群（Delayed pulmonary toxicity syndrome）ᵇ\n  – HCT 後淋巴增生性疾病（PTLD，見第 45 章）\n  – 嗜伊紅性白血球肺炎（Eosinophilic pneumonia）\n  – 肺泡蛋白沉積症（Pulmonary alveolar proteinosis）\n• 血管內皮（Vascular endothelium）：\n  – 植入期呼吸窘迫症候群（Peri-engraftment respiratory distress syndrome, PERDS）ᵇ\n  – 微血管滲漏症候群（Capillary leak syndrome, CLS）ᵇ（見第 42 章）\n  – 瀰漫性肺泡出血（Diffuse alveolar hemorrhage, DAH）ᵇ\n  – 肺靜脈閉塞性疾病（Pulmonary VOD）\n  – 輸血相關急性肺損傷（TRALI）\n  – 肺細胞溶解症候群（Pulmonary cytolytic syndrome）\n  – 肺動脈高壓（Pulmonary arterial hypertension）\n  – 肺血栓栓塞症（Pulmonary thromboembolism）\n• 呼吸道上皮（Airway epithelium）：\n  – 間質性肺病（ILD），包含隱源性器質化肺炎（cryptogenic organizing pneumonia, COP）ᵇ, ᶜ\n  – 閉塞性細支氣管炎症候群（Bronchiolitis obliterans syndrome, BOS）\n註 a：重要的是，此分類並未納入 HCT 後最常見的肺部併發症，亦即次發於體液超載（fluid overload）的肺水腫。\n註 b：若這些併發症在 HCT 後早期發生，皆可被歸類於特發性肺炎症候群（IPS）的範疇下。\n註 c：過去曾稱為閉塞性細支氣管炎伴器質化肺炎（BOOP）。",
+          "review": "ai-draft",
+          "endPage": 479
+        },
+        {
+          "id": 5200004,
+          "page": 478,
+          "en": "A. Bergeron\nUniversity Hospitals of Geneva, Geneva University, Geneva, Switzerland\nUniversité Paris Cité, UMR 1153 CRESS, ECSTRRA Team, Paris, France\ne-mail: anne.bergeron@hcuge.ch\nK. R. Cooke (*)\nDepartment of Oncology, Pediatric Blood and Marrow Transplantation Program, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, MD, USA\ne-mail: kcooke5@jhmi.edu\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_52",
+          "zh": "作者單位與聯絡資訊：\nA. Bergeron：瑞士日內瓦大學附設醫院、法國巴黎西岱大學 UMR 1153 CRESS ECSTRRA 團隊；電子郵件：anne.bergeron@hcuge.ch。\nK. R. Cooke（通訊作者）：美國馬里蘭州巴爾的摩約翰霍普金斯大學醫學院（Johns Hopkins University School of Medicine）Sidney Kimmel 綜合癌症中心腫瘤科暨小兒血液及骨髓移植計畫；電子郵件：kcooke5@jhmi.edu。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_52。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 479,
+      "blocks": [
+        {
+          "id": 5200005,
+          "page": 479,
+          "en": "52.2 Approach to Diagnostic Workup for Pulmonary Complications After HCT\nIdeally, any respiratory/pulmonary complication observed after HCT whether early or late onset should be evaluated following predetermined, institutional, standard of practice guidelines (Lucena et al. 2014). Workup requires attention to pulmonary and non-pulmonary causes. Respiratory distress may progress rapidly once identified; hence, a timely workup including assessment of pulmonary and cardiac function, imaging, and procurement of samples to rule out infection is critical for optimizing outcomes (Tamburro et al. 2021; Cooke and Yanik 2016):\n1. Assessment of oxygen saturation/oxygen requirement: Pulse oximetry or arterial blood gas analysis if indicated. For late-onset noninfectious pulmonary complications (LONIPC), pulse oximetry following a hall walk is suggested.\n2. Imaging: Chest radiographs (particularly in children) or CT scanning to assess for the presence of lobar, multi-lobar, or diffuse pulmonary infiltrates. For early-onset lung injury, a low-dose CT can suffice. For LONIPC, a CT with inspiratory cuts is mandatory, and expiratory views to assess for air trapping should be discussed. Echocardiography can be considered to identify left-heart dysfunction or pulmonary hypertension.\n3. Pulmonary function testing (PFTs): PFTs are rarely indicated in the context of acute lung complications but can be considered. For LONIPC, PFTs including spirometry (without and with albuterol), lung volumes, and DLCO are recommended to assess for signs for either restrictive or obstructive pulmonary dysfunction and to assess severity (Jagasia et al. 2015; Wolff et al. 2021). Assessing PFTs in pediatric patients remains a challenge particularly in young children (Tamburro et al. 2021).\n4. Infectious disease testing: Blood samples for bacterial culture and detection of viral replication; sputum culture; nasopharyngeal swabs for rapid viral panels including SARS-CoV-2, respiratory syncytial virus (RSV), parainfluenza virus (PIV), adenovirus (ADV), rhino-enteroviruses, influenza A and B (in season), metapneumovirus, and others; urinary antigen tests; blood samples for galactomannan and beta-D-glucan assays.\n5. Fiber-optic bronchoscopy (FOB) with bronchoalveolar lavage (BAL) (strongly encouraged): Complete in collaboration with specialists in pulmonary medicine and infectious diseases. PCR for Pneumocystis jirovecii (PJ), Legionella, and Mycoplasma. Cultures and stains for bacteria, fungi, and AFB along with galactomannan assay. If BAL cannot be completed, consider approaches to induce and collect sputum for the assays noted above:\n• If positive, treat accordingly.\n• If negative, consider empiric treatment and consideration for idiopathic pneumonia syndrome (IPS) and other etiologies (see below).\n6. Tissue biopsy: While not encouraged, in some selected cases, e.g., later-onset cases where the diagnosis is not established by noninvasive tests or those poorly responsive to antimicrobial or anti-inflammatory therapy (see below), a tissue biopsy could be considered using either transbronchial (less favored) or minimally invasive, video-assisted thoracoscopic surgery (VATS) (Dieffenbach et al. 2019).",
+          "zh": "52.2 HCT 後肺部併發症之診斷評估步驟\n理想情況下，HCT 後觀察到的任何呼吸道／肺部併發症（無論是早發性或晚發性），都應遵循預先制定的機構標準臨床實務指引進行系統性評估（Lucena et al. 2014）。診斷評估需同時兼顧肺部本身與非肺部（如心臟、體液狀態）的原因。呼吸窘迫一旦出現可能會迅速惡化；因此，及時執行涵蓋心肺功能評估、影像學檢查以及採集檢體以排除感染的完整檢查，對於爭取最佳預後至關重要（Tamburro et al. 2021; Cooke and Yanik 2016）：\n1. 評估血氧飽和度／氧氣需求量：執行脈搏血氧飽和度監測（pulse oximetry），有適應症時進行動脈血液氣體分析（ABG）。對於晚發性非感染性肺部併發症（LONIPC），建議在走廊步行測試（如六分鐘步行測試）後測量血氧飽和度以偵測運動性低血氧。\n2. 影像學檢查：胸部 X 光（特別是在兒童）或胸部電腦斷層（CT）掃描，以評估是否存在單葉、多葉或瀰漫性肺部浸潤。對於早發性肺損傷，低劑量胸部 CT 通常即已足夠；對於 LONIPC，則必須執行包含吸氣相切面（inspiratory cuts）的高解析度 CT，並應討論加做呼氣相切面（expiratory views）以評估氣體滯留（air trapping）。此外，可考慮安排心臟超音波（echocardiography）以辨識左心功能障礙或肺動脈高壓。\n3. 肺功能檢查（PFTs）：在急性肺部併發症的情境下極少需要執行 PFTs，但仍可斟酌考慮。對於 LONIPC，則強烈建議執行包含肺量計檢查（spirometry，含使用支氣管擴張劑 albuterol 前後測試）、肺容積（lung volumes）以及一氧化碳肺瀰散量（DLCO）的完整 PFTs，以評估是否有侷限性（restrictive）或阻塞性（obstructive）肺功能障礙的徵象並判定其嚴重度（Jagasia et al. 2015; Wolff et al. 2021）。在兒童患者（特別是年幼兒童）中執行 PFTs 仍是一大挑戰（Tamburro et al. 2021）。\n4. 感染症檢測：採集血液檢體進行細菌培養與病毒複製偵測（如 CMV PCR）；痰液培養；鼻咽拭子進行快速呼吸道病毒多病原體檢測（涵蓋 SARS-CoV-2、呼吸道融合病毒〔RSV〕、副流感病毒〔PIV〕、腺病毒〔ADV〕、鼻病毒／腸病毒、季節性 A 型與 B 型流感病毒、人類間質肺炎病毒〔metapneumovirus〕等）；尿液抗原檢測（如退伍軍人菌、肺炎鏈球菌）；以及採集血液檢體進行半乳甘露聚醣（galactomannan, GM）與 β-D-葡聚醣（beta-D-glucan）黴菌抗原檢測。\n5. 軟式光纖支氣管鏡（FOB）合併支氣管肺泡灌洗術（BAL）（強烈建議執行）：應與胸腔內科及感染科專家合作完成。灌洗液應送檢肺囊蟲（Pneumocystis jirovecii, PJ）、退伍軍人菌（Legionella）與黴漿菌（Mycoplasma）之 PCR；細菌、黴菌及抗酸菌（AFB）之培養與染色；以及支氣管肺泡灌洗液之 galactomannan（GM）檢測。若因病情無法完成 BAL，應考慮採取誘導咳痰（induced sputum）方式收集檢體進行上述各項檢驗：\n• 若檢測呈陽性，針對病原體給予相應治療。\n• 若檢測呈陰性，考慮經驗性抗微生物治療，並將特發性肺炎症候群（IPS）及其他非感染性病因納入考量（詳見下文）。\n6. 組織切片（Tissue biopsy）：雖然一般不常規鼓勵，但在部分特定的個案中（例如非侵入性檢查無法確立診斷的晚發性個案，或對抗微生物及抗發炎治療反應不佳者），可考慮透過經支氣管肺切片（較不建議）或微創電視輔助胸腔鏡手術（VATS）進行肺組織切片（Dieffenbach et al. 2019）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 480,
+      "blocks": [
+        {
+          "id": 5200006,
+          "page": 480,
+          "en": "52.2.1 Results Reported Using This Methodology (Seo et al. 2015; Lucena et al. 2014; Shannon et al. 2010; Yanik et al. 2008a, b)\nFOB/BAL permits an etiological diagnosis in up to 78% of cases.\nIn suspected IPS, a BAL study may detect a pathogen in ~50% of cases.\nFor pathogen detection, early FOB (<5 days) offers better yield than late FOB; hence, completing FOB as soon as possible is preferred.\nThe risk of complications with FOB is <5%.\nNote: Identifying an organism in pulmonary secretions does not always imply causality, and infectious and immune-mediated inflammation can occur concurrently.",
+          "zh": "52.2.1 使用上述標準診斷方法所報告之成果（Seo et al. 2015; Lucena et al. 2014; Shannon et al. 2010; Yanik et al. 2008a, b）\n• FOB/BAL 可在高達 78% 的個案中確立病因學診斷。\n• 在臨床初步懷疑為 IPS 的患者中，BAL 檢查（特別是結合分子診斷）可在約 50% 的個案中偵測到潛在病原體。\n• 就病原體偵測率而言，早期執行 FOB（症狀出現 <5 天內）的診斷率明顯優於晚期執行 FOB；因此應優先盡快完成 FOB。\n• 執行 FOB 的相關併發症風險 <5%。\n• 注意：在呼吸道分泌物中鑑定出微生物並不一定代表其即為致病元兇（可能為定殖），且感染性發炎與免疫介導性發炎可以同時並存。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200007,
+          "page": 480,
+          "en": "52.3 Acute Noninfectious Pulmonary Complications After HCT\n52.3.1 Pulmonary Edema due to Fluid Overload\nDespite not being included in most classifications of pulmonary complications after HCT, pulmonary edema (PE) as a consequence of a fluid overload (FO) is extremely frequent (Rondón et al. 2017):\nIncidence | FO may be observed in up to 60% of patients early after HCT. The exact incidence of PE is not established although it could be higher than 20%.\nSymptoms and signs | – Weight gain, shortness of breath, nonproductive cough, moderate hypoxemia.; – Crackles and rales in both lung bases.; – Chest radiology with diffuse alveolar/interstitial infiltrates.\nDiagnosis | PE should be suspected in the context of weight gain, an increased cardiothoracic index on imaging, and crackles/rales. Though rarely necessary, the diagnosis can be confirmed by pulmonary pressure measurements.\nDifferential diagnosis | – Heart failure (prior anthracycline toxicity or conditioning with CY).; – Endothelial syndromes: SOS, CLS, ES (see Chaps. 42 and 49).; – Respiratory tract infections: • Idiopathic pneumonia syndrome (IPS); – Posttransfusion reactions (TRALI).\nTreatment | Goal: Re-establish fluid homeostasis/euvolemia via fluid restriction and diuretics.",
+          "zh": "52.3 HCT 後之急性非感染性肺部併發症\n52.3.1 體液超載引起之肺水腫（Pulmonary Edema due to Fluid Overload）\n儘管在大多數 HCT 後肺部併發症的分類中未被列入，但因體液超載（fluid overload, FO）所導致的肺水腫（pulmonary edema, PE）在臨床上極為常見（Rondón et al. 2017）：\n• 發生率（Incidence）：在 HCT 後早期，高達 60% 的患者可觀察到體液超載（FO）。肺水腫（PE）的確切發生率雖未完全確立，但可能高於 20%。\n• 症狀與徵象（Symptoms and signs）：\n  – 體重增加、呼吸急促、乾咳、中度低血氧。\n  – 雙側肺底部聽診可聞及囉音（crackles and rales）。\n  – 胸部影像學顯示瀰漫性肺泡／間質浸潤（常伴隨心影擴大或肋膜積液）。\n• 診斷（Diagnosis）：當患者出現體重增加、影像學上心胸比（cardiothoracic index）增大以及雙側肺底囉音時，即應高度懷疑 PE。雖然極少需要侵入性檢查，但可透過肺動脈楔壓測量來確立診斷。\n• 鑑別診斷（Differential diagnosis）：\n  – 心臟衰竭（既往蒽環類藥物〔anthracycline〕心毒性或使用高劑量 CY 調理）。\n  – 血管內皮症候群：肝竇阻塞症候群（SOS）、微血管滲漏症候群（CLS）、植入症候群（ES）（見第 42 與 49 章）。\n  – 呼吸道感染與特發性肺炎症候群（IPS）。\n  – 輸血後反應（如輸血相關急性肺損傷〔TRALI〕或輸血相關循環超載〔TACO〕）。\n• 治療（Treatment）：目標為透過水分限制與利尿劑（diuretics）重新建立體液恆定／正常血容積狀態（euvolemia）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200008,
+          "page": 480,
+          "en": "52.3.2 Idiopathic Pneumonia Syndrome\n52.3.2.1 Definition\nIt is a widespread alveolar injury in the absence of active lower respiratory tract infection, cardiac or renal dysfunction, and iatrogenic fluid overload (Clark et al. 1993; Panoskaltsis-Mortari et al. 2011).\n52.3.2.2 Clinical Manifestations\nSigns and symptoms of IPS classically occur within 120 days (but as early as 3 weeks and as late as 180 days) after HCT and include fever, nonproductive cough, dyspnea, tachypnea, hypoxemia, rales, and diffuse alveolar or interstitial infiltrates on X-rays or CT scans.\n52.3.2.3 Diagnosis\nAll of the following must be present for the diagnosis of IPS:",
+          "zh": "52.3.2 特發性肺炎症候群（Idiopathic Pneumonia Syndrome, IPS）\n52.3.2.1 定義\nIPS 的定義為：在無活動性下呼吸道感染、無心臟或腎臟功能障礙，且無醫源性體液超載的情況下，發生的廣泛性肺泡損傷（Clark et al. 1993; Panoskaltsis-Mortari et al. 2011）。\n52.3.2.2 臨床表現\nIPS 的徵象與症狀典型發生於 HCT 後 120 天內（但可早至移植後 3 週，晚至 180 天），表現包括發燒、乾咳、呼吸困難、呼吸急促、低血氧、肺部囉音，以及胸部 X 光或 CT 掃描上的瀰漫性肺泡或間質浸潤。\n52.3.2.3 診斷標準\n確立 IPS 的診斷必須同時符合以下所有條件：",
+          "review": "ai-draft",
+          "endPage": 481
+        }
+      ]
+    },
+    {
+      "page": 481,
+      "blocks": [
+        {
+          "id": 5200009,
+          "page": 481,
+          "en": "1. Evidence of widespread alveolar injury:\n(a) Multi-lobar infiltrates on chest radiographs or CT\n(b) Symptoms and signs of pneumonia (cough, dyspnea, tachypnea, crackles/rales)\n(c) Evidence of abnormal pulmonary physiology\nIncreased alveolar to arterial oxygen difference; need for supplemental O2 therapy\nNew or increased restrictive PFT abnormality\n2. Absence of active lower respiratory tract infection based upon:\n(a) BAL negative for significant bacterial pathogens including acid-fast bacilli, Nocardia, and Legionella species\n(b) BAL negative for pathogenic nonbacterial microorganisms\nRoutine culture for bacteria, fungi, and AFB and shell vial culture for CMV\nPCR for respiratory viruses and CMV\nCytology for CMV inclusions, fungi, and Pneumocystis jirovecii\n(c) Other organisms/tests to also consider:\nPCR for human metapneumovirus, rhinovirus, coronavirus, and HHV6\nPCR for Chlamydia, Mycoplasma, and Aspergillus spp.\nSerum and BAL fluid GM for Aspergillus species, serum beta-D-glucan\n3. Absence of cardiac dysfunction, acute renal failure, or iatrogenic fluid overload as etiology for pulmonary dysfunction",
+          "zh": "1. 廣泛性肺泡損傷的證據（需具備以下表現）：\n  (a) 胸部 X 光或 CT 顯示多肺葉浸潤（multi-lobar infiltrates）。\n  (b) 肺炎的症狀與徵象（咳嗽、呼吸困難、呼吸急促、囉音〔crackles/rales〕）。\n  (c) 肺部生理功能異常的證據：\n      • 肺泡－動脈氧分壓差（A-a O₂ gradient）增加；或需要額外氧氣治療。\n      • 新出現或惡化的侷限性肺功能（restrictive PFT）異常。\n2. 依據以下檢查確認無活動性下呼吸道感染：\n  (a) 支氣管肺泡灌洗液（BAL）未檢出具臨床意義的細菌病原體，包含抗酸菌（AFB）、奴卡氏菌（Nocardia）及退伍軍人菌（Legionella）。\n  (b) BAL 未檢出致病性非細菌微生物：\n      • 細菌、黴菌與抗酸菌之常規培養，以及 CMV 快速殼瓶培養（shell vial culture）。\n      • 呼吸道病毒與 CMV 之 PCR 檢測。\n      • 針對 CMV 包涵體、黴菌及肺囊蟲（Pneumocystis jirovecii）之細胞學檢查。\n  (c) 其他亦應考慮檢測之微生物／檢驗：\n      • 人類間質肺炎病毒（hMPV）、鼻病毒、冠狀病毒及 HHV-6 之 PCR。\n      • 披衣菌（Chlamydia）、黴漿菌（Mycoplasma）及麴菌屬（Aspergillus spp.）之 PCR。\n      • 針對麴菌屬之血清與 BAL 灌洗液半乳甘露聚醣（GM）檢測，以及血清 β-D-葡聚醣（beta-D-glucan）檢測。\n3. 排除心臟功能障礙、急性腎衰竭或醫源性體液超載作為肺功能障礙的病因。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200010,
+          "page": 481,
+          "en": "52.3.2.4 Pathogenesis, Incidence, Presentation, and Risk Factors\nPathogenesis | – The pathophysiology of IPS is complex. Data generated using experimental models support IPS as a process in which the lung is susceptible to cellular and soluble inflammatory effectors. These distinct but related pathways of inflammation culminate in the recruitment of immune cells to the lung leading to tissue damage and dysfunction (Cooke and Yanik 2016).; – Recent work has also underscored a role for the pulmonary microbiome and metatranscriptome to the development of lung inflammation after HCT (Zinter et al. 2021).\nBiomarker incidence | – sTNFR1, IL-6, MCP-1, Ang2, sCD14, and IL-8 are elevated in patients with IPS (Yanik et al. 2008a, b, 2015).; – sTNRF1, IL-6, and ST-2 were most predictive in diagnosing IPS even before clinical signs and symptoms were present (Seo et al. 2017).; – In addition, a biomarker panel including ST2, IL-6, and sTNFR1 could, as early as day 7, predict respiratory failure and associated mortality after HCT (Rowan et al. 2022).; – The strict definition required to establish a diagnosis and the increased use of RIC have significantly reduced the incidence of IPS from that observed in the past (~25%).; – This reduction runs in parallel of the improvement in the diagnostic methodologies to detect infectious pathogens (Seo et al. 2015; Zinter et al. 2019).; – Currently, the incidence of IPS is <10% of allo-HCT (7% after MAC with ≥12 Gy TBI; 2% after RIC in adults) (Wenger et al. 2020; Sano et al. 2014).\nTiming | – Generally, within first 120 days after BMT but can be observed between days 21 and 180.; – Late IPS (up to 180 days post-HCT) can be observed but is rare (Thompson et al. 2017).\nRisk factors (from Cooke and Yanik 2016) | – Older age/Karnofsky index <90/higher interval diagnosis HCT. MAC or TBI (≥12 Gy)/HLA disparity/GVHD prophylaxis with MTX. Acute GVHD/previous viral infection/other malignancies than leukemia.",
+          "zh": "52.3.2.4 致病機轉、生物標記與發生率、發病時間及危險因子\n• 致病機轉（Pathogenesis）：\n  – IPS 的病理生理學相當複雜。實驗動物模型產生的數據支持 IPS 是一個肺臟受到細胞性（如 T 細胞、單核球／巨噬細胞、嗜中性球）與可溶性發炎效應因子（如 TNF-α、LPS、IL-6、IL-17）攻擊的過程。這些各自獨立卻又相互關聯的發炎路徑最終導致免疫細胞大量募集至肺部，引起肺組織損傷與功能障礙（Cooke and Yanik 2016）。\n  – 近期的研究亦突顯了肺部微生物群系（pulmonary microbiome）與宏轉錄組（metatranscriptome）在 HCT 後肺部發炎發展中所扮演的角色（Zinter et al. 2021）。\n• 生物標記與發生率（Biomarker & Incidence）：\n  – IPS 患者體內的 sTNFR1、IL-6、MCP-1、Ang2、sCD14 及 IL-8 濃度均會顯著升高（Yanik et al. 2008a, b, 2015）。\n  – sTNFR1、IL-6 與 ST2 在診斷 IPS 上最具預測價值，甚至在臨床徵象與症狀出現前即可升高（Seo et al. 2017）。\n  – 此外，包含 ST2、IL-6 與 sTNFR1 的生物標記組合，最早在移植後第 +7 天即可預測 HCT 後的呼吸衰竭與相關死亡率（Rowan et al. 2022）。\n  – 由於確立診斷所需的嚴格定義以及減低強度調理（RIC）的廣泛使用，IPS 的發生率已較過去所觀察到的（約 25%）大幅下降。\n  – 此發生率的下降亦與偵測感染性病原體之分子診斷方法學進步平行一致（許多過去被當作 IPS 的個案實為隱匿性病毒感染）（Seo et al. 2015; Zinter et al. 2019）。\n  – 目前，IPS 在異體 HCT 的發生率已低於 10%（在含 ≥12 Gy TBI 的 MAC 後約為 7%；在成人 RIC 後僅約 2%）（Wenger et al. 2020; Sano et al. 2014）。\n• 發病時間（Timing）：\n  – 一般發生於移植後前 120 天內（中位數約在第 3–4 週），但可在第 +21 天至第 +180 天之間觀察到。\n  – 晚發型 IPS（移植後長達 180 天）雖可觀察到，但相當罕見（Thompson et al. 2017）。\n• 危險因子（Risk factors，引自 Cooke and Yanik 2016）：\n  – 移植前因素：高齡、Karnofsky 體能狀態評分 <90、從診斷到接受 HCT 的間隔時間較長。\n  – 移植調理與配型因素：骨髓清除性調理（MAC）或高劑量全身放射線照射（TBI ≥12 Gy）、HLA 不合（HLA disparity）、使用含 MTX 的 GVHD 預防方案。\n  – 移植後與原發病因素：急性 GVHD、既往或近期呼吸道病毒感染、白血病以外的其他惡性腫瘤。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200011,
+          "page": 481,
+          "en": "52.3.2.5 Treatment and Prognosis\nSupportive measures | Supplemental O2 therapy; Noninvasive [high-flow nasal O2, CPAP] or, when needed, invasive (mechanical) ventilatory support: – Empiric broad-spectrum antimicrobials; – Strict control of fluid balance/hemofiltration\nSpecific treatment | Lung injury in IPS can occur through two pathways, the TNF-alfa/LPS-dependent and IL6/IL17-dependent (Tamburro et al. 2021; Cooke and Yanik 2016; Varelias et al. 2015) informing current treatment options:\n• Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible.\n• Anti-TNFα: etanercept 0.4 mg/kg twice weekly (maximum of 8 doses) + systemic steroids (2 mg/kg/day). In a phase II trial in children, the CR rate was 71%, and 1 year survival was 63% (Yanik et al. 2015). This combination has also been shown to be effective in exceptional cases of late IPS with a 42% of CR and a 2-y survival of 62% among responders (Thompson et al. 2017). The randomized study of etanercept + steroids vs. steroids + placebo was terminated prematurely due to slow accrual. In the limited number of patients examined, there were no differences in response rates (≈60%) at day +28. These results do not necessarily imply that this agent is not effective; lack of evidence in this under-accrued trial does not equate to lack of effectiveness (Yanik et al. 2014).\n• Other investigational agents such as:\n  – MoAb anti-IL6: tocilizumab (experimental IPS; Varelias et al. 2015). Note, IL-6 levels were found to be highest in patients not responsive to TNF blockade (Varelias et al. 2015) suggesting that strategies of combinatorial cytokine blockade may warrant future study (Tamburro et al. 2021).\n  – MoAb anti-IL17: brodalumab (experimental IPS; Varelias et al. 2015).\n  – Strategies that protect/improve pulmonary vascular endothelial integrity (Klein et al. 2023).\nEvolution | Despite the diagnosis and therapeutic advances, the mortality from IPS in adults remains high (Wenger et al. 2020).",
+          "zh": "52.3.2.5 治療與預後\n• 支持性照護措施（Supportive measures）：\n  – 氧氣補充治療。\n  – 非侵入性呼吸支持（高流量鼻導管氧氣〔HFNC〕、持續性正壓呼吸器〔CPAP〕），或於必要時採用侵入性（機械通氣）呼吸器支持。\n  – 經驗性廣效抗微生物藥物治療（直到完全排除感染）。\n  – 嚴格控制體液平衡／必要時進行血液過濾術（hemofiltration）。\n• 特異性治療（Specific treatment）：\n  IPS 的肺損傷可透過兩條主要發炎路徑發生：TNF-α／LPS 依賴型路徑以及 IL-6／IL-17 依賴型路徑（Tamburro et al. 2021; Cooke and Yanik 2016; Varelias et al. 2015），這為目前的治療選擇提供了理論依據：\n  – 皮質類固醇：Methylprednisolone（Methyl-PDN）≤2 mg/kg/day；若無明確反應，應盡快考慮加上標靶抗細胞激素藥物。\n  – 抗 TNF-α 標靶治療：Etanercept 0.4 mg/kg（上限 25 mg）每週兩次（最多給予 8 劑，為期 4 週）＋全身性類固醇（2 mg/kg/day）。在一項針對兒童的第 II 期臨床試驗（COG ASCT0521）中，完全緩解率（CR）達 71%，且 1 年存活率達 63%（Yanik et al. 2015）。此組合在少數晚發型 IPS 個案中亦證實有效，CR 率為 42%，有反應者的 2 年存活率達 62%（Thompson et al. 2017）。比較 etanercept＋類固醇 vs. 類固醇＋安慰劑的成人隨機對照試驗因收案過慢而提早終止；在受檢的有限患者人數中，第 +28 天的反應率（約 60%）在兩組間無統計差異。然而，這些結果並不一定代表此藥物無效；在此收案不足的試驗中缺乏統計證據並不等同於缺乏臨床有效性（Yanik et al. 2014）。\n  – 其他研究中之試驗性藥物／策略：\n    • 抗 IL-6 受體單株抗體：tocilizumab（實驗性 IPS 模型；Varelias et al. 2015）。值得注意的是，研究發現對 TNF 阻斷療法無反應的 IPS 患者體內 IL-6 濃度最高（Varelias et al. 2015），顯示聯合阻斷多種細胞激素的策略值得未來進一步研究（Tamburro et al. 2021）。\n    • 抗 IL-17 受體單株抗體：brodalumab（實驗性 IPS 模型；Varelias et al. 2015）。\n    • 保護或改善肺血管內皮完整性的策略（例如 defibrotide 於臨床前模型的研究；Klein et al. 2023）。\n• 病程演變與預後（Evolution）：儘管診斷與治療有所進展，成人 IPS 的死亡率依然居高不下（Wenger et al. 2020）。",
+          "review": "ai-draft",
+          "endPage": 482
+        }
+      ]
+    },
+    {
+      "page": 482,
+      "blocks": [
+        {
+          "id": 5200012,
+          "page": 482,
+          "en": "52.3.3 Diffuse Alveolar Hemorrhage (DAH)\nDiffuse alveolar hemorrhage (DAH) is a relevant cause of acute respiratory failure that occurs in 2–14% of recipients (Fan et al. 2020; Zhang et al. 2021). DAH is likely a consequence of damage to the alveolar capillary basement membrane (see Chap. 42). DAH can be noninfectious or infectious in etiology (Majhail et al. 2006).\n52.3.3.1 Clinical Aspects of DAH\nClinical manifestations | Usually observed within the first month after HCT (a median of 23 days), often during the pre-engraftment phase; however, later onset is encountered in up to 42% of cases; The clinical manifestations are those of all IPS. Frank hemoptysis is rare.\nDiagnosis | Based on BAL: the progressive bloodier return of BAL fluid aliquots, in at least three segmental bronchi, indicating the presence of blood in the alveoli (or 20% hemosiderin-laden macrophage, although their absence does not exclude the diagnosis as it can take 72 h to appear).\nRisk factors | – Higher incidence after TBI and high-dose CY.\nDifferential diagnosis with | – Classic IPS: very difficult, only by means of BAL. IPS usually appears after engraftment, predominates in allo-HCT, and is less responsive to steroids, Note: Noninfectious DAH falls under the “diagnostic umbrella” of IPS (Panoskaltsis-Mortari et al. 2011).; – PERDS: almost impossible except for LBA progressively bloodier.; – DAH associated with infection: impossible without detection of the pathogen (Majhail et al. 2006).",
+          "zh": "52.3.3 瀰漫性肺泡出血（Diffuse Alveolar Hemorrhage, DAH）\n瀰漫性肺泡出血（DAH）是引起急性呼吸衰竭的重要原因之一，約發生於 2%–14% 的受贈者（Fan et al. 2020; Zhang et al. 2021）。DAH 很可能是肺泡微血管基底膜受損的後果（屬於內皮損傷症候群之一，見第 42 章）。DAH 的病因可以是感染性或非感染性（Majhail et al. 2006）。\n52.3.3.1 DAH 之臨床特徵\n• 臨床表現（Clinical manifestations）：通常在 HCT 後的第一個月內觀察到（中位數為第 +23 天），常發生於造血植入前後階段（pre-engraftment / peri-engraftment phase）；然而，在高達 42% 的個案中亦可見到較晚發作的情況。其臨床表現與所有 IPS 相同（發燒、呼吸困難、低血氧、瀰漫性肺浸潤），明顯咳血（frank hemoptysis）其實相當罕見。\n• 診斷（Diagnosis）：依據支氣管肺泡灌洗術（BAL）確立：在至少三個肺節支氣管中，連續抽吸回收的 BAL 灌洗液呈現「越洗越紅／血色逐漸加深」（progressively bloodier return of BAL fluid aliquots），代表肺泡腔內有活動性出血（或是 BAL 細胞學檢查發現 ≥20% 的含鐵血黃素巨噬細胞〔hemosiderin-laden macrophages〕；但未見含鐵血黃素巨噬細胞並不能排除診斷，因為巨噬細胞吞噬紅血球並生成含鐵血黃素可能需要長達 72 小時才會出現）。\n• 危險因子（Risk factors）：在接受全身放射線照射（TBI）與高劑量 CY 調理後發生率較高（亦與嚴重血小板低下、凝血異常及腎衰竭有關）。\n• 鑑別診斷（Differential diagnosis）：\n  – 與典型 IPS 鑑別：臨床與影像上極難區分，僅能藉由 BAL 灌洗液外觀鑑別。典型 IPS 通常在植入後才出現、以異體 HCT 為主，且對單獨類固醇反應較差。註：非感染性 DAH 在 ATS 分類中亦歸屬於 IPS 的「診斷保護傘（diagnostic umbrella）」之下（Panoskaltsis-Mortari et al. 2011）。\n  – 與植入期呼吸窘迫症候群（PERDS）鑑別：除 BAL 灌洗液呈進行性血色加深外，臨床上幾乎無法區分。\n  – 與感染相關之肺泡出血（infection-associated DAH）鑑別：若未透過 BAL 偵測出病原體，臨床與外觀上無法區分（Majhail et al. 2006）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200013,
+          "page": 482,
+          "en": "52.3.3.2 Treatment and Prognosis of DAH\nTreatment | – Traditionally with high doses of methyl-PDN (250–500 mg q6h × 5 days followed by taper), but the overall response to this treatment is disappointing even when combined with aminocaproic acid (ACA) (Rathi et al. 2015). Of note, two-thirds of cases were noninfectious in origin and could be classified as IPS, but TNFa inhibition was not used in this study.; – When combined with high-dose PDN, inhaled, recombinant, factor VIIa has shown benefit in some (Park and Kim 2015) but not all (Elinoff et al. 2014) studies.\nPrognosis | – Poor: Overall mortality as high as 85% by day 100 (Rathi et al. 2015).; – Less than 15% of patients die as a direct consequence of DAH, but the frequent evolution to MOF increases mortality to >60% (30% in auto- and 70% in allo-HCT).; – DAH that appears after auto-HCT has a better prognosis (Majhail et al. 2006).",
+          "zh": "52.3.3.2 DAH 之治療與預後\n• 治療（Treatment）：\n  – 傳統上使用超高劑量 methylprednisolone（250–500 mg 每 6 小時一次，連用 5 天後逐步減量），但即使合併抗纖溶藥物氨基己酸（aminocaproic acid, ACA），對此療法的整體反應依然令人失望，且高劑量類固醇可能增加繼發感染風險（Rathi et al. 2015）。值得注意的是，該研究中有三分之二的個案屬於非感染性病因且可歸類為 IPS，但研究中並未使用抗 TNF-α 抑制劑（同時應積極輸注血小板並矯正凝血異常）。\n  – 當與高劑量類固醇併用時，吸入型重組活化第七凝血因子（inhaled recombinant factor VIIa）在部分研究中顯示出臨床效益（Park and Kim 2015），但並非所有研究皆然（Elinoff et al. 2014）。\n• 預後（Prognosis）：\n  – 預後極差：第 +100 天的整體死亡率可高達 85%（Rathi et al. 2015）。\n  – 僅不到 15% 的患者是直接死於 DAH 本身的急性窒息，但因經常演變為多重器官衰竭（MOF）或繼發嚴重感染，使得整體死亡率攀升至 >60%（自體 HCT 後約 30%，異體 HCT 後則高達 70%）。\n  – 自體 HCT 後發生的 DAH 預後明顯優於異體 HCT（Majhail et al. 2006）。",
+          "review": "ai-draft",
+          "endPage": 483
+        }
+      ]
+    },
+    {
+      "page": 483,
+      "blocks": [
+        {
+          "id": 5200014,
+          "page": 483,
+          "en": "52.4 Late-Onset Noninfectious Pulmonary Complications (LONIPC)\nLONIPCs, when defined as occurring beyond 100 days posttransplant, occur in up to 20% of allo-HCT recipients, including a variety of clinical entities, with bronchiolitis obliterans syndrome (BOS) and diffuse interstitial lung diseases (ILD) being the most frequent (Bergeron et al. 2018). Before making the diagnosis of LONIPC, a respiratory infection must be ruled out. However, a respiratory infection (i.e., particularly viral) is often the trigger for LONIPC. Although BOS is currently recognized as the only manifestation of chronic GVHD based on epidemiological data, the question arises whether ILD may be another lung manifestation of cGVHD (Archer et al. 2023).\n52.4.1 Bronchiolitis Obliterans Syndrome (BOS)\nPathogenesis, timing, incidence, clinical manifestations, diagnosis, and radiology of BOS are shown in Table 52.2.",
+          "zh": "52.4 晚發性非感染性肺部併發症（Late-Onset Noninfectious Pulmonary Complications, LONIPC）\n當將 LONIPC 定義為在移植後超過 100 天才發生的非感染性肺部併發症時，其發生率在異體 HCT 受贈者中高達 20%，涵蓋多種臨床疾病實體，其中以閉塞性細支氣管炎症候群（bronchiolitis obliterans syndrome, BOS）與瀰漫性間質性肺病（interstitial lung diseases, ILD）最為常見（Bergeron et al. 2018）。在下達 LONIPC 的診斷之前，必須先排除呼吸道感染；然而，一次呼吸道感染（特別是呼吸道病毒感染）往往正是誘發 LONIPC 的導火線。儘管目前國際共識僅將 BOS 正式認定為肺部慢性 GVHD 的唯一確定表現，但基於流行病學與臨床數據，學界正密切探討 ILD 是否也是慢性 GVHD 的另一種肺部表現型態（Archer et al. 2023）。\n52.4.1 閉塞性細支氣管炎症候群（Bronchiolitis Obliterans Syndrome, BOS）\nBOS 的致病機轉、發病時間、發生率、臨床表現、診斷標準及影像學特徵彙整於表 52.2。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200015,
+          "page": 483,
+          "en": "Table 52.2 Main clinical characteristics of BOS\nPathogenesis / Risk factors | The same as cGVHD but specifically involving the lung (Cooke et al. 2017). Extrathoracic cGVHD, respiratory viral infections, lung function decline (Bergeron et al. 2018; Sheshadri et al. 2019; Jamani et al. 2020; Abedin et al. 2015).\nTiming and incidence | Onset after transplant: 6–24 months. Incidence: 3–11%.\nClinical manifestations | – Breathlessness, nonproductive cough, and wheezing.; – May be asymptomatic requiring routine PFT follow-up for an early detection (pretransplant baseline, then every 3 months in the first year after HCT and in patients who develop extrathoracic GVHD; close spirometry monitoring after a respiratory viral infection (Kitko et al. 2021)).; In >90% of the BOS, there is more or less severe chronic GVHD in other locations.\nDiagnosis | Chronic GVHD in other locationsa + PFT impairment (NIH consensus) (Jagasia et al. 2015; Wolff et al. 2021).; – New-onset obstructive ventilatory defect with air trapping (FEV1/VC ratio < 0.7 or the fifth percentile of predicted; FEV1 < 75% of predicted with ≥10% decline from baseline; residual volume > 120% of predicted) with no response to bronchodilators.; • Definitive (not required): histologic confirmation by VATS (BO).\nLung CT scan / prognosis | Required at BOS diagnosis to rule out other diagnoses (lung parenchymal abnormalities should suggest either an alternative or an additional diagnosis).; Pattern of constrictive bronchiolitis with attenuation in mosaic, bronchiectasis, and bronchial wall thickening and air trapping by expiratory CTb; Bronchial abnormalities at 3 months posttransplant were found to predict BOS (Bergeron et al. 2018).; Overall survival: 65–79% at 2 years and 74% at 5 years in the most recent studies (Arora et al. 2016; Archer et al. 2023). Worse prognosis if early onset after HCT (Bergeron et al. 2013). Morbidity: respiratory disability, respiratory exacerbations.\nDLCO transfer capacity of CO, FEV1 forced expiratory volume in the first second, FVC forced vital capacity, VATS video-assisted thoracoscopic surgery, CT computed tomography\na If the lung is the only organ with cGVHD, a biopsy is needed to confirm the diagnosis\nb More than 30% of patients have air trapping on pretransplant lung CT scan limiting the value of expiratory chest CT in the diagnosis of posttransplant BOS (Bergeron et al. 2018). BOS diagnosis mainly relies on PFTs",
+          "zh": "表 52.2 閉塞性細支氣管炎症候群（BOS）之主要臨床特徵\n• 致病機轉與危險因子：與慢性 GVHD（cGVHD）相同，但特異性地侵犯肺部小呼吸道（Cooke et al. 2017）。主要危險因子包括：胸腔外器官之 cGVHD、呼吸道病毒感染、移植後早期肺功能下降（Bergeron et al. 2018; Sheshadri et al. 2019; Jamani et al. 2020; Abedin et al. 2015）。\n• 發病時間與發生率：移植後發病時間通常介於 6 至 24 個月；發生率約為 3%–11%。\n• 臨床表現：\n  – 呼吸急促／喘（breathlessness）、乾咳以及喘鳴音（wheezing）。\n  – 早期可能完全無症狀，因此必須依賴常規肺功能檢查（PFT）追蹤以達到早期偵測（建議於移植前建立基準值，在 HCT 後第一年內以及發生胸腔外 GVHD 的患者中每 3 個月檢測一次；在發生呼吸道病毒感染後亦應密切進行肺量計監測〔Kitko et al. 2021〕）。\n  – 在 >90% 的 BOS 患者中，身體其他部位皆同時存在輕重程度不一的慢性 GVHD。\n• 診斷標準（2014/2020 NIH 共識標準）：其他部位有確定之慢性 GVHDᵃ ＋ 肺功能受損（Jagasia et al. 2015; Wolff et al. 2021）：\n  – 新發生的阻塞性通氣障礙伴隨氣體滯留（air trapping），且對支氣管擴張劑無反應：\n    1. FEV1/VC 比值 <0.7（或低於預測值之第 5 百分位數）；\n    2. FEV1 <75% 預測值（且相較於移植前基準值在 2 年內下降 ≥10%）；\n    3. 無呼吸道感染之證據；\n    4. 氣體滯留證據：呼氣相高解析度胸部 CT 顯示 air trapping，或肺餘容積（RV）>120% 預測值（或 RV/TLC >正常上限）。\n  – 組織學確診（Definitive，非必要）：透過 VATS 肺切片取得閉塞性細支氣管炎（BO）之組織學證實。\n• 肺部 CT 掃描與預後：\n  – 在診斷 BOS 時必須執行胸部 CT 以排除其他診斷（若出現顯著肺實質異常，應懷疑其他替代診斷或合併第二種肺部疾病）。\n  – 典型表現為縮窄性細支氣管炎（constrictive bronchiolitis）型態：馬賽克灌流衰減（mosaic attenuation）、支氣管擴張（bronchiectasis）、支氣管壁增厚，以及呼氣相 CT 上的氣體滯留（air trapping）ᵇ。\n  – 研究發現移植後 3 個月時 CT 上的支氣管異常可預測後續 BOS 的發生（Bergeron et al. 2018）。\n  – 預後：在最近期的研究中，2 年整體存活率（OS）為 65%–79%，5 年 OS 約為 74%（Arora et al. 2016; Archer et al. 2023）。若在 HCT 後越早期發病，預後越差（Bergeron et al. 2013）。主要罹病表現為呼吸功能失能與反覆呼吸道急性惡化。\n縮寫：DLCO 一氧化碳肺瀰散量；FEV1 第一秒用力呼氣容積；FVC 用力肺活量；VATS 電視輔助胸腔鏡手術；CT 電腦斷層。\n註 a：若肺臟是唯一表現出 cGVHD 的器官，則需要進行肺組織切片才能確立診斷。\n註 b：超過 30% 的患者在移植前的肺部 CT 掃描上即已存在氣體滯留，這限制了呼氣相胸部 CT 在診斷移植後 BOS 上的特異性價值（Bergeron et al. 2018）；因此 BOS 的診斷主要仍依賴肺功能檢查（PFTs）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 484,
+      "blocks": [
+        {
+          "id": 5200016,
+          "page": 484,
+          "en": "The latest NIH consensus does not require lung biopsy; the diagnosis of chronic pulmonary GVHD is made on the basis of lung function data alone. Thus, we speak of BOS rather than BO (i.e., constrictive bronchiolitis), which requires histological analysis (Jagasia et al. 2015). BOS phenotypes not included in the current NIH diagnostic criteria do exist. On the one hand, BOS reflects various pathologies of the small airways (Meignin et al. 2018; Holbro et al. 2013), and on the other, PFTs of BOS may show a preserved FEV1/VC ratio (Bergeron et al. 2013; Wolff et al. 2021; Uhlving et al. 2015).",
+          "zh": "最新的 NIH 共識不再要求必須進行肺組織切片；肺部慢性 GVHD 的診斷僅需根據肺功能數據即可成立。因此，臨床上我們使用「閉塞性細支氣管炎症候群（BOS）」一詞，而非需要組織學病理分析才能診斷的「閉塞性細支氣管炎（BO，亦即縮窄性細支氣管炎）」（Jagasia et al. 2015）。然而，現行 NIH 診斷標準尚未涵蓋的 BOS 表型確實存在：一方面，BOS 反映了小呼吸道的各種不同病理變化（如淋巴球性細支氣管炎 vs. 纖維化縮窄性細支氣管炎）（Meignin et al. 2018; Holbro et al. 2013）；另一方面，部分 BOS 患者的肺功能檢查可能會因為小氣道提早塌陷導致 VC 同步下降，而呈現出「FEV1/VC 比值維持正常（preserved FEV1/VC ratio ≥0.7）」的非典型阻塞表型（Bergeron et al. 2013; Wolff et al. 2021; Uhlving et al. 2015）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200017,
+          "page": 484,
+          "en": "52.4.1.1 Treatment of BOS\nFew treatments have been prospectively and specifically evaluated for BOS, including those for chronic GVHD. Low levels of evidence prevent recommendation of any specific treatment algorithm. It is essential to weigh the benefit-risk balance before introducing any treatment, particularly corticosteroids, which are known to be of low efficacy for BOS.\nThe natural history of BOS is poorly understood (Cooke et al. 2017). FEV1 most often declines abruptly before stabilizing at a more or less severe value (Cheng et al. 2016; Bergeron et al. 2013, 2018). Secondary decline in lung function over time is often associated with infectious exacerbations. In this context, the endpoint for assessing the efficacy of any treatment on BOS is debated: stabilization or improvement of pulmonary function.\nOnly inhaled budesonide/formoterol has shown improvement of FEV1 for new-onset moderate to severe BOS in a double-blind placebo-controlled randomized trial (Bergeron et al. 2015). The FAM strategy (fluticasone, azithromycin, montelukast) that is commonly used for the treatment of BOS was evaluated in an open-label single-arm trial. In this study, FAM was associated with a stabilization of FEV1 (Williams et al. 2016). Azithromycin administration in allo-HCT recipients should be cautioned against a potential increased risk of cancer, particularly when given early after transplantation (Bergeron et al. 2017; Cheng et al. 2020; Vallet et al. 2022).\nCurrent diagnostic criteria for BOS probably only allow detection of a late stage of the disease. Numerous studies are looking for early biomarkers of BOS (respiratory function, and/or radiology, and/or biology) in the hope of greater treatment efficacy at an earlier stage.\nIn patients with uncontrolled end-stage BOS, who have no or non-active extrathoracic GVHD and very low risk of hematological relapse, lung transplantation should be considered (Greer et al. 2018).\nRespiratory rehabilitation should be offered to dyspneic patients to improve their quality of life. Other support measures include treatment of gastroesophageal reflux, anti-infectious prophylaxis, vaccination against respiratory viral infections, and IVIg in case of both infections and hypogammaglobulinemia.",
+          "zh": "52.4.1.1 BOS 之治療\n目前極少有針對 BOS 進行前瞻性且專門評估的治療研究，包含那些用於慢性 GVHD 的二線全身性療法（如 ruxolitinib、belumosudil 等正在累積肺部次族群數據）。由於證據等級偏低，目前尚無法推薦單一特定的標準治療演算法。在啟動任何全身性治療之前，務必審慎權衡效益與風險比，特別是全身性皮質類固醇——已知長期高劑量類固醇對 BOS 的療效甚低，卻會帶來嚴重的感染與代謝副作用。\n學界對 BOS 自然病程的了解仍不完整（Cooke et al. 2017）。多數患者的 FEV1 往往會先經歷一段急遽下降期，隨後在某個輕重程度不一的數值趨於穩定高原期（Cheng et al. 2016; Bergeron et al. 2013, 2018）；隨著時間推移再次出現的二度肺功能惡化，則常與呼吸道感染引起的急性發作有關。在此背景下，評估任何 BOS 治療療效的臨床終點究竟應設定為「肺功能穩定不惡化」還是「肺功能改善回升」，目前仍有爭論。\n在雙盲安慰劑對照隨機臨床試驗中，唯有吸入型 budesonide/formoterol（ICS/LABA）被證實能使新發中度至重度 BOS 患者的 FEV1 獲得顯著改善（Bergeron et al. 2015）。臨床上常被用於治療 BOS 的 FAM 策略（吸入型 fluticasone、口服 azithromycin、口服 montelukast 合併短期類固醇減量）則是在一項開放標籤單臂試驗中進行評估；在該研究中，FAM 療法與 FEV1 的穩定維持有關（Williams et al. 2016）。然而，在異體 HCT 受贈者中給予 azithromycin 應特別謹慎注意其可能增加血液惡性疾病復發或次發性癌症的潛在風險，特別是在移植後早期作為預防性給予時（ALLOZITHRO 試驗發現；而在已確診 BOS 患者中使用則需權衡利弊）（Bergeron et al. 2017; Cheng et al. 2020; Vallet et al. 2022）。\n現行的 BOS 診斷標準很可能只能在疾病的晚期（小氣道已廣泛纖維化時）才偵測出疾病。目前已有許多研究正積極尋找 BOS 的早期生物標記（涵蓋高敏感度呼吸生理指標如參數反應圖〔PRM〕、影像學及生物學標記），期盼能在更早期的可逆階段介入以獲得更佳的治療成效。\n對於病情無法控制的末期 BOS 患者，若無胸腔外 GVHD 或胸腔外 GVHD 已呈非活動性，且原發血液惡性疾病復發風險極低，應考慮轉介評估肺臟移植（lung transplantation）（Greer et al. 2018）。\n對於有呼吸困難症狀的患者，應提供肺部復健（respiratory rehabilitation）以改善其生活品質。其他重要的支持性照護措施包括：治療胃食道逆流（GERD）、抗感染預防、接種呼吸道病毒疫苗（流感、新冠、RSV 等），以及在同時合併反覆感染與低伽瑪球蛋白血症時補充靜脈注射免疫球蛋白（IVIg）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200018,
+          "page": 484,
+          "en": "52.4.2 Interstitial Lung Diseases (ILD)\nThree-year cumulative incidence of ILD was found to be 5% (Bergeron et al. 2018). Unlike BOS, the diagnosis of ILD relies on imaging showing the presence of lung parenchymal opacities in the absence of infection. Based on lung CT scan, ILD could be classified into three patterns: organizing pneumonia (OP, 37%), pleuro-parenchymal fibroelastosis (PPFE, 13%), and undetermined (50%) (Archer et al. 2023; Bondeelle et al. 2020). The “undetermined” CT scan pattern corresponds to different clinico-histological diagnoses, including nonspecific interstitial pneumonia (Meignin et al. 2018). The clinical presentation may be acute, subacute, or chronic; in a quarter of cases, the diagnosis is made in intensive care (Archer et al. 2023).\nUnlike BOS, which is exceptionally diagnosed more than 2 years after transplantation, ILD can occur anytime. Of note, PPFE occurs several years after transplantation (Bondeelle et al. 2020). Most patients present with dyspnea.\nSpecific risk factors for ILD are prior thoracic irradiation and the absence of immunosuppressive treatment at the time of ILD occurrence (Archer et al. 2023).",
+          "zh": "52.4.2 間質性肺病（Interstitial Lung Diseases, ILD）\n研究發現異體 HCT 後 ILD 的 3 年累積發生率約為 5%（Bergeron et al. 2018）。與 BOS 不同的是，ILD 的診斷主要依賴胸部影像學顯示在無感染的情況下存在肺實質浸潤病灶（lung parenchymal opacities）。根據肺部 CT 掃描表現，HCT 後的 ILD 可分為三種主要型態：器質化肺炎（organizing pneumonia, OP，佔 37%）、胸膜肺實質彈力纖維增生症（pleuro-parenchymal fibroelastosis, PPFE，佔 13%），以及未定型（undetermined，佔 50%）（Archer et al. 2023; Bondeelle et al. 2020）。CT 上的「未定型」對應於不同的臨床－組織學診斷，包含非特異性間質性肺炎（NSIP）等（Meignin et al. 2018）。其臨床表現可為急性、亞急性或慢性；在四分之一的個案中，是在加護病房（ICU）內才確立診斷（Archer et al. 2023）。\n不同於極少在移植 2 年後才新診斷的 BOS，ILD 可以在移植後的任何時間點發生。特別值得注意的是，PPFE 通常在移植數年後才出現（Bondeelle et al. 2020）。大多數患者以呼吸困難為主要表現。\n發生 ILD 的特異性危險因子包括既往曾接受過胸腔放射線照射，以及在 ILD 發作當下未正在接受免疫抑制治療（例如剛停用或減量免疫抑制劑後）（Archer et al. 2023）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 485,
+      "blocks": [
+        {
+          "id": 5200019,
+          "page": 485,
+          "en": "In the context of ILD, complete PFTs (including lung volumes and DLCO) are useful for assessing the severity of lung dysfunction and monitoring treatment efficacy. PFTs also allow to diagnose combined ILD and BOS which occurs in 25% of cases of ILD (Archer et al. 2023).\nA distinction should be made between inflammatory ILD (OP and undetermined), which are usually sensitive to corticosteroid therapy, and PPFE, which have low inflammation and do not respond to immunosuppressive treatments, including steroids (Table 52.3).",
+          "zh": "在 ILD 的臨床評估中，完整的肺功能檢查（包含肺容積 TLC 與一氧化碳肺瀰散量 DLCO）對於評估肺功能受損嚴重度以及監測治療療效相當有用。此外，PFTs 也能幫助診斷出同時合併 ILD 與 BOS 的混合型患者——這在高達 25% 的 ILD 個案中會發生（Archer et al. 2023）。\n臨床上必須區分「發炎性 ILD」（包含 OP 與多數未定型 ILD，通常對皮質類固醇治療具有良好敏感性）與「PPFE」（發炎程度低、以胸膜與肺尖纖維化為主，且對包含類固醇在內的免疫抑制治療毫無反應）（見表 52.3）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200020,
+          "page": 485,
+          "en": "Table 52.3 Comparative characteristics between BOS and ILD\nCharacteristic | Values\nMedian onset after HCT | BOS: 13 months; ILD: 15 monthsa\nExtrathoracic cGVHD | BOS: >90%; ILD: >75%b\nThoracic CT scanc | BOS: bronchial abnormalities, air trapping, no alveolar and/or interstitial abnormalities; ILD: alveolar and/or interstitial abnormalities\nPFT patternc | BOS: obstructive pattern – FEV1/FVC < 0.7 and TLC > 80%; ILD: normal/restrictive pattern, TLC <80% and FEV1/FVC > 0.7; mixed ventilatory defectd, TLC < 80% and FEV1/FVC < 0.7; DLCO reduced\nTreatment | BOS: limited; ILD: usual response to steroidse, risk of relapse when steroids are tapered off\nPrognosisf | BOS: 3-year OS 79%; 5-year OS 74%; ILD: 3-year OS 81%; 5-year OS 71%\nPFT pulmonary function testing, PPFE pleuro-parenchymal fibroelastosis, FEV1 forced expiratory volume in 1 s, FVC forced vital capacity, TLC total lung volume, DLCO diffusion capacity of the lungs for carbon monoxide, OS overall survival\na PPFE occurs several years after HCT\nb Less than 50% in PPFE\nc The diagnosis of BOS is based on PFT, whereas those of ILD relies on chest imaging\nd When combined with BOS\ne Except for PPFE where the treatment is limited\nf Morbidity is significant including respiratory disabling and infections",
+          "zh": "表 52.3 閉塞性細支氣管炎症候群（BOS）與間質性肺病（ILD）之特徵比較\n• HCT 後發病中位時間：\n  – BOS：13 個月\n  – ILD：15 個月ᵃ\n• 合併胸腔外慢性 GVHD 比例：\n  – BOS：>90%\n  – ILD：>75%ᵇ\n• 胸腔 CT 掃描表現ᶜ：\n  – BOS：支氣管異常（壁增厚、擴張）、氣體滯留（air trapping），無肺泡及／或間質浸潤異常\n  – ILD：肺泡及／或間質浸潤異常（GGO、實質化、網狀纖維化等）\n• 肺功能檢查（PFT）型態ᶜ：\n  – BOS：阻塞性通氣障礙型態（FEV1/FVC <0.7 且 TLC >80%）\n  – ILD：正常或侷限性通氣障礙型態（TLC <80% 且 FEV1/FVC >0.7）；若合併 BOSᵈ 則呈混合性通氣障礙（TLC <80% 且 FEV1/FVC <0.7）；DLCO 明顯下降\n• 治療反應：\n  – BOS：全身性藥物療效有限（以吸入型 ICS/LABA 或 FAM 穩定肺功能為主）\n  – ILD：通常對全身性皮質類固醇有良好反應ᵉ，但在類固醇減量停藥時有復發風險\n• 預後ᶠ：\n  – BOS：3 年 OS 79%；5 年 OS 74%\n  – ILD：3 年 OS 81%；5 年 OS 71%\n縮寫：PFT 肺功能檢查；PPFE 胸膜肺實質彈力纖維增生症；FEV1 第一秒用力呼氣容積；FVC 用力肺活量；TLC 全肺容積；DLCO 一氧化碳肺瀰散量；OS 整體存活率。\n註 a：PPFE 通常在 HCT 數年後才發生。\n註 b：在 PPFE 亞型中，合併胸腔外 cGVHD 的比例低於 50%。\n註 c：BOS 的診斷主要建立在 PFT 之上，而 ILD 的診斷則主要依賴胸部影像學。\n註 d：當 ILD 同時合併 BOS 時（約佔 25%）。\n註 e：PPFE 除外，PPFE 對類固醇等免疫抑制治療反應極為有限。\n註 f：兩者皆伴隨顯著的長期罹病率，包含呼吸功能失能與反覆肺部感染。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200021,
+          "page": 485,
+          "en": "Key Points\n• Noninfectious lung injury occurs frequently following HCT and significantly contributes to morbidity and mortality in the immediate posttransplant period and in the months and years that follow. It can be observed in 25–55% of recipients.\n• Noninfectious lung injury following HCT may be mediated by either immune or nonimmune mechanisms and could represent up to the 50% of noninfectious mortality after allo-HCT.\n• Most relevant noninfectious early pulmonary complications are pulmonary edema by fluid overflow, IPS, and DAH, a vascular endothelial syndrome.\n• The most relevant LONIPCs are BOS and ILD including OP.\n• All of them have specific diagnostic criteria, management, treatment, and prognosis.",
+          "zh": "重點摘要（Key Points）\n• 非感染性肺損傷在 HCT 後經常發生，且在移植後緊接的早期階段及隨後數月至數年間，顯著影響受贈者的罹病率與死亡率；整體約可在 25%–55% 的受贈者中觀察到。\n• HCT 後的非感染性肺損傷可由免疫或非免疫機制所介導，佔了異體 HCT 後非感染性死亡原因的高達 50%。\n• 最重要的早期非感染性肺部併發症為：體液超載引起的肺水腫、特發性肺炎症候群（IPS），以及屬於血管內皮症候群之一的瀰漫性肺泡出血（DAH）。\n• 最重要的晚發性非感染性肺部併發症（LONIPCs）為：閉塞性細支氣管炎症候群（BOS）以及包含器質化肺炎（OP）在內的間質性肺病（ILD）。\n• 上述各項併發症皆有其特定的診斷標準、處置流程、治療策略與預後。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200022,
+          "page": 485,
+          "en": "References",
+          "zh": "參考文獻（References）",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5200023,
+          "page": 485,
+          "en": "Abedin S, Yanik GA, Braun T, et al. Predictive value of bronchiolitis obliterans syndrome stage 0p in chronic graft-versus-host disease of the lung. Biol Blood Marrow Transplant. 2015;21:1127–31.",
+          "zh": "Abedin S, Yanik GA, Braun T, et al. Predictive value of bronchiolitis obliterans syndrome stage 0p in chronic graft-versus-host disease of the lung. Biol Blood Marrow Transplant. 2015;21:1127–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abedin%20S%2C%20Yanik%20GA%2C%20Braun%20T%2C%20et%20al.%20Predictive%20value%20of%20bronchiolitis%20obliterans%20syndrome%20stage%200p%20in%20chronic%20graft-versus-host%20disease%20of%20the%20lung.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A1127%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abedin%20S%2C%20Yanik%20GA%2C%20Braun%20T%2C%20et%20al.%20Predictive%20value%20of%20bronchiolitis%20obliterans%20syndrome%20stage%200p%20in%20chronic%20graft-versus-host%20disease%20of%20the%20lung.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A1127%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 5200024,
+          "page": 485,
+          "en": "Archer G, Berger I, Bondeelle L, et al. Interstitial lung diseases after hematopoietic stem cell transplantation: new pattern of lung chronic graft-versus-host disease? Bone Marrow Transplant. 2023;58:87–93.",
+          "zh": "Archer G, Berger I, Bondeelle L, et al. Interstitial lung diseases after hematopoietic stem cell transplantation: new pattern of lung chronic graft-versus-host disease? Bone Marrow Transplant. 2023;58:87–93.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Archer%20G%2C%20Berger%20I%2C%20Bondeelle%20L%2C%20et%20al.%20Interstitial%20lung%20diseases%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20new%20pattern%20of%20lung%20chronic%20graft-versus-host%20disease%3F%20Bone%20Marrow%20Transplant.%202023%3B58%3A87%E2%80%9393."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Archer%20G%2C%20Berger%20I%2C%20Bondeelle%20L%2C%20et%20al.%20Interstitial%20lung%20diseases%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20new%20pattern%20of%20lung%20chronic%20graft-versus-host%20disease%3F%20Bone%20Marrow%20Transplant.%202023%3B58%3A87%E2%80%9393."
+            }
+          ]
+        },
+        {
+          "id": 5200025,
+          "page": 485,
+          "en": "Arora M, Cutler CS, Jagasia MH, et al. Late acute and chronic graft-versus-host disease after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22:449–55.",
+          "zh": "Arora M, Cutler CS, Jagasia MH, et al. Late acute and chronic graft-versus-host disease after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22:449–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Arora%20M%2C%20Cutler%20CS%2C%20Jagasia%20MH%2C%20et%20al.%20Late%20acute%20and%20chronic%20graft-versus-host%20disease%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A449%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Arora%20M%2C%20Cutler%20CS%2C%20Jagasia%20MH%2C%20et%20al.%20Late%20acute%20and%20chronic%20graft-versus-host%20disease%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A449%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 5200026,
+          "page": 485,
+          "en": "Bergeron A, Godet C, Chevret S, et al. Bronchiolitis obliterans syndrome after allogeneic hematopoietic SCT: phenotypes and prognosis. Bone Marrow Transplant. 2013;48:819–24.",
+          "zh": "Bergeron A, Godet C, Chevret S, et al. Bronchiolitis obliterans syndrome after allogeneic hematopoietic SCT: phenotypes and prognosis. Bone Marrow Transplant. 2013;48:819–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bergeron%20A%2C%20Godet%20C%2C%20Chevret%20S%2C%20et%20al.%20Bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20hematopoietic%20SCT%3A%20phenotypes%20and%20prognosis.%20Bone%20Marrow%20Transplant.%202013%3B48%3A819%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bergeron%20A%2C%20Godet%20C%2C%20Chevret%20S%2C%20et%20al.%20Bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20hematopoietic%20SCT%3A%20phenotypes%20and%20prognosis.%20Bone%20Marrow%20Transplant.%202013%3B48%3A819%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 5200027,
+          "page": 485,
+          "en": "Bergeron A, Chevret S, Chagnon K, et al. Budesonide/formoterol for bronchiolitis obliterans after hematopoietic stem cell transplantation. Am J Respir Crit Care Med. 2015;191:1242–9.",
+          "zh": "Bergeron A, Chevret S, Chagnon K, et al. Budesonide/formoterol for bronchiolitis obliterans after hematopoietic stem cell transplantation. Am J Respir Crit Care Med. 2015;191:1242–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bergeron%20A%2C%20Chevret%20S%2C%20Chagnon%20K%2C%20et%20al.%20Budesonide/formoterol%20for%20bronchiolitis%20obliterans%20after%20hematopoietic%20stem%20cell%20transplantation.%20Am%20J%20Respir%20Crit%20Care%20Med.%202015%3B191%3A1242%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bergeron%20A%2C%20Chevret%20S%2C%20Chagnon%20K%2C%20et%20al.%20Budesonide/formoterol%20for%20bronchiolitis%20obliterans%20after%20hematopoietic%20stem%20cell%20transplantation.%20Am%20J%20Respir%20Crit%20Care%20Med.%202015%3B191%3A1242%E2%80%939."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 486,
+      "blocks": [
+        {
+          "id": 5200028,
+          "page": 486,
+          "en": "Bergeron A, Chevret S, Granata A, et al. Effect of azithromycin on airflow decline-free survival after allogeneic hematopoietic stem cell transplant: the ALLOZITHRO randomized clinical trial. JAMA. 2017;318:557–66.",
+          "zh": "Bergeron A, Chevret S, Granata A, et al. Effect of azithromycin on airflow decline-free survival after allogeneic hematopoietic stem cell transplant: the ALLOZITHRO randomized clinical trial. JAMA. 2017;318:557–66.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bergeron%20A%2C%20Chevret%20S%2C%20Granata%20A%2C%20et%20al.%20Effect%20of%20azithromycin%20on%20airflow%20decline-free%20survival%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplant%3A%20the%20ALLOZITHRO%20randomized%20clinical%20trial.%20JAMA.%202017%3B318%3A557%E2%80%9366."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bergeron%20A%2C%20Chevret%20S%2C%20Granata%20A%2C%20et%20al.%20Effect%20of%20azithromycin%20on%20airflow%20decline-free%20survival%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplant%3A%20the%20ALLOZITHRO%20randomized%20clinical%20trial.%20JAMA.%202017%3B318%3A557%E2%80%9366."
+            }
+          ]
+        },
+        {
+          "id": 5200029,
+          "page": 486,
+          "en": "Bergeron A, Chevret S, de Latour RP, et al. Non-infectious lung complications after allogeneic haematopoietic stem cell transplantation. Eur Respir J. 2018;51:1702617.",
+          "zh": "Bergeron A, Chevret S, de Latour RP, et al. Non-infectious lung complications after allogeneic haematopoietic stem cell transplantation. Eur Respir J. 2018;51:1702617.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bergeron%20A%2C%20Chevret%20S%2C%20de%20Latour%20RP%2C%20et%20al.%20Non-infectious%20lung%20complications%20after%20allogeneic%20haematopoietic%20stem%20cell%20transplantation.%20Eur%20Respir%20J.%202018%3B51%3A1702617."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bergeron%20A%2C%20Chevret%20S%2C%20de%20Latour%20RP%2C%20et%20al.%20Non-infectious%20lung%20complications%20after%20allogeneic%20haematopoietic%20stem%20cell%20transplantation.%20Eur%20Respir%20J.%202018%3B51%3A1702617."
+            }
+          ]
+        },
+        {
+          "id": 5200030,
+          "page": 486,
+          "en": "Bondeelle L, Gras J, Michonneau D, et al. Pleuroparenchymal fibroelastosis after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant. 2020;55:982–6.",
+          "zh": "Bondeelle L, Gras J, Michonneau D, et al. Pleuroparenchymal fibroelastosis after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant. 2020;55:982–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bondeelle%20L%2C%20Gras%20J%2C%20Michonneau%20D%2C%20et%20al.%20Pleuroparenchymal%20fibroelastosis%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202020%3B55%3A982%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bondeelle%20L%2C%20Gras%20J%2C%20Michonneau%20D%2C%20et%20al.%20Pleuroparenchymal%20fibroelastosis%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202020%3B55%3A982%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5200031,
+          "page": 486,
+          "en": "Cheng GS, Storer B, Chien JW, et al. Lung function trajectory in bronchiolitis obliterans syndrome after allogeneic hematopoietic cell transplant. Ann Am Thorac Soc. 2016;13:1932–9.",
+          "zh": "Cheng GS, Storer B, Chien JW, et al. Lung function trajectory in bronchiolitis obliterans syndrome after allogeneic hematopoietic cell transplant. Ann Am Thorac Soc. 2016;13:1932–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cheng%20GS%2C%20Storer%20B%2C%20Chien%20JW%2C%20et%20al.%20Lung%20function%20trajectory%20in%20bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplant.%20Ann%20Am%20Thorac%20Soc.%202016%3B13%3A1932%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cheng%20GS%2C%20Storer%20B%2C%20Chien%20JW%2C%20et%20al.%20Lung%20function%20trajectory%20in%20bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplant.%20Ann%20Am%20Thorac%20Soc.%202016%3B13%3A1932%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5200032,
+          "page": 486,
+          "en": "Cheng GS, Bondeelle L, Gooley T, et al. Azithromycin use and increased cancer risk among patients with bronchiolitis obliterans after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2020;26:392–400.",
+          "zh": "Cheng GS, Bondeelle L, Gooley T, et al. Azithromycin use and increased cancer risk among patients with bronchiolitis obliterans after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2020;26:392–400.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cheng%20GS%2C%20Bondeelle%20L%2C%20Gooley%20T%2C%20et%20al.%20Azithromycin%20use%20and%20increased%20cancer%20risk%20among%20patients%20with%20bronchiolitis%20obliterans%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A392%E2%80%93400."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cheng%20GS%2C%20Bondeelle%20L%2C%20Gooley%20T%2C%20et%20al.%20Azithromycin%20use%20and%20increased%20cancer%20risk%20among%20patients%20with%20bronchiolitis%20obliterans%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A392%E2%80%93400."
+            }
+          ]
+        },
+        {
+          "id": 5200033,
+          "page": 486,
+          "en": "Clark JG, Hansen JA, Hertz MI, et al. NHLBI workshop summary. Idiopathic pneumonia syndrome after bone marrow transplantation. Am Rev Respir Dis. 1993;147:1601–6.",
+          "zh": "Clark JG, Hansen JA, Hertz MI, et al. NHLBI workshop summary. Idiopathic pneumonia syndrome after bone marrow transplantation. Am Rev Respir Dis. 1993;147:1601–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Clark%20JG%2C%20Hansen%20JA%2C%20Hertz%20MI%2C%20et%20al.%20NHLBI%20workshop%20summary.%20Idiopathic%20pneumonia%20syndrome%20after%20bone%20marrow%20transplantation.%20Am%20Rev%20Respir%20Dis.%201993%3B147%3A1601%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Clark%20JG%2C%20Hansen%20JA%2C%20Hertz%20MI%2C%20et%20al.%20NHLBI%20workshop%20summary.%20Idiopathic%20pneumonia%20syndrome%20after%20bone%20marrow%20transplantation.%20Am%20Rev%20Respir%20Dis.%201993%3B147%3A1601%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5200034,
+          "page": 486,
+          "en": "Cooke KR, Yanik GA. Lung injury following hematopoietic cell transplantation. In: Forman SJ, Negrin RS, Antin JH, Appelbaum FR, editors. Thomas’ hematopoietic cell transplantation. 5th ed. Hoboken: Wiley; 2016. p. 1157–70.",
+          "zh": "Cooke KR, Yanik GA. Lung injury following hematopoietic cell transplantation. In: Forman SJ, Negrin RS, Antin JH, Appelbaum FR, editors. Thomas’ hematopoietic cell transplantation. 5th ed. Hoboken: Wiley; 2016. p. 1157–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cooke%20KR%2C%20Yanik%20GA.%20Lung%20injury%20following%20hematopoietic%20cell%20transplantation.%20In%3A%20Forman%20SJ%2C%20Negrin%20RS%2C%20Antin%20JH%2C%20Appelbaum%20FR%2C%20editors.%20Thomas%E2%80%99%20hematopoietic%20cell%20transplantation.%205th%20ed.%20Hoboken%3A%20Wiley%3B%202016.%20p.%201157%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cooke%20KR%2C%20Yanik%20GA.%20Lung%20injury%20following%20hematopoietic%20cell%20transplantation.%20In%3A%20Forman%20SJ%2C%20Negrin%20RS%2C%20Antin%20JH%2C%20Appelbaum%20FR%2C%20editors.%20Thomas%E2%80%99%20hematopoietic%20cell%20transplantation.%205th%20ed.%20Hoboken%3A%20Wiley%3B%202016.%20p.%201157%E2%80%9370."
+            }
+          ]
+        },
+        {
+          "id": 5200035,
+          "page": 486,
+          "en": "Cooke KR, Luznik L, Sarantopoulos S, et al. The biology of chronic graft-versus-host disease: a task force report from the National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease. Biol Blood Marrow Transplant. 2017;23:211–34.",
+          "zh": "Cooke KR, Luznik L, Sarantopoulos S, et al. The biology of chronic graft-versus-host disease: a task force report from the National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease. Biol Blood Marrow Transplant. 2017;23:211–34.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cooke%20KR%2C%20Luznik%20L%2C%20Sarantopoulos%20S%2C%20et%20al.%20The%20biology%20of%20chronic%20graft-versus-host%20disease%3A%20a%20task%20force%20report%20from%20the%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A211%E2%80%9334."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cooke%20KR%2C%20Luznik%20L%2C%20Sarantopoulos%20S%2C%20et%20al.%20The%20biology%20of%20chronic%20graft-versus-host%20disease%3A%20a%20task%20force%20report%20from%20the%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A211%E2%80%9334."
+            }
+          ]
+        },
+        {
+          "id": 5200036,
+          "page": 486,
+          "en": "Dieffenbach BV, Madenci AL, Murphy AJ, et al. Therapeutic impact and complications associated with surgical lung biopsy after allogeneic hematopoietic stem cell transplantation in children. Biol Blood Marrow Transplant. 2019;25:2181–5.",
+          "zh": "Dieffenbach BV, Madenci AL, Murphy AJ, et al. Therapeutic impact and complications associated with surgical lung biopsy after allogeneic hematopoietic stem cell transplantation in children. Biol Blood Marrow Transplant. 2019;25:2181–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dieffenbach%20BV%2C%20Madenci%20AL%2C%20Murphy%20AJ%2C%20et%20al.%20Therapeutic%20impact%20and%20complications%20associated%20with%20surgical%20lung%20biopsy%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20children.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A2181%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dieffenbach%20BV%2C%20Madenci%20AL%2C%20Murphy%20AJ%2C%20et%20al.%20Therapeutic%20impact%20and%20complications%20associated%20with%20surgical%20lung%20biopsy%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20children.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A2181%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5200037,
+          "page": 486,
+          "en": "Elinoff JM, Bagci U, Moriyama B, et al. Recombinant human factor VIIa for alveolar hemorrhage following allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:969–78.",
+          "zh": "Elinoff JM, Bagci U, Moriyama B, et al. Recombinant human factor VIIa for alveolar hemorrhage following allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:969–78.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Elinoff%20JM%2C%20Bagci%20U%2C%20Moriyama%20B%2C%20et%20al.%20Recombinant%20human%20factor%20VIIa%20for%20alveolar%20hemorrhage%20following%20allogeneic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A969%E2%80%9378."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Elinoff%20JM%2C%20Bagci%20U%2C%20Moriyama%20B%2C%20et%20al.%20Recombinant%20human%20factor%20VIIa%20for%20alveolar%20hemorrhage%20following%20allogeneic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A969%E2%80%9378."
+            }
+          ]
+        },
+        {
+          "id": 5200038,
+          "page": 486,
+          "en": "Fan K, McArthur J, Morrison RR, Ghafoor S. Diffuse alveolar hemorrhage after pediatric hematopoietic stem cell transplantation. Front Oncol. 2020;10:1757. https://doi.org/10.3389/fonc.2020.01757.",
+          "zh": "Fan K, McArthur J, Morrison RR, Ghafoor S. Diffuse alveolar hemorrhage after pediatric hematopoietic stem cell transplantation. Front Oncol. 2020;10:1757. https://doi.org/10.3389/fonc.2020.01757.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fan%20K%2C%20McArthur%20J%2C%20Morrison%20RR%2C%20Ghafoor%20S.%20Diffuse%20alveolar%20hemorrhage%20after%20pediatric%20hematopoietic%20stem%20cell%20transplantation.%20Front%20Oncol.%202020%3B10%3A1757.%20https%3A//doi.org/10.3389/fonc.2020.01757."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fan%20K%2C%20McArthur%20J%2C%20Morrison%20RR%2C%20Ghafoor%20S.%20Diffuse%20alveolar%20hemorrhage%20after%20pediatric%20hematopoietic%20stem%20cell%20transplantation.%20Front%20Oncol.%202020%3B10%3A1757.%20https%3A//doi.org/10.3389/fonc.2020.01757."
+            }
+          ]
+        },
+        {
+          "id": 5200039,
+          "page": 486,
+          "en": "Greer M, Berastegui C, Jaksch P, et al. Lung transplantation after allogeneic stem cell transplantation: a pan-European experience. Eur Respir J. 2018;51:1701330.",
+          "zh": "Greer M, Berastegui C, Jaksch P, et al. Lung transplantation after allogeneic stem cell transplantation: a pan-European experience. Eur Respir J. 2018;51:1701330.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Greer%20M%2C%20Berastegui%20C%2C%20Jaksch%20P%2C%20et%20al.%20Lung%20transplantation%20after%20allogeneic%20stem%20cell%20transplantation%3A%20a%20pan-European%20experience.%20Eur%20Respir%20J.%202018%3B51%3A1701330."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Greer%20M%2C%20Berastegui%20C%2C%20Jaksch%20P%2C%20et%20al.%20Lung%20transplantation%20after%20allogeneic%20stem%20cell%20transplantation%3A%20a%20pan-European%20experience.%20Eur%20Respir%20J.%202018%3B51%3A1701330."
+            }
+          ]
+        },
+        {
+          "id": 5200040,
+          "page": 486,
+          "en": "Haider S, Durairajan N, Soubani AO. Noninfectious pulmonary complications of haematopoietic stem cell transplantation. Eur Respir Rev. 2020;29:90119.",
+          "zh": "Haider S, Durairajan N, Soubani AO. Noninfectious pulmonary complications of haematopoietic stem cell transplantation. Eur Respir Rev. 2020;29:90119.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Haider%20S%2C%20Durairajan%20N%2C%20Soubani%20AO.%20Noninfectious%20pulmonary%20complications%20of%20haematopoietic%20stem%20cell%20transplantation.%20Eur%20Respir%20Rev.%202020%3B29%3A90119."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Haider%20S%2C%20Durairajan%20N%2C%20Soubani%20AO.%20Noninfectious%20pulmonary%20complications%20of%20haematopoietic%20stem%20cell%20transplantation.%20Eur%20Respir%20Rev.%202020%3B29%3A90119."
+            }
+          ]
+        },
+        {
+          "id": 5200041,
+          "page": 486,
+          "en": "Holbro A, Lehmann T, Girsberger S, et al. Lung histology predicts outcome of bronchiolitis obliterans syndrome after hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2013;19:973–80.",
+          "zh": "Holbro A, Lehmann T, Girsberger S, et al. Lung histology predicts outcome of bronchiolitis obliterans syndrome after hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2013;19:973–80.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Holbro%20A%2C%20Lehmann%20T%2C%20Girsberger%20S%2C%20et%20al.%20Lung%20histology%20predicts%20outcome%20of%20bronchiolitis%20obliterans%20syndrome%20after%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%3A973%E2%80%9380."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Holbro%20A%2C%20Lehmann%20T%2C%20Girsberger%20S%2C%20et%20al.%20Lung%20histology%20predicts%20outcome%20of%20bronchiolitis%20obliterans%20syndrome%20after%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%3A973%E2%80%9380."
+            }
+          ]
+        },
+        {
+          "id": 5200042,
+          "page": 486,
+          "en": "Jagasia MH, Greinix HT, Arora M, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. The 2014 diagnosis and staging working group report. Biol Blood Marrow Transplant. 2015;21:389–401.",
+          "zh": "Jagasia MH, Greinix HT, Arora M, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. The 2014 diagnosis and staging working group report. Biol Blood Marrow Transplant. 2015;21:389–401.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jagasia%20MH%2C%20Greinix%20HT%2C%20Arora%20M%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20I.%20The%202014%20diagnosis%20and%20staging%20working%20group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A389%E2%80%93401."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jagasia%20MH%2C%20Greinix%20HT%2C%20Arora%20M%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20I.%20The%202014%20diagnosis%20and%20staging%20working%20group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A389%E2%80%93401."
+            }
+          ]
+        },
+        {
+          "id": 5200043,
+          "page": 486,
+          "en": "Jamani K, He Q, Liu Y, et al. Early post-transplantation spirometry is associated with the development of bronchiolitis obliterans syndrome after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2020;26:943–8.",
+          "zh": "Jamani K, He Q, Liu Y, et al. Early post-transplantation spirometry is associated with the development of bronchiolitis obliterans syndrome after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2020;26:943–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jamani%20K%2C%20He%20Q%2C%20Liu%20Y%2C%20et%20al.%20Early%20post-transplantation%20spirometry%20is%20associated%20with%20the%20development%20of%20bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A943%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jamani%20K%2C%20He%20Q%2C%20Liu%20Y%2C%20et%20al.%20Early%20post-transplantation%20spirometry%20is%20associated%20with%20the%20development%20of%20bronchiolitis%20obliterans%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A943%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5200044,
+          "page": 486,
+          "en": "Kitko CL, Pidala J, Schoemans HM, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: IIa. The 2020 clinical implementation and early diagnosis working group report. Transplant Cell Ther. 2021;27:545–57.",
+          "zh": "Kitko CL, Pidala J, Schoemans HM, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: IIa. The 2020 clinical implementation and early diagnosis working group report. Transplant Cell Ther. 2021;27:545–57.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kitko%20CL%2C%20Pidala%20J%2C%20Schoemans%20HM%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20IIa.%20The%202020%20clinical%20implementation%20and%20early%20diagnosis%20working%20group%20report.%20Transplant%20Cell%20Ther.%202021%3B27%3A545%E2%80%9357."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kitko%20CL%2C%20Pidala%20J%2C%20Schoemans%20HM%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20IIa.%20The%202020%20clinical%20implementation%20and%20early%20diagnosis%20working%20group%20report.%20Transplant%20Cell%20Ther.%202021%3B27%3A545%E2%80%9357."
+            }
+          ]
+        },
+        {
+          "id": 5200045,
+          "page": 486,
+          "en": "Klein OR, Ktena YP, Pierce E, et al. Defibrotide modulates pulmonary endothelial cell activation and protects against lung inflammation in pre-clinical models of LPS-induced lung injury and idiopathic pneumonia syndrome. Front Immunol. 2023;14:1186422. https://doi.org/10.3389/fimmu.2023.1186422.",
+          "zh": "Klein OR, Ktena YP, Pierce E, et al. Defibrotide modulates pulmonary endothelial cell activation and protects against lung inflammation in pre-clinical models of LPS-induced lung injury and idiopathic pneumonia syndrome. Front Immunol. 2023;14:1186422. https://doi.org/10.3389/fimmu.2023.1186422.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Klein%20OR%2C%20Ktena%20YP%2C%20Pierce%20E%2C%20et%20al.%20Defibrotide%20modulates%20pulmonary%20endothelial%20cell%20activation%20and%20protects%20against%20lung%20inflammation%20in%20pre-clinical%20models%20of%20LPS-induced%20lung%20injury%20and%20idiopathic%20pneumonia%20syndrome.%20Front%20Immunol.%202023%3B14%3A1186422.%20https%3A//doi.org/10.3389/fimmu.2023.1186422."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Klein%20OR%2C%20Ktena%20YP%2C%20Pierce%20E%2C%20et%20al.%20Defibrotide%20modulates%20pulmonary%20endothelial%20cell%20activation%20and%20protects%20against%20lung%20inflammation%20in%20pre-clinical%20models%20of%20LPS-induced%20lung%20injury%20and%20idiopathic%20pneumonia%20syndrome.%20Front%20Immunol.%202023%3B14%3A1186422.%20https%3A//doi.org/10.3389/fimmu.2023.1186422."
+            }
+          ]
+        },
+        {
+          "id": 5200046,
+          "page": 486,
+          "en": "Lucena CM, Torres A, Rovira M, et al. Pulmonary complications in hematopoietic SCT: a prospective study. Bone Marrow Transplant. 2014;49:1293–9.",
+          "zh": "Lucena CM, Torres A, Rovira M, et al. Pulmonary complications in hematopoietic SCT: a prospective study. Bone Marrow Transplant. 2014;49:1293–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lucena%20CM%2C%20Torres%20A%2C%20Rovira%20M%2C%20et%20al.%20Pulmonary%20complications%20in%20hematopoietic%20SCT%3A%20a%20prospective%20study.%20Bone%20Marrow%20Transplant.%202014%3B49%3A1293%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lucena%20CM%2C%20Torres%20A%2C%20Rovira%20M%2C%20et%20al.%20Pulmonary%20complications%20in%20hematopoietic%20SCT%3A%20a%20prospective%20study.%20Bone%20Marrow%20Transplant.%202014%3B49%3A1293%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5200047,
+          "page": 486,
+          "en": "Majhail NS, Parks K, Defor TE, Weisdorf DJ. Diffuse alveolar hemorrhage and infection-associated alveolar hemorrhage following hematopoietic stem cell transplantation: related and high-risk clinical syndromes. Biol Blood Marrow Transplant. 2006;12:1038–46.",
+          "zh": "Majhail NS, Parks K, Defor TE, Weisdorf DJ. Diffuse alveolar hemorrhage and infection-associated alveolar hemorrhage following hematopoietic stem cell transplantation: related and high-risk clinical syndromes. Biol Blood Marrow Transplant. 2006;12:1038–46.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Majhail%20NS%2C%20Parks%20K%2C%20Defor%20TE%2C%20Weisdorf%20DJ.%20Diffuse%20alveolar%20hemorrhage%20and%20infection-associated%20alveolar%20hemorrhage%20following%20hematopoietic%20stem%20cell%20transplantation%3A%20related%20and%20high-risk%20clinical%20syndromes.%20Biol%20Blood%20Marrow%20Transplant.%202006%3B12%3A1038%E2%80%9346."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Majhail%20NS%2C%20Parks%20K%2C%20Defor%20TE%2C%20Weisdorf%20DJ.%20Diffuse%20alveolar%20hemorrhage%20and%20infection-associated%20alveolar%20hemorrhage%20following%20hematopoietic%20stem%20cell%20transplantation%3A%20related%20and%20high-risk%20clinical%20syndromes.%20Biol%20Blood%20Marrow%20Transplant.%202006%3B12%3A1038%E2%80%9346."
+            }
+          ]
+        },
+        {
+          "id": 5200048,
+          "page": 486,
+          "en": "Meignin V, Thivolet-Bejui F, Kambouchner M, et al. Lung histopathology of non-infectious pulmonary complications after allogeneic haematopoietic stem cell transplantation. Histopathology. 2018;73:832–42.",
+          "zh": "Meignin V, Thivolet-Bejui F, Kambouchner M, et al. Lung histopathology of non-infectious pulmonary complications after allogeneic haematopoietic stem cell transplantation. Histopathology. 2018;73:832–42.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meignin%20V%2C%20Thivolet-Bejui%20F%2C%20Kambouchner%20M%2C%20et%20al.%20Lung%20histopathology%20of%20non-infectious%20pulmonary%20complications%20after%20allogeneic%20haematopoietic%20stem%20cell%20transplantation.%20Histopathology.%202018%3B73%3A832%E2%80%9342."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meignin%20V%2C%20Thivolet-Bejui%20F%2C%20Kambouchner%20M%2C%20et%20al.%20Lung%20histopathology%20of%20non-infectious%20pulmonary%20complications%20after%20allogeneic%20haematopoietic%20stem%20cell%20transplantation.%20Histopathology.%202018%3B73%3A832%E2%80%9342."
+            }
+          ]
+        },
+        {
+          "id": 5200049,
+          "page": 486,
+          "en": "Panoskaltsis-Mortari A, Griese M, Madtes DK, et al. An official American Thoracic Society research statement: non-infectious lung injury after hematopoietic stem cell transplantation: idiopathic pneumonia syndrome. Am J Respir Crit Care Med. 2011;183:1262–79.",
+          "zh": "Panoskaltsis-Mortari A, Griese M, Madtes DK, et al. An official American Thoracic Society research statement: non-infectious lung injury after hematopoietic stem cell transplantation: idiopathic pneumonia syndrome. Am J Respir Crit Care Med. 2011;183:1262–79.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Panoskaltsis-Mortari%20A%2C%20Griese%20M%2C%20Madtes%20DK%2C%20et%20al.%20An%20official%20American%20Thoracic%20Society%20research%20statement%3A%20non-infectious%20lung%20injury%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20idiopathic%20pneumonia%20syndrome.%20Am%20J%20Respir%20Crit%20Care%20Med.%202011%3B183%3A1262%E2%80%9379."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Panoskaltsis-Mortari%20A%2C%20Griese%20M%2C%20Madtes%20DK%2C%20et%20al.%20An%20official%20American%20Thoracic%20Society%20research%20statement%3A%20non-infectious%20lung%20injury%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20idiopathic%20pneumonia%20syndrome.%20Am%20J%20Respir%20Crit%20Care%20Med.%202011%3B183%3A1262%E2%80%9379."
+            }
+          ]
+        },
+        {
+          "id": 5200050,
+          "page": 486,
+          "en": "Park JA, Kim BJ. Intrapulmonary recombinant factor VIIa for diffuse alveolar hemorrhage in children. Pediatrics. 2015;135:e216–20.",
+          "zh": "Park JA, Kim BJ. Intrapulmonary recombinant factor VIIa for diffuse alveolar hemorrhage in children. Pediatrics. 2015;135:e216–20.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Park%20JA%2C%20Kim%20BJ.%20Intrapulmonary%20recombinant%20factor%20VIIa%20for%20diffuse%20alveolar%20hemorrhage%20in%20children.%20Pediatrics.%202015%3B135%3Ae216%E2%80%9320."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Park%20JA%2C%20Kim%20BJ.%20Intrapulmonary%20recombinant%20factor%20VIIa%20for%20diffuse%20alveolar%20hemorrhage%20in%20children.%20Pediatrics.%202015%3B135%3Ae216%E2%80%9320."
+            }
+          ]
+        },
+        {
+          "id": 5200051,
+          "page": 486,
+          "en": "Rathi NK, Tanner AR, Dinh A, et al. Low-, medium- and high-dose steroids with or without aminocaproic acid in adult hematopoietic SCT patients with diffuse alveolar hemorrhage. Bone Marrow Transplant. 2015;50:420–6.",
+          "zh": "Rathi NK, Tanner AR, Dinh A, et al. Low-, medium- and high-dose steroids with or without aminocaproic acid in adult hematopoietic SCT patients with diffuse alveolar hemorrhage. Bone Marrow Transplant. 2015;50:420–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rathi%20NK%2C%20Tanner%20AR%2C%20Dinh%20A%2C%20et%20al.%20Low-%2C%20medium-%20and%20high-dose%20steroids%20with%20or%20without%20aminocaproic%20acid%20in%20adult%20hematopoietic%20SCT%20patients%20with%20diffuse%20alveolar%20hemorrhage.%20Bone%20Marrow%20Transplant.%202015%3B50%3A420%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rathi%20NK%2C%20Tanner%20AR%2C%20Dinh%20A%2C%20et%20al.%20Low-%2C%20medium-%20and%20high-dose%20steroids%20with%20or%20without%20aminocaproic%20acid%20in%20adult%20hematopoietic%20SCT%20patients%20with%20diffuse%20alveolar%20hemorrhage.%20Bone%20Marrow%20Transplant.%202015%3B50%3A420%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5200052,
+          "page": 486,
+          "en": "Rondón G, Saliba RM, Chen J, et al. Impact of fluid overload as new toxicity category on hematopoietic stem cell transplantation outcomes. Biol Blood Marrow Transplant. 2017;23:2166–71.",
+          "zh": "Rondón G, Saliba RM, Chen J, et al. Impact of fluid overload as new toxicity category on hematopoietic stem cell transplantation outcomes. Biol Blood Marrow Transplant. 2017;23:2166–71.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rond%C3%B3n%20G%2C%20Saliba%20RM%2C%20Chen%20J%2C%20et%20al.%20Impact%20of%20fluid%20overload%20as%20new%20toxicity%20category%20on%20hematopoietic%20stem%20cell%20transplantation%20outcomes.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A2166%E2%80%9371."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rond%C3%B3n%20G%2C%20Saliba%20RM%2C%20Chen%20J%2C%20et%20al.%20Impact%20of%20fluid%20overload%20as%20new%20toxicity%20category%20on%20hematopoietic%20stem%20cell%20transplantation%20outcomes.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A2166%E2%80%9371."
+            }
+          ]
+        },
+        {
+          "id": 5200053,
+          "page": 486,
+          "en": "Rowan CM, Smith L, Sharron MP, et al. A biomarker panel for risk of early respiratory failure following hematopoietic cell transplantation. Blood Adv. 2022;6:1866–78.",
+          "zh": "Rowan CM, Smith L, Sharron MP, et al. A biomarker panel for risk of early respiratory failure following hematopoietic cell transplantation. Blood Adv. 2022;6:1866–78.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rowan%20CM%2C%20Smith%20L%2C%20Sharron%20MP%2C%20et%20al.%20A%20biomarker%20panel%20for%20risk%20of%20early%20respiratory%20failure%20following%20hematopoietic%20cell%20transplantation.%20Blood%20Adv.%202022%3B6%3A1866%E2%80%9378."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rowan%20CM%2C%20Smith%20L%2C%20Sharron%20MP%2C%20et%20al.%20A%20biomarker%20panel%20for%20risk%20of%20early%20respiratory%20failure%20following%20hematopoietic%20cell%20transplantation.%20Blood%20Adv.%202022%3B6%3A1866%E2%80%9378."
+            }
+          ]
+        },
+        {
+          "id": 5200054,
+          "page": 486,
+          "en": "Sano H, Kobayaski R, Iguchi A, Suzuki D, Kishimoto K, et al. Risk factor analysis of idiopathic pneumonia syndrome after allogeneic hematopoietic SCT in children. Bone Marrow Transplant. 2014;49:38–41.",
+          "zh": "Sano H, Kobayaski R, Iguchi A, Suzuki D, Kishimoto K, et al. Risk factor analysis of idiopathic pneumonia syndrome after allogeneic hematopoietic SCT in children. Bone Marrow Transplant. 2014;49:38–41.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sano%20H%2C%20Kobayaski%20R%2C%20Iguchi%20A%2C%20Suzuki%20D%2C%20Kishimoto%20K%2C%20et%20al.%20Risk%20factor%20analysis%20of%20idiopathic%20pneumonia%20syndrome%20after%20allogeneic%20hematopoietic%20SCT%20in%20children.%20Bone%20Marrow%20Transplant.%202014%3B49%3A38%E2%80%9341."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sano%20H%2C%20Kobayaski%20R%2C%20Iguchi%20A%2C%20Suzuki%20D%2C%20Kishimoto%20K%2C%20et%20al.%20Risk%20factor%20analysis%20of%20idiopathic%20pneumonia%20syndrome%20after%20allogeneic%20hematopoietic%20SCT%20in%20children.%20Bone%20Marrow%20Transplant.%202014%3B49%3A38%E2%80%9341."
+            }
+          ]
+        },
+        {
+          "id": 5200055,
+          "page": 486,
+          "en": "Seo S, Renaud C, Kuypers JM, et al. Idiopathic pneumonia syndrome after hematopoietic cell transplantation: evidence of occult infectious etiologies. Blood. 2015;125:3789–97.",
+          "zh": "Seo S, Renaud C, Kuypers JM, et al. Idiopathic pneumonia syndrome after hematopoietic cell transplantation: evidence of occult infectious etiologies. Blood. 2015;125:3789–97.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Seo%20S%2C%20Renaud%20C%2C%20Kuypers%20JM%2C%20et%20al.%20Idiopathic%20pneumonia%20syndrome%20after%20hematopoietic%20cell%20transplantation%3A%20evidence%20of%20occult%20infectious%20etiologies.%20Blood.%202015%3B125%3A3789%E2%80%9397."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Seo%20S%2C%20Renaud%20C%2C%20Kuypers%20JM%2C%20et%20al.%20Idiopathic%20pneumonia%20syndrome%20after%20hematopoietic%20cell%20transplantation%3A%20evidence%20of%20occult%20infectious%20etiologies.%20Blood.%202015%3B125%3A3789%E2%80%9397."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 487,
+      "blocks": [
+        {
+          "id": 5200056,
+          "page": 487,
+          "en": "Seo S, Yu J, Jenkins IC, et al. Diagnostic and prognostic plasma biomarkers for idiopathic pneumonia syndrome after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2017;24:678–86.",
+          "zh": "Seo S, Yu J, Jenkins IC, et al. Diagnostic and prognostic plasma biomarkers for idiopathic pneumonia syndrome after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2017;24:678–86.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Seo%20S%2C%20Yu%20J%2C%20Jenkins%20IC%2C%20et%20al.%20Diagnostic%20and%20prognostic%20plasma%20biomarkers%20for%20idiopathic%20pneumonia%20syndrome%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B24%3A678%E2%80%9386."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Seo%20S%2C%20Yu%20J%2C%20Jenkins%20IC%2C%20et%20al.%20Diagnostic%20and%20prognostic%20plasma%20biomarkers%20for%20idiopathic%20pneumonia%20syndrome%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B24%3A678%E2%80%9386."
+            }
+          ]
+        },
+        {
+          "id": 5200057,
+          "page": 487,
+          "en": "Shannon VR, Andersson BS, Lei X, et al. Utility of early versus late fiberoptic bronchoscopy in the evaluation of new pulmonary infiltrates following hematopoietic stem cell transplantation. Bone Marrow Transplant. 2010;45:647–55.",
+          "zh": "Shannon VR, Andersson BS, Lei X, et al. Utility of early versus late fiberoptic bronchoscopy in the evaluation of new pulmonary infiltrates following hematopoietic stem cell transplantation. Bone Marrow Transplant. 2010;45:647–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Shannon%20VR%2C%20Andersson%20BS%2C%20Lei%20X%2C%20et%20al.%20Utility%20of%20early%20versus%20late%20fiberoptic%20bronchoscopy%20in%20the%20evaluation%20of%20new%20pulmonary%20infiltrates%20following%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202010%3B45%3A647%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Shannon%20VR%2C%20Andersson%20BS%2C%20Lei%20X%2C%20et%20al.%20Utility%20of%20early%20versus%20late%20fiberoptic%20bronchoscopy%20in%20the%20evaluation%20of%20new%20pulmonary%20infiltrates%20following%20hematopoietic%20stem%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202010%3B45%3A647%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 5200058,
+          "page": 487,
+          "en": "Sheshadri A, Chemaly RF, Alousi AM, et al. Pulmonary impairment after respiratory viral infections is associated with high mortality in allogeneic hematopoietic cell Transplant recipients. Biol Blood Marrow Transplant. 2019;25:800–9.",
+          "zh": "Sheshadri A, Chemaly RF, Alousi AM, et al. Pulmonary impairment after respiratory viral infections is associated with high mortality in allogeneic hematopoietic cell Transplant recipients. Biol Blood Marrow Transplant. 2019;25:800–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sheshadri%20A%2C%20Chemaly%20RF%2C%20Alousi%20AM%2C%20et%20al.%20Pulmonary%20impairment%20after%20respiratory%20viral%20infections%20is%20associated%20with%20high%20mortality%20in%20allogeneic%20hematopoietic%20cell%20Transplant%20recipients.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A800%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sheshadri%20A%2C%20Chemaly%20RF%2C%20Alousi%20AM%2C%20et%20al.%20Pulmonary%20impairment%20after%20respiratory%20viral%20infections%20is%20associated%20with%20high%20mortality%20in%20allogeneic%20hematopoietic%20cell%20Transplant%20recipients.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A800%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5200059,
+          "page": 487,
+          "en": "Tamburro RF, Cooke KR, Davies SM, et al.; Pulmonary Complications of Pediatric Hematopoietic Stem Cell Transplantation Workshop Participants. Pulmonary complications of pediatric hematopoietic cell transplantation. A National Institutes of Health workshop summary. Ann Am Thorac Soc. 2021;18:381–394.",
+          "zh": "Tamburro RF, Cooke KR, Davies SM, et al.; Pulmonary Complications of Pediatric Hematopoietic Stem Cell Transplantation Workshop Participants. Pulmonary complications of pediatric hematopoietic cell transplantation. A National Institutes of Health workshop summary. Ann Am Thorac Soc. 2021;18:381–394.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tamburro%20RF%2C%20Cooke%20KR%2C%20Davies%20SM%2C%20et%20al.%3B%20Pulmonary%20Complications%20of%20Pediatric%20Hematopoietic%20Stem%20Cell%20Transplantation%20Workshop%20Participants.%20Pulmonary%20complications%20of%20pediatric%20hematopoietic%20cell%20transplantation.%20A%20National%20Institutes%20of%20Health%20workshop%20summary.%20Ann%20Am%20Thorac%20Soc.%202021%3B18%3A381%E2%80%93394."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tamburro%20RF%2C%20Cooke%20KR%2C%20Davies%20SM%2C%20et%20al.%3B%20Pulmonary%20Complications%20of%20Pediatric%20Hematopoietic%20Stem%20Cell%20Transplantation%20Workshop%20Participants.%20Pulmonary%20complications%20of%20pediatric%20hematopoietic%20cell%20transplantation.%20A%20National%20Institutes%20of%20Health%20workshop%20summary.%20Ann%20Am%20Thorac%20Soc.%202021%3B18%3A381%E2%80%93394."
+            }
+          ]
+        },
+        {
+          "id": 5200060,
+          "page": 487,
+          "en": "Thompson J, Yin Z, D’Souza A, et al. Etanercept and corticosteroid therapy for the treatment of late-onset idiopathic pneumonia syndrome. Biol Blood Marrow Transplant. 2017;23:1955–60.",
+          "zh": "Thompson J, Yin Z, D’Souza A, et al. Etanercept and corticosteroid therapy for the treatment of late-onset idiopathic pneumonia syndrome. Biol Blood Marrow Transplant. 2017;23:1955–60.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Thompson%20J%2C%20Yin%20Z%2C%20D%E2%80%99Souza%20A%2C%20et%20al.%20Etanercept%20and%20corticosteroid%20therapy%20for%20the%20treatment%20of%20late-onset%20idiopathic%20pneumonia%20syndrome.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A1955%E2%80%9360."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Thompson%20J%2C%20Yin%20Z%2C%20D%E2%80%99Souza%20A%2C%20et%20al.%20Etanercept%20and%20corticosteroid%20therapy%20for%20the%20treatment%20of%20late-onset%20idiopathic%20pneumonia%20syndrome.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A1955%E2%80%9360."
+            }
+          ]
+        },
+        {
+          "id": 5200061,
+          "page": 487,
+          "en": "Uhlving HH, Andersen CB, Christensen IJ, et al. Biopsy-verified bronchiolitis obliterans and other noninfectious lung pathologies after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2015;21:531–8.",
+          "zh": "Uhlving HH, Andersen CB, Christensen IJ, et al. Biopsy-verified bronchiolitis obliterans and other noninfectious lung pathologies after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2015;21:531–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Uhlving%20HH%2C%20Andersen%20CB%2C%20Christensen%20IJ%2C%20et%20al.%20Biopsy-verified%20bronchiolitis%20obliterans%20and%20other%20noninfectious%20lung%20pathologies%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A531%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Uhlving%20HH%2C%20Andersen%20CB%2C%20Christensen%20IJ%2C%20et%20al.%20Biopsy-verified%20bronchiolitis%20obliterans%20and%20other%20noninfectious%20lung%20pathologies%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A531%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5200062,
+          "page": 487,
+          "en": "Vallet N, Le Grand S, Bondeelle L, et al. Azithromycin promotes relapse by disrupting immune and metabolic networks after allogeneic stem cell transplantation. Blood. 2022;140:2500–13.",
+          "zh": "Vallet N, Le Grand S, Bondeelle L, et al. Azithromycin promotes relapse by disrupting immune and metabolic networks after allogeneic stem cell transplantation. Blood. 2022;140:2500–13.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Vallet%20N%2C%20Le%20Grand%20S%2C%20Bondeelle%20L%2C%20et%20al.%20Azithromycin%20promotes%20relapse%20by%20disrupting%20immune%20and%20metabolic%20networks%20after%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202022%3B140%3A2500%E2%80%9313."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Vallet%20N%2C%20Le%20Grand%20S%2C%20Bondeelle%20L%2C%20et%20al.%20Azithromycin%20promotes%20relapse%20by%20disrupting%20immune%20and%20metabolic%20networks%20after%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202022%3B140%3A2500%E2%80%9313."
+            }
+          ]
+        },
+        {
+          "id": 5200063,
+          "page": 487,
+          "en": "Varelias A, Gartlan KH, Kreijveld E, et al. Lung parenchyma-derived IL-6 promotes IL-17A-dependent acute lung injury after allogeneic stem cell transplantation. Blood. 2015;125:2435–44.",
+          "zh": "Varelias A, Gartlan KH, Kreijveld E, et al. Lung parenchyma-derived IL-6 promotes IL-17A-dependent acute lung injury after allogeneic stem cell transplantation. Blood. 2015;125:2435–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Varelias%20A%2C%20Gartlan%20KH%2C%20Kreijveld%20E%2C%20et%20al.%20Lung%20parenchyma-derived%20IL-6%20promotes%20IL-17A-dependent%20acute%20lung%20injury%20after%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202015%3B125%3A2435%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Varelias%20A%2C%20Gartlan%20KH%2C%20Kreijveld%20E%2C%20et%20al.%20Lung%20parenchyma-derived%20IL-6%20promotes%20IL-17A-dependent%20acute%20lung%20injury%20after%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202015%3B125%3A2435%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 5200064,
+          "page": 487,
+          "en": "Wenger DS, Triplette M, Crothers K, et al. Incidence, risk factors, and outcomes of idiopathic pneumonia syndrome after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2020;26:413–20.",
+          "zh": "Wenger DS, Triplette M, Crothers K, et al. Incidence, risk factors, and outcomes of idiopathic pneumonia syndrome after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2020;26:413–20.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wenger%20DS%2C%20Triplette%20M%2C%20Crothers%20K%2C%20et%20al.%20Incidence%2C%20risk%20factors%2C%20and%20outcomes%20of%20idiopathic%20pneumonia%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A413%E2%80%9320."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wenger%20DS%2C%20Triplette%20M%2C%20Crothers%20K%2C%20et%20al.%20Incidence%2C%20risk%20factors%2C%20and%20outcomes%20of%20idiopathic%20pneumonia%20syndrome%20after%20allogeneic%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A413%E2%80%9320."
+            }
+          ]
+        },
+        {
+          "id": 5200065,
+          "page": 487,
+          "en": "Williams KM, Cheng GS, Pusic I, et al. Fluticasone, Azithromycin, and Montelukast treatment for new-onset bronchiolitis obliterans syndrome after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22:710–6.",
+          "zh": "Williams KM, Cheng GS, Pusic I, et al. Fluticasone, Azithromycin, and Montelukast treatment for new-onset bronchiolitis obliterans syndrome after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22:710–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Williams%20KM%2C%20Cheng%20GS%2C%20Pusic%20I%2C%20et%20al.%20Fluticasone%2C%20Azithromycin%2C%20and%20Montelukast%20treatment%20for%20new-onset%20bronchiolitis%20obliterans%20syndrome%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A710%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Williams%20KM%2C%20Cheng%20GS%2C%20Pusic%20I%2C%20et%20al.%20Fluticasone%2C%20Azithromycin%2C%20and%20Montelukast%20treatment%20for%20new-onset%20bronchiolitis%20obliterans%20syndrome%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A710%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5200066,
+          "page": 487,
+          "en": "Wolff D, Radojcic V, Lafyatis R, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: IV. The 2020 highly morbid forms report. Transplant Cell Ther. 2021;27:817–35.",
+          "zh": "Wolff D, Radojcic V, Lafyatis R, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: IV. The 2020 highly morbid forms report. Transplant Cell Ther. 2021;27:817–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wolff%20D%2C%20Radojcic%20V%2C%20Lafyatis%20R%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20IV.%20The%202020%20highly%20morbid%20forms%20report.%20Transplant%20Cell%20Ther.%202021%3B27%3A817%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wolff%20D%2C%20Radojcic%20V%2C%20Lafyatis%20R%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20IV.%20The%202020%20highly%20morbid%20forms%20report.%20Transplant%20Cell%20Ther.%202021%3B27%3A817%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 5200067,
+          "page": 487,
+          "en": "Yanik G, Maslak J, Connelly J, et al. Impact of bronchoalveolar lavage on the diagnosis and management of pulmonary complications post-transplant. Biol Blood Marrow Transplant. 2008a;14(2):suppl 33.",
+          "zh": "Yanik G, Maslak J, Connelly J, et al. Impact of bronchoalveolar lavage on the diagnosis and management of pulmonary complications post-transplant. Biol Blood Marrow Transplant. 2008a;14(2):suppl 33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yanik%20G%2C%20Maslak%20J%2C%20Connelly%20J%2C%20et%20al.%20Impact%20of%20bronchoalveolar%20lavage%20on%20the%20diagnosis%20and%20management%20of%20pulmonary%20complications%20post-transplant.%20Biol%20Blood%20Marrow%20Transplant.%202008a%3B14%282%29%3Asuppl%2033."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yanik%20G%2C%20Maslak%20J%2C%20Connelly%20J%2C%20et%20al.%20Impact%20of%20bronchoalveolar%20lavage%20on%20the%20diagnosis%20and%20management%20of%20pulmonary%20complications%20post-transplant.%20Biol%20Blood%20Marrow%20Transplant.%202008a%3B14%282%29%3Asuppl%2033."
+            }
+          ]
+        },
+        {
+          "id": 5200068,
+          "page": 487,
+          "en": "Yanik GA, Ho V, Levine JL, et al. The impact of soluble tumor necrosis factor receptor: etanercept on the treatment of idiopathic pneumonia syndrome following allogeneic stem cell transplantation. Blood. 2008b;112:3073–81.",
+          "zh": "Yanik GA, Ho V, Levine JL, et al. The impact of soluble tumor necrosis factor receptor: etanercept on the treatment of idiopathic pneumonia syndrome following allogeneic stem cell transplantation. Blood. 2008b;112:3073–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yanik%20GA%2C%20Ho%20V%2C%20Levine%20JL%2C%20et%20al.%20The%20impact%20of%20soluble%20tumor%20necrosis%20factor%20receptor%3A%20etanercept%20on%20the%20treatment%20of%20idiopathic%20pneumonia%20syndrome%20following%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202008b%3B112%3A3073%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yanik%20GA%2C%20Ho%20V%2C%20Levine%20JL%2C%20et%20al.%20The%20impact%20of%20soluble%20tumor%20necrosis%20factor%20receptor%3A%20etanercept%20on%20the%20treatment%20of%20idiopathic%20pneumonia%20syndrome%20following%20allogeneic%20stem%20cell%20transplantation.%20Blood.%202008b%3B112%3A3073%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 5200069,
+          "page": 487,
+          "en": "Yanik GA, Horowitz MM, Weisdorf DJ, et al. Randomized, double-blind, placebo-controlled trial of soluble tumor necrosis factor receptor: Enbrel (etanercept) for the treatment of idiopathic pneumonia syndrome after allogeneic stem cell transplantation: blood and marrow. Biol Blood Marrow Transplant. 2014;20:858–64.",
+          "zh": "Yanik GA, Horowitz MM, Weisdorf DJ, et al. Randomized, double-blind, placebo-controlled trial of soluble tumor necrosis factor receptor: Enbrel (etanercept) for the treatment of idiopathic pneumonia syndrome after allogeneic stem cell transplantation: blood and marrow. Biol Blood Marrow Transplant. 2014;20:858–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yanik%20GA%2C%20Horowitz%20MM%2C%20Weisdorf%20DJ%2C%20et%20al.%20Randomized%2C%20double-blind%2C%20placebo-controlled%20trial%20of%20soluble%20tumor%20necrosis%20factor%20receptor%3A%20Enbrel%20%28etanercept%29%20for%20the%20treatment%20of%20idiopathic%20pneumonia%20syndrome%20after%20allogeneic%20stem%20cell%20transplantation%3A%20blood%20and%20marrow.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A858%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yanik%20GA%2C%20Horowitz%20MM%2C%20Weisdorf%20DJ%2C%20et%20al.%20Randomized%2C%20double-blind%2C%20placebo-controlled%20trial%20of%20soluble%20tumor%20necrosis%20factor%20receptor%3A%20Enbrel%20%28etanercept%29%20for%20the%20treatment%20of%20idiopathic%20pneumonia%20syndrome%20after%20allogeneic%20stem%20cell%20transplantation%3A%20blood%20and%20marrow.%20Biol%20Blood%20Marrow%20Transplant.%202014%3B20%3A858%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 5200070,
+          "page": 487,
+          "en": "Yanik GA, Grupp SA, Pulsipher MA, et al. TNF-receptor inhibitor therapy for the treatment of children with idiopathic pneumonia syndrome. A joint pediatric consortium and Children’s Oncology Group study (ASCT0521). Biol Blood Marrow Transplant. 2015;21:67–73.",
+          "zh": "Yanik GA, Grupp SA, Pulsipher MA, et al. TNF-receptor inhibitor therapy for the treatment of children with idiopathic pneumonia syndrome. A joint pediatric consortium and Children’s Oncology Group study (ASCT0521). Biol Blood Marrow Transplant. 2015;21:67–73.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yanik%20GA%2C%20Grupp%20SA%2C%20Pulsipher%20MA%2C%20et%20al.%20TNF-receptor%20inhibitor%20therapy%20for%20the%20treatment%20of%20children%20with%20idiopathic%20pneumonia%20syndrome.%20A%20joint%20pediatric%20consortium%20and%20Children%E2%80%99s%20Oncology%20Group%20study%20%28ASCT0521%29.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A67%E2%80%9373."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yanik%20GA%2C%20Grupp%20SA%2C%20Pulsipher%20MA%2C%20et%20al.%20TNF-receptor%20inhibitor%20therapy%20for%20the%20treatment%20of%20children%20with%20idiopathic%20pneumonia%20syndrome.%20A%20joint%20pediatric%20consortium%20and%20Children%E2%80%99s%20Oncology%20Group%20study%20%28ASCT0521%29.%20Biol%20Blood%20Marrow%20Transplant.%202015%3B21%3A67%E2%80%9373."
+            }
+          ]
+        },
+        {
+          "id": 5200071,
+          "page": 487,
+          "en": "Zhang Z, Wang C, Peters SG, et al. Epidemiology, risk factors, and outcomes of diffuse alveolar hemorrhage after hematopoietic stem cell transplantation. Chest. 2021;159:2325–33.",
+          "zh": "Zhang Z, Wang C, Peters SG, et al. Epidemiology, risk factors, and outcomes of diffuse alveolar hemorrhage after hematopoietic stem cell transplantation. Chest. 2021;159:2325–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zhang%20Z%2C%20Wang%20C%2C%20Peters%20SG%2C%20et%20al.%20Epidemiology%2C%20risk%20factors%2C%20and%20outcomes%20of%20diffuse%20alveolar%20hemorrhage%20after%20hematopoietic%20stem%20cell%20transplantation.%20Chest.%202021%3B159%3A2325%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zhang%20Z%2C%20Wang%20C%2C%20Peters%20SG%2C%20et%20al.%20Epidemiology%2C%20risk%20factors%2C%20and%20outcomes%20of%20diffuse%20alveolar%20hemorrhage%20after%20hematopoietic%20stem%20cell%20transplantation.%20Chest.%202021%3B159%3A2325%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 5200072,
+          "page": 487,
+          "en": "Zinter MS, Dvorak CC, Mayday MY, et al. Pulmonary metagenomic sequencing suggests missed infections in immunocompromised children. Clin Infect Dis. 2019;68:1847–55.",
+          "zh": "Zinter MS, Dvorak CC, Mayday MY, et al. Pulmonary metagenomic sequencing suggests missed infections in immunocompromised children. Clin Infect Dis. 2019;68:1847–55.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zinter%20MS%2C%20Dvorak%20CC%2C%20Mayday%20MY%2C%20et%20al.%20Pulmonary%20metagenomic%20sequencing%20suggests%20missed%20infections%20in%20immunocompromised%20children.%20Clin%20Infect%20Dis.%202019%3B68%3A1847%E2%80%9355."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zinter%20MS%2C%20Dvorak%20CC%2C%20Mayday%20MY%2C%20et%20al.%20Pulmonary%20metagenomic%20sequencing%20suggests%20missed%20infections%20in%20immunocompromised%20children.%20Clin%20Infect%20Dis.%202019%3B68%3A1847%E2%80%9355."
+            }
+          ]
+        },
+        {
+          "id": 5200073,
+          "page": 487,
+          "en": "Zinter MS, Lindemans C, Versluys B, et al. The pulmonary metatranscriptome prior to pediatric hematopoietic cell transplantation identifies post-HCT lung injury. Blood. 2021;137:1679–89.",
+          "zh": "Zinter MS, Lindemans C, Versluys B, et al. The pulmonary metatranscriptome prior to pediatric hematopoietic cell transplantation identifies post-HCT lung injury. Blood. 2021;137:1679–89.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Zinter%20MS%2C%20Lindemans%20C%2C%20Versluys%20B%2C%20et%20al.%20The%20pulmonary%20metatranscriptome%20prior%20to%20pediatric%20hematopoietic%20cell%20transplantation%20identifies%20post-HCT%20lung%20injury.%20Blood.%202021%3B137%3A1679%E2%80%9389."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Zinter%20MS%2C%20Lindemans%20C%2C%20Versluys%20B%2C%20et%20al.%20The%20pulmonary%20metatranscriptome%20prior%20to%20pediatric%20hematopoietic%20cell%20transplantation%20identifies%20post-HCT%20lung%20injury.%20Blood.%202021%3B137%3A1679%E2%80%9389."
+            }
+          ]
+        },
+        {
+          "id": 5200074,
+          "page": 487,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依據 Creative Commons 姓名標示 4.0 國際授權條款（http://creativecommons.org/licenses/by/4.0/）授權，允許以任何媒介或格式進行使用、分享、改作、散佈及重製，惟您必須給予原作者及來源適當的致謝、提供指向 Creative Commons 授權條款的連結，並標明是否曾進行修改。\n除非在素材的致謝行中另有說明，否則本章中的圖像或其他第三方素材均包含在本章的 Creative Commons 授權條款中。若素材未包含在本章的 Creative Commons 授權條款內，且您的預期用途未獲法規允許或超出允許的使用範圍，您將需要直接向版權持有人取得授權許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
