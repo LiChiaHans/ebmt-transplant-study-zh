@@ -1,0 +1,1239 @@
+{
+  "id": 56,
+  "title": "Endocrine Disorders, Fertility, and Sexual Health",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 74,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 506,
+      "blocks": [
+        {
+          "id": 5600001,
+          "page": 506,
+          "en": "56 Endocrine Disorders, Fertility, and Sexual Health\nNina Salooja, Alicia Rovó, and Jean-Hugues Dalle",
+          "zh": "56 內分泌異常、生育能力與性健康（Endocrine Disorders, Fertility, and Sexual Health） — Nina Salooja、Alicia Rovó、Jean-Hugues Dalle",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_56"
+            }
+          ]
+        },
+        {
+          "id": 5600002,
+          "page": 506,
+          "en": "56.1 Endocrine Function\nEndocrine dysfunction is frequent in long-term survivors after HCT, particularly in children with a global rate of 58.7% with at least one endocrine abnormality (Güemes et al. 2022). Underlying disease, pretransplant therapy, age at HCT, type of conditioning, total body irradiation, development of chronic GVHD, and its treatment can all contribute to the risk of endocrine dysfunction. Consideration of pretransplant risk factors and their interaction with HCT-related exposure should be considered to assess the risk of endocrine dysfunction. Since many long-term complications may not manifest for years or even decades after HCT, survivors need ongoing, lifelong monitoring (Bhatia et al. 2017). Systematic follow-up is important to identify and treat endocrine defects before clinical impact, and this is particularly important in children where growth and puberty are at risk.",
+          "zh": "56.1 內分泌功能\n內分泌功能障礙在造血細胞移植（HCT）後的長期存活者中相當常見，特別是在兒童族群中，整體而言有高達 58.7% 的兒童存活者帶有至少一項內分泌異常（Güemes et al. 2022）。原發疾病、移植前治療、接受 HCT 時的年齡、調理方案類型、全身放射線照射（TBI）、慢性移植物抗宿主疾病（cGVHD）的發生及其治療，全都是促成內分泌功能障礙風險的因素。在評估內分泌功能障礙的風險時，應將移植前危險因子及其與 HCT 相關暴露之間的交互作用一併納入考量。由於許多長期併發症可能在 HCT 後數年甚至數十年才顯現出來，存活者需要持續且終身的監測（Bhatia et al. 2017）。系統性的追蹤對於在造成臨床衝擊前及早辨識並治療內分泌缺損至關重要，這在生長發育與青春期面臨風險的兒童中尤其重要。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600003,
+          "page": 506,
+          "en": "56.1.1 Thyroid Dysfunction\n56.1.1.1 Background\nThyroid dysfunction is a well-recognized late complication after HCT. The most common abnormality of thyroid function after HCT is primary compensated hypothyroidism. Approximately one in four patients develops hypothyroidism after allogeneic HCT, with a greater incidence in females (Felicetti et al. 2023). This may not require treatment and commonly resolves. Overt hypothyroidism may be primary or less commonly central. Other thyroid disorders include autoimmune thyroid disease (thyroiditis, Graves’ disease) and thyroid cancers (carcinomas or benign adenomas). In a single-center study of 791 patients followed up for 38 years, new cases of thyroid dysfunction continued for 28 years after HCT highlighting the need for indefinite follow-up (Sanders et al. 2009).\nRisk factors for hypothyroidism post-HCT include the use of TBI with single dose being associated with a fivefold to sixfold higher risk than fractionated TBI. BU-based regimens are more likely to cause thyroid problems than those containing CY only, and patients with malignant disease (e.g., Hodgkin lymphoma) are more likely to get thyroid dysfunction than patients with non-malignant diseases (e.g., aplastic anemia). The age of the patient is also important with younger patients at higher risk (Cohen et al. 2007). In adults, recent data show that advanced age at transplantation is associated with higher risk for hypothyroidism (Ataca Atilla et al. 2020). Pre-transplant TSH levels may predict the onset of post-HCT hypothyroidism (Felicetti et al. 2023). Thyroid dysfunction is more likely to occur in patients receiving prolonged immunosuppression for chronic GVHD (Savani et al. 2009). Furthermore, the risk of developing hypothyroidism is higher in patients treated with multiple allo-HCTs who have been transplanted for acute leukemia (Medinger et al. 2017). In relation to thyroid cancer, a retrospective study which included data on >68,000 patients showed that the relative risk (RR) of thyroid cancer was approximately threefold higher following HCT than in the general population. The RR was >20 if transplanted before the age of 10 years and close to 5 if transplanted between age 11 and 20 years. Female gender and GVHD were additional risk factors (Cohen et al. 2007).",
+          "zh": "56.1.1 甲狀腺功能障礙\n56.1.1.1 背景\n甲狀腺功能障礙是 HCT 後廣為人知的晚期併發症。HCT 後最常見的甲狀腺功能異常是原發性代償性（亞臨床）甲狀腺功能低下（primary compensated hypothyroidism）。在異體 HCT 後，約有四分之一的患者會發生甲狀腺功能低下，且女性的發生率較高（Felicetti et al. 2023）。亞臨床低下可能不需要立即治療，且常會自行緩解。顯性甲狀腺功能低下（overt hypothyroidism）則可能為原發性，較少數為中樞性。其他甲狀腺疾病包括自體免疫甲狀腺疾病（如甲狀腺炎、葛瑞夫茲氏病〔Graves’ disease〕）以及甲狀腺腫瘤（甲狀腺癌或良性腺瘤）。在一項針對 791 名患者追蹤長達 38 年的單中心研究中，HCT 後長達 28 年仍持續有新發的甲狀腺功能障礙個案出現，突顯出無限期終身追蹤的必要性（Sanders et al. 2009）。\nHCT 後發生甲狀腺功能低下的危險因子包括使用 TBI，其中單次劑量（single-dose）TBI 的風險比分次（fractionated）TBI 高出 5 至 6 倍。以 busulfan（BU）為基礎的方案比僅含 cyclophosphamide（CY）的方案更容易引起甲狀腺問題；而罹患惡性疾病（例如典型何杰金氏淋巴瘤）的患者也比非惡性疾病（例如再生不良性貧血）患者更容易出現甲狀腺功能障礙。患者的年齡亦相當重要，在兒童族群中越年幼的患者風險越高（Cohen et al. 2007）；而在成人族群中，近期數據則顯示移植時年齡較高與較高的甲狀腺功能低下風險相關（Ataca Atilla et al. 2020）。移植前的促甲狀腺激素（TSH）水平可預測 HCT 後甲狀腺功能低下的發生（Felicetti et al. 2023）。因慢性 GVHD 而接受長期免疫抑制治療的患者，更容易發生甲狀腺功能障礙（Savani et al. 2009）。此外，因急性白血病接受過多次異體 HCT 的患者，發生甲狀腺功能低下的風險也較高（Medinger et al. 2017）。至於甲狀腺癌，一項涵蓋超過 68,000 名患者數據的回溯性研究顯示，HCT 後罹患甲狀腺癌的相對風險（RR）約為一般人口的 3 倍；若在 10 歲前接受移植，其 RR 高達 >20，若在 11 至 20 歲之間接受移植，RR 則接近 5。女性與曾發生慢性 GVHD 是額外的危險因子（Cohen et al. 2007）。",
+          "review": "ai-draft",
+          "endPage": 507
+        },
+        {
+          "id": 5600004,
+          "page": 506,
+          "en": "N. Salooja (*)\nCentre for Haematology, Imperial College, London, UK\ne-mail: nina.salooja@imperial.ac.uk\nA. Rovó\nDepartment of Hematology and Central Hematology Laboratory, Inselspital, Bern University Hospital, Bern, Switzerland\ne-mail: Alicia.Rovo@insel.ch\nJ.-H. Dalle\nDepartment of Pediatric Hematology-Immunology, Hospital Robert-Debré, GHU APHP Nord-Université Paris Cité, Paris, France\ne-mail: jean-hugues.dalle@aphp.fr\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_56",
+          "zh": "作者單位與聯絡資訊：\nN. Salooja（通訊作者）：英國倫敦帝國理工學院（Imperial College）血液學中心；電子郵件：nina.salooja@imperial.ac.uk。\nA. Rovó：瑞士伯恩大學醫院（Inselspital）血液科暨中央血液實驗室；電子郵件：Alicia.Rovo@insel.ch。\nJ.-H. Dalle：法國巴黎西岱大學 AP-HP 北區大學醫院集團 Robert-Debré 醫院小兒血液免疫科；電子郵件：jean-hugues.dalle@aphp.fr。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_56。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 507,
+      "blocks": [
+        {
+          "id": 5600005,
+          "page": 507,
+          "en": "56.1.1.2 Prevention/Management\nContinuous and long-term monitoring of thyroid function after HCT is essential for early diagnosis and to provide timely and appropriate treatment. Patients should have annual laboratory assessment with thyroid-stimulating hormone (TSH) and free thyroxine (FT4) with more frequent testing if there is clinical suspicion of thyroid dysfunction. Annual clinical examination should include palpation of the thyroid gland, and there should be a low threshold for arranging a thyroid ultrasound (Bhatia et al. 2017).",
+          "zh": "56.1.1.2 預防與處置管理\nHCT 後持續且長期地監測甲狀腺功能，對於早期診斷及提供及時適當的治療至關重要。患者應每年接受一次促甲狀腺激素（TSH）與游離甲狀腺素（FT4）的實驗室檢驗；若臨床上懷疑有甲狀腺功能異常，則應提高檢測頻率。每年的理學檢查應包含甲狀腺觸診，且應放寬安排甲狀腺超音波檢查的門檻（Bhatia et al. 2017）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600006,
+          "page": 507,
+          "en": "56.1.2 Hypoadrenalism\n56.1.2.1 Background\nThe main risk factor is the use of glucocorticoids which lead to central corticotrophin deficiency. Patients are at risk if they have received supraphysiological doses for 1 month or more, and topical, inhaled, intranasal, oral, and injectable forms all pose a risk (Gurnell et al. 2021). TBI can also cause corticotrophin deficiency as can drugs. Diagnosis can be difficult as many patients will have few if any symptoms or they may present with nonspecific symptoms such as fatigue, weakness, nausea, weight loss, and hypotension. Some symptoms may mimic GVHD. Identifying patients who are at higher risk is helpful in guiding the diagnosis. Diagnosis requires paired morning cortisol and ACTH levels. If the results are inconclusive, then additional investigations should be arranged with an endocrinologist.\n56.1.2.2 Prevention/Management\nWhen hypoadrenalism is confirmed, hydrocortisone should be given with additional doses to cover stresses such as illness, infection, or surgery. Subsequently, regular evaluation is required as it may be possible to reduce/stop medication (Cornillon et al. 2013).",
+          "zh": "56.1.2 腎上腺功能低下（Hypoadrenalism）\n56.1.2.1 背景\n最主要的危險因子是使用糖皮質類固醇（glucocorticoids），進而導致中樞性促腎上腺皮質素（ACTH）缺乏。患者若接受超生理劑量的類固醇達 1 個月或更長時間即處於風險之中，且無論是局部外用、吸入型、鼻噴劑、口服或注射劑型皆會帶來風險（Gurnell et al. 2021）。TBI 與其他特定藥物同樣可能引起中樞性促腎上腺皮質素缺乏。此症的診斷可能相當困難，因為許多患者幾乎沒有症狀，或僅表現出疲倦、虛弱、噁心、體重減輕及低血壓等非特異性症狀，部分症狀甚至會模仿 GVHD。辨識出高風險患者有助於引導診斷。確診需要成對檢測清晨皮質醇（morning cortisol）與 ACTH 濃度；若結果無法定論，則應會診內分泌科醫師安排進一步的刺激試驗檢查。\n56.1.2.2 預防與處置管理\n一旦確認有腎上腺功能低下，應給予生理補充劑量的 hydrocortisone，並在面臨生理壓力（如生病、感染或手術）時給予額外的壓力劑量（stress doses）。隨後仍需定期重新評估，因為隨著下視丘－腦下垂體－腎上腺軸功能恢復，可能有機會逐步減量並停藥（Cornillon et al. 2013）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600007,
+          "page": 507,
+          "en": "56.1.3 Growth\n56.1.3.1 Background\nShort stature is multifactorial after transplant. It is a recognized side effect of radiation to the hypothalamic-pituitary area given in childhood due to a reduction in growth hormone (GH) secretion. Radiation can also induce bone lesions. Pretransplant cranial radiation (e.g., patients with ALL) is also relevant, and single-dose TBI rather than fractionated radiation increases the risk further.\nAdditional contributory factors to short stature in these patients include underlying disease (e.g., Fanconi anemia), other hormone deficiencies (including thyroid and gonadal hormones), nutritional deficits, illness, steroids, and GVHD. Male sex and young age at time of transplant are additional risk factors.\n56.1.3.2 Prevention/Management\nChildren’s growth velocity should be closely monitored with height and weight documented at each clinic visit. A possible increased risk of secondary malignancies has been described in patients receiving growth hormone (GH) replacement therapy after previous neoplasia; this has raised concerns regarding the use of GH in the absence of sufficient long-term follow-up data. As a consequence of this, there are currently no clear guidelines for the use of GH in these patients. A pediatric endocrinologist should be involved if growth rate is abnormal based on bone age and pubertal stage (Chow et al. 2016; Lawitschka et al. 2019), and the use of GH therapy should be considered for children whose height standard deviation score is less than 2.",
+          "zh": "56.1.3 生長發育（Growth）\n56.1.3.1 背景\n移植後的身材矮小（short stature）是多因素共同造成的。在兒童時期對下視丘－腦下垂體區域進行放射線照射，會因生長激素（GH）分泌減少而導致身材矮小，這是公認的副作用；此外，放射線也會直接損傷骨骼生長板。移植前的顱部放射線照射（例如 ALL 患者）同樣具有關聯性，且單次劑量 TBI 相較於分次放射線照射會使風險進一步升高。\n造成這些患者身材矮小的其他促成因素包括原發疾病（例如范可尼貧血〔Fanconi anemia〕）、其他荷爾蒙缺乏（包括甲狀腺與性腺荷爾蒙）、營養不良、慢性疾病、類固醇使用以及 GVHD。男性與接受移植時年齡較幼小也是額外的危險因子。\n56.1.3.2 預防與處置管理\n應密切監測兒童的生長速率（growth velocity），在每次門診時詳實記錄身高與體重。文獻曾描述在曾罹患腫瘤的患者中使用生長激素（GH）補充療法可能與次發性惡性腫瘤風險微幅增加有關；在缺乏充足長期追蹤數據的情況下，這引起了對使用 GH 的疑慮。因此，目前針對在此類患者中使用 GH 尚無統一明確的硬性指引。若根據骨齡與青春期分期評估發現生長速率異常，應照會小兒內分泌科醫師共同照護（Chow et al. 2016; Lawitschka et al. 2019），且對於身高標準差評分（height SDS）低於 −2（原文寫作 less than 2）的兒童，仍應考慮評估生長激素治療。",
+          "review": "ai-draft",
+          "endPage": 508
+        }
+      ]
+    },
+    {
+      "page": 508,
+      "blocks": [
+        {
+          "id": 5600008,
+          "page": 508,
+          "en": "56.2 Gonadal Dysfunction and Infertility\n56.2.1 Background\nNormal reproduction in both sexes requires germ cells and an intact hypothalamic-pituitary endocrine axis. In female patients, the uterus must be both receptive to implantation and capable of undergoing growth during pregnancy. Chemotherapy and radiation can lead to damage in all of these areas and compromise the likelihood of successful parenthood after HCT. Before starting any chemoradiotherapy regimen, the potential effects on the future fertility of the patient should be considered and discussed with the patient together with a discussion of fertility-preserving strategies and depending on the country may require a dedicated interview with a reproductive medicine specialized physician.",
+          "zh": "56.2 性腺功能障礙與不孕症（Gonadal Dysfunction and Infertility）\n56.2.1 背景\n男女兩性的正常生殖功能皆需要健康的生殖細胞以及完整的下視丘－腦下垂體內分泌軸。在女性患者中，子宮還必須具備接受胚胎著床的能力，並能在懷孕期間順利增大成長。化學治療與放射線治療可能會對上述所有環節造成損傷，進而損及 HCT 後成功生育的機會。在開始任何放化療方案之前，都應考量其對患者未來生育能力的潛在影響，並與患者充分討論生育保存策略（fertility-preserving strategies）；依各國規範不同，應盡可能安排轉介至生殖醫學專科醫師進行專門諮詢。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600009,
+          "page": 508,
+          "en": "56.2.2 Gonadal Dysfunction in Women Following Chemoradiotherapy\nWomen are born with a finite number of eggs which can be fertilized for pregnancy or depleted over time as a result of physiological apoptosis or else menstruation. Chemoradiotherapy depletes further the number of follicles by (1) activating apoptotic pathways, (2) causing fibrosis of stromal blood vessels, and (3) activating resting (antral) follicles, leading to a “burnout” effect (Meirow and Nugent 2001; Kalich-Philosoph et al. 2013). The degree of ovarian damage is related to the dose and type of chemotherapeutic agent used and baseline ovarian reserve which in turn is dependent on age and previous treatment. Manifestations of premature ovarian failure range from premature menopause to varying degrees of infertility. Alkylating agents have the highest age-adjusted odds ratio of ovarian failure (Meirow 2000). Even though some pregnancies and live births have been reported after either chemo-based or TBI-based myelo-ablative conditioning regimens, the risk of infertility after such MAC is very high. A combination of BU and CY is particularly gonadotoxic to females, but younger patients who receive CY only may have some gonadal function preserved, and pregnancies following CY are well described (Salooja et al. 2001).\nBeing transplanted in the peri-pubertal period with full-dose BU does represent a very high risk of infertility. Considering serum gonadotrophin level as a marker of ovarian failure, TREO seems to be less toxic than BU. However, we do not yet have evidence that pregnancy rates are higher in young female patients receiving TREO compared to those receiving BU (Faraci et al. 2019). TBI is also potentially sterilizing. The estimated median lethal dose of radiation for the human oocyte is less than 2 Gy (Wallace et al. 2003a). The effective sterilizing dose (ESD) decreases with increasing age, and while estimated as 18.4 Gy at 10 years of age, the ESD is approximately 14.3 Gy at 30 years of age and only 6 Gy in women over age 40 (Wallace et al. 2003b).",
+          "zh": "56.2.2 女性接受放化療後的性腺功能障礙\n女性出生時所帶有的卵子數量是有限且固定的，這些卵子可受精懷孕，或隨著時間因生理性細胞凋亡或月經週期而逐漸耗竭。放化療會透過以下三種機制進一步加速濾泡耗竭：（1）活化細胞凋亡路徑；（2）造成基質血管纖維化；以及（3）過度活化處於休止期的濾泡，導致所謂的「燃盡效應」（burnout effect）（Meirow and Nugent 2001; Kalich-Philosoph et al. 2013）。卵巢受損的程度與所使用的化療藥物種類與劑量，以及患者原有的卵巢儲備功能（取決於年齡與既往治療史）直接相關。早發性卵巢衰竭（premature ovarian failure）的臨床表現從提早停經到不同程度的不孕皆有。在各類化療藥中，烷化劑（alkylating agents）具有最高的年齡校正後卵巢衰竭勝算比（Meirow 2000）。儘管在以化療為基礎或以 TBI 為基礎的骨髓清除性調理（MAC）後仍有一些自然懷孕與活產的案例報導，但在接受此類 MAC 後發生不孕的風險極高。BU 與 CY 的組合對女性具有特別強烈的性腺毒性；但僅接受單一 CY 調理的年輕女性患者（如 SAA）則可能保留部分性腺功能，且在 CY 調理後成功懷孕的案例已有充分記錄（Salooja et al. 2001）。\n在青春期前後使用全劑量 BU 進行移植，確實代表著極高的不孕風險。若以血清促性腺激素（FSH/LH）水平作為卵巢衰竭的指標，treosulfan（TREO）的性腺毒性似乎低於 BU；然而，目前尚無確切證據顯示接受 TREO 的年輕女性患者其後續實際懷孕率高於接受 BU 者（Faraci et al. 2019）。TBI 同樣具有高度絕育潛力：人類卵母細胞對放射線的估計半數致死劑量（LD₅₀）低於 2 Gy（Wallace et al. 2003a）。有效絕育放射劑量（effective sterilizing dose, ESD）會隨年齡增長而下降：在 10 歲時估計為 18.4 Gy，在 30 歲時約為 14.3 Gy，而在超過 40 歲的女性則僅需 6 Gy（Wallace et al. 2003b）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600010,
+          "page": 508,
+          "en": "56.2.3 Gonadal Dysfunction in Men Following Chemoradiotherapy\nIn male patients, spermatogenesis is frequently impaired following chemoradiotherapy, but testosterone levels generally remain normal because of the relative resistance of testosterone producing Leydig cells to chemoradiotherapy. As a result, secondary sexual characteristics remain normal for male patients, and typically testosterone levels and luteinizing hormone (LH) levels are in the normal range. However, testosterone levels have to be monitored on an annual or biannual basis since some male patients do experience hormonal deficiency, and this is associated with a reduction in quality of life. Spermatogonia are very sensitive to irradiation, and it takes approximately 2 years for sperm counts to recover to pre-irradiation levels after a single dose of 1 Gy (Meistrich and van Beek 1990). With higher doses, azoospermia persists longer or may be permanent. Following HCT conditioned with myeloablative doses of TBI, the majority of men will be azoospermic. Chemotherapy-only regimens are also associated with azoospermia but to a lesser degree (Rovo et al. 2013). Following BU, for example, approximately 50% will be azoospermic, while after CY alone recovery of spermatogenesis is more frequent (Mathiesen et al. 2020, 2021, 2022).",
+          "zh": "56.2.3 男性接受放化療後的性腺功能障礙\n在男性患者中，精子生成功能（spermatogenesis）在放化療後經常受損；但由於負責分泌睪固酮的萊氏細胞（Leydig cells）對放化療具有相對較高的抵抗力，因此睪固酮濃度通常能維持正常。結果，男性患者的第二性徵大多保持正常，且睪固酮與黃體成長激素（LH）濃度通常落在正常範圍內（但負責支持精子生成的 Sertoli 細胞受損會使 FSH 升高）。儘管如此，由於部分男性患者仍會發生雄性素缺乏並導致生活品質下降，仍建議每年或每半年定期監測一次睪固酮水平。精原細胞（spermatogonia）對放射線極為敏感，即使僅接受單次 1 Gy 的照射，精子數量也需要約 2 年的時間才能恢復至照射前的水準（Meistrich and van Beek 1990）；若照射劑量更高，無精症（azoospermia）將會持續更久或成為永久性。在接受含骨髓清除劑量 TBI 調理的 HCT 後，絕大多數男性會出現無精症。純化療調理方案同樣與無精症相關，但程度較 TBI 輕微（Rovo et al. 2013）：例如在接受 BU 調理後，約有 50% 的男性會出現無精症，而在僅接受單一 CY 調理後，精子生成功能的恢復則常見得多（Mathiesen et al. 2020, 2021, 2022）。",
+          "review": "ai-draft",
+          "endPage": 509
+        }
+      ]
+    },
+    {
+      "page": 509,
+      "blocks": [
+        {
+          "id": 5600011,
+          "page": 509,
+          "en": "56.2.4 Uterine Dysfunction in Women After Radiation\nUterine development commences at puberty and is associated with an increase in both size and vascularity (Laursen et al. 1996). Exposure to radiation leads to reduced vascularity, fibrosis, and hormone-dependent endometrial insufficiency, which subsequently lead to adverse reproductive outcomes. Increased rates of infertility, miscarriage, preterm labor, intrauterine growth retardation, and low newborn birth weight have been described (Reulen et al. 2009), particularly if conception occurred within a year of radiotherapy (Fenig et al. 2001). Recently, uterine damage after BU has been reported (Courbiere et al. 2023).",
+          "zh": "56.2.4 女性接受放射線照射後的子宮功能障礙\n子宮的發育始於青春期，並伴隨著體積增大與血管分布增加（Laursen et al. 1996）。暴露於放射線會導致子宮血管分布減少、肌肉層纖維化以及荷爾蒙依賴性子宮內膜功能不全，進而引起不良的生殖與妊娠結果。文獻已描述照射後女性的不孕、流產、早產、子宮內生長遲滯（IUGR）以及新生兒低出生體重的發生率皆會上升（Reulen et al. 2009），特別是在放射治療後 1 年內即受孕者（Fenig et al. 2001）。近期研究亦報導，在兒童時期接受含 BU 調理方案移植後，成年後的子宮體積同樣會顯著減小（Courbiere et al. 2023）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600012,
+          "page": 509,
+          "en": "56.2.5 Prevention/Management of Gonadal Failure\n56.2.5.1 Fertility Preservation in Males\nSperm cryopreservation is an established fertility preservation option for postpubertal boys and men. Sperm can be used either for artificial insemination or, if the quantity and/or quality of sperm are insufficient, for intracytoplasmic sperm injections for in vitro fertilization. There is a chance of sperm recovery with time particularly if the patient was under the age of 25 years at transplant, did not have TBI, and has no evidence of chronic GVHD (Rovo et al. 2013). These patients require reassessment at intervals to ascertain their fertility potential. Prior to transplant some patients who are unable to ejaculate will require interventions such as penile vibratory stimulation or else electroejaculation. If these fail, testicular sperm extraction (TESE) can be used to obtain samples for cryopreservation. (Halpern et al. 2020).\nTesticular tissue cryopreservation in prepubertal male patient represents a feasible but experimental technique since hitherto there has been no demonstration of obtaining vital sperm from the testis sample in vitro or in vivo in humans. Some animal models including nonhuman primates are encouraging (Kanbar et al. 2022).",
+          "zh": "56.2.5 性腺衰竭的預防與處置管理\n56.2.5.1 男性的生育保存技術\n精子冷凍保存（sperm cryopreservation）是青春期後青少年與成年男性已確立的標準生育保存選項。冷凍保存的精子未來可用於人工授精（IUI），或者在精子數量及／或品質不足時，用於試管嬰兒（IVF）的單一精蟲顯微注射（ICSI）。隨著移植後時間推移，部分患者的精子生成功能有機會自然恢復，特別是在接受移植時年齡小於 25 歲、未曾接受 TBI 且無慢性 GVHD 的患者（Rovo et al. 2013）；這類患者需每隔一段時間重新評估精液分析以確認其生育潛力。在移植前，部分無法自行射精的患者需要藉由陰莖震動刺激或電刺激射精（electroejaculation）等介入措施協助取精；若上述方法失敗，則可使用睪丸切片取精術（TESE）取得檢體進行冷凍保存（Halpern et al. 2020）。\n針對青春期前男童進行睪丸組織冷凍保存（testicular tissue cryopreservation）是一項可行但目前仍屬實驗性質的技術，因為迄今在人類身上尚未證實能從冷凍解凍後的未成熟睪丸檢體中於體外或體內培育出具活力的成熟精子，不過在包含非人靈長類在內的動物模型研究結果已展現出令人鼓舞的前景（Kanbar et al. 2022）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600013,
+          "page": 509,
+          "en": "56.2.5.2 Fertility Preservation Techniques in Females\nGonadotropin-Releasing Hormone Agonists (GnRHa)\nDespite success in animal models, the value of GnRHa to preserve ovarian function during chemotherapy in human subjects is uncertain. A Cochrane database review concluded that the use of GnRH agonists should be considered for ovarian protection in women of reproductive age who are receiving chemotherapy (Chen et al. 2011).\nEmbryo and Oocyte Cryopreservation\nEmbryo and oocyte cryopreservation are preferred methods of fertility preservation in women who require sterilizing treatment. The use of donor embryos/oocytes can also be discussed with the patient because they offer the possibility of pregnancy and parenthood albeit with a nongenetic child. Mature oocyte collection requires ovarian stimulation. These oocytes can then either be frozen or else fertilized in vitro before freezing. These options are not open to all patients however. Ovarian stimulation takes a minimum of 2 weeks, and this delay is prohibitive for many patients with hematological malignancies. The requirement for a partner or donor sperm for embryo cryopreservation is another potential drawback; for some patients, sperm is not available, and for others, the involvement of a partner/sperm donor limits future reproductive autonomy as consent from the sperm provider must be given not only at the time of cryopreservation but also at the time of reimplantation.",
+          "zh": "56.2.5.2 女性的生育保存技術\n促性腺激素釋放激素致效劑（GnRHa）：儘管在動物模型中獲得成功，在化療期間使用 GnRHa 以保存人類女性卵巢功能的確切生育價值仍存有不確定性（但亦常有助於減少血小板低下期間的月經出血）。一項考科藍（Cochrane）系統性文獻回顧的結論指出，對於正在接受化療的育齡女性，應考慮使用 GnRH 致效劑以提供卵巢保護（Chen et al. 2011）。\n胚胎與卵母細胞冷凍保存（Embryo and Oocyte Cryopreservation）：對於需要接受具絕育風險治療的青春期後女性而言，胚胎冷凍保存與成熟卵子冷凍保存是首選的生育保存方法。臨床上亦可與患者討論使用捐贈胚胎／捐贈卵子的選項，雖然孩子不具遺傳血緣，但仍能提供懷孕與為人父母的機會。採集成熟卵母細胞需要進行卵巢刺激排卵，取得的卵子可直接冷凍（凍卵），或先在體外受精形成胚胎後再冷凍（凍胚）。然而，並非所有患者都能適用這些選項：卵巢刺激至少需要約 2 週的時間，對於許多病情急迫的血液惡性疾病患者而言，無法承受這樣的治療延遲。此外，胚胎冷凍保存需要有伴侶或捐贈精子也是另一項潛在限制：部分患者無法取得精子，而對其他患者來說，納入伴侶的精子會限制女性未來的生殖自主權，因為不僅在冷凍保存當時需要精子提供者的同意，未來在解凍植入胚胎時也必須再次取得該名精子提供者的同意。",
+          "review": "ai-draft",
+          "endPage": 510
+        }
+      ]
+    },
+    {
+      "page": 510,
+      "blocks": [
+        {
+          "id": 5600014,
+          "page": 510,
+          "en": "Ovarian Tissue Cryopreservation (OTC)\nOTC is no longer considered experimental by the American Society for Reproductive Medicine Practice Committee (2019), but it remains unavailable to many patients. It is the only option open, however, to prepubertal patients or to women who cannot tolerate a significant delay in treatment due to disease severity or progression. Cortical fragments containing primordial follicles with immature oocytes can be obtained by laparoscopy and cryopreserved. Ideally, ovarian tissue should be obtained before the patient has been exposed to chemotherapy, but this is not always possible and is not an absolute requirement.\nA major concern reimplanting cryopreserved ovarian tissue is the possibility of reseeding the tumor. The risk depends on the individual disease. Assessment by PCR of ovarian tissue taken from patients with leukemia (CML, AML, ALL), tested positive for disease in a number of cases and assessment of tissue from mice with severe combined immunodeficiency confirmed the leukemic potential of the tissue (Rosendahl et al. 2013). As a result, reintroduction of ovarian tissue from patients with leukemia would not currently be recommended. In the future, maturation in vitro of follicles from cryopreserved tissue may enable production of a viable disease-free alternative. In patients with lymphoma, histologically negative samples of ovarian tissue have been transplanted without initiating relapse, but in some cases the follow-up time was short.",
+          "zh": "卵巢組織冷凍保存（Ovarian Tissue Cryopreservation, OTC）：美國生殖醫學會（ASRM）實務委員會（2019）已不再將 OTC 視為實驗性技術，但許多患者仍不易取得此項服務。然而，對於青春期前女童，或是因疾病嚴重度／惡化而無法承受治療顯著延遲的成年女性而言，OTC 是唯一可行的生育保存選項。臨床上可透過腹腔鏡手術取得含有原始濾泡（內含未成熟卵母細胞）的卵巢皮質碎片並加以冷凍保存。理想情況下，應在患者暴露於化療之前取得卵巢組織，但在急性白血病等臨床實務中往往無法在化療前執行，因此「未曾接受過化療」並非絕對的先決條件（在誘導緩解後、移植高劑量調理前取樣仍可能有效）。\n未來將冷凍保存的卵巢組織自體回植（reimplanting）時，最主要的顧慮是重新植入殘存腫瘤細胞（reseeding the tumor）的風險，此風險高度取決於原發疾病的種類。研究顯示，取自白血病（CML、AML、ALL）患者的卵巢組織經 PCR 檢測，在許多案例中呈白血病標記陽性，且將這些組織移植至嚴重複合型免疫缺乏（SCID）小鼠體內的實驗也證實了該組織具有引發白血病復發的潛力（Rosendahl et al. 2013）。因此，目前不建議將採自白血病患者的冷凍卵巢組織直接回植體內。未來，從冷凍保存組織中將濾泡於體外培養成熟（in vitro maturation）的技術，或許能提供無腫瘤殘存風險的替代方案。至於在淋巴瘤患者中，經組織學確認無腫瘤侵犯的卵巢組織樣本在回植後並未引發復發，不過部分案例的追蹤時間仍較短。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600015,
+          "page": 510,
+          "en": "56.2.5.3 Children and Adolescents\nFertility preservation in children has been the subject of recent guidelines from the pediatric diseases working party of the EBMT (Dalle et al. 2017; Balduzzi et al. 2017). Extreme sensitivity is required, and parents have to be given complete information on the process, associated risks, and success rates. For prepubertal girls, OTC is currently the only potential fertility-sparing option. In peri-pubertal boys, it is sometimes possible to extract sperm using surgery/microdissection or electroejaculation under general anesthetic. In prepubertal males, the only option is testicular tissue cryopreservation; although work in animal models is encouraging, there have been no reports to date of reimplanted testicular tissue leading to human live births.",
+          "zh": "56.2.5.3 兒童與青少年的生育保存\nEBMT 兒科疾病工作小組（PDWP）近期的專門指引已針對兒童的生育保存進行了詳細規範（Dalle et al. 2017; Balduzzi et al. 2017）。處理此議題需要極高的同理心與敏感度，且必須向家長提供關於操作流程、相關風險與成功率的完整資訊。對於青春期前女童，卵巢組織冷凍保存（OTC）是目前唯一具潛力的生育保存選項。對於青春期前後的男孩，有時可在全身麻醉下利用手術／顯微取精或電刺激射精取得精子。而對於青春期前男童，唯一的選項是睪丸組織冷凍保存；儘管動物模型的研究結果令人鼓舞，但迄今尚無回植冷凍睪丸組織而成功促成人類活產的案例報導。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600016,
+          "page": 510,
+          "en": "56.2.6 Management of Pregnancy After HCT\nMost patients or their partners who conceive after HCT have uncomplicated pregnancies. Chemoradiotherapy can potentially affect a variety of maternal organs relevant to a successful pregnancy outcome, for example, renal, cardiac, and pulmonary toxicity. Patients at risk should have an expert medical review early in pregnancy and may require regular specialist monitoring throughout and review by an anesthetist prior to delivery. Patients who have had TBI or pelvic irradiation have an increased risk of premature and small birth weight babies and may be at increased risk of miscarriage. In the absence of TBI, miscarriage rates are typically comparable to the background population, and no significant increase in congenital malformations or genetic abnormalities has so far been described when conception has taken place long after completion of therapy (Meirow and Schiff 2005; Green et al. 2009). Animal experiments suggest that most cytotoxic drugs are mutagenic and teratogenic to oocytes exposed during the maturation phase. In humans, this phase lasts approximately 6 months (Meirow and Schiff 2005), so there is a theoretical advantage to delaying conception for 6 months after completing gonadotoxic treatments.",
+          "zh": "56.2.6 HCT 後懷孕的處置管理\n大多數在 HCT 後受孕的女性患者（或男性患者的伴侶）其懷孕過程皆平順無併發症。然而，放化療對母體多個與成功妊娠密切相關的器官（例如腎臟、心臟與肺臟毒性）可能造成潛在影響。具器官毒性風險的患者應在懷孕早期接受專科醫師的詳細評估，且在整個孕期中可能需要定期接受高危險妊娠專科監測，並在分娩前由麻醉科醫師先行評估。曾接受過 TBI 或骨盆腔放射線照射的女性患者，早產與低出生體重嬰兒的風險較高，且流產風險亦可能增加。若未曾接受 TBI，其流產率通常與一般背景人口相當；且當受孕發生在完成治療相當長一段時間之後，迄今並未發現新生兒先天畸形或遺傳異常有顯著增加的現象（Meirow and Schiff 2005; Green et al. 2009）。動物實驗顯示，大多數細胞毒性藥物對正處於生長成熟階段的卵母細胞具有致突變性與致畸胎性；在人類中，卵泡的這一成熟階段約歷時 6 個月（Meirow and Schiff 2005），因此在完成具性腺毒性的治療後，將受孕時間延後至少 6 個月以上具有理論上的安全優勢。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 511,
+      "blocks": [
+        {
+          "id": 5600017,
+          "page": 511,
+          "en": "56.3 Sexual Function\n56.3.1 Background\nSexual dysfunction is one of the most frequently reported complications after HCT. It has a significant impact on quality of life, and it is important to patients, ranking among their top unmet needs (Bevans et al. 2017; Schover et al. 2014). In a study including 1742 survivors of transplant with a mean follow-up of 11.9 years, 40% of women and 27% of men had not been sexually active in the previous year, while 64% of women and 32% of men who were sexually active reported low sexual function (Syrjala et al. 2021).\nComplications affect recipients of both allogeneic and autologous transplants and include decreased libido, dyspareunia ± vaginal dryness (females), and erectile and ejaculatory dysfunction (males) (Li et al. 2015). Allogeneic recipients have additional problems linked to acute or chronic GVHD (Wong et al. 2013). Sexuality is also affected, and this is multifactorial due to decreased self-confidence, stress, anxiety, and fear of recurrence, together with a change in body image (Yi and Syrjala 2009).\nA number of medical conditions can impact on sexual health after HCT, for example, genital changes, hormone changes, vascular disease, or other chronic illness. The sexual well-being of the survivor is also determined by their relationship with their partner who may experience a decrease in sexual desire and anxiety about initiating sexual activity with their survivor partner (Langer et al. 2007).",
+          "zh": "56.3 性功能（Sexual Function）\n56.3.1 背景\n性功能障礙是 HCT 後最常被患者通報的併發症之一。它對生活品質有重大影響，且為患者高度重視的議題，名列存活者最主要未被滿足之醫療照護需求（unmet needs）的前幾名（Bevans et al. 2017; Schover et al. 2014）。在一項納入 1,742 名移植存活者、平均追蹤達 11.9 年的研究中，有 40% 的女性與 27% 的男性在前一年內完全沒有性生活；而在有性生活的存活者中，有高達 64% 的女性與 32% 的男性通報性功能低落（Syrjala et al. 2021）。\n性功能併發症同時影響異體與自體移植的受者，表現包括性慾減退、性交疼痛（dyspareunia）合併或不合併陰道乾澀（女性），以及勃起與射精功能障礙（男性）（Li et al. 2015）。異體移植受者還會面臨與急性或慢性生殖器 GVHD 相關的額外問題（Wong et al. 2013）。整體的性健康（sexuality）亦受影響，且成因是多方面的，包括自信心下降、壓力、焦慮、對疾病復發的恐懼，以及身體意象（body image）的改變（Yi and Syrjala 2009）。\nHCT 後有多種內科狀況會影響性健康，例如生殖器結構改變、荷爾蒙變化、血管疾病或其他慢性病。此外，存活者的性福感也取決於其與伴侶的關係——伴侶本身同樣可能經歷性慾減退，以及對於主動與移植存活伴侶展開性行為感到焦慮或擔心傷害對方（Langer et al. 2007）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5600018,
+          "page": 511,
+          "en": "56.3.2 Prevention/Management\nIt is important to identify relevant issues before problems with sexuality and intimacy become entrenched. Furthermore, discussion with a health-care professional (HCP) may be associated with a reduction in the development of sexual problems (El-Jawahri et al. 2018; Humphreys et al. 2007). Current guidelines endorse the importance of discussion including both transplant follow-up guidelines (Majhail et al. 2012) and cancer survivorship guidelines from ASCO and NCCN (Carter et al. 2018; Denlinger et al. 2017). Transplant guidelines recommend regular discussion of sexual function at 6 months, 1 year, and annually thereafter while guidelines from NCCN and ASCO recommend that discussion is initiated during treatment planning. The patient experience, however, is that discussion happens infrequently (Gjaerde et al. 2023; Kim et al. 2020; Yoo et al. 2018), and this is mirrored by the perception of HCPs (Eeltink et al. 2018). Factors which have been proposed to facilitate discussion by HCP are (1) knowledge of sexual difficulties faced in this setting, (2) sufficient time for discussion, and (3) the use of a care plan to prompt discussion (Eeltink et al. 2018).\nThe following screening questions have been proposed (Syrjala et al. 2021):\n1. Do you have any concerns regarding your sexual function, sexual activity, sexual relationship, or sex life? Yes/No\n2. Are these concerns causing you distress, or would you like to discuss them? Yes/No.\nIf these two questions are affirmative, a more complete evaluation should be undertaken, and multimodal intervention is recommended (Syrjala et al. 2021). This approach is also endorsed by the American Society of Clinical Oncology (ASCO) and the National Comprehensive Cancer Network in the USA (NCCN) for adult patients diagnosed with cancer (Carter et al. 2018; Denlinger et al. 2017). In transplant recipients, medical problems should first be identified and treated. For example, hormone deficiencies should be addressed, and some male patients benefit from the prescription of erectile dysfunction medication. Women with vaginal dryness may benefit from lubricants or topical estrogens, and those with GVHD may benefit from topical steroids (Tirri et al. 2015). Vaginal dilators or a low-dose estradiol vaginal ring may be helpful if vaginal stenosis has occurred. Subsequently, individual and/or couple counseling should be provided as it is recognized that psychological factors can play a large part in sexual dysfunction after transplant both for the patient and for their partner. In transplant patients, a pilot study of multimodal intervention for patients with sexual dysfunction causing distress showed promising results leading to significant improvements in the following parameters: the number of patients who were sexually active, satisfaction with and interest in sex, erectile function, orgasm, and vaginal comfort (El-Jawahri et al. 2018).",
+          "zh": "56.3.2 預防與處置管理\n在性生活與親密關係的問題根深蒂固之前，及早辨識出相關困擾至關重要。再者，主動與醫療照護專業人員（HCP）討論性健康議題，與降低後續性功能問題的發生有關（El-Jawahri et al. 2018; Humphreys et al. 2007）。現行指引皆強調主動討論的重要性，包括移植長期追蹤指引（Majhail et al. 2012）以及來自美國臨床腫瘤學會（ASCO）與美國國家癌症資訊網（NCCN）的癌症存活者照護指引（Carter et al. 2018; Denlinger et al. 2017）。移植指引建議在移植後 6 個月、1 年以及之後每年定期討論性功能；而 NCCN 與 ASCO 指引更建議在規劃治療階段即開始討論。然而，患者的實際經驗卻是醫療人員極少主動提起此話題（Gjaerde et al. 2023; Kim et al. 2020; Yoo et al. 2018），這一點也與醫療專業人員自身的認知相吻合（Eeltink et al. 2018）。學界提出有助於促進醫療人員開口討論的三大要素為：（1）具備此情境下常見性功能障礙的專業知識；（2）有充足的門診討論時間；以及（3）使用標準化照護計畫表（care plan）來提醒啟動討論（Eeltink et al. 2018）。\n文獻建議在門診使用以下兩個簡短的篩檢問題（Syrjala et al. 2021）：\n1. 「您對於自己的性功能、性活動、性關係或性生活有任何疑慮或擔憂嗎？（是／否）」\n2. 「這些疑慮是否對您造成困擾，或者您希望進一步討論它們嗎？（是／否）」\n若這兩個問題的回答為肯定，即應進行更完整的評估，並建議採取多模式介入治療（multimodal intervention）（Syrjala et al. 2021）。此一做法同樣獲得 ASCO 與 NCCN 針對成年癌症患者的背書（Carter et al. 2018; Denlinger et al. 2017）。在移植受者中，應首先辨識並治療生理與內科問題：例如矯正荷爾蒙缺乏，部分男性患者可從開立勃起功能障礙藥物（如 PDE5 抑制劑）中獲益；有陰道乾澀的女性可受惠於潤滑劑或局部雌激素，而合併生殖器 GVHD 的女性則可受惠於局部強效類固醇或局部 calcineurin 抑制劑（Tirri et al. 2015）。若已發生陰道狹窄，使用陰道擴張器（vaginal dilators）或低劑量雌二醇陰道環會有所幫助（嚴重沾黏閉鎖時才需手術分離）。隨後，應提供個人及／或伴侶心理諮商，因為心理因素對移植後患者及其伴侶雙方的性功能障礙皆扮演重大角色。在一項針對因性功能障礙感到困擾之移植患者進行多模式介入的前導研究中，展現出極佳的成果，在有性生活的患者比例、對性生活的滿意度與興趣、勃起功能、高潮以及陰道舒適度等各項指標上皆帶來了顯著改善（El-Jawahri et al. 2018）。",
+          "review": "ai-draft",
+          "endPage": 512
+        }
+      ]
+    },
+    {
+      "page": 512,
+      "blocks": [
+        {
+          "id": 5600019,
+          "page": 512,
+          "en": "ASRM Practice Committee. Fertility preservation in patients undergoing gonadotoxic therapy or gonadectomy: a committee opinion. Fertil Steril. 2019;112:1022–33.",
+          "zh": "ASRM Practice Committee. Fertility preservation in patients undergoing gonadotoxic therapy or gonadectomy: a committee opinion. Fertil Steril. 2019;112:1022–33.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=ASRM%20Practice%20Committee.%20Fertility%20preservation%20in%20patients%20undergoing%20gonadotoxic%20therapy%20or%20gonadectomy%3A%20a%20committee%20opinion.%20Fertil%20Steril.%202019%3B112%3A1022%E2%80%9333."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=ASRM%20Practice%20Committee.%20Fertility%20preservation%20in%20patients%20undergoing%20gonadotoxic%20therapy%20or%20gonadectomy%3A%20a%20committee%20opinion.%20Fertil%20Steril.%202019%3B112%3A1022%E2%80%9333."
+            }
+          ]
+        },
+        {
+          "id": 5600020,
+          "page": 512,
+          "en": "Ataca Atilla P, Akkus E, Atilla E, et al. Thyroid dysfunctions in adult patients after allogeneic hematopoietic stem cell transplantation. Clin Transplant. 2020;34:e14049.",
+          "zh": "Ataca Atilla P, Akkus E, Atilla E, et al. Thyroid dysfunctions in adult patients after allogeneic hematopoietic stem cell transplantation. Clin Transplant. 2020;34:e14049.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Ataca%20Atilla%20P%2C%20Akkus%20E%2C%20Atilla%20E%2C%20et%20al.%20Thyroid%20dysfunctions%20in%20adult%20patients%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Clin%20Transplant.%202020%3B34%3Ae14049."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Ataca%20Atilla%20P%2C%20Akkus%20E%2C%20Atilla%20E%2C%20et%20al.%20Thyroid%20dysfunctions%20in%20adult%20patients%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation.%20Clin%20Transplant.%202020%3B34%3Ae14049."
+            }
+          ]
+        },
+        {
+          "id": 5600021,
+          "page": 512,
+          "en": "Balduzzi A, Dalle JH, Jahnukainen K, et al. Fertility preservation issues in pediatric hematopoietic stem cell transplantation: practical approaches from the consensus of the Pediatric Diseases Working Party of the EBMT and the International BFM Study Group. Bone Marrow Transplant. 2017;52:1406–15.",
+          "zh": "Balduzzi A, Dalle JH, Jahnukainen K, et al. Fertility preservation issues in pediatric hematopoietic stem cell transplantation: practical approaches from the consensus of the Pediatric Diseases Working Party of the EBMT and the International BFM Study Group. Bone Marrow Transplant. 2017;52:1406–15.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Balduzzi%20A%2C%20Dalle%20JH%2C%20Jahnukainen%20K%2C%20et%20al.%20Fertility%20preservation%20issues%20in%20pediatric%20hematopoietic%20stem%20cell%20transplantation%3A%20practical%20approaches%20from%20the%20consensus%20of%20the%20Pediatric%20Diseases%20Working%20Party%20of%20the%20EBMT%20and%20the%20International%20BFM%20Study%20Group.%20Bone%20Marrow%20Transplant.%202017%3B52%3A1406%E2%80%9315."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Balduzzi%20A%2C%20Dalle%20JH%2C%20Jahnukainen%20K%2C%20et%20al.%20Fertility%20preservation%20issues%20in%20pediatric%20hematopoietic%20stem%20cell%20transplantation%3A%20practical%20approaches%20from%20the%20consensus%20of%20the%20Pediatric%20Diseases%20Working%20Party%20of%20the%20EBMT%20and%20the%20International%20BFM%20Study%20Group.%20Bone%20Marrow%20Transplant.%202017%3B52%3A1406%E2%80%9315."
+            }
+          ]
+        },
+        {
+          "id": 5600022,
+          "page": 512,
+          "en": "Bevans M, El-Jawahri A, Tierney DK, et al. National Institutes of Health hematopoietic cell transplantation late effects initiative: the patient-centered outcomes working group report. Biol Blood Marrow Transplant. 2017;23:538–51.",
+          "zh": "Bevans M, El-Jawahri A, Tierney DK, et al. National Institutes of Health hematopoietic cell transplantation late effects initiative: the patient-centered outcomes working group report. Biol Blood Marrow Transplant. 2017;23:538–51.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bevans%20M%2C%20El-Jawahri%20A%2C%20Tierney%20DK%2C%20et%20al.%20National%20Institutes%20of%20Health%20hematopoietic%20cell%20transplantation%20late%20effects%20initiative%3A%20the%20patient-centered%20outcomes%20working%20group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A538%E2%80%9351."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bevans%20M%2C%20El-Jawahri%20A%2C%20Tierney%20DK%2C%20et%20al.%20National%20Institutes%20of%20Health%20hematopoietic%20cell%20transplantation%20late%20effects%20initiative%3A%20the%20patient-centered%20outcomes%20working%20group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202017%3B23%3A538%E2%80%9351."
+            }
+          ]
+        },
+        {
+          "id": 5600023,
+          "page": 512,
+          "en": "Bhatia S, Armenian SH, Landier W. How I monitor long-term and late effects after blood or marrow transplantation. Blood. 2017;130:1302–14.",
+          "zh": "Bhatia S, Armenian SH, Landier W. How I monitor long-term and late effects after blood or marrow transplantation. Blood. 2017;130:1302–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bhatia%20S%2C%20Armenian%20SH%2C%20Landier%20W.%20How%20I%20monitor%20long-term%20and%20late%20effects%20after%20blood%20or%20marrow%20transplantation.%20Blood.%202017%3B130%3A1302%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bhatia%20S%2C%20Armenian%20SH%2C%20Landier%20W.%20How%20I%20monitor%20long-term%20and%20late%20effects%20after%20blood%20or%20marrow%20transplantation.%20Blood.%202017%3B130%3A1302%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 5600024,
+          "page": 512,
+          "en": "Carter J, Lacchetti C, Andersen BL, et al. Interventions to address sexual problems in people with cancer: American Society of Clinical Oncology clinical practice guideline adaptation of Cancer Care Ontario guideline. J Clin Oncol. 2018;36:492–511.",
+          "zh": "Carter J, Lacchetti C, Andersen BL, et al. Interventions to address sexual problems in people with cancer: American Society of Clinical Oncology clinical practice guideline adaptation of Cancer Care Ontario guideline. J Clin Oncol. 2018;36:492–511.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Carter%20J%2C%20Lacchetti%20C%2C%20Andersen%20BL%2C%20et%20al.%20Interventions%20to%20address%20sexual%20problems%20in%20people%20with%20cancer%3A%20American%20Society%20of%20Clinical%20Oncology%20clinical%20practice%20guideline%20adaptation%20of%20Cancer%20Care%20Ontario%20guideline.%20J%20Clin%20Oncol.%202018%3B36%3A492%E2%80%93511."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Carter%20J%2C%20Lacchetti%20C%2C%20Andersen%20BL%2C%20et%20al.%20Interventions%20to%20address%20sexual%20problems%20in%20people%20with%20cancer%3A%20American%20Society%20of%20Clinical%20Oncology%20clinical%20practice%20guideline%20adaptation%20of%20Cancer%20Care%20Ontario%20guideline.%20J%20Clin%20Oncol.%202018%3B36%3A492%E2%80%93511."
+            }
+          ]
+        },
+        {
+          "id": 5600025,
+          "page": 512,
+          "en": "Chen H, Li J, Cui T, Hu L. Adjuvant gonadotropin-releasing hormone analogues for the prevention of chemotherapy induced premature ovarian failure in premenopausal women. Cochrane Database Syst Rev. 2011;11:CD008018.",
+          "zh": "Chen H, Li J, Cui T, Hu L. Adjuvant gonadotropin-releasing hormone analogues for the prevention of chemotherapy induced premature ovarian failure in premenopausal women. Cochrane Database Syst Rev. 2011;11:CD008018.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chen%20H%2C%20Li%20J%2C%20Cui%20T%2C%20Hu%20L.%20Adjuvant%20gonadotropin-releasing%20hormone%20analogues%20for%20the%20prevention%20of%20chemotherapy%20induced%20premature%20ovarian%20failure%20in%20premenopausal%20women.%20Cochrane%20Database%20Syst%20Rev.%202011%3B11%3ACD008018."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chen%20H%2C%20Li%20J%2C%20Cui%20T%2C%20Hu%20L.%20Adjuvant%20gonadotropin-releasing%20hormone%20analogues%20for%20the%20prevention%20of%20chemotherapy%20induced%20premature%20ovarian%20failure%20in%20premenopausal%20women.%20Cochrane%20Database%20Syst%20Rev.%202011%3B11%3ACD008018."
+            }
+          ]
+        },
+        {
+          "id": 5600026,
+          "page": 512,
+          "en": "Chow EJ, Anderson L, Scott Baker K, et al. Late effects surveillance recommendations among survivors of childhood hematopoietic cell transplantation: a Children’s Oncology Group report. Biol Blood Marrow Transplant. 2016;22:782–95.",
+          "zh": "Chow EJ, Anderson L, Scott Baker K, et al. Late effects surveillance recommendations among survivors of childhood hematopoietic cell transplantation: a Children’s Oncology Group report. Biol Blood Marrow Transplant. 2016;22:782–95.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Chow%20EJ%2C%20Anderson%20L%2C%20Scott%20Baker%20K%2C%20et%20al.%20Late%20effects%20surveillance%20recommendations%20among%20survivors%20of%20childhood%20hematopoietic%20cell%20transplantation%3A%20a%20Children%E2%80%99s%20Oncology%20Group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A782%E2%80%9395."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Chow%20EJ%2C%20Anderson%20L%2C%20Scott%20Baker%20K%2C%20et%20al.%20Late%20effects%20surveillance%20recommendations%20among%20survivors%20of%20childhood%20hematopoietic%20cell%20transplantation%3A%20a%20Children%E2%80%99s%20Oncology%20Group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A782%E2%80%9395."
+            }
+          ]
+        },
+        {
+          "id": 5600027,
+          "page": 512,
+          "en": "Cohen A, Rovelli A, Merlo DF, et al. Risk for secondary thyroid carcinoma after hematopoietic stem-cell transplantation: an EBMT late effects working party study. J Clin Oncol. 2007;25:2449–54.",
+          "zh": "Cohen A, Rovelli A, Merlo DF, et al. Risk for secondary thyroid carcinoma after hematopoietic stem-cell transplantation: an EBMT late effects working party study. J Clin Oncol. 2007;25:2449–54.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cohen%20A%2C%20Rovelli%20A%2C%20Merlo%20DF%2C%20et%20al.%20Risk%20for%20secondary%20thyroid%20carcinoma%20after%20hematopoietic%20stem-cell%20transplantation%3A%20an%20EBMT%20late%20effects%20working%20party%20study.%20J%20Clin%20Oncol.%202007%3B25%3A2449%E2%80%9354."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cohen%20A%2C%20Rovelli%20A%2C%20Merlo%20DF%2C%20et%20al.%20Risk%20for%20secondary%20thyroid%20carcinoma%20after%20hematopoietic%20stem-cell%20transplantation%3A%20an%20EBMT%20late%20effects%20working%20party%20study.%20J%20Clin%20Oncol.%202007%3B25%3A2449%E2%80%9354."
+            }
+          ]
+        },
+        {
+          "id": 5600028,
+          "page": 512,
+          "en": "Cornillon J, Vantyghem MC, Couturier MA, et al. Management of endocrine dysfunctions after allogeneic hematopoietic stem cell transplantation: a report of the SFGM-TC on adrenal insufficiency and osteoporosis. Pathol Biol. 2013;61:171–3.",
+          "zh": "Cornillon J, Vantyghem MC, Couturier MA, et al. Management of endocrine dysfunctions after allogeneic hematopoietic stem cell transplantation: a report of the SFGM-TC on adrenal insufficiency and osteoporosis. Pathol Biol. 2013;61:171–3.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Cornillon%20J%2C%20Vantyghem%20MC%2C%20Couturier%20MA%2C%20et%20al.%20Management%20of%20endocrine%20dysfunctions%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20report%20of%20the%20SFGM-TC%20on%20adrenal%20insufficiency%20and%20osteoporosis.%20Pathol%20Biol.%202013%3B61%3A171%E2%80%933."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Cornillon%20J%2C%20Vantyghem%20MC%2C%20Couturier%20MA%2C%20et%20al.%20Management%20of%20endocrine%20dysfunctions%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20report%20of%20the%20SFGM-TC%20on%20adrenal%20insufficiency%20and%20osteoporosis.%20Pathol%20Biol.%202013%3B61%3A171%E2%80%933."
+            }
+          ]
+        },
+        {
+          "id": 5600029,
+          "page": 512,
+          "en": "Courbiere B, Drikes B, Grob A, et al. The uterine volume is dramatically decreased after hematopoietic stem cell transplantation during childhood regardless of the conditioning regimen. Fertil Steril. 2023;119:663–72.",
+          "zh": "Courbiere B, Drikes B, Grob A, et al. The uterine volume is dramatically decreased after hematopoietic stem cell transplantation during childhood regardless of the conditioning regimen. Fertil Steril. 2023;119:663–72.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Courbiere%20B%2C%20Drikes%20B%2C%20Grob%20A%2C%20et%20al.%20The%20uterine%20volume%20is%20dramatically%20decreased%20after%20hematopoietic%20stem%20cell%20transplantation%20during%20childhood%20regardless%20of%20the%20conditioning%20regimen.%20Fertil%20Steril.%202023%3B119%3A663%E2%80%9372."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Courbiere%20B%2C%20Drikes%20B%2C%20Grob%20A%2C%20et%20al.%20The%20uterine%20volume%20is%20dramatically%20decreased%20after%20hematopoietic%20stem%20cell%20transplantation%20during%20childhood%20regardless%20of%20the%20conditioning%20regimen.%20Fertil%20Steril.%202023%3B119%3A663%E2%80%9372."
+            }
+          ]
+        },
+        {
+          "id": 5600030,
+          "page": 512,
+          "en": "Dalle JH, Lucchini G, Balduzzi A, et al. State-of-the-art fertility preservation in children and adolescents undergoing haematopoietic stem cell transplantation: a report on the expert meeting of the paediatric diseases working party (PDWP) of the European Society for Blood and Marrow Transplantation (EBMT). Bone Marrow Transplant. 2017;52:1029–35.",
+          "zh": "Dalle JH, Lucchini G, Balduzzi A, et al. State-of-the-art fertility preservation in children and adolescents undergoing haematopoietic stem cell transplantation: a report on the expert meeting of the paediatric diseases working party (PDWP) of the European Society for Blood and Marrow Transplantation (EBMT). Bone Marrow Transplant. 2017;52:1029–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Dalle%20JH%2C%20Lucchini%20G%2C%20Balduzzi%20A%2C%20et%20al.%20State-of-the-art%20fertility%20preservation%20in%20children%20and%20adolescents%20undergoing%20haematopoietic%20stem%20cell%20transplantation%3A%20a%20report%20on%20the%20expert%20meeting%20of%20the%20paediatric%20diseases%20working%20party%20%28PDWP%29%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29.%20Bone%20Marrow%20Transplant.%202017%3B52%3A1029%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Dalle%20JH%2C%20Lucchini%20G%2C%20Balduzzi%20A%2C%20et%20al.%20State-of-the-art%20fertility%20preservation%20in%20children%20and%20adolescents%20undergoing%20haematopoietic%20stem%20cell%20transplantation%3A%20a%20report%20on%20the%20expert%20meeting%20of%20the%20paediatric%20diseases%20working%20party%20%28PDWP%29%20of%20the%20European%20Society%20for%20Blood%20and%20Marrow%20Transplantation%20%28EBMT%29.%20Bone%20Marrow%20Transplant.%202017%3B52%3A1029%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 5600031,
+          "page": 512,
+          "en": "Denlinger CS, Sanft T, Baker S, et al. NCCN guidelines, survivorship, version 2.2017. J Natl Compr Cancer Netw. 2017;15:1140–63.",
+          "zh": "Denlinger CS, Sanft T, Baker S, et al. NCCN guidelines, survivorship, version 2.2017. J Natl Compr Cancer Netw. 2017;15:1140–63.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Denlinger%20CS%2C%20Sanft%20T%2C%20Baker%20S%2C%20et%20al.%20NCCN%20guidelines%2C%20survivorship%2C%20version%202.2017.%20J%20Natl%20Compr%20Cancer%20Netw.%202017%3B15%3A1140%E2%80%9363."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Denlinger%20CS%2C%20Sanft%20T%2C%20Baker%20S%2C%20et%20al.%20NCCN%20guidelines%2C%20survivorship%2C%20version%202.2017.%20J%20Natl%20Compr%20Cancer%20Netw.%202017%3B15%3A1140%E2%80%9363."
+            }
+          ]
+        },
+        {
+          "id": 5600032,
+          "page": 512,
+          "en": "Eeltink CM, Witte BI, Stringer J, Liptrott S, Babic A, Greenfield DM, et al. Health-care professionals’ perspective on discussing sexual issues in adult patients after haematopoietic cell transplantation. Bone Marrow Transplant. 2018;53:235–45.",
+          "zh": "Eeltink CM, Witte BI, Stringer J, Liptrott S, Babic A, Greenfield DM, et al. Health-care professionals’ perspective on discussing sexual issues in adult patients after haematopoietic cell transplantation. Bone Marrow Transplant. 2018;53:235–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Eeltink%20CM%2C%20Witte%20BI%2C%20Stringer%20J%2C%20Liptrott%20S%2C%20Babic%20A%2C%20Greenfield%20DM%2C%20et%20al.%20Health-care%20professionals%E2%80%99%20perspective%20on%20discussing%20sexual%20issues%20in%20adult%20patients%20after%20haematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202018%3B53%3A235%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Eeltink%20CM%2C%20Witte%20BI%2C%20Stringer%20J%2C%20Liptrott%20S%2C%20Babic%20A%2C%20Greenfield%20DM%2C%20et%20al.%20Health-care%20professionals%E2%80%99%20perspective%20on%20discussing%20sexual%20issues%20in%20adult%20patients%20after%20haematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202018%3B53%3A235%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 5600033,
+          "page": 512,
+          "en": "El-Jawahri A, Fishman SR, Vanderklish J, et al. Pilot study of a multimodal intervention to enhance sexual function in survivors of hematopoietic stem cell transplantation. Cancer. 2018;124:2438–46.",
+          "zh": "El-Jawahri A, Fishman SR, Vanderklish J, et al. Pilot study of a multimodal intervention to enhance sexual function in survivors of hematopoietic stem cell transplantation. Cancer. 2018;124:2438–46.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=El-Jawahri%20A%2C%20Fishman%20SR%2C%20Vanderklish%20J%2C%20et%20al.%20Pilot%20study%20of%20a%20multimodal%20intervention%20to%20enhance%20sexual%20function%20in%20survivors%20of%20hematopoietic%20stem%20cell%20transplantation.%20Cancer.%202018%3B124%3A2438%E2%80%9346."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=El-Jawahri%20A%2C%20Fishman%20SR%2C%20Vanderklish%20J%2C%20et%20al.%20Pilot%20study%20of%20a%20multimodal%20intervention%20to%20enhance%20sexual%20function%20in%20survivors%20of%20hematopoietic%20stem%20cell%20transplantation.%20Cancer.%202018%3B124%3A2438%E2%80%9346."
+            }
+          ]
+        },
+        {
+          "id": 5600034,
+          "page": 512,
+          "en": "Faraci M, Diesch T, Labopin M, et al. Gonadal function after Busulfan compared with Treosulfan in children and adolescents undergoing allogeneic hematopoietic stem cell transplant. Biol Blood Marrow Transplant. 2019;25:1786–91.",
+          "zh": "Faraci M, Diesch T, Labopin M, et al. Gonadal function after Busulfan compared with Treosulfan in children and adolescents undergoing allogeneic hematopoietic stem cell transplant. Biol Blood Marrow Transplant. 2019;25:1786–91.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Faraci%20M%2C%20Diesch%20T%2C%20Labopin%20M%2C%20et%20al.%20Gonadal%20function%20after%20Busulfan%20compared%20with%20Treosulfan%20in%20children%20and%20adolescents%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplant.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A1786%E2%80%9391."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Faraci%20M%2C%20Diesch%20T%2C%20Labopin%20M%2C%20et%20al.%20Gonadal%20function%20after%20Busulfan%20compared%20with%20Treosulfan%20in%20children%20and%20adolescents%20undergoing%20allogeneic%20hematopoietic%20stem%20cell%20transplant.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%3A1786%E2%80%9391."
+            }
+          ]
+        },
+        {
+          "id": 5600035,
+          "page": 512,
+          "en": "Felicetti F, Gatti F, Faraci D, et al. Impact of allogeneic stem cell transplantation on thyroid function. J Endocrinol Invest. 2023;46:1825.",
+          "zh": "Felicetti F, Gatti F, Faraci D, et al. Impact of allogeneic stem cell transplantation on thyroid function. J Endocrinol Invest. 2023;46:1825.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Felicetti%20F%2C%20Gatti%20F%2C%20Faraci%20D%2C%20et%20al.%20Impact%20of%20allogeneic%20stem%20cell%20transplantation%20on%20thyroid%20function.%20J%20Endocrinol%20Invest.%202023%3B46%3A1825."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Felicetti%20F%2C%20Gatti%20F%2C%20Faraci%20D%2C%20et%20al.%20Impact%20of%20allogeneic%20stem%20cell%20transplantation%20on%20thyroid%20function.%20J%20Endocrinol%20Invest.%202023%3B46%3A1825."
+            }
+          ]
+        },
+        {
+          "id": 5600036,
+          "page": 512,
+          "en": "Fenig E, Mishaeli M, Kalish Y, Lishner M. Pregnancy and radiation. Cancer Treat Rev. 2001;27:1–7.",
+          "zh": "Fenig E, Mishaeli M, Kalish Y, Lishner M. Pregnancy and radiation. Cancer Treat Rev. 2001;27:1–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Fenig%20E%2C%20Mishaeli%20M%2C%20Kalish%20Y%2C%20Lishner%20M.%20Pregnancy%20and%20radiation.%20Cancer%20Treat%20Rev.%202001%3B27%3A1%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Fenig%20E%2C%20Mishaeli%20M%2C%20Kalish%20Y%2C%20Lishner%20M.%20Pregnancy%20and%20radiation.%20Cancer%20Treat%20Rev.%202001%3B27%3A1%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5600037,
+          "page": 512,
+          "en": "Gjaerde LK, Eeltink C, Stringer J, et al. Sexual function of adult long term survivors and their partners after allogeneic hematopoietic cell transplantation in Europe (S-FAST): a study from the transplant complications working party and nurses group of the EBMT. Bone Marrow Transplant. 2023;58:195–202.",
+          "zh": "Gjaerde LK, Eeltink C, Stringer J, et al. Sexual function of adult long term survivors and their partners after allogeneic hematopoietic cell transplantation in Europe (S-FAST): a study from the transplant complications working party and nurses group of the EBMT. Bone Marrow Transplant. 2023;58:195–202.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gjaerde%20LK%2C%20Eeltink%20C%2C%20Stringer%20J%2C%20et%20al.%20Sexual%20function%20of%20adult%20long%20term%20survivors%20and%20their%20partners%20after%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20Europe%20%28S-FAST%29%3A%20a%20study%20from%20the%20transplant%20complications%20working%20party%20and%20nurses%20group%20of%20the%20EBMT.%20Bone%20Marrow%20Transplant.%202023%3B58%3A195%E2%80%93202."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gjaerde%20LK%2C%20Eeltink%20C%2C%20Stringer%20J%2C%20et%20al.%20Sexual%20function%20of%20adult%20long%20term%20survivors%20and%20their%20partners%20after%20allogeneic%20hematopoietic%20cell%20transplantation%20in%20Europe%20%28S-FAST%29%3A%20a%20study%20from%20the%20transplant%20complications%20working%20party%20and%20nurses%20group%20of%20the%20EBMT.%20Bone%20Marrow%20Transplant.%202023%3B58%3A195%E2%80%93202."
+            }
+          ]
+        },
+        {
+          "id": 5600038,
+          "page": 512,
+          "en": "Green DM, Sklar CA, Boice JD Jr, et al. Ovarian failure and reproductive outcomes after childhood cancer treatment: results from the childhood cancer survivor study. J Clin Oncol. 2009;27:2374–81.",
+          "zh": "Green DM, Sklar CA, Boice JD Jr, et al. Ovarian failure and reproductive outcomes after childhood cancer treatment: results from the childhood cancer survivor study. J Clin Oncol. 2009;27:2374–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Green%20DM%2C%20Sklar%20CA%2C%20Boice%20JD%20Jr%2C%20et%20al.%20Ovarian%20failure%20and%20reproductive%20outcomes%20after%20childhood%20cancer%20treatment%3A%20results%20from%20the%20childhood%20cancer%20survivor%20study.%20J%20Clin%20Oncol.%202009%3B27%3A2374%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Green%20DM%2C%20Sklar%20CA%2C%20Boice%20JD%20Jr%2C%20et%20al.%20Ovarian%20failure%20and%20reproductive%20outcomes%20after%20childhood%20cancer%20treatment%3A%20results%20from%20the%20childhood%20cancer%20survivor%20study.%20J%20Clin%20Oncol.%202009%3B27%3A2374%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 5600039,
+          "page": 512,
+          "en": "Güemes M, Martín-Rivada Á, Bascuas Arribas M, et al. Endocrine sequelae in 157 pediatric survivors of hematopoietic stem cell transplantation (HCT). J Endocrinol Soc. 2022;7:bvac183.",
+          "zh": "Güemes M, Martín-Rivada Á, Bascuas Arribas M, et al. Endocrine sequelae in 157 pediatric survivors of hematopoietic stem cell transplantation (HCT). J Endocrinol Soc. 2022;7:bvac183.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=G%C3%BCemes%20M%2C%20Mart%C3%ADn-Rivada%20%C3%81%2C%20Bascuas%20Arribas%20M%2C%20et%20al.%20Endocrine%20sequelae%20in%20157%20pediatric%20survivors%20of%20hematopoietic%20stem%20cell%20transplantation%20%28HCT%29.%20J%20Endocrinol%20Soc.%202022%3B7%3Abvac183."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=G%C3%BCemes%20M%2C%20Mart%C3%ADn-Rivada%20%C3%81%2C%20Bascuas%20Arribas%20M%2C%20et%20al.%20Endocrine%20sequelae%20in%20157%20pediatric%20survivors%20of%20hematopoietic%20stem%20cell%20transplantation%20%28HCT%29.%20J%20Endocrinol%20Soc.%202022%3B7%3Abvac183."
+            }
+          ]
+        },
+        {
+          "id": 5600040,
+          "page": 512,
+          "en": "Gurnell M, Heaney LG, Price D, Menzies-Gow A. Long-term corticosteroid use, adrenal insufficiency and the need for steroid-sparing treatment in adult severe asthma (Review). J Intern Med. 2021;290:240–56.",
+          "zh": "Gurnell M, Heaney LG, Price D, Menzies-Gow A. Long-term corticosteroid use, adrenal insufficiency and the need for steroid-sparing treatment in adult severe asthma (Review). J Intern Med. 2021;290:240–56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Gurnell%20M%2C%20Heaney%20LG%2C%20Price%20D%2C%20Menzies-Gow%20A.%20Long-term%20corticosteroid%20use%2C%20adrenal%20insufficiency%20and%20the%20need%20for%20steroid-sparing%20treatment%20in%20adult%20severe%20asthma%20%28Review%29.%20J%20Intern%20Med.%202021%3B290%3A240%E2%80%9356."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Gurnell%20M%2C%20Heaney%20LG%2C%20Price%20D%2C%20Menzies-Gow%20A.%20Long-term%20corticosteroid%20use%2C%20adrenal%20insufficiency%20and%20the%20need%20for%20steroid-sparing%20treatment%20in%20adult%20severe%20asthma%20%28Review%29.%20J%20Intern%20Med.%202021%3B290%3A240%E2%80%9356."
+            }
+          ]
+        },
+        {
+          "id": 5600041,
+          "page": 512,
+          "en": "Halpern JA, Das A, Faw CA, Brannigan RE. Oncofertility in adult and pediatric populations: options and barriers. Transl Androl Urol. 2020;9(Suppl 2):S227–38.",
+          "zh": "Halpern JA, Das A, Faw CA, Brannigan RE. Oncofertility in adult and pediatric populations: options and barriers. Transl Androl Urol. 2020;9(Suppl 2):S227–38.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Halpern%20JA%2C%20Das%20A%2C%20Faw%20CA%2C%20Brannigan%20RE.%20Oncofertility%20in%20adult%20and%20pediatric%20populations%3A%20options%20and%20barriers.%20Transl%20Androl%20Urol.%202020%3B9%28Suppl%202%29%3AS227%E2%80%9338."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Halpern%20JA%2C%20Das%20A%2C%20Faw%20CA%2C%20Brannigan%20RE.%20Oncofertility%20in%20adult%20and%20pediatric%20populations%3A%20options%20and%20barriers.%20Transl%20Androl%20Urol.%202020%3B9%28Suppl%202%29%3AS227%E2%80%9338."
+            }
+          ]
+        },
+        {
+          "id": 5600042,
+          "page": 512,
+          "en": "Humphreys CT, Tallman B, Altmaier EM, Barnette V. Sexual functioning in patients undergoing bone marrow transplantation: a longitudinal study. Bone Marrow Transplant. 2007;39:491–6.",
+          "zh": "Humphreys CT, Tallman B, Altmaier EM, Barnette V. Sexual functioning in patients undergoing bone marrow transplantation: a longitudinal study. Bone Marrow Transplant. 2007;39:491–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Humphreys%20CT%2C%20Tallman%20B%2C%20Altmaier%20EM%2C%20Barnette%20V.%20Sexual%20functioning%20in%20patients%20undergoing%20bone%20marrow%20transplantation%3A%20a%20longitudinal%20study.%20Bone%20Marrow%20Transplant.%202007%3B39%3A491%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Humphreys%20CT%2C%20Tallman%20B%2C%20Altmaier%20EM%2C%20Barnette%20V.%20Sexual%20functioning%20in%20patients%20undergoing%20bone%20marrow%20transplantation%3A%20a%20longitudinal%20study.%20Bone%20Marrow%20Transplant.%202007%3B39%3A491%E2%80%936."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 513,
+      "blocks": [
+        {
+          "id": 5600043,
+          "page": 513,
+          "en": "Kalich-Philosoph L, Roness H, Carmely A, et al. Cyclophosphamide triggers follicle activation and “burnout”; AS101 prevents follicle loss and preserves fertility. Sci Transl Med. 2013;15:185ra62.",
+          "zh": "Kalich-Philosoph L, Roness H, Carmely A, et al. Cyclophosphamide triggers follicle activation and “burnout”; AS101 prevents follicle loss and preserves fertility. Sci Transl Med. 2013;15:185ra62.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kalich-Philosoph%20L%2C%20Roness%20H%2C%20Carmely%20A%2C%20et%20al.%20Cyclophosphamide%20triggers%20follicle%20activation%20and%20%E2%80%9Cburnout%E2%80%9D%3B%20AS101%20prevents%20follicle%20loss%20and%20preserves%20fertility.%20Sci%20Transl%20Med.%202013%3B15%3A185ra62."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kalich-Philosoph%20L%2C%20Roness%20H%2C%20Carmely%20A%2C%20et%20al.%20Cyclophosphamide%20triggers%20follicle%20activation%20and%20%E2%80%9Cburnout%E2%80%9D%3B%20AS101%20prevents%20follicle%20loss%20and%20preserves%20fertility.%20Sci%20Transl%20Med.%202013%3B15%3A185ra62."
+            }
+          ]
+        },
+        {
+          "id": 5600044,
+          "page": 513,
+          "en": "Kanbar M, Delwiche G, Wyns C. Fertility preservation for prepubertal boys: are we ready for autologous grafting of cryopreserved immature testicular tissue? Ann Endocrinol (Paris). 2022;83:210–7.",
+          "zh": "Kanbar M, Delwiche G, Wyns C. Fertility preservation for prepubertal boys: are we ready for autologous grafting of cryopreserved immature testicular tissue? Ann Endocrinol (Paris). 2022;83:210–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kanbar%20M%2C%20Delwiche%20G%2C%20Wyns%20C.%20Fertility%20preservation%20for%20prepubertal%20boys%3A%20are%20we%20ready%20for%20autologous%20grafting%20of%20cryopreserved%20immature%20testicular%20tissue%3F%20Ann%20Endocrinol%20%28Paris%29.%202022%3B83%3A210%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kanbar%20M%2C%20Delwiche%20G%2C%20Wyns%20C.%20Fertility%20preservation%20for%20prepubertal%20boys%3A%20are%20we%20ready%20for%20autologous%20grafting%20of%20cryopreserved%20immature%20testicular%20tissue%3F%20Ann%20Endocrinol%20%28Paris%29.%202022%3B83%3A210%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5600045,
+          "page": 513,
+          "en": "Kim IR, Jang SY, Shin HS, et al. Association between sexuality knowledge and sexual dysfunction in hematopoietic stem cell transplantation patients and their partners. Patient Educ Couns. 2020;103:1630–6.",
+          "zh": "Kim IR, Jang SY, Shin HS, et al. Association between sexuality knowledge and sexual dysfunction in hematopoietic stem cell transplantation patients and their partners. Patient Educ Couns. 2020;103:1630–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Kim%20IR%2C%20Jang%20SY%2C%20Shin%20HS%2C%20et%20al.%20Association%20between%20sexuality%20knowledge%20and%20sexual%20dysfunction%20in%20hematopoietic%20stem%20cell%20transplantation%20patients%20and%20their%20partners.%20Patient%20Educ%20Couns.%202020%3B103%3A1630%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Kim%20IR%2C%20Jang%20SY%2C%20Shin%20HS%2C%20et%20al.%20Association%20between%20sexuality%20knowledge%20and%20sexual%20dysfunction%20in%20hematopoietic%20stem%20cell%20transplantation%20patients%20and%20their%20partners.%20Patient%20Educ%20Couns.%202020%3B103%3A1630%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5600046,
+          "page": 513,
+          "en": "Langer SL, Rudd ME, Syrjala KL. Protective buffering and emotional desynchrony among spousal care givers. Health Psychol. 2007;26:635–43.",
+          "zh": "Langer SL, Rudd ME, Syrjala KL. Protective buffering and emotional desynchrony among spousal care givers. Health Psychol. 2007;26:635–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Langer%20SL%2C%20Rudd%20ME%2C%20Syrjala%20KL.%20Protective%20buffering%20and%20emotional%20desynchrony%20among%20spousal%20care%20givers.%20Health%20Psychol.%202007%3B26%3A635%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Langer%20SL%2C%20Rudd%20ME%2C%20Syrjala%20KL.%20Protective%20buffering%20and%20emotional%20desynchrony%20among%20spousal%20care%20givers.%20Health%20Psychol.%202007%3B26%3A635%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 5600047,
+          "page": 513,
+          "en": "Laursen EM, Holm K, Brocks V, et al. Doppler assessment of flow velocity in the uterine artery during pubertal maturation. Ultrasound Obstet Gynecol. 1996;8:341–5.",
+          "zh": "Laursen EM, Holm K, Brocks V, et al. Doppler assessment of flow velocity in the uterine artery during pubertal maturation. Ultrasound Obstet Gynecol. 1996;8:341–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Laursen%20EM%2C%20Holm%20K%2C%20Brocks%20V%2C%20et%20al.%20Doppler%20assessment%20of%20flow%20velocity%20in%20the%20uterine%20artery%20during%20pubertal%20maturation.%20Ultrasound%20Obstet%20Gynecol.%201996%3B8%3A341%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Laursen%20EM%2C%20Holm%20K%2C%20Brocks%20V%2C%20et%20al.%20Doppler%20assessment%20of%20flow%20velocity%20in%20the%20uterine%20artery%20during%20pubertal%20maturation.%20Ultrasound%20Obstet%20Gynecol.%201996%3B8%3A341%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5600048,
+          "page": 513,
+          "en": "Lawitschka A, Schwarze P, Rovelli A, Badoglio M, Socie G, Tichelli A, Bauer D, Rovo A, Basak G, Schoemans H, Peters C, Salooja N. Management of growth failure and growth hormone deficiency after pediatric allogeneic HCT: endocrinologists are of importance for further guidelines and studies. Pediatr Hematol Oncol. 2019;36:494–503.",
+          "zh": "Lawitschka A, Schwarze P, Rovelli A, Badoglio M, Socie G, Tichelli A, Bauer D, Rovo A, Basak G, Schoemans H, Peters C, Salooja N. Management of growth failure and growth hormone deficiency after pediatric allogeneic HCT: endocrinologists are of importance for further guidelines and studies. Pediatr Hematol Oncol. 2019;36:494–503.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Lawitschka%20A%2C%20Schwarze%20P%2C%20Rovelli%20A%2C%20Badoglio%20M%2C%20Socie%20G%2C%20Tichelli%20A%2C%20Bauer%20D%2C%20Rovo%20A%2C%20Basak%20G%2C%20Schoemans%20H%2C%20Peters%20C%2C%20Salooja%20N.%20Management%20of%20growth%20failure%20and%20growth%20hormone%20deficiency%20after%20pediatric%20allogeneic%20HCT%3A%20endocrinologists%20are%20of%20importance%20for%20further%20guidelines%20and%20studies.%20Pediatr%20Hematol%20Oncol.%202019%3B36%3A494%E2%80%93503."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Lawitschka%20A%2C%20Schwarze%20P%2C%20Rovelli%20A%2C%20Badoglio%20M%2C%20Socie%20G%2C%20Tichelli%20A%2C%20Bauer%20D%2C%20Rovo%20A%2C%20Basak%20G%2C%20Schoemans%20H%2C%20Peters%20C%2C%20Salooja%20N.%20Management%20of%20growth%20failure%20and%20growth%20hormone%20deficiency%20after%20pediatric%20allogeneic%20HCT%3A%20endocrinologists%20are%20of%20importance%20for%20further%20guidelines%20and%20studies.%20Pediatr%20Hematol%20Oncol.%202019%3B36%3A494%E2%80%93503."
+            }
+          ]
+        },
+        {
+          "id": 5600049,
+          "page": 513,
+          "en": "Li Z, Mewawalla P, Stratton P, et al. Sexual health in hematopoietic stem cell transplant recipients. Cancer. 2015;121:4124–31.",
+          "zh": "Li Z, Mewawalla P, Stratton P, et al. Sexual health in hematopoietic stem cell transplant recipients. Cancer. 2015;121:4124–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Li%20Z%2C%20Mewawalla%20P%2C%20Stratton%20P%2C%20et%20al.%20Sexual%20health%20in%20hematopoietic%20stem%20cell%20transplant%20recipients.%20Cancer.%202015%3B121%3A4124%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Li%20Z%2C%20Mewawalla%20P%2C%20Stratton%20P%2C%20et%20al.%20Sexual%20health%20in%20hematopoietic%20stem%20cell%20transplant%20recipients.%20Cancer.%202015%3B121%3A4124%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 5600050,
+          "page": 513,
+          "en": "Majhail NS, Rizzo D, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2012;18:348–71.",
+          "zh": "Majhail NS, Rizzo D, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2012;18:348–71.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Majhail%20NS%2C%20Rizzo%20D%2C%20Lee%20SJ%2C%20et%20al.%20Recommended%20screening%20and%20preventive%20practices%20for%20long-term%20survivors%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A348%E2%80%9371."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Majhail%20NS%2C%20Rizzo%20D%2C%20Lee%20SJ%2C%20et%20al.%20Recommended%20screening%20and%20preventive%20practices%20for%20long-term%20survivors%20after%20hematopoietic%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202012%3B18%3A348%E2%80%9371."
+            }
+          ]
+        },
+        {
+          "id": 5600051,
+          "page": 513,
+          "en": "Mathiesen S, Sørensen K, Nielsen MM, et al. Male gonadal function after allogeneic hematopoietic stem cell transplantation in childhood: a cross-sectional, population-based study. Biol Blood Marrow Transplant. 2020;26:1635–45.",
+          "zh": "Mathiesen S, Sørensen K, Nielsen MM, et al. Male gonadal function after allogeneic hematopoietic stem cell transplantation in childhood: a cross-sectional, population-based study. Biol Blood Marrow Transplant. 2020;26:1635–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathiesen%20S%2C%20S%C3%B8rensen%20K%2C%20Nielsen%20MM%2C%20et%20al.%20Male%20gonadal%20function%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20childhood%3A%20a%20cross-sectional%2C%20population-based%20study.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A1635%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathiesen%20S%2C%20S%C3%B8rensen%20K%2C%20Nielsen%20MM%2C%20et%20al.%20Male%20gonadal%20function%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20in%20childhood%3A%20a%20cross-sectional%2C%20population-based%20study.%20Biol%20Blood%20Marrow%20Transplant.%202020%3B26%3A1635%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 5600052,
+          "page": 513,
+          "en": "Mathiesen S, Sørensen K, Ifversen M, et al. Childhood reproductive hormone levels after pediatric hematopoietic stem cell transplantation in relation to adult testicular function. Endocr Connect. 2021;10:1352–65.",
+          "zh": "Mathiesen S, Sørensen K, Ifversen M, et al. Childhood reproductive hormone levels after pediatric hematopoietic stem cell transplantation in relation to adult testicular function. Endocr Connect. 2021;10:1352–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathiesen%20S%2C%20S%C3%B8rensen%20K%2C%20Ifversen%20M%2C%20et%20al.%20Childhood%20reproductive%20hormone%20levels%20after%20pediatric%20hematopoietic%20stem%20cell%20transplantation%20in%20relation%20to%20adult%20testicular%20function.%20Endocr%20Connect.%202021%3B10%3A1352%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathiesen%20S%2C%20S%C3%B8rensen%20K%2C%20Ifversen%20M%2C%20et%20al.%20Childhood%20reproductive%20hormone%20levels%20after%20pediatric%20hematopoietic%20stem%20cell%20transplantation%20in%20relation%20to%20adult%20testicular%20function.%20Endocr%20Connect.%202021%3B10%3A1352%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 5600053,
+          "page": 513,
+          "en": "Mathiesen S, Andrés-Jensen L, Nielsen MM, et al. Male gonadal function after pediatric hematopoietic stem cell transplantation: a systematic review. Transplant Cell Ther. 2022;28:503.e1.",
+          "zh": "Mathiesen S, Andrés-Jensen L, Nielsen MM, et al. Male gonadal function after pediatric hematopoietic stem cell transplantation: a systematic review. Transplant Cell Ther. 2022;28:503.e1.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mathiesen%20S%2C%20Andr%C3%A9s-Jensen%20L%2C%20Nielsen%20MM%2C%20et%20al.%20Male%20gonadal%20function%20after%20pediatric%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20systematic%20review.%20Transplant%20Cell%20Ther.%202022%3B28%3A503.e1."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mathiesen%20S%2C%20Andr%C3%A9s-Jensen%20L%2C%20Nielsen%20MM%2C%20et%20al.%20Male%20gonadal%20function%20after%20pediatric%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20systematic%20review.%20Transplant%20Cell%20Ther.%202022%3B28%3A503.e1."
+            }
+          ]
+        },
+        {
+          "id": 5600054,
+          "page": 513,
+          "en": "Medinger M, Zeiter D, Heim D, Halter J, Gerull S, Tichelli A, Passweg J, Nigro N. Hypothyroidism following allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia. Leuk Res. 2017;58:43–7.",
+          "zh": "Medinger M, Zeiter D, Heim D, Halter J, Gerull S, Tichelli A, Passweg J, Nigro N. Hypothyroidism following allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia. Leuk Res. 2017;58:43–7.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Medinger%20M%2C%20Zeiter%20D%2C%20Heim%20D%2C%20Halter%20J%2C%20Gerull%20S%2C%20Tichelli%20A%2C%20Passweg%20J%2C%20Nigro%20N.%20Hypothyroidism%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia.%20Leuk%20Res.%202017%3B58%3A43%E2%80%937."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Medinger%20M%2C%20Zeiter%20D%2C%20Heim%20D%2C%20Halter%20J%2C%20Gerull%20S%2C%20Tichelli%20A%2C%20Passweg%20J%2C%20Nigro%20N.%20Hypothyroidism%20following%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%20for%20acute%20myeloid%20leukemia.%20Leuk%20Res.%202017%3B58%3A43%E2%80%937."
+            }
+          ]
+        },
+        {
+          "id": 5600055,
+          "page": 513,
+          "en": "Meirow D. Reproduction post-chemotherapy in young cancer patients. Mol Cell Endocrinol. 2000;169:123–31.",
+          "zh": "Meirow D. Reproduction post-chemotherapy in young cancer patients. Mol Cell Endocrinol. 2000;169:123–31.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meirow%20D.%20Reproduction%20post-chemotherapy%20in%20young%20cancer%20patients.%20Mol%20Cell%20Endocrinol.%202000%3B169%3A123%E2%80%9331."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meirow%20D.%20Reproduction%20post-chemotherapy%20in%20young%20cancer%20patients.%20Mol%20Cell%20Endocrinol.%202000%3B169%3A123%E2%80%9331."
+            }
+          ]
+        },
+        {
+          "id": 5600056,
+          "page": 513,
+          "en": "Meirow D, Nugent D. The effects of radiotherapy and chemotherapy on female reproduction. Hum Reprod Update. 2001;7:535–43.",
+          "zh": "Meirow D, Nugent D. The effects of radiotherapy and chemotherapy on female reproduction. Hum Reprod Update. 2001;7:535–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meirow%20D%2C%20Nugent%20D.%20The%20effects%20of%20radiotherapy%20and%20chemotherapy%20on%20female%20reproduction.%20Hum%20Reprod%20Update.%202001%3B7%3A535%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meirow%20D%2C%20Nugent%20D.%20The%20effects%20of%20radiotherapy%20and%20chemotherapy%20on%20female%20reproduction.%20Hum%20Reprod%20Update.%202001%3B7%3A535%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 5600057,
+          "page": 513,
+          "en": "Meirow D, Schiff E. Appraisal of chemotherapy effects on reproductive outcome according to animal studies and clinical data. J Natl Cancer Inst Monogr. 2005;34:21–5.",
+          "zh": "Meirow D, Schiff E. Appraisal of chemotherapy effects on reproductive outcome according to animal studies and clinical data. J Natl Cancer Inst Monogr. 2005;34:21–5.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meirow%20D%2C%20Schiff%20E.%20Appraisal%20of%20chemotherapy%20effects%20on%20reproductive%20outcome%20according%20to%20animal%20studies%20and%20clinical%20data.%20J%20Natl%20Cancer%20Inst%20Monogr.%202005%3B34%3A21%E2%80%935."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meirow%20D%2C%20Schiff%20E.%20Appraisal%20of%20chemotherapy%20effects%20on%20reproductive%20outcome%20according%20to%20animal%20studies%20and%20clinical%20data.%20J%20Natl%20Cancer%20Inst%20Monogr.%202005%3B34%3A21%E2%80%935."
+            }
+          ]
+        },
+        {
+          "id": 5600058,
+          "page": 513,
+          "en": "Meistrich ML, van Beek MEAB. Radiation sensitivity of the human testis. Adv Radiat Biol. 1990;14:227–68.",
+          "zh": "Meistrich ML, van Beek MEAB. Radiation sensitivity of the human testis. Adv Radiat Biol. 1990;14:227–68.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Meistrich%20ML%2C%20van%20Beek%20MEAB.%20Radiation%20sensitivity%20of%20the%20human%20testis.%20Adv%20Radiat%20Biol.%201990%3B14%3A227%E2%80%9368."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Meistrich%20ML%2C%20van%20Beek%20MEAB.%20Radiation%20sensitivity%20of%20the%20human%20testis.%20Adv%20Radiat%20Biol.%201990%3B14%3A227%E2%80%9368."
+            }
+          ]
+        },
+        {
+          "id": 5600059,
+          "page": 513,
+          "en": "Reulen RC, Zeegers MP, Wallace WHB, et al. Pregnancy outcomes among adult survivors of childhood cancer in the British childhood cancer survivor study. Cancer Epidemiol Biomark Prev. 2009;18:2239–47.",
+          "zh": "Reulen RC, Zeegers MP, Wallace WHB, et al. Pregnancy outcomes among adult survivors of childhood cancer in the British childhood cancer survivor study. Cancer Epidemiol Biomark Prev. 2009;18:2239–47.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Reulen%20RC%2C%20Zeegers%20MP%2C%20Wallace%20WHB%2C%20et%20al.%20Pregnancy%20outcomes%20among%20adult%20survivors%20of%20childhood%20cancer%20in%20the%20British%20childhood%20cancer%20survivor%20study.%20Cancer%20Epidemiol%20Biomark%20Prev.%202009%3B18%3A2239%E2%80%9347."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Reulen%20RC%2C%20Zeegers%20MP%2C%20Wallace%20WHB%2C%20et%20al.%20Pregnancy%20outcomes%20among%20adult%20survivors%20of%20childhood%20cancer%20in%20the%20British%20childhood%20cancer%20survivor%20study.%20Cancer%20Epidemiol%20Biomark%20Prev.%202009%3B18%3A2239%E2%80%9347."
+            }
+          ]
+        },
+        {
+          "id": 5600060,
+          "page": 513,
+          "en": "Rosendahl M, Greve T, Anderson CY. The safety of transplanting cryopreserved ovarian tissue in cancer patients: a review of the literature. J Assist Reprod Genet. 2013;30:11–24.",
+          "zh": "Rosendahl M, Greve T, Anderson CY. The safety of transplanting cryopreserved ovarian tissue in cancer patients: a review of the literature. J Assist Reprod Genet. 2013;30:11–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rosendahl%20M%2C%20Greve%20T%2C%20Anderson%20CY.%20The%20safety%20of%20transplanting%20cryopreserved%20ovarian%20tissue%20in%20cancer%20patients%3A%20a%20review%20of%20the%20literature.%20J%20Assist%20Reprod%20Genet.%202013%3B30%3A11%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rosendahl%20M%2C%20Greve%20T%2C%20Anderson%20CY.%20The%20safety%20of%20transplanting%20cryopreserved%20ovarian%20tissue%20in%20cancer%20patients%3A%20a%20review%20of%20the%20literature.%20J%20Assist%20Reprod%20Genet.%202013%3B30%3A11%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 5600061,
+          "page": 513,
+          "en": "Rovo A, Aljurf M, Chiodi S, et al. Ongoing graft-versus-host disease is a risk factor for azoospermia after allogeneic hematopoietic stem cell transplantation: a survey of the late effects working party of the European Group for Blood and Marrow Transplantation. Haematologica. 2013;98:339–45.",
+          "zh": "Rovo A, Aljurf M, Chiodi S, et al. Ongoing graft-versus-host disease is a risk factor for azoospermia after allogeneic hematopoietic stem cell transplantation: a survey of the late effects working party of the European Group for Blood and Marrow Transplantation. Haematologica. 2013;98:339–45.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Rovo%20A%2C%20Aljurf%20M%2C%20Chiodi%20S%2C%20et%20al.%20Ongoing%20graft-versus-host%20disease%20is%20a%20risk%20factor%20for%20azoospermia%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20survey%20of%20the%20late%20effects%20working%20party%20of%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20Haematologica.%202013%3B98%3A339%E2%80%9345."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Rovo%20A%2C%20Aljurf%20M%2C%20Chiodi%20S%2C%20et%20al.%20Ongoing%20graft-versus-host%20disease%20is%20a%20risk%20factor%20for%20azoospermia%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20survey%20of%20the%20late%20effects%20working%20party%20of%20the%20European%20Group%20for%20Blood%20and%20Marrow%20Transplantation.%20Haematologica.%202013%3B98%3A339%E2%80%9345."
+            }
+          ]
+        },
+        {
+          "id": 5600062,
+          "page": 513,
+          "en": "Salooja N, Szydlo RM, Socie G, et al. Pregnancy outcomes after peripheral blood or bone marrow transplantation: a retrospective study. Lancet. 2001;358:271–6.",
+          "zh": "Salooja N, Szydlo RM, Socie G, et al. Pregnancy outcomes after peripheral blood or bone marrow transplantation: a retrospective study. Lancet. 2001;358:271–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Salooja%20N%2C%20Szydlo%20RM%2C%20Socie%20G%2C%20et%20al.%20Pregnancy%20outcomes%20after%20peripheral%20blood%20or%20bone%20marrow%20transplantation%3A%20a%20retrospective%20study.%20Lancet.%202001%3B358%3A271%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Salooja%20N%2C%20Szydlo%20RM%2C%20Socie%20G%2C%20et%20al.%20Pregnancy%20outcomes%20after%20peripheral%20blood%20or%20bone%20marrow%20transplantation%3A%20a%20retrospective%20study.%20Lancet.%202001%3B358%3A271%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5600063,
+          "page": 513,
+          "en": "Sanders JE, Paul AH, Woolfrey AE, et al. Thyroid function following hematopoietic cell transplantation in children: 30 years’ experience. Blood. 2009;113:306–8.",
+          "zh": "Sanders JE, Paul AH, Woolfrey AE, et al. Thyroid function following hematopoietic cell transplantation in children: 30 years’ experience. Blood. 2009;113:306–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Sanders%20JE%2C%20Paul%20AH%2C%20Woolfrey%20AE%2C%20et%20al.%20Thyroid%20function%20following%20hematopoietic%20cell%20transplantation%20in%20children%3A%2030%20years%E2%80%99%20experience.%20Blood.%202009%3B113%3A306%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Sanders%20JE%2C%20Paul%20AH%2C%20Woolfrey%20AE%2C%20et%20al.%20Thyroid%20function%20following%20hematopoietic%20cell%20transplantation%20in%20children%3A%2030%20years%E2%80%99%20experience.%20Blood.%202009%3B113%3A306%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5600064,
+          "page": 513,
+          "en": "Savani BN, Koklanaris EK, Le Q, Shenoy A, Goodman S, Barrett AJ. Prolonged chronic graft-versus-host disease is a risk factor for thyroid failure in long-term survivors after matched sibling donor stem cell transplantation for hematologic malignancies. Biol Blood Marrow Transplant. 2009;15:377–81.",
+          "zh": "Savani BN, Koklanaris EK, Le Q, Shenoy A, Goodman S, Barrett AJ. Prolonged chronic graft-versus-host disease is a risk factor for thyroid failure in long-term survivors after matched sibling donor stem cell transplantation for hematologic malignancies. Biol Blood Marrow Transplant. 2009;15:377–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Savani%20BN%2C%20Koklanaris%20EK%2C%20Le%20Q%2C%20Shenoy%20A%2C%20Goodman%20S%2C%20Barrett%20AJ.%20Prolonged%20chronic%20graft-versus-host%20disease%20is%20a%20risk%20factor%20for%20thyroid%20failure%20in%20long-term%20survivors%20after%20matched%20sibling%20donor%20stem%20cell%20transplantation%20for%20hematologic%20malignancies.%20Biol%20Blood%20Marrow%20Transplant.%202009%3B15%3A377%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Savani%20BN%2C%20Koklanaris%20EK%2C%20Le%20Q%2C%20Shenoy%20A%2C%20Goodman%20S%2C%20Barrett%20AJ.%20Prolonged%20chronic%20graft-versus-host%20disease%20is%20a%20risk%20factor%20for%20thyroid%20failure%20in%20long-term%20survivors%20after%20matched%20sibling%20donor%20stem%20cell%20transplantation%20for%20hematologic%20malignancies.%20Biol%20Blood%20Marrow%20Transplant.%202009%3B15%3A377%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 5600065,
+          "page": 513,
+          "en": "Schover LR, van der Kaaij M, van Dorst E, et al. Sexual dysfunction and infertility as late effects of cancer treatment. Eur J Cancer Suppl. 2014;12:41–53.",
+          "zh": "Schover LR, van der Kaaij M, van Dorst E, et al. Sexual dysfunction and infertility as late effects of cancer treatment. Eur J Cancer Suppl. 2014;12:41–53.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schover%20LR%2C%20van%20der%20Kaaij%20M%2C%20van%20Dorst%20E%2C%20et%20al.%20Sexual%20dysfunction%20and%20infertility%20as%20late%20effects%20of%20cancer%20treatment.%20Eur%20J%20Cancer%20Suppl.%202014%3B12%3A41%E2%80%9353."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schover%20LR%2C%20van%20der%20Kaaij%20M%2C%20van%20Dorst%20E%2C%20et%20al.%20Sexual%20dysfunction%20and%20infertility%20as%20late%20effects%20of%20cancer%20treatment.%20Eur%20J%20Cancer%20Suppl.%202014%3B12%3A41%E2%80%9353."
+            }
+          ]
+        },
+        {
+          "id": 5600066,
+          "page": 513,
+          "en": "Syrjala KL, Schoemans H, Yi JC, Langer SL, Mukherjee A, Onstad L, et al. Sexual functioning in long-term survivors of hematopoietic cell transplantation. Transplant Cell Ther. 2021;27:80.e1–80.e12.",
+          "zh": "Syrjala KL, Schoemans H, Yi JC, Langer SL, Mukherjee A, Onstad L, et al. Sexual functioning in long-term survivors of hematopoietic cell transplantation. Transplant Cell Ther. 2021;27:80.e1–80.e12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Syrjala%20KL%2C%20Schoemans%20H%2C%20Yi%20JC%2C%20Langer%20SL%2C%20Mukherjee%20A%2C%20Onstad%20L%2C%20et%20al.%20Sexual%20functioning%20in%20long-term%20survivors%20of%20hematopoietic%20cell%20transplantation.%20Transplant%20Cell%20Ther.%202021%3B27%3A80.e1%E2%80%9380.e12."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Syrjala%20KL%2C%20Schoemans%20H%2C%20Yi%20JC%2C%20Langer%20SL%2C%20Mukherjee%20A%2C%20Onstad%20L%2C%20et%20al.%20Sexual%20functioning%20in%20long-term%20survivors%20of%20hematopoietic%20cell%20transplantation.%20Transplant%20Cell%20Ther.%202021%3B27%3A80.e1%E2%80%9380.e12."
+            }
+          ]
+        },
+        {
+          "id": 5600067,
+          "page": 513,
+          "en": "Tirri BF, Hausermann P, Bertz H, et al. Clinical guidelines for gynecologic care after hematopoietic SCT. Report from the international consensus project on clinical practice in chronic GVHD. Bone Marrow Transplant. 2015;50:3–9.",
+          "zh": "Tirri BF, Hausermann P, Bertz H, et al. Clinical guidelines for gynecologic care after hematopoietic SCT. Report from the international consensus project on clinical practice in chronic GVHD. Bone Marrow Transplant. 2015;50:3–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tirri%20BF%2C%20Hausermann%20P%2C%20Bertz%20H%2C%20et%20al.%20Clinical%20guidelines%20for%20gynecologic%20care%20after%20hematopoietic%20SCT.%20Report%20from%20the%20international%20consensus%20project%20on%20clinical%20practice%20in%20chronic%20GVHD.%20Bone%20Marrow%20Transplant.%202015%3B50%3A3%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tirri%20BF%2C%20Hausermann%20P%2C%20Bertz%20H%2C%20et%20al.%20Clinical%20guidelines%20for%20gynecologic%20care%20after%20hematopoietic%20SCT.%20Report%20from%20the%20international%20consensus%20project%20on%20clinical%20practice%20in%20chronic%20GVHD.%20Bone%20Marrow%20Transplant.%202015%3B50%3A3%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5600068,
+          "page": 513,
+          "en": "Wallace WH, Thomson AB, Kelsey TW. The radiosensitivity of the human oocyte. Hum Reprod. 2003a;18:117–21.",
+          "zh": "Wallace WH, Thomson AB, Kelsey TW. The radiosensitivity of the human oocyte. Hum Reprod. 2003a;18:117–21.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wallace%20WH%2C%20Thomson%20AB%2C%20Kelsey%20TW.%20The%20radiosensitivity%20of%20the%20human%20oocyte.%20Hum%20Reprod.%202003a%3B18%3A117%E2%80%9321."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wallace%20WH%2C%20Thomson%20AB%2C%20Kelsey%20TW.%20The%20radiosensitivity%20of%20the%20human%20oocyte.%20Hum%20Reprod.%202003a%3B18%3A117%E2%80%9321."
+            }
+          ]
+        },
+        {
+          "id": 5600069,
+          "page": 513,
+          "en": "Wallace WH, Thomson AB, Saran F, Kelsey TW. Predicting age of ovarian failure after radiation to a field that includes the ovaries. Int J Radiat Oncol Biol Phys. 2003b;62:738–44.",
+          "zh": "Wallace WH, Thomson AB, Saran F, Kelsey TW. Predicting age of ovarian failure after radiation to a field that includes the ovaries. Int J Radiat Oncol Biol Phys. 2003b;62:738–44.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wallace%20WH%2C%20Thomson%20AB%2C%20Saran%20F%2C%20Kelsey%20TW.%20Predicting%20age%20of%20ovarian%20failure%20after%20radiation%20to%20a%20field%20that%20includes%20the%20ovaries.%20Int%20J%20Radiat%20Oncol%20Biol%20Phys.%202003b%3B62%3A738%E2%80%9344."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wallace%20WH%2C%20Thomson%20AB%2C%20Saran%20F%2C%20Kelsey%20TW.%20Predicting%20age%20of%20ovarian%20failure%20after%20radiation%20to%20a%20field%20that%20includes%20the%20ovaries.%20Int%20J%20Radiat%20Oncol%20Biol%20Phys.%202003b%3B62%3A738%E2%80%9344."
+            }
+          ]
+        },
+        {
+          "id": 5600070,
+          "page": 513,
+          "en": "Wong FL, Francisco L, Togawa K, et al. Longitudinal trajectory of sexual functioning after hematopoietic cell transplantation: impact of chronic graft-versus-host disease and total body irradiation. Blood. 2013;122:3973–81.",
+          "zh": "Wong FL, Francisco L, Togawa K, et al. Longitudinal trajectory of sexual functioning after hematopoietic cell transplantation: impact of chronic graft-versus-host disease and total body irradiation. Blood. 2013;122:3973–81.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Wong%20FL%2C%20Francisco%20L%2C%20Togawa%20K%2C%20et%20al.%20Longitudinal%20trajectory%20of%20sexual%20functioning%20after%20hematopoietic%20cell%20transplantation%3A%20impact%20of%20chronic%20graft-versus-host%20disease%20and%20total%20body%20irradiation.%20Blood.%202013%3B122%3A3973%E2%80%9381."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Wong%20FL%2C%20Francisco%20L%2C%20Togawa%20K%2C%20et%20al.%20Longitudinal%20trajectory%20of%20sexual%20functioning%20after%20hematopoietic%20cell%20transplantation%3A%20impact%20of%20chronic%20graft-versus-host%20disease%20and%20total%20body%20irradiation.%20Blood.%202013%3B122%3A3973%E2%80%9381."
+            }
+          ]
+        },
+        {
+          "id": 5600071,
+          "page": 513,
+          "en": "Yi JC, Syrjala K. Sexuality after hematopoietic stem cell transplantation. Cancer J. 2009;15:57–64.",
+          "zh": "Yi JC, Syrjala K. Sexuality after hematopoietic stem cell transplantation. Cancer J. 2009;15:57–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yi%20JC%2C%20Syrjala%20K.%20Sexuality%20after%20hematopoietic%20stem%20cell%20transplantation.%20Cancer%20J.%202009%3B15%3A57%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yi%20JC%2C%20Syrjala%20K.%20Sexuality%20after%20hematopoietic%20stem%20cell%20transplantation.%20Cancer%20J.%202009%3B15%3A57%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 5600072,
+          "page": 513,
+          "en": "Yoo KH, Kange D, Kim I-R, et al. Satisfaction with sexual activity and sexual dysfunction in hematopoietic stem cell transplantation survivors and their partners: a couple study. Bone Marrow Transplant. 2018;53:967–76.",
+          "zh": "Yoo KH, Kange D, Kim I-R, et al. Satisfaction with sexual activity and sexual dysfunction in hematopoietic stem cell transplantation survivors and their partners: a couple study. Bone Marrow Transplant. 2018;53:967–76.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yoo%20KH%2C%20Kange%20D%2C%20Kim%20I-R%2C%20et%20al.%20Satisfaction%20with%20sexual%20activity%20and%20sexual%20dysfunction%20in%20hematopoietic%20stem%20cell%20transplantation%20survivors%20and%20their%20partners%3A%20a%20couple%20study.%20Bone%20Marrow%20Transplant.%202018%3B53%3A967%E2%80%9376."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yoo%20KH%2C%20Kange%20D%2C%20Kim%20I-R%2C%20et%20al.%20Satisfaction%20with%20sexual%20activity%20and%20sexual%20dysfunction%20in%20hematopoietic%20stem%20cell%20transplantation%20survivors%20and%20their%20partners%3A%20a%20couple%20study.%20Bone%20Marrow%20Transplant.%202018%3B53%3A967%E2%80%9376."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 514,
+      "blocks": [
+        {
+          "id": 5600073,
+          "page": 514,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 515,
+      "blocks": [
+        {
+          "id": 5600074,
+          "page": 515,
+          "en": "Part VII\nPrevention and Management of Relapse\nTopic Leaders: Nicolaus Kröger and Peter Bader",
+          "zh": "第七篇（Part VII）：復發的預防與處置管理（Prevention and Management of Relapse）\n主題負責人（Topic Leaders）：Nicolaus Kröger、Peter Bader",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}

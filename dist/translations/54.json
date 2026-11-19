@@ -1,0 +1,675 @@
+{
+  "id": 54,
+  "title": "Skin, Hair, and Musculoskeletal Complications",
+  "engine": "AI 直接逐段全文翻譯",
+  "review": "not-human-reviewed",
+  "status": "body-translated",
+  "paragraphs": 42,
+  "scope": "依原 PDF 視覺閱讀順序逐段翻譯全文、表格、圖說與章末重點；英文書目保留。AI 翻譯，未經人工專科校訂。",
+  "pages": [
+    {
+      "page": 495,
+      "blocks": [
+        {
+          "id": 5400001,
+          "page": 495,
+          "en": "54 Skin, Hair, and Musculoskeletal Complications\nFrancis Ayuk and Bipin N. Savani",
+          "zh": "54 皮膚、毛髮與肌肉骨骼併發症（Skin, Hair, and Musculoskeletal Complications） — Francis Ayuk、Bipin N. Savani",
+          "review": "ai-draft",
+          "note": "來源：The EBMT Handbook（2024），各章作者如上。繁體中文為 AI 直接逐段全文翻譯，未經人工專科校訂。",
+          "links": [
+            {
+              "label": "原章 DOI",
+              "url": "https://doi.org/10.1007/978-3-031-44080-9_54"
+            }
+          ]
+        },
+        {
+          "id": 5400002,
+          "page": 495,
+          "en": "54.1 Complications Involving the Skin and Hair\n54.1.1 Introduction\nNearly every recipient of an allo-HCT will at some stage develop complications involving the skin and hair. These complications can be grouped into drug-related toxicities and allergies, GVHD, infections, and malignant conditions.\n54.1.2 Allergies, Drug-Related, and Other Toxicities\nDrug-related toxicities are most often due to the conditioning regimen, antibiotics, or immunosuppressive (IS) agents. Presentation can vary broadly from localized erythema to epidermal necrolysis and Stevens-Johnson syndrome.\nDiagnosis may be difficult because the morphological and chronological presentations of the lesions are generally nonspecific. Skin biopsies and histological examination can help improve diagnostic certainty (Paun et al. 2013).\nManagement requires discontinuation of suspected causative agents, topical treatment with healing ointments, prevention of secondary infections, and in severe cases (or when other organs are involved) systemic therapy with corticosteroids and antihistamines.\nExtensive sun exposure including skin burns may increase the risk of skin GVHD, dryness, and subsequent infections. Regular examination of skin and skin-derived tissue and specialist consultation may enable early detection and better management (Majhail et al. 2012).",
+          "zh": "54.1 涉及皮膚與毛髮之併發症\n54.1.1 前言\n幾乎每一位接受異體造血細胞移植（allo-HCT）的受者，在某個階段都會出現涉及皮膚與毛髮的併發症。這些併發症可歸類為藥物相關毒性與過敏、移植物抗宿主疾病（GVHD）、感染以及惡性腫瘤病變。\n54.1.2 過敏、藥物相關及其他毒性反應\n藥物相關毒性最常由調理方案、抗生素或免疫抑制（IS）藥物所引起。其臨床表現範圍極廣，從局部紅斑到中毒性表皮壞死溶解症（TEN）與史蒂芬強生症候群（Stevens-Johnson syndrome, SJS）皆可能發生。\n由於病灶的形態學外觀與發生時間點通常不具特異性，臨床診斷可能相當困難。皮膚切片與組織病理學檢查有助於提升診斷的確切性（Paun et al. 2013）。\n處置管理需要停用疑似致病藥物、使用促進癒合之藥膏進行局部治療、預防次發性感染，並在嚴重個案（或當有其他器官受累時）給予全身性皮質類固醇與抗組織胺治療。\n過度日曬（包括曬傷）可能會增加誘發皮膚 GVHD、皮膚乾燥及後續感染的風險。定期檢查皮膚與皮膚附屬構造（毛髮、指甲）並照會皮膚科專科醫師，有助於早期偵測與更完善的處置（Majhail et al. 2012）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400003,
+          "page": 495,
+          "en": "54.1.3 Graft-Versus-Host Disease\nThe skin is one of the most frequently affected organs in acute and chronic GVHD. Acute GVHD of the skin mainly affects the epidermis of the skin and adjacent oral, anal, and genital mucosa. Chronic GVHD may affect all layers of the skin including the epidermis, dermis, and subcutaneous tissue and may also manifest as skin dyspigmentation, sweat impairment, alopecia and thinning of scalp hair, hair loss in other areas (e.g., eye brows), and nail dystrophy. Chronic GVHD with sclerosis of the subcutaneous tissue including fasciae, joints, and the musculoskeletal system can severely impact patients’ quality of life. Scleroderma lesions of the thorax or abdomen may impair breathing, lesions adjacent to joints may impair movement, and genital lesions may cause phimosis, vaginal scarring, and narrowing of the introitus that may cause dyspareunia and even complete obliteration of the vaginal tract.",
+          "zh": "54.1.3 移植物抗宿主疾病（GVHD）\n皮膚是急性與慢性 GVHD 最常侵犯的器官之一。皮膚急性 GVHD 主要侵犯表皮以及鄰近的口腔、肛門與生殖器黏膜。慢性 GVHD 則可能侵犯皮膚的所有層次（包括表皮、真皮與皮下組織），且亦可表現為皮膚色素異常（色素沉著或脫失）、排汗功能受損、落髮與頭髮稀疏、其他部位毛髮脫落（例如眉毛），以及指甲發育不良（nail dystrophy）。伴隨皮下組織（包含筋膜、關節與肌肉骨骼系統）硬化（sclerosis）的慢性 GVHD 會嚴重影響患者的生活品質：胸廓或腹部的硬皮症樣（scleroderma）病灶可能會限制胸腹擴張而妨礙呼吸；鄰近關節的病灶會限制關節活動；而生殖器病灶則可能造成包莖（phimosis）、陰道瘢痕化與陰道口狹窄，進而導致性交疼痛，甚至造成陰道完全閉鎖（complete obliteration）。",
+          "review": "ai-draft",
+          "endPage": 496
+        },
+        {
+          "id": 5400004,
+          "page": 495,
+          "en": "F. Ayuk (*)\nDepartment of Stem Cell Transplantation, University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany\ne-mail: ayuketang@uke.de\nB. N. Savani\nDepartment of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA\ne-mail: bipin.savani@vanderbilt.edu\n\n© The Author(s) 2024\nA. Sureda et al. (eds.), The EBMT Handbook, https://doi.org/10.1007/978-3-031-44080-9_54",
+          "zh": "作者單位與聯絡資訊：\nF. Ayuk（通訊作者）：德國漢堡-埃彭多夫大學醫學中心（UKE）幹細胞移植部；電子郵件：ayuketang@uke.de。\nB. N. Savani：美國田納西州納許維爾范德堡大學醫學中心（Vanderbilt University Medical Center）內科部；電子郵件：bipin.savani@vanderbilt.edu。\n\n© 作者 2024。A. Sureda 等編，《The EBMT Handbook》，https://doi.org/10.1007/978-3-031-44080-9_54。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 496,
+      "blocks": [
+        {
+          "id": 5400005,
+          "page": 496,
+          "en": "In the early “inflammatory” phase of GVHD, patients often present with edema and discomfort which later progress to fibrosis and joint contractures. Regular survey of range of motion by patients and physicians may enable early detection of reversible lesions. Regular assessment (e.g., via questionnaire or oral interview) during routine clinical visits may encourage physicians and patients to address issues involving the genital tract, thereby enabling early detection and treatment.\nGeneral treatment and management of GVHD are discussed in Chaps. 43 and 44. In patients with chronic GVHD of the skin and subcutaneous tissues, treatment is best initiated in the early phase prior to development of most often irreversible fibrosis and contractures, which otherwise may require protracted immunosuppression and other measures, sometimes over several years. Physiotherapy including deep myofascial massage and stretching exercises is essential to restore or maintain range of motion. In patients with genital involvement, topical treatment with immunosuppressive agents and hormones and use of vaginal dilators should be initiated early to prevent or reduce the degree of irreversible fibrosis and avoid the need for surgical intervention.",
+          "zh": "在硬化型 GVHD 早期的「發炎」階段，患者常表現出水腫與緊繃不適，隨後才進展為纖維化與關節攣縮（contractures）。由患者與醫師定期檢查關節活動度（range of motion），有助於及早偵測出尚具可逆性的病灶。在常規門診回診期間進行定期評估（例如透過問卷或口頭問診），能鼓勵醫師與患者主動面對生殖道相關問題，從而達成早期偵測與早期治療。\nGVHD 的一般治療與處置管理已於第 43 與 44 章詳述。在患有皮膚與皮下組織慢性 GVHD 的患者中，最好能在進展為往往不可逆的纖維化與關節攣縮之前的早期階段即啟動治療；否則一旦硬化成形，可能需要長達數年的長期免疫抑制與其他輔助措施。物理治療（包括深層肌筋膜按摩與伸展運動）對於恢復或維持關節活動度至關重要。對於有生殖器受累的患者，應及早開始使用局部免疫抑制劑與局部荷爾蒙治療，並搭配使用陰道擴張器，以預防或減輕不可逆纖維化的程度，避免最終需要手術介入。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400006,
+          "page": 496,
+          "en": "54.1.4 Infectious Complications Involving the Skin\nInfection-associated skin lesions are often due to viruses. Unexplained fever and rash are more frequent in patients with HHV6 viremia compared to controls (Betts et al. 2011). Due to the lack of effective prophylaxis, HHV6-related complications occur during early transplant phases, especially in PT-Cy setting, while shingles (varicella zoster) are mostly seen beyond 6 months after transplant and mainly after discontinuation of prophylactic acyclovir (Noviello et al. 2023). HSV1-related complications are more frequent in early weeks and also in patients under continuous immunosuppression for GVHD and may occur despite prophylactic aciclovir. Other infectious conditions of the skin include fungal infections (mainly due to dermatophytes and, less frequently, Aspergillus or Mucor species) and bacterial infections. Management of infections mostly consists of systemic antiviral, antifungal, or antibiotic treatment.",
+          "zh": "54.1.4 涉及皮膚之感染性併發症\n與感染相關的皮膚病灶常由病毒引起。與對照組相比，在發生人類疱疹病毒第六型（HHV-6）病毒血症的患者中，不明原因發燒與皮疹更為常見（Betts et al. 2011）。由於缺乏有效的常規預防藥物，HHV-6 相關併發症常發生在移植早期階段（特別是在使用 PT-Cy 的移植情境下）；而帶狀疱疹（水痘帶狀疱疹病毒，VZV）則大多見於移植 6 個月以後，且主要發生在停用預防性 acyclovir 之後（Noviello et al. 2023）。第一型單純疱疹病毒（HSV-1）相關併發症在移植後最初數週以及因 GVHD 持續接受免疫抑制治療的患者中較為常見，且有時即使正在使用預防性 acyclovir 仍可能突破發生。皮膚的其他感染狀況包括黴菌感染（主要由皮癬菌〔dermatophytes〕引起，較少數由麴菌〔Aspergillus〕或毛黴菌〔Mucor〕屬引起之皮膚表現）以及細菌感染。皮膚感染的處置主要由全身性（或搭配局部）抗病毒、抗黴菌或抗生素治療所組成。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400007,
+          "page": 496,
+          "en": "54.1.5 Malignant Complications of the Skin\nPost-transplant malignant conditions of the skin include skin cancer (basal cell carcinoma, squamous cell carcinoma, and melanoma) and relapse of underlying malignant disease. BCC and SCC are much more common and have a better prognosis than melanoma. The incidence of melanoma has been reported to be higher after allo-HCT with standardized incidence ratios ranging from 1.4 to 8.3 (Inamoto et al. 2015). Secondary cancers, risk factors, and management are discussed in detail in Chap. 47. Overall, the survival for these patients is comparable to those of patients with the same de novo cancer (Tichelli et al. 2019).\nPatients should be counseled to perform self-examination of the skin and adjacent mucosa, use adequate sun protection, and avoid excessive sun exposure. Country-specific general population recommendations for screening for cancer should be adapted and modified taking increased risk of HCT survivors into consideration.",
+          "zh": "54.1.5 皮膚之惡性腫瘤併發症\n移植後的皮膚惡性病變包括次發性皮膚癌——基底細胞癌（BCC）、鱗狀細胞癌（SCC）與黑色素瘤（melanoma）——以及原發惡性疾病的皮膚髓外復發。BCC 與 SCC 比黑色素瘤常見得多，且預後較佳。文獻報導在異體 HCT 後，黑色素瘤的發生率亦高於一般人口，其標準化發生比（SIR）介於 1.4 至 8.3 之間（Inamoto et al. 2015）。關於次發性癌症、危險因子與處置管理已於第 47 章詳細討論。整體而言，這些發生次發性皮膚癌之移植患者的存活率，與罹患相同原發性（de novo）皮膚癌的一般患者相當（Tichelli et al. 2019）。\n應衛教患者定期對皮膚及鄰近黏膜進行自我檢查、採取適當的防曬措施，並避免過度日曬。在應用各國針對一般人口的癌症篩檢建議時，應考量 HCT 存活者顯著較高的風險而加以調整強化。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400008,
+          "page": 496,
+          "en": "54.2 Musculoskeletal Complications\n54.2.1 Introduction\nComplications involving the muscles include myopathies, myositis, and cramps. Musculoskeletal complications are reported in 35% of long-term survivors 10 years after allogeneic transplantation (Syrjala et al. 2005).",
+          "zh": "54.2 肌肉骨骼併發症\n54.2.1 前言\n涉及肌肉的併發症包括肌病變（myopathies）、肌炎（myositis）與肌肉痙攣／抽筋（cramps）。研究報導，在異體移植 10 年後的長期存活者中，有高達 35% 存有肌肉骨骼相關併發症（Syrjala et al. 2005）。",
+          "review": "ai-draft"
+        }
+      ]
+    },
+    {
+      "page": 497,
+      "blocks": [
+        {
+          "id": 5400009,
+          "page": 497,
+          "en": "54.2.2 Myopathy\nThe most frequent causes of myopathy early after transplant are corticosteroid therapy and inactivity. Patients report muscle weakness with no pain, and laboratory investigations show normal creatine kinase. The proximal lower limb muscles, particularly the quadriceps muscles, are most severely affected. The main risk factors include increasing dose and duration of corticosteroid therapy, older patient age, and the extent and duration of inactivity, particularly when intensive care is required. Patients should receive physiotherapy as soon as corticosteroid therapy is initiated and be advised to exercise on their own (Mohammed et al. 2019). Systemic corticosteroids should be tapered or avoided when possible.",
+          "zh": "54.2.2 肌病變（Myopathy）\n移植後早期發生肌病變最常見的原因是皮質類固醇治療與缺乏活動（臥床）。患者會主訴無痛性的肌肉無力，且實驗室檢驗顯示血中肌酸激酶（creatine kinase, CK）數值正常。下肢近端肌群（特別是股四頭肌）受影響最為嚴重。主要危險因子包括皮質類固醇治療的劑量增加與療程延長、患者高齡，以及缺乏活動的程度與時間長短（特別是在需要加護病房照護時）。患者一旦開始接受皮質類固醇治療，就應立即接受物理治療，並被指導進行自主運動鍛鍊（Mohammed et al. 2019）。在臨床許可的情況下，應盡可能將全身性皮質類固醇逐步減量或避免長期使用。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400010,
+          "page": 497,
+          "en": "54.2.3 Myasthenia Gravis\nThough rare (<1%), it has been reported after allogeneic hematopoietic cell transplantation, mostly in the context of chronic GVHD. Patients present with fatigable weakness during or after tapering of immunosuppression (Grauer et al. 2010). Diagnosis includes detection of antibodies against acetylcholine in blood. Treatment consists of cholinesterase inhibitors and IS therapies for chronic GVHD.\n54.2.4 Muscle Cramps\nMuscle cramps are painful and often visible contractions lasting up to 30 min. Though rarely reported, they appear to be frequent in patients with chronic GVHD (Filipovich et al. 2005); an association with chronic IS may also be possible. Magnesium deficiency and side effects of medications (e.g., ganciclovir, valganciclovir) should always be ruled out. If magnesium replacement and discontinuation of suspected causative drugs do not bring relief, treatment with, for example, quinine or antiepileptic drugs may be considered.\n54.2.5 Myositis\nMyositis has been reported in up to 3% of patients after allo-HCT. Though frequently associated with other symptoms of chronic GVHD, it can also be the sole manifestation of GVHD (Openshaw et al. 2009). Patients often present with pressure-sensitive muscle pain and increased blood creatine kinase. Management is within GVHD treatment (Couriel et al. 2002).",
+          "zh": "54.2.3 重症肌無力（Myasthenia Gravis）\n重症肌無力雖然罕見（<1%），但曾被報導發生於異體造血細胞移植之後，且大多出現在慢性 GVHD 的脈絡下。患者在調降免疫抑制劑期間或停藥後，會表現出易疲勞性的肌肉無力（fatigable weakness）（Grauer et al. 2010）。診斷包含偵測血中抗乙醯膽鹼受體（acetylcholine receptor）抗體。治療則由乙醯膽鹼酯酶抑制劑（cholinesterase inhibitors）以及針對慢性 GVHD 的免疫抑制療法所組成。\n54.2.4 肌肉痙攣／抽筋（Muscle Cramps）\n肌肉痙攣是疼痛且常肉眼可見的肌肉收縮，可持續長達 30 分鐘。雖然文獻較少專門報導，但在慢性 GVHD 患者中似乎相當常見（Filipovich et al. 2005）；亦可能與長期使用免疫抑制劑（如 CNI）或慢性神經病變有關。臨床上必須先排除鎂離子缺乏（低血鎂）以及藥物的副作用（例如 ganciclovir、valganciclovir 等）。若補充鎂離子與停用疑似致病藥物仍無法緩解，可考慮使用如奎寧（quinine）或抗癲癇／神經痛藥物進行治療。\n54.2.5 肌炎（Myositis）\n據報導，在異體 HCT 後有高達 3% 的患者會發生肌炎（多發性肌炎）。雖然它常伴隨慢性 GVHD 的其他症狀一起出現，但有時也可以是 GVHD 的唯一表現（Openshaw et al. 2009）。患者常表現出具壓痛感的肌肉疼痛以及血中肌酸激酶（CK）顯著升高（此點可與 CK 正常的類固醇肌病變區分）。其處置管理涵蓋於全身性 GVHD 治療之中（Couriel et al. 2002）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400011,
+          "page": 497,
+          "en": "54.2.6 Complications Involving the Bones and Joints\nThe most frequent complications involving the bones and joints are chronic GVHD, avascular osteonecrosis, and bone loss (osteopenia/osteoporosis). Chronic GVHD of the joints is discussed in Chap. 44.\n54.2.6.1 Osteoporosis/Osteopenia\nOsteopenia (defined as a T-score between −1 and −2.5) and osteoporosis (defined as a T-score less than −2.5) have been reported in about 25–50% of patients after allo-HCT and up to 60% in patients with severe chronic GVHD (Pirsl et al. 2016). Risk factors include protracted IS, older patient age, higher cumulative corticosteroid dose (Schulte and Beelen 2004; Savani et al. 2007; Stern et al. 2001; Yao et al. 2008; Petropoulou et al. 2010; Abou-Mourad et al. 2010), lower body weight, malnutrition, physical inactivity, female gender, higher average NIH organ score, as well as higher platelet counts in patients with severe chronic GVHD (Pirsl et al. 2016).\nIn accordance with these risk factors, decrease in bone mineral density occurs most rapidly within the first year after transplant. If osteopenia or osteoporosis is diagnosed, endocrine causes like hyperthyroidism, hyperparathyroidism, and hypogonadism need to be ruled out. Screening using dual energy X-ray absorptiometry (DEXA) is recommended 1 year after transplant and repeat measurements in patients with recognized defects (Majhail et al. 2012).",
+          "zh": "54.2.6 涉及骨骼與關節之併發症\n涉及骨骼與關節最常見的併發症為慢性 GVHD、缺血性骨壞死（avascular osteonecrosis）以及骨質流失（骨質缺乏／骨質疏鬆症）。關節與筋膜的慢性 GVHD 已於第 44 章討論。\n54.2.6.1 骨質疏鬆症／骨質缺乏（Osteoporosis/Osteopenia）\n骨質缺乏（osteopenia，定義為骨密度 T-score 介於 −1 至 −2.5 之間）與骨質疏鬆症（osteoporosis，定義為 T-score 低於 −2.5）在異體 HCT 後約見於 25–50% 的患者，而在患有嚴重慢性 GVHD 的患者中更高達 60%（Pirsl et al. 2016）。危險因子包括長期免疫抑制治療、患者高齡、較高的皮質類固醇累積劑量（Schulte and Beelen 2004; Savani et al. 2007; Stern et al. 2001; Yao et al. 2008; Petropoulou et al. 2010; Abou-Mourad et al. 2010）、低體重、營養不良、缺乏身體活動、女性、較高的平均 NIH 器官評分，以及在嚴重慢性 GVHD 患者中較高的血小板計數（Pirsl et al. 2016）。\n與這些危險因子相呼應，骨礦物質密度（BMD）的下降在移植後第一年內發生得最為迅速。若診斷出骨質缺乏或骨質疏鬆症，必須排除甲狀腺功能亢進、副甲狀腺功能亢進以及性腺功能低下等內分泌原因。建議在移植後 1 年使用雙能量 X 光吸收儀（DEXA）進行骨密度篩檢，並在已確認有骨質缺損或持續使用類固醇的患者中定期重複量測（Majhail et al. 2012）。",
+          "review": "ai-draft",
+          "endPage": 498
+        }
+      ]
+    },
+    {
+      "page": 498,
+      "blocks": [
+        {
+          "id": 5400012,
+          "page": 498,
+          "en": "Measures to prevent bone loss include vitamin D supplementation in regions with high prevalence of vitamin D deficiency, adequate calcium intake preferable through diet, and regular weight-bearing physical exercise. Beyond the above preventive measures, specific treatment is recommended for patients with severe osteopenia or osteoporosis (Bhatia et al., 2017). Hormone replacement therapy should be considered in patients with hypogonadism. Reduction in the risk of fractures has been demonstrated for several agents and agent combinations (Barrionuevo et al. 2019). Patients should also be counseled to modify negative lifestyle factors (e.g., cease smoking) and take measures to prevent falls (e.g., physical exercise including balance training, correct visual disorders).",
+          "zh": "預防骨質流失的措施包括在維生素 D 缺乏高盛行地區補充維生素 D、攝取充足的鈣質（優先透過飲食攝取），以及規律進行負重身體運動（weight-bearing physical exercise）。除了上述預防措施外，對於患有嚴重骨質缺乏或骨質疏鬆症的患者，建議給予抗骨鬆特異性藥物治療（如雙磷酸鹽類等）（Bhatia et al. 2017）。在合併性腺功能低下的患者中，應考慮荷爾蒙補充療法。多種抗骨鬆藥物與藥物組合已被證實能有效降低骨折風險（Barrionuevo et al. 2019）。此外，亦應衛教患者改善不良生活型態因素（例如戒菸、減少過量飲酒），並採取預防跌倒的措施（例如包含平衡訓練的體能運動、矯正視力障礙）。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400013,
+          "page": 498,
+          "en": "54.2.6.2 Avascular Necrosis\nAvascular necrosis (AVN) has been reported in up to 19% of adult patients and up to 29% of patients younger than 20 years (Torii et al. 2001; Patel et al. 2008). Risk factors include GVHD, steroid therapy, microvascular changes due to GVHD and/or its therapy, younger age at transplant, and TBI (Socié et al. 1997; French et al. 2008; Patel et al. 2008; Campbell et al. 2009; Jagasia et al. 2010). Patients usually present with joint pain, restricted to one or two affected joints. Though most joints can be affected, the hips are by far most frequently involved, bilateral in the majority of cases.\nScreening for AVN is not recommended; however, high index of suspicion and prompt MRI are necessary in early symptomatic patients with risk factors, to enable early detection and intervention (Bhatia et al. 2017).\nPain relief and maintenance or restoration of patient mobility are the main aims or treatment. Discontinuation of corticosteroid and other IS therapies should be considered where possible. Drug therapy is limited to pain relief. The role of nonsurgical causative therapies, such as bisphosphonates, statins, and prostacyclin analogues, is still unclear. Pressure relief by means of surgical core decompression may relieve pain and slow down progression in early stages, whereby additional autologous bone marrow grafting further improves long-term outcome (Hernigou et al. 2018). In patients with late-stage disease with femoral head collapse, joint-preserving strategies are not effective, and total hip arthroplasty is the recommended long-term treatment.",
+          "zh": "54.2.6.2 缺血性骨壞死（Avascular Necrosis, AVN）\n據報導，缺血性骨壞死（AVN）可見於高達 19% 的成年移植患者，以及高達 29% 小於 20 歲的年輕患者（特別是青春期與青少年 ALL 患者）（Torii et al. 2001; Patel et al. 2008）。危險因子包括 GVHD、類固醇治療、因 GVHD 及／或其治療引起的微血管病變、接受移植時處於青少年／較年輕年齡，以及使用 TBI（Socié et al. 1997; French et al. 2008; Patel et al. 2008; Campbell et al. 2009; Jagasia et al. 2010）。患者通常以局限於一或兩個受累關節的關節疼痛為表現。雖然大多數關節都可能受影響，但髖關節（股骨頭）是迄今最常受累的部位，且在大多數案例中為雙側同時或接續發生。\n目前不建議對無症狀患者進行常規 AVN 影像篩檢；然而，對於帶有危險因子且出現早期關節疼痛症狀的患者，必須保持高度警覺並立即安排磁振造影（MRI，對早期 AVN 最敏感的檢查），以便及早偵測與介入（Bhatia et al. 2017）。\n治療的主要目標為緩解疼痛以及維持或恢復患者的行動能力。在臨床許可時應考慮盡可能減停皮質類固醇與其他免疫抑制治療。內科藥物治療主要限於止痛；非手術之病因治療（如雙磷酸鹽類、statins 與前列環素〔prostacyclin〕類似物）的確切角色仍未明朗。在疾病早期（股骨頭尚未塌陷前），透過手術進行核心減壓術（core decompression）可緩解骨內壓力與疼痛並減緩病程惡化，若同時在減壓處植入自體骨髓細胞則可進一步改善長期預後（Hernigou et al. 2018）。然而，對於已經發生股骨頭塌陷的晚期患者，保留原生關節的策略已無效果，全人工髖關節置換術（total hip arthroplasty）是建議的長期根本治療。",
+          "review": "ai-draft"
+        },
+        {
+          "id": 5400014,
+          "page": 498,
+          "en": "Abou-Mourad YR, Lau BC, Barnett MJ, et al. Long-term outcome after allo-SCT: close follow-up on a large cohort treated with myeloablative regimens. Bone Marrow Transplant. 2010;45:295–302.",
+          "zh": "Abou-Mourad YR, Lau BC, Barnett MJ, et al. Long-term outcome after allo-SCT: close follow-up on a large cohort treated with myeloablative regimens. Bone Marrow Transplant. 2010;45:295–302.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Abou-Mourad%20YR%2C%20Lau%20BC%2C%20Barnett%20MJ%2C%20et%20al.%20Long-term%20outcome%20after%20allo-SCT%3A%20close%20follow-up%20on%20a%20large%20cohort%20treated%20with%20myeloablative%20regimens.%20Bone%20Marrow%20Transplant.%202010%3B45%3A295%E2%80%93302."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Abou-Mourad%20YR%2C%20Lau%20BC%2C%20Barnett%20MJ%2C%20et%20al.%20Long-term%20outcome%20after%20allo-SCT%3A%20close%20follow-up%20on%20a%20large%20cohort%20treated%20with%20myeloablative%20regimens.%20Bone%20Marrow%20Transplant.%202010%3B45%3A295%E2%80%93302."
+            }
+          ]
+        },
+        {
+          "id": 5400015,
+          "page": 498,
+          "en": "Barrionuevo P, Kapoor E, Asi N, et al. Efficacy of pharmacological therapies for the prevention of fractures in postmenopausal women: a network meta-analysis. J Clin Endocrinol Metab. 2019;104(5):1623–30.",
+          "zh": "Barrionuevo P, Kapoor E, Asi N, et al. Efficacy of pharmacological therapies for the prevention of fractures in postmenopausal women: a network meta-analysis. J Clin Endocrinol Metab. 2019;104(5):1623–30.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Barrionuevo%20P%2C%20Kapoor%20E%2C%20Asi%20N%2C%20et%20al.%20Efficacy%20of%20pharmacological%20therapies%20for%20the%20prevention%20of%20fractures%20in%20postmenopausal%20women%3A%20a%20network%20meta-analysis.%20J%20Clin%20Endocrinol%20Metab.%202019%3B104%285%29%3A1623%E2%80%9330."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Barrionuevo%20P%2C%20Kapoor%20E%2C%20Asi%20N%2C%20et%20al.%20Efficacy%20of%20pharmacological%20therapies%20for%20the%20prevention%20of%20fractures%20in%20postmenopausal%20women%3A%20a%20network%20meta-analysis.%20J%20Clin%20Endocrinol%20Metab.%202019%3B104%285%29%3A1623%E2%80%9330."
+            }
+          ]
+        },
+        {
+          "id": 5400016,
+          "page": 498,
+          "en": "Betts BC, Young JA, Ustun C, et al. Human herpesvirus 6 infection after hematopoietic cell transplantation: is routine surveillance necessary? Biol Blood Marrow Transplant. 2011;17:1562–8.",
+          "zh": "Betts BC, Young JA, Ustun C, et al. Human herpesvirus 6 infection after hematopoietic cell transplantation: is routine surveillance necessary? Biol Blood Marrow Transplant. 2011;17:1562–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Betts%20BC%2C%20Young%20JA%2C%20Ustun%20C%2C%20et%20al.%20Human%20herpesvirus%206%20infection%20after%20hematopoietic%20cell%20transplantation%3A%20is%20routine%20surveillance%20necessary%3F%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1562%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Betts%20BC%2C%20Young%20JA%2C%20Ustun%20C%2C%20et%20al.%20Human%20herpesvirus%206%20infection%20after%20hematopoietic%20cell%20transplantation%3A%20is%20routine%20surveillance%20necessary%3F%20Biol%20Blood%20Marrow%20Transplant.%202011%3B17%3A1562%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5400017,
+          "page": 498,
+          "en": "Bhatia S, Armenian SH, Landier W. How I monitor long-term and late effects after blood or marrow transplantation. Blood. 2017;130(11):1302–14.",
+          "zh": "Bhatia S, Armenian SH, Landier W. How I monitor long-term and late effects after blood or marrow transplantation. Blood. 2017;130(11):1302–14.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Bhatia%20S%2C%20Armenian%20SH%2C%20Landier%20W.%20How%20I%20monitor%20long-term%20and%20late%20effects%20after%20blood%20or%20marrow%20transplantation.%20Blood.%202017%3B130%2811%29%3A1302%E2%80%9314."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Bhatia%20S%2C%20Armenian%20SH%2C%20Landier%20W.%20How%20I%20monitor%20long-term%20and%20late%20effects%20after%20blood%20or%20marrow%20transplantation.%20Blood.%202017%3B130%2811%29%3A1302%E2%80%9314."
+            }
+          ]
+        },
+        {
+          "id": 5400018,
+          "page": 498,
+          "en": "Campbell S, Sun CL, Kurian S, et al. Predictors of avascular necrosis of bone in long-term survivors of hematopoietic cell transplantation. Cancer. 2009;115:4127–35.",
+          "zh": "Campbell S, Sun CL, Kurian S, et al. Predictors of avascular necrosis of bone in long-term survivors of hematopoietic cell transplantation. Cancer. 2009;115:4127–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Campbell%20S%2C%20Sun%20CL%2C%20Kurian%20S%2C%20et%20al.%20Predictors%20of%20avascular%20necrosis%20of%20bone%20in%20long-term%20survivors%20of%20hematopoietic%20cell%20transplantation.%20Cancer.%202009%3B115%3A4127%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Campbell%20S%2C%20Sun%20CL%2C%20Kurian%20S%2C%20et%20al.%20Predictors%20of%20avascular%20necrosis%20of%20bone%20in%20long-term%20survivors%20of%20hematopoietic%20cell%20transplantation.%20Cancer.%202009%3B115%3A4127%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 5400019,
+          "page": 498,
+          "en": "Couriel DR, Beguelin GZ, Giralt S, et al. Chronic graft-versus-host disease manifesting as polymyositis: an uncommon presentation. Bone Marrow Transplant. 2002;30:543–6.",
+          "zh": "Couriel DR, Beguelin GZ, Giralt S, et al. Chronic graft-versus-host disease manifesting as polymyositis: an uncommon presentation. Bone Marrow Transplant. 2002;30:543–6.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Couriel%20DR%2C%20Beguelin%20GZ%2C%20Giralt%20S%2C%20et%20al.%20Chronic%20graft-versus-host%20disease%20manifesting%20as%20polymyositis%3A%20an%20uncommon%20presentation.%20Bone%20Marrow%20Transplant.%202002%3B30%3A543%E2%80%936."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Couriel%20DR%2C%20Beguelin%20GZ%2C%20Giralt%20S%2C%20et%20al.%20Chronic%20graft-versus-host%20disease%20manifesting%20as%20polymyositis%3A%20an%20uncommon%20presentation.%20Bone%20Marrow%20Transplant.%202002%3B30%3A543%E2%80%936."
+            }
+          ]
+        },
+        {
+          "id": 5400020,
+          "page": 498,
+          "en": "Filipovich AH, Weisdorf D, Pavletic S, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Biol Blood Marrow Transplant. 2005;11:945–56.",
+          "zh": "Filipovich AH, Weisdorf D, Pavletic S, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Biol Blood Marrow Transplant. 2005;11:945–56.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Filipovich%20AH%2C%20Weisdorf%20D%2C%20Pavletic%20S%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20I.%20Diagnosis%20and%20staging%20working%20group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202005%3B11%3A945%E2%80%9356."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Filipovich%20AH%2C%20Weisdorf%20D%2C%20Pavletic%20S%2C%20et%20al.%20National%20Institutes%20of%20Health%20consensus%20development%20project%20on%20criteria%20for%20clinical%20trials%20in%20chronic%20graft-versus-host%20disease%3A%20I.%20Diagnosis%20and%20staging%20working%20group%20report.%20Biol%20Blood%20Marrow%20Transplant.%202005%3B11%3A945%E2%80%9356."
+            }
+          ]
+        },
+        {
+          "id": 5400021,
+          "page": 498,
+          "en": "French D, Hamilton LH, Mattano LA, et al. A PAI-1 (Serpine1) polymorphism predicts osteonecrosis in children with acute lymphoblastic leukemia: a report from the Children’s Oncology Group. Blood. 2008;111:4496–9.",
+          "zh": "French D, Hamilton LH, Mattano LA, et al. A PAI-1 (Serpine1) polymorphism predicts osteonecrosis in children with acute lymphoblastic leukemia: a report from the Children’s Oncology Group. Blood. 2008;111:4496–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=French%20D%2C%20Hamilton%20LH%2C%20Mattano%20LA%2C%20et%20al.%20A%20PAI-1%20%28Serpine1%29%20polymorphism%20predicts%20osteonecrosis%20in%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20report%20from%20the%20Children%E2%80%99s%20Oncology%20Group.%20Blood.%202008%3B111%3A4496%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=French%20D%2C%20Hamilton%20LH%2C%20Mattano%20LA%2C%20et%20al.%20A%20PAI-1%20%28Serpine1%29%20polymorphism%20predicts%20osteonecrosis%20in%20children%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20report%20from%20the%20Children%E2%80%99s%20Oncology%20Group.%20Blood.%202008%3B111%3A4496%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5400022,
+          "page": 498,
+          "en": "Grauer O, Wolff D, Bertz H, et al. Neurological manifestations of chronic graft-versus-host disease after allogeneic haematopoietic stem cell transplantation: report from the consensus conference on clinical practice in chronic graft-versus-host disease. Brain. 2010;133:2852–65.",
+          "zh": "Grauer O, Wolff D, Bertz H, et al. Neurological manifestations of chronic graft-versus-host disease after allogeneic haematopoietic stem cell transplantation: report from the consensus conference on clinical practice in chronic graft-versus-host disease. Brain. 2010;133:2852–65.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Grauer%20O%2C%20Wolff%20D%2C%20Bertz%20H%2C%20et%20al.%20Neurological%20manifestations%20of%20chronic%20graft-versus-host%20disease%20after%20allogeneic%20haematopoietic%20stem%20cell%20transplantation%3A%20report%20from%20the%20consensus%20conference%20on%20clinical%20practice%20in%20chronic%20graft-versus-host%20disease.%20Brain.%202010%3B133%3A2852%E2%80%9365."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Grauer%20O%2C%20Wolff%20D%2C%20Bertz%20H%2C%20et%20al.%20Neurological%20manifestations%20of%20chronic%20graft-versus-host%20disease%20after%20allogeneic%20haematopoietic%20stem%20cell%20transplantation%3A%20report%20from%20the%20consensus%20conference%20on%20clinical%20practice%20in%20chronic%20graft-versus-host%20disease.%20Brain.%202010%3B133%3A2852%E2%80%9365."
+            }
+          ]
+        },
+        {
+          "id": 5400023,
+          "page": 498,
+          "en": "Hernigou P, Dubory A, Homma Y, et al. Cell therapy versus simultaneous contralateral decompression in symptomatic corticosteroid osteonecrosis: a thirty year follow-up prospective randomized study of one hundred and twenty five adult patients. Int Orthop. 2018;42:1639. https://doi.org/10.1007/s00264-018-3941-8.",
+          "zh": "Hernigou P, Dubory A, Homma Y, et al. Cell therapy versus simultaneous contralateral decompression in symptomatic corticosteroid osteonecrosis: a thirty year follow-up prospective randomized study of one hundred and twenty five adult patients. Int Orthop. 2018;42:1639. https://doi.org/10.1007/s00264-018-3941-8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Hernigou%20P%2C%20Dubory%20A%2C%20Homma%20Y%2C%20et%20al.%20Cell%20therapy%20versus%20simultaneous%20contralateral%20decompression%20in%20symptomatic%20corticosteroid%20osteonecrosis%3A%20a%20thirty%20year%20follow-up%20prospective%20randomized%20study%20of%20one%20hundred%20and%20twenty%20five%20adult%20patients.%20Int%20Orthop.%202018%3B42%3A1639.%20https%3A//doi.org/10.1007/s00264-018-3941-8."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Hernigou%20P%2C%20Dubory%20A%2C%20Homma%20Y%2C%20et%20al.%20Cell%20therapy%20versus%20simultaneous%20contralateral%20decompression%20in%20symptomatic%20corticosteroid%20osteonecrosis%3A%20a%20thirty%20year%20follow-up%20prospective%20randomized%20study%20of%20one%20hundred%20and%20twenty%20five%20adult%20patients.%20Int%20Orthop.%202018%3B42%3A1639.%20https%3A//doi.org/10.1007/s00264-018-3941-8."
+            }
+          ]
+        },
+        {
+          "id": 5400024,
+          "page": 498,
+          "en": "Inamoto Y, Shah NN, Savani BN, et al. Secondary solid cancer screening following hematopoietic cell transplantation. Bone Marrow Transplant. 2015;50:1013–23.",
+          "zh": "Inamoto Y, Shah NN, Savani BN, et al. Secondary solid cancer screening following hematopoietic cell transplantation. Bone Marrow Transplant. 2015;50:1013–23.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Inamoto%20Y%2C%20Shah%20NN%2C%20Savani%20BN%2C%20et%20al.%20Secondary%20solid%20cancer%20screening%20following%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1013%E2%80%9323."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Inamoto%20Y%2C%20Shah%20NN%2C%20Savani%20BN%2C%20et%20al.%20Secondary%20solid%20cancer%20screening%20following%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202015%3B50%3A1013%E2%80%9323."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 499,
+      "blocks": [
+        {
+          "id": 5400025,
+          "page": 499,
+          "en": "Jagasia S, Misfeldt A, Griffith M, Jagasia M. Age and total body irradiation in addition to corticosteroid dose are important risk factors for avascular necrosis of the bone. Biol Blood Marrow Transplant. 2010;16:1750–1.",
+          "zh": "Jagasia S, Misfeldt A, Griffith M, Jagasia M. Age and total body irradiation in addition to corticosteroid dose are important risk factors for avascular necrosis of the bone. Biol Blood Marrow Transplant. 2010;16:1750–1.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Jagasia%20S%2C%20Misfeldt%20A%2C%20Griffith%20M%2C%20Jagasia%20M.%20Age%20and%20total%20body%20irradiation%20in%20addition%20to%20corticosteroid%20dose%20are%20important%20risk%20factors%20for%20avascular%20necrosis%20of%20the%20bone.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%3A1750%E2%80%931."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Jagasia%20S%2C%20Misfeldt%20A%2C%20Griffith%20M%2C%20Jagasia%20M.%20Age%20and%20total%20body%20irradiation%20in%20addition%20to%20corticosteroid%20dose%20are%20important%20risk%20factors%20for%20avascular%20necrosis%20of%20the%20bone.%20Biol%20Blood%20Marrow%20Transplant.%202010%3B16%3A1750%E2%80%931."
+            }
+          ]
+        },
+        {
+          "id": 5400026,
+          "page": 499,
+          "en": "Majhail NS, Rizzo JD, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Bone Marrow Transplant. 2012;47:337–41.",
+          "zh": "Majhail NS, Rizzo JD, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Bone Marrow Transplant. 2012;47:337–41.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Majhail%20NS%2C%20Rizzo%20JD%2C%20Lee%20SJ%2C%20et%20al.%20Recommended%20screening%20and%20preventive%20practices%20for%20long-term%20survivors%20after%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202012%3B47%3A337%E2%80%9341."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Majhail%20NS%2C%20Rizzo%20JD%2C%20Lee%20SJ%2C%20et%20al.%20Recommended%20screening%20and%20preventive%20practices%20for%20long-term%20survivors%20after%20hematopoietic%20cell%20transplantation.%20Bone%20Marrow%20Transplant.%202012%3B47%3A337%E2%80%9341."
+            }
+          ]
+        },
+        {
+          "id": 5400027,
+          "page": 499,
+          "en": "Mohammed J, Smith SR, Burns L, et al. Role of physical therapy before and after hematopoietic stem cell transplantation: white paper report. Biol Blood Marrow Transplant. 2019;25(6):e191–8.",
+          "zh": "Mohammed J, Smith SR, Burns L, et al. Role of physical therapy before and after hematopoietic stem cell transplantation: white paper report. Biol Blood Marrow Transplant. 2019;25(6):e191–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Mohammed%20J%2C%20Smith%20SR%2C%20Burns%20L%2C%20et%20al.%20Role%20of%20physical%20therapy%20before%20and%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20white%20paper%20report.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%286%29%3Ae191%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Mohammed%20J%2C%20Smith%20SR%2C%20Burns%20L%2C%20et%20al.%20Role%20of%20physical%20therapy%20before%20and%20after%20hematopoietic%20stem%20cell%20transplantation%3A%20white%20paper%20report.%20Biol%20Blood%20Marrow%20Transplant.%202019%3B25%286%29%3Ae191%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5400028,
+          "page": 499,
+          "en": "Noviello M, Lorentino F, Xuw E, et al. Human herpesvirus 6-specific T-cell immunity in allogeneic hematopoietic stem cell transplant recipients. Blood Adv. 2023;7:5446.",
+          "zh": "Noviello M, Lorentino F, Xuw E, et al. Human herpesvirus 6-specific T-cell immunity in allogeneic hematopoietic stem cell transplant recipients. Blood Adv. 2023;7:5446.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Noviello%20M%2C%20Lorentino%20F%2C%20Xuw%20E%2C%20et%20al.%20Human%20herpesvirus%206-specific%20T-cell%20immunity%20in%20allogeneic%20hematopoietic%20stem%20cell%20transplant%20recipients.%20Blood%20Adv.%202023%3B7%3A5446."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Noviello%20M%2C%20Lorentino%20F%2C%20Xuw%20E%2C%20et%20al.%20Human%20herpesvirus%206-specific%20T-cell%20immunity%20in%20allogeneic%20hematopoietic%20stem%20cell%20transplant%20recipients.%20Blood%20Adv.%202023%3B7%3A5446."
+            }
+          ]
+        },
+        {
+          "id": 5400029,
+          "page": 499,
+          "en": "Openshaw H, Vogelsang GB, Pavletic SZ. Neurological manifestations of chronic graft versus host disease, chronic graft versus host disease. New York: Cambridge University Press; 2009. p. 243–51.",
+          "zh": "Openshaw H, Vogelsang GB, Pavletic SZ. Neurological manifestations of chronic graft versus host disease, chronic graft versus host disease. New York: Cambridge University Press; 2009. p. 243–51.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Openshaw%20H%2C%20Vogelsang%20GB%2C%20Pavletic%20SZ.%20Neurological%20manifestations%20of%20chronic%20graft%20versus%20host%20disease%2C%20chronic%20graft%20versus%20host%20disease.%20New%20York%3A%20Cambridge%20University%20Press%3B%202009.%20p.%20243%E2%80%9351."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Openshaw%20H%2C%20Vogelsang%20GB%2C%20Pavletic%20SZ.%20Neurological%20manifestations%20of%20chronic%20graft%20versus%20host%20disease%2C%20chronic%20graft%20versus%20host%20disease.%20New%20York%3A%20Cambridge%20University%20Press%3B%202009.%20p.%20243%E2%80%9351."
+            }
+          ]
+        },
+        {
+          "id": 5400030,
+          "page": 499,
+          "en": "Patel B, Richards SM, Rowe JM, et al. High incidence of avascular necrosis in adolescents with acute lymphoblastic leukemia: a UKALL XII analysis. Leukemia. 2008;22:308–12.",
+          "zh": "Patel B, Richards SM, Rowe JM, et al. High incidence of avascular necrosis in adolescents with acute lymphoblastic leukemia: a UKALL XII analysis. Leukemia. 2008;22:308–12.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Patel%20B%2C%20Richards%20SM%2C%20Rowe%20JM%2C%20et%20al.%20High%20incidence%20of%20avascular%20necrosis%20in%20adolescents%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20UKALL%20XII%20analysis.%20Leukemia.%202008%3B22%3A308%E2%80%9312."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Patel%20B%2C%20Richards%20SM%2C%20Rowe%20JM%2C%20et%20al.%20High%20incidence%20of%20avascular%20necrosis%20in%20adolescents%20with%20acute%20lymphoblastic%20leukemia%3A%20a%20UKALL%20XII%20analysis.%20Leukemia.%202008%3B22%3A308%E2%80%9312."
+            }
+          ]
+        },
+        {
+          "id": 5400031,
+          "page": 499,
+          "en": "Paun O, Phillips T, Fu P, Novoa RA, Honda KS, Lu KQ, Lazarus HM. Cutaneous complications in hematopoietic cell transplant recipients: impact of biopsy on patient management. Biol Blood Marrow Transplant. 2013;19(8):1204–9.",
+          "zh": "Paun O, Phillips T, Fu P, Novoa RA, Honda KS, Lu KQ, Lazarus HM. Cutaneous complications in hematopoietic cell transplant recipients: impact of biopsy on patient management. Biol Blood Marrow Transplant. 2013;19(8):1204–9.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Paun%20O%2C%20Phillips%20T%2C%20Fu%20P%2C%20Novoa%20RA%2C%20Honda%20KS%2C%20Lu%20KQ%2C%20Lazarus%20HM.%20Cutaneous%20complications%20in%20hematopoietic%20cell%20transplant%20recipients%3A%20impact%20of%20biopsy%20on%20patient%20management.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%288%29%3A1204%E2%80%939."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Paun%20O%2C%20Phillips%20T%2C%20Fu%20P%2C%20Novoa%20RA%2C%20Honda%20KS%2C%20Lu%20KQ%2C%20Lazarus%20HM.%20Cutaneous%20complications%20in%20hematopoietic%20cell%20transplant%20recipients%3A%20impact%20of%20biopsy%20on%20patient%20management.%20Biol%20Blood%20Marrow%20Transplant.%202013%3B19%288%29%3A1204%E2%80%939."
+            }
+          ]
+        },
+        {
+          "id": 5400032,
+          "page": 499,
+          "en": "Petropoulou AD, Porcher R, Herr AL, et al. Prospective assessment of bone turnover and clinical bone diseases after allogeneic hematopoietic stem-cell transplantation. Transplantation. 2010;89:1354–61.",
+          "zh": "Petropoulou AD, Porcher R, Herr AL, et al. Prospective assessment of bone turnover and clinical bone diseases after allogeneic hematopoietic stem-cell transplantation. Transplantation. 2010;89:1354–61.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Petropoulou%20AD%2C%20Porcher%20R%2C%20Herr%20AL%2C%20et%20al.%20Prospective%20assessment%20of%20bone%20turnover%20and%20clinical%20bone%20diseases%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Transplantation.%202010%3B89%3A1354%E2%80%9361."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Petropoulou%20AD%2C%20Porcher%20R%2C%20Herr%20AL%2C%20et%20al.%20Prospective%20assessment%20of%20bone%20turnover%20and%20clinical%20bone%20diseases%20after%20allogeneic%20hematopoietic%20stem-cell%20transplantation.%20Transplantation.%202010%3B89%3A1354%E2%80%9361."
+            }
+          ]
+        },
+        {
+          "id": 5400033,
+          "page": 499,
+          "en": "Pirsl F, Curtis LM, Steinberg SM, et al. Characterization and risk factor analysis of osteoporosis in a large cohort of patients with chronic graft-versus-host disease. Biol Blood Marrow Transplant. 2016;22:1517–24.",
+          "zh": "Pirsl F, Curtis LM, Steinberg SM, et al. Characterization and risk factor analysis of osteoporosis in a large cohort of patients with chronic graft-versus-host disease. Biol Blood Marrow Transplant. 2016;22:1517–24.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Pirsl%20F%2C%20Curtis%20LM%2C%20Steinberg%20SM%2C%20et%20al.%20Characterization%20and%20risk%20factor%20analysis%20of%20osteoporosis%20in%20a%20large%20cohort%20of%20patients%20with%20chronic%20graft-versus-host%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A1517%E2%80%9324."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Pirsl%20F%2C%20Curtis%20LM%2C%20Steinberg%20SM%2C%20et%20al.%20Characterization%20and%20risk%20factor%20analysis%20of%20osteoporosis%20in%20a%20large%20cohort%20of%20patients%20with%20chronic%20graft-versus-host%20disease.%20Biol%20Blood%20Marrow%20Transplant.%202016%3B22%3A1517%E2%80%9324."
+            }
+          ]
+        },
+        {
+          "id": 5400034,
+          "page": 499,
+          "en": "Savani BN, Donohue T, Kozanas E, et al. Increased risk of bone loss without fracture risk in long-term survivors after allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2007;13:517–20.",
+          "zh": "Savani BN, Donohue T, Kozanas E, et al. Increased risk of bone loss without fracture risk in long-term survivors after allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2007;13:517–20.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Savani%20BN%2C%20Donohue%20T%2C%20Kozanas%20E%2C%20et%20al.%20Increased%20risk%20of%20bone%20loss%20without%20fracture%20risk%20in%20long-term%20survivors%20after%20allogeneic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202007%3B13%3A517%E2%80%9320."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Savani%20BN%2C%20Donohue%20T%2C%20Kozanas%20E%2C%20et%20al.%20Increased%20risk%20of%20bone%20loss%20without%20fracture%20risk%20in%20long-term%20survivors%20after%20allogeneic%20stem%20cell%20transplantation.%20Biol%20Blood%20Marrow%20Transplant.%202007%3B13%3A517%E2%80%9320."
+            }
+          ]
+        },
+        {
+          "id": 5400035,
+          "page": 499,
+          "en": "Schulte CM, Beelen DW. Bone loss following hematopoietic stem cell transplantation: a long-term follow-up. Blood. 2004;103:3635–43.",
+          "zh": "Schulte CM, Beelen DW. Bone loss following hematopoietic stem cell transplantation: a long-term follow-up. Blood. 2004;103:3635–43.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Schulte%20CM%2C%20Beelen%20DW.%20Bone%20loss%20following%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20long-term%20follow-up.%20Blood.%202004%3B103%3A3635%E2%80%9343."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Schulte%20CM%2C%20Beelen%20DW.%20Bone%20loss%20following%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20long-term%20follow-up.%20Blood.%202004%3B103%3A3635%E2%80%9343."
+            }
+          ]
+        },
+        {
+          "id": 5400036,
+          "page": 499,
+          "en": "Socié G, Cahn JY, Carmelo J, et al. Avascular necrosis of bone after allogeneic bone marrow transplantation: analysis of risk factors for 4388 patients by the Société Francaise de Greffe de Moelle (SFGM). Br J Haematol. 1997;97:865–70.",
+          "zh": "Socié G, Cahn JY, Carmelo J, et al. Avascular necrosis of bone after allogeneic bone marrow transplantation: analysis of risk factors for 4388 patients by the Société Francaise de Greffe de Moelle (SFGM). Br J Haematol. 1997;97:865–70.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Soci%C3%A9%20G%2C%20Cahn%20JY%2C%20Carmelo%20J%2C%20et%20al.%20Avascular%20necrosis%20of%20bone%20after%20allogeneic%20bone%20marrow%20transplantation%3A%20analysis%20of%20risk%20factors%20for%204388%20patients%20by%20the%20Soci%C3%A9t%C3%A9%20Francaise%20de%20Greffe%20de%20Moelle%20%28SFGM%29.%20Br%20J%20Haematol.%201997%3B97%3A865%E2%80%9370."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Soci%C3%A9%20G%2C%20Cahn%20JY%2C%20Carmelo%20J%2C%20et%20al.%20Avascular%20necrosis%20of%20bone%20after%20allogeneic%20bone%20marrow%20transplantation%3A%20analysis%20of%20risk%20factors%20for%204388%20patients%20by%20the%20Soci%C3%A9t%C3%A9%20Francaise%20de%20Greffe%20de%20Moelle%20%28SFGM%29.%20Br%20J%20Haematol.%201997%3B97%3A865%E2%80%9370."
+            }
+          ]
+        },
+        {
+          "id": 5400037,
+          "page": 499,
+          "en": "Stern JM, Sullivan KM, Ott SM, et al. Bone density loss after allogeneic hematopoietic stem cell transplantation: a prospective study. Biol Blood Marrow Transplant. 2001;7:257–64.",
+          "zh": "Stern JM, Sullivan KM, Ott SM, et al. Bone density loss after allogeneic hematopoietic stem cell transplantation: a prospective study. Biol Blood Marrow Transplant. 2001;7:257–64.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Stern%20JM%2C%20Sullivan%20KM%2C%20Ott%20SM%2C%20et%20al.%20Bone%20density%20loss%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20prospective%20study.%20Biol%20Blood%20Marrow%20Transplant.%202001%3B7%3A257%E2%80%9364."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Stern%20JM%2C%20Sullivan%20KM%2C%20Ott%20SM%2C%20et%20al.%20Bone%20density%20loss%20after%20allogeneic%20hematopoietic%20stem%20cell%20transplantation%3A%20a%20prospective%20study.%20Biol%20Blood%20Marrow%20Transplant.%202001%3B7%3A257%E2%80%9364."
+            }
+          ]
+        },
+        {
+          "id": 5400038,
+          "page": 499,
+          "en": "Syrjala KL, Langer SL, Abrams JR, et al. Late effects of hematopoietic cell transplantation among 10-year adult survivors compared with case-matched controls. J Clin Oncol. 2005;23:6596–606.",
+          "zh": "Syrjala KL, Langer SL, Abrams JR, et al. Late effects of hematopoietic cell transplantation among 10-year adult survivors compared with case-matched controls. J Clin Oncol. 2005;23:6596–606.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Syrjala%20KL%2C%20Langer%20SL%2C%20Abrams%20JR%2C%20et%20al.%20Late%20effects%20of%20hematopoietic%20cell%20transplantation%20among%2010-year%20adult%20survivors%20compared%20with%20case-matched%20controls.%20J%20Clin%20Oncol.%202005%3B23%3A6596%E2%80%93606."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Syrjala%20KL%2C%20Langer%20SL%2C%20Abrams%20JR%2C%20et%20al.%20Late%20effects%20of%20hematopoietic%20cell%20transplantation%20among%2010-year%20adult%20survivors%20compared%20with%20case-matched%20controls.%20J%20Clin%20Oncol.%202005%3B23%3A6596%E2%80%93606."
+            }
+          ]
+        },
+        {
+          "id": 5400039,
+          "page": 499,
+          "en": "Tichelli A, Beohou E, Labopin M, et al. Evaluation of second solid cancers after hematopoietic stem cell transplantation in European patients. JAMA Oncol. 2019;5(2):229–35.",
+          "zh": "Tichelli A, Beohou E, Labopin M, et al. Evaluation of second solid cancers after hematopoietic stem cell transplantation in European patients. JAMA Oncol. 2019;5(2):229–35.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Tichelli%20A%2C%20Beohou%20E%2C%20Labopin%20M%2C%20et%20al.%20Evaluation%20of%20second%20solid%20cancers%20after%20hematopoietic%20stem%20cell%20transplantation%20in%20European%20patients.%20JAMA%20Oncol.%202019%3B5%282%29%3A229%E2%80%9335."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Tichelli%20A%2C%20Beohou%20E%2C%20Labopin%20M%2C%20et%20al.%20Evaluation%20of%20second%20solid%20cancers%20after%20hematopoietic%20stem%20cell%20transplantation%20in%20European%20patients.%20JAMA%20Oncol.%202019%3B5%282%29%3A229%E2%80%9335."
+            }
+          ]
+        },
+        {
+          "id": 5400040,
+          "page": 499,
+          "en": "Torii Y, Hasegawa Y, Kubo T, et al. Osteonecrosis of the femoral head after allogeneic bone marrow transplantation. Clin Orthop Relat Res. 2001;382:124–32.",
+          "zh": "Torii Y, Hasegawa Y, Kubo T, et al. Osteonecrosis of the femoral head after allogeneic bone marrow transplantation. Clin Orthop Relat Res. 2001;382:124–32.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Torii%20Y%2C%20Hasegawa%20Y%2C%20Kubo%20T%2C%20et%20al.%20Osteonecrosis%20of%20the%20femoral%20head%20after%20allogeneic%20bone%20marrow%20transplantation.%20Clin%20Orthop%20Relat%20Res.%202001%3B382%3A124%E2%80%9332."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Torii%20Y%2C%20Hasegawa%20Y%2C%20Kubo%20T%2C%20et%20al.%20Osteonecrosis%20of%20the%20femoral%20head%20after%20allogeneic%20bone%20marrow%20transplantation.%20Clin%20Orthop%20Relat%20Res.%202001%3B382%3A124%E2%80%9332."
+            }
+          ]
+        },
+        {
+          "id": 5400041,
+          "page": 499,
+          "en": "Yao S, McCarthy PL, Dunford LM, et al. High prevalence of early-onset osteopenia/osteoporosis after allogeneic stem cell transplantation and improvement after bisphosphonate therapy. Bone Marrow Transplant. 2008;41:393–8.",
+          "zh": "Yao S, McCarthy PL, Dunford LM, et al. High prevalence of early-onset osteopenia/osteoporosis after allogeneic stem cell transplantation and improvement after bisphosphonate therapy. Bone Marrow Transplant. 2008;41:393–8.",
+          "review": "ai-draft",
+          "retained": true,
+          "note": "英文書目保留原文；可查詢 Google 或 Google Scholar。",
+          "links": [
+            {
+              "label": "Google",
+              "url": "https://www.google.com/search?q=Yao%20S%2C%20McCarthy%20PL%2C%20Dunford%20LM%2C%20et%20al.%20High%20prevalence%20of%20early-onset%20osteopenia/osteoporosis%20after%20allogeneic%20stem%20cell%20transplantation%20and%20improvement%20after%20bisphosphonate%20therapy.%20Bone%20Marrow%20Transplant.%202008%3B41%3A393%E2%80%938."
+            },
+            {
+              "label": "Scholar",
+              "url": "https://scholar.google.com/scholar?q=Yao%20S%2C%20McCarthy%20PL%2C%20Dunford%20LM%2C%20et%20al.%20High%20prevalence%20of%20early-onset%20osteopenia/osteoporosis%20after%20allogeneic%20stem%20cell%20transplantation%20and%20improvement%20after%20bisphosphonate%20therapy.%20Bone%20Marrow%20Transplant.%202008%3B41%3A393%E2%80%938."
+            }
+          ]
+        },
+        {
+          "id": 5400042,
+          "page": 499,
+          "en": "Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.",
+          "zh": "開放取用（Open Access） 本章係依 Creative Commons Attribution 4.0 International License（http://creativecommons.org/licenses/by/4.0/）條款授權，只要適當註明原作者與來源、提供指向 Creative Commons 授權條款的連結，並說明是否曾進行修改，即允許在任何媒介或格式中使用、分享、改作、散布及重製。\n除非在材料的來源註記中另有說明，否則本章中的影像或其他第三方材料均包含在本章的 Creative Commons 授權範圍內。若材料未包含在本章的 Creative Commons 授權範圍內，且您的預定用途不為法規所允許或超出允許的使用範圍，您必須直接向著作權人取得許可。",
+          "review": "ai-draft"
+        }
+      ]
+    }
+  ]
+}
